@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-17 10:40+0100\n"
+"POT-Creation-Date: 2008-12-27 11:08+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,9 +42,9 @@ msgid ""
 "honor your changes in the Control Center. All other choices will override "
 "that setting."
 msgstr ""
-"এই অনুপ্ৰয়োগত ব্যৱহাৰ কৰিবলৈ বিচৰা অবিকল্পিত লিপি সম্পাদনৰ অংশ বাচি লওক । <B>"
-"ব্যৱস্থাপ্ৰণালীৰ অবিকল্পিত</B> বাচি ল'লে, অনুপ্ৰয়োগে এই সলনিনসমূহ Control Center টো "
-"কৰিব । সেই পছন্দক অন্য সকলো পছন্দই আওকাণ কৰি যাব ।"
+"এই অনুপ্ৰয়োগত ব্যৱহাৰ কৰিবলৈ বিচৰা অবিকল্পিত লিপি সম্পাদনৰ অংশ বাচি লওক । "
+"<B>ব্যৱস্থাপ্ৰণালীৰ অবিকল্পিত</B> বাচি ল'লে, অনুপ্ৰয়োগে এই সলনিনসমূহ Control Center "
+"টো কৰিব । সেই পছন্দক অন্য সকলো পছন্দই আওকাণ কৰি যাব ।"
 
 #. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:32
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -276,8 +276,8 @@ msgid ""
 "Search interactively for shortcut names (e.g. Copy) or combination of keys "
 "(e.g. Ctrl+C) by typing them here."
 msgstr ""
-"ইয়াত লিখি পাৰস্পৰিকভাবে চমু নাম (e.g. Copy) বা একাধিক চাবিৰ combination (e.g. Ctrl+C) "
-"বিচাৰক ।"
+"ইয়াত লিখি পাৰস্পৰিকভাবে চমু নাম (e.g. Copy) বা একাধিক চাবিৰ combination (e.g. "
+"Ctrl+C) বিচাৰক ।"
 
 #. i18n: file: kdeui/dialogs/kshortcutsdialog.ui:23
 #. i18n: ectx: property (whatsThis), widget (QTreeWidget, list)
@@ -288,9 +288,8 @@ msgid ""
 "Ctrl+V) shown in the right column."
 msgstr ""
 "এই স্থানত, কি-বাইন্ডিং অৰ্থাৎ বাওঁফালৰ স্তম্ভত উল্লেখিত কাৰ্য্যৰ সৈতে (যেনে 'নকল "
-"কৰক') "
-"সোঁফালৰ স্তম্ভত চিহ্নিত সুনিৰ্দিষ্ট চাবি বা কি-সংকলনৰ (যেনে, Ctrl+V) যোগাযোগ পৰিদৰ্শন "
-"কৰা যাব ।"
+"কৰক') সোঁফালৰ স্তম্ভত চিহ্নিত সুনিৰ্দিষ্ট চাবি বা কি-সংকলনৰ (যেনে, Ctrl+V) যোগাযোগ "
+"পৰিদৰ্শন কৰা যাব ।"
 
 #. i18n: file: kdeui/dialogs/kshortcutsdialog.ui:30
 #. i18n: ectx: property (text), widget (QTreeWidget, list)
@@ -414,14 +413,14 @@ msgid ""
 "</qt>"
 msgstr ""
 "<qt><p>বৰ্তমানে ব্যৱহৃত অভিধানত এই শব্দৰ বাবে কোনো তথ্য উপস্থিত নথকাৰ ফলত এইটোক "
-"\"অজ্ঞাত শব্দ\" ৰূপে ধাৰ্য কৰা হৈছে । এই শব্দ কোনো ভিন্ন ভাষাৰ অভিধানতো উপস্থিত থাকিব "
-"পাৰে ।</p>\n"
-"<p>শব্দৰ বানান ভুল নহ'লে, <b>অভিধানত যোগ কৰা হ'ব</b> টিপি শব্দটক অভিধানত অন্তৰ্ভুক্ত "
-"কৰক । অজ্ঞাত শব্দ অভিধানত অন্তৰ্ভুক্ত নকৰিলেও এইটো অপৰিবৰ্তিত ৰাখিলে <b>অগ্ৰাহ্য কৰা "
-"হ'ব</b> বা <b>সমগ্ৰ অগ্ৰাহ্য কৰা হ'ব</b> ।</p>\n"
-"<p>শব্দৰ বানান সঠিক নহ'লে, তলৰ তালিকাৰ পৰা সঠিক বানান নিৰ্ব্বাচন কৰিব পাৰে । যথাযত "
-"বিকল্প অনুপস্থিত থাকিলে, তলত উপস্থিত লিপি বক্সত প্ৰযোজ্য শব্দ লিখি <b>প্ৰতিস্থাপন</b> "
-"বা <b>সকলো প্ৰতিস্থাপন</b> টিপক ।</p>\n"
+"\"অজ্ঞাত শব্দ\" ৰূপে ধাৰ্য কৰা হৈছে । এই শব্দ কোনো ভিন্ন ভাষাৰ অভিধানতো উপস্থিত "
+"থাকিব পাৰে ।</p>\n"
+"<p>শব্দৰ বানান ভুল নহ'লে, <b>অভিধানত যোগ কৰা হ'ব</b> টিপি শব্দটক অভিধানত "
+"অন্তৰ্ভুক্ত কৰক । অজ্ঞাত শব্দ অভিধানত অন্তৰ্ভুক্ত নকৰিলেও এইটো অপৰিবৰ্তিত ৰাখিলে "
+"<b>অগ্ৰাহ্য কৰা হ'ব</b> বা <b>সমগ্ৰ অগ্ৰাহ্য কৰা হ'ব</b> ।</p>\n"
+"<p>শব্দৰ বানান সঠিক নহ'লে, তলৰ তালিকাৰ পৰা সঠিক বানান নিৰ্ব্বাচন কৰিব পাৰে । "
+"যথাযত বিকল্প অনুপস্থিত থাকিলে, তলত উপস্থিত লিপি বক্সত প্ৰযোজ্য শব্দ লিখি "
+"<b>প্ৰতিস্থাপন</b> বা <b>সকলো প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
 
 #. i18n: file: kdeui/sonnet/sonnetui.ui:45
@@ -554,10 +553,10 @@ msgid ""
 msgstr ""
 "<qt>\n"
 "<p>অজ্ঞাত শব্দৰ বানান সঠিক নহ'লে, পৰীক্ষা কৰক সঠিক বানান উপস্থিত আছে নে নাই । "
-"উপস্থিত থাকিলে সেইটো টিপক । তালিকাত প্ৰযোজ্য কোনো শব্দ উপস্থিত নাথাকিলে, "
-"ওপৰত উপস্থিত সম্পাদন বক্সত সঠিক শব্দ লিখা যাব ।</p>\n"
-"<p>এই শব্দ সংশোধন কৰাৰ উদ্দেশ্যে, অকল এবাৰ পৰিবৰ্তনৰ বাবে <b>প্ৰতিস্থাপন</b> "
-"আৰু সৰ্বসংখ্যক উপস্থিতি পৰিবৰ্তনৰ বাবে <b>সমগ্ৰ প্ৰতিস্থাপন</b> টিপক ।</p>\n"
+"উপস্থিত থাকিলে সেইটো টিপক । তালিকাত প্ৰযোজ্য কোনো শব্দ উপস্থিত নাথাকিলে, ওপৰত "
+"উপস্থিত সম্পাদন বক্সত সঠিক শব্দ লিখা যাব ।</p>\n"
+"<p>এই শব্দ সংশোধন কৰাৰ উদ্দেশ্যে, অকল এবাৰ পৰিবৰ্তনৰ বাবে <b>প্ৰতিস্থাপন</b> আৰু "
+"সৰ্বসংখ্যক উপস্থিতি পৰিবৰ্তনৰ বাবে <b>সমগ্ৰ প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
 
 #. i18n: file: kdeui/sonnet/sonnetui.ui:146
@@ -587,8 +586,8 @@ msgid ""
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>অজ্ঞাত শব্দৰ বানান ভুল হ'লে, তালিকাৰ পৰা সঠিক বানান নিৰ্ব্বাচন কৰক বা তলত "
-"লিখক ।</p>\n"
+"<p>অজ্ঞাত শব্দৰ বানান ভুল হ'লে, তালিকাৰ পৰা সঠিক বানান নিৰ্ব্বাচন কৰক বা তলত লিখক "
+"।</p>\n"
 "<p>এই শব্দ সংশোধন কৰাৰ উদ্দেশ্যে, অকল এবাৰ পৰিবৰ্তনৰ বাবে <b>প্ৰতিস্থাপন</b> আৰু "
 "সৰ্বসংখ্যক উপস্থিতি পৰিবৰ্তনৰ বাবে <b>সমগ্ৰ প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
@@ -629,8 +628,8 @@ msgid ""
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>অজ্ঞাত লিপিৰ পৰিবৰ্তে ওপৰত (বাওঁফালে) অৱস্থিত বক্সত লিখা তথ্য প্ৰয়োগ কৰাৰ বাবে এই "
-"স্থানত টিপক ।</p>\n"
+"<p>অজ্ঞাত লিপিৰ পৰিবৰ্তে ওপৰত (বাওঁফালে) অৱস্থিত বক্সত লিখা তথ্য প্ৰয়োগ কৰাৰ বাবে "
+"এই স্থানত টিপক ।</p>\n"
 "</qt>"
 
 #. i18n: file: kdeui/sonnet/sonnetui.ui:212
@@ -954,7 +953,10 @@ msgstr "আলেখ্যন সংক্ৰান্ত তথ্য"
 
 #. i18n: file: khtml/htmlpageinfo.ui:45
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
-#: rc.cpp:414 kross/ui/view.cpp:512
+#: rc.cpp:414
+#, fuzzy
+#| msgid "General"
+msgctxt "@title:group Document information"
 msgid "General"
 msgstr "সাধাৰণ"
 
@@ -1208,7 +1210,8 @@ msgid ""
 "The name of the widget style, for example \"keramik\" or \"plastik\". "
 "Without quotes."
 msgstr ""
-"উইজেট বিন্যাসৰ নাম, উদাহৰণস্বৰূপ \"keramik\" বা \"plastik\" । উদ্ধৃতিচিহ্ন নোহোৱাকৈ ।"
+"উইজেট বিন্যাসৰ নাম, উদাহৰণস্বৰূপ \"keramik\" বা \"plastik\" । উদ্ধৃতিচিহ্ন "
+"নোহোৱাকৈ ।"
 
 #. i18n: file: kutils/kdeglobals.kcfg:30
 #. i18n: ectx: label, entry, group (General)
@@ -1238,8 +1241,8 @@ msgid ""
 "Whenever a terminal application is launched this terminal emulator program "
 "will be used.\n"
 msgstr ""
-"টাৰ্মিনেল অনুপ্ৰয়োগ আৰম্ভ কৰা মাত্ৰ চিহ্নিত টাৰ্মিনেল এমুলেটৰ প্ৰোগ্ৰাম ব্যৱহাৰ "
-"কৰা হ'ব ।\n"
+"টাৰ্মিনেল অনুপ্ৰয়োগ আৰম্ভ কৰা মাত্ৰ চিহ্নিত টাৰ্মিনেল এমুলেটৰ প্ৰোগ্ৰাম ব্যৱহাৰ কৰা হ'ব "
+"।\n"
 
 #. i18n: file: kutils/kdeglobals.kcfg:41
 #. i18n: ectx: label, entry, group (General)
@@ -1254,8 +1257,8 @@ msgid ""
 "This font is used when a fixed font is needed. A fixed font has a constant "
 "width.\n"
 msgstr ""
-"স্থায়ী প্ৰস্থৰ আখৰ প্ৰয়োজনৰ সময়ত এই আখৰ ব্যৱহাৰ কৰা হ'ব । এই ধৰণৰ আখৰ অৰ্থাৎ "
-"ফিক্সড আখৰৰ প্ৰস্থ পৰিবৰ্তন কৰা সম্ভব ন'হ'ব ।\n"
+"স্থায়ী প্ৰস্থৰ আখৰ প্ৰয়োজনৰ সময়ত এই আখৰ ব্যৱহাৰ কৰা হ'ব । এই ধৰণৰ আখৰ অৰ্থাৎ ফিক্সড "
+"আখৰৰ প্ৰস্থ পৰিবৰ্তন কৰা সম্ভব ন'হ'ব ।\n"
 
 #. i18n: file: kutils/kdeglobals.kcfg:46
 #. i18n: ectx: label, entry, group (General)
@@ -1376,8 +1379,8 @@ msgid ""
 "Whether files starting with a dot (convention for hidden files) should be "
 "shown"
 msgstr ""
-"নামৰ আৰম্ভণিত বিন্দু চিহ্নসহ নথিপত্ৰ (লুকুৱা নথিপত্ৰৰ নামৰ ক্ষেত্ৰত প্ৰযোজ্য) "
-"প্ৰদৰ্শন কৰা হ'ব নে নহয় সেইটো নিৰ্দিষ্ট কৰা হয়"
+"নামৰ আৰম্ভণিত বিন্দু চিহ্নসহ নথিপত্ৰ (লুকুৱা নথিপত্ৰৰ নামৰ ক্ষেত্ৰত প্ৰযোজ্য) প্ৰদৰ্শন কৰা "
+"হ'ব নে নহয় সেইটো নিৰ্দিষ্ট কৰা হয়"
 
 #. i18n: file: kutils/kdeglobals.kcfg:405
 #. i18n: ectx: label, entry (Show Speedbar), group (KFileDialog Settings)
@@ -1388,7 +1391,8 @@ msgstr "speedbar প্ৰদৰ্শন কৰা হ'ব"
 #. i18n: file: kutils/kdeglobals.kcfg:406
 #. i18n: ectx: whatsthis, entry (Show Speedbar), group (KFileDialog Settings)
 #: rc.cpp:634
-msgid "Whether the shortcut icons to the left in the file dialog should be shown"
+msgid ""
+"Whether the shortcut icons to the left in the file dialog should be shown"
 msgstr "নথিপত্ৰ সম্বাদতত বাওঁফালৰ অংশত চমু পথ আইকন প্ৰদৰ্শন কৰা হ'ব নে নাই"
 
 #. i18n: file: kutils/kdeglobals.kcfg:425
@@ -1400,7 +1404,8 @@ msgstr "দেশৰ নাম"
 #. i18n: file: kutils/kdeglobals.kcfg:426
 #. i18n: ectx: whatsthis, entry, group (Locale)
 #: rc.cpp:640
-msgid "Used to determine how to display numbers, currency and time/date, for example"
+msgid ""
+"Used to determine how to display numbers, currency and time/date, for example"
 msgstr "সংখ্যা, মুদ্ৰা, সময়/তাৰিখ প্ৰভৃতি প্ৰদৰ্শনৰ বিন্যাস নিৰ্ধাৰণৰ বাবে ব্যৱহৃত"
 
 #. i18n: file: kutils/kdeglobals.kcfg:430
@@ -1437,7 +1442,8 @@ msgstr "স্বয়ংক্ৰিয় কাৰ্য্য প্ৰাৰম�
 #. i18n: ectx: whatsthis, entry, group (Paths)
 #: rc.cpp:658
 msgid "Path to the directory containing executables to be run on session login"
-msgstr "অধিবেশনত প্ৰৱেশ কৰাৰ সময় সঞ্চালনযোগ্য executables থকা ধাৰণকাৰী পঞ্জিকাৰ পাথ"
+msgstr ""
+"অধিবেশনত প্ৰৱেশ কৰাৰ সময় সঞ্চালনযোগ্য executables থকা ধাৰণকাৰী পঞ্জিকাৰ পাথ"
 
 #. i18n: file: kutils/kdeglobals.kcfg:448
 #. i18n: ectx: label, entry, group (Paths)
@@ -1713,15 +1719,15 @@ msgid ""
 "All</b>.</p>\n"
 "</qt>"
 msgstr ""
-"<qt><p>বৰ্তমানে ব্যৱহৃত অভিধানত এই শব্দৰ বাব কোনো তথ্য উপস্থিত নথকাৰ "
-"ফল ইয়াক \"অজ্ঞাত শব্দ\" ৰূপে ধাৰ্য কৰা হৈছে । এই শব্দ কোনো ভিন্ন ভাষাতো"
-"উপস্থিত থাকিব পাৰে ।</p>\n"
-"<p>শব্দৰ বানান ভুল নহ'লে, <b>অভিধানত যোগ কৰা হ'ব</b> টিপি শব্দক "
-"অভিধানত অন্তৰ্ভুক্ত কৰক । অজ্ঞাত শব্দ অভিধানত অন্তৰ্ভুক্ত নকৰি এইটো "
-"অপৰিবৰ্তিত ৰাখিলে <b>অগ্ৰাহ্য কৰা হ'ব</b> বা <b>সমগ্ৰ অগ্ৰাহ্য কৰা হ'ব</b> ।</p>\n"
-"<p>শব্দৰ বানান সঠিক নহ'লে, তলৰ তালিকাৰ পৰা সঠিক বানান নিৰ্ব্বাচন কৰিবলৈ "
-"পাৰিব । যথাযত বিকল্প অনুপস্থিত থাকিলে, তলত উপস্থিত লিপি বক্সত  প্ৰযোজ্য "
-"শব্দ লিখি <b>প্ৰতিস্থাপন</b> বা <b>সকলো প্ৰতিস্থাপন</b> টিপক ।</p>\n"
+"<qt><p>বৰ্তমানে ব্যৱহৃত অভিধানত এই শব্দৰ বাব কোনো তথ্য উপস্থিত নথকাৰ ফল ইয়াক "
+"\"অজ্ঞাত শব্দ\" ৰূপে ধাৰ্য কৰা হৈছে । এই শব্দ কোনো ভিন্ন ভাষাতোউপস্থিত থাকিব পাৰে "
+"।</p>\n"
+"<p>শব্দৰ বানান ভুল নহ'লে, <b>অভিধানত যোগ কৰা হ'ব</b> টিপি শব্দক অভিধানত অন্তৰ্ভুক্ত "
+"কৰক । অজ্ঞাত শব্দ অভিধানত অন্তৰ্ভুক্ত নকৰি এইটো অপৰিবৰ্তিত ৰাখিলে <b>অগ্ৰাহ্য কৰা "
+"হ'ব</b> বা <b>সমগ্ৰ অগ্ৰাহ্য কৰা হ'ব</b> ।</p>\n"
+"<p>শব্দৰ বানান সঠিক নহ'লে, তলৰ তালিকাৰ পৰা সঠিক বানান নিৰ্ব্বাচন কৰিবলৈ পাৰিব । "
+"যথাযত বিকল্প অনুপস্থিত থাকিলে, তলত উপস্থিত লিপি বক্সত  প্ৰযোজ্য শব্দ লিখি "
+"<b>প্ৰতিস্থাপন</b> বা <b>সকলো প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
 
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:16
@@ -1746,7 +1752,8 @@ msgstr ""
 msgid ""
 "Check to see logging information about thread activity. Watch the console "
 "output to see the log information."
-msgstr "থ্ৰেডৰ কাৰ্য্যৰ তথ্য চাবলৈ লগৰ তথ্য চাওক । এই তথ্য চাবলৈ ক'ন্সোলী নিৰ্গম চাওক ।"
+msgstr ""
+"থ্ৰেডৰ কাৰ্য্যৰ তথ্য চাবলৈ লগৰ তথ্য চাওক । এই তথ্য চাবলৈ ক'ন্সোলী নিৰ্গম চাওক ।"
 
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:42
 #. i18n: ectx: property (text), widget (QCheckBox, cbLog)
@@ -1885,12 +1892,12 @@ msgstr "KDE ক hostname পৰিবৰ্তন সম্পৰ্কে স�
 msgid "(c) 2001 Waldo Bastian"
 msgstr "(c) 2001 Waldo Bastian"
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:646 khtml/khtml_global.cpp:212
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:645 khtml/khtml_global.cpp:212
 #: kconf_update/kconf_update.cpp:963
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:645 kded/kbuildsycoca.cpp:646
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:644 kded/kbuildsycoca.cpp:645
 #: kross/qts/main.cpp:63 kross/test/main.cpp:149 kross/console/main.cpp:102
 #: kde3support/kdeui/k3aboutdialog.cpp:184
 msgid "Author"
@@ -1916,7 +1923,7 @@ msgstr "KDE Daemon - প্ৰয়োজন অনুসাৰে Sycoca তথ�
 msgid "Check Sycoca database only once"
 msgstr "Sycoca তথ্যভঁৰাল অকল এবাৰ পৰীক্ষা কৰা হ'ব"
 
-#: kded/kbuildsycoca.cpp:416
+#: kded/kbuildsycoca.cpp:415
 #, kde-format
 msgid ""
 "Error creating database '%1'.\n"
@@ -1926,12 +1933,12 @@ msgstr ""
 "তথ্যভঁৰাল '%1' নিৰ্মাণত সমস্যা ।\n"
 "পঞ্জিকা ব্যৱহাৰৰ অনুমতি আৰু ডিস্কত অৱশিষ্ট স্থান উপস্থিত আছে নে নাই পৰীক্ষা কৰক ।\n"
 
-#: kded/kbuildsycoca.cpp:416 kded/kbuildsycoca.cpp:447
-#: kded/kbuildsycoca.cpp:642
+#: kded/kbuildsycoca.cpp:415 kded/kbuildsycoca.cpp:446
+#: kded/kbuildsycoca.cpp:641
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
-#: kded/kbuildsycoca.cpp:447
+#: kded/kbuildsycoca.cpp:446
 #, kde-format
 msgid ""
 "Error writing database '%1'.\n"
@@ -1941,77 +1948,77 @@ msgstr ""
 "তথ্যভঁৰাল '%1' লৈ লিখোঁতে সমস্য ।\n"
 "পঞ্জিকা ব্যৱহাৰৰ অনুমতি আৰু ডিস্কত অৱশিষ্ট স্থান উপস্থিত আছে নে নাই পৰীক্ষা কৰক ।\n"
 
-#: kded/kbuildsycoca.cpp:643
+#: kded/kbuildsycoca.cpp:642
 msgid "Rebuilds the system configuration cache."
 msgstr "ব্যৱস্থাপ্ৰণালী বিন্যাস সংক্ৰান্ত কেশে পুনঃ নিৰ্মাণ কৰিবলৈ ব্যৱহৃত হয় ।"
 
-#: kded/kbuildsycoca.cpp:644
+#: kded/kbuildsycoca.cpp:643
 msgid "(c) 1999-2002 KDE Developers"
 msgstr "(c) 1999-2002 KDE Developers"
 
-#: kded/kbuildsycoca.cpp:645
+#: kded/kbuildsycoca.cpp:644
 msgid "David Faure"
 msgstr "David Faure"
 
-#: kded/kbuildsycoca.cpp:649
+#: kded/kbuildsycoca.cpp:648
 msgid "Do not signal applications to update"
 msgstr "উন্নয়ন কৰাৰ বাবে অনুপ্ৰয়োগসমূহক কোনো সঙ্কেত জনোৱা ন'হ'ব"
 
-#: kded/kbuildsycoca.cpp:650
+#: kded/kbuildsycoca.cpp:649
 msgid "Disable incremental update, re-read everything"
 msgstr "ক্ৰমবৰ্ধমান উন্নয়ন ব্যৱস্থা নিষ্ক্ৰিয় কৰা হ'ব, সৰ্বধৰণৰ তথ্য পুনঃ পাঠ কৰা হ'ব"
 
-#: kded/kbuildsycoca.cpp:651
+#: kded/kbuildsycoca.cpp:650
 msgid "Check file timestamps"
 msgstr "নথিপত্ৰত উপস্থিত সময়চিহ্ন পৰীক্ষা কৰক"
 
-#: kded/kbuildsycoca.cpp:652
+#: kded/kbuildsycoca.cpp:651
 msgid "Disable checking files (dangerous)"
 msgstr "নথিপত্ৰ পৰীক্ষণ নিষ্ক্ৰিয় কৰক (বিপজ্জনক)"
 
-#: kded/kbuildsycoca.cpp:653
+#: kded/kbuildsycoca.cpp:652
 msgid "Create global database"
 msgstr "সৰ্বব্যাপী তথ্যভঁৰাল নিৰ্মাণ কৰা হ'ব"
 
-#: kded/kbuildsycoca.cpp:654
+#: kded/kbuildsycoca.cpp:653
 msgid "Perform menu generation test run only"
 msgstr "অকল পৰীক্ষামূলকভাবে তালিকা নিৰ্মাণ কৰা হ'ব"
 
-#: kded/kbuildsycoca.cpp:655
+#: kded/kbuildsycoca.cpp:654
 msgid "Track menu id for debug purposes"
 msgstr "ডিবাগ কৰাৰ উদ্দেশ্যে তালিকা id নিৰীক্ষণ কৰা হ'ব"
 
-#: kded/kbuildsycoca.cpp:657
+#: kded/kbuildsycoca.cpp:656
 msgid "Silent - work without windows and stderr"
 msgstr "নিঃশব্দ (silent) - সংযোগক্ষেত্ৰ আৰু stderr নোহোৱাকে কাৰ্য্য সঞ্চালন"
 
-#: kded/kbuildsycoca.cpp:658
+#: kded/kbuildsycoca.cpp:657
 msgid "Show progress information (even if 'silent' mode is on)"
 msgstr ""
 "কাৰ্য্যৰ প্ৰগতি সম্পৰ্কে তথ্য প্ৰদৰ্শন কৰা হ'ব ('নিঃশব্দ (silent)' মোডত সক্ৰিয় হ'লেও)"
 
-#: kded/kbuildsycoca.cpp:683
+#: kded/kbuildsycoca.cpp:682
 msgid "Reloading KDE configuration, please wait..."
 msgstr "KDE সংক্ৰান্ত বিন্যাস পুনঃ তুলি লোৱা হৈছে, অনুগ্ৰহ কৰি প্ৰতীক্ষা কৰক..."
 
-#: kded/kbuildsycoca.cpp:684
+#: kded/kbuildsycoca.cpp:683
 msgid "KDE Configuration Manager"
 msgstr "KDE Configuration Manager"
 
-#: kded/kbuildsycoca.cpp:686
+#: kded/kbuildsycoca.cpp:685
 msgid "Do you want to reload KDE configuration?"
 msgstr "KDE বিন্যাস পুনঃ তুলি লোৱা হ'ব নেকি ?"
 
-#: kded/kbuildsycoca.cpp:686
+#: kded/kbuildsycoca.cpp:685
 msgctxt "Reload KDE configuration messagebox"
 msgid "Reload"
 msgstr "পুনঃ তোলক"
 
-#: kded/kbuildsycoca.cpp:686
+#: kded/kbuildsycoca.cpp:685
 msgid "Do Not Reload"
 msgstr "পুনঃ তুলি লোৱা ন'হ'ব"
 
-#: kded/kbuildsycoca.cpp:862
+#: kded/kbuildsycoca.cpp:861
 msgid "Configuration information reloaded successfully."
 msgstr "বিন্যাস সম্পৰ্কিত তথ্য সফলতাৰে পুনঃ তুলি লোৱা হৈছে ।"
 
@@ -3199,7 +3206,8 @@ msgid ""
 "The service provides no library, the Library key is missing in the .desktop "
 "file."
 msgstr ""
-"সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা ন'হ'ব, .desktop নথিপত্ৰত Library চাবি অনুপস্থিত"
+"সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা ন'হ'ব, .desktop নথিপত্ৰত Library চাবি "
+"অনুপস্থিত"
 
 #: kdecore/util/klibloader.cpp:152
 msgid "The library does not export a factory for creating components."
@@ -3220,8 +3228,8 @@ msgid ""
 "The service '%1' provides no library or the Library key is missing in the ."
 "desktop file."
 msgstr ""
-"'%1' সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা নহয় বা .desktop নথিপত্ৰত "
-"Library চাবি অনুপস্থিত ।"
+"'%1' সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা নহয় বা .desktop নথিপত্ৰত Library চাবি "
+"অনুপস্থিত ।"
 
 #: kdecore/util/kpluginloader.cpp:163
 #, kde-format
@@ -3570,8 +3578,7 @@ msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format"
 msgstr ""
-"মূল উইজেটৰ গ্ৰাহক জ্যামিতি নিৰ্ধাৰণ কৰা হয় - তৰ্কৰ বিন্যাস জনাৰ বাবে man "
-"X চাওক"
+"মূল উইজেটৰ গ্ৰাহক জ্যামিতি নিৰ্ধাৰণ কৰা হয় - তৰ্কৰ বিন্যাস জনাৰ বাবে man X চাওক"
 
 #: kdecore/kernel/kcmdlineargs.cpp:433
 msgid "KDE Application"
@@ -3765,8 +3772,8 @@ msgid ""
 "licensing terms.\n"
 msgstr ""
 "এই প্ৰোগ্ৰামৰ বাবে কোনো প্ৰমাণপত্ৰ নিৰ্ধাৰণ কৰা নহয় ।\n"
-"অনুগ্ৰহ কৰি, প্ৰমাণপত্ৰ সংক্ৰান্ত কোনো তথ্যৰ বাবে প্ৰোগ্ৰামৰ সৈতে প্ৰাপ্ত নথিপত্ৰ "
-"বা মূল উৎস পৰীক্ষা কৰক ।\n"
+"অনুগ্ৰহ কৰি, প্ৰমাণপত্ৰ সংক্ৰান্ত কোনো তথ্যৰ বাবে প্ৰোগ্ৰামৰ সৈতে প্ৰাপ্ত নথিপত্ৰ বা মূল "
+"উৎস পৰীক্ষা কৰক ।\n"
 
 #: kdecore/kernel/kaboutdata.cpp:263
 #, kde-format
@@ -3861,8 +3868,8 @@ msgid ""
 "internationalization visit <a href=\"http://l10n.kde.org\">http://l10n.kde."
 "org</a></p>"
 msgstr ""
-"<p>বিশ্বব্যাপী বিভিন্ন অনুবাদক দলৰ অৱিৰত প্ৰয়াসত বিশ্বৰ বিভিন্ন ভাষাত KDE অনুবাদ "
-"কৰা হৈছে ।</p><p>KDE ৰ আন্তৰ্জাতীয়কৰণৰ সম্বন্ধে অধিক জনাৰ বাবে <a href=\"http://l10n."
+"<p>বিশ্বব্যাপী বিভিন্ন অনুবাদক দলৰ অৱিৰত প্ৰয়াসত বিশ্বৰ বিভিন্ন ভাষাত KDE অনুবাদ কৰা "
+"হৈছে ।</p><p>KDE ৰ আন্তৰ্জাতীয়কৰণৰ সম্বন্ধে অধিক জনাৰ বাবে <a href=\"http://l10n."
 "kde.org\">http://l10n.kde.org</a></p> চাওক ।"
 
 #: kdecore/kernel/ktoolinvocation.cpp:80
@@ -4067,9 +4074,9 @@ msgid ""
 "No mime types installed. Check that shared-mime-info is installed, and that "
 "XDG_DATA_DIRS is not set, or includes /usr/share."
 msgstr ""
-"কোনো মাইম টাইপ সংস্থাপন কৰা নহয় । অনুগ্ৰহ কৰি পৰীক্ষা কৰক shared-mime-info সংস্থাপন "
-"কৰা হৈছে নে নাই, XDG_DATA_DIRS ৰ মান নিৰ্ধাৰিত নহয়, বা /usr/share অন্তৰ্ভুক্ত কৰা নহয় "
-"।"
+"কোনো মাইম টাইপ সংস্থাপন কৰা নহয় । অনুগ্ৰহ কৰি পৰীক্ষা কৰক shared-mime-info "
+"সংস্থাপন কৰা হৈছে নে নাই, XDG_DATA_DIRS ৰ মান নিৰ্ধাৰিত নহয়, বা /usr/share "
+"অন্তৰ্ভুক্ত কৰা নহয় ।"
 
 #: kdecore/localization/kencodingprober.cpp:235
 #: kdecore/localization/kencodingprober.cpp:272
@@ -5372,9 +5379,9 @@ msgid ""
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
 "not be possible.</qt>"
 msgstr ""
-"<qt><i>gpg</i> আৰম্ভ কৰি উপলব্ধ চাবিসমূহ প্ৰাপ্ত কৰিবলৈ ব্যৰ্থ । অনুগ্ৰহ কৰি <i>gpg<"
-"/i> সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, ডাউন্‌লোড কৰা সামগ্ৰী পৰীক্ষা কৰা "
-"সম্ভব ন'হ'ব ।</qt>"
+"<qt><i>gpg</i> আৰম্ভ কৰি উপলব্ধ চাবিসমূহ প্ৰাপ্ত কৰিবলৈ ব্যৰ্থ । অনুগ্ৰহ কৰি <i>gpg</"
+"i> সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, ডাউন্‌লোড কৰা সামগ্ৰী পৰীক্ষা "
+"কৰা সম্ভব ন'হ'ব ।</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:198
 #, kde-format
@@ -5382,7 +5389,8 @@ msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
 "i><br />:</qt>"
 msgstr ""
-"<qt><b>0x%1</b> চাবিৰ গুপ্তশব্দ লিখক, যি <br /><i>%2&lt;%3&gt;</i><br /> ৰ অংশ:</qt>"
+"<qt><b>0x%1</b> চাবিৰ গুপ্তশব্দ লিখক, যি <br /><i>%2&lt;%3&gt;</i><br /> ৰ অংশ:"
+"</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:277
 msgid ""
@@ -5390,9 +5398,9 @@ msgid ""
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
 "will not be possible.</qt>"
 msgstr ""
-"<qt>নথিপত্ৰৰ বৈধতা পৰীক্ষা কৰাৰ বাবে <i>gpg</i> আৰম্ভ কৰিবলৈ ব্যৰ্থ । অনুগ্ৰহ কৰি <i>"
-"gpg</i> সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক, ন'হ'লে ডাউন্‌লোড কৰা সামগ্ৰীৰ যথাৰ্ততা "
-"পৰীক্ষা কৰা নাযাব ।</qt>"
+"<qt>নথিপত্ৰৰ বৈধতা পৰীক্ষা কৰাৰ বাবে <i>gpg</i> আৰম্ভ কৰিবলৈ ব্যৰ্থ । অনুগ্ৰহ কৰি "
+"<i>gpg</i> সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক, ন'হ'লে ডাউন্‌লোড কৰা সামগ্ৰীৰ "
+"যথাৰ্ততা পৰীক্ষা কৰা নাযাব ।</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:332
 msgid "Select Signing Key"
@@ -5408,7 +5416,8 @@ msgid ""
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 "<qt>নথিপত্ৰ স্বাক্ষৰ কৰাৰ বাবে <i>gpg</i> আৰম্ভ কৰা নাযায় । অনুগ্ৰহ কৰি <i>gpg</i> "
-"সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</qt>"
+"সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</"
+"qt>"
 
 #: dnssd/servicemodel.cpp:102
 msgid "Host"
@@ -5597,7 +5606,8 @@ msgid "Discard changes"
 msgstr "পৰিবৰ্তন বৰ্জন কৰা হ'ব"
 
 #: kdeui/util/kstandardguiitem.cpp:127
-msgid "Pressing this button will discard all recent changes made in this dialog"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog"
 msgstr "এই বুটাম টিপা হ'লে, বৰ্তমান সম্বাদ কৰা সকলো পৰিবৰ্তনসমূহ বৰ্জন কৰা হ'ব"
 
 #: kdeui/util/kstandardguiitem.cpp:133 kdeui/actions/kstandardaction_p.h:46
@@ -5656,8 +5666,8 @@ msgid ""
 "administrator (root) password in order to make changes which require root "
 "privileges."
 msgstr ""
-"<b>প্ৰশাসনিক মোড</b> টিপিলে প্ৰশাসনিক অধিকাৰেৰেকোনো ধৰণৰ পৰিবৰ্তন কৰিবলৈ প্ৰশাসনিক "
-"(root) গুপ্তশব্দ লিখাৰ অনুৰোধ জনোৱা হ'ব ।"
+"<b>প্ৰশাসনিক মোড</b> টিপিলে প্ৰশাসনিক অধিকাৰেৰেকোনো ধৰণৰ পৰিবৰ্তন কৰিবলৈ "
+"প্ৰশাসনিক (root) গুপ্তশব্দ লিখাৰ অনুৰোধ জনোৱা হ'ব ।"
 
 #: kdeui/util/kstandardguiitem.cpp:168
 msgid "Clear input"
@@ -6261,7 +6271,8 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1047
-msgid "This element will be replaced with all the elements of an embedded component."
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
 #: kdeui/dialogs/kedittoolbar.cpp:1049
@@ -6309,9 +6320,9 @@ msgstr ""
 #: kdeui/dialogs/kshortcutseditor.cpp:513
 #: kdeui/dialogs/kshortcutseditor.cpp:529 kdeui/shortcuts/kglobalaccel.cpp:423
 #: kdeui/shortcuts/kglobalaccel.cpp:462
-#: kdeui/widgets/kkeysequencewidget.cpp:174
-#: kdeui/widgets/kkeysequencewidget.cpp:256
-#: kdeui/widgets/kkeysequencewidget.cpp:634
+#: kdeui/widgets/kkeysequencewidget.cpp:179
+#: kdeui/widgets/kkeysequencewidget.cpp:261
+#: kdeui/widgets/kkeysequencewidget.cpp:639
 msgid "Reassign"
 msgstr "পুনঃ নিৰ্ধাৰণ"
 
@@ -6382,8 +6393,8 @@ msgid ""
 "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report "
 "bugs.\n"
 msgstr ""
-"বাগ প্ৰতিবেদন কৰাৰ বাবে <a href=\"http://bugs.kde.org\">http://bugs.kde."
-"org</a> ব্যৱহাৰ কৰক ।\n"
+"বাগ প্ৰতিবেদন কৰাৰ বাবে <a href=\"http://bugs.kde.org\">http://bugs.kde.org</"
+"a> ব্যৱহাৰ কৰক ।\n"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:156
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:161
@@ -6456,7 +6467,8 @@ msgid "Submit Bug Report"
 msgstr "বাগ প্ৰতিবেদন জমা কৰক"
 
 #: kdeui/dialogs/kbugreport.cpp:129
-msgid "Your email address. If incorrect, use the Configure Email button to change it"
+msgid ""
+"Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "আপোনাৰ ঈ-মেইল ঠিকনা । ভুল হ'লে 'ঈ-মেইল বিন্যাস কৰক' বুটাম টিপি সেইটো পৰিবৰ্তন কৰক"
 
@@ -6494,8 +6506,8 @@ msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
 "please use the Report Bug menu item of the correct application"
 msgstr ""
-"যি অনুপ্ৰয়োগৰ বাবে বাগ প্ৰতিবেদন কৰা হৈছে - সঠিক নহ'লে, অনুগ্ৰহ কৰি 'বাগ "
-"প্ৰতিবেদন কৰক' শীৰ্ষক তালিকাৰ পৰা যথাযত অনুপ্ৰয়োগ নিৰ্ব্বাচন কৰক"
+"যি অনুপ্ৰয়োগৰ বাবে বাগ প্ৰতিবেদন কৰা হৈছে - সঠিক নহ'লে, অনুগ্ৰহ কৰি 'বাগ প্ৰতিবেদন "
+"কৰক' শীৰ্ষক তালিকাৰ পৰা যথাযত অনুপ্ৰয়োগ নিৰ্ব্বাচন কৰক"
 
 #: kdeui/dialogs/kbugreport.cpp:167
 msgid "Application: "
@@ -6565,9 +6577,9 @@ msgid ""
 "where you will find a form to fill in. The information displayed above will "
 "be transferred to that server.</qt>"
 msgstr ""
-"<qt>বাগ প্ৰতিবেদন কৰাৰ বাবে নিম্নলিখিত বুটাম টিপক । ইয়াৰ ফলত <a href="
-"\"http://bugs.kde.org\">http://bugs.kde.org</a> প্ৰদৰ্শনকাৰী এটা ৱেব চৰক "
-"সংযোগক্ষেত্ৰ খোলা হ'ব । উপৰোক্ত তথ্যসমূহ সংশ্লিষ্ট সেৱকলৈ প্ৰেৰিত হ'ব ।</qt>"
+"<qt>বাগ প্ৰতিবেদন কৰাৰ বাবে নিম্নলিখিত বুটাম টিপক । ইয়াৰ ফলত <a href=\"http://"
+"bugs.kde.org\">http://bugs.kde.org</a> প্ৰদৰ্শনকাৰী এটা ৱেব চৰক সংযোগক্ষেত্ৰ "
+"খোলা হ'ব । উপৰোক্ত তথ্যসমূহ সংশ্লিষ্ট সেৱকলৈ প্ৰেৰিত হ'ব ।</qt>"
 
 #: kdeui/dialogs/kbugreport.cpp:295
 msgid "&Launch Bug Report Wizard"
@@ -6638,7 +6650,7 @@ msgstr "অবিকল্পিত মান:"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:56
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
-#: kdeui/widgets/kkeysequencewidget.cpp:668
+#: kdeui/widgets/kkeysequencewidget.cpp:673
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "শূণ্য"
@@ -6757,8 +6769,8 @@ msgid ""
 "The language for this application has been changed. The change will take "
 "effect the next time the application is started."
 msgstr ""
-"চিহ্নিত অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰা হৈছে । অনুপ্ৰয়োগ পুনৰাৰম্ভ কৰা হ'লে এই "
-"পৰিবৰ্তন প্ৰয়োগ কৰা হ'ব ।"
+"চিহ্নিত অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰা হৈছে । অনুপ্ৰয়োগ পুনৰাৰম্ভ কৰা হ'লে এই পৰিবৰ্তন "
+"প্ৰয়োগ কৰা হ'ব ।"
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:228
 msgid "Application Language Changed"
@@ -6777,15 +6789,16 @@ msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
 msgstr ""
-"এই অনুপ্ৰয়োগৰ বাবে অন্যান্য কোনো ভাষা ব্যৱহাৰ কৰাৰ আগতে চিহ্নিত ভাষা প্ৰয়োগ কৰা হ'ব ।"
+"এই অনুপ্ৰয়োগৰ বাবে অন্যান্য কোনো ভাষা ব্যৱহাৰ কৰাৰ আগতে চিহ্নিত ভাষা প্ৰয়োগ কৰা হ'ব "
+"।"
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:313
 msgid ""
 "This is the language which will be used if any previous languages do not "
 "contain a proper translation."
 msgstr ""
-"এই অনুপ্ৰয়োগৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে, বিকল্প ৰূপে "
-"এই ভাষা ব্যৱহাৰ কৰা হ'ব ।"
+"এই অনুপ্ৰয়োগৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে, বিকল্প ৰূপে এই "
+"ভাষা ব্যৱহাৰ কৰা হ'ব ।"
 
 #: kdeui/dialogs/kpassworddialog.cpp:70
 msgid "Password"
@@ -6825,8 +6838,8 @@ msgid ""
 "This is a preview of the selected font. You can change it by clicking the "
 "\"Choose...\" button."
 msgstr ""
-"নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক "
-"কৰি এইটো পৰিবৰ্তন কৰা যাব ।"
+"নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
+"এইটো পৰিবৰ্তন কৰা যাব ।"
 
 #: kdeui/fonts/kfontrequester.cpp:223
 #, kde-format
@@ -6839,8 +6852,8 @@ msgid ""
 "This is a preview of the \"%1\" font. You can change it by clicking the "
 "\"Choose...\" button."
 msgstr ""
-"\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো "
-"পৰিবৰ্তন কৰা যাব ।"
+"\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো পৰিবৰ্তন "
+"কৰা যাব ।"
 
 #: kdeui/fonts/kfontdialog.cpp:75
 msgid "Select Font"
@@ -6883,8 +6896,7 @@ msgstr "আখৰৰ বিন্যাস"
 #: kdeui/fonts/kfontchooser.cpp:220
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font style settings."
-msgstr ""
-"আখৰৰ বিন্যাস সংক্ৰান্ত বৈশিষ্ট্য পৰিবৰ্তনৰ উদ্দেশ্যে এই চেকবক্স নিৰ্ব্বাচন কৰক ।"
+msgstr "আখৰৰ বিন্যাস সংক্ৰান্ত বৈশিষ্ট্য পৰিবৰ্তনৰ উদ্দেশ্যে এই চেকবক্স নিৰ্ব্বাচন কৰক ।"
 
 #: kdeui/fonts/kfontchooser.cpp:221
 msgctxt "@info:tooltip"
@@ -6957,7 +6969,8 @@ msgstr "আপেক্ষিক"
 
 #: kdeui/fonts/kfontchooser.cpp:317
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
-msgstr "পৰিবেশৰ সৈতে সুসংগত <br /><i>সুনিৰ্দিষ্ট</i> বা <i>আপেক্ষিক</i><br />আখৰৰ মাপ"
+msgstr ""
+"পৰিবেশৰ সৈতে সুসংগত <br /><i>সুনিৰ্দিষ্ট</i> বা <i>আপেক্ষিক</i><br />আখৰৰ মাপ"
 
 #: kdeui/fonts/kfontchooser.cpp:319
 msgid ""
@@ -7138,10 +7151,10 @@ msgid ""
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:218
-msgid "Enter a pattern to search for, or select a previous pattern from the list."
+msgid ""
+"Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
-"বিচাৰিবলৈ এটা শব্দ/পংক্তি লিখক, বা আগতে উল্লেখিত তালিকাৰ পৰা এটা "
-"নিৰ্ব্বাচন কৰক ।"
+"বিচাৰিবলৈ এটা শব্দ/পংক্তি লিখক, বা আগতে উল্লেখিত তালিকাৰ পৰা এটা নিৰ্ব্বাচন কৰক ।"
 
 #: kdeui/findreplace/kfinddialog.cpp:221
 msgid "If enabled, search for a regular expression."
@@ -7177,8 +7190,7 @@ msgstr "মিল পোৱাৰ বাবে শব্দৰ আৰম্ভ �
 #: kdeui/findreplace/kfinddialog.cpp:238
 msgid "Start searching at the current cursor location rather than at the top."
 msgstr ""
-"প্ৰাৰম্ভিক স্থানৰ পৰা অনুসন্ধান আৰম্ভ নকৰি বৰ্তমান কাৰ্ছাৰ অৱস্থাৰ পৰা অনুসন্ধান "
-"আৰম্ভ "
+"প্ৰাৰম্ভিক স্থানৰ পৰা অনুসন্ধান আৰম্ভ নকৰি বৰ্তমান কাৰ্ছাৰ অৱস্থাৰ পৰা অনুসন্ধান আৰম্ভ "
 "কৰা হ'ব ।"
 
 #: kdeui/findreplace/kfinddialog.cpp:240
@@ -7273,7 +7285,10 @@ msgid "Replace"
 msgstr "প্ৰতিস্থাপন"
 
 #: kdeui/findreplace/kreplace.cpp:51
-msgctxt "@action:button Replace all occurences"
+#, fuzzy
+#| msgctxt "@action:button Replace all occurences"
+#| msgid "&All"
+msgctxt "@action:button Replace all occurrences"
 msgid "&All"
 msgstr "সকলো (&A)"
 
@@ -7311,8 +7326,7 @@ msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যন�
 
 #: kdeui/findreplace/kreplace.cpp:349
 msgid "Do you want to restart search at the beginning?"
-msgstr ""
-"আপুনি নিশ্চিতৰূপে আলেখ্যনৰ প্ৰাৰম্ভিক স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
+msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যনৰ প্ৰাৰম্ভিক স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
 
 #: kdeui/findreplace/kreplace.cpp:352
 msgctxt "@action:button Restart find & replace"
@@ -9300,30 +9314,30 @@ msgstr "অজ্ঞাত"
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:161
+#: kdeui/widgets/kkeysequencewidget.cpp:166
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:168
+#: kdeui/widgets/kkeysequencewidget.cpp:173
 #, kde-format
 msgid "The shortcut '%1' conflicts with the following key combinations:\n"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:172
+#: kdeui/widgets/kkeysequencewidget.cpp:177
 msgid "Conflict With Registered Global Shortcut(s)"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:241
+#: kdeui/widgets/kkeysequencewidget.cpp:246
 msgid "Shortcut Conflict(s)"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:245
+#: kdeui/widgets/kkeysequencewidget.cpp:250
 #, kde-format
 msgid "Shortcut(s) '%1' for action '%2'\n"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:250
+#: kdeui/widgets/kkeysequencewidget.cpp:255
 #, kde-format
 msgid ""
 "The \"%1\" shortcut is ambiguous with the following shortcuts.\n"
@@ -9331,22 +9345,22 @@ msgid ""
 "%2"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:264
+#: kdeui/widgets/kkeysequencewidget.cpp:269
 msgid "Shortcut conflict"
 msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:265
+#: kdeui/widgets/kkeysequencewidget.cpp:270
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
 "<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:628
+#: kdeui/widgets/kkeysequencewidget.cpp:633
 msgid "Conflict with Standard Application Shortcut"
 msgstr "অনুপ্ৰয়োগৰ মানপ্ৰাপ্ত চমু পথৰ সৈতে দ্বন্দ্ব"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:629
+#: kdeui/widgets/kkeysequencewidget.cpp:634
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -9354,16 +9368,16 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:661
+#: kdeui/widgets/kkeysequencewidget.cpp:666
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "নিবেশ"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:711
+#: kdeui/widgets/kkeysequencewidget.cpp:716
 msgid "The key you just pressed isn't supported by Qt."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:712
+#: kdeui/widgets/kkeysequencewidget.cpp:717
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
 
@@ -9821,7 +9835,8 @@ msgstr "URL উল্লেখ কৰক:"
 
 #: khtml/khtml_ext.cpp:928
 #, kde-format
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "\"%1\" নামক এটা নথিপত্ৰ বৰ্তমানে উপস্থিত আছে । আপুনি নিশ্চিতৰূপে সেইটো আঁতৰাবলৈ "
 "ইচ্ছুক ?"
@@ -10403,8 +10418,8 @@ msgid ""
 "other applications may become less responsive.\n"
 "Do you want to abort the script?"
 msgstr ""
-"এই পৃষ্ঠাত উপস্থিত এটা স্ক্ৰিপ্টৰ ফলত KHTML বন্ধ হৈছে । স্ক্ৰিপ্ট চলি থাকিলে, "
-"অন্যান্য অনুপ্ৰয়োগো প্ৰভাবিত হ'ব পাৰে ।\n"
+"এই পৃষ্ঠাত উপস্থিত এটা স্ক্ৰিপ্টৰ ফলত KHTML বন্ধ হৈছে । স্ক্ৰিপ্ট চলি থাকিলে, অন্যান্য "
+"অনুপ্ৰয়োগো প্ৰভাবিত হ'ব পাৰে ।\n"
 "এই স্ক্ৰিপ্ট পৰিত্যাগ কৰা হ'ব নেকি ?"
 
 #: khtml/ecma/kjs_binding.cpp:184
@@ -10844,8 +10859,8 @@ msgid ""
 "maximum number of open files that you are allowed to use has been reached."
 msgstr ""
 "নতুন প্ৰক্ৰিয়া আৰম্ভ কৰিবলৈ ব্যৰ্থ ।\n"
-"সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা "
-"আপোনাৰ ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
+"সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা আপোনাৰ "
+"ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
 
 #: kinit/kinit.cpp:503
 msgid ""
@@ -10854,8 +10869,7 @@ msgid ""
 "maximum number of processes that you are allowed to use has been reached."
 msgstr ""
 "নতুন প্ৰক্ৰিয়া নিৰ্মাণ কৰিবলৈ ব্যৰ্থ ।\n"
-"সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ "
-"অনুমোদিত "
+"সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
 
 #: kinit/kinit.cpp:602
@@ -10966,6 +10980,13 @@ msgstr "নিৰ্বাচিত স্ক্ৰিপ্ট আঁতৰা�
 #: kross/ui/view.cpp:505
 msgid "Edit"
 msgstr "সম্পাদনা"
+
+#: kross/ui/view.cpp:512
+#, fuzzy
+#| msgid "General"
+msgctxt "@title:group Script properties"
+msgid "General"
+msgstr "সাধাৰণ"
 
 #: kross/qts/main.cpp:57 kross/console/main.cpp:94
 msgid "Kross"
@@ -11281,7 +11302,8 @@ msgid ""
 "<qt>The diagnostics is:<br />The desktop file %1 does not specify a library."
 "</qt>"
 msgstr ""
-"<qt>কাৰণ নিৰ্ণয়:<br />ডেস্কট'প নথিপত্ৰ %1 দ্বাৰা কোনো লাইব্ৰেৰি নিৰ্দেশিত নহয় ।</qt>"
+"<qt>কাৰণ নিৰ্ণয়:<br />ডেস্কট'প নথিপত্ৰ %1 দ্বাৰা কোনো লাইব্ৰেৰি নিৰ্দেশিত নহয় ।</"
+"qt>"
 
 #: kutils/kcmoduleloader.cpp:153
 msgid "There was an error loading the module."
@@ -11312,8 +11334,7 @@ msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
 "for further information"
 msgstr ""
-"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে স্বয়ংক্ৰিয় পৰিবৰ্তন সম্পন্ন কৰা "
-"হৈছে । "
+"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে স্বয়ংক্ৰিয় পৰিবৰ্তন সম্পন্ন কৰা হৈছে । "
 "অধিক বিৱৰণৰ বাবে চিহ্নিত স্থানত টিপক"
 
 #: kutils/kpluginselector.cpp:203
@@ -11342,8 +11363,8 @@ msgid ""
 "2 plugin"
 msgstr ""
 "\n"
-"    %1 প্লাগ-ইন %2 প্লাগ-ইনৰ ওপৰত নিৰ্ভৰতাৰ ফলত স্বয়ংক্ৰিয়ৰূপে নিৰ্ব্বাচনৰ পৰা "
-"আঁতৰুৱা হৈছে"
+"    %1 প্লাগ-ইন %2 প্লাগ-ইনৰ ওপৰত নিৰ্ভৰতাৰ ফলত স্বয়ংক্ৰিয়ৰূপে নিৰ্ব্বাচনৰ পৰা আঁতৰুৱা "
+"হৈছে"
 
 #: kutils/kpluginselector.cpp:211
 msgid "Dependency Check"
@@ -11354,11 +11375,9 @@ msgstr "নিৰ্ভৰতা পৰীক্ষণ"
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] ""
-"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে যোগ কৰা "
-"হৈছে"
+"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে যোগ কৰা হৈছে"
 msgstr[1] ""
-"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে যোগ কৰা "
-"হৈছে"
+"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে যোগ কৰা হৈছে"
 
 #: kutils/kpluginselector.cpp:232
 msgid ", "
@@ -11369,11 +11388,9 @@ msgstr ", "
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] ""
-"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱা"
-"হৈছে"
+"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱাহৈছে"
 msgstr[1] ""
-"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱা"
-"হৈছে"
+"প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱাহৈছে"
 
 #: kutils/kpluginselector.cpp:257
 msgid "Search Plugins"
@@ -11405,8 +11422,7 @@ msgid ""
 msgstr ""
 "এই বিভাগৰ মাধ্যমে ব্যৱস্থাপ্ৰণালী ব্যাপী পৰিবৰ্তন কৰা যাব আৰু এই কাৰণে বিশেষ অনুমতিৰ "
 "উপস্থিতি আৱশ্যক । অংশৰ বৈশিষ্ট্যাবলী পৰিবৰ্তন কৰাৰ বাবে root গুপ্তশব্দ উল্লেখ কৰা "
-"আৱশ্যক । root গুপ্তশব্দ উল্লেখ নকৰা হ'লে, অংশত কৰা পৰিবৰ্তনসমূহ সংৰক্ষণ "
-"কৰা ন'হ'ব ।"
+"আৱশ্যক । root গুপ্তশব্দ উল্লেখ নকৰা হ'লে, অংশত কৰা পৰিবৰ্তনসমূহ সংৰক্ষণ কৰা ন'হ'ব ।"
 
 #: kutils/kcmoduleproxy.cpp:162
 #, kde-format
@@ -11473,10 +11489,9 @@ msgstr "ভুল সংখ্যক তৰ্ক"
 
 #: kjsembed/kjsembed/qobject_binding.cpp:412
 #, kde-format
-msgid "The slot asked for %1 arguments but there are only %2 arguments available."
-msgstr ""
-"slot দ্বাৰা %1 তৰ্ক অনুৰোধ কৰা হৈছে কিন্তু অকল %2 তৰ্ক উপস্থিত "
-"আছে ।"
+msgid ""
+"The slot asked for %1 arguments but there are only %2 arguments available."
+msgstr "slot দ্বাৰা %1 তৰ্ক অনুৰোধ কৰা হৈছে কিন্তু অকল %2 তৰ্ক উপস্থিত আছে ।"
 
 #: kjsembed/kjsembed/qobject_binding.cpp:610
 #, kde-format
@@ -12014,11 +12029,12 @@ msgid ""
 "Only run tests modules which are found in the folder. Use the query option "
 "to select modules."
 msgstr ""
-"অকল ফোল্ডাৰত উপস্থিত অংশসমূহ পৰীক্ষা কৰা হ'ব । সুনিৰ্দিষ্ট অংশ নিৰ্ব্বাচন কৰাৰ "
-"বাবে query বিকল্প প্ৰয়োগ কৰক ।"
+"অকল ফোল্ডাৰত উপস্থিত অংশসমূহ পৰীক্ষা কৰা হ'ব । সুনিৰ্দিষ্ট অংশ নিৰ্ব্বাচন কৰাৰ বাবে "
+"query বিকল্প প্ৰয়োগ কৰক ।"
 
 #: kde3support/kunittest/modrunner.cpp:48
-msgid "Disables debug capturing. You typically use this option when you use the GUI."
+msgid ""
+"Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 "ডিবাগৰ পৰা তথ্য প্ৰাপ্তি নিষ্ক্ৰিয় কৰা হয় । GUI ব্যৱহাৰৰ সময়ত এই বিকল্প সাধাৰণতে "
 "ব্যৱহাৰ কৰা হয় ।"
@@ -12171,12 +12187,12 @@ msgstr "KDE পৰীক্ষা প্ৰোগ্ৰাম"
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
-"'%1' সেৱা দ্বাৰা '%3' প্ৰাসঙ্গিক শব্দ অৰ্থাৎ গুপ্তশব্দ সহ '%2' সংযোগক্ষেত্ৰ উপলব্ধ "
-"কৰা নহয় ।"
+"'%1' সেৱা দ্বাৰা '%3' প্ৰাসঙ্গিক শব্দ অৰ্থাৎ গুপ্তশব্দ সহ '%2' সংযোগক্ষেত্ৰ উপলব্ধ কৰা "
+"নহয় ।"
 
 #: kdecore/services/kmimetypetrader.h:136
 #: kdecore/services/kmimetypetrader.h:169
-#: kdecore/services/kservicetypetrader.h:187
+#: kdecore/services/kservicetypetrader.h:192
 msgid "No service matching the requirements was found"
 msgstr "অনুৰোধিত বৈশিষ্ট্যৰ বাবে উপযুক্ত সেৱা পোৱা নাযায়"
 
@@ -12369,4 +12385,3 @@ msgstr "আপেক্ষক \"%1\" অনুপস্থি"
 
 #~ msgid "Meta"
 #~ msgstr "Meta"
-
