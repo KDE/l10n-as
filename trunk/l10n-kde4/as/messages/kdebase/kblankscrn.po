@@ -41,4 +41,3 @@ msgstr "অমিতাক্ষ ফুকন"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
-

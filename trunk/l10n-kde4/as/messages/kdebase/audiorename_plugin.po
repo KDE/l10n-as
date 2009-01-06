@@ -41,8 +41,7 @@ msgstr "ইতিমধ্যে থকা নথিপত্ৰ"
 
 #: audio_plugin.cpp:80
 msgid "Would you like to replace the existing file with the one on the right?"
-msgstr ""
-"বৰ্ত্তমানে থকা নথিপত্ৰক আপুনি সোঁফালে থকা নথিপত্ৰেৰে সলনি কৰিব বিচাৰে নেকি ?"
+msgstr "বৰ্ত্তমানে থকা নথিপত্ৰক আপুনি সোঁফালে থকা নথিপত্ৰেৰে সলনি কৰিব বিচাৰে নেকি ?"
 
 #: audiopreview.cpp:52
 msgid ""
@@ -87,4 +86,3 @@ msgstr "Sample rate: %1 %2\n"
 #: audiopreview.cpp:100
 msgid "Length: "
 msgstr "দৈৰ্ঘ্য:"
-

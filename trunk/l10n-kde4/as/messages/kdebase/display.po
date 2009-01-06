@@ -39,4 +39,3 @@ msgstr "একাধিক মনিটৰ"
 #: display.cpp:51
 msgid "Power Control"
 msgstr "শক্তিৰ নিয়ন্ত্ৰণ"
-
