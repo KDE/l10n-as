@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2009-01-05 09:24+0000\n"
-"PO-Revision-Date: 2009-01-05 17:06+0530\n"
+"PO-Revision-Date: 2009-01-06 14:07+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -1404,269 +1404,269 @@ msgstr "Jack-Rack"
 #: apps/kappfinder/apps/Multimedia/jack-rack.desktop:19
 msgctxt "GenericName"
 msgid "Jack Effectrack"
-msgstr ""
+msgstr "Jack Effectrack"
 
 #: apps/kappfinder/apps/Multimedia/jamin.desktop:4
 msgctxt "Name"
 msgid "Jamin"
-msgstr ""
+msgstr "Jamin"
 
 #: apps/kappfinder/apps/Multimedia/jamin.desktop:18
 msgctxt "GenericName"
 msgid "Jack Mastering Tool"
-msgstr ""
+msgstr "Jack Mastering Tool"
 
 #: apps/kappfinder/apps/Multimedia/jazz.desktop:2
 msgctxt "Name"
 msgid "Jazz"
-msgstr ""
+msgstr "Jazz"
 
 #: apps/kappfinder/apps/Multimedia/jazz.desktop:17
 msgctxt "GenericName"
 msgid "Sound Processor"
-msgstr ""
+msgstr "ধ্বনি সংসাধক"
 
 #: apps/kappfinder/apps/Multimedia/meterbridge.desktop:7
 msgctxt "GenericName"
 msgid "Dual Channel VU-Meter"
-msgstr ""
+msgstr "Dual Channel VU-Meter"
 
 #: apps/kappfinder/apps/Multimedia/meterbridge.desktop:72
 msgctxt "Name"
 msgid "Meterbridge"
-msgstr ""
+msgstr "Meterbridge"
 
 #: apps/kappfinder/apps/Multimedia/mixxx.desktop:4
 msgctxt "Name"
 msgid "Mixxx"
-msgstr ""
+msgstr "Mixxx"
 
 #: apps/kappfinder/apps/Multimedia/mplayer.desktop:84
 msgctxt "Name"
 msgid "MPlayer"
-msgstr ""
+msgstr "MPlayer"
 
 #: apps/kappfinder/apps/Multimedia/mtv.desktop:83
 msgctxt "Name"
 msgid "MpegTV"
-msgstr ""
+msgstr "MpegTV"
 
 #: apps/kappfinder/apps/Multimedia/muse.desktop:3
 msgctxt "Name"
 msgid "MusE"
-msgstr ""
+msgstr "MusE"
 
 #: apps/kappfinder/apps/Multimedia/muse.desktop:15
 msgctxt "GenericName"
 msgid "Music Sequencer"
-msgstr ""
+msgstr "Music Sequencer"
 
 #: apps/kappfinder/apps/Multimedia/ogle.desktop:2
 msgctxt "GenericName"
 msgid "DVD Player"
-msgstr ""
+msgstr "DVD Player"
 
 #: apps/kappfinder/apps/Multimedia/ogle.desktop:85
 msgctxt "Name"
 msgid "Ogle"
-msgstr ""
+msgstr "Ogle"
 
 #: apps/kappfinder/apps/Multimedia/oqtplayer.desktop:2
 msgctxt "GenericName"
 msgid "MOV Video Player"
-msgstr ""
+msgstr "MOV Video Player"
 
 #: apps/kappfinder/apps/Multimedia/oqtplayer.desktop:84
 msgctxt "Name"
 msgid "OQTPlayer"
-msgstr ""
+msgstr "OQTPlayer"
 
 #: apps/kappfinder/apps/Multimedia/qjackctl.desktop:4
 msgctxt "Name"
 msgid "QJackCtl"
-msgstr ""
+msgstr "QJackCtl"
 
 #: apps/kappfinder/apps/Multimedia/qjackctl.desktop:13
 msgctxt "GenericName"
 msgid "Control for Jack"
-msgstr ""
+msgstr "Jack ৰ কাৰণে নিয়ন্ত্ৰণ ব্যৱস্থা"
 
 #: apps/kappfinder/apps/Multimedia/qsynth.desktop:4
 msgctxt "Name"
 msgid "QSynth"
-msgstr ""
+msgstr "QSynth"
 
 #: apps/kappfinder/apps/Multimedia/qsynth.desktop:14
 msgctxt "GenericName"
 msgid "Control for FluidSynth"
-msgstr ""
+msgstr "Control for FluidSynth"
 
 #: apps/kappfinder/apps/Multimedia/realplayer.desktop:84
 msgctxt "Name"
 msgid "RealPlayer"
-msgstr ""
+msgstr "RealPlayer"
 
 #: apps/kappfinder/apps/Multimedia/rezound.desktop:4
 msgctxt "Name"
 msgid "reZound"
-msgstr ""
+msgstr "reZound"
 
 #: apps/kappfinder/apps/Multimedia/slab.desktop:2
 msgctxt "Name"
 msgid "Slab"
-msgstr ""
+msgstr "Slab"
 
 #: apps/kappfinder/apps/Multimedia/slab.desktop:14
 msgctxt "GenericName"
 msgid "Audio Recorder"
-msgstr ""
+msgstr "Audio Recorder"
 
 #: apps/kappfinder/apps/Multimedia/sweep.desktop:4
 msgctxt "Name"
 msgid "Sweep"
-msgstr ""
+msgstr "Sweep"
 
 #: apps/kappfinder/apps/Multimedia/vkeybd.desktop:4
 msgctxt "Name"
 msgid "vkeybd"
-msgstr ""
+msgstr "vkeybd"
 
 #: apps/kappfinder/apps/Multimedia/vkeybd.desktop:13
 msgctxt "GenericName"
 msgid "Virtual MIDI Keyboard"
-msgstr ""
+msgstr "ভাৰ্চুৱেল MIDI চাবিৰ ফলক"
 
 #: apps/kappfinder/apps/Multimedia/xawtv.desktop:2
 msgctxt "GenericName"
 msgid "Watch TV!"
-msgstr ""
+msgstr "TV চাওক!"
 
 #: apps/kappfinder/apps/Multimedia/xawtv.desktop:77
 msgctxt "Name"
 msgid "XawTV"
-msgstr ""
+msgstr "XawTV"
 
 #: apps/kappfinder/apps/Multimedia/xcam.desktop:2
 msgctxt "Name"
 msgid "XCam"
-msgstr ""
+msgstr "XCam"
 
 #: apps/kappfinder/apps/Multimedia/xcam.desktop:14
 msgctxt "GenericName"
 msgid "Camera Program"
-msgstr ""
+msgstr "কেমেৰাৰ অনুপ্ৰয়োগ"
 
 #: apps/kappfinder/apps/Multimedia/xine.desktop:84
 msgctxt "Name"
 msgid "Xine"
-msgstr ""
+msgstr "Xine"
 
 #: apps/kappfinder/apps/Multimedia/xmms-enqueue.desktop:2
 msgctxt "GenericName"
 msgid "Playlist Tool"
-msgstr ""
+msgstr "Playlist সৰঞ্জাম"
 
 #: apps/kappfinder/apps/Multimedia/xmms-enqueue.desktop:84
 msgctxt "Name"
 msgid "Enqueue in XMMS"
-msgstr ""
+msgstr "Enqueue in XMMS"
 
 #: apps/kappfinder/apps/Multimedia/xmms.desktop:2
 msgctxt "GenericName"
 msgid "Multimedia Player"
-msgstr ""
+msgstr "Multimedia Player"
 
 #: apps/kappfinder/apps/Multimedia/xmms.desktop:84
 msgctxt "Name"
 msgid "XMMS"
-msgstr ""
+msgstr "XMMS"
 
 #: apps/kappfinder/apps/Multimedia/zynaddsubfx.desktop:4
 msgctxt "Name"
 msgid "ZynaddsubFX"
-msgstr ""
+msgstr "ZynaddsubFX"
 
 #: apps/kappfinder/apps/Multimedia/zynaddsubfx.desktop:13
 msgctxt "GenericName"
 msgid "Soft Synth"
-msgstr ""
+msgstr "Soft Synth"
 
 #: apps/kappfinder/apps/Office/Applix.desktop:2
 msgctxt "Name"
 msgid "Applix"
-msgstr ""
+msgstr "Applix"
 
 #: apps/kappfinder/apps/Office/Applix.desktop:19
 msgctxt "GenericName"
 msgid "Office Suite"
-msgstr ""
+msgstr "কাৰ্যালয়ৰ কাৰ্য্যক্ৰমৰ গোট"
 
 #: apps/kappfinder/apps/Office/Dia.desktop:2
 msgctxt "Name"
 msgid "Dia"
-msgstr ""
+msgstr "Dia"
 
 #: apps/kappfinder/apps/Office/Dia.desktop:15
 #: apps/kappfinder/apps/Office/Guppi.desktop:15
 msgctxt "GenericName"
 msgid "Program for Diagrams"
-msgstr ""
+msgstr "Diagrams ৰ কাৰণে কাৰ্য্যক্ৰম"
 
 #: apps/kappfinder/apps/Office/Gnome-Cal.desktop:2
 msgctxt "Name"
 msgid "GNOME-Cal"
-msgstr ""
+msgstr "GNOME-Cal"
 
 #: apps/kappfinder/apps/Office/Gnome-Cal.desktop:32
 msgctxt "GenericName"
 msgid "Personal Calendar"
-msgstr ""
+msgstr "ব্যক্তিগত বৰ্ষপঞ্জিকা"
 
 #: apps/kappfinder/apps/Office/Gnome-Card.desktop:2
 msgctxt "Name"
 msgid "GNOME-Card"
-msgstr ""
+msgstr "GNOME-Card"
 
 #: apps/kappfinder/apps/Office/Gnome-Card.desktop:37
 msgctxt "GenericName"
 msgid "Contact Manager"
-msgstr ""
+msgstr "পৰিচয়ৰ পৰিচালক"
 
 #: apps/kappfinder/apps/Office/GnomeTimeTracker.desktop:2
 msgctxt "Name"
 msgid "GNOME Time Tracker"
-msgstr ""
+msgstr "GNOME Time Tracker"
 
 #: apps/kappfinder/apps/Office/Gnumeric.desktop:2
 msgctxt "Name"
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #: apps/kappfinder/apps/Office/Gnumeric.desktop:15
 #: apps/kappfinder/apps/Office/XsLite.desktop:18
 msgctxt "GenericName"
 msgid "Spread Sheet"
-msgstr ""
+msgstr "Spread Sheet"
 
 #: apps/kappfinder/apps/Office/Guppi.desktop:2
 msgctxt "Name"
 msgid "Guppi"
-msgstr ""
+msgstr "Guppi"
 
 #: apps/kappfinder/apps/Office/Ical.desktop:2
 msgctxt "Name"
 msgid "Ical"
-msgstr ""
+msgstr "Ical"
 
 #: apps/kappfinder/apps/Office/Ical.desktop:12
 msgctxt "GenericName"
 msgid "Calendar Program"
-msgstr ""
+msgstr "বৰ্ষপঞ্জিকাৰ কাৰ্য্যক্ৰম"
 
 #: apps/kappfinder/apps/Office/WordPerfect.desktop:2
 msgctxt "Name"
 msgid "WordPerfect"
-msgstr ""
+msgstr "WordPerfect"
 
 #: apps/kappfinder/apps/Office/WordPerfect.desktop:24
 #: apps/kappfinder/apps/Office/WordPerfect2000.desktop:26
@@ -1674,286 +1674,286 @@ msgstr ""
 #: apps/kappfinder/apps/Office/lyx.desktop:12
 msgctxt "GenericName"
 msgid "Word Processor"
-msgstr ""
+msgstr "Word Processor"
 
 #: apps/kappfinder/apps/Office/WordPerfect2000.desktop:2
 msgctxt "Name"
 msgid "WordPerfect 2000"
-msgstr ""
+msgstr "WordPerfect 2000"
 
 #: apps/kappfinder/apps/Office/XAcc.desktop:2
 msgctxt "Name"
 msgid "xacc"
-msgstr ""
+msgstr "xacc"
 
 #: apps/kappfinder/apps/Office/XAcc.desktop:18
 msgctxt "GenericName"
 msgid "Personal Accounting Tool"
-msgstr ""
+msgstr "ব্যক্তিগত হিচাপ ৰখাৰ সৰঞ্জাম"
 
 #: apps/kappfinder/apps/Office/XsLite.desktop:2
 msgctxt "Name"
 msgid "XsLite"
-msgstr ""
+msgstr "XsLite"
 
 #: apps/kappfinder/apps/Office/abiword.desktop:2
 msgctxt "Name"
 msgid "AbiWord"
-msgstr ""
+msgstr "AbiWord"
 
 #: apps/kappfinder/apps/Office/acroread.desktop:2
 msgctxt "Name"
 msgid "Acrobat Reader"
-msgstr ""
+msgstr "Acrobat Reader"
 
 #: apps/kappfinder/apps/Office/acroread.desktop:32
 #: apps/kappfinder/apps/Office/xpdf.desktop:17
 msgctxt "GenericName"
 msgid "PDF Viewer"
-msgstr ""
+msgstr "PDF Viewer"
 
 #: apps/kappfinder/apps/Office/gnucash.desktop:2
 msgctxt "Name"
 msgid "GnuCash"
-msgstr ""
+msgstr "GnuCash"
 
 #: apps/kappfinder/apps/Office/gnucash.desktop:20
 msgctxt "GenericName"
 msgid "Finance Manager"
-msgstr ""
+msgstr "Finance Manager"
 
 #: apps/kappfinder/apps/Office/lyx.desktop:2
 msgctxt "Name"
 msgid "LyX"
-msgstr ""
+msgstr "LyX"
 
 #: apps/kappfinder/apps/Office/mrproject.desktop:2
 msgctxt "Name"
 msgid "MrProject"
-msgstr ""
+msgstr "MrProject"
 
 #: apps/kappfinder/apps/Office/mrproject.desktop:19
 msgctxt "GenericName"
 msgid "Project Manager"
-msgstr ""
+msgstr "প্ৰকল্পৰ পৰিচালক"
 
 #: apps/kappfinder/apps/Office/netscapeaddressbook.desktop:2
 msgctxt "Name"
 msgid "Netscape Addressbook"
-msgstr ""
+msgstr "Netscape Addressbook"
 
 #: apps/kappfinder/apps/Office/plan.desktop:2
 msgctxt "Name"
 msgid "Plan"
-msgstr ""
+msgstr "Plan"
 
 #: apps/kappfinder/apps/Office/plan.desktop:29
 msgctxt "GenericName"
 msgid "Calendar Manager"
-msgstr ""
+msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
 #: apps/kappfinder/apps/Office/pybliographic.desktop:2
 msgctxt "GenericName"
 msgid "Bibliographic Database"
-msgstr ""
+msgstr "Bibliographic Database"
 
 #: apps/kappfinder/apps/Office/pybliographic.desktop:84
 msgctxt "Name"
 msgid "Pybliographic"
-msgstr ""
+msgstr "Pybliographic"
 
 #: apps/kappfinder/apps/Office/scribus.desktop:2
 msgctxt "Name"
 msgid "Scribus"
-msgstr ""
+msgstr "Scribus"
 
 #: apps/kappfinder/apps/Office/scribus.desktop:15
 msgctxt "GenericName"
 msgid "Desktop Publishing"
-msgstr ""
+msgstr "ডেষ্কট'প প্ৰকাশন"
 
 #: apps/kappfinder/apps/Office/xpdf.desktop:2
 msgctxt "Name"
 msgid "X PDF"
-msgstr ""
+msgstr "X PDF"
 
 #: apps/kappfinder/apps/System/Terminal/aterm.desktop:5
 msgctxt "Name"
 msgid "Terminal"
-msgstr ""
+msgstr "টাৰ্মিনেল"
 
 #: apps/kappfinder/apps/System/Terminal/aterm.desktop:53
 #: apps/kappfinder/apps/Utilities/xutils/xterm.desktop:3
 msgctxt "GenericName"
 msgid "Terminal Program"
-msgstr ""
+msgstr "টাৰ্মিনেল কাৰ্য্যক্ৰম"
 
 #: apps/kappfinder/apps/System/Terminal/procinfo.desktop:5
 msgctxt "Name"
 msgid "Procinfo"
-msgstr ""
+msgstr "Procinfo"
 
 #: apps/kappfinder/apps/System/Terminal/procinfo.desktop:18
 msgctxt "GenericName"
 msgid "System Process Information"
-msgstr ""
+msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
 #: apps/kappfinder/apps/System/Terminal/rxvt.desktop:2
 msgctxt "GenericName"
 msgid "ouR eXtended Virtual Terminal"
-msgstr ""
+msgstr "ouR eXtended Virtual Terminal"
 
 #: apps/kappfinder/apps/System/Terminal/rxvt.desktop:60
 msgctxt "Name"
 msgid "RXVT"
-msgstr ""
+msgstr "RXVT"
 
 #: apps/kappfinder/apps/System/Terminal/vmstat.desktop:5
 msgctxt "Name"
 msgid "Vmstat"
-msgstr ""
+msgstr "Vmstat"
 
 #: apps/kappfinder/apps/System/Terminal/vmstat.desktop:14
 msgctxt "GenericName"
 msgid "Virtual Memory Statistics"
-msgstr ""
+msgstr "ভাৰ্চুৱেল স্মৃতিশক্তিৰ পৰিসংখ্যা"
 
 #: apps/kappfinder/apps/System/citrix_ica.desktop:2
 msgctxt "Name"
 msgid "Citrix ICA Client"
-msgstr ""
+msgstr "Citrix ICA Client"
 
 #: apps/kappfinder/apps/System/citrix_ica.desktop:74
 msgctxt "GenericName"
 msgid "WTS Client"
-msgstr ""
+msgstr "WTS গ্ৰাহক"
 
 #: apps/kappfinder/apps/System/editres.desktop:2
 msgctxt "Name"
 msgid "EditXRes"
-msgstr ""
+msgstr "EditXRes"
 
 #: apps/kappfinder/apps/System/editres.desktop:17
 msgctxt "GenericName"
 msgid "X Resource Editor"
-msgstr ""
+msgstr "X সম্পদ সম্পাদক"
 
 #: apps/kappfinder/apps/System/sam.desktop:2
 msgctxt "Name"
 msgid "SAM System-Administration"
-msgstr ""
+msgstr "SAM System-Administration"
 
 #: apps/kappfinder/apps/System/wine.desktop:3
 msgctxt "Name"
 msgid "Wine"
-msgstr ""
+msgstr "Wine"
 
 #: apps/kappfinder/apps/System/wine.desktop:17
 msgctxt "GenericName"
 msgid "Run Windows Programs"
-msgstr ""
+msgstr "Windows কাৰ্য্যক্ৰম চলাওক"
 
 #: apps/kappfinder/apps/System/xosview.desktop:2
 msgctxt "Name"
 msgid "X osview"
-msgstr ""
+msgstr "X osview"
 
 #: apps/kappfinder/apps/System/xosview.desktop:21
 msgctxt "GenericName"
 msgid "System Monitor"
-msgstr ""
+msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
 #: apps/kappfinder/apps/Toys/xeyes.desktop:2
 msgctxt "Name"
 msgid "X Eyes"
-msgstr ""
+msgstr "X Eyes"
 
 #: apps/kappfinder/apps/Toys/xpinguin.desktop:2
 msgctxt "Name"
 msgid "Tux"
-msgstr ""
+msgstr "Tux"
 
 #: apps/kappfinder/apps/Toys/xpinguin.desktop:18
 msgctxt "GenericName"
 msgid "Linux Mascot"
-msgstr ""
+msgstr "Linux Mascot"
 
 #: apps/kappfinder/apps/Utilities/GKrellM.desktop:4
 msgctxt "Name"
 msgid "GKrellM"
-msgstr ""
+msgstr "GKrellM"
 
 #: apps/kappfinder/apps/Utilities/GKrellM.desktop:10
 msgctxt "GenericName"
 msgid "GNU Krell Monitors"
-msgstr ""
+msgstr "GNU Krell Monitors"
 
 #: apps/kappfinder/apps/Utilities/GnomeWho.desktop:2
 msgctxt "Name"
 msgid "GNOME Who"
-msgstr ""
+msgstr "GNOME Who"
 
 #: apps/kappfinder/apps/Utilities/GnomeWho.desktop:27
 msgctxt "GenericName"
 msgid "System Info Tool"
-msgstr ""
+msgstr "ব্যৱস্থাপ্ৰণালীৰ তথ্যৰ সৰঞ্জাম"
 
 #: apps/kappfinder/apps/Utilities/SystemInfo.desktop:2
 msgctxt "Name"
 msgid "System Info"
-msgstr ""
+msgstr "ব্যৱস্থাপ্ৰণালীৰ তথ্য"
 
 #: apps/kappfinder/apps/Utilities/SystemLogViewer.desktop:2
 msgctxt "Name"
 msgid "System Log Viewer"
-msgstr ""
+msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
 #: apps/kappfinder/apps/Utilities/calctool.desktop:2
 msgctxt "Name"
 msgid "Calctool"
-msgstr ""
+msgstr "Calctool"
 
 #: apps/kappfinder/apps/Utilities/calctool.desktop:26
 #: apps/kappfinder/apps/Utilities/xutils/xcalc.desktop:37
 msgctxt "GenericName"
 msgid "Calculator"
-msgstr ""
+msgstr "Calculator"
 
 #: apps/kappfinder/apps/Utilities/e-notes.desktop:2
 msgctxt "Name"
 msgid "E-Notes"
-msgstr ""
+msgstr "E-Notes"
 
 #: apps/kappfinder/apps/Utilities/e-notes.desktop:30
 msgctxt "GenericName"
 msgid "Personal Notes"
-msgstr ""
+msgstr "ব্যক্তিগত টোকা"
 
 #: apps/kappfinder/apps/Utilities/oclock.desktop:2
 msgctxt "Name"
 msgid "OClock"
-msgstr ""
+msgstr "OClock"
 
 #: apps/kappfinder/apps/Utilities/oclock.desktop:20
 #: apps/kappfinder/apps/Utilities/xutils/xclock.desktop:67
 msgctxt "GenericName"
 msgid "Clock"
-msgstr ""
+msgstr "Clock"
 
 #: apps/kappfinder/apps/Utilities/xgnokii.desktop:2
 msgctxt "Name"
 msgid "X-Gnokii"
-msgstr ""
+msgstr "X-Gnokii"
 
 #: apps/kappfinder/apps/Utilities/xgnokii.desktop:14
 msgctxt "GenericName"
 msgid "Mobile Phone Management Tool"
-msgstr ""
+msgstr "মোবাইল ফোন পৰিচালনাৰ সৰঞ্জাম"
 
 #: apps/kappfinder/apps/Utilities/xutils/Xkill.desktop:2
 msgctxt "Name"
 msgid "X Kill"
-msgstr ""
+msgstr "X Kill"
 
 #: apps/kappfinder/apps/Utilities/xutils/Xkill.desktop:21
 msgctxt "GenericName"
