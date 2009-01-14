@@ -1012,9 +1012,7 @@ msgstr "RSS স্মৃতিশক্তিৰ ব্যৱহাৰ: %1"
 msgid ""
 "<qt>Your system does not seem to have this information available to be read."
 "</qt>"
-msgstr ""
-"<qt>আপোনাৰ ব্যৱস্থাপ্ৰণালীত পঢ়িবৰ বাবে এই তথ্য নাই ।"
-"</qt>"
+msgstr "<qt>আপোনাৰ ব্যৱস্থাপ্ৰণালীত পঢ়িবৰ বাবে এই তথ্য নাই ।</qt>"
 
 #: ProcessModel.cc:958
 #, kde-format
@@ -1100,4 +1098,3 @@ msgstr "%1 G"
 #: ReniceDlg.cc:39
 msgid "Renice Process"
 msgstr "প্ৰক্ৰিয়া Renice কৰক"
-

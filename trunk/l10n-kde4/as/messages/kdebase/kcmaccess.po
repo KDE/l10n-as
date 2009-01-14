@@ -107,8 +107,8 @@ msgid ""
 "Normally, this is just a \"beep\"."
 msgstr ""
 "এই বিকল্প বাচি ল'লে, অবিকল্পিত ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰা হ'ব । "
-"ব্যৱস্থাপ্ৰণালীৰ ঘন্টা স্বনিৰ্বাচিত কৰাৰ বাবে \"System Bell\" নিয়ন্ত্ৰণৰ অংশ "
-"চাওক । সাধাৰনতে, এইটো অকল এটা \"বিপ\" হয় ।"
+"ব্যৱস্থাপ্ৰণালীৰ ঘন্টা স্বনিৰ্বাচিত কৰাৰ বাবে \"System Bell\" নিয়ন্ত্ৰণৰ অংশ চাওক । "
+"সাধাৰনতে, এইটো অকল এটা \"বিপ\" হয় ।"
 
 #: kcmaccess.cpp:274
 msgid ""
@@ -117,10 +117,10 @@ msgid ""
 "p><p> Please note that on slow machines this may cause a \"lag\" between the "
 "event causing the bell and the sound being played.</p>"
 msgstr ""
-"<p>এই বিকল্প নিৰ্ব্বাচন কৰক যদি আপুনি এটা স্বনিৰ্বাচিত ঘন্টা ব্যৱহাৰ কৰিব "
-"বিচাৰে, যি এটা ধ্বনিৰ নথিপত্ৰ বজায় । এইটো কৰিলে, আপুনি হয়তো ব্যৱস্থাপ্ৰণালীৰ "
-"ঘন্টা বন্ধ কৰিব বিচাৰিব । </p><p> মন কৰিব যে পুৰণি যন্ত্ৰত ইয়াৰ কাৰণে ঘন্টা "
-"বজোৱা ঘটনা আৰু বজোৱা ঘন্টাৰ মাজত এটা \"বিলম্ব\" হ'ব পাৰে ।</p>"
+"<p>এই বিকল্প নিৰ্ব্বাচন কৰক যদি আপুনি এটা স্বনিৰ্বাচিত ঘন্টা ব্যৱহাৰ কৰিব বিচাৰে, যি "
+"এটা ধ্বনিৰ নথিপত্ৰ বজায় । এইটো কৰিলে, আপুনি হয়তো ব্যৱস্থাপ্ৰণালীৰ ঘন্টা বন্ধ কৰিব "
+"বিচাৰিব । </p><p> মন কৰিব যে পুৰণি যন্ত্ৰত ইয়াৰ কাৰণে ঘন্টা বজোৱা ঘটনা আৰু বজোৱা "
+"ঘন্টাৰ মাজত এটা \"বিলম্ব\" হ'ব পাৰে ।</p>"
 
 #: kcmaccess.cpp:283
 msgid "Sound &to play:"
@@ -135,9 +135,9 @@ msgid ""
 "If the option \"Use customized bell\" is enabled, you can choose a sound "
 "file here. Click \"Browse...\" to choose a sound file using the file dialog."
 msgstr ""
-"\"স্বনিৰ্বাচিত ঘন্টা ব্যৱহাৰ কৰক\" বিকল্প সক্ৰিয় হ'লে, আপুনি এটা ধ্বনিৰ "
-"নথিপত্ৰ নিৰ্ব্বাচন কৰিব পাৰে । নথিপত্ৰৰ সম্বাদ ব্যৱহাৰ কৰি এটা ধ্বনিৰ "
-"নথিপত্ৰ নিৰ্ব্বাচন কৰিবলৈ \"চৰণ কৰক...\" টিপক ।"
+"\"স্বনিৰ্বাচিত ঘন্টা ব্যৱহাৰ কৰক\" বিকল্প সক্ৰিয় হ'লে, আপুনি এটা ধ্বনিৰ নথিপত্ৰ "
+"নিৰ্ব্বাচন কৰিব পাৰে । নথিপত্ৰৰ সম্বাদ ব্যৱহাৰ কৰি এটা ধ্বনিৰ নথিপত্ৰ নিৰ্ব্বাচন "
+"কৰিবলৈ \"চৰণ কৰক...\" টিপক ।"
 
 #: kcmaccess.cpp:306
 msgid "Visible Bell"
@@ -153,9 +153,9 @@ msgid ""
 "shown every time that normally just a bell would occur. This is especially "
 "useful for deaf people."
 msgstr ""
-"এই বিকল্পই \"দৃশ্যমান ঘন্টা\" আৰম্ভ কৰিব, যাৰ ফলত এটা দৃশ্যমান সূচনা দেখুৱা "
-"হ'ব যেতিয়া সাধাৰণতে অকল এটা ঘন্টা বাজে । এইটো সাধাৰণতে শ্ৰব্যসক্তি নথকা "
-"মানুহৰ কাৰণে সুবিধাজনক ।"
+"এই বিকল্পই \"দৃশ্যমান ঘন্টা\" আৰম্ভ কৰিব, যাৰ ফলত এটা দৃশ্যমান সূচনা দেখুৱা হ'ব "
+"যেতিয়া সাধাৰণতে অকল এটা ঘন্টা বাজে । এইটো সাধাৰণতে শ্ৰব্যসক্তি নথকা মানুহৰ কাৰণে "
+"সুবিধাজনক ।"
 
 #: kcmaccess.cpp:325
 msgid "I&nvert screen"
@@ -174,15 +174,13 @@ msgstr "F&lash screen"
 msgid ""
 "The screen will turn to a custom color for the amount of time specified "
 "below."
-msgstr ""
-"তলত দিয়া সময়ৰ মতে পৰ্দ্দাৰ ৰং আপুনি নিৰ্ব্বাচন কৰা ৰঙলৈ পৰিবৰ্ত্তন কৰা হ'ব ।"
+msgstr "তলত দিয়া সময়ৰ মতে পৰ্দ্দাৰ ৰং আপুনি নিৰ্ব্বাচন কৰা ৰঙলৈ পৰিবৰ্ত্তন কৰা হ'ব ।"
 
 #: kcmaccess.cpp:340
 msgid ""
 "Click here to choose the color used for the \"flash screen\" visible bell."
 msgstr ""
-"\"flash screen\" দৃশ্যমান ঘন্টাৰ কাৰণে ব্যৱহাৰ কৰা ৰং নিৰ্ব্বাচন কৰিবলৈ ইয়াত "
-"টিপক ।"
+"\"flash screen\" দৃশ্যমান ঘন্টাৰ কাৰণে ব্যৱহাৰ কৰা ৰং নিৰ্ব্বাচন কৰিবলৈ ইয়াত টিপক ।"
 
 #: kcmaccess.cpp:349
 msgid "Duration:"
@@ -230,16 +228,15 @@ msgstr "Locking Keys"
 
 #: kcmaccess.cpp:421
 msgid "Use system bell whenever a locking key gets activated or deactivated"
-msgstr ""
-"এটা locking key সক্ৰিয় বা নিষ্ক্ৰীয় হ'লেই ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক"
+msgstr "এটা locking key সক্ৰিয় বা নিষ্ক্ৰীয় হ'লেই ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক"
 
 #: kcmaccess.cpp:424
 msgid ""
 "Use KDE's system notification mechanism whenever a modifier or locking key "
 "changes its state"
 msgstr ""
-"KDE ৰ ব্যৱস্থাপ্ৰণালীৰ সূচনাৰ ব্যৱস্থা ব্যৱহাৰ কৰক যেতিয়াই এটা modifier বা "
-"locking key য়ে নিজৰ অৱস্থা সলনি কৰে"
+"KDE ৰ ব্যৱস্থাপ্ৰণালীৰ সূচনাৰ ব্যৱস্থা ব্যৱহাৰ কৰক যেতিয়াই এটা modifier বা locking "
+"key য়ে নিজৰ অৱস্থা সলনি কৰে"
 
 #: kcmaccess.cpp:431 kcmaccess.cpp:610
 msgid "Configure &Notifications..."
@@ -348,15 +345,14 @@ msgid ""
 "Use the system bell whenever a gesture is used to turn an accessibility "
 "feature on or off"
 msgstr ""
-"এটা অভিগম্যতাৰ গুণক আৰম্ভ বা বন্ধ কৰিবলৈ ঈঙ্গিত ব্যৱহাৰ কৰিলেই "
-"ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক "
+"এটা অভিগম্যতাৰ গুণক আৰম্ভ বা বন্ধ কৰিবলৈ ঈঙ্গিত ব্যৱহাৰ কৰিলেই ব্যৱস্থাপ্ৰণালীৰ ঘন্টা "
+"ব্যৱহাৰ কৰক "
 
 #: kcmaccess.cpp:599
 msgid ""
 "Show a confirmation dialog whenever a keyboard accessibility feature is "
 "turned on or off"
-msgstr ""
-"চাবিৰ ফলকৰ অভিগম্যতাৰ গুণ আৰম্ভ বা বন্ধ কৰিলে এটা নিশ্চয়তাৰ সম্বাদ দেখুৱাব ।"
+msgstr "চাবিৰ ফলকৰ অভিগম্যতাৰ গুণ আৰম্ভ বা বন্ধ কৰিলে এটা নিশ্চয়তাৰ সম্বাদ দেখুৱাব ।"
 
 #: kcmaccess.cpp:601
 msgid ""
@@ -365,18 +361,18 @@ msgid ""
 "Ensure you know what you are doing if you uncheck it, as the keyboard "
 "accessibility settings will then always be applied without confirmation."
 msgstr ""
-"এই বিকল্প নিৰ্ব্বাচন কৰিলে, KDE য়ে চাবিৰ ফলকৰ অভিগম্যতাৰ গুণ আৰম্ভ বা বন্ধ "
-"কৰিলে এটা নিশ্চয়তাৰ সম্বাদ দেখুৱাব ।\n"
-"এইটো নিৰ্বাচন নকৰাৰ পূৰ্বে নিশ্চিত কৰক আপুনি কি কৰিছে, কাৰণ তাৰ পিছত দৃঢ় "
-"নকৰাকৈ চাবিৰ ফলকৰ পছন্দ প্ৰয়োগ কৰা হ'ব ।"
+"এই বিকল্প নিৰ্ব্বাচন কৰিলে, KDE য়ে চাবিৰ ফলকৰ অভিগম্যতাৰ গুণ আৰম্ভ বা বন্ধ কৰিলে "
+"এটা নিশ্চয়তাৰ সম্বাদ দেখুৱাব ।\n"
+"এইটো নিৰ্বাচন নকৰাৰ পূৰ্বে নিশ্চিত কৰক আপুনি কি কৰিছে, কাৰণ তাৰ পিছত দৃঢ় নকৰাকৈ "
+"চাবিৰ ফলকৰ পছন্দ প্ৰয়োগ কৰা হ'ব ।"
 
 #: kcmaccess.cpp:603
 msgid ""
 "Use KDE's system notification mechanism whenever a keyboard accessibility "
 "feature is turned on or off"
 msgstr ""
-"চাবিৰ ফলকৰ গুণ যেতিয়াই আৰম্ভ বা বন্ধ কৰা হয় KDE ৰ ব্যৱস্থাপ্ৰণালীৰ সূচনাৰ "
-"ব্যৱস্থা ব্যৱহাৰ কৰা হ'ব"
+"চাবিৰ ফলকৰ গুণ যেতিয়াই আৰম্ভ বা বন্ধ কৰা হয় KDE ৰ ব্যৱস্থাপ্ৰণালীৰ সূচনাৰ ব্যৱস্থা "
+"ব্যৱহাৰ কৰা হ'ব"
 
 #: kcmaccess.cpp:653
 msgid "*.wav|WAV Files"
@@ -391,4 +387,3 @@ msgstr "অমিতাক্ষ ফুকন"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
-
