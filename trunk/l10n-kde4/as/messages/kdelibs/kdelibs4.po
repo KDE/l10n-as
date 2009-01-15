@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-14 11:11+0100\n"
+"POT-Creation-Date: 2009-01-15 10:43+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10908,32 +10908,32 @@ msgstr ""
 "klauncher: এই প্ৰোগ্ৰাম ব্যৱহাৰকৰোঁতা দ্বাৰা আৰম্ভ কৰা সম্ভৱ নহয় ।\n"
 "klauncher: kdeinit4 দ্বাৰা এটি স্বয়ংক্ৰিয় ৰূপে আৰম্ভ কৰা হয় ।\n"
 
-#: kinit/klauncher.cpp:519
+#: kinit/klauncher.cpp:538
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
-#: kinit/klauncher.cpp:684 kinit/klauncher.cpp:709 kinit/klauncher.cpp:724
+#: kinit/klauncher.cpp:703 kinit/klauncher.cpp:728 kinit/klauncher.cpp:743
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: kinit/klauncher.cpp:740 kinit/klauncher.cpp:776
+#: kinit/klauncher.cpp:759 kinit/klauncher.cpp:795
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' সেৱা ত্ৰুটিপূৰ্ণ ৰূপে গঠিত হৈছে ।"
 
-#: kinit/klauncher.cpp:857
+#: kinit/klauncher.cpp:876
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 লঞ্চ কৰা হৈছে"
 
-#: kinit/klauncher.cpp:1063
+#: kinit/klauncher.cpp:1082
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 
-#: kinit/klauncher.cpp:1124
+#: kinit/klauncher.cpp:1143
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
