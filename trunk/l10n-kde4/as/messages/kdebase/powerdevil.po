@@ -1046,4 +1046,3 @@ msgstr ""
 #: rc.cpp:318
 msgid "XTest Support"
 msgstr ""
-
