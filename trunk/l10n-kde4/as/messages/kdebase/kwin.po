@@ -49,8 +49,7 @@ msgid ""
 "XRender/XFixes extensions are not available and only XRender support is "
 "compiled."
 msgstr ""
-"XRender/XFixes সম্প্ৰসাৰণ নাই আৰু অকল XRender সমৰ্থন ব্যৱস্থা সঙ্কলন কৰা "
-"হৈছে ।"
+"XRender/XFixes সম্প্ৰসাৰণ নাই আৰু অকল XRender সমৰ্থন ব্যৱস্থা সঙ্কলন কৰা হৈছে ।"
 
 #: compositingprefs.cpp:100
 msgid "GLX/OpenGL and XRender/XFixes are not available."
@@ -527,8 +526,8 @@ msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
 "started.\n"
 msgstr ""
-"kwin: সম্ভৱতঃ এটা সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা বৰ্তমানে চলিছে । kwin আৰম্ভ "
-"কৰা নহয় ।\n"
+"kwin: সম্ভৱতঃ এটা সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা বৰ্তমানে চলিছে । kwin আৰম্ভ কৰা নহয় "
+"।\n"
 
 #: main.cpp:187
 msgid "kwin: failure during initialization; aborting"
@@ -549,8 +548,8 @@ msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using --"
 "replace)\n"
 msgstr ""
-"kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ "
-"পৰিচালন ব্যৱস্থা বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
+"kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা "
+"বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
 #: main.cpp:396
 msgid "KDE window manager"
@@ -591,8 +590,8 @@ msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় 
 #: main.cpp:481
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr ""
-"ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক "
-"প্ৰতিস্থাপন কৰক"
+"ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক প্ৰতিস্থাপন "
+"কৰক"
 
 #: main.cpp:482
 msgid "Indicate that KWin has recently crashed n times"
@@ -890,10 +889,9 @@ msgid ""
 "application <b>%1</b> (PID=%3, hostname=%4).</p><p>Do you wish to terminate "
 "this application? (All unsaved data in this application will be lost.)</p>"
 msgstr ""
-"<p>\"<b>%2</b>\" শিৰোনাম থকা সংযোগক্ষেত্ৰৰ পৰা কোনো প্ৰতিক্ৰিয়া হোৱা নাই  । "
-"এই সংযোগক্ষেত্ৰৰ গৰাকী <b>%1</b> অনুপ্ৰয়োগ (PID=%3, গৃহস্থ নাম=%4) ।</p><p>"
-"এই অনুপ্ৰয়োগ বন্ধ কৰিব নে ? (ইয়াৰ ফলত, অনুপ্ৰয়োগত উপস্থিত "
-"সকলো অসংৰক্ষিত তথ্য হেৰাব ।)</p>"
+"<p>\"<b>%2</b>\" শিৰোনাম থকা সংযোগক্ষেত্ৰৰ পৰা কোনো প্ৰতিক্ৰিয়া হোৱা নাই  । এই "
+"সংযোগক্ষেত্ৰৰ গৰাকী <b>%1</b> অনুপ্ৰয়োগ (PID=%3, গৃহস্থ নাম=%4) ।</p><p>এই অনুপ্ৰয়োগ "
+"বন্ধ কৰিব নে ? (ইয়াৰ ফলত, অনুপ্ৰয়োগত উপস্থিত সকলো অসংৰক্ষিত তথ্য হেৰাব ।)</p>"
 
 #: killer/killer.cpp:72
 msgid "Terminate"
@@ -978,4 +976,3 @@ msgstr ""
 #, kde-format
 msgid "The library %1 is not a KWin plugin."
 msgstr "%1 লাইব্ৰেৰি এটা KWin প্লাগ-ইন নহয়"
-
