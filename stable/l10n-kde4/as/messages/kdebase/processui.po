@@ -76,8 +76,6 @@ msgid "Show Application Window"
 msgstr "অনুপ্ৰয়োগৰ সংযোগক্ষেত্ৰ দেখুৱাওক"
 
 #: ksysguardprocesslist.cpp:156
-#, fuzzy
-#| msgid "Monitor Input && Output"
 msgid "Monitor Input && Output"
 msgstr "মণিটৰৰ নিবেশ  && নিৰ্গম"
 
@@ -937,8 +935,7 @@ msgid "<br /><br />Running on: %1"
 msgstr "<br /><br />চলি থকা স্তৰ: %1"
 
 #: ProcessModel.cc:876
-#, fuzzy, kde-format
-#| msgid "Nice level: %1 (%2)"
+#, kde-format
 msgid "Nice level: %1 (%2)"
 msgstr "Nice স্তৰ: %1 (%2)"
 

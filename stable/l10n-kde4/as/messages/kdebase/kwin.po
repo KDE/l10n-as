@@ -560,8 +560,6 @@ msgid "KWin"
 msgstr "KWin"
 
 #: main.cpp:471
-#, fuzzy
-#| msgid "(c) 1999-2008, The KDE Developers"
 msgid "(c) 1999-2008, The KDE Developers"
 msgstr "(c) 1999-2008, The KDE Developers"
 
@@ -755,8 +753,6 @@ msgid "Top"
 msgstr "ওপৰত"
 
 #: effects/desktopgrid_config.cpp:68
-#, fuzzy
-#| msgid "Top-Right"
 msgid "Top-Right"
 msgstr "ওপৰত সোঁফালে"
 
@@ -765,8 +761,6 @@ msgid "Right"
 msgstr "সোঁফালে"
 
 #: effects/desktopgrid_config.cpp:72
-#, fuzzy
-#| msgid "Bottom-Right"
 msgid "Bottom-Right"
 msgstr "তলত সোঁফালে"
 
@@ -775,8 +769,6 @@ msgid "Bottom"
 msgstr "তলত"
 
 #: effects/desktopgrid_config.cpp:76
-#, fuzzy
-#| msgid "Bottom-Left"
 msgid "Bottom-Left"
 msgstr "তলত বাওঁফালে"
 
@@ -785,8 +777,6 @@ msgid "Left"
 msgstr "বাওঁফালে"
 
 #: effects/desktopgrid_config.cpp:80
-#, fuzzy
-#| msgid "Top-Left"
 msgid "Top-Left"
 msgstr "ওপৰত বাওঁফালে"
 
