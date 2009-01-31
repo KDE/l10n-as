@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-29 19:52+0100\n"
+"POT-Creation-Date: 2009-01-31 11:37+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1911,15 +1911,15 @@ msgstr "পুৰনি hostname"
 msgid "New hostname"
 msgstr "নতুন hostname"
 
-#: kded/kded.cpp:875
+#: kded/kded.cpp:874
 msgid "KDE Daemon"
 msgstr "KDE Daemon"
 
-#: kded/kded.cpp:877
+#: kded/kded.cpp:876
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE Daemon - প্ৰয়োজন অনুসাৰে Sycoca তথ্যভঁৰাল উন্নয়ন আৰম্ভ কৰে"
 
-#: kded/kded.cpp:880
+#: kded/kded.cpp:879
 msgid "Check Sycoca database only once"
 msgstr "Sycoca তথ্যভঁৰাল অকল এবাৰ পৰীক্ষা কৰা হ'ব"
 
@@ -10864,7 +10864,7 @@ msgstr "URI চমু পথ (&I)"
 msgid "Create Web Shortcut"
 msgstr "ৱেব চমু পথ নিৰ্মাণ কৰক"
 
-#: kinit/kinit.cpp:484
+#: kinit/kinit.cpp:482
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -10874,7 +10874,7 @@ msgstr ""
 "সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা আপোনাৰ "
 "ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
 
-#: kinit/kinit.cpp:503
+#: kinit/kinit.cpp:501
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -10884,12 +10884,12 @@ msgstr ""
 "সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
 
-#: kinit/kinit.cpp:602
+#: kinit/kinit.cpp:600
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
 
-#: kinit/kinit.cpp:620
+#: kinit/kinit.cpp:618
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -10898,7 +10898,7 @@ msgstr ""
 "লাইব্ৰেৰি '%1' খোলা নাযায় ।\n"
 "%2"
 
-#: kinit/kinit.cpp:666
+#: kinit/kinit.cpp:664
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -10915,32 +10915,32 @@ msgstr ""
 "klauncher: এই প্ৰোগ্ৰাম ব্যৱহাৰকৰোঁতা দ্বাৰা আৰম্ভ কৰা সম্ভৱ নহয় ।\n"
 "klauncher: kdeinit4 দ্বাৰা এটি স্বয়ংক্ৰিয় ৰূপে আৰম্ভ কৰা হয় ।\n"
 
-#: kinit/klauncher.cpp:539
+#: kinit/klauncher.cpp:557
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
-#: kinit/klauncher.cpp:708 kinit/klauncher.cpp:733 kinit/klauncher.cpp:748
+#: kinit/klauncher.cpp:730 kinit/klauncher.cpp:755 kinit/klauncher.cpp:770
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: kinit/klauncher.cpp:764 kinit/klauncher.cpp:800
+#: kinit/klauncher.cpp:786 kinit/klauncher.cpp:822
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' সেৱা ত্ৰুটিপূৰ্ণ ৰূপে গঠিত হৈছে ।"
 
-#: kinit/klauncher.cpp:881
+#: kinit/klauncher.cpp:908
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 লঞ্চ কৰা হৈছে"
 
-#: kinit/klauncher.cpp:1090
+#: kinit/klauncher.cpp:1108
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 
-#: kinit/klauncher.cpp:1151
+#: kinit/klauncher.cpp:1169
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
