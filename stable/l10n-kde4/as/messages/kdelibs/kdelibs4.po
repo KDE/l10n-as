@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-31 07:00+0100\n"
+"POT-Creation-Date: 2009-02-02 07:08+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6478,6 +6478,9 @@ msgstr ""
 "আপোনাৰ ঈ-মেইল ঠিকনা । ভুল হ'লে 'ঈ-মেইল বিন্যাস কৰক' বুটাম টিপি সেইটো পৰিবৰ্তন কৰক"
 
 #: kdeui/dialogs/kbugreport.cpp:130
+#, fuzzy
+#| msgid "From:"
+msgctxt "Email sender address"
 msgid "From:"
 msgstr "প্ৰেৰক:"
 
@@ -6490,6 +6493,9 @@ msgid "The email address this bug report is sent to."
 msgstr "এই বাগ প্ৰতিবেদন যি ঈ-মেইল ঠিকনাত প্ৰেৰিত হৈছে ।"
 
 #: kdeui/dialogs/kbugreport.cpp:147
+#, fuzzy
+#| msgid "To:"
+msgctxt "Email receiver address"
 msgid "To:"
 msgstr "প্ৰাপক:"
 
@@ -8072,6 +8078,9 @@ msgid "Enter a search term or character here"
 msgstr "অনুসন্ধানৰ বাবে কোনো অভিব্যক্তি বা অক্ষৰ ইয়াত লিখক"
 
 #: kdeui/widgets/kcharselect.cpp:354
+#, fuzzy
+#| msgid "Back"
+msgctxt "Goes to previous character"
 msgid "Back"
 msgstr "পিছলৈ"
 
@@ -8080,6 +8089,9 @@ msgid "Previous Character"
 msgstr "পূৰ্ববৰ্তী অক্ষৰ"
 
 #: kdeui/widgets/kcharselect.cpp:361
+#, fuzzy
+#| msgid "Forward"
+msgctxt "Goes to next character"
 msgid "Forward"
 msgstr "আগলৈ"
 
