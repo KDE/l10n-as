@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-08 10:22+0100\n"
+"POT-Creation-Date: 2009-02-11 11:01+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7116,7 +7116,7 @@ msgstr "বিচাৰক"
 msgid "&Text to find:"
 msgstr "অনুসন্ধানযোগ্য লিপি: (&T)"
 
-#: kdeui/findreplace/kfinddialog.cpp:98 khtml/find/khtmlfindbar.cpp:57
+#: kdeui/findreplace/kfinddialog.cpp:98 khtml/find/khtmlfindbar.cpp:56
 msgid "Regular e&xpression"
 msgstr "Regular e&xpression"
 
@@ -7140,15 +7140,15 @@ msgstr "placeholders ব্যৱহাৰ কৰক (&l)"
 msgid "Insert Place&holder"
 msgstr "placeholder ভৰাওক (&h)"
 
-#: kdeui/findreplace/kfinddialog.cpp:130 khtml/find/khtmlfindbar.cpp:49
+#: kdeui/findreplace/kfinddialog.cpp:130 khtml/find/khtmlfindbar.cpp:48
 msgid "C&ase sensitive"
 msgstr "হৰফৰ ছাঁদ সম্পৰ্কে সচেতন (&a)"
 
-#: kdeui/findreplace/kfinddialog.cpp:131 khtml/find/khtmlfindbar.cpp:51
+#: kdeui/findreplace/kfinddialog.cpp:131 khtml/find/khtmlfindbar.cpp:50
 msgid "&Whole words only"
 msgstr "অকল সম্পূৰ্ণ শব্দ (&W)"
 
-#: kdeui/findreplace/kfinddialog.cpp:132 khtml/find/khtmlfindbar.cpp:53
+#: kdeui/findreplace/kfinddialog.cpp:132 khtml/find/khtmlfindbar.cpp:52
 msgid "From c&ursor"
 msgstr "আৰম্ভণিৰ কাৰ্ছাৰ (&u)"
 
@@ -7156,7 +7156,7 @@ msgstr "আৰম্ভণিৰ কাৰ্ছাৰ (&u)"
 msgid "Find &backwards"
 msgstr "বিপৰীত দিশাত অনুসন্ধান (&b)"
 
-#: kdeui/findreplace/kfinddialog.cpp:134 khtml/find/khtmlfindbar.cpp:55
+#: kdeui/findreplace/kfinddialog.cpp:134 khtml/find/khtmlfindbar.cpp:54
 msgid "&Selected text"
 msgstr "নিৰ্বাচিত লিপি (&S)"
 
@@ -10677,11 +10677,11 @@ msgstr "কল"
 msgid "Line"
 msgstr "ৰেখা"
 
-#: khtml/find/khtmlfindbar.cpp:207
+#: khtml/find/khtmlfindbar.cpp:205
 msgid "Not found"
 msgstr "পোৱা ন'গ'ল"
 
-#: khtml/find/khtmlfindbar.cpp:221
+#: khtml/find/khtmlfindbar.cpp:219
 msgid "No more matches for this search direction."
 msgstr ""
 
