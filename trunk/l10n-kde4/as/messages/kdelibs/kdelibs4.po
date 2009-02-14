@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-11 11:01+0100\n"
+"POT-Creation-Date: 2009-02-14 11:37+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5553,24 +5553,24 @@ msgstr "পুনৰাবৃত্তি"
 msgid "Undo"
 msgstr "পূৰ্বাবস্থা"
 
-#: kdeui/util/ksystemtrayicon.cpp:155
+#: kdeui/util/ksystemtrayicon.cpp:156
 msgid "Minimize"
 msgstr "সৰ্বনিম্ন মাপ"
 
-#: kdeui/util/ksystemtrayicon.cpp:214
+#: kdeui/util/ksystemtrayicon.cpp:215
 msgid "&Minimize"
 msgstr "সৰ্বনিম্ন মাপ (&M)"
 
-#: kdeui/util/ksystemtrayicon.cpp:218
+#: kdeui/util/ksystemtrayicon.cpp:219
 msgid "&Restore"
 msgstr "পুনৰুদ্ধাৰ (&R)"
 
-#: kdeui/util/ksystemtrayicon.cpp:238
+#: kdeui/util/ksystemtrayicon.cpp:239
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
 
-#: kdeui/util/ksystemtrayicon.cpp:241
+#: kdeui/util/ksystemtrayicon.cpp:242
 msgid "Confirm Quit From System Tray"
 msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
 
