@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-15 10:02+0100\n"
+"POT-Creation-Date: 2009-02-16 09:04+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -583,17 +583,17 @@ msgstr "Luboš Luňák"
 msgid "Maintainer"
 msgstr "পৰিচালক"
 
-#: main.cpp:480
+#: main.cpp:499
 msgid "Disable configuration options"
 msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় কৰা হ'ব"
 
-#: main.cpp:481
+#: main.cpp:500
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr ""
 "ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক প্ৰতিস্থাপন "
 "কৰক"
 
-#: main.cpp:482
+#: main.cpp:501
 msgid "Indicate that KWin has recently crashed n times"
 msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰা হ'ব"
 
