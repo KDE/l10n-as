@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-16 09:03+0100\n"
+"POT-Creation-Date: 2009-02-18 08:58+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6273,7 +6273,7 @@ msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2947
-#: khtml/khtmlview.cpp:2980 khtml/html/html_formimpl.cpp:1782
+#: khtml/khtmlview.cpp:2980 khtml/html/html_formimpl.cpp:1779
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
@@ -10282,7 +10282,7 @@ msgid ""
 msgstr ""
 
 #: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2933 khtml/khtmlview.cpp:2975
-#: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:1790
+#: khtml/html/html_formimpl.cpp:1578 khtml/html/html_formimpl.cpp:1787
 msgid "Submit"
 msgstr "জমা কৰক"
 
@@ -10740,22 +10740,25 @@ msgid "Do Not Store"
 msgstr "সংৰক্ষণ কৰা ন'হ'ব"
 
 #: khtml/html/html_formimpl.cpp:640
+#, fuzzy
+#| msgid "Do you want to restart search from the end?"
+msgid "Do you want to store this password?"
+msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যনৰ অন্তিম স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
+
+#: khtml/html/html_formimpl.cpp:641
+#, fuzzy, kde-format
+#| msgid "Do you want to restart search from the end?"
+msgid "Do you want to store this password for %1?"
+msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যনৰ অন্তিম স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
+
+#: khtml/html/html_formimpl.cpp:644
 msgid ""
 "Konqueror has the ability to store the password in an encrypted wallet. When "
 "the wallet is unlocked, it can then automatically restore the login "
-"information next time you submit this form. Do you want to store the "
-"information now?"
+"information next time you submit this form."
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:645
-#, kde-format
-msgid ""
-"Konqueror has the ability to store the password in an encrypted wallet. When "
-"the wallet is unlocked, it can then automatically restore the login "
-"information next time you visit %1. Do you want to store the information now?"
-msgstr ""
-
-#: khtml/html/html_formimpl.cpp:2582
+#: khtml/html/html_formimpl.cpp:2579
 msgid "Key Generator"
 msgstr "চাবি নিৰ্মাণ ব্যৱস্থা"
 
