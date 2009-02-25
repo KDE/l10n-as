@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-22 05:36+0100\n"
+"POT-Creation-Date: 2009-02-25 07:07+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11101,20 +11101,20 @@ msgstr "পৰিত্যাগ কৰা হ'ব ?"
 msgid "Configure Notifications"
 msgstr "সূচনাবাৰ্তা বিন্যাস কৰক"
 
-#: knotify/config/knotifyeventlist.cpp:88
+#: knotify/config/knotifyeventlist.cpp:92
+msgctxt "State of the notified event"
+msgid "State"
+msgstr "অৱস্থা"
+
+#: knotify/config/knotifyeventlist.cpp:92
 msgctxt "Title of the notified event"
 msgid "Title"
 msgstr "শিৰোনাম"
 
-#: knotify/config/knotifyeventlist.cpp:88
+#: knotify/config/knotifyeventlist.cpp:92
 msgctxt "Description of the notified event"
 msgid "Description"
 msgstr "বিৱৰণ"
-
-#: knotify/config/knotifyeventlist.cpp:88
-msgctxt "State of the notified event"
-msgid "State"
-msgstr "অৱস্থা"
 
 #: kconf_update/kconf_update.cpp:138
 msgid "Only local files are supported."
