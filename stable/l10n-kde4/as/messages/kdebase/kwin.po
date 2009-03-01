@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-24 07:01+0100\n"
+"POT-Creation-Date: 2009-03-01 06:14+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -816,7 +816,7 @@ msgstr "পৰবৰ্তি ডেষ্কট'পলৈ সংযোগক্
 msgid "Toggle Present Windows (All desktops)"
 msgstr "সকলো ডেষ্কট'পত সংযোগক্ষেত্ৰ প্ৰদৰ্শিত হ'ব"
 
-#: effects/presentwindows.cpp:1216
+#: effects/presentwindows.cpp:1217
 #, kde-format
 msgid ""
 "Filter:\n"
