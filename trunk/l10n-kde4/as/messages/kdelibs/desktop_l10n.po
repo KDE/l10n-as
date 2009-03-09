@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-03 10:25+0000\n"
+"POT-Creation-Date: 2009-03-09 10:09+0000\n"
 "PO-Revision-Date: 2008-12-17 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -187,6 +187,11 @@ msgstr "হিব্ৰিউ"
 msgctxt "Name"
 msgid "Hindi"
 msgstr "হিন্দী"
+
+#: hne/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr ""
 
 #: hr/messages/entry.desktop:2
 msgctxt "Name"
