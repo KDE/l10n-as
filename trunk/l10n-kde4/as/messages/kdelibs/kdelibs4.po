@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-14 10:45+0100\n"
+"POT-Creation-Date: 2009-03-15 10:26+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6287,8 +6287,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2964
-#: khtml/khtmlview.cpp:2997 khtml/html/html_formimpl.cpp:1807
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2901
+#: khtml/khtmlview.cpp:2934 khtml/html/html_formimpl.cpp:1807
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
@@ -10307,7 +10307,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4639 khtml/khtmlview.cpp:2950 khtml/khtmlview.cpp:2992
+#: khtml/khtml_part.cpp:4639 khtml/khtmlview.cpp:2887 khtml/khtmlview.cpp:2929
 #: khtml/html/html_formimpl.cpp:1603 khtml/html/html_formimpl.cpp:1815
 msgid "Submit"
 msgstr "জমা কৰক"
@@ -10418,39 +10418,39 @@ msgstr "অগ্ৰাহ্যৰ তালিকাত যোগ কৰা �
 msgid "Remove from ignores..."
 msgstr "অগ্ৰাহ্যৰ তালিকাৰ পৰা আঁতৰুৱা হ'ব..."
 
-#: khtml/khtmlview.cpp:1913
+#: khtml/khtmlview.cpp:1850
 msgid "Find stopped."
 msgstr "অনুসন্ধান বন্ধ কৰা হৈছে ।"
 
-#: khtml/khtmlview.cpp:1924
+#: khtml/khtmlview.cpp:1861
 msgid "Starting -- find links as you type"
 msgstr "আৰম্ভ কৰা হৈছে -- টাইপ কৰাৰ সময় লিঙ্ক অনুসন্ধান কৰা হ'ব"
 
-#: khtml/khtmlview.cpp:1930
+#: khtml/khtmlview.cpp:1867
 msgid "Starting -- find text as you type"
 msgstr "আৰম্ভ কৰা হৈছে -- টাইপ কৰাৰ সময় লিপি অনুসন্ধান কৰা হ'ব"
 
-#: khtml/khtmlview.cpp:1953
+#: khtml/khtmlview.cpp:1890
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "লিঙ্ক পোৱা গৈছে: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1958
+#: khtml/khtmlview.cpp:1895
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "লিঙ্ক পোৱা নাযায়: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1966
+#: khtml/khtmlview.cpp:1903
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "লিপি পোৱা গৈছে: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1971
+#: khtml/khtmlview.cpp:1908
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "লিপি পোৱা নাযায়: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:2014
+#: khtml/khtmlview.cpp:1951
 msgid "Access Keys activated"
 msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
 
@@ -10482,7 +10482,7 @@ msgstr "মাৰাত্মক বিশলেষণৰ ভুল: %1 %2 শ�
 msgid "XML parsing error"
 msgstr "XML বিশ্লেষণ সংক্ৰান্ত ত্ৰুটি"
 
-#: khtml/xml/dom_docimpl.cpp:2257
+#: khtml/xml/dom_docimpl.cpp:2256
 msgid "Basic Page Style"
 msgstr "পৃষ্ঠাৰ মূল বিন্যাস"
 
@@ -10504,62 +10504,62 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "পৰিত্যাগ কৰা হ'ব (&A)"
 
-#: khtml/ecma/kjs_window.cpp:1593 khtml/ecma/kjs_html.cpp:2105
+#: khtml/ecma/kjs_window.cpp:1586 khtml/ecma/kjs_html.cpp:2105
 msgid "Confirmation: JavaScript Popup"
 msgstr "নিশ্চায়ন: JavaScript পপ-আপ"
 
-#: khtml/ecma/kjs_window.cpp:1596
+#: khtml/ecma/kjs_window.cpp:1589
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1599
+#: khtml/ecma/kjs_window.cpp:1592
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1601 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1594 khtml/ecma/kjs_html.cpp:2112
 msgid "Allow"
 msgstr "অনুমতি প্ৰদান কৰা হ'ব"
 
-#: khtml/ecma/kjs_window.cpp:1601 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1594 khtml/ecma/kjs_html.cpp:2112
 msgid "Do Not Allow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
-#: khtml/ecma/kjs_window.cpp:1900
+#: khtml/ecma/kjs_window.cpp:1893
 msgid "Close window?"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰা হ'ব নেকি ?"
 
-#: khtml/ecma/kjs_window.cpp:1900
+#: khtml/ecma/kjs_window.cpp:1893
 msgid "Confirmation Required"
 msgstr "নিশ্চিত কৰা আৱশ্যক"
 
-#: khtml/ecma/kjs_window.cpp:2758
+#: khtml/ecma/kjs_window.cpp:2751
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2761
+#: khtml/ecma/kjs_window.cpp:2754
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2769
+#: khtml/ecma/kjs_window.cpp:2762
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript দ্বাৰা পত্ৰচিহ্ন যোগ কৰাৰ প্ৰচেষ্টা কৰা হৈছে"
 
-#: khtml/ecma/kjs_window.cpp:2773
+#: khtml/ecma/kjs_window.cpp:2766
 msgid "Insert"
 msgstr "সন্নিবেশ কৰক"
 
-#: khtml/ecma/kjs_window.cpp:2773
+#: khtml/ecma/kjs_window.cpp:2766
 msgid "Disallow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
