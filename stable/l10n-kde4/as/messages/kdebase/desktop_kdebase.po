@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-18 05:29+0000\n"
+"POT-Creation-Date: 2009-03-19 05:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -49,12 +49,12 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin views."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: apps/dolphin/src/kcmdolphin.desktop:98
+#: apps/dolphin/src/kcmdolphin.desktop:99
 msgctxt "Name"
 msgid "Views"
 msgstr "প্ৰদৰ্শন ব্যৱস্থা"
 
-#: apps/dolphin/src/kcmdolphin.desktop:170
+#: apps/dolphin/src/kcmdolphin.desktop:172
 msgctxt "Comment"
 msgid "Configure file manager settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-17 06:18+0100\n"
+"POT-Creation-Date: 2009-03-19 06:09+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10422,16 +10422,16 @@ msgstr "TestRegressionGui"
 msgid "GUI for the khtml regression tester"
 msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
 
-#: khtml/xml/xml_tokenizer.cpp:328
+#: khtml/xml/xml_tokenizer.cpp:333
 msgid "the document is not in the correct file format"
 msgstr "আলেখ্যনত সঠিক নথিপত্ৰ বিন্যাস ব্যৱহৃত নহয়"
 
-#: khtml/xml/xml_tokenizer.cpp:334
+#: khtml/xml/xml_tokenizer.cpp:339
 #, kde-format
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "মাৰাত্মক বিশলেষণৰ ভুল: %1 %2 শাৰীত, %3 স্তম্ভত"
 
-#: khtml/xml/xml_tokenizer.cpp:517
+#: khtml/xml/xml_tokenizer.cpp:522
 msgid "XML parsing error"
 msgstr "XML বিশ্লেষণ সংক্ৰান্ত ত্ৰুটি"
 
@@ -10666,7 +10666,7 @@ msgstr "পোৱা ন'গ'ল"
 msgid "No more matches for this search direction."
 msgstr ""
 
-#: khtml/html/htmlparser.cpp:1832
+#: khtml/html/htmlparser.cpp:1831
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "এইটো এটা অনুসন্ধানযোগ্য ইন্ডেক্স । অনুগ্ৰহ কৰি অনুসন্ধানৰ উদ্দেশ্যে শব্দ লিখক: "
 
