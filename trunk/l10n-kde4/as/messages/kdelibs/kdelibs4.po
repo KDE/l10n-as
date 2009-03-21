@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-19 10:24+0100\n"
+"POT-Creation-Date: 2009-03-21 11:04+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4092,20 +4092,20 @@ msgstr ""
 "সংস্থাপন কৰা হৈছে নে নাই, XDG_DATA_DIRS ৰ মান নিৰ্ধাৰিত নহয়, বা /usr/share "
 "অন্তৰ্ভুক্ত কৰা নহয় ।"
 
-#: kdecore/localization/kencodingprober.cpp:235
-#: kdecore/localization/kencodingprober.cpp:272
+#: kdecore/localization/kencodingprober.cpp:240
+#: kdecore/localization/kencodingprober.cpp:277
 msgctxt "@item Text character set"
 msgid "Disabled"
 msgstr "নিষ্ক্ৰিয় কৰক"
 
-#: kdecore/localization/kencodingprober.cpp:237
-#: kdecore/localization/kencodingprober.cpp:275
+#: kdecore/localization/kencodingprober.cpp:242
+#: kdecore/localization/kencodingprober.cpp:280
 msgctxt "@item Text character set"
 msgid "Universal"
 msgstr "সৰ্বব্যাপী"
 
-#: kdecore/localization/kencodingprober.cpp:239
-#: kdecore/localization/kencodingprober.cpp:317
+#: kdecore/localization/kencodingprober.cpp:244
+#: kdecore/localization/kencodingprober.cpp:322
 #: kdecore/localization/kencodingdetector.cpp:1121
 #: kdecore/localization/kencodingdetector.cpp:1223
 #: kdecore/localization/kcharsets.cpp:206
@@ -4113,8 +4113,8 @@ msgctxt "@item Text character set"
 msgid "Unicode"
 msgstr "Unicode"
 
-#: kdecore/localization/kencodingprober.cpp:241
-#: kdecore/localization/kencodingprober.cpp:287
+#: kdecore/localization/kencodingprober.cpp:246
+#: kdecore/localization/kencodingprober.cpp:292
 #: kdecore/localization/kencodingdetector.cpp:1123
 #: kdecore/localization/kencodingdetector.cpp:1193
 #: kdecore/localization/kcharsets.cpp:173
@@ -4122,8 +4122,8 @@ msgctxt "@item Text character set"
 msgid "Cyrillic"
 msgstr "সিৰিলিক"
 
-#: kdecore/localization/kencodingprober.cpp:243
-#: kdecore/localization/kencodingprober.cpp:302
+#: kdecore/localization/kencodingprober.cpp:248
+#: kdecore/localization/kencodingprober.cpp:307
 #: kdecore/localization/kencodingdetector.cpp:1125
 #: kdecore/localization/kencodingdetector.cpp:1208
 #: kdecore/localization/kcharsets.cpp:155
@@ -4131,8 +4131,8 @@ msgctxt "@item Text character set"
 msgid "Western European"
 msgstr "পশ্চিত ইউৰোপিয়ান"
 
-#: kdecore/localization/kencodingprober.cpp:245
-#: kdecore/localization/kencodingprober.cpp:284
+#: kdecore/localization/kencodingprober.cpp:250
+#: kdecore/localization/kencodingprober.cpp:289
 #: kdecore/localization/kencodingdetector.cpp:1127
 #: kdecore/localization/kencodingdetector.cpp:1190
 #: kdecore/localization/kcharsets.cpp:161
@@ -4140,8 +4140,8 @@ msgctxt "@item Text character set"
 msgid "Central European"
 msgstr "মধ্য ইউৰোপিয়ান"
 
-#: kdecore/localization/kencodingprober.cpp:247
-#: kdecore/localization/kencodingprober.cpp:290
+#: kdecore/localization/kencodingprober.cpp:252
+#: kdecore/localization/kencodingprober.cpp:295
 #: kdecore/localization/kencodingdetector.cpp:1129
 #: kdecore/localization/kencodingdetector.cpp:1196
 #: kdecore/localization/kcharsets.cpp:192
@@ -4149,8 +4149,8 @@ msgctxt "@item Text character set"
 msgid "Greek"
 msgstr "গ্ৰিক"
 
-#: kdecore/localization/kencodingprober.cpp:249
-#: kdecore/localization/kencodingprober.cpp:293
+#: kdecore/localization/kencodingprober.cpp:254
+#: kdecore/localization/kencodingprober.cpp:298
 #: kdecore/localization/kencodingdetector.cpp:1131
 #: kdecore/localization/kencodingdetector.cpp:1199
 #: kdecore/localization/kcharsets.cpp:198
@@ -4158,8 +4158,8 @@ msgctxt "@item Text character set"
 msgid "Hebrew"
 msgstr "হিব্ৰু"
 
-#: kdecore/localization/kencodingprober.cpp:251
-#: kdecore/localization/kencodingprober.cpp:299
+#: kdecore/localization/kencodingprober.cpp:256
+#: kdecore/localization/kencodingprober.cpp:304
 #: kdecore/localization/kencodingdetector.cpp:1133
 #: kdecore/localization/kencodingdetector.cpp:1205
 #: kdecore/localization/kcharsets.cpp:170
@@ -4167,8 +4167,8 @@ msgctxt "@item Text character set"
 msgid "Turkish"
 msgstr "তুৰ্কি"
 
-#: kdecore/localization/kencodingprober.cpp:253
-#: kdecore/localization/kencodingprober.cpp:296
+#: kdecore/localization/kencodingprober.cpp:258
+#: kdecore/localization/kencodingprober.cpp:301
 #: kdecore/localization/kencodingdetector.cpp:1135
 #: kdecore/localization/kencodingdetector.cpp:1202
 #: kdecore/localization/kcharsets.cpp:188
@@ -4176,8 +4176,8 @@ msgctxt "@item Text character set"
 msgid "Japanese"
 msgstr "জাপানি"
 
-#: kdecore/localization/kencodingprober.cpp:255
-#: kdecore/localization/kencodingprober.cpp:281
+#: kdecore/localization/kencodingprober.cpp:260
+#: kdecore/localization/kencodingprober.cpp:286
 #: kdecore/localization/kencodingdetector.cpp:1137
 #: kdecore/localization/kencodingdetector.cpp:1187
 #: kdecore/localization/kcharsets.cpp:164
@@ -4185,24 +4185,24 @@ msgctxt "@item Text character set"
 msgid "Baltic"
 msgstr "বল্টিক"
 
-#: kdecore/localization/kencodingprober.cpp:257
-#: kdecore/localization/kencodingprober.cpp:305
+#: kdecore/localization/kencodingprober.cpp:262
+#: kdecore/localization/kencodingprober.cpp:310
 #: kdecore/localization/kencodingdetector.cpp:1211
 #: kdecore/localization/kcharsets.cpp:179
 msgctxt "@item Text character set"
 msgid "Chinese Traditional"
 msgstr "পাৰম্পৰিক চীনা"
 
-#: kdecore/localization/kencodingprober.cpp:259
-#: kdecore/localization/kencodingprober.cpp:308
+#: kdecore/localization/kencodingprober.cpp:264
+#: kdecore/localization/kencodingprober.cpp:313
 #: kdecore/localization/kencodingdetector.cpp:1214
 #: kdecore/localization/kcharsets.cpp:182
 msgctxt "@item Text character set"
 msgid "Chinese Simplified"
 msgstr "সৰলিকৃত চীনা"
 
-#: kdecore/localization/kencodingprober.cpp:261
-#: kdecore/localization/kencodingprober.cpp:278
+#: kdecore/localization/kencodingprober.cpp:266
+#: kdecore/localization/kencodingprober.cpp:283
 #: kdecore/localization/kencodingdetector.cpp:1139
 #: kdecore/localization/kencodingdetector.cpp:1184
 #: kdecore/localization/kcharsets.cpp:195
@@ -4210,14 +4210,14 @@ msgctxt "@item Text character set"
 msgid "Arabic"
 msgstr "আৰবি"
 
-#: kdecore/localization/kencodingprober.cpp:311
+#: kdecore/localization/kencodingprober.cpp:316
 #: kdecore/localization/kencodingdetector.cpp:1217
 #: kdecore/localization/kcharsets.cpp:186
 msgctxt "@item Text character set"
 msgid "Korean"
 msgstr "কোৰিয়ান"
 
-#: kdecore/localization/kencodingprober.cpp:314
+#: kdecore/localization/kencodingprober.cpp:319
 #: kdecore/localization/kencodingdetector.cpp:1220
 #: kdecore/localization/kcharsets.cpp:203
 msgctxt "@item Text character set"
@@ -7267,72 +7267,72 @@ msgstr "বিপৰীত দিশাত অনুসন্ধান কৰা
 msgid "Ask before replacing each match found."
 msgstr "চিনাক্ত হোৱা প্ৰতি মিল প্ৰতিস্থাপন কৰাৰ আগতে নিশ্চিত কৰা হ'ব ।"
 
-#: kdeui/findreplace/kfinddialog.cpp:431
+#: kdeui/findreplace/kfinddialog.cpp:432
 msgid "Any Character"
 msgstr "যি কোনো অক্ষৰ"
 
-#: kdeui/findreplace/kfinddialog.cpp:432
+#: kdeui/findreplace/kfinddialog.cpp:433
 msgid "Start of Line"
 msgstr "পংক্তিৰ প্ৰাৰম্ভ"
 
-#: kdeui/findreplace/kfinddialog.cpp:433
+#: kdeui/findreplace/kfinddialog.cpp:434
 msgid "End of Line"
 msgstr "পংক্তিৰ সমাপ্তি"
 
-#: kdeui/findreplace/kfinddialog.cpp:434
+#: kdeui/findreplace/kfinddialog.cpp:435
 msgid "Set of Characters"
 msgstr "অক্ষৰমালা"
 
-#: kdeui/findreplace/kfinddialog.cpp:435
+#: kdeui/findreplace/kfinddialog.cpp:436
 msgid "Repeats, Zero or More Times"
 msgstr "শূণ্য বা অধিক বাৰ পুনৰাবৃত্তি হয়"
 
-#: kdeui/findreplace/kfinddialog.cpp:436
+#: kdeui/findreplace/kfinddialog.cpp:437
 msgid "Repeats, One or More Times"
 msgstr "এক বা অধিক বাৰ পুনৰাবৃত্তি হয়"
 
-#: kdeui/findreplace/kfinddialog.cpp:437
+#: kdeui/findreplace/kfinddialog.cpp:438
 msgid "Optional"
 msgstr "ঐচ্ছিক"
 
-#: kdeui/findreplace/kfinddialog.cpp:438
+#: kdeui/findreplace/kfinddialog.cpp:439
 msgid "Escape"
 msgstr "Escape"
 
-#: kdeui/findreplace/kfinddialog.cpp:439
+#: kdeui/findreplace/kfinddialog.cpp:440
 msgid "TAB"
 msgstr "TAB"
 
-#: kdeui/findreplace/kfinddialog.cpp:440
+#: kdeui/findreplace/kfinddialog.cpp:441
 msgid "Newline"
 msgstr "Newline"
 
-#: kdeui/findreplace/kfinddialog.cpp:441
+#: kdeui/findreplace/kfinddialog.cpp:442
 msgid "Carriage Return"
 msgstr "Carriage Return"
 
-#: kdeui/findreplace/kfinddialog.cpp:442
+#: kdeui/findreplace/kfinddialog.cpp:443
 msgid "White Space"
 msgstr "White Space"
 
-#: kdeui/findreplace/kfinddialog.cpp:443
+#: kdeui/findreplace/kfinddialog.cpp:444
 msgid "Digit"
 msgstr "Digit"
 
-#: kdeui/findreplace/kfinddialog.cpp:536
+#: kdeui/findreplace/kfinddialog.cpp:537
 msgid "Complete Match"
 msgstr "সম্পূৰ্ণ মিল"
 
-#: kdeui/findreplace/kfinddialog.cpp:541
+#: kdeui/findreplace/kfinddialog.cpp:542
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "Captured Text (%1)"
 
-#: kdeui/findreplace/kfinddialog.cpp:549
+#: kdeui/findreplace/kfinddialog.cpp:550
 msgid "You must enter some text to search for."
 msgstr "অনুসন্ধানৰ বাবে কিছু লিপি লিখা আৱশ্যক ।"
 
-#: kdeui/findreplace/kfinddialog.cpp:560
+#: kdeui/findreplace/kfinddialog.cpp:561
 msgid "Invalid regular expression."
 msgstr "regular expression বৈধ নহয় ।"
 
@@ -9642,7 +9642,7 @@ msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 msgid "Allow Tabulations"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:542
+#: kdeui/widgets/ktextedit.cpp:542 kdeui/widgets/ktextedit.cpp:553
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Suggestions for %1"
@@ -9656,7 +9656,13 @@ msgstr "উপেক্ষা কৰক"
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:691
+#: kdeui/widgets/ktextedit.cpp:547 kdeui/widgets/ktextedit.cpp:549
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "No suggestions for %1"
+msgstr "মন্তব্য"
+
+#: kdeui/widgets/ktextedit.cpp:697
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
