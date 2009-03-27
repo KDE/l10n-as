@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-26 05:42+0000\n"
+"POT-Creation-Date: 2009-03-27 05:26+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -106,7 +106,7 @@ msgctxt "Name"
 msgid "Python encoding checker/adder"
 msgstr "Python encoding checker/adder"
 
-#: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:58
+#: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:59
 msgctxt "Comment"
 msgid "While saving check encoding of python files and add an encoding line"
 msgstr ""
