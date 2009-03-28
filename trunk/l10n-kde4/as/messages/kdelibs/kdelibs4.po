@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-26 10:46+0100\n"
+"POT-Creation-Date: 2009-03-28 11:05+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5539,6 +5539,14 @@ msgstr " স্থগিত "
 msgid " %1/s "
 msgstr " %1/s "
 
+#: kdeui/jobs/kwidgetjobtracker.cpp:273 kdeui/jobs/kwidgetjobtracker.cpp:281
+#, fuzzy, kde-format
+#| msgctxt "@application/plain"
+#| msgid "%1"
+msgctxt "%1 is the label, we add a ':' to it"
+msgid "%1:"
+msgstr "%1"
+
 #: kdeui/jobs/kwidgetjobtracker.cpp:328
 #, kde-format
 msgid "%2 of %3 complete"
@@ -5605,7 +5613,7 @@ msgstr "%1/s (কৰা হ'ল)"
 msgid "&Resume"
 msgstr "পুনৰাৰম্ভ"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:428 kdeui/jobs/kwidgetjobtracker.cpp:478
+#: kdeui/jobs/kwidgetjobtracker.cpp:428 kdeui/jobs/kwidgetjobtracker.cpp:501
 #, fuzzy
 #| msgid "Pause"
 msgid "&Pause"
@@ -5621,35 +5629,43 @@ msgctxt "The destination url of a job"
 msgid "Destination:"
 msgstr "গন্তব্য:"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:506
+#: kdeui/jobs/kwidgetjobtracker.cpp:486 kdeui/jobs/kwidgetjobtracker.cpp:662
+msgid "Click this to expand the dialog, to show details"
+msgstr ""
+
+#: kdeui/jobs/kwidgetjobtracker.cpp:521
 msgid "&Keep this window open after transfer is complete"
 msgstr "তথ্য বিনিময় সমাপ্ত হোৱাৰ পিছতো এই সংযোগক্ষেত্ৰ খোলা ৰখা হ'ব (&K)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:515
+#: kdeui/jobs/kwidgetjobtracker.cpp:530
 msgid "Open &File"
 msgstr "নথিপত্ৰ খোলক (&F)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:522
+#: kdeui/jobs/kwidgetjobtracker.cpp:537
 msgid "Open &Destination"
 msgstr "গন্তব্যস্থল খোলক (&D)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:538
+#: kdeui/jobs/kwidgetjobtracker.cpp:553
 msgid "Progress Dialog"
 msgstr "অগ্ৰগতিসূচক সম্বাদ"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:551
+#: kdeui/jobs/kwidgetjobtracker.cpp:566
 #, kde-format
 msgid "%1 folder"
 msgid_plural "%1 folders"
 msgstr[0] "%1 ফোল্ডাৰ"
 msgstr[1] "%1 folders"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:552
+#: kdeui/jobs/kwidgetjobtracker.cpp:567
 #, kde-format
 msgid "%1 file"
 msgid_plural "%1 files"
 msgstr[0] "%1 নথিপত্ৰ"
 msgstr[1] "%1 নথিপত্ৰ"
+
+#: kdeui/jobs/kwidgetjobtracker.cpp:655
+msgid "Click this to collapse the dialog, to hide details"
+msgstr ""
 
 #: kdeui/util/kundostack.cpp:48
 msgid "Redo"
@@ -9715,39 +9731,39 @@ msgstr "প্ৰদেশ"
 msgid "Comment"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:436 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:440 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "বানান পৰীক্ষণ..."
 
-#: kdeui/widgets/ktextedit.cpp:439 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:443 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 
-#: kdeui/widgets/ktextedit.cpp:443 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:447 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:542 kdeui/widgets/ktextedit.cpp:553
+#: kdeui/widgets/ktextedit.cpp:546 kdeui/widgets/ktextedit.cpp:557
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:544
+#: kdeui/widgets/ktextedit.cpp:548
 msgid "Ignore"
 msgstr "উপেক্ষা কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:545
+#: kdeui/widgets/ktextedit.cpp:549
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:547 kdeui/widgets/ktextedit.cpp:549
+#: kdeui/widgets/ktextedit.cpp:551 kdeui/widgets/ktextedit.cpp:553
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:697
+#: kdeui/widgets/ktextedit.cpp:701
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
