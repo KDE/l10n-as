@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-28 11:05+0100\n"
+"POT-Creation-Date: 2009-03-29 11:35+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2262,7 +2262,7 @@ msgstr "লক্ষ্য পঞ্জিকা ব্যৱহাৰৰ বা
 msgid "Unable to open temporary file."
 msgstr "অস্থায়ী নথিপত্ৰ খোলোঁতে ব্যৰ্থ ।"
 
-#: kdecore/io/ksavefile.cpp:220
+#: kdecore/io/ksavefile.cpp:217
 msgid "Error during rename."
 msgstr "নাম পৰিবৰ্তনৰ সময়ত ত্ৰুটি ।"
 
