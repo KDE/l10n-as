@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-31 06:14+0200\n"
+"POT-Creation-Date: 2009-04-01 07:15+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9666,31 +9666,31 @@ msgstr "প্ৰদেশ"
 msgid "Comment"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:439 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:457 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "বানান পৰীক্ষণ..."
 
-#: kdeui/widgets/ktextedit.cpp:442 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:460 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 
-#: kdeui/widgets/ktextedit.cpp:446 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:464 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:545
+#: kdeui/widgets/ktextedit.cpp:563
 msgid "Suggestions"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:547
+#: kdeui/widgets/ktextedit.cpp:565
 msgid "Ignore"
 msgstr "উপেক্ষা কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:548
+#: kdeui/widgets/ktextedit.cpp:566
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:694
+#: kdeui/widgets/ktextedit.cpp:712
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
