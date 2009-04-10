@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-09 11:04+0200\n"
+"POT-Creation-Date: 2009-04-10 11:05+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10767,7 +10767,7 @@ msgstr ""
 msgid "Breakpoint"
 msgstr "Breakpoint"
 
-#: khtml/ecma/debugger/scriptsdock.cpp:40
+#: khtml/ecma/debugger/scriptsdock.cpp:43
 msgid "Loaded Scripts"
 msgstr "স্ক্ৰিপ্ট তুলি লোৱা হৈছে"
 
@@ -11040,15 +11040,15 @@ msgstr "সকলো গ্ৰহণ কৰা হ'ব (&G)"
 msgid "No handler found for %1."
 msgstr "%1 ৰ বাবে হেন্ডলাৰ পোৱা নাযায় ।"
 
-#: khtml/kmultipart/kmultipart.cpp:564
+#: khtml/kmultipart/kmultipart.cpp:567
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:566
+#: khtml/kmultipart/kmultipart.cpp:569
 msgid "Embeddable component for multipart/mixed"
 msgstr ""
 
-#: khtml/kmultipart/kmultipart.cpp:568
+#: khtml/kmultipart/kmultipart.cpp:571
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 
@@ -12393,7 +12393,7 @@ msgstr "স্বনিৰ্ধাৰিত..."
 msgid "TETest"
 msgstr "TETest"
 
-#: kdecore/util/qtest_kde.h:74 kdecore/util/qtest_kde.h:122
+#: kdecore/util/qtest_kde.h:76 kdecore/util/qtest_kde.h:125
 msgid "KDE Test Program"
 msgstr "KDE পৰীক্ষা প্ৰোগ্ৰাম"
 
