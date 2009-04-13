@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-11 10:06+0000\n"
+"POT-Creation-Date: 2009-04-13 09:17+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11517,6 +11517,16 @@ msgctxt "Comment"
 msgid ""
 "A configuration tool for managing the actions available to the user when "
 "connecting new devices to the computer"
+msgstr ""
+
+#: workspace/solid/wicd/solid_wicd.desktop:7
+msgctxt "Name"
+msgid "Wicd"
+msgstr ""
+
+#: workspace/solid/wicd/solid_wicd.desktop:9
+msgctxt "Comment"
+msgid "Network management using the Wicd daemon"
 msgstr ""
 
 #: workspace/systemsettings/categories/settings-about-me.desktop:8
