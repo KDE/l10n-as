@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-21 09:38+0000\n"
+"POT-Creation-Date: 2009-04-24 09:26+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -127,21 +127,6 @@ msgstr "বৰ্ত্তমানৰ সময় & দিন ভৰাওক"
 msgctxt "Name"
 msgid "Format of Time & Date insertion"
 msgstr "সময় & দিন ভৰুৱাৰ আকৃতি"
-
-#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:18
-msgctxt "Name"
-msgid "Word Completion"
-msgstr "শব্দ সম্পূৰ্ণ কৰা"
-
-#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:95
-msgctxt "Comment"
-msgid "Directional or popup-based completion from words in the document"
-msgstr "আলেখ্যনত শব্দৰ দিশৰ মতে বা প'প-আপ ভিত্তিত সম্পূৰ্ণ কৰা"
-
-#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion_config.desktop:9
-msgctxt "Name"
-msgid "Behavior"
-msgstr "আচাৰ ব্যৱহাৰ"
 
 #: kdecore/all_languages.desktop:2
 msgctxt "Name"
@@ -1575,6 +1560,18 @@ msgstr "Enchant"
 msgctxt "Name"
 msgid "HSpell"
 msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "Word Completion"
+#~ msgstr "শব্দ সম্পূৰ্ণ কৰা"
+
+#~ msgctxt "Comment"
+#~ msgid "Directional or popup-based completion from words in the document"
+#~ msgstr "আলেখ্যনত শব্দৰ দিশৰ মতে বা প'প-আপ ভিত্তিত সম্পূৰ্ণ কৰা"
+
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "আচাৰ ব্যৱহাৰ"
 
 #~ msgctxt "Name"
 #~ msgid "KDED Global Shortcuts Server"
