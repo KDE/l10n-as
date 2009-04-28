@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-25 11:42+0200\n"
+"POT-Creation-Date: 2009-04-28 11:15+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -658,33 +658,33 @@ msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ�
 msgid "&Special Application Settings..."
 msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ বৈশিষ্ট্য...(&S)"
 
-#: useractions.cpp:120
-msgid "Ad&vanced"
-msgstr "উন্নত (&v)"
-
-#: useractions.cpp:137
+#: useractions.cpp:134
 msgid "&Opacity"
 msgstr "গভিৰতা (&O)"
 
-#: useractions.cpp:140
+#: useractions.cpp:137
 msgid "&Move"
 msgstr "লৰাওক (&M)"
 
-#: useractions.cpp:147
+#: useractions.cpp:144
 msgid "Re&size"
 msgstr "মাপ পৰিবৰ্তন (&s)"
 
-#: useractions.cpp:153
+#: useractions.cpp:150
 msgid "Mi&nimize"
 msgstr "সৰু কৰক (&n)"
 
-#: useractions.cpp:159
+#: useractions.cpp:156
 msgid "Ma&ximize"
 msgstr "ডাঙৰ কৰক (&x)"
 
-#: useractions.cpp:166
+#: useractions.cpp:163
 msgid "Sh&ade"
 msgstr "ছায়াবৃত (&a)"
+
+#: useractions.cpp:171
+msgid "Ad&vanced"
+msgstr "উন্নত (&v)"
 
 #: useractions.cpp:178
 msgid "Configur&e Window Behavior..."
