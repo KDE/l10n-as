@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-30 06:34+0200\n"
+"POT-Creation-Date: 2009-05-02 07:12+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6323,79 +6323,79 @@ msgstr "সহায় প্ৰাপ্ত কৰক..."
 msgid "--- separator ---"
 msgstr "--- বিভাজন ৰেখা ---"
 
-#: kdeui/dialogs/kedittoolbar.cpp:478
+#: kdeui/dialogs/kedittoolbar.cpp:480
 msgid "Configure Toolbars"
 msgstr "টুল-বাৰ বিন্যাস কৰক"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527
+#: kdeui/dialogs/kedittoolbar.cpp:529
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
 "default? The changes will be applied immediately."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:527
+#: kdeui/dialogs/kedittoolbar.cpp:529
 msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2987
+#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2987
 #: khtml/khtmlview.cpp:3020 khtml/html/html_formimpl.cpp:1810
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
-#: kdeui/dialogs/kedittoolbar.cpp:824
+#: kdeui/dialogs/kedittoolbar.cpp:826
 msgid "&Toolbar:"
 msgstr "টুল-বাৰ: (&T)"
 
-#: kdeui/dialogs/kedittoolbar.cpp:839
+#: kdeui/dialogs/kedittoolbar.cpp:841
 msgid "A&vailable actions:"
 msgstr "উপলব্ধ কৰক: (&v)"
 
-#: kdeui/dialogs/kedittoolbar.cpp:854
+#: kdeui/dialogs/kedittoolbar.cpp:856
 msgid "Curr&ent actions:"
 msgstr "বৰ্তমান কাৰ্য্য: (&e)"
 
-#: kdeui/dialogs/kedittoolbar.cpp:870
+#: kdeui/dialogs/kedittoolbar.cpp:872
 msgid "Change &Icon..."
 msgstr "আইকন পৰিবৰ্তন কৰক...(&I)"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1026
+#: kdeui/dialogs/kedittoolbar.cpp:1028
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1047
+#: kdeui/dialogs/kedittoolbar.cpp:1049
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1049
+#: kdeui/dialogs/kedittoolbar.cpp:1051
 msgid "<Merge>"
 msgstr "<Merge>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1051
+#: kdeui/dialogs/kedittoolbar.cpp:1053
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Merge %1>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1057
+#: kdeui/dialogs/kedittoolbar.cpp:1059
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "will not be able to re-add it."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1058
+#: kdeui/dialogs/kedittoolbar.cpp:1060
 #, kde-format
 msgid "ActionList: %1"
 msgstr "ActionList: %1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1158 kdeui/dialogs/kedittoolbar.cpp:1185
+#: kdeui/dialogs/kedittoolbar.cpp:1160 kdeui/dialogs/kedittoolbar.cpp:1187
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1423
+#: kdeui/dialogs/kedittoolbar.cpp:1442
 msgid "Change Icon"
 msgstr "আইকন পৰিবৰ্তন কৰক"
 
