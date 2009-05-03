@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-02 07:12+0200\n"
+"POT-Creation-Date: 2009-05-03 06:22+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10524,7 +10524,7 @@ msgstr "মাৰাত্মক বিশলেষণৰ ভুল: %1 %2 শ�
 msgid "XML parsing error"
 msgstr "XML বিশ্লেষণ সংক্ৰান্ত ত্ৰুটি"
 
-#: khtml/xml/dom_docimpl.cpp:2256
+#: khtml/xml/dom_docimpl.cpp:2259
 msgid "Basic Page Style"
 msgstr "পৃষ্ঠাৰ মূল বিন্যাস"
 
