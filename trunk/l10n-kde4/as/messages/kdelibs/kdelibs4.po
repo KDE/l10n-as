@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-03 11:03+0200\n"
+"POT-Creation-Date: 2009-05-04 11:00+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6110,7 +6110,7 @@ msgstr "Find"
 msgid "Cut"
 msgstr "কাটক"
 
-#: kdeui/util/kkeyserver_x11.cpp:114 kdeui/dialogs/kshortcutsdialog.cpp:108
+#: kdeui/util/kkeyserver_x11.cpp:114 kdeui/dialogs/kshortcutsdialog.cpp:120
 msgid "Print"
 msgstr "মূদ্ৰণ কৰক"
 
@@ -6199,17 +6199,17 @@ msgstr "প্ৰতিমূৰ্তিৰ প্ৰান্ত নিৰ্�
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "মন পছন্দ ক্ষেত্ৰ নিৰ্ব্বাচন কৰিবলৈ প্ৰতিমূৰ্তিত টিপি তাক টানক ।"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:66
+#: kdeui/dialogs/kshortcutsdialog.cpp:67
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
 "one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:106
+#: kdeui/dialogs/kshortcutsdialog.cpp:118
 msgid "Configure Shortcuts"
 msgstr "চমুপথ বিন্যাস কৰক"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:113
+#: kdeui/dialogs/kshortcutsdialog.cpp:125
 msgid "Reset to Defaults"
 msgstr "অবিকল্পিত মান পুনঃ স্থাপন কৰা হ'ব"
 
