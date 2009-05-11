@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-10 11:06+0200\n"
+"POT-Creation-Date: 2009-05-11 12:48+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1083,7 +1083,7 @@ msgstr "আগৰ (&P)"
 msgid "Opt&ions"
 msgstr "বিকল্প (&i)"
 
-#. i18n: file: khtml/html/storepassbar_base.ui:42
+#. i18n: file: khtml/html/storepassbar_base.ui:39
 #. i18n: ectx: property (text), widget (QLabel, m_label)
 #: rc.cpp:474 khtml/html/storepassbar.cpp:59
 #, fuzzy
@@ -1091,7 +1091,7 @@ msgstr "বিকল্প (&i)"
 msgid "Do you want to store this password?"
 msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যনৰ অন্তিম স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
 
-#. i18n: file: khtml/html/storepassbar_base.ui:65
+#. i18n: file: khtml/html/storepassbar_base.ui:62
 #. i18n: ectx: property (text), widget (QToolButton, m_store)
 #: rc.cpp:477
 #, fuzzy
@@ -1099,7 +1099,7 @@ msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যন�
 msgid "&Store"
 msgstr "সংৰক্ষণ কৰা হ'ব"
 
-#. i18n: file: khtml/html/storepassbar_base.ui:75
+#. i18n: file: khtml/html/storepassbar_base.ui:72
 #. i18n: ectx: property (text), widget (QToolButton, m_neverForThisSite)
 #: rc.cpp:480
 #, fuzzy
@@ -1107,7 +1107,7 @@ msgstr "সংৰক্ষণ কৰা হ'ব"
 msgid "Ne&ver store for this site"
 msgstr "বৰ্তমান ছাইটৰ বাবে কেতিয়াও নহয় (&v)"
 
-#. i18n: file: khtml/html/storepassbar_base.ui:85
+#. i18n: file: khtml/html/storepassbar_base.ui:82
 #. i18n: ectx: property (text), widget (QToolButton, m_doNotStore)
 #: rc.cpp:483
 #, fuzzy
@@ -5443,17 +5443,17 @@ msgstr "এই নিবেশৰ মান বিচাৰ কৰক"
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:149
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:448
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:538
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:69
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:205
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:213
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:65
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:201
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:209
 msgid "Install"
 msgstr "সংস্থাপন কৰক"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:66
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:70
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:190
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:66
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:186
 msgid "Uninstall"
 msgstr "গুচাওক"
 
@@ -5491,7 +5491,7 @@ msgid "Report bad entry"
 msgstr "ভুল নিবেশ প্ৰতিবেদন কৰক"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:138
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:196
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:192
 msgid "Update"
 msgstr "উন্নয়ন কৰক"
 
@@ -5585,29 +5585,29 @@ msgstr "নতুন তথ্য ডাউনলোড কৰক..."
 msgid "User comments"
 msgstr "ব্যৱহাৰকৰোঁতাৰ মন্তব্য"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:154
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:150
 #, fuzzy
 #| msgid "No Downloads"
 msgid "<p>No Downloads</p>"
 msgstr "ডাউন্‌লোড কৰা ন'হ'ব"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:154
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:150
 #, fuzzy, kde-format
 #| msgid "Downloads: %1"
 msgid "<p>Downloads: %1</p>\n"
 msgstr "ডাউন্‌লোড কৰা সামগ্ৰী: %1"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:223
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:219
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating: %1"
 msgstr "গুৰুত্বৰ মান:"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:258
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:254
 msgid "No Preview"
 msgstr "পূৰ্বৰূপ অনুপস্থিত"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:268
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:264
 msgid "Loading Preview"
 msgstr "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 
