@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-11 12:48+0200\n"
+"POT-Creation-Date: 2009-05-12 11:14+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -158,13 +158,13 @@ msgstr "কাৰ্য্যৰ প্ৰাধান্যতা:"
 msgid "Job Options"
 msgstr "কাৰ্য্যৰ বিকল্প"
 
-#. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:122
+#. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:117
 #. i18n: ectx: property (text), widget (QTableWidget, jobOptionsTable)
 #: rc.cpp:62
 msgid "Option"
 msgstr "বিকল্প"
 
-#. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:127
+#. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:122
 #. i18n: ectx: property (text), widget (QTableWidget, jobOptionsTable)
 #. i18n: file: khtml/htmlpageinfo.ui:237
 #. i18n: ectx: property (text), widget (QTreeWidget, _headers)
@@ -6753,35 +6753,35 @@ msgstr "অনুবাদ (&r)"
 msgid "License Agreement"
 msgstr "প্ৰমাণপত্ৰ সংক্ৰান্ত চুক্তি"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:89
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
 msgid "Print Immediately"
 msgstr "এই মুহূৰ্তে মূদ্ৰণ কৰা হ'ব"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:91
 msgid "Hold Indefinitely"
 msgstr "অনিৰ্দিষ্ট সময় অৱধি অপেক্ষা কৰা হ'ব"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:91
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:92
 msgid "Day (06:00 to 17:59)"
 msgstr "দিন (০৬:০০ৰ পৰা ১৭:৫৯)"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:92
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:93
 msgid "Night (18:00 to 05:59)"
 msgstr "ৰাত্ৰি (১৮:০০ৰ পৰা ০৫:৫৯)"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:93
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:94
 msgid "Second Shift (16:00 to 23:59)"
 msgstr "দ্বিতীয় কাৰ্যকাল (১৬:০০ৰ পৰা ২৩:৫৯)"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:94
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:95
 msgid "Third Shift (00:00 to 07:59)"
 msgstr "তৃতীয় কাৰ্যকাল (০০:০০ৰ পৰা ০৭:৫৯)"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:95
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:96
 msgid "Weekend (Saturday to Sunday)"
 msgstr "সপ্তাহান্ত (শনিবাৰৰ পৰা ৰবিবাৰ)"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:96
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:97
 msgid "Specific Time"
 msgstr "সুনিৰ্দিষ্ট সময়"
 
