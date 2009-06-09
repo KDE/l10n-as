@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-25 11:37+0200\n"
+"POT-Creation-Date: 2009-06-08 20:30+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -550,7 +550,7 @@ msgstr ""
 "একাধিক বাৰ বিপৰ্যস্ত হৈছে ।\n"
 "আপুনি কোনো পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা নিৰ্ব্বাচন কৰিব পাৰে:"
 
-#: main.cpp:267
+#: main.cpp:268
 msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using --"
 "replace)\n"
@@ -558,49 +558,49 @@ msgstr ""
 "kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা "
 "বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
-#: main.cpp:398
+#: main.cpp:399
 msgid "KDE window manager"
 msgstr "KDE সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা"
 
-#: main.cpp:473 killer/killer.cpp:37
+#: main.cpp:474 killer/killer.cpp:37
 msgid "KWin"
 msgstr "KWin"
 
-#: main.cpp:477
+#: main.cpp:478
 msgid "(c) 1999-2008, The KDE Developers"
 msgstr "(c) 1999-2008, The KDE Developers"
 
-#: main.cpp:478
+#: main.cpp:479
 msgid "Matthias Ettrich"
 msgstr "Matthias Ettrich"
 
-#: main.cpp:479
+#: main.cpp:480
 msgid "Cristian Tibirna"
 msgstr "Cristian Tibirna"
 
-#: main.cpp:480
+#: main.cpp:481
 msgid "Daniel M. Duley"
 msgstr "Daniel M. Duley"
 
-#: main.cpp:481
+#: main.cpp:482
 msgid "Luboš Luňák"
 msgstr "Luboš Luňák"
 
-#: main.cpp:481
+#: main.cpp:482
 msgid "Maintainer"
 msgstr "পৰিচালক"
 
-#: main.cpp:486
+#: main.cpp:487
 msgid "Disable configuration options"
 msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় কৰা হ'ব"
 
-#: main.cpp:487
+#: main.cpp:488
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr ""
 "ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক প্ৰতিস্থাপন "
 "কৰক"
 
-#: main.cpp:488
+#: main.cpp:489
 msgid "Indicate that KWin has recently crashed n times"
 msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰা হ'ব"
 
