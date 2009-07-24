@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-23 05:27+0000\n"
+"POT-Creation-Date: 2009-07-24 04:59+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9406,6 +9406,16 @@ msgstr ""
 #: workspace/kwin/effects/slide/slide.desktop:61
 msgctxt "Comment"
 msgid "Slide windows across the screen when switching virtual desktops"
+msgstr ""
+
+#: workspace/kwin/effects/slidingpopups/slidingpopups.desktop:2
+msgctxt "Name"
+msgid "Sliding popups"
+msgstr ""
+
+#: workspace/kwin/effects/slidingpopups/slidingpopups.desktop:5
+msgctxt "Comment"
+msgid "Sliding animation for Plasma popups"
 msgstr ""
 
 #: workspace/kwin/effects/snaphelper/snaphelper.desktop:2
