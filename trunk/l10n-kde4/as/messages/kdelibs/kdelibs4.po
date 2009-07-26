@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-25 06:24+0200\n"
+"POT-Creation-Date: 2009-07-26 06:02+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1073,7 +1073,7 @@ msgstr "পিছৰ (&N)"
 
 #. i18n: file: khtml/ui/findbar/khtmlfindbar_base.ui:85
 #. i18n: ectx: property (text), widget (QToolButton, m_previous)
-#: rc.cpp:468 kdeui/dialogs/ktip.cpp:301
+#: rc.cpp:468 kdeui/dialogs/ktip.cpp:305
 msgid "&Previous"
 msgstr "আগৰ (&P)"
 
@@ -7344,19 +7344,19 @@ msgstr ""
 msgid "Password"
 msgstr "গুপ্তশব্দ"
 
-#: kdeui/dialogs/ktip.cpp:226
+#: kdeui/dialogs/ktip.cpp:230
 msgid "Tip of the Day"
 msgstr "আজিৰ উপদেশ"
 
-#: kdeui/dialogs/ktip.cpp:245
+#: kdeui/dialogs/ktip.cpp:249
 msgid "Did you know...?\n"
 msgstr "আপুনি জানে নে...?\n"
 
-#: kdeui/dialogs/ktip.cpp:297
+#: kdeui/dialogs/ktip.cpp:301
 msgid "&Show tips on startup"
 msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
 
-#: kdeui/dialogs/ktip.cpp:305
+#: kdeui/dialogs/ktip.cpp:309
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "পৰবৰ্তী (&N)"
