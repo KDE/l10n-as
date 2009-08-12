@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-10 06:10+0200\n"
+"POT-Creation-Date: 2009-08-12 07:10+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -8556,7 +8556,7 @@ msgstr "বানান পৰীক্ষণ বন্ধ কৰা হৈছ�
 msgid "Spell check canceled."
 msgstr "বানান পৰীক্ষণ বাতিল কৰা হৈছে ।"
 
-#: kdeui/sonnet/dialog.cpp:324
+#: kdeui/sonnet/dialog.cpp:328
 msgid "Spell check complete."
 msgstr "বানান পৰীক্ষণ সমাপ্ত ।"
 
