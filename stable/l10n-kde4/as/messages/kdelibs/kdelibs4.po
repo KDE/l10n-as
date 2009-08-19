@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-15 01:20+0200\n"
+"POT-Creation-Date: 2009-08-19 01:20+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1646,7 +1646,7 @@ msgstr "মূখ্য সংযোগক্ষেত্ৰ"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:106
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: rc.cpp:761 kparts/browserrun.cpp:303
+#: rc.cpp:761 kparts/browserrun.cpp:311
 msgid "Execute"
 msgstr "চলাওক"
 
@@ -8309,19 +8309,19 @@ msgctxt "home page"
 msgid "&Home"
 msgstr "প্ৰথম পৃষ্ঠা (&H)"
 
-#: kdeui/actions/kstandardaction.cpp:512 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:515 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "তালিকাৰ বাৰ প্ৰদৰ্শন (&M)"
 
-#: kdeui/actions/kstandardaction.cpp:518
+#: kdeui/actions/kstandardaction.cpp:521
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 
-#: kdeui/actions/kstandardaction.cpp:535 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:538 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "অৱস্থাৰ বাৰ প্ৰদৰ্শন (&a)"
 
-#: kdeui/actions/kstandardaction.cpp:538
+#: kdeui/actions/kstandardaction.cpp:541
 msgid ""
 "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
 "bottom of the window used for status information."
@@ -9972,7 +9972,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
 
 #: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3720 khtml/khtml_part.cpp:3930
-#: khtml/khtml_part.cpp:4316 kparts/browserrun.cpp:446
+#: khtml/khtml_part.cpp:4316 kparts/browserrun.cpp:454
 msgid "Save As"
 msgstr "নতুন ৰূপে সংৰক্ষণ"
 
@@ -10234,12 +10234,12 @@ msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেক�
 msgid "Overwrite"
 msgstr "নতুনকৈ লিখা হ'ব"
 
-#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:417
+#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:425
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Download Manager (%1) ক আপোনাৰ $PATH ত পোৱা ন'গ'ল"
 
-#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:418
+#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:426
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -11616,16 +11616,16 @@ msgstr ""
 msgid "Close Document"
 msgstr "আলেখ্যন বন্ধ কৰক"
 
-#: kparts/browserrun.cpp:302
+#: kparts/browserrun.cpp:310
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "আপুনি নিশ্চিতৰূপে '%1' সঞ্চালন কৰিবলৈ ইচ্ছুক নে ?"
 
-#: kparts/browserrun.cpp:303
+#: kparts/browserrun.cpp:311
 msgid "Execute File?"
 msgstr "নথিপত্ৰ চলোৱা হ'ব নে ?"
 
-#: kparts/browserrun.cpp:321
+#: kparts/browserrun.cpp:329
 #, kde-format
 msgid ""
 "Open '%2'?\n"
@@ -11634,7 +11634,7 @@ msgstr ""
 "'%2' খোলা হ'ব নে ?\n"
 "ধৰণ: %1"
 
-#: kparts/browserrun.cpp:323
+#: kparts/browserrun.cpp:331
 #, kde-format
 msgid ""
 "Open '%3'?\n"
@@ -11645,18 +11645,18 @@ msgstr ""
 "নাম: %2\n"
 "ধৰণ: %1"
 
-#: kparts/browserrun.cpp:339
+#: kparts/browserrun.cpp:347
 #, kde-format
 msgid "&Open with '%1'"
 msgstr "'%1' সহযোগে খোলক (&O)"
 
-#: kparts/browserrun.cpp:341
+#: kparts/browserrun.cpp:349
 #, fuzzy
 #| msgid "&Open With..."
 msgid "&Open with..."
 msgstr "চিহ্নিত সামগ্ৰী সহ খোলক...(&O)"
 
-#: kparts/browserrun.cpp:386
+#: kparts/browserrun.cpp:394
 msgid "&Open"
 msgstr "খোলক (&O)"
 

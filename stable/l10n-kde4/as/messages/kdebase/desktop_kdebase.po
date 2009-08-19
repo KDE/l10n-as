@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-16 23:31+0000\n"
+"POT-Creation-Date: 2009-08-17 23:35+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2425,6 +2425,7 @@ msgid "Reduces Konqueror startup time"
 msgstr "Konqueror আৰম্ভণিৰ সময় কম কৰে"
 
 #: apps/konqueror/profile_filemanagement.desktop:2
+#: apps/konqueror/src/tests/filemanagement.old.profile:7
 msgctxt "Name"
 msgid "File Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
