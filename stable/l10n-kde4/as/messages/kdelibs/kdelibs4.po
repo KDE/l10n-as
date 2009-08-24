@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-22 01:20+0200\n"
+"POT-Creation-Date: 2009-08-24 01:21+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11227,7 +11227,7 @@ msgstr "URI চমু পথ (&I)"
 msgid "Create Web Shortcut"
 msgstr "ৱেব চমু পথ নিৰ্মাণ কৰক"
 
-#: kinit/kinit.cpp:478
+#: kinit/kinit.cpp:479
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -11237,7 +11237,7 @@ msgstr ""
 "সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা আপোনাৰ "
 "ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
 
-#: kinit/kinit.cpp:497
+#: kinit/kinit.cpp:498
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -11247,12 +11247,12 @@ msgstr ""
 "সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
 
-#: kinit/kinit.cpp:588
+#: kinit/kinit.cpp:589
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
 
-#: kinit/kinit.cpp:606
+#: kinit/kinit.cpp:607
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -11261,7 +11261,7 @@ msgstr ""
 "লাইব্ৰেৰি '%1' খোলা নাযায় ।\n"
 "%2"
 
-#: kinit/kinit.cpp:652
+#: kinit/kinit.cpp:653
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
