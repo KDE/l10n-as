@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-27 07:08+0200\n"
+"POT-Creation-Date: 2009-08-29 07:16+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -8556,25 +8556,32 @@ msgstr ""
 msgid "Desktop %1"
 msgstr "ডেস্কট'প %1"
 
-#: kdeui/sonnet/dialog.cpp:77
+#: kdeui/sonnet/dialog.cpp:80 kdeui/sonnet/dialog.cpp:188
 msgctxt "@title:window"
 msgid "Check Spelling"
 msgstr "বানান পৰীক্ষা কৰা হ'ব"
 
-#: kdeui/sonnet/dialog.cpp:79
+#: kdeui/sonnet/dialog.cpp:82
 msgctxt "@action:button"
 msgid "&Finished"
 msgstr "সমাপ্ত (&F)"
 
-#: kdeui/sonnet/dialog.cpp:164
+#: kdeui/sonnet/dialog.cpp:189
+#, fuzzy
+#| msgid "Spell check stopped."
+msgctxt "progress label"
+msgid "Spell checking in progress..."
+msgstr "বানান পৰীক্ষণ বন্ধ কৰা হৈছে ।"
+
+#: kdeui/sonnet/dialog.cpp:210
 msgid "Spell check stopped."
 msgstr "বানান পৰীক্ষণ বন্ধ কৰা হৈছে ।"
 
-#: kdeui/sonnet/dialog.cpp:172
+#: kdeui/sonnet/dialog.cpp:219
 msgid "Spell check canceled."
 msgstr "বানান পৰীক্ষণ বাতিল কৰা হৈছে ।"
 
-#: kdeui/sonnet/dialog.cpp:328
+#: kdeui/sonnet/dialog.cpp:393
 msgid "Spell check complete."
 msgstr "বানান পৰীক্ষণ সমাপ্ত ।"
 
