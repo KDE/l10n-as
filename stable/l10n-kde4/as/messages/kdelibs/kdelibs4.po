@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-27 01:18+0200\n"
+"POT-Creation-Date: 2009-08-29 01:20+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10845,7 +10845,7 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "পৰিত্যাগ কৰা হ'ব (&A)"
 
-#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2118
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2115
 msgid "Confirmation: JavaScript Popup"
 msgstr "নিশ্চায়ন: JavaScript পপ-আপ"
 
@@ -10862,11 +10862,11 @@ msgid ""
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2125
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2122
 msgid "Allow"
 msgstr "অনুমতি প্ৰদান কৰা হ'ব"
 
-#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2125
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2122
 msgid "Do Not Allow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
@@ -10904,14 +10904,14 @@ msgstr "সন্নিবেশ কৰক"
 msgid "Disallow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
-#: khtml/ecma/kjs_html.cpp:2120
+#: khtml/ecma/kjs_html.cpp:2117
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2123
+#: khtml/ecma/kjs_html.cpp:2120
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
