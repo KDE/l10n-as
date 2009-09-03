@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-02 07:20+0200\n"
+"POT-Creation-Date: 2009-09-03 07:27+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6091,31 +6091,6 @@ msgstr "পুনৰাবৃত্তি"
 #: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:106
 msgid "Undo"
 msgstr "পূৰ্বাবস্থা"
-
-#: kdeui/util/ksystemtrayicon.cpp:156
-msgid "Minimize"
-msgstr "সৰ্বনিম্ন মাপ"
-
-#: kdeui/util/ksystemtrayicon.cpp:215
-msgid "&Minimize"
-msgstr "সৰ্বনিম্ন মাপ (&M)"
-
-#: kdeui/util/ksystemtrayicon.cpp:219
-msgid "&Restore"
-msgstr "পুনৰুদ্ধাৰ (&R)"
-
-#: kdeui/util/ksystemtrayicon.cpp:239
-#, kde-format
-msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
-
-#: kdeui/util/ksystemtrayicon.cpp:242
-msgid "Confirm Quit From System Tray"
-msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
-
-#: kdeui/util/knotificationrestrictions.cpp:179
-msgid "Unknown Application"
-msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
 
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
@@ -13146,6 +13121,24 @@ msgstr "দিনৰ উপদেশ (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
+
+#~ msgid "Minimize"
+#~ msgstr "সৰ্বনিম্ন মাপ"
+
+#~ msgid "&Minimize"
+#~ msgstr "সৰ্বনিম্ন মাপ (&M)"
+
+#~ msgid "&Restore"
+#~ msgstr "পুনৰুদ্ধাৰ (&R)"
+
+#~ msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+#~ msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
+
+#~ msgid "Confirm Quit From System Tray"
+#~ msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
+
+#~ msgid "Unknown Application"
+#~ msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
 
 #~ msgid ""
 #~ "<b>Changes in this section require root access.</b><br />On applying your "
