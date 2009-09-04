@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-03 07:27+0200\n"
+"POT-Creation-Date: 2009-09-04 06:41+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10227,6 +10227,36 @@ msgstr "মন্তব্য"
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
+#: kdeui/notifications/ksystemtrayicon.cpp:156
+msgid "Minimize"
+msgstr "সৰ্বনিম্ন মাপ"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:215
+#: kdeui/notifications/knotificationitem.cpp:373
+#: kdeui/notifications/knotificationitem.cpp:793
+msgid "&Minimize"
+msgstr "সৰ্বনিম্ন মাপ (&M)"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:219
+#: kdeui/notifications/knotificationitem.cpp:791
+msgid "&Restore"
+msgstr "পুনৰুদ্ধাৰ (&R)"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:239
+#: kdeui/notifications/knotificationitem.cpp:801
+#, kde-format
+msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:242
+#: kdeui/notifications/knotificationitem.cpp:804
+msgid "Confirm Quit From System Tray"
+msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
+
+#: kdeui/notifications/knotificationrestrictions.cpp:179
+msgid "Unknown Application"
+msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
+
 #: khtml/testkhtml.cpp:39
 msgid "URL to open"
 msgstr "প্ৰদৰ্শনৰ উদ্দেশ্যে URL"
@@ -13121,24 +13151,6 @@ msgstr "দিনৰ উপদেশ (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
-
-#~ msgid "Minimize"
-#~ msgstr "সৰ্বনিম্ন মাপ"
-
-#~ msgid "&Minimize"
-#~ msgstr "সৰ্বনিম্ন মাপ (&M)"
-
-#~ msgid "&Restore"
-#~ msgstr "পুনৰুদ্ধাৰ (&R)"
-
-#~ msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-#~ msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
-
-#~ msgid "Confirm Quit From System Tray"
-#~ msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
-
-#~ msgid "Unknown Application"
-#~ msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
 
 #~ msgid ""
 #~ "<b>Changes in this section require root access.</b><br />On applying your "
