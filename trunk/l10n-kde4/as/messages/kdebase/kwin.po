@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-23 06:27+0200\n"
+"POT-Creation-Date: 2009-09-09 07:28+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -703,12 +703,12 @@ msgstr "সকলো ডেষ্কট'পলৈ (&A)"
 msgid "Activate Window (%1)"
 msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
 
-#: workspace.cpp:1156 workspace.cpp:1176
+#: workspace.cpp:1173 workspace.cpp:1193
 #, kde-format
 msgid "Desktop %1"
 msgstr "ডেস্কট'প %1"
 
-#: workspace.cpp:2424
+#: workspace.cpp:2588
 #, kde-format
 msgid ""
 "You have selected to show a window without its border.\n"
@@ -717,7 +717,7 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 
-#: workspace.cpp:2438
+#: workspace.cpp:2602
 #, kde-format
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"

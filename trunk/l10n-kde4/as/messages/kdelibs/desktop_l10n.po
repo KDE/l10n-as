@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-16 04:33+0000\n"
+"POT-Creation-Date: 2009-09-09 05:47+0000\n"
 "PO-Revision-Date: 2008-12-17 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -97,6 +97,11 @@ msgstr "ডেনিশ্ব"
 msgctxt "Name"
 msgid "German"
 msgstr "জাৰ্মান"
+
+#: documentation/kdepim/kontact-admin/kontact-admin.desktop:2
+msgctxt "Name"
+msgid "Kontact Administration"
+msgstr ""
 
 #: documentation/kdesdk/scripts/kdesvn-build/kdesvn-build.desktop:4
 msgctxt "Name"
