@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-12 05:01+0000\n"
+"POT-Creation-Date: 2009-09-14 04:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -43,6 +43,14 @@ msgstr "বিৱৰণ"
 msgctxt "Name"
 msgid "Columns"
 msgstr "কলাম"
+
+#: apps/dolphin/src/fileviewsvnplugin.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Question"
+msgctxt "Name"
+msgid "Subversion"
+msgstr "প্ৰশ্ন"
 
 #: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:1
 #, fuzzy
@@ -9729,6 +9737,19 @@ msgstr ""
 msgctxt "Comment"
 msgid "Configure active screen edges"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: workspace/kwin/kcmkwin/kwintabbox/kwintabbox.desktop:13
+msgctxt "Name"
+msgid "Navigate Through Windows"
+msgstr ""
+
+#: workspace/kwin/kcmkwin/kwintabbox/kwintabbox.desktop:14
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the behavior of Java and JavaScript"
+msgctxt "Comment"
+msgid "Configure the behaviour for navigating through windows"
+msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
 
 #: workspace/kwin/kwin.notifyrc:3
 msgctxt "Comment"
