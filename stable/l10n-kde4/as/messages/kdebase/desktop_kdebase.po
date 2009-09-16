@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-13 23:32+0000\n"
+"POT-Creation-Date: 2009-09-16 13:34+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9484,7 +9484,7 @@ msgctxt "Name"
 msgid "Moving"
 msgstr ""
 
-#: workspace/kwin/kcmkwin/kwinoptions/kwinmoving.desktop:93
+#: workspace/kwin/kcmkwin/kwinoptions/kwinmoving.desktop:94
 msgctxt "Comment"
 msgid "Configure the way that windows are moved"
 msgstr ""
