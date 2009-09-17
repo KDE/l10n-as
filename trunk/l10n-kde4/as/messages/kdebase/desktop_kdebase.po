@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-16 05:29+0000\n"
+"POT-Creation-Date: 2009-09-17 05:02+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "Dolphin"
 
-#: apps/dolphin/src/dolphin.desktop:26
+#: apps/dolphin/src/dolphin.desktop:89
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
@@ -28,18 +28,18 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: apps/dolphin/src/dolphinpart.desktop:92
+#: apps/dolphin/src/dolphinpart.desktop:93
 #: runtime/kcontrol/icons/icons.desktop:14
 msgctxt "Name"
 msgid "Icons"
 msgstr "আইকন"
 
-#: apps/dolphin/src/dolphinpart.desktop:183
+#: apps/dolphin/src/dolphinpart.desktop:185
 msgctxt "Name"
 msgid "Details"
 msgstr "বিৱৰণ"
 
-#: apps/dolphin/src/dolphinpart.desktop:262
+#: apps/dolphin/src/dolphinpart.desktop:268
 msgctxt "Name"
 msgid "Columns"
 msgstr "কলাম"
@@ -60,7 +60,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:51
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:52
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -68,7 +68,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:109
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:110
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "General"
@@ -76,7 +76,7 @@ msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:153
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:159
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -108,7 +108,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "পৰিদৰ্শনৰ পেনেল"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:156
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:160
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -131,7 +131,7 @@ msgctxt "Name"
 msgid "Services"
 msgstr "সেৱা"
 
-#: apps/dolphin/src/kcm/kcmdolphinservices.desktop:143
+#: apps/dolphin/src/kcm/kcmdolphinservices.desktop:146
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -176,7 +176,7 @@ msgctxt "Name"
 msgid "Qt Assistant"
 msgstr "Qt Assistant"
 
-#: apps/kappfinder/apps/Development/assistant.desktop:58
+#: apps/kappfinder/apps/Development/assistant.desktop:89
 msgctxt "GenericName"
 msgid "Document Browser"
 msgstr "আলেখ্যনৰ চৰক"
@@ -186,7 +186,7 @@ msgctxt "GenericName"
 msgid "Data Display Debugger"
 msgstr "তথ্য প্ৰদৰ্শন ব্যৱস্থাৰ ডিবাগাৰ"
 
-#: apps/kappfinder/apps/Development/ddd.desktop:74
+#: apps/kappfinder/apps/Development/ddd.desktop:88
 msgctxt "Name"
 msgid "DDD"
 msgstr "DDD"
@@ -196,7 +196,7 @@ msgctxt "Name"
 msgid "Qt Designer"
 msgstr "Qt Designer"
 
-#: apps/kappfinder/apps/Development/designer.desktop:51
+#: apps/kappfinder/apps/Development/designer.desktop:89
 msgctxt "GenericName"
 msgid "Interface Designer"
 msgstr "Interface Designer"
@@ -206,7 +206,7 @@ msgctxt "Name"
 msgid "Qt DlgEdit"
 msgstr "Qt DlgEdit"
 
-#: apps/kappfinder/apps/Development/dlgedit.desktop:29
+#: apps/kappfinder/apps/Development/dlgedit.desktop:88
 msgctxt "GenericName"
 msgid "Dialog Editor"
 msgstr "সম্বাদ সম্পাদক"
@@ -216,7 +216,7 @@ msgctxt "Name"
 msgid "Eclipse"
 msgstr "Eclipse"
 
-#: apps/kappfinder/apps/Development/eclipse.desktop:24
+#: apps/kappfinder/apps/Development/eclipse.desktop:89
 msgctxt "GenericName"
 msgid "Eclipse IDE"
 msgstr "Eclipse IDE"
@@ -231,7 +231,7 @@ msgctxt "GenericName"
 msgid "Java IDE"
 msgstr "Java IDE"
 
-#: apps/kappfinder/apps/Development/Forte.desktop:60
+#: apps/kappfinder/apps/Development/Forte.desktop:90
 msgctxt "Name"
 msgid "Forte"
 msgstr "Forte"
@@ -241,7 +241,7 @@ msgctxt "GenericName"
 msgid "J2ME Toolkit"
 msgstr "J2ME Toolkit"
 
-#: apps/kappfinder/apps/Development/j2mewtk.desktop:81
+#: apps/kappfinder/apps/Development/j2mewtk.desktop:90
 msgctxt "Name"
 msgid "J2ME"
 msgstr "J2ME"
@@ -251,7 +251,7 @@ msgctxt "Name"
 msgid "Qt Linguist"
 msgstr "Qt Linguist"
 
-#: apps/kappfinder/apps/Development/linguist.desktop:48
+#: apps/kappfinder/apps/Development/linguist.desktop:89
 msgctxt "GenericName"
 msgid "Translation Tool"
 msgstr "অনুবাদৰ সৰঞ্জাম"
@@ -261,7 +261,7 @@ msgctxt "GenericName"
 msgid "Palm/Wireless Emulator"
 msgstr "Palm/Wireless Emulator"
 
-#: apps/kappfinder/apps/Development/pose.desktop:85
+#: apps/kappfinder/apps/Development/pose.desktop:90
 msgctxt "Name"
 msgid "Pose"
 msgstr "Pose"
@@ -271,7 +271,7 @@ msgctxt "Name"
 msgid "Sced"
 msgstr "Sced"
 
-#: apps/kappfinder/apps/Development/sced.desktop:15
+#: apps/kappfinder/apps/Development/sced.desktop:87
 msgctxt "GenericName"
 msgid "Scene Modeler"
 msgstr "Scene Modeler"
@@ -281,15 +281,15 @@ msgctxt "Name"
 msgid "Emacs"
 msgstr "Emacs"
 
-#: apps/kappfinder/apps/Editors/emacs.desktop:19
-#: apps/kappfinder/apps/Editors/gedit.desktop:22
-#: apps/kappfinder/apps/Editors/gvim.desktop:34
-#: apps/kappfinder/apps/Editors/lemacs.desktop:19
-#: apps/kappfinder/apps/Editors/nano.desktop:19
-#: apps/kappfinder/apps/Editors/nedit.desktop:21
-#: apps/kappfinder/apps/Editors/pico.desktop:18
-#: apps/kappfinder/apps/Editors/xedit.desktop:66
-#: apps/kappfinder/apps/Editors/xemacs.desktop:28 apps/kwrite/kwrite.desktop:2
+#: apps/kappfinder/apps/Editors/emacs.desktop:88
+#: apps/kappfinder/apps/Editors/gedit.desktop:88
+#: apps/kappfinder/apps/Editors/gvim.desktop:88
+#: apps/kappfinder/apps/Editors/lemacs.desktop:88
+#: apps/kappfinder/apps/Editors/nano.desktop:88
+#: apps/kappfinder/apps/Editors/nedit.desktop:89
+#: apps/kappfinder/apps/Editors/pico.desktop:88
+#: apps/kappfinder/apps/Editors/xedit.desktop:89
+#: apps/kappfinder/apps/Editors/xemacs.desktop:88 apps/kwrite/kwrite.desktop:2
 msgctxt "GenericName"
 msgid "Text Editor"
 msgstr "লিপি সম্পাদক"
@@ -339,7 +339,7 @@ msgctxt "Name"
 msgid "Alephone - No OpenGL"
 msgstr "Alephone - No OpenGL"
 
-#: apps/kappfinder/apps/Games/Arcade/alephone.desktop:79
+#: apps/kappfinder/apps/Games/Arcade/alephone.desktop:87
 msgctxt "Comment"
 msgid ""
 "An open source version of Marathon Infinity for SDL that has OpenGL disabled"
@@ -350,7 +350,7 @@ msgctxt "Name"
 msgid "Alephone"
 msgstr "Alephone"
 
-#: apps/kappfinder/apps/Games/Arcade/alephone-nogl.desktop:21
+#: apps/kappfinder/apps/Games/Arcade/alephone-nogl.desktop:87
 msgctxt "Comment"
 msgid "An open source version of Marathon Infinity for SDL"
 msgstr "SDL ৰ কাৰণে Marathon Infinity ৰ এটা মুক্ত উৎসৰ সংস্কৰণ"
@@ -360,19 +360,19 @@ msgctxt "Name"
 msgid "Batallion"
 msgstr "Batallion"
 
-#: apps/kappfinder/apps/Games/Arcade/battalion.desktop:35
-#: apps/kappfinder/apps/Games/Arcade/ClanBomber.desktop:27
-#: apps/kappfinder/apps/Games/Arcade/cxhextris.desktop:19
-#: apps/kappfinder/apps/Games/Arcade/GnobotsII.desktop:22
-#: apps/kappfinder/apps/Games/Arcade/Mures.desktop:24
-#: apps/kappfinder/apps/Games/Arcade/scavenger.desktop:30
-#: apps/kappfinder/apps/Games/Arcade/SuperMethaneBrothers.desktop:42
-#: apps/kappfinder/apps/Games/Arcade/Trophy.desktop:31
-#: apps/kappfinder/apps/Games/Arcade/XKobo.desktop:22
-#: apps/kappfinder/apps/Games/Arcade/XSoldier.desktop:27
-#: apps/kappfinder/apps/Games/Board/Gataxx.desktop:18
-#: apps/kappfinder/apps/Games/Board/Gnotravex.desktop:18
-#: apps/kappfinder/apps/Games/penguin-command.desktop:41
+#: apps/kappfinder/apps/Games/Arcade/battalion.desktop:88
+#: apps/kappfinder/apps/Games/Arcade/ClanBomber.desktop:87
+#: apps/kappfinder/apps/Games/Arcade/cxhextris.desktop:87
+#: apps/kappfinder/apps/Games/Arcade/GnobotsII.desktop:88
+#: apps/kappfinder/apps/Games/Arcade/Mures.desktop:88
+#: apps/kappfinder/apps/Games/Arcade/scavenger.desktop:88
+#: apps/kappfinder/apps/Games/Arcade/SuperMethaneBrothers.desktop:87
+#: apps/kappfinder/apps/Games/Arcade/Trophy.desktop:87
+#: apps/kappfinder/apps/Games/Arcade/XKobo.desktop:88
+#: apps/kappfinder/apps/Games/Arcade/XSoldier.desktop:88
+#: apps/kappfinder/apps/Games/Board/Gataxx.desktop:88
+#: apps/kappfinder/apps/Games/Board/Gnotravex.desktop:88
+#: apps/kappfinder/apps/Games/penguin-command.desktop:88
 msgctxt "GenericName"
 msgid "Arcade Game"
 msgstr "Arcade Game"
@@ -382,7 +382,7 @@ msgctxt "Name"
 msgid "Battleball"
 msgstr "Battleball"
 
-#: apps/kappfinder/apps/Games/Arcade/battleball.desktop:28
+#: apps/kappfinder/apps/Games/Arcade/battleball.desktop:88
 msgctxt "GenericName"
 msgid "Ball Game"
 msgstr "Ball Game"
@@ -402,7 +402,7 @@ msgctxt "GenericName"
 msgid "Tetris-Like Game"
 msgstr "Tetris ৰ নিচিনা খেলা"
 
-#: apps/kappfinder/apps/Games/Arcade/FrozenBubble.desktop:89
+#: apps/kappfinder/apps/Games/Arcade/FrozenBubble.desktop:90
 msgctxt "Name"
 msgid "Frozen Bubble"
 msgstr "Frozen Bubble"
@@ -412,7 +412,7 @@ msgctxt "Name"
 msgid "Gnibbles"
 msgstr "Gnibbles"
 
-#: apps/kappfinder/apps/Games/Arcade/Gnibbles.desktop:24
+#: apps/kappfinder/apps/Games/Arcade/Gnibbles.desktop:88
 msgctxt "GenericName"
 msgid "GNOME Nibbles Game"
 msgstr "GNOME Nibbles খেলা"
@@ -432,8 +432,8 @@ msgctxt "Name"
 msgid "Rocks n Diamonds"
 msgstr "Rocks n Diamonds"
 
-#: apps/kappfinder/apps/Games/Arcade/rocksndiamonds.desktop:43
-#: apps/kappfinder/apps/Games/Board/Glines.desktop:30
+#: apps/kappfinder/apps/Games/Arcade/rocksndiamonds.desktop:88
+#: apps/kappfinder/apps/Games/Board/Glines.desktop:88
 msgctxt "GenericName"
 msgid "Tactical Game"
 msgstr "Tactical Game"
@@ -458,7 +458,7 @@ msgctxt "GenericName"
 msgid "Racing Game"
 msgstr "Racing Game"
 
-#: apps/kappfinder/apps/Games/Arcade/TuxRacer.desktop:87
+#: apps/kappfinder/apps/Games/Arcade/TuxRacer.desktop:89
 msgctxt "Name"
 msgid "TuxRacer"
 msgstr "TuxRacer"
@@ -493,7 +493,7 @@ msgctxt "Name"
 msgid "GNOME Mahjongg"
 msgstr "GNOME Mahjongg"
 
-#: apps/kappfinder/apps/Games/Board/Gmahjongg.desktop:51
+#: apps/kappfinder/apps/Games/Board/Gmahjongg.desktop:88
 msgctxt "GenericName"
 msgid "Tile Game"
 msgstr "Tile Game"
@@ -503,7 +503,7 @@ msgctxt "Name"
 msgid "GNOME Mines"
 msgstr "GNOME Mines"
 
-#: apps/kappfinder/apps/Games/Board/Gmines.desktop:64
+#: apps/kappfinder/apps/Games/Board/Gmines.desktop:88
 msgctxt "GenericName"
 msgid "Logic Game"
 msgstr "Logic Game"
@@ -518,7 +518,7 @@ msgctxt "Name"
 msgid "Gnotski"
 msgstr "Gnotski"
 
-#: apps/kappfinder/apps/Games/Board/Gnotski.desktop:20
+#: apps/kappfinder/apps/Games/Board/Gnotski.desktop:88
 msgctxt "GenericName"
 msgid "GNOME Klotski Game"
 msgstr "GNOME Klotski Game"
@@ -533,9 +533,9 @@ msgctxt "Name"
 msgid "Iagno"
 msgstr "Iagno"
 
-#: apps/kappfinder/apps/Games/Board/Iagno.desktop:21
-#: apps/kappfinder/apps/Games/Board/SameGnome.desktop:45
-#: apps/kappfinder/apps/Games/Board/Xgammon.desktop:22
+#: apps/kappfinder/apps/Games/Board/Iagno.desktop:88
+#: apps/kappfinder/apps/Games/Board/SameGnome.desktop:88
+#: apps/kappfinder/apps/Games/Board/Xgammon.desktop:88
 msgctxt "GenericName"
 msgid "Board Game"
 msgstr "Board Game"
@@ -550,7 +550,7 @@ msgctxt "GenericName"
 msgid "Chess Game"
 msgstr "Chess Game"
 
-#: apps/kappfinder/apps/Games/Board/xboard.desktop:88
+#: apps/kappfinder/apps/Games/Board/xboard.desktop:90
 msgctxt "Name"
 msgid "Xboard"
 msgstr "Xboard"
@@ -565,10 +565,10 @@ msgctxt "Name"
 msgid "AisleRiot"
 msgstr "AisleRiot"
 
-#: apps/kappfinder/apps/Games/Card/AisleRiot.desktop:21
-#: apps/kappfinder/apps/Games/Card/FreeCell.desktop:24
+#: apps/kappfinder/apps/Games/Card/AisleRiot.desktop:88
+#: apps/kappfinder/apps/Games/Card/FreeCell.desktop:88
 #: apps/kappfinder/apps/Games/Card/PySol.desktop:2
-#: apps/kappfinder/apps/Games/Card/XPat2.desktop:18
+#: apps/kappfinder/apps/Games/Card/XPat2.desktop:88
 msgctxt "GenericName"
 msgid "Card Game"
 msgstr "Card Game"
@@ -578,7 +578,7 @@ msgctxt "Name"
 msgid "FreeCell"
 msgstr "FreeCell"
 
-#: apps/kappfinder/apps/Games/Card/PySol.desktop:88
+#: apps/kappfinder/apps/Games/Card/PySol.desktop:91
 msgctxt "Name"
 msgid "PySol"
 msgstr "PySol"
@@ -598,7 +598,7 @@ msgctxt "Name"
 msgid "Defendguin"
 msgstr "Defendguin"
 
-#: apps/kappfinder/apps/Games/defendguin.desktop:23
+#: apps/kappfinder/apps/Games/defendguin.desktop:89
 msgctxt "GenericName"
 msgid "Game"
 msgstr "খেলা"
@@ -608,7 +608,7 @@ msgctxt "Name"
 msgid "ChessMail"
 msgstr "ChessMail"
 
-#: apps/kappfinder/apps/Games/Emulators/cmail.desktop:29
+#: apps/kappfinder/apps/Games/Emulators/cmail.desktop:88
 msgctxt "GenericName"
 msgid "Email for Chess"
 msgstr "Chess ৰ কাৰণে ঈ-মেইল"
@@ -618,7 +618,7 @@ msgctxt "GenericName"
 msgid "Arcade Emulator"
 msgstr "Arcade Emulator"
 
-#: apps/kappfinder/apps/Games/Emulators/qmamecat.desktop:86
+#: apps/kappfinder/apps/Games/Emulators/qmamecat.desktop:90
 msgctxt "Name"
 msgid "Qmamecat"
 msgstr "Qmamecat"
@@ -628,7 +628,7 @@ msgctxt "Name"
 msgid "GTali"
 msgstr "GTali"
 
-#: apps/kappfinder/apps/Games/GTali.desktop:19
+#: apps/kappfinder/apps/Games/GTali.desktop:88
 msgctxt "GenericName"
 msgid "Dice Game"
 msgstr "Dice Game"
@@ -643,7 +643,7 @@ msgctxt "Name"
 msgid "Angband"
 msgstr "Angband"
 
-#: apps/kappfinder/apps/Games/Roguelikes/angband.desktop:21
+#: apps/kappfinder/apps/Games/Roguelikes/angband.desktop:88
 msgctxt "Comment"
 msgid "Dive into Angband and defeat Morgoth"
 msgstr "Angband ত গে Morgoth ক পৰাজিত কৰক"
@@ -653,7 +653,7 @@ msgctxt "Name"
 msgid "Moria"
 msgstr "Moria"
 
-#: apps/kappfinder/apps/Games/Roguelikes/moria.desktop:25
+#: apps/kappfinder/apps/Games/Roguelikes/moria.desktop:88
 msgctxt "Comment"
 msgid "Dive into Moria and defeat the Balrog"
 msgstr "Moria ত গৈ Balrog ক পৰাজিত কৰক"
@@ -663,8 +663,8 @@ msgctxt "Name"
 msgid "NetHack"
 msgstr "NetHack"
 
-#: apps/kappfinder/apps/Games/Roguelikes/nethack.desktop:19
-#: apps/kappfinder/apps/Games/Roguelikes/tome.desktop:19
+#: apps/kappfinder/apps/Games/Roguelikes/nethack.desktop:87
+#: apps/kappfinder/apps/Games/Roguelikes/tome.desktop:86
 msgctxt "GenericName"
 msgid "Quest Game"
 msgstr "Quest Game"
@@ -674,7 +674,7 @@ msgctxt "Name"
 msgid "Rogue"
 msgstr "Rogue"
 
-#: apps/kappfinder/apps/Games/Roguelikes/rogue.desktop:24
+#: apps/kappfinder/apps/Games/Roguelikes/rogue.desktop:87
 msgctxt "GenericName"
 msgid "The Original"
 msgstr "The Original"
@@ -689,7 +689,7 @@ msgctxt "Name"
 msgid "ZAngband"
 msgstr "ZAngband"
 
-#: apps/kappfinder/apps/Games/Roguelikes/zangband.desktop:18
+#: apps/kappfinder/apps/Games/Roguelikes/zangband.desktop:87
 msgctxt "GenericName"
 msgid "Defeat the Serpent of Chaos"
 msgstr "Serpent of Chaos ক পৰাজিত কৰক"
@@ -699,8 +699,8 @@ msgctxt "Name"
 msgid "Freeciv"
 msgstr "Freeciv"
 
-#: apps/kappfinder/apps/Games/TacticStrategy/freeciv.desktop:24
-#: apps/kappfinder/apps/Games/xshipwars.desktop:26
+#: apps/kappfinder/apps/Games/TacticStrategy/freeciv.desktop:89
+#: apps/kappfinder/apps/Games/xshipwars.desktop:89
 msgctxt "GenericName"
 msgid "Strategy Game"
 msgstr "Strategy Game"
@@ -710,7 +710,7 @@ msgctxt "Name"
 msgid "Freeciv Server"
 msgstr "Freeciv Server"
 
-#: apps/kappfinder/apps/Games/TacticStrategy/freecivserver.desktop:72
+#: apps/kappfinder/apps/Games/TacticStrategy/freecivserver.desktop:77
 msgctxt "Comment"
 msgid "A server for Freeciv"
 msgstr "Freeciv ৰ কাৰণে সেৱক"
@@ -720,7 +720,7 @@ msgctxt "Name"
 msgid "XScorch"
 msgstr "XScorch"
 
-#: apps/kappfinder/apps/Games/TacticStrategy/xscorch.desktop:19
+#: apps/kappfinder/apps/Games/TacticStrategy/xscorch.desktop:89
 msgctxt "Comment"
 msgid "A free Scorched Earth clone for UNIX and X"
 msgstr "UNIX আৰু X ৰ কাৰণে এটা মুক্ত Scorched Earth clone"
@@ -735,7 +735,7 @@ msgctxt "Name"
 msgid "X Bitmap"
 msgstr "X Bitmap"
 
-#: apps/kappfinder/apps/Graphics/bitmap.desktop:32
+#: apps/kappfinder/apps/Graphics/bitmap.desktop:88
 msgctxt "GenericName"
 msgid "Bitmap Creator"
 msgstr "Bitmap Creator"
@@ -745,7 +745,7 @@ msgctxt "Name"
 msgid "Blender"
 msgstr "Blender"
 
-#: apps/kappfinder/apps/Graphics/blender.desktop:25
+#: apps/kappfinder/apps/Graphics/blender.desktop:88
 msgctxt "GenericName"
 msgid "3D Modeler/Renderer"
 msgstr "3D Modeler/Renderer"
@@ -755,7 +755,7 @@ msgctxt "Name"
 msgid "Electric Eyes"
 msgstr "Electric Eyes"
 
-#: apps/kappfinder/apps/Graphics/ElectricEyes.desktop:43
+#: apps/kappfinder/apps/Graphics/ElectricEyes.desktop:88
 msgctxt "GenericName"
 msgid "Image Viewer"
 msgstr "ছবি প্ৰদৰ্শন ব্যবস্থা"
@@ -765,7 +765,7 @@ msgctxt "Name"
 msgid "GhostView"
 msgstr "GhostView"
 
-#: apps/kappfinder/apps/Graphics/ghostview.desktop:23
+#: apps/kappfinder/apps/Graphics/ghostview.desktop:89
 msgctxt "GenericName"
 msgid "PostScript Viewer"
 msgstr "PostScript প্ৰদৰ্শক"
@@ -775,7 +775,7 @@ msgctxt "Name"
 msgid "GIMP"
 msgstr "GIMP"
 
-#: apps/kappfinder/apps/Graphics/gimp.desktop:17
+#: apps/kappfinder/apps/Graphics/gimp.desktop:78
 msgctxt "GenericName"
 msgid "Image Manipulation Program"
 msgstr "ছবি পৰিবৰ্ত্তন কৰা কাৰ্য্যক্ৰম"
@@ -795,7 +795,7 @@ msgctxt "Name"
 msgid "GPhoto"
 msgstr "GPhoto"
 
-#: apps/kappfinder/apps/Graphics/GPhoto.desktop:23
+#: apps/kappfinder/apps/Graphics/GPhoto.desktop:88
 msgctxt "GenericName"
 msgid "Digital Camera Program"
 msgstr "Digital Camera Program"
@@ -805,7 +805,7 @@ msgctxt "Name"
 msgid "Gqview"
 msgstr "Gqview"
 
-#: apps/kappfinder/apps/Graphics/Gqview.desktop:19
+#: apps/kappfinder/apps/Graphics/Gqview.desktop:88
 msgctxt "GenericName"
 msgid "Image Browser"
 msgstr "ছবিৰ চৰক"
@@ -815,7 +815,7 @@ msgctxt "Name"
 msgid "GV"
 msgstr "GV"
 
-#: apps/kappfinder/apps/Graphics/gv.desktop:15
+#: apps/kappfinder/apps/Graphics/gv.desktop:88
 msgctxt "GenericName"
 msgid "Postscript Viewer"
 msgstr "Postscript প্ৰদৰ্শক"
@@ -825,8 +825,8 @@ msgctxt "Name"
 msgid "Inkscape"
 msgstr "Inkscape"
 
-#: apps/kappfinder/apps/Graphics/inkscape.desktop:18
-#: apps/kappfinder/apps/Graphics/sodipodi.desktop:20
+#: apps/kappfinder/apps/Graphics/inkscape.desktop:87
+#: apps/kappfinder/apps/Graphics/sodipodi.desktop:89
 msgctxt "GenericName"
 msgid "Vector Drawing"
 msgstr "Vector Drawing"
@@ -836,7 +836,7 @@ msgctxt "Name"
 msgid "Sketch"
 msgstr "Sketch"
 
-#: apps/kappfinder/apps/Graphics/Sketch.desktop:29
+#: apps/kappfinder/apps/Graphics/Sketch.desktop:88
 msgctxt "GenericName"
 msgid "Vector-based Drawing Program"
 msgstr "Vector ভিত্তিক ছবি অঁকাৰ কাৰ্য্যক্ৰম"
@@ -851,8 +851,8 @@ msgctxt "Name"
 msgid "TGif"
 msgstr "TGif"
 
-#: apps/kappfinder/apps/Graphics/tgif.desktop:18
-#: apps/kappfinder/apps/Graphics/xfig.desktop:22
+#: apps/kappfinder/apps/Graphics/tgif.desktop:89
+#: apps/kappfinder/apps/Graphics/xfig.desktop:92
 msgctxt "GenericName"
 msgid "Drawing Program"
 msgstr "ছবি অঁকাৰ কাৰ্য্যক্ৰম"
@@ -862,7 +862,7 @@ msgctxt "Name"
 msgid "X DVI"
 msgstr "X DVI"
 
-#: apps/kappfinder/apps/Graphics/xdvi.desktop:23
+#: apps/kappfinder/apps/Graphics/xdvi.desktop:91
 msgctxt "GenericName"
 msgid "DVI Viewer"
 msgstr "DVI প্ৰদৰ্শক"
@@ -877,7 +877,7 @@ msgctxt "Name"
 msgid "X Paint"
 msgstr "X Paint"
 
-#: apps/kappfinder/apps/Graphics/xpaint.desktop:35
+#: apps/kappfinder/apps/Graphics/xpaint.desktop:90
 msgctxt "GenericName"
 msgid "Paint Program"
 msgstr "Paint Program"
@@ -887,7 +887,7 @@ msgctxt "Name"
 msgid "Xpcd"
 msgstr "Xpcd"
 
-#: apps/kappfinder/apps/Graphics/Xpcd.desktop:14
+#: apps/kappfinder/apps/Graphics/Xpcd.desktop:87
 msgctxt "GenericName"
 msgid "PhotoCD Tools"
 msgstr "PhotoCD সৰঞ্জাম"
@@ -897,7 +897,7 @@ msgctxt "Name"
 msgid "XV"
 msgstr "XV"
 
-#: apps/kappfinder/apps/Graphics/xv.desktop:16
+#: apps/kappfinder/apps/Graphics/xv.desktop:89
 msgctxt "GenericName"
 msgid "Picture Viewer"
 msgstr "ছবি প্ৰদৰ্শক"
@@ -907,7 +907,7 @@ msgctxt "Name"
 msgid "Xwpick"
 msgstr "Xwpick"
 
-#: apps/kappfinder/apps/Graphics/Xwpick.desktop:14
+#: apps/kappfinder/apps/Graphics/Xwpick.desktop:87
 msgctxt "GenericName"
 msgid "Screen Capture Program"
 msgstr "পৰ্দ্দাৰ ছবি গ্ৰহণ কৰাৰ কাৰ্য্যক্ৰম"
@@ -917,18 +917,18 @@ msgctxt "Name"
 msgid "Arena"
 msgstr "Arena"
 
-#: apps/kappfinder/apps/Internet/arena.desktop:24
-#: apps/kappfinder/apps/Internet/epiphany.desktop:21
-#: apps/kappfinder/apps/Internet/Galeon.desktop:20
-#: apps/kappfinder/apps/Internet/mozilla.desktop:23
-#: apps/kappfinder/apps/Internet/mozilla-firefox.desktop:25
-#: apps/kappfinder/apps/Internet/netscape6.desktop:18
-#: apps/kappfinder/apps/Internet/netscape.desktop:23
-#: apps/kappfinder/apps/Internet/opera.desktop:21
-#: apps/kappfinder/apps/Internet/Terminal/Links.desktop:26
-#: apps/kappfinder/apps/Internet/Terminal/Lynx.desktop:16
-#: apps/kappfinder/apps/Internet/Terminal/w3m.desktop:15
-#: apps/konqueror/konqbrowser.desktop:25
+#: apps/kappfinder/apps/Internet/arena.desktop:90
+#: apps/kappfinder/apps/Internet/epiphany.desktop:87
+#: apps/kappfinder/apps/Internet/Galeon.desktop:88
+#: apps/kappfinder/apps/Internet/mozilla.desktop:92
+#: apps/kappfinder/apps/Internet/mozilla-firefox.desktop:91
+#: apps/kappfinder/apps/Internet/netscape6.desktop:78
+#: apps/kappfinder/apps/Internet/netscape.desktop:92
+#: apps/kappfinder/apps/Internet/opera.desktop:89
+#: apps/kappfinder/apps/Internet/Terminal/Links.desktop:89
+#: apps/kappfinder/apps/Internet/Terminal/Lynx.desktop:88
+#: apps/kappfinder/apps/Internet/Terminal/w3m.desktop:88
+#: apps/konqueror/konqbrowser.desktop:93
 msgctxt "GenericName"
 msgid "Web Browser"
 msgstr "ৱেব চৰক"
@@ -938,14 +938,14 @@ msgctxt "Name"
 msgid "Balsa"
 msgstr "Balsa"
 
-#: apps/kappfinder/apps/Internet/balsa.desktop:19
-#: apps/kappfinder/apps/Internet/Evolution.desktop:21
-#: apps/kappfinder/apps/Internet/mozilla-thunderbird.desktop:24
-#: apps/kappfinder/apps/Internet/Netscapemessenger.desktop:40
-#: apps/kappfinder/apps/Internet/Sylpheed.desktop:16
-#: apps/kappfinder/apps/Internet/Terminal/mutt.desktop:18
-#: apps/kappfinder/apps/Internet/Terminal/pine.desktop:22
-#: apps/kappfinder/apps/Internet/xfmail.desktop:21
+#: apps/kappfinder/apps/Internet/balsa.desktop:88
+#: apps/kappfinder/apps/Internet/Evolution.desktop:88
+#: apps/kappfinder/apps/Internet/mozilla-thunderbird.desktop:91
+#: apps/kappfinder/apps/Internet/Netscapemessenger.desktop:89
+#: apps/kappfinder/apps/Internet/Sylpheed.desktop:88
+#: apps/kappfinder/apps/Internet/Terminal/mutt.desktop:91
+#: apps/kappfinder/apps/Internet/Terminal/pine.desktop:91
+#: apps/kappfinder/apps/Internet/xfmail.desktop:91
 msgctxt "GenericName"
 msgid "Mail Client"
 msgstr "ডাক ব্যৱস্থাৰ গ্ৰাহক"
@@ -955,7 +955,7 @@ msgctxt "Name"
 msgid "BlueFish"
 msgstr "BlueFish"
 
-#: apps/kappfinder/apps/Internet/BlueFish.desktop:20
+#: apps/kappfinder/apps/Internet/BlueFish.desktop:87
 msgctxt "GenericName"
 msgid "HTML Editor"
 msgstr "HTML সম্পাদক"
@@ -966,7 +966,7 @@ msgctxt "GenericName"
 msgid "BitTorrent GUI"
 msgstr "BitTorrent GUI"
 
-#: apps/kappfinder/apps/Internet/btdownloadgui.desktop:72
+#: apps/kappfinder/apps/Internet/btdownloadgui.desktop:90
 msgctxt "Name"
 msgid "BitTorrent Python wxGTK GUI"
 msgstr "BitTorrent Python wxGTK GUI"
@@ -976,9 +976,9 @@ msgctxt "Name"
 msgid "Coolmail"
 msgstr "Coolmail"
 
-#: apps/kappfinder/apps/Internet/coolmail.desktop:22
-#: apps/kappfinder/apps/Internet/Faces.desktop:29
-#: apps/kappfinder/apps/Internet/xbiff.desktop:28
+#: apps/kappfinder/apps/Internet/coolmail.desktop:92
+#: apps/kappfinder/apps/Internet/Faces.desktop:88
+#: apps/kappfinder/apps/Internet/xbiff.desktop:92
 msgctxt "GenericName"
 msgid "Mail Alert"
 msgstr "ডাকৰ সূচনা"
@@ -988,7 +988,7 @@ msgctxt "Name"
 msgid "DCTC GUI"
 msgstr "DCTC GUI"
 
-#: apps/kappfinder/apps/Internet/dc_gui.desktop:50
+#: apps/kappfinder/apps/Internet/dc_gui.desktop:90
 msgctxt "GenericName"
 msgid "Direct Connect Clone"
 msgstr "Direct Connect Clone"
@@ -998,9 +998,9 @@ msgctxt "Name"
 msgid "Dpsftp"
 msgstr "Dpsftp"
 
-#: apps/kappfinder/apps/Internet/Dpsftp.desktop:13
-#: apps/kappfinder/apps/Internet/gFTP.desktop:14
-#: apps/kappfinder/apps/Internet/xftp.desktop:23
+#: apps/kappfinder/apps/Internet/Dpsftp.desktop:88
+#: apps/kappfinder/apps/Internet/gFTP.desktop:88
+#: apps/kappfinder/apps/Internet/xftp.desktop:89
 msgctxt "GenericName"
 msgid "FTP Browser"
 msgstr "FTP চৰক"
@@ -1010,7 +1010,7 @@ msgctxt "Name"
 msgid "DrakSync"
 msgstr "DrakSync"
 
-#: apps/kappfinder/apps/Internet/DrakSync.desktop:17
+#: apps/kappfinder/apps/Internet/DrakSync.desktop:88
 msgctxt "GenericName"
 msgid "Folder Synchronization"
 msgstr "পঞ্জিকা এককালিন কৰাৰ ব্যৱস্থা"
@@ -1020,7 +1020,7 @@ msgctxt "Name"
 msgid "eDonkey2000 GTK+ Core Controller"
 msgstr "eDonkey2000 GTK+ Core Controller"
 
-#: apps/kappfinder/apps/Internet/ed2k_gui.desktop:66
+#: apps/kappfinder/apps/Internet/ed2k_gui.desktop:87
 msgctxt "GenericName"
 msgid "eDonkey2000 GUI"
 msgstr "eDonkey2000 GUI"
@@ -1035,8 +1035,8 @@ msgctxt "Name"
 msgid "Ethereal"
 msgstr "Ethereal"
 
-#: apps/kappfinder/apps/Internet/ethereal.desktop:19
-#: apps/kappfinder/apps/Internet/wireshark.desktop:17
+#: apps/kappfinder/apps/Internet/ethereal.desktop:87
+#: apps/kappfinder/apps/Internet/wireshark.desktop:84
 msgctxt "GenericName"
 msgid "Network Analyzer"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
@@ -1056,7 +1056,7 @@ msgctxt "Name"
 msgid "Fetchmailconf"
 msgstr "Fetchmailconf"
 
-#: apps/kappfinder/apps/Internet/Fetchmailconf.desktop:20
+#: apps/kappfinder/apps/Internet/Fetchmailconf.desktop:87
 msgctxt "GenericName"
 msgid "Fetchmail Configuration"
 msgstr "Fetchmail ৰ বিন্যাস"
@@ -1066,8 +1066,8 @@ msgctxt "Name"
 msgid "Gabber"
 msgstr "Gabber"
 
-#: apps/kappfinder/apps/Internet/Gabber.desktop:19
-#: apps/kappfinder/apps/Internet/gaim.desktop:18
+#: apps/kappfinder/apps/Internet/Gabber.desktop:88
+#: apps/kappfinder/apps/Internet/gaim.desktop:87
 msgctxt "GenericName"
 msgid "Instant Messenger"
 msgstr "Instant Messenger"
@@ -1092,8 +1092,8 @@ msgctxt "Name"
 msgid "GNOMEICU"
 msgstr "GNOMEICU"
 
-#: apps/kappfinder/apps/Internet/GnomeICU.desktop:19
-#: apps/kappfinder/apps/Internet/licq.desktop:16
+#: apps/kappfinder/apps/Internet/GnomeICU.desktop:88
+#: apps/kappfinder/apps/Internet/licq.desktop:89
 msgctxt "GenericName"
 msgid "ICQ Messenger"
 msgstr "ICQ Messenger"
@@ -1103,7 +1103,7 @@ msgctxt "Name"
 msgid "GnomeMeeting"
 msgstr "GnomeMeeting"
 
-#: apps/kappfinder/apps/Internet/gnomemeeting.desktop:20
+#: apps/kappfinder/apps/Internet/gnomemeeting.desktop:88
 msgctxt "GenericName"
 msgid "Video Conferencing"
 msgstr "Video Conferencing"
@@ -1118,7 +1118,7 @@ msgctxt "Name"
 msgid "GNOME Telnet"
 msgstr "GNOME Telnet"
 
-#: apps/kappfinder/apps/Internet/gtelnet.desktop:39
+#: apps/kappfinder/apps/Internet/gtelnet.desktop:88
 msgctxt "GenericName"
 msgid "Remote Access"
 msgstr "দূৰৰ পৰা প্ৰৱেশ কৰা"
@@ -1128,7 +1128,7 @@ msgctxt "Name"
 msgid "ickle"
 msgstr "ickle"
 
-#: apps/kappfinder/apps/Internet/ickle.desktop:19
+#: apps/kappfinder/apps/Internet/ickle.desktop:89
 msgctxt "GenericName"
 msgid "ICQ2000 Chat"
 msgstr "ICQ2000 Chat"
@@ -1143,8 +1143,8 @@ msgctxt "Name"
 msgid "KNews"
 msgstr "KNews"
 
-#: apps/kappfinder/apps/Internet/knews.desktop:24
-#: apps/kappfinder/apps/Internet/Pan.desktop:19
+#: apps/kappfinder/apps/Internet/knews.desktop:88
+#: apps/kappfinder/apps/Internet/Pan.desktop:88
 msgctxt "GenericName"
 msgid "Usenet News Reader"
 msgstr "Usenet News Reader"
@@ -1159,7 +1159,7 @@ msgctxt "Name"
 msgid "MLDonkey GTK+ Core Controller"
 msgstr "MLDonkey GTK+ Core Controller"
 
-#: apps/kappfinder/apps/Internet/mldonkey_gui.desktop:65
+#: apps/kappfinder/apps/Internet/mldonkey_gui.desktop:86
 msgctxt "GenericName"
 msgid "MLDonkey GUI"
 msgstr "MLDonkey GUI"
@@ -1199,7 +1199,7 @@ msgctxt "Name"
 msgid "Nmapfe"
 msgstr "Nmapfe"
 
-#: apps/kappfinder/apps/Internet/Nmapfe.desktop:12
+#: apps/kappfinder/apps/Internet/Nmapfe.desktop:87
 msgctxt "GenericName"
 msgid "Port Scanner"
 msgstr "Port Scanner"
@@ -1219,18 +1219,18 @@ msgctxt "Name"
 msgid "Sylpheed"
 msgstr "Sylpheed"
 
-#: apps/kappfinder/apps/Internet/Terminal/btdownloadcurses.desktop:72
+#: apps/kappfinder/apps/Internet/Terminal/btdownloadcurses.desktop:90
 msgctxt "Name"
 msgid "BitTorrent Python Curses GUI"
 msgstr "BitTorrent Python Curses GUI"
 
 #: apps/kappfinder/apps/Internet/Terminal/lftp.desktop:2
-#: apps/kappfinder/apps/Internet/Terminal/ncftp.desktop:13
+#: apps/kappfinder/apps/Internet/Terminal/ncftp.desktop:88
 msgctxt "GenericName"
 msgid "FTP Client"
 msgstr "FTP Client"
 
-#: apps/kappfinder/apps/Internet/Terminal/lftp.desktop:88
+#: apps/kappfinder/apps/Internet/Terminal/lftp.desktop:91
 msgctxt "Name"
 msgid "Lftp"
 msgstr "Lftp"
@@ -1265,7 +1265,7 @@ msgctxt "GenericName"
 msgid "SILC Client"
 msgstr "SILC Client"
 
-#: apps/kappfinder/apps/Internet/Terminal/silc.desktop:86
+#: apps/kappfinder/apps/Internet/Terminal/silc.desktop:90
 msgctxt "Name"
 msgid "SILC"
 msgstr "SILC"
@@ -1275,7 +1275,7 @@ msgctxt "Name"
 msgid "Slrn"
 msgstr "Slrn"
 
-#: apps/kappfinder/apps/Internet/Terminal/slrn.desktop:15
+#: apps/kappfinder/apps/Internet/Terminal/slrn.desktop:91
 msgctxt "GenericName"
 msgid "News Reader"
 msgstr "News Reader"
@@ -1300,7 +1300,7 @@ msgctxt "Name"
 msgid "XChat"
 msgstr "XChat"
 
-#: apps/kappfinder/apps/Internet/xchat.desktop:22
+#: apps/kappfinder/apps/Internet/xchat.desktop:91
 msgctxt "GenericName"
 msgid "IRC Chat"
 msgstr "IRC Chat"
@@ -1320,7 +1320,7 @@ msgctxt "GenericName"
 msgid "Videotext Viewer"
 msgstr "Videotext প্ৰদৰ্শক"
 
-#: apps/kappfinder/apps/Multimedia/alevt.desktop:76
+#: apps/kappfinder/apps/Multimedia/alevt.desktop:77
 msgctxt "Name"
 msgid "AleVT"
 msgstr "AleVT"
@@ -1330,7 +1330,7 @@ msgctxt "Name"
 msgid "AlsaMixerGui"
 msgstr "AlsaMixerGui"
 
-#: apps/kappfinder/apps/Multimedia/alsamixergui.desktop:30
+#: apps/kappfinder/apps/Multimedia/alsamixergui.desktop:88
 msgctxt "GenericName"
 msgid "Alsa Mixer Frontend"
 msgstr "Alsa Mixer Frontend"
@@ -1340,7 +1340,7 @@ msgctxt "Name"
 msgid "ams"
 msgstr "ams"
 
-#: apps/kappfinder/apps/Multimedia/ams.desktop:16
+#: apps/kappfinder/apps/Multimedia/ams.desktop:82
 msgctxt "GenericName"
 msgid "Alsa Modular Synthesizer"
 msgstr "Alsa Modular Synthesizer"
@@ -1350,7 +1350,7 @@ msgctxt "Name"
 msgid "amSynth"
 msgstr "amSynth"
 
-#: apps/kappfinder/apps/Multimedia/amsynth.desktop:13
+#: apps/kappfinder/apps/Multimedia/amsynth.desktop:81
 msgctxt "GenericName"
 msgid "Retro Analog - Modeling Softsynth"
 msgstr "Retro Analog - Modeling Softsynth"
@@ -1360,7 +1360,7 @@ msgctxt "Name"
 msgid "Ardour"
 msgstr "Ardour"
 
-#: apps/kappfinder/apps/Multimedia/ardour.desktop:19
+#: apps/kappfinder/apps/Multimedia/ardour.desktop:84
 msgctxt "GenericName"
 msgid "Multitrack Audio Studio"
 msgstr "Multitrack Audio Studio"
@@ -1370,9 +1370,9 @@ msgctxt "Name"
 msgid "Audacity"
 msgstr "Audacity"
 
-#: apps/kappfinder/apps/Multimedia/audacity.desktop:19
-#: apps/kappfinder/apps/Multimedia/rezound.desktop:15
-#: apps/kappfinder/apps/Multimedia/sweep.desktop:25
+#: apps/kappfinder/apps/Multimedia/audacity.desktop:89
+#: apps/kappfinder/apps/Multimedia/rezound.desktop:88
+#: apps/kappfinder/apps/Multimedia/sweep.desktop:89
 msgctxt "GenericName"
 msgid "Audio Editor"
 msgstr "অ'ডিঅ' সম্পাদক"
@@ -1382,7 +1382,7 @@ msgctxt "Name"
 msgid "Aumix"
 msgstr "Aumix"
 
-#: apps/kappfinder/apps/Multimedia/Aumix.desktop:16
+#: apps/kappfinder/apps/Multimedia/Aumix.desktop:87
 msgctxt "GenericName"
 msgid "Audio Mixer"
 msgstr "Audio Mixer"
@@ -1392,7 +1392,7 @@ msgctxt "GenericName"
 msgid "AVI Video Player"
 msgstr "AVI ভিডিঅ' বজোৱা ব্যৱস্থা"
 
-#: apps/kappfinder/apps/Multimedia/aviplay.desktop:89
+#: apps/kappfinder/apps/Multimedia/aviplay.desktop:91
 msgctxt "Name"
 msgid "Aviplay"
 msgstr "Aviplay"
@@ -1402,7 +1402,7 @@ msgctxt "Name"
 msgid "Broadcast 2000"
 msgstr "Broadcast 2000"
 
-#: apps/kappfinder/apps/Multimedia/bcast2000.desktop:24
+#: apps/kappfinder/apps/Multimedia/bcast2000.desktop:88
 msgctxt "GenericName"
 msgid "Audio and Video IDE"
 msgstr "অ'ডিঅ' আৰু ভিডিঅ' IDE"
@@ -1412,8 +1412,8 @@ msgctxt "Name"
 msgid "DJPlay"
 msgstr "DJPlay"
 
-#: apps/kappfinder/apps/Multimedia/djplay.desktop:19
-#: apps/kappfinder/apps/Multimedia/mixxx.desktop:14
+#: apps/kappfinder/apps/Multimedia/djplay.desktop:85
+#: apps/kappfinder/apps/Multimedia/mixxx.desktop:82
 msgctxt "GenericName"
 msgid "DJ-Mixer and Player"
 msgstr "DJ-Mixer আৰু Player"
@@ -1423,7 +1423,7 @@ msgctxt "Name"
 msgid "EcaMegaPedal"
 msgstr "EcaMegaPedal"
 
-#: apps/kappfinder/apps/Multimedia/ecamegapedal.desktop:15
+#: apps/kappfinder/apps/Multimedia/ecamegapedal.desktop:81
 msgctxt "GenericName"
 msgid "Ecasound Effektrack"
 msgstr "Ecasound Effektrack"
@@ -1433,7 +1433,7 @@ msgctxt "Name"
 msgid "EnjoyMPEG"
 msgstr "EnjoyMPEG"
 
-#: apps/kappfinder/apps/Multimedia/enjoympeg.desktop:17
+#: apps/kappfinder/apps/Multimedia/enjoympeg.desktop:87
 #: apps/kappfinder/apps/Multimedia/gtv.desktop:2
 msgctxt "GenericName"
 msgid "MPEG Player"
@@ -1444,8 +1444,8 @@ msgctxt "Name"
 msgid "FreeBirth"
 msgstr "FreeBirth"
 
-#: apps/kappfinder/apps/Multimedia/freebirth.desktop:19
-#: apps/kappfinder/apps/Multimedia/hydrogen.desktop:24
+#: apps/kappfinder/apps/Multimedia/freebirth.desktop:84
+#: apps/kappfinder/apps/Multimedia/hydrogen.desktop:82
 msgctxt "GenericName"
 msgid "Drum Machine"
 msgstr "Drum Machine"
@@ -1455,7 +1455,7 @@ msgctxt "Name"
 msgid "FreqTweak"
 msgstr "FreqTweak"
 
-#: apps/kappfinder/apps/Multimedia/freqtweak.desktop:16
+#: apps/kappfinder/apps/Multimedia/freqtweak.desktop:82
 msgctxt "GenericName"
 msgid "Effects for Jack"
 msgstr "Effects for Jack"
@@ -1465,7 +1465,7 @@ msgctxt "Name"
 msgid "gAlan"
 msgstr "gAlan"
 
-#: apps/kappfinder/apps/Multimedia/galan.desktop:16
+#: apps/kappfinder/apps/Multimedia/galan.desktop:85
 msgctxt "GenericName"
 msgid "Modular Synth"
 msgstr "Modular Synth"
@@ -1475,12 +1475,12 @@ msgctxt "Name"
 msgid "Grip"
 msgstr "Grip"
 
-#: apps/kappfinder/apps/Multimedia/Grip.desktop:19
+#: apps/kappfinder/apps/Multimedia/Grip.desktop:89
 msgctxt "GenericName"
 msgid "CD Player/Ripper"
 msgstr "CD Player/Ripper"
 
-#: apps/kappfinder/apps/Multimedia/gtv.desktop:89
+#: apps/kappfinder/apps/Multimedia/gtv.desktop:91
 msgctxt "Name"
 msgid "GTV"
 msgstr "GTV"
@@ -1495,7 +1495,7 @@ msgctxt "Name"
 msgid "Jack-Rack"
 msgstr "Jack-Rack"
 
-#: apps/kappfinder/apps/Multimedia/jack-rack.desktop:21
+#: apps/kappfinder/apps/Multimedia/jack-rack.desktop:80
 msgctxt "GenericName"
 msgid "Jack Effectrack"
 msgstr "Jack Effectrack"
@@ -1505,7 +1505,7 @@ msgctxt "Name"
 msgid "Jamin"
 msgstr "Jamin"
 
-#: apps/kappfinder/apps/Multimedia/jamin.desktop:20
+#: apps/kappfinder/apps/Multimedia/jamin.desktop:84
 msgctxt "GenericName"
 msgid "Jack Mastering Tool"
 msgstr "Jack Mastering Tool"
@@ -1515,7 +1515,7 @@ msgctxt "Name"
 msgid "Jazz"
 msgstr "Jazz"
 
-#: apps/kappfinder/apps/Multimedia/jazz.desktop:19
+#: apps/kappfinder/apps/Multimedia/jazz.desktop:89
 msgctxt "GenericName"
 msgid "Sound Processor"
 msgstr "ধ্বনি সংসাধক"
@@ -1525,7 +1525,7 @@ msgctxt "GenericName"
 msgid "Dual Channel VU-Meter"
 msgstr "Dual Channel VU-Meter"
 
-#: apps/kappfinder/apps/Multimedia/meterbridge.desktop:77
+#: apps/kappfinder/apps/Multimedia/meterbridge.desktop:82
 msgctxt "Name"
 msgid "Meterbridge"
 msgstr "Meterbridge"
@@ -1544,17 +1544,17 @@ msgstr "MP3 Info"
 #: apps/kappfinder/apps/Multimedia/mtv.desktop:2
 #: apps/kappfinder/apps/Multimedia/realplayer.desktop:2
 #: apps/kappfinder/apps/Multimedia/xine.desktop:2
-#: apps/kappfinder/apps/Multimedia/XMovie.desktop:19
+#: apps/kappfinder/apps/Multimedia/XMovie.desktop:88
 msgctxt "GenericName"
 msgid "Video Player"
 msgstr "Video Player"
 
-#: apps/kappfinder/apps/Multimedia/mplayer.desktop:89
+#: apps/kappfinder/apps/Multimedia/mplayer.desktop:92
 msgctxt "Name"
 msgid "MPlayer"
 msgstr "MPlayer"
 
-#: apps/kappfinder/apps/Multimedia/mtv.desktop:88
+#: apps/kappfinder/apps/Multimedia/mtv.desktop:91
 msgctxt "Name"
 msgid "MpegTV"
 msgstr "MpegTV"
@@ -1564,7 +1564,7 @@ msgctxt "Name"
 msgid "MusE"
 msgstr "MusE"
 
-#: apps/kappfinder/apps/Multimedia/muse.desktop:17
+#: apps/kappfinder/apps/Multimedia/muse.desktop:85
 msgctxt "GenericName"
 msgid "Music Sequencer"
 msgstr "Music Sequencer"
@@ -1574,7 +1574,7 @@ msgctxt "GenericName"
 msgid "DVD Player"
 msgstr "DVD Player"
 
-#: apps/kappfinder/apps/Multimedia/ogle.desktop:90
+#: apps/kappfinder/apps/Multimedia/ogle.desktop:92
 msgctxt "Name"
 msgid "Ogle"
 msgstr "Ogle"
@@ -1584,7 +1584,7 @@ msgctxt "GenericName"
 msgid "MOV Video Player"
 msgstr "MOV Video Player"
 
-#: apps/kappfinder/apps/Multimedia/oqtplayer.desktop:89
+#: apps/kappfinder/apps/Multimedia/oqtplayer.desktop:91
 msgctxt "Name"
 msgid "OQTPlayer"
 msgstr "OQTPlayer"
@@ -1594,7 +1594,7 @@ msgctxt "Name"
 msgid "QJackCtl"
 msgstr "QJackCtl"
 
-#: apps/kappfinder/apps/Multimedia/qjackctl.desktop:15
+#: apps/kappfinder/apps/Multimedia/qjackctl.desktop:82
 msgctxt "GenericName"
 msgid "Control for Jack"
 msgstr "Jack ৰ কাৰণে নিয়ন্ত্ৰণ ব্যৱস্থা"
@@ -1604,12 +1604,12 @@ msgctxt "Name"
 msgid "QSynth"
 msgstr "QSynth"
 
-#: apps/kappfinder/apps/Multimedia/qsynth.desktop:16
+#: apps/kappfinder/apps/Multimedia/qsynth.desktop:81
 msgctxt "GenericName"
 msgid "Control for FluidSynth"
 msgstr "Control for FluidSynth"
 
-#: apps/kappfinder/apps/Multimedia/realplayer.desktop:89
+#: apps/kappfinder/apps/Multimedia/realplayer.desktop:92
 msgctxt "Name"
 msgid "RealPlayer"
 msgstr "RealPlayer"
@@ -1624,7 +1624,7 @@ msgctxt "Name"
 msgid "Slab"
 msgstr "Slab"
 
-#: apps/kappfinder/apps/Multimedia/slab.desktop:16
+#: apps/kappfinder/apps/Multimedia/slab.desktop:87
 msgctxt "GenericName"
 msgid "Audio Recorder"
 msgstr "Audio Recorder"
@@ -1639,7 +1639,7 @@ msgctxt "Name"
 msgid "vkeybd"
 msgstr "vkeybd"
 
-#: apps/kappfinder/apps/Multimedia/vkeybd.desktop:15
+#: apps/kappfinder/apps/Multimedia/vkeybd.desktop:82
 msgctxt "GenericName"
 msgid "Virtual MIDI Keyboard"
 msgstr "ভাৰ্চুৱেল MIDI চাবিৰ ফলক"
@@ -1649,7 +1649,7 @@ msgctxt "GenericName"
 msgid "Watch TV!"
 msgstr "TV চাওক!"
 
-#: apps/kappfinder/apps/Multimedia/xawtv.desktop:82
+#: apps/kappfinder/apps/Multimedia/xawtv.desktop:90
 msgctxt "Name"
 msgid "XawTV"
 msgstr "XawTV"
@@ -1659,12 +1659,12 @@ msgctxt "Name"
 msgid "XCam"
 msgstr "XCam"
 
-#: apps/kappfinder/apps/Multimedia/xcam.desktop:16
+#: apps/kappfinder/apps/Multimedia/xcam.desktop:88
 msgctxt "GenericName"
 msgid "Camera Program"
 msgstr "কেমেৰাৰ অনুপ্ৰয়োগ"
 
-#: apps/kappfinder/apps/Multimedia/xine.desktop:89
+#: apps/kappfinder/apps/Multimedia/xine.desktop:92
 msgctxt "Name"
 msgid "Xine"
 msgstr "Xine"
@@ -1674,7 +1674,7 @@ msgctxt "GenericName"
 msgid "Multimedia Player"
 msgstr "Multimedia Player"
 
-#: apps/kappfinder/apps/Multimedia/xmms.desktop:89
+#: apps/kappfinder/apps/Multimedia/xmms.desktop:91
 msgctxt "Name"
 msgid "XMMS"
 msgstr "XMMS"
@@ -1684,7 +1684,7 @@ msgctxt "GenericName"
 msgid "Playlist Tool"
 msgstr "Playlist সৰঞ্জাম"
 
-#: apps/kappfinder/apps/Multimedia/xmms-enqueue.desktop:90
+#: apps/kappfinder/apps/Multimedia/xmms-enqueue.desktop:91
 msgctxt "Name"
 msgid "Enqueue in XMMS"
 msgstr "Enqueue in XMMS"
@@ -1699,7 +1699,7 @@ msgctxt "Name"
 msgid "ZynaddsubFX"
 msgstr "ZynaddsubFX"
 
-#: apps/kappfinder/apps/Multimedia/zynaddsubfx.desktop:15
+#: apps/kappfinder/apps/Multimedia/zynaddsubfx.desktop:81
 msgctxt "GenericName"
 msgid "Soft Synth"
 msgstr "Soft Synth"
@@ -1709,10 +1709,10 @@ msgctxt "Name"
 msgid "AbiWord"
 msgstr "AbiWord"
 
-#: apps/kappfinder/apps/Office/abiword.desktop:19
-#: apps/kappfinder/apps/Office/lyx.desktop:14
-#: apps/kappfinder/apps/Office/WordPerfect2000.desktop:28
-#: apps/kappfinder/apps/Office/WordPerfect.desktop:26
+#: apps/kappfinder/apps/Office/abiword.desktop:88
+#: apps/kappfinder/apps/Office/lyx.desktop:88
+#: apps/kappfinder/apps/Office/WordPerfect2000.desktop:94
+#: apps/kappfinder/apps/Office/WordPerfect.desktop:94
 msgctxt "GenericName"
 msgid "Word Processor"
 msgstr "Word Processor"
@@ -1722,8 +1722,8 @@ msgctxt "Name"
 msgid "Acrobat Reader"
 msgstr "Acrobat Reader"
 
-#: apps/kappfinder/apps/Office/acroread.desktop:34
-#: apps/kappfinder/apps/Office/xpdf.desktop:20
+#: apps/kappfinder/apps/Office/acroread.desktop:92
+#: apps/kappfinder/apps/Office/xpdf.desktop:89
 msgctxt "GenericName"
 msgid "PDF Viewer"
 msgstr "PDF Viewer"
@@ -1733,7 +1733,7 @@ msgctxt "Name"
 msgid "Applix"
 msgstr "Applix"
 
-#: apps/kappfinder/apps/Office/Applix.desktop:21
+#: apps/kappfinder/apps/Office/Applix.desktop:94
 msgctxt "GenericName"
 msgid "Office Suite"
 msgstr "কাৰ্যালয়ৰ কাৰ্য্যক্ৰমৰ গোট"
@@ -1743,8 +1743,8 @@ msgctxt "Name"
 msgid "Dia"
 msgstr "Dia"
 
-#: apps/kappfinder/apps/Office/Dia.desktop:17
-#: apps/kappfinder/apps/Office/Guppi.desktop:17
+#: apps/kappfinder/apps/Office/Dia.desktop:88
+#: apps/kappfinder/apps/Office/Guppi.desktop:88
 msgctxt "GenericName"
 msgid "Program for Diagrams"
 msgstr "Diagrams ৰ কাৰণে কাৰ্য্যক্ৰম"
@@ -1754,7 +1754,7 @@ msgctxt "Name"
 msgid "GNOME-Cal"
 msgstr "GNOME-Cal"
 
-#: apps/kappfinder/apps/Office/Gnome-Cal.desktop:32
+#: apps/kappfinder/apps/Office/Gnome-Cal.desktop:88
 msgctxt "GenericName"
 msgid "Personal Calendar"
 msgstr "ব্যক্তিগত বৰ্ষপঞ্জিকা"
@@ -1764,7 +1764,7 @@ msgctxt "Name"
 msgid "GNOME-Card"
 msgstr "GNOME-Card"
 
-#: apps/kappfinder/apps/Office/Gnome-Card.desktop:36
+#: apps/kappfinder/apps/Office/Gnome-Card.desktop:89
 msgctxt "GenericName"
 msgid "Contact Manager"
 msgstr "পৰিচয়ৰ পৰিচালক"
@@ -1779,7 +1779,7 @@ msgctxt "Name"
 msgid "GnuCash"
 msgstr "GnuCash"
 
-#: apps/kappfinder/apps/Office/gnucash.desktop:22
+#: apps/kappfinder/apps/Office/gnucash.desktop:91
 msgctxt "GenericName"
 msgid "Finance Manager"
 msgstr "Finance Manager"
@@ -1789,8 +1789,8 @@ msgctxt "Name"
 msgid "Gnumeric"
 msgstr "Gnumeric"
 
-#: apps/kappfinder/apps/Office/Gnumeric.desktop:17
-#: apps/kappfinder/apps/Office/XsLite.desktop:20
+#: apps/kappfinder/apps/Office/Gnumeric.desktop:88
+#: apps/kappfinder/apps/Office/XsLite.desktop:93
 msgctxt "GenericName"
 msgid "Spread Sheet"
 msgstr "Spread Sheet"
@@ -1805,7 +1805,7 @@ msgctxt "Name"
 msgid "Ical"
 msgstr "Ical"
 
-#: apps/kappfinder/apps/Office/Ical.desktop:14
+#: apps/kappfinder/apps/Office/Ical.desktop:88
 msgctxt "GenericName"
 msgid "Calendar Program"
 msgstr "বৰ্ষপঞ্জিকাৰ কাৰ্য্যক্ৰম"
@@ -1820,7 +1820,7 @@ msgctxt "Name"
 msgid "MrProject"
 msgstr "MrProject"
 
-#: apps/kappfinder/apps/Office/mrproject.desktop:21
+#: apps/kappfinder/apps/Office/mrproject.desktop:91
 msgctxt "GenericName"
 msgid "Project Manager"
 msgstr "প্ৰকল্পৰ পৰিচালক"
@@ -1838,7 +1838,7 @@ msgctxt "Name"
 msgid "Plan"
 msgstr "Plan"
 
-#: apps/kappfinder/apps/Office/plan.desktop:31
+#: apps/kappfinder/apps/Office/plan.desktop:94
 msgctxt "GenericName"
 msgid "Calendar Manager"
 msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
@@ -1848,7 +1848,7 @@ msgctxt "GenericName"
 msgid "Bibliographic Database"
 msgstr "Bibliographic Database"
 
-#: apps/kappfinder/apps/Office/pybliographic.desktop:90
+#: apps/kappfinder/apps/Office/pybliographic.desktop:91
 msgctxt "Name"
 msgid "Pybliographic"
 msgstr "Pybliographic"
@@ -1858,7 +1858,7 @@ msgctxt "Name"
 msgid "Scribus"
 msgstr "Scribus"
 
-#: apps/kappfinder/apps/Office/scribus.desktop:17
+#: apps/kappfinder/apps/Office/scribus.desktop:88
 msgctxt "GenericName"
 msgid "Desktop Publishing"
 msgstr "ডেষ্কট'প প্ৰকাশন"
@@ -1878,7 +1878,7 @@ msgctxt "Name"
 msgid "xacc"
 msgstr "xacc"
 
-#: apps/kappfinder/apps/Office/XAcc.desktop:20
+#: apps/kappfinder/apps/Office/XAcc.desktop:94
 msgctxt "GenericName"
 msgid "Personal Accounting Tool"
 msgstr "ব্যক্তিগত হিচাপ ৰখাৰ সৰঞ্জাম"
@@ -1898,7 +1898,7 @@ msgctxt "Name"
 msgid "Citrix ICA Client"
 msgstr "Citrix ICA Client"
 
-#: apps/kappfinder/apps/System/citrix_ica.desktop:78
+#: apps/kappfinder/apps/System/citrix_ica.desktop:88
 msgctxt "GenericName"
 msgid "WTS Client"
 msgstr "WTS গ্ৰাহক"
@@ -1908,7 +1908,7 @@ msgctxt "Name"
 msgid "EditXRes"
 msgstr "EditXRes"
 
-#: apps/kappfinder/apps/System/editres.desktop:19
+#: apps/kappfinder/apps/System/editres.desktop:88
 msgctxt "GenericName"
 msgid "X Resource Editor"
 msgstr "X সম্পদ সম্পাদক"
@@ -1923,7 +1923,7 @@ msgctxt "Name"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
 
-#: apps/kappfinder/apps/System/Terminal/aterm.desktop:57
+#: apps/kappfinder/apps/System/Terminal/aterm.desktop:92
 #: apps/kappfinder/apps/Utilities/xutils/xterm.desktop:3
 msgctxt "GenericName"
 msgid "Terminal Program"
@@ -1934,7 +1934,7 @@ msgctxt "Name"
 msgid "Procinfo"
 msgstr "Procinfo"
 
-#: apps/kappfinder/apps/System/Terminal/procinfo.desktop:19
+#: apps/kappfinder/apps/System/Terminal/procinfo.desktop:90
 msgctxt "GenericName"
 msgid "System Process Information"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
@@ -1944,7 +1944,7 @@ msgctxt "GenericName"
 msgid "ouR eXtended Virtual Terminal"
 msgstr "ouR eXtended Virtual Terminal"
 
-#: apps/kappfinder/apps/System/Terminal/rxvt.desktop:64
+#: apps/kappfinder/apps/System/Terminal/rxvt.desktop:89
 msgctxt "Name"
 msgid "RXVT"
 msgstr "RXVT"
@@ -1954,7 +1954,7 @@ msgctxt "Name"
 msgid "Vmstat"
 msgstr "Vmstat"
 
-#: apps/kappfinder/apps/System/Terminal/vmstat.desktop:16
+#: apps/kappfinder/apps/System/Terminal/vmstat.desktop:90
 msgctxt "GenericName"
 msgid "Virtual Memory Statistics"
 msgstr "ভাৰ্চুৱেল স্মৃতিশক্তিৰ পৰিসংখ্যা"
@@ -1964,7 +1964,7 @@ msgctxt "Name"
 msgid "Wine"
 msgstr "Wine"
 
-#: apps/kappfinder/apps/System/wine.desktop:19
+#: apps/kappfinder/apps/System/wine.desktop:89
 msgctxt "GenericName"
 msgid "Run Windows Programs"
 msgstr "Windows কাৰ্য্যক্ৰম চলাওক"
@@ -1974,7 +1974,7 @@ msgctxt "Name"
 msgid "X osview"
 msgstr "X osview"
 
-#: apps/kappfinder/apps/System/xosview.desktop:23
+#: apps/kappfinder/apps/System/xosview.desktop:88
 #: workspace/ksysguard/gui/ksysguard.desktop:78
 msgctxt "GenericName"
 msgid "System Monitor"
@@ -1990,7 +1990,7 @@ msgctxt "Name"
 msgid "Tux"
 msgstr "Tux"
 
-#: apps/kappfinder/apps/Toys/xpinguin.desktop:20
+#: apps/kappfinder/apps/Toys/xpinguin.desktop:88
 msgctxt "GenericName"
 msgid "Linux Mascot"
 msgstr "Linux Mascot"
@@ -2000,8 +2000,8 @@ msgctxt "Name"
 msgid "Calctool"
 msgstr "Calctool"
 
-#: apps/kappfinder/apps/Utilities/calctool.desktop:28
-#: apps/kappfinder/apps/Utilities/xutils/xcalc.desktop:40
+#: apps/kappfinder/apps/Utilities/calctool.desktop:87
+#: apps/kappfinder/apps/Utilities/xutils/xcalc.desktop:90
 msgctxt "GenericName"
 msgid "Calculator"
 msgstr "Calculator"
@@ -2011,7 +2011,7 @@ msgctxt "Name"
 msgid "E-Notes"
 msgstr "E-Notes"
 
-#: apps/kappfinder/apps/Utilities/e-notes.desktop:32
+#: apps/kappfinder/apps/Utilities/e-notes.desktop:88
 msgctxt "GenericName"
 msgid "Personal Notes"
 msgstr "ব্যক্তিগত টোকা"
@@ -2021,7 +2021,7 @@ msgctxt "Name"
 msgid "GKrellM"
 msgstr "GKrellM"
 
-#: apps/kappfinder/apps/Utilities/GKrellM.desktop:12
+#: apps/kappfinder/apps/Utilities/GKrellM.desktop:89
 msgctxt "GenericName"
 msgid "GNU Krell Monitors"
 msgstr "GNU Krell Monitors"
@@ -2031,7 +2031,7 @@ msgctxt "Name"
 msgid "GNOME Who"
 msgstr "GNOME Who"
 
-#: apps/kappfinder/apps/Utilities/GnomeWho.desktop:30
+#: apps/kappfinder/apps/Utilities/GnomeWho.desktop:87
 msgctxt "GenericName"
 msgid "System Info Tool"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ তথ্যৰ সৰঞ্জাম"
@@ -2041,8 +2041,8 @@ msgctxt "Name"
 msgid "OClock"
 msgstr "OClock"
 
-#: apps/kappfinder/apps/Utilities/oclock.desktop:22
-#: apps/kappfinder/apps/Utilities/xutils/xclock.desktop:71
+#: apps/kappfinder/apps/Utilities/oclock.desktop:87
+#: apps/kappfinder/apps/Utilities/xutils/xclock.desktop:96
 msgctxt "GenericName"
 msgid "Clock"
 msgstr "Clock"
@@ -2062,7 +2062,7 @@ msgctxt "Name"
 msgid "X-Gnokii"
 msgstr "X-Gnokii"
 
-#: apps/kappfinder/apps/Utilities/xgnokii.desktop:16
+#: apps/kappfinder/apps/Utilities/xgnokii.desktop:87
 msgctxt "GenericName"
 msgid "Mobile Phone Management Tool"
 msgstr "মোবাইল ফোন পৰিচালনাৰ সৰঞ্জাম"
@@ -2077,7 +2077,7 @@ msgctxt "Name"
 msgid "X Clipboard"
 msgstr "X Clipboard"
 
-#: apps/kappfinder/apps/Utilities/xutils/xclipboard.desktop:63
+#: apps/kappfinder/apps/Utilities/xutils/xclipboard.desktop:89
 msgctxt "GenericName"
 msgid "Clipboard Viewer"
 msgstr "Clipboard প্ৰদৰ্শক"
@@ -2092,7 +2092,7 @@ msgctxt "Name"
 msgid "X Console"
 msgstr "X Console"
 
-#: apps/kappfinder/apps/Utilities/xutils/xconsole.desktop:65
+#: apps/kappfinder/apps/Utilities/xutils/xconsole.desktop:89
 msgctxt "GenericName"
 msgid "Console Message Viewer"
 msgstr "ক'ন্সোলৰ সম্বাদ প্ৰদৰ্শক"
@@ -2102,7 +2102,7 @@ msgctxt "Name"
 msgid "X Kill"
 msgstr "X Kill"
 
-#: apps/kappfinder/apps/Utilities/xutils/Xkill.desktop:24
+#: apps/kappfinder/apps/Utilities/xutils/Xkill.desktop:88
 msgctxt "GenericName"
 msgid "Window Termination Tool"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
@@ -2112,7 +2112,7 @@ msgctxt "Name"
 msgid "X Load"
 msgstr "X Load"
 
-#: apps/kappfinder/apps/Utilities/xutils/xload.desktop:55
+#: apps/kappfinder/apps/Utilities/xutils/xload.desktop:95
 msgctxt "GenericName"
 msgid "Monitors System Load"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ ভাৰ নিৰীক্ষণ কৰে"
@@ -2122,7 +2122,7 @@ msgctxt "Name"
 msgid "X Magnifier"
 msgstr "X Magnifier"
 
-#: apps/kappfinder/apps/Utilities/xutils/xmag.desktop:63
+#: apps/kappfinder/apps/Utilities/xutils/xmag.desktop:90
 msgctxt "GenericName"
 msgid "Desktop Magnifier"
 msgstr "ডেষ্কট'প বৰ্দ্ধক"
@@ -2132,12 +2132,12 @@ msgctxt "Name"
 msgid "X Refresh"
 msgstr "X Refresh"
 
-#: apps/kappfinder/apps/Utilities/xutils/Xrefresh.desktop:31
+#: apps/kappfinder/apps/Utilities/xutils/Xrefresh.desktop:87
 msgctxt "GenericName"
 msgid "Refresh Screen"
 msgstr "পৰ্দ্দা সতেজ কৰক"
 
-#: apps/kappfinder/apps/Utilities/xutils/xterm.desktop:88
+#: apps/kappfinder/apps/Utilities/xutils/xterm.desktop:89
 msgctxt "Name"
 msgid "X Terminal"
 msgstr "X Terminal"
@@ -2147,7 +2147,7 @@ msgctxt "Name"
 msgid "X Traceroute"
 msgstr "X Traceroute"
 
-#: apps/kappfinder/apps/Utilities/xutils/Xtraceroute.desktop:23
+#: apps/kappfinder/apps/Utilities/xutils/Xtraceroute.desktop:86
 msgctxt "GenericName"
 msgid "Network Tool"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
@@ -2162,7 +2162,7 @@ msgctxt "Name"
 msgid "Password & User Account"
 msgstr "গুপ্তশব্দ & ব্যৱহাৰকৰোঁতাৰ হিচাপ"
 
-#: apps/kdepasswd/kcm/kcm_useraccount.desktop:134
+#: apps/kdepasswd/kcm/kcm_useraccount.desktop:135
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
@@ -2187,7 +2187,7 @@ msgctxt "Name"
 msgid "Devices"
 msgstr "যন্ত্ৰ"
 
-#: apps/kinfocenter/info/devices.desktop:101
+#: apps/kinfocenter/info/devices.desktop:102
 msgctxt "Comment"
 msgid "Attached devices information"
 msgstr "সংযুক্ত যন্ত্ৰৰ তথ্য"
@@ -2197,7 +2197,7 @@ msgctxt "Name"
 msgid "DMA-Channels"
 msgstr "DMA-Channels"
 
-#: apps/kinfocenter/info/dma.desktop:97
+#: apps/kinfocenter/info/dma.desktop:101
 msgctxt "Comment"
 msgid "DMA information"
 msgstr "DMA তথ্য"
@@ -2207,7 +2207,7 @@ msgctxt "Name"
 msgid "Interrupts"
 msgstr "Interrupts"
 
-#: apps/kinfocenter/info/interrupts.desktop:93
+#: apps/kinfocenter/info/interrupts.desktop:101
 msgctxt "Comment"
 msgid "Interrupt information"
 msgstr "Interrupt তথ্য"
@@ -2217,7 +2217,7 @@ msgctxt "Name"
 msgid "IO-Ports"
 msgstr "IO-Ports"
 
-#: apps/kinfocenter/info/ioports.desktop:95
+#: apps/kinfocenter/info/ioports.desktop:101
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr "IO-port তথ্য"
@@ -2227,7 +2227,7 @@ msgctxt "Name"
 msgid "Processor"
 msgstr "সংসাধক"
 
-#: apps/kinfocenter/info/processor.desktop:96
+#: apps/kinfocenter/info/processor.desktop:101
 msgctxt "Comment"
 msgid "Processor information"
 msgstr "সংসাধকৰ তথ্য"
@@ -2237,7 +2237,7 @@ msgctxt "Name"
 msgid "SCSI"
 msgstr "SCSI"
 
-#: apps/kinfocenter/info/scsi.desktop:30
+#: apps/kinfocenter/info/scsi.desktop:101
 msgctxt "Comment"
 msgid "SCSI information"
 msgstr "SCSI তথ্য"
@@ -2247,7 +2247,7 @@ msgctxt "Name"
 msgid "Sound"
 msgstr "ধ্বনি"
 
-#: apps/kinfocenter/info/sound.desktop:99
+#: apps/kinfocenter/info/sound.desktop:101
 msgctxt "Comment"
 msgid "Sound information"
 msgstr "ধ্বনিৰ তথ্য"
@@ -2257,7 +2257,7 @@ msgctxt "Name"
 msgid "X-Server"
 msgstr "X-Server"
 
-#: apps/kinfocenter/info/xserver.desktop:86
+#: apps/kinfocenter/info/xserver.desktop:100
 msgctxt "Comment"
 msgid "X-Server information"
 msgstr "X-Server ৰ তথ্য"
@@ -2267,7 +2267,7 @@ msgctxt "Comment"
 msgid "Information about available protocols"
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
-#: apps/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:138
+#: apps/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:139
 msgctxt "Name"
 msgid "Protocols"
 msgstr "আচাৰ বিধি"
@@ -2277,7 +2277,7 @@ msgctxt "Name"
 msgid "KInfoCenter"
 msgstr "KInfoCenter"
 
-#: apps/kinfocenter/kinfocenter.desktop:44
+#: apps/kinfocenter/kinfocenter.desktop:93
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "তথ্য কেন্দ্ৰ"
@@ -2287,7 +2287,7 @@ msgctxt "Name"
 msgid "Memory"
 msgstr "স্মৃতিশক্তি"
 
-#: apps/kinfocenter/memory/kcm_memory.desktop:99
+#: apps/kinfocenter/memory/kcm_memory.desktop:100
 msgctxt "Comment"
 msgid "Memory information"
 msgstr "স্মৃতিশক্তিৰ তথ্য"
@@ -2297,7 +2297,7 @@ msgctxt "Name"
 msgid "Network Interfaces"
 msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
 
-#: apps/kinfocenter/nics/nic.desktop:97
+#: apps/kinfocenter/nics/nic.desktop:98
 #: workspace/plasma/generic/dataengines/network/plasma-dataengine-network.desktop:69
 msgctxt "Comment"
 msgid "Network interface information"
@@ -2308,7 +2308,7 @@ msgctxt "Name"
 msgid "OpenGL"
 msgstr "OpenGL"
 
-#: apps/kinfocenter/opengl/opengl.desktop:25
+#: apps/kinfocenter/opengl/opengl.desktop:97
 msgctxt "Comment"
 msgid "OpenGL information"
 msgstr "OpenGL ৰ তথ্য"
@@ -2318,7 +2318,7 @@ msgctxt "Name"
 msgid "Partitions"
 msgstr "বিভাজন"
 
-#: apps/kinfocenter/partition/kcm_partition.desktop:97
+#: apps/kinfocenter/partition/kcm_partition.desktop:99
 msgctxt "Comment"
 msgid "Partition information"
 msgstr "বিভাজনৰ তথ্য"
@@ -2328,7 +2328,7 @@ msgctxt "Name"
 msgid "PCI"
 msgstr "PCI"
 
-#: apps/kinfocenter/pci/kcm_pci.desktop:29
+#: apps/kinfocenter/pci/kcm_pci.desktop:98
 msgctxt "Comment"
 msgid "PCI information"
 msgstr "PCI ৰ তথ্য"
@@ -2338,7 +2338,7 @@ msgctxt "Name"
 msgid "Samba Status"
 msgstr "Samba ৰ অৱস্থা"
 
-#: apps/kinfocenter/samba/smbstatus.desktop:95
+#: apps/kinfocenter/samba/smbstatus.desktop:98
 msgctxt "Comment"
 msgid "Samba status monitor"
 msgstr "Samba ৰ অৱস্থাৰ নিৰীক্ষণ"
@@ -2348,7 +2348,7 @@ msgctxt "Name"
 msgid "Processor Information"
 msgstr "সংসাধকৰ তথ্য"
 
-#: apps/kinfocenter/solidproc/kcmsolidproc.desktop:87
+#: apps/kinfocenter/solidproc/kcmsolidproc.desktop:89
 msgctxt "Comment"
 msgid "Processor Information"
 msgstr "সংসাধকৰ তথ্য"
@@ -2358,7 +2358,7 @@ msgctxt "Name"
 msgid "USB Devices"
 msgstr "USB যন্ত্ৰ"
 
-#: apps/kinfocenter/usbview/kcmusb.desktop:97
+#: apps/kinfocenter/usbview/kcmusb.desktop:98
 msgctxt "Comment"
 msgid "USB devices attached to this computer"
 msgstr "এই কম্পিউটাৰৰ সৈতে সংযুক্ত USB যন্ত্ৰ"
@@ -2368,7 +2368,7 @@ msgctxt "Name"
 msgid "IEEE 1394 Devices"
 msgstr "IEEE 1394 যন্ত্ৰ"
 
-#: apps/kinfocenter/view1394/kcmview1394.desktop:95
+#: apps/kinfocenter/view1394/kcmview1394.desktop:97
 msgctxt "Comment"
 msgid "Attached IEEE 1394 devices"
 msgstr "সংযুক্ত IEEE 1394 যন্ত্ৰ"
@@ -2384,7 +2384,7 @@ msgctxt "Name"
 msgid "Home"
 msgstr "ঘৰ"
 
-#: apps/konqueror/Home.desktop:92 runtime/kioslave/desktop/Home.desktop:87
+#: apps/konqueror/Home.desktop:95 runtime/kioslave/desktop/Home.desktop:87
 msgctxt "GenericName"
 msgid "Personal Files"
 msgstr "ব্যক্তিগত নথিপত্ৰ"
@@ -2397,7 +2397,7 @@ msgctxt "Name"
 msgid "Konqueror"
 msgstr "Konqueror"
 
-#: apps/konqueror/konqueror.desktop:23
+#: apps/konqueror/konqueror.desktop:91
 msgctxt "Comment"
 msgid "KDE File Manager & Web Browser"
 msgstr "KDE File Manager & Web Browser"
@@ -2412,7 +2412,7 @@ msgctxt "Name"
 msgid "Text-to-Speech"
 msgstr "Text-to-Speech"
 
-#: apps/konqueror/kttsplugin/khtmlkttsd.desktop:87
+#: apps/konqueror/kttsplugin/khtmlkttsd.desktop:93
 msgctxt "Comment"
 msgid "Produces audio output for text in the current page"
 msgstr "বৰ্ত্তমানৰ পৃষ্ঠাৰ লিপিৰ বিষয়ে অ'ডিঅ' নিৰ্গম সৃষ্টি কৰে"
@@ -2427,7 +2427,7 @@ msgctxt "Name"
 msgid "KDED Konqueror Preloader Module"
 msgstr "KDED Konqueror Preloader Module"
 
-#: apps/konqueror/preloader/konqy_preloader.desktop:81
+#: apps/konqueror/preloader/konqy_preloader.desktop:85
 msgctxt "Comment"
 msgid "Reduces Konqueror startup time"
 msgstr "Konqueror আৰম্ভণিৰ সময় কম কৰে"
@@ -2491,7 +2491,7 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "ৱেবৰ চমু পথ"
 
-#: apps/konqueror/settings/ebrowsing/ebrowsing.desktop:97
+#: apps/konqueror/settings/ebrowsing/ebrowsing.desktop:98
 msgctxt "Comment"
 msgid "Configure enhanced browsing"
 msgstr "উন্নতভাবে চৰণ কৰা বিন্যাস কৰক"
@@ -2503,7 +2503,7 @@ msgctxt "Name"
 msgid "Bookmarks"
 msgstr "পত্ৰচিহ্ন"
 
-#: apps/konqueror/settings/kio/bookmarks.desktop:98
+#: apps/konqueror/settings/kio/bookmarks.desktop:99
 msgctxt "Comment"
 msgid "Configure the bookmarks home page"
 msgstr "পত্ৰচিহ্নৰ ঘৰৰ পৃষ্ঠা বিন্যাস কৰক"
@@ -2513,7 +2513,7 @@ msgctxt "Name"
 msgid "Cache"
 msgstr "কেছে"
 
-#: apps/konqueror/settings/kio/cache.desktop:87
+#: apps/konqueror/settings/kio/cache.desktop:100
 msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
@@ -2523,7 +2523,7 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "কুকি"
 
-#: apps/konqueror/settings/kio/cookies.desktop:79
+#: apps/konqueror/settings/kio/cookies.desktop:98
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "কুকিৰ কাম কৰা প্ৰক্ৰিয়া বিন্যাস কৰক"
@@ -2533,7 +2533,7 @@ msgctxt "Name"
 msgid "Local Network Browsing"
 msgstr "স্থানীয় নে'টৱৰ্ক চৰণ কৰক"
 
-#: apps/konqueror/settings/kio/lanbrowser.desktop:100
+#: apps/konqueror/settings/kio/lanbrowser.desktop:101
 msgctxt "Comment"
 msgid "Configure local network browsing for shared folders and printers"
 msgstr ""
@@ -2543,7 +2543,7 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "সংযোগৰ পছন্দ"
 
-#: apps/konqueror/settings/kio/netpref.desktop:99
+#: apps/konqueror/settings/kio/netpref.desktop:100
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
@@ -2553,7 +2553,7 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "প্ৰশমক"
 
-#: apps/konqueror/settings/kio/proxy.desktop:82
+#: apps/konqueror/settings/kio/proxy.desktop:103
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "ব্যৱহাৰ কৰা প্ৰশমক সেৱক বিন্যাস কৰক"
@@ -2563,7 +2563,7 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "Windows Shares"
 
-#: apps/konqueror/settings/kio/smb.desktop:94
+#: apps/konqueror/settings/kio/smb.desktop:96
 msgctxt "Comment"
 msgid "Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
@@ -2732,7 +2732,7 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr "চৰকৰ চিনাক্তকৰণ"
 
-#: apps/konqueror/settings/kio/useragent.desktop:96
+#: apps/konqueror/settings/kio/useragent.desktop:97
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
 msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
@@ -2742,7 +2742,7 @@ msgctxt "Name"
 msgid "Paths"
 msgstr "পথ"
 
-#: apps/konqueror/settings/konq/desktoppath.desktop:101
+#: apps/konqueror/settings/konq/desktoppath.desktop:102
 msgctxt "Comment"
 msgid "Change the location important files are stored"
 msgstr "গুৰুত্বপূৰ্ণ নথিপত্ৰ সংৰক্ষণ কৰাৰ স্থান সলনি কৰক"
@@ -2755,8 +2755,8 @@ msgctxt "Name"
 msgid "Appearance"
 msgstr "চেহেৰা"
 
-#: apps/konqueror/settings/konq/fileappearance.desktop:98
-#: apps/konqueror/settings/konq/webappearance.desktop:99
+#: apps/konqueror/settings/konq/fileappearance.desktop:99
+#: apps/konqueror/settings/konq/webappearance.desktop:100
 msgctxt "Comment"
 msgid "You can configure how Konqueror looks as a file manager here"
 msgstr ""
@@ -2780,12 +2780,12 @@ msgctxt "Name"
 msgid "Stylesheets"
 msgstr "Stylesheets"
 
-#: apps/konqueror/settings/konqhtml/css/kcmcss.desktop:92
+#: apps/konqueror/settings/konqhtml/css/kcmcss.desktop:98
 msgctxt "Comment"
 msgid "Configure the stylesheets used to render web pages"
 msgstr "ৱেব পৃষ্ঠা দেখুৱাবলৈ stylesheets কি ধৰণে ব্যৱহাৰ হয় বিন্যাস কৰক"
 
-#: apps/konqueror/settings/konqhtml/khtml_appearance.desktop:101
+#: apps/konqueror/settings/konqhtml/khtml_appearance.desktop:102
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the fonts used on web pages"
@@ -2808,7 +2808,7 @@ msgctxt "Name"
 msgid "AdBlocK Filters"
 msgstr "AdBlocK Filters"
 
-#: apps/konqueror/settings/konqhtml/khtml_filter.desktop:96
+#: apps/konqueror/settings/konqhtml/khtml_filter.desktop:99
 msgctxt "Comment"
 msgid "Configure Konqueror AdBlocK filters"
 msgstr "Konqueror AdBlocK filters বিন্যাস কৰক"
@@ -2822,7 +2822,7 @@ msgctxt ""
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: apps/konqueror/settings/konqhtml/khtml_general.desktop:56
+#: apps/konqueror/settings/konqhtml/khtml_general.desktop:60
 msgctxt "Comment"
 msgid "Configure general Konqueror behavior"
 msgstr "Konqueror ৰ সাধাৰণ আচৰণ বিন্যাস কৰক"
@@ -2832,7 +2832,7 @@ msgctxt "Name"
 msgid "Java & JavaScript"
 msgstr "Java & JavaScript"
 
-#: apps/konqueror/settings/konqhtml/khtml_java_js.desktop:82
+#: apps/konqueror/settings/konqhtml/khtml_java_js.desktop:99
 msgctxt "Comment"
 msgid "Configure the behavior of Java and JavaScript"
 msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
@@ -2842,7 +2842,7 @@ msgctxt "Name"
 msgid "Performance"
 msgstr "কাৰ্যক্ষমতা"
 
-#: apps/konqueror/settings/performance/kcmkonqyperformance.desktop:93
+#: apps/konqueror/settings/performance/kcmkonqyperformance.desktop:96
 msgctxt "Comment"
 msgid "Configure settings that can improve Konqueror performance"
 msgstr "Konqueror ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
@@ -2852,7 +2852,7 @@ msgctxt "Name"
 msgid "KDE Performance"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: apps/konqueror/settings/performance/kcmperformance.desktop:94
+#: apps/konqueror/settings/performance/kcmperformance.desktop:96
 msgctxt "Comment"
 msgid "Configure settings that can improve KDE performance"
 msgstr "KDE ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
@@ -2862,7 +2862,7 @@ msgctxt "Name"
 msgid "Shell Command Plugin"
 msgstr "শ্বেল আদেশৰ প্লাগ-ইন"
 
-#: apps/konqueror/shellcmdplugin/kshellcmdplugin.desktop:93
+#: apps/konqueror/shellcmdplugin/kshellcmdplugin.desktop:95
 msgctxt "Comment"
 msgid "Shell Command Plugin for Konqueror"
 msgstr "Konqueror ৰ কাৰণে শ্বেল আদেশৰ প্লাগ-ইন"
@@ -2883,13 +2883,13 @@ msgctxt "Name"
 msgid "History Sidebar"
 msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
-#: apps/konqueror/sidebar/trees/history_module/kcmhistory.desktop:94
+#: apps/konqueror/sidebar/trees/history_module/kcmhistory.desktop:95
 msgctxt "Comment"
 msgid "Configure the history sidebar"
 msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ বিন্যাস কৰক"
 
-#: apps/konqueror/sidebar/trees/init/bookmarks.desktop:91
-#: apps/konqueror/sidebar/trees/init/bookmarks_module.desktop:91
+#: apps/konqueror/sidebar/trees/init/bookmarks.desktop:92
+#: apps/konqueror/sidebar/trees/init/bookmarks_module.desktop:92
 msgctxt "Comment"
 msgid "This is the list of your bookmarks, for a faster access"
 msgstr "দ্ৰুত ভাবে অভিগম কৰিবলৈ এইয়া আপোনাৰ পত্ৰচিহ্নৰ তালিকা"
@@ -2906,8 +2906,8 @@ msgctxt "Name"
 msgid "History"
 msgstr "ইতিহাস"
 
-#: apps/konqueror/sidebar/trees/init/history.desktop:91
-#: apps/konqueror/sidebar/trees/init/history_module.desktop:91
+#: apps/konqueror/sidebar/trees/init/history.desktop:92
+#: apps/konqueror/sidebar/trees/init/history_module.desktop:92
 msgctxt "Comment"
 msgid ""
 "This is the history of the URLs you have recently visited. You can sort them "
@@ -2919,7 +2919,7 @@ msgctxt "Name"
 msgid "Home Folder"
 msgstr "ঘৰৰ ফোল্ডাৰ"
 
-#: apps/konqueror/sidebar/trees/init/home.desktop:90
+#: apps/konqueror/sidebar/trees/init/home.desktop:91
 msgctxt "Comment"
 msgid "This folder contains your personal files"
 msgstr "এই ফোল্ডাৰত আপোনাৰ ব্যক্তিগত নথিপত্ৰ আছে"
@@ -2972,7 +2972,7 @@ msgctxt "Name"
 msgid "Root Folder"
 msgstr "ৰূটৰ ফোল্ডাৰ"
 
-#: apps/konqueror/sidebar/trees/init/root.desktop:89
+#: apps/konqueror/sidebar/trees/init/root.desktop:90
 msgctxt "Comment"
 msgid "This is the root of the filesystem"
 msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
@@ -3005,7 +3005,7 @@ msgctxt "Name"
 msgid "Shell"
 msgstr "শ্বেল"
 
-#: apps/konsole/data/profiles/Shell.profile:65
+#: apps/konsole/data/profiles/Shell.profile:85
 msgctxt "Comment"
 msgid "Konsole default profile"
 msgstr "Konsole ৰ অবিকল্পিত পাৰ্শ্বৰূপ"
@@ -3015,7 +3015,7 @@ msgctxt "Name"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: apps/konsole/desktop/konsole.desktop:46
+#: apps/konsole/desktop/konsole.desktop:96
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
@@ -3030,52 +3030,52 @@ msgctxt "Comment"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: apps/konsole/desktop/konsole.notifyrc:44
+#: apps/konsole/desktop/konsole.notifyrc:89
 msgctxt "Name"
 msgid "Bell in Visible Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: apps/konsole/desktop/konsole.notifyrc:117
+#: apps/konsole/desktop/konsole.notifyrc:164
 msgctxt "Comment"
 msgid "Bell emitted within a visible session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:196
+#: apps/konsole/desktop/konsole.notifyrc:245
 msgctxt "Name"
 msgid "Bell in Non-Visible Session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:268
+#: apps/konsole/desktop/konsole.notifyrc:319
 msgctxt "Comment"
 msgid "Bell emitted within a non-visible session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:348
+#: apps/konsole/desktop/konsole.notifyrc:401
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:419
+#: apps/konsole/desktop/konsole.notifyrc:474
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:498
+#: apps/konsole/desktop/konsole.notifyrc:555
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:569
+#: apps/konsole/desktop/konsole.notifyrc:628
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:647
+#: apps/konsole/desktop/konsole.notifyrc:708
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr ""
 
-#: apps/konsole/desktop/konsole.notifyrc:720
+#: apps/konsole/desktop/konsole.notifyrc:783
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr ""
@@ -3091,7 +3091,7 @@ msgctxt "Name"
 msgid "Quick Access Terminal"
 msgstr ""
 
-#: apps/kwrite/kwrite.desktop:88
+#: apps/kwrite/kwrite.desktop:89
 msgctxt "Name"
 msgid "KWrite"
 msgstr "KWrite"
@@ -3106,7 +3106,7 @@ msgctxt "Name"
 msgid "KDED Favicon Module"
 msgstr "KDED Favicon Module"
 
-#: apps/lib/konq/favicons/favicons.desktop:84
+#: apps/lib/konq/favicons/favicons.desktop:89
 #: runtime/platforms/win/kwinstartmenu/winstartmenu.desktop:67
 msgctxt "Comment"
 msgid "Shortcut icon support"
@@ -3138,7 +3138,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "ফোল্ডাৰ..."
 
-#: apps/lib/konq/Templates/Directory.desktop:83
+#: apps/lib/konq/Templates/Directory.desktop:86
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
@@ -3153,7 +3153,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "HTML নথিপত্ৰ..."
 
-#: apps/lib/konq/Templates/HTMLFile.desktop:85
+#: apps/lib/konq/Templates/HTMLFile.desktop:86
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
@@ -3163,7 +3163,7 @@ msgctxt "Name"
 msgid "Camera Device..."
 msgstr "কেমেৰা যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkCAMERA.desktop:84
+#: apps/lib/konq/Templates/linkCAMERA.desktop:85
 msgctxt "Comment"
 msgid "New camera"
 msgstr "নতুন কেমেৰা"
@@ -3173,7 +3173,7 @@ msgctxt "Name"
 msgid "CD-ROM Device..."
 msgstr "CD-ROM যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkCDROM.desktop:84
+#: apps/lib/konq/Templates/linkCDROM.desktop:85
 msgctxt "Comment"
 msgid "New CD-ROM Device"
 msgstr "নতুন CD-ROM যন্ত্ৰ"
@@ -3183,7 +3183,7 @@ msgctxt "Name"
 msgid "CDWRITER Device..."
 msgstr "CDWRITER যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkCDWRITER.desktop:84
+#: apps/lib/konq/Templates/linkCDWRITER.desktop:85
 msgctxt "Comment"
 msgid "New CDWRITER Device"
 msgstr "নতুন CDWRITER যন্ত্ৰ"
@@ -3193,7 +3193,7 @@ msgctxt "Name"
 msgid "DVD-ROM Device..."
 msgstr "DVD-ROM যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkDVDROM.desktop:85
+#: apps/lib/konq/Templates/linkDVDROM.desktop:86
 msgctxt "Comment"
 msgid "New DVD-ROM Device"
 msgstr "নতুন DVD-ROM যন্ত্ৰ"
@@ -3203,7 +3203,7 @@ msgctxt "Name"
 msgid "Floppy Device..."
 msgstr "Floppy যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkFloppy.desktop:84
+#: apps/lib/konq/Templates/linkFloppy.desktop:85
 msgctxt "Comment"
 msgid "New Floppy Device"
 msgstr "নতুন Floppy যন্ত্ৰ"
@@ -3213,7 +3213,7 @@ msgctxt "Name"
 msgid "Hard Disc Device..."
 msgstr "হার্ড ডিস্ক যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkHD.desktop:84
+#: apps/lib/konq/Templates/linkHD.desktop:85
 msgctxt "Comment"
 msgid "New Hard Disc"
 msgstr "নতুন হার্ড ডিস্ক"
@@ -3223,7 +3223,7 @@ msgctxt "Name"
 msgid "MO Device..."
 msgstr "MO যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkMO.desktop:84
+#: apps/lib/konq/Templates/linkMO.desktop:85
 msgctxt "Comment"
 msgid "New MO Device"
 msgstr "নতুন MO যন্ত্ৰ"
@@ -3233,7 +3233,7 @@ msgctxt "Name"
 msgid "NFS..."
 msgstr "NFS..."
 
-#: apps/lib/konq/Templates/linkNFS.desktop:20
+#: apps/lib/konq/Templates/linkNFS.desktop:86
 msgctxt "Comment"
 msgid "New NFS Link"
 msgstr "নতুন NFS সংযোগ"
@@ -3253,7 +3253,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
 
-#: apps/lib/konq/Templates/linkProgram.desktop:80
+#: apps/lib/konq/Templates/linkProgram.desktop:81
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "অনুপ্ৰয়োগলৈ নতুন সংযোগ"
@@ -3263,7 +3263,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "স্থান (URL) লৈ সংযোগ..."
 
-#: apps/lib/konq/Templates/linkURL.desktop:83
+#: apps/lib/konq/Templates/linkURL.desktop:85
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr "স্থান (URL) লৈ সংযোগ দিয়ক"
@@ -3273,7 +3273,7 @@ msgctxt "Name"
 msgid "ZIP Device..."
 msgstr "ZIP যন্ত্ৰ..."
 
-#: apps/lib/konq/Templates/linkZIP.desktop:84
+#: apps/lib/konq/Templates/linkZIP.desktop:85
 msgctxt "Comment"
 msgid "New ZIP Device"
 msgstr "নতুন ZIP যন্ত্ৰ"
@@ -3283,7 +3283,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "টেক্সট নথিপত্ৰ..."
 
-#: apps/lib/konq/Templates/TextFile.desktop:85
+#: apps/lib/konq/Templates/TextFile.desktop:86
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
@@ -3293,7 +3293,7 @@ msgctxt "Name"
 msgid "Plugins"
 msgstr "প্লাগ-ইন"
 
-#: apps/nsplugins/khtml_plugins.desktop:97
+#: apps/nsplugins/khtml_plugins.desktop:101
 msgctxt "Comment"
 msgid "Configure the browser plugins"
 msgstr "চৰকৰ প্লাগ-ইন বিন্যাস কৰক"
@@ -3303,7 +3303,7 @@ msgctxt "Name"
 msgid "Folder View"
 msgstr "ফোল্ডাৰৰ প্ৰদৰ্শন"
 
-#: apps/plasma/applets/folderview/plasma-applet-folderview.desktop:77
+#: apps/plasma/applets/folderview/plasma-applet-folderview.desktop:78
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display the content of folders (Desktop as default)"
@@ -3364,7 +3364,7 @@ msgctxt "Name|standard desktop component"
 msgid "Web Browser"
 msgstr "ৱেব চৰক"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:46
+#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:47
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default web browser. All KDE applications in "
@@ -3379,7 +3379,7 @@ msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:46
+#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:47
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -3395,7 +3395,7 @@ msgctxt "Name|standard desktop component"
 msgid "Email Client"
 msgstr "ডাক ব্যৱস্থাৰ গ্ৰাহক"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:46
+#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:47
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default email client. All KDE "
@@ -3411,7 +3411,7 @@ msgctxt "Name|standard desktop component"
 msgid "Terminal Emulator"
 msgstr "Arcade Emulator"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:47
+#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:48
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default terminal emulator. All KDE "
@@ -3427,7 +3427,7 @@ msgctxt "Name|standard desktop component"
 msgid "Window Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:47
+#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:48
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr ""
@@ -3838,7 +3838,7 @@ msgctxt "Name"
 msgid "Network Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: runtime/kioslave/network/kded/networkwatcher.desktop:51
+#: runtime/kioslave/network/kded/networkwatcher.desktop:52
 msgctxt "Comment"
 msgid ""
 "Keeps track of the network and updates directory listings of the network:/ "
@@ -5453,7 +5453,7 @@ msgctxt "Name"
 msgid "Needs password"
 msgstr "গুপ্তশব্দ সলনি কৰক"
 
-#: runtime/kwalletd/kwalletd.notifyrc:107
+#: runtime/kwalletd/kwalletd.notifyrc:108
 msgctxt "Comment"
 msgid "The KDE Wallet Daemon requests a password"
 msgstr ""
@@ -7296,7 +7296,7 @@ msgctxt "Name"
 msgid "Platform"
 msgstr ""
 
-#: runtime/platforms/win/config/platform.desktop:53
+#: runtime/platforms/win/config/platform.desktop:54
 msgctxt "Comment"
 msgid "Windows Platform Manager"
 msgstr ""
@@ -9709,7 +9709,7 @@ msgctxt "Name"
 msgid "Moving"
 msgstr ""
 
-#: workspace/kwin/kcmkwin/kwinoptions/kwinmoving.desktop:94
+#: workspace/kwin/kcmkwin/kwinoptions/kwinmoving.desktop:95
 msgctxt "Comment"
 msgid "Configure the way that windows are moved"
 msgstr ""
@@ -9740,7 +9740,7 @@ msgctxt "Name"
 msgid "Screen Edges"
 msgstr ""
 
-#: workspace/kwin/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:60
+#: workspace/kwin/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:61
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -9753,7 +9753,7 @@ msgctxt "Name"
 msgid "Navigate Through Windows"
 msgstr ""
 
-#: workspace/kwin/kcmkwin/kwintabbox/kwintabbox.desktop:14
+#: workspace/kwin/kcmkwin/kwintabbox/kwintabbox.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the behavior of Java and JavaScript"
@@ -10229,42 +10229,42 @@ msgctxt "Name"
 msgid "KSysGuard"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:6
+#: workspace/libs/ksysguard/processcore/actions.actions:8
 msgctxt "Name"
 msgid "Kill or stop etc a process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:16
+#: workspace/libs/ksysguard/processcore/actions.actions:18
 msgctxt "Description"
 msgid "Sends a given signal to a given process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:28
+#: workspace/libs/ksysguard/processcore/actions.actions:31
 msgctxt "Name"
 msgid "Change the priority of a process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:37
+#: workspace/libs/ksysguard/processcore/actions.actions:41
 msgctxt "Description"
 msgid "Change the niceness of a given process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:49
+#: workspace/libs/ksysguard/processcore/actions.actions:54
 msgctxt "Name"
 msgid "Change IO Scheduler and priority"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:58
+#: workspace/libs/ksysguard/processcore/actions.actions:63
 msgctxt "Description"
 msgid "Change how the read and writes of a given process are prioritized"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:70
+#: workspace/libs/ksysguard/processcore/actions.actions:75
 msgctxt "Name"
 msgid "Change CPU Scheduler and priority"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:79
+#: workspace/libs/ksysguard/processcore/actions.actions:84
 msgctxt "Description"
 msgid ""
 "Change which CPU scheduler is to schedule the running of a given process"
@@ -10364,7 +10364,7 @@ msgctxt "Name|plasma containment"
 msgid "Desktop"
 msgstr "ডেস্কট'প"
 
-#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:43
+#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:44
 msgctxt "Comment"
 msgid "Default desktop containment"
 msgstr ""
@@ -11003,7 +11003,7 @@ msgctxt "Name|plasma runner"
 msgid "Bookmarks"
 msgstr "পত্ৰচিহ্ন"
 
-#: workspace/plasma/generic/runners/bookmarks/plasma-runner-bookmarks.desktop:43
+#: workspace/plasma/generic/runners/bookmarks/plasma-runner-bookmarks.desktop:44
 msgctxt "Comment"
 msgid "Find and open bookmarks"
 msgstr ""
@@ -11362,7 +11362,7 @@ msgctxt "Name"
 msgid "Search and Launch Containment"
 msgstr ""
 
-#: workspace/plasma/netbook/containments/sal/plasma-containment-sal.desktop:12
+#: workspace/plasma/netbook/containments/sal/plasma-containment-sal.desktop:3
 msgctxt "Comment"
 msgid "Special Containment with Launcher"
 msgstr ""
@@ -11626,12 +11626,12 @@ msgid "Network management using the NetworkManager daemon, version 0.7"
 msgstr ""
 
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:183
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:185
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:93
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:134
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:135
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:44
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:185
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:187
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-GenericInterface.desktop:2
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:140
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:368
@@ -11654,20 +11654,20 @@ msgctxt "Name"
 msgid "Plugged"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:96
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:277
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:270
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:181
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:97
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:279
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:271
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:182
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:175
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:142
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:232
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:234
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-GenericInterface.desktop:49
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:235
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:236
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:577
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:396
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:142
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:230
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:167
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:168
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-SmartCardReader.desktop:60
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:137
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:213
@@ -11681,7 +11681,7 @@ msgid "Solid Device"
 msgstr "USB যন্ত্ৰ"
 
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:137
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:138
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Devices"
@@ -11689,12 +11689,12 @@ msgctxt "Name"
 msgid "Device Type"
 msgstr "যন্ত্ৰ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:50
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:51
 msgctxt "Name"
 msgid "Driver"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:94
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:95
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
@@ -11703,7 +11703,7 @@ msgctxt "Name"
 msgid "Driver Handle"
 msgstr "DJ-Mixer আৰু Player"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:136
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:137
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Game"
@@ -11711,7 +11711,7 @@ msgctxt "Name"
 msgid "Name"
 msgstr "খেলা"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:229
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:231
 msgctxt "Name"
 msgid "Soundcard Type"
 msgstr ""
@@ -11726,12 +11726,12 @@ msgctxt "Name"
 msgid "Charge State"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:186
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:187
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:226
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:227
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:131
 msgctxt "Name"
 msgid "Type"
@@ -11746,7 +11746,7 @@ msgctxt "Name"
 msgid "Device"
 msgstr "যন্ত্ৰ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:49
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:50
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Moria"
@@ -11754,7 +11754,7 @@ msgctxt "Name"
 msgid "Major"
 msgstr "Moria"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:91
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:92
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Moria"
@@ -11791,7 +11791,7 @@ msgctxt "Name"
 msgid "Supported Protocols"
 msgstr "আচাৰ বিধি"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:49
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:50
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Developer"
@@ -11799,7 +11799,7 @@ msgctxt "Name"
 msgid "Device Adapter"
 msgstr "বিকাশক"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:93
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:94
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Devices"
@@ -11995,7 +11995,7 @@ msgctxt "Name"
 msgid "Port"
 msgstr "Forte"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:122
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:123
 msgctxt "Name"
 msgid "Serial Type"
 msgstr ""
