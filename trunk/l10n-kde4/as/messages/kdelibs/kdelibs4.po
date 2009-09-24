@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-21 05:57+0200\n"
+"POT-Creation-Date: 2009-09-24 06:14+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6925,6 +6925,11 @@ msgstr "আইকন পৰিবৰ্তন কৰক"
 msgid "Icon Te&xt:"
 msgstr "লিঙ্কৰ লিপি:"
 
+#: kdeui/dialogs/kshortcutseditor.cpp:127
+#: kdeui/widgets/kcharselectdata.cpp:644
+msgid "Unknown"
+msgstr "অজ্ঞাত"
+
 #: kdeui/dialogs/kshortcutseditor.cpp:566
 #: kdeui/dialogs/kshortcutseditor.cpp:582
 msgid "Key Conflict"
@@ -9974,10 +9979,6 @@ msgstr "বিভাজক, অনুচ্ছেদ"
 msgid "Separator, Space"
 msgstr "বিভাজক, শূণ্যস্থান"
 
-#: kdeui/widgets/kcharselectdata.cpp:644
-msgid "Unknown"
-msgstr "অজ্ঞাত"
-
 #: kdeui/widgets/ksqueezedtextlabel.cpp:158
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
@@ -10663,7 +10664,7 @@ msgstr "গ্ৰহণ কৰা হ'ব"
 msgid "Reject"
 msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
 
-#: khtml/khtml_settings.cpp:781
+#: khtml/khtml_settings.cpp:802
 msgid "Filter error"
 msgstr "ফিল্টাৰ সংক্ৰান্ত ত্ৰুটি"
 
