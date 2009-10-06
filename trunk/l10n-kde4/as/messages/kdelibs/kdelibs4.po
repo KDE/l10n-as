@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-03 06:14+0200\n"
+"POT-Creation-Date: 2009-10-06 05:57+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2113,15 +2113,15 @@ msgstr "পুৰনি hostname"
 msgid "New hostname"
 msgstr "নতুন hostname"
 
-#: kded/kded.cpp:871
+#: kded/kded.cpp:869
 msgid "KDE Daemon"
 msgstr "KDE Daemon"
 
-#: kded/kded.cpp:873
+#: kded/kded.cpp:871
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE Daemon - প্ৰয়োজন অনুসাৰে Sycoca তথ্যভঁৰাল উন্নয়ন আৰম্ভ কৰে"
 
-#: kded/kded.cpp:876
+#: kded/kded.cpp:874
 msgid "Check Sycoca database only once"
 msgstr "Sycoca তথ্যভঁৰাল অকল এবাৰ পৰীক্ষা কৰা হ'ব"
 
