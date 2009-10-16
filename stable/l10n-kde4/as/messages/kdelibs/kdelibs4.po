@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-12 01:20+0200\n"
+"POT-Creation-Date: 2009-10-16 01:21+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3974,8 +3974,8 @@ msgstr ""
 msgid "Could not Launch Mail Client"
 msgstr "মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:299
-#: kdecore/kernel/ktoolinvocation_x11.cpp:325
+#: kdecore/kernel/ktoolinvocation_x11.cpp:302
+#: kdecore/kernel/ktoolinvocation_x11.cpp:328
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -3986,12 +3986,12 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:300
-#: kdecore/kernel/ktoolinvocation_x11.cpp:326
+#: kdecore/kernel/ktoolinvocation_x11.cpp:303
+#: kdecore/kernel/ktoolinvocation_x11.cpp:329
 msgid "Could not Launch Browser"
 msgstr "চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:365
+#: kdecore/kernel/ktoolinvocation_x11.cpp:368
 #, kde-format
 msgid ""
 "Could not launch the terminal client:\n"
@@ -4002,7 +4002,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:366
+#: kdecore/kernel/ktoolinvocation_x11.cpp:369
 msgid "Could not Launch Terminal Client"
 msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
