@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-15 06:13+0200\n"
+"POT-Creation-Date: 2009-10-16 06:14+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4129,8 +4129,8 @@ msgstr ""
 msgid "Could not Launch Mail Client"
 msgstr "মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:299
-#: kdecore/kernel/ktoolinvocation_x11.cpp:325
+#: kdecore/kernel/ktoolinvocation_x11.cpp:302
+#: kdecore/kernel/ktoolinvocation_x11.cpp:328
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -4141,12 +4141,12 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:300
-#: kdecore/kernel/ktoolinvocation_x11.cpp:326
+#: kdecore/kernel/ktoolinvocation_x11.cpp:303
+#: kdecore/kernel/ktoolinvocation_x11.cpp:329
 msgid "Could not Launch Browser"
 msgstr "চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:365
+#: kdecore/kernel/ktoolinvocation_x11.cpp:368
 #, kde-format
 msgid ""
 "Could not launch the terminal client:\n"
@@ -4157,7 +4157,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:366
+#: kdecore/kernel/ktoolinvocation_x11.cpp:369
 msgid "Could not Launch Terminal Client"
 msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
@@ -7228,7 +7228,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kdeui/dialogs/kbugreport.cpp:283
+#: kdeui/dialogs/kbugreport.cpp:285
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
 "browser window on <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
@@ -7239,22 +7239,22 @@ msgstr ""
 "bugs.kde.org\">http://bugs.kde.org</a> প্ৰদৰ্শনকাৰী এটা ৱেব চৰক সংযোগক্ষেত্ৰ "
 "খোলা হ'ব । উপৰোক্ত তথ্যসমূহ সংশ্লিষ্ট সেৱকলৈ প্ৰেৰিত হ'ব ।</qt>"
 
-#: kdeui/dialogs/kbugreport.cpp:295
+#: kdeui/dialogs/kbugreport.cpp:299
 msgid "&Launch Bug Report Wizard"
 msgstr "বাগ প্ৰতিবেদন প্ৰস্তুতিৰ উইজাৰ্ড আৰম্ভ কৰক (&L)"
 
-#: kdeui/dialogs/kbugreport.cpp:343
+#: kdeui/dialogs/kbugreport.cpp:347
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "অজ্ঞাত"
 
-#: kdeui/dialogs/kbugreport.cpp:408
+#: kdeui/dialogs/kbugreport.cpp:412
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "প্ৰতিবেদন কৰাৰ বাবে প্ৰসঙ্গ আৰু বিৱৰণ উল্লেখ কৰা আৱশ্যক ।"
 
-#: kdeui/dialogs/kbugreport.cpp:418
+#: kdeui/dialogs/kbugreport.cpp:422
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
 "intended only for bugs that</p><ul><li>break unrelated software on the "
@@ -7265,7 +7265,7 @@ msgid ""
 "not, please select a lower severity. Thank you!</p>"
 msgstr ""
 
-#: kdeui/dialogs/kbugreport.cpp:429
+#: kdeui/dialogs/kbugreport.cpp:433
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
 "intended only for bugs that</p><ul><li>make the package in question unusable "
@@ -7276,7 +7276,7 @@ msgid ""
 "not, please select a lower severity. Thank you!</p>"
 msgstr ""
 
-#: kdeui/dialogs/kbugreport.cpp:443
+#: kdeui/dialogs/kbugreport.cpp:447
 msgid ""
 "Unable to send the bug report.\n"
 "Please submit a bug report manually...\n"
@@ -7286,11 +7286,11 @@ msgstr ""
 "অনুগ্ৰহ কৰি বাগ প্ৰতিবেদন নিজেই কৰক...\n"
 "নিৰ্দেশাৱলীৰ বাবে http://bugs.kde.org/ চাওক ।"
 
-#: kdeui/dialogs/kbugreport.cpp:451
+#: kdeui/dialogs/kbugreport.cpp:455
 msgid "Bug report sent, thank you for your input."
 msgstr "বাগ প্ৰতিবেদন পঠিওৱা হৈছে । আপোনাৰ মতামত জনোৱাৰ বাবে ধন্যবাদ ।"
 
-#: kdeui/dialogs/kbugreport.cpp:460
+#: kdeui/dialogs/kbugreport.cpp:464
 msgid ""
 "Close and discard\n"
 "edited message?"
@@ -7298,7 +7298,7 @@ msgstr ""
 "পৰিবৰ্তিত বাৰ্তা বন্ধ\n"
 "কৰি বৰ্জন কৰা হ'ব নেকি ?"
 
-#: kdeui/dialogs/kbugreport.cpp:461
+#: kdeui/dialogs/kbugreport.cpp:465
 msgid "Close Message"
 msgstr "বাৰ্তা বন্ধ কৰা হ'ব"
 
@@ -11675,37 +11675,37 @@ msgstr ""
 "klauncher: এই প্ৰোগ্ৰাম ব্যৱহাৰকৰোঁতা দ্বাৰা আৰম্ভ কৰা সম্ভৱ নহয় ।\n"
 "klauncher: kdeinit4 দ্বাৰা এটি স্বয়ংক্ৰিয় ৰূপে আৰম্ভ কৰা হয় ।\n"
 
-#: kinit/klauncher.cpp:563
+#: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
-#: kinit/klauncher.cpp:736 kinit/klauncher.cpp:764 kinit/klauncher.cpp:779
+#: kinit/klauncher.cpp:737 kinit/klauncher.cpp:765 kinit/klauncher.cpp:780
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: kinit/klauncher.cpp:798
+#: kinit/klauncher.cpp:799
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr ""
 
-#: kinit/klauncher.cpp:800 kinit/klauncher.cpp:836
+#: kinit/klauncher.cpp:801 kinit/klauncher.cpp:837
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' সেৱা ত্ৰুটিপূৰ্ণ ৰূপে গঠিত হৈছে ।"
 
-#: kinit/klauncher.cpp:922
+#: kinit/klauncher.cpp:923
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 লঞ্চ কৰা হৈছে"
 
-#: kinit/klauncher.cpp:1124
+#: kinit/klauncher.cpp:1125
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 
-#: kinit/klauncher.cpp:1185
+#: kinit/klauncher.cpp:1186
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
@@ -11844,22 +11844,6 @@ msgstr "Kross ফ্ৰেমৱৰ্ক পৰীক্ষা কৰক!"
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "বাতিল"
-
-#: solid/examples/minibrowser/main.cpp:232
-msgid "Solid Browser"
-msgstr ""
-
-#: solid/examples/minibrowser/main.cpp:234
-msgid "Displays a Solid Device Tree"
-msgstr ""
-
-#: solid/examples/minibrowser/main.cpp:236
-msgid "(c) 2009 Harald Fernengel"
-msgstr ""
-
-#: solid/examples/minibrowser/main.cpp:237
-msgid "Simple and quick hack for showing a solid device tree"
-msgstr ""
 
 #: knotify/config/knotifyconfigwidget.cpp:107
 msgid "Configure Notifications"
