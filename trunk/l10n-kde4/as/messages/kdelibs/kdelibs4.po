@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-07 06:18+0100\n"
+"POT-Creation-Date: 2009-11-08 05:57+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5165,7 +5165,7 @@ msgid "Connection timed out"
 msgstr "সংযোগৰ সময়সীমা পাৰ হৈছে"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:491
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:492
 msgid "Unknown error"
 msgstr "অজ্ঞাত ত্ৰুটি"
 
@@ -13553,15 +13553,15 @@ msgstr "Ian Reinhart Geiser"
 msgid "Daniel Molkentin"
 msgstr "Daniel Molkentin"
 
-#: nepomuk/core/resource.cpp:485
+#: nepomuk/core/resource.cpp:486
 msgid "Success"
 msgstr "সফল"
 
-#: nepomuk/core/resource.cpp:487
+#: nepomuk/core/resource.cpp:488
 msgid "Communication error"
 msgstr "যোগাযোগ সংক্ৰান্ত ত্ৰুটি"
 
-#: nepomuk/core/resource.cpp:489
+#: nepomuk/core/resource.cpp:490
 msgid "Invalid type in Database"
 msgstr "তথ্যভঁৰালত অবৈধ ধৰণ"
 
