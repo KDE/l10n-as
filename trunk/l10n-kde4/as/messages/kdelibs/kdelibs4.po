@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-11 06:18+0100\n"
+"POT-Creation-Date: 2009-11-12 06:10+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -8212,7 +8212,7 @@ msgstr "পুনঃ এই বাৰ্তা প্ৰদৰ্শন কৰ�
 msgid "About %1"
 msgstr "%1 ৰ বিষয়ে"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:141
+#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:163
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
 
@@ -11921,27 +11921,21 @@ msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
 msgid "Starting KTTSD Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:633 kdeui/widgets/ktextedit.cpp:644
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "Suggestions for %1"
-msgstr "মন্তব্য"
-
-#: kdeui/widgets/ktextedit.cpp:635
-msgid "Ignore"
-msgstr "উপেক্ষা কৰক"
-
-#: kdeui/widgets/ktextedit.cpp:636
-msgid "Add to Dictionary"
-msgstr "অভিধানত যোগ কৰক"
-
-#: kdeui/widgets/ktextedit.cpp:638 kdeui/widgets/ktextedit.cpp:640
+#: kdeui/widgets/ktextedit.cpp:627
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:791
+#: kdeui/widgets/ktextedit.cpp:638
+msgid "Ignore"
+msgstr "উপেক্ষা কৰক"
+
+#: kdeui/widgets/ktextedit.cpp:639
+msgid "Add to Dictionary"
+msgstr "অভিধানত যোগ কৰক"
+
+#: kdeui/widgets/ktextedit.cpp:784
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
@@ -14891,6 +14885,11 @@ msgstr "দিনৰ উপদেশ (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
+
+#, fuzzy
+#~| msgid "Suggestions"
+#~ msgid "Suggestions for %1"
+#~ msgstr "মন্তব্য"
 
 #~ msgid "Download New %1"
 #~ msgstr "নতুন %1 ডাউনলোড কৰক"
