@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-29 06:11+0100\n"
+"POT-Creation-Date: 2009-11-30 06:36+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1980,7 +1980,7 @@ msgstr "মূখ্য সংযোগক্ষেত্ৰ"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:106
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: rc.cpp:907 kparts/browserrun.cpp:312
+#: rc.cpp:907 kparts/browserrun.cpp:313
 msgid "Execute"
 msgstr "চলাওক"
 
@@ -12480,7 +12480,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
 
 #: khtml/khtml_run.cpp:95 khtml/khtml_part.cpp:3727 khtml/khtml_part.cpp:3937
-#: khtml/khtml_part.cpp:4329 kparts/browserrun.cpp:398
+#: khtml/khtml_part.cpp:4329 kparts/browserrun.cpp:399
 msgid "Save As"
 msgstr "নতুন ৰূপে সংৰক্ষণ"
 
@@ -12742,12 +12742,12 @@ msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেক�
 msgid "Overwrite"
 msgstr "নতুনকৈ লিখা হ'ব"
 
-#: khtml/khtml_ext.cpp:994 kparts/browserrun.cpp:369
+#: khtml/khtml_ext.cpp:994 kparts/browserrun.cpp:370
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Download Manager (%1) ক আপোনাৰ $PATH ত পোৱা ন'গ'ল"
 
-#: khtml/khtml_ext.cpp:995 kparts/browserrun.cpp:370
+#: khtml/khtml_ext.cpp:995 kparts/browserrun.cpp:371
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -14314,12 +14314,12 @@ msgstr ""
 msgid "Close Document"
 msgstr "আলেখ্যন বন্ধ কৰক"
 
-#: kparts/browserrun.cpp:311
+#: kparts/browserrun.cpp:312
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "আপুনি নিশ্চিতৰূপে '%1' সঞ্চালন কৰিবলৈ ইচ্ছুক নে ?"
 
-#: kparts/browserrun.cpp:312
+#: kparts/browserrun.cpp:313
 msgid "Execute File?"
 msgstr "নথিপত্ৰ চলোৱা হ'ব নে ?"
 
