@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-12 06:08+0100\n"
+"POT-Creation-Date: 2009-12-15 06:02+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11661,24 +11661,24 @@ msgstr "যোগাযোগ সংক্ৰান্ত ত্ৰুটি"
 msgid "Invalid type in Database"
 msgstr "তথ্যভঁৰালত অবৈধ ধৰণ"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:208
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:201
 msgid "Create New Tag..."
 msgstr "নতুন টেগ নিৰ্মাণ কৰক"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
 msgid "New Tag"
 msgstr "নতুন টেগ"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
 msgid "Please insert the name of the new tag:"
 msgstr "অনুগ্ৰহ কৰি নতুন টেগৰ নাম লিখক:"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
 #, kde-format
 msgid "The tag %1 already exists"
 msgstr "টেগ %1 বৰ্তমানে উপস্থিত"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
 msgid "Tag Exists"
 msgstr "টেগ উপস্থিত আছে"
 
