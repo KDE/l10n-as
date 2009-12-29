@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: imagerename_plugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-11 05:40+0200\n"
+"POT-Creation-Date: 2009-12-29 06:16+0100\n"
 "PO-Revision-Date: 2009-01-05 15:52+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "You want to overwrite the left picture with the one on the right."
 msgstr "আপুনি বাওঁফালৰ ছবিক সোঁফালৰ ছবিৰে পুনঃ লিখিব বিচাৰিছে ।"
 
-#: imagevisualizer.cpp:46
+#: imagevisualizer.cpp:45
 msgid ""
 "This picture is not stored\n"
 "on the local host.\n"
@@ -30,17 +30,17 @@ msgstr ""
 "স্থানীয় গৃহস্থত সংৰক্ষিত নহয় ।\n"
 "তুলি ল'বলৈ এই লেবেলত টিপক ।\n"
 
-#: imagevisualizer.cpp:54
+#: imagevisualizer.cpp:53
 msgid "Unable to load image"
 msgstr "ছবি তুলি ল'ব পৰা নাযায়"
 
-#: imagevisualizer.cpp:67
+#: imagevisualizer.cpp:66
 #, kde-format
 msgctxt "The color depth of an image"
 msgid "Depth: %1\n"
 msgstr "দ': %1\n"
 
-#: imagevisualizer.cpp:68
+#: imagevisualizer.cpp:67
 #, kde-format
 msgctxt "The dimensions of an image"
 msgid "Dimensions: %1x%2"
