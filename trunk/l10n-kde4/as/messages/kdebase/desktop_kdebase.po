@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-03 05:28+0000\n"
+"POT-Creation-Date: 2010-01-04 05:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -12855,7 +12855,7 @@ msgctxt "Name"
 msgid "Python Runner"
 msgstr ""
 
-#: workspace/plasma/generic/scriptengines/python/plasma-scriptengine-runner-python.desktop:14
+#: workspace/plasma/generic/scriptengines/python/plasma-scriptengine-runner-python.desktop:15
 msgctxt "Comment"
 msgid "Plasma Runner support for Python"
 msgstr ""
