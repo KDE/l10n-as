@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-04 05:58+0100\n"
+"POT-Creation-Date: 2010-01-12 06:37+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4922,7 +4922,7 @@ msgid "View Comments"
 msgstr "মন্তব্য প্ৰদৰ্শন কৰা হ'ব"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
-#: knewstuff/knewstuff3/core/engine.cpp:411
+#: knewstuff/knewstuff3/core/engine.cpp:405
 #, kde-format
 msgid "Re: %1"
 msgstr "পুনৰাবৃত্তি: %1"
@@ -5234,13 +5234,6 @@ msgstr ""
 "সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</"
 "qt>"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:99
-#, fuzzy, kde-format
-#| msgid "Rating: "
-msgctxt "Label showing the file name of a file that is about to be uploaded"
-msgid "Uploading: %1"
-msgstr "গুৰুত্বৰ মান:"
-
 #: knewstuff/knewstuff3/uploaddialog.cpp:122
 #, fuzzy
 #| msgid "&Replace..."
@@ -5395,12 +5388,12 @@ msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেক�
 msgid "Download File:"
 msgstr "ডাউন্‌লোড কৰা হ'ব"
 
-#: knewstuff/knewstuff3/core/engine.cpp:241
+#: knewstuff/knewstuff3/core/engine.cpp:237
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:273
+#: knewstuff/knewstuff3/core/engine.cpp:267
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
@@ -13015,6 +13008,12 @@ msgstr "দিনৰ উপদেশ (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
+
+#, fuzzy
+#~| msgid "Rating: "
+#~ msgctxt "Label showing the file name of a file that is about to be uploaded"
+#~ msgid "Uploading: %1"
+#~ msgstr "গুৰুত্বৰ মান:"
 
 #~ msgctxt "of January"
 #~ msgid "of Jan"
