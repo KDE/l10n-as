@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-19 06:21+0100\n"
+"POT-Creation-Date: 2010-01-20 07:06+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6306,8 +6306,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
-#: kdeui/dialogs/kedittoolbar.cpp:533 khtml/khtmlview.cpp:2937
-#: khtml/khtmlview.cpp:2970 khtml/html/html_formimpl.cpp:1809
+#: kdeui/dialogs/kedittoolbar.cpp:533 khtml/khtmlview.cpp:2938
+#: khtml/khtmlview.cpp:2971 khtml/html/html_formimpl.cpp:1809
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
@@ -10719,7 +10719,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4703 khtml/khtmlview.cpp:2923 khtml/khtmlview.cpp:2965
+#: khtml/khtml_part.cpp:4703 khtml/khtmlview.cpp:2924 khtml/khtmlview.cpp:2966
 #: khtml/html/html_formimpl.cpp:1605 khtml/html/html_formimpl.cpp:1817
 msgid "Submit"
 msgstr "জমা কৰক"
@@ -10839,39 +10839,39 @@ msgstr "অগ্ৰাহ্যৰ তালিকাত যোগ কৰা �
 msgid "Remove from ignores..."
 msgstr "অগ্ৰাহ্যৰ তালিকাৰ পৰা আঁতৰুৱা হ'ব..."
 
-#: khtml/khtmlview.cpp:1873
+#: khtml/khtmlview.cpp:1871
 msgid "Find stopped."
 msgstr "অনুসন্ধান বন্ধ কৰা হৈছে ।"
 
-#: khtml/khtmlview.cpp:1884
+#: khtml/khtmlview.cpp:1882
 msgid "Starting -- find links as you type"
 msgstr "আৰম্ভ কৰা হৈছে -- টাইপ কৰাৰ সময় লিঙ্ক অনুসন্ধান কৰা হ'ব"
 
-#: khtml/khtmlview.cpp:1890
+#: khtml/khtmlview.cpp:1888
 msgid "Starting -- find text as you type"
 msgstr "আৰম্ভ কৰা হৈছে -- টাইপ কৰাৰ সময় লিপি অনুসন্ধান কৰা হ'ব"
 
-#: khtml/khtmlview.cpp:1913
+#: khtml/khtmlview.cpp:1911
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "লিঙ্ক পোৱা গৈছে: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1918
+#: khtml/khtmlview.cpp:1916
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "লিঙ্ক পোৱা নাযায়: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1926
+#: khtml/khtmlview.cpp:1924
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "লিপি পোৱা গৈছে: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1931
+#: khtml/khtmlview.cpp:1929
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "লিপি পোৱা নাযায়: \"%1\" ।"
 
-#: khtml/khtmlview.cpp:1974
+#: khtml/khtmlview.cpp:1972
 msgid "Access Keys activated"
 msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
 
