@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-22 06:20+0100\n"
+"POT-Creation-Date: 2010-01-25 06:12+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5447,7 +5447,7 @@ msgstr ""
 msgid "Could not make you a fan."
 msgstr "অস্থায়ী নথিপত্ৰ নিৰ্মাণ কৰিবলৈ সমস্য ।"
 
-#: kdewebkit/kwebpage.cpp:170 khtml/khtml_ext.cpp:933
+#: kdewebkit/kwebpage.cpp:171 khtml/khtml_ext.cpp:933
 msgid "Overwrite File?"
 msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেকি ?"
 
@@ -10054,7 +10054,7 @@ msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ প�
 msgid "Confirm Quit From System Tray"
 msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
 
-#: kdeui/notifications/knotificationrestrictions.cpp:196
+#: kdeui/notifications/knotificationrestrictions.cpp:180
 msgid "Unknown Application"
 msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
 
