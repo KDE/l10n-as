@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-25 05:48+0000\n"
+"POT-Creation-Date: 2010-01-26 05:28+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -8430,41 +8430,17 @@ msgctxt "Name"
 msgid "Graphics"
 msgstr "চিত্ৰাঙ্কন"
 
-#: runtime/menu/desktop/kde-internet-communication.directory:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Education"
-msgctxt "Name"
-msgid "Communication"
-msgstr "শিক্ষা"
-
-#: runtime/menu/desktop/kde-internet-connectivity.directory:4
-msgctxt "Name"
-msgid "Connectivity"
-msgstr ""
-
 #: runtime/menu/desktop/kde-internet.directory:4
 #: workspace/plasma/netbook/containments/sal/services/plasma-sal-internet.desktop:2
 msgctxt "Name"
 msgid "Internet"
 msgstr "ইন্টাৰ্নে'ট"
 
-#: runtime/menu/desktop/kde-internet-download.directory:4
-msgctxt "Name"
-msgid "File download and sharing"
-msgstr ""
-
 #: runtime/menu/desktop/kde-internet-terminal.directory:4
 #: runtime/menu/desktop/kde-system-terminal.directory:4
 msgctxt "Name"
 msgid "Terminal Applications"
 msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
-
-#: runtime/menu/desktop/kde-internet-web.directory:4
-#: workspace/kwin/clients/web/web.desktop:2
-msgctxt "Name"
-msgid "Web"
-msgstr ""
 
 #: runtime/menu/desktop/kde-main.directory:5
 msgctxt "Name"
@@ -10731,6 +10707,11 @@ msgstr ""
 #: workspace/kwin/clients/test/test.desktop:2
 msgctxt "Name"
 msgid "KWin test"
+msgstr ""
+
+#: workspace/kwin/clients/web/web.desktop:2
+msgctxt "Name"
+msgid "Web"
 msgstr ""
 
 #: workspace/kwin/data/fsp_workarounds_1.kwinrules:2
@@ -14007,6 +13988,13 @@ msgstr ""
 msgctxt "Name"
 msgid "The Rings of Saturn"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Education"
+#~ msgctxt "Name"
+#~ msgid "Communication"
+#~ msgstr "শিক্ষা"
 
 #~ msgctxt "Name"
 #~ msgid "EOS"
