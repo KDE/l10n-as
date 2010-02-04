@@ -1,0 +1,1045 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2010-01-28 06:00+0100\n"
+"PO-Revision-Date: 2009-01-16 16:49+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: activation.cpp:747
+#, kde-format
+msgid "Window '%1' demands attention."
+msgstr "সংযোগক্ষেত্ৰ '%1' ৰ পৰা চেতাৱনী প্ৰাপ্ত হৈছে ।"
+
+#: composite.cpp:300
+#, kde-format
+msgid ""
+"Compositing has been suspended by another application.<br/>You can resume "
+"using the '%1' shortcut."
+msgstr ""
+
+#: composite.cpp:554
+msgid ""
+"Compositing was too slow and has been suspended.\n"
+"You can disable functionality checks in advanced compositing settings."
+msgstr ""
+
+#: composite.cpp:557
+#, kde-format
+msgid ""
+"Compositing was too slow and has been suspended.\n"
+"If this was only a temporary problem, you can resume using the '%1' "
+"shortcut.\n"
+"You can also disable functionality checks in advanced compositing settings."
+msgstr ""
+
+#: compositingprefs.cpp:87
+msgid "Required X extensions (XComposite and XDamage) are not available."
+msgstr "X ৰ বাবে আৱশ্যক সম্প্ৰসাৰণ (XComposite আৰু XDamage) নাই ।"
+
+#: compositingprefs.cpp:91
+msgid "GLX/OpenGL are not available and only OpenGL support is compiled."
+msgstr "GLX/OpenGL নাই আৰু অকল OpenGL সমৰ্থন ব্যৱস্থা সঙ্কলন কৰা হৈছে ।"
+
+#: compositingprefs.cpp:94
+msgid ""
+"XRender/XFixes extensions are not available and only XRender support is "
+"compiled."
+msgstr ""
+"XRender/XFixes সম্প্ৰসাৰণ নাই আৰু অকল XRender সমৰ্থন ব্যৱস্থা সঙ্কলন কৰা হৈছে ।"
+
+#: compositingprefs.cpp:100
+msgid "GLX/OpenGL and XRender/XFixes are not available."
+msgstr "GLX/OpenGL আৰু XRender/XFixes নাই ।"
+
+#: compositingprefs.cpp:105
+msgid ""
+"Compositing was disabled at compile time.\n"
+"It is likely Xorg development headers were not installed."
+msgstr ""
+
+#: kwinbindings.cpp:51
+msgid "System"
+msgstr "ব্যৱস্থাপ্ৰণালী"
+
+#: kwinbindings.cpp:54
+msgid "Navigation"
+msgstr "পৰিদৰ্শন"
+
+#: kwinbindings.cpp:55
+msgid "Walk Through Windows"
+msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+
+#: kwinbindings.cpp:56
+msgid "Walk Through Windows (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: kwinbindings.cpp:57
+#, fuzzy
+#| msgid "Walk Through Windows"
+msgid "Walk Through Window Tabs"
+msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+
+#: kwinbindings.cpp:58
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Window Tabs (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: kwinbindings.cpp:59
+msgid "Remove Window From Group"
+msgstr ""
+
+#: kwinbindings.cpp:60
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows Alternative"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: kwinbindings.cpp:61
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows Alternative (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: kwinbindings.cpp:62
+msgid "Walk Through Desktops"
+msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
+
+#: kwinbindings.cpp:63
+msgid "Walk Through Desktops (Reverse)"
+msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: kwinbindings.cpp:64
+msgid "Walk Through Desktop List"
+msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
+
+#: kwinbindings.cpp:65
+msgid "Walk Through Desktop List (Reverse)"
+msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: kwinbindings.cpp:68
+msgid "Windows"
+msgstr "সংযোগক্ষেত্ৰ"
+
+#: kwinbindings.cpp:69
+msgid "Window Operations Menu"
+msgstr "সংযোগক্ষেত্ৰ পৰিচালনাৰ তালিকা"
+
+#: kwinbindings.cpp:71
+msgid "Close Window"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
+
+#: kwinbindings.cpp:73
+msgid "Maximize Window"
+msgstr "সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
+
+#: kwinbindings.cpp:75
+msgid "Maximize Window Vertically"
+msgstr "উলম্ব দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
+
+#: kwinbindings.cpp:77
+msgid "Maximize Window Horizontally"
+msgstr "অনুভূমিক দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
+
+#: kwinbindings.cpp:79
+msgid "Minimize Window"
+msgstr "সংযোগক্ষেত্ৰ সৰু কৰক"
+
+#: kwinbindings.cpp:81
+msgid "Shade Window"
+msgstr "ছায়াবৃত সংযোগক্ষেত্ৰ"
+
+#: kwinbindings.cpp:83
+msgid "Move Window"
+msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+
+#: kwinbindings.cpp:85
+msgid "Resize Window"
+msgstr "সংযোগক্ষেত্ৰৰ মাপ পৰিবৰ্তন"
+
+#: kwinbindings.cpp:87
+msgid "Raise Window"
+msgstr "সংযোগক্ষেত্ৰ উঠাওক"
+
+#: kwinbindings.cpp:89
+msgid "Lower Window"
+msgstr "সংযোগক্ষেত্ৰ নমাওক"
+
+#: kwinbindings.cpp:91
+msgid "Toggle Window Raise/Lower"
+msgstr ""
+
+#: kwinbindings.cpp:93
+msgid "Make Window Fullscreen"
+msgstr "সম্পূৰ্ণ পৰ্দ্দাত সংযোগক্ষেত্ৰ প্ৰদৰ্শন"
+
+#: kwinbindings.cpp:95
+msgid "Hide Window Border"
+msgstr "সংযোগক্ষেত্ৰৰ প্ৰান্ত লুকাওক কৰক"
+
+#: kwinbindings.cpp:97
+msgid "Keep Window Above Others"
+msgstr "সকলো সংযোগক্ষেত্ৰৰ শীৰ্ষত এই সংযোগক্ষেত্ৰ স্থাপন কৰক"
+
+#: kwinbindings.cpp:99
+msgid "Keep Window Below Others"
+msgstr "অন্য সংযোগক্ষেত্ৰৰ তলত এই সংযোগক্ষেত্ৰ স্থাপন কৰক"
+
+#: kwinbindings.cpp:101
+msgid "Activate Window Demanding Attention"
+msgstr ""
+
+#: kwinbindings.cpp:103
+msgid "Setup Window Shortcut"
+msgstr "সংযোগক্ষেত্ৰৰ শৰ্ট কাট নিৰ্ধাৰণ কৰক"
+
+#: kwinbindings.cpp:105
+msgid "Pack Window to the Right"
+msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:107
+msgid "Pack Window to the Left"
+msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:109
+msgid "Pack Window Up"
+msgstr "ওপৰত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:111
+msgid "Pack Window Down"
+msgstr "তলত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:113
+msgid "Pack Grow Window Horizontally"
+msgstr ""
+
+#: kwinbindings.cpp:115
+msgid "Pack Grow Window Vertically"
+msgstr ""
+
+#: kwinbindings.cpp:117
+msgid "Pack Shrink Window Horizontally"
+msgstr ""
+
+#: kwinbindings.cpp:119
+msgid "Pack Shrink Window Vertically"
+msgstr ""
+
+#: kwinbindings.cpp:121
+#, fuzzy
+#| msgid "Pack Window to the Left"
+msgid "Quick Tile Window to the Left"
+msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:123
+#, fuzzy
+#| msgid "Pack Window to the Right"
+msgid "Quick Tile Window to the Right"
+msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:125
+#, fuzzy
+#| msgid "Switch to Screen 0"
+msgid "Switch to Window Above"
+msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:127
+#, fuzzy
+#| msgid "Switch to Previous Desktop"
+msgid "Switch to Window Below"
+msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:129
+#, fuzzy
+#| msgid "Pack Window to the Right"
+msgid "Switch to Window to the Right"
+msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:131
+#, fuzzy
+#| msgid "Pack Window to the Left"
+msgid "Switch to Window to the Left"
+msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#: kwinbindings.cpp:135
+msgid "Window & Desktop"
+msgstr "সংযোগক্ষেত্ৰ & ডেষ্কট'প"
+
+#: kwinbindings.cpp:136
+msgid "Keep Window on All Desktops"
+msgstr "সকলো ডেষ্কট'পত সংযোগক্ষেত্ৰ প্ৰদৰ্শিত হ'ব"
+
+#: kwinbindings.cpp:138
+msgid "Window to Desktop 1"
+msgstr "ডেষ্কট'প ১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:139
+msgid "Window to Desktop 2"
+msgstr "ডেষ্কট'প ২ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:140
+msgid "Window to Desktop 3"
+msgstr "ডেষ্কট'প ৩ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:141
+msgid "Window to Desktop 4"
+msgstr "ডেষ্কট'প ৪ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:142
+msgid "Window to Desktop 5"
+msgstr "ডেষ্কট'প ৫ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:143
+msgid "Window to Desktop 6"
+msgstr "ডেষ্কট'প ৬ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:144
+msgid "Window to Desktop 7"
+msgstr "ডেষ্কট'প ৭ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:145
+msgid "Window to Desktop 8"
+msgstr "ডেষ্কট'প ৮ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:146
+msgid "Window to Desktop 9"
+msgstr "ডেষ্কট'প ৯ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:147
+msgid "Window to Desktop 10"
+msgstr "ডেষ্কট'প ১০ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:148
+msgid "Window to Desktop 11"
+msgstr "ডেষ্কট'প ১১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:149
+msgid "Window to Desktop 12"
+msgstr "ডেষ্কট'প ১২ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:150
+msgid "Window to Desktop 13"
+msgstr "ডেষ্কট'প ১৩ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:151
+msgid "Window to Desktop 14"
+msgstr "ডেষ্কট'প ১৪ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:152
+msgid "Window to Desktop 15"
+msgstr "ডেষ্কট'প ১৫ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:153
+msgid "Window to Desktop 16"
+msgstr "ডেষ্কট'প ১৬ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:154
+msgid "Window to Desktop 17"
+msgstr "ডেষ্কট'প ১৭ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:155
+msgid "Window to Desktop 18"
+msgstr "ডেষ্কট'প ১৮ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:156
+msgid "Window to Desktop 19"
+msgstr "ডেষ্কট'প ১৯ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:157
+msgid "Window to Desktop 20"
+msgstr "ডেষ্কট'প ২০ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:158
+msgid "Window to Next Desktop"
+msgstr "পৰবৰ্তি ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:159
+msgid "Window to Previous Desktop"
+msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:160
+msgid "Window One Desktop to the Right"
+msgstr "সোঁফালৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:161
+msgid "Window One Desktop to the Left"
+msgstr "বাওঁফালৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:162
+msgid "Window One Desktop Up"
+msgstr "ওপৰৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:163
+msgid "Window One Desktop Down"
+msgstr "তলৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:164
+msgid "Window to Screen 0"
+msgstr "পৰ্দ্দা ০ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:165
+msgid "Window to Screen 1"
+msgstr "পৰ্দ্দা ১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:166
+msgid "Window to Screen 2"
+msgstr "পৰ্দ্দা ২ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:167
+msgid "Window to Screen 3"
+msgstr "পৰ্দ্দা ৩ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:168
+msgid "Window to Screen 4"
+msgstr "পৰ্দ্দা ৪ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:169
+msgid "Window to Screen 5"
+msgstr "পৰ্দ্দা ৫ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:170
+msgid "Window to Screen 6"
+msgstr "পৰ্দ্দা ৬ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:171
+msgid "Window to Screen 7"
+msgstr "পৰ্দ্দা ৭ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:172
+msgid "Window to Next Screen"
+msgstr "পৰবৰ্তী পৰ্দ্দালৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+
+#: kwinbindings.cpp:173
+#, fuzzy
+#| msgid "Show Desktop Grid"
+msgid "Show Desktop"
+msgstr "Desktop Grid দেখুৱাওক"
+
+#: kwinbindings.cpp:176
+msgid "Desktop Switching"
+msgstr "ডেষ্কট'প পৰিবৰ্তন"
+
+#: kwinbindings.cpp:177
+msgid "Switch to Desktop 1"
+msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:178
+msgid "Switch to Desktop 2"
+msgstr "ডেষ্কট'প ২ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:179
+msgid "Switch to Desktop 3"
+msgstr "ডেষ্কট'প ৩ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:180
+msgid "Switch to Desktop 4"
+msgstr "ডেষ্কট'প ৪ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:181
+msgid "Switch to Desktop 5"
+msgstr "ডেষ্কট'প ৫ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:182
+msgid "Switch to Desktop 6"
+msgstr "ডেষ্কট'প ৬ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:183
+msgid "Switch to Desktop 7"
+msgstr "ডেষ্কট'প ৭ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:184
+msgid "Switch to Desktop 8"
+msgstr "ডেষ্কট'প ৮ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:185
+msgid "Switch to Desktop 9"
+msgstr "ডেষ্কট'প ৯ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:186
+msgid "Switch to Desktop 10"
+msgstr "ডেষ্কট'প ১০ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:187
+msgid "Switch to Desktop 11"
+msgstr "ডেষ্কট'প ১১ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:188
+msgid "Switch to Desktop 12"
+msgstr "ডেষ্কট'প ১২ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:189
+msgid "Switch to Desktop 13"
+msgstr "ডেষ্কট'প ১৩ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:190
+msgid "Switch to Desktop 14"
+msgstr "ডেষ্কট'প ১৪ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:191
+msgid "Switch to Desktop 15"
+msgstr "ডেষ্কট'প ১৫ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:192
+msgid "Switch to Desktop 16"
+msgstr "ডেষ্কট'প ১৬ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:193
+msgid "Switch to Desktop 17"
+msgstr "ডেষ্কট'প ১৭ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:194
+msgid "Switch to Desktop 18"
+msgstr "ডেষ্কট'প ১৮ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:195
+msgid "Switch to Desktop 19"
+msgstr "ডেষ্কট'প ১৯ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:196
+msgid "Switch to Desktop 20"
+msgstr "ডেষ্কট'প ২০ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:197
+msgid "Switch to Next Desktop"
+msgstr "পৰবৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:198
+msgid "Switch to Previous Desktop"
+msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:199
+msgid "Switch One Desktop to the Right"
+msgstr "সোঁফালৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:200
+msgid "Switch One Desktop to the Left"
+msgstr "বাওঁফালৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:201
+msgid "Switch One Desktop Up"
+msgstr "উপৰৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:202
+msgid "Switch One Desktop Down"
+msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:203
+msgid "Switch to Screen 0"
+msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:204
+msgid "Switch to Screen 1"
+msgstr "পৰ্দ্দা ১ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:205
+msgid "Switch to Screen 2"
+msgstr "পৰ্দ্দা ২ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:206
+msgid "Switch to Screen 3"
+msgstr "পৰ্দ্দা ৩ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:207
+msgid "Switch to Screen 4"
+msgstr "পৰ্দ্দা ৪ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:208
+msgid "Switch to Screen 5"
+msgstr "পৰ্দ্দা ৫ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:209
+msgid "Switch to Screen 6"
+msgstr "পৰ্দ্দা ৬ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:210
+msgid "Switch to Screen 7"
+msgstr "পৰ্দ্দা ৭ লৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:211
+msgid "Switch to Next Screen"
+msgstr "পৰবৰ্তী পৰ্দ্দালৈ পৰিবৰ্তন কৰক"
+
+#: kwinbindings.cpp:214
+msgid "Miscellaneous"
+msgstr "বিবিধ"
+
+#: kwinbindings.cpp:215
+msgid "Mouse Emulation"
+msgstr "মাউছ এমুলেছন"
+
+#: kwinbindings.cpp:216
+msgid "Kill Window"
+msgstr "সংযোগক্ষেত্ৰ Kill কৰক"
+
+#: kwinbindings.cpp:217
+msgid "Window Screenshot to Clipboard"
+msgstr ""
+
+#: kwinbindings.cpp:218
+msgid "Desktop Screenshot to Clipboard"
+msgstr ""
+
+#: kwinbindings.cpp:219
+msgid "Block Global Shortcuts"
+msgstr "সাৰ্বজনীন শৰ্ট বাট ৰোধ কৰা হ'ব"
+
+#: kwinbindings.cpp:220
+msgid "Suspend Compositing"
+msgstr ""
+
+#: main.cpp:178
+msgid ""
+"kwin: it looks like there's already a window manager running. kwin not "
+"started.\n"
+msgstr ""
+"kwin: সম্ভৱতঃ এটা সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা বৰ্তমানে চলিছে । kwin আৰম্ভ কৰা নহয় "
+"।\n"
+
+#: main.cpp:207
+msgid ""
+"KWin is unstable.\n"
+"It seems to have crashed several times in a row.\n"
+"You can select another window manager to run:"
+msgstr ""
+"KWin ত সমস্যা দেখা দিছে ।\n"
+"একাধিক বাৰ বিপৰ্যস্ত হৈছে ।\n"
+"আপুনি কোনো পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা নিৰ্ব্বাচন কৰিব পাৰে:"
+
+#: main.cpp:267
+msgid ""
+"kwin: unable to claim manager selection, another wm running? (try using --"
+"replace)\n"
+msgstr ""
+"kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা "
+"বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
+
+#: main.cpp:399
+msgid "KDE window manager"
+msgstr "KDE সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা"
+
+#: main.cpp:474 killer/killer.cpp:37
+msgid "KWin"
+msgstr "KWin"
+
+#: main.cpp:478
+msgid "(c) 1999-2008, The KDE Developers"
+msgstr "(c) 1999-2008, The KDE Developers"
+
+#: main.cpp:479
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#: main.cpp:480
+msgid "Cristian Tibirna"
+msgstr "Cristian Tibirna"
+
+#: main.cpp:481
+msgid "Daniel M. Duley"
+msgstr "Daniel M. Duley"
+
+#: main.cpp:482
+msgid "Luboš Luňák"
+msgstr "Luboš Luňák"
+
+#: main.cpp:482
+msgid "Maintainer"
+msgstr "পৰিচালক"
+
+#: main.cpp:487
+msgid "Disable configuration options"
+msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় কৰা হ'ব"
+
+#: main.cpp:488
+msgid "Replace already-running ICCCM2.0-compliant window manager"
+msgstr ""
+"ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক প্ৰতিস্থাপন "
+"কৰক"
+
+#: main.cpp:489
+msgid "Indicate that KWin has recently crashed n times"
+msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰা হ'ব"
+
+#: plugins.cpp:42
+msgid "KWin: "
+msgstr "KWin: "
+
+#: plugins.cpp:43
+msgid ""
+"\n"
+"KWin will now exit..."
+msgstr ""
+"\n"
+"KWin এতিয়া বন্ধ কৰা হ'ব..."
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "অমিতাক্ষ ফুকন"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aphukan@fedoraproject.org"
+
+#: useractions.cpp:73
+msgid "Keep &Above Others"
+msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত স্থাপন (&A)"
+
+#: useractions.cpp:81
+msgid "Keep &Below Others"
+msgstr "সকল সংযোগক্ষেত্ৰৰ তলত স্থাপন (&B)"
+
+#: useractions.cpp:89
+msgid "&Fullscreen"
+msgstr "সম্পূৰ্ণ পৰ্দ্দাত প্ৰদৰ্শন (&F)"
+
+#: useractions.cpp:97
+msgid "&No Border"
+msgstr "প্ৰান্ত নোহোৱা (&N)"
+
+#: useractions.cpp:104
+msgid "Window &Shortcut..."
+msgstr "সংযোগক্ষেত্ৰৰ শ'ৰ্ট কাট... (&S)"
+
+#: useractions.cpp:111
+msgid "&Special Window Settings..."
+msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ্ট্য...(&S)"
+
+#: useractions.cpp:115
+msgid "&Special Application Settings..."
+msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ বৈশিষ্ট্য...(&S)"
+
+#: useractions.cpp:134
+msgid "&Opacity"
+msgstr "গভিৰতা (&O)"
+
+#: useractions.cpp:137
+msgid "&Move"
+msgstr "লৰাওক (&M)"
+
+#: useractions.cpp:144
+msgid "Re&size"
+msgstr "মাপ পৰিবৰ্তন (&s)"
+
+#: useractions.cpp:150
+msgid "Mi&nimize"
+msgstr "সৰু কৰক (&n)"
+
+#: useractions.cpp:156
+msgid "Ma&ximize"
+msgstr "ডাঙৰ কৰক (&x)"
+
+#: useractions.cpp:163
+msgid "Sh&ade"
+msgstr "ছায়াবৃত (&a)"
+
+#: useractions.cpp:175
+msgid "Remove &from group"
+msgstr ""
+
+#: useractions.cpp:181
+msgid "Close entire &group"
+msgstr ""
+
+#: useractions.cpp:192
+msgid "Ad&vanced"
+msgstr "উন্নত (&v)"
+
+#: useractions.cpp:199
+msgid "Configur&e Window Behavior..."
+msgstr "সংযোগক্ষেত্ৰৰ আচৰণ বিন্যাস কৰক...(&e)"
+
+#: useractions.cpp:205
+msgid "&Close"
+msgstr "বন্ধ কৰক (&C)"
+
+#: useractions.cpp:308
+#, fuzzy
+#| msgid "Switch to Screen 0"
+msgid "Switch to window tab"
+msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+
+#: useractions.cpp:349
+msgid "To the left"
+msgstr ""
+
+#: useractions.cpp:351
+msgid "To the right"
+msgstr ""
+
+#: useractions.cpp:380
+#, fuzzy
+#| msgid "Move Window"
+msgid "Move window to group"
+msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+
+#: useractions.cpp:423
+msgid "To &Desktop"
+msgstr "চিহ্নিত ডেষ্কট'পলৈ স্থানান্তৰ (&D)"
+
+#: useractions.cpp:436
+msgid "&All Desktops"
+msgstr "সকলো ডেষ্কট'পলৈ (&A)"
+
+#: useractions.cpp:615
+#, kde-format
+msgid "Activate Window (%1)"
+msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
+
+#: workspace.cpp:1190 workspace.cpp:1210
+#, kde-format
+msgid "Desktop %1"
+msgstr "ডেস্কট'প %1"
+
+#: workspace.cpp:2590
+#, kde-format
+msgid ""
+"You have selected to show a window without its border.\n"
+"Without the border, you will not be able to enable the border again using "
+"the mouse: use the window operations menu instead, activated using the %1 "
+"keyboard shortcut."
+msgstr ""
+
+#: workspace.cpp:2604
+#, kde-format
+msgid ""
+"You have selected to show a window in fullscreen mode.\n"
+"If the application itself does not have an option to turn the fullscreen "
+"mode off you will not be able to disable it again using the mouse: use the "
+"window operations menu instead, activated using the %1 keyboard shortcut."
+msgstr ""
+
+#: killer/killer.cpp:38
+msgid "KWin helper utility"
+msgstr "KWin সহায়ক সামগ্ৰী"
+
+#: killer/killer.cpp:41
+msgid "PID of the application to terminate"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনুপ্ৰয়োগৰ PID"
+
+#: killer/killer.cpp:42
+msgid "Hostname on which the application is running"
+msgstr "অনুপ্ৰয়োগ চালনকাৰী যন্ত্ৰৰ গৃহস্থৰ নাম"
+
+#: killer/killer.cpp:43
+msgid "Caption of the window to be terminated"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত সংযোগক্ষেত্ৰৰ শিৰোনাম"
+
+#: killer/killer.cpp:44
+msgid "Name of the application to be terminated"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনুপ্ৰয়োগৰ নাম"
+
+#: killer/killer.cpp:45
+msgid "ID of resource belonging to the application"
+msgstr "অনুপ্ৰয়োগৰ সম্পদৰ ID"
+
+#: killer/killer.cpp:46
+msgid "Time of user action causing termination"
+msgstr ""
+
+#: killer/killer.cpp:64
+msgid "This helper utility is not supposed to be called directly."
+msgstr "সহায়ক সামগ্ৰীক পোনেপোনে মাতিব নালাগে ।"
+
+#: killer/killer.cpp:68
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>Window with title \"<b>%2</b>\" is not responding. This window belongs "
+#| "to application <b>%1</b> (PID=%3, hostname=%4).</p><p>Do you wish to "
+#| "terminate this application? (All unsaved data in this application will be "
+#| "lost.)</p>"
+msgid ""
+"<p>The window \"<b>%2</b>\" is not responding. It belongs to the application "
+"<b>%1</b> (Process ID = %3, hostname = %4).</p><p>Do you wish to terminate "
+"the application process <em>including <b>all</b> of its child windows</em>?"
+"<br /><b>Any unsaved data will be lost.</b></p>"
+msgstr ""
+"<p>\"<b>%2</b>\" শিৰোনাম থকা সংযোগক্ষেত্ৰৰ পৰা কোনো প্ৰতিক্ৰিয়া হোৱা নাই  । এই "
+"সংযোগক্ষেত্ৰৰ গৰাকী <b>%1</b> অনুপ্ৰয়োগ (PID=%3, গৃহস্থ নাম=%4) ।</p><p>এই অনুপ্ৰয়োগ "
+"বন্ধ কৰিব নে ? (ইয়াৰ ফলত, অনুপ্ৰয়োগত উপস্থিত সকলো অসংৰক্ষিত তথ্য হেৰাব ।)</p>"
+
+#: killer/killer.cpp:74
+#, kde-format
+msgid "&Terminate Application %1"
+msgstr ""
+
+#: lib/kcommondecoration.cpp:291
+#, kde-format
+msgid "<center><b>%1 preview</b></center>"
+msgstr "<center><b>%1 পূৰ্ব প্ৰদৰ্শন</b></center>"
+
+#: lib/kcommondecoration.cpp:381
+msgid "Menu"
+msgstr "তালিকা"
+
+#: lib/kcommondecoration.cpp:397 lib/kcommondecoration.cpp:608
+msgid "Not on all desktops"
+msgstr "সকলো ডেষ্কট'পলৈ নহয়"
+
+#: lib/kcommondecoration.cpp:397 lib/kcommondecoration.cpp:609
+msgid "On all desktops"
+msgstr "সকলো ডেষ্কট'পত"
+
+#: lib/kcommondecoration.cpp:412
+msgid "Help"
+msgstr "সহায়"
+
+#: lib/kcommondecoration.cpp:425
+msgid "Minimize"
+msgstr "সৰু কৰক"
+
+#: lib/kcommondecoration.cpp:440 lib/kcommondecoration.cpp:596
+msgid "Restore"
+msgstr "পুনঃ স্থাপন কৰক"
+
+#: lib/kcommondecoration.cpp:440 lib/kcommondecoration.cpp:595
+msgid "Maximize"
+msgstr "ডাঙৰ কৰক"
+
+#: lib/kcommondecoration.cpp:455
+msgid "Close"
+msgstr "বন্ধ কৰক"
+
+#: lib/kcommondecoration.cpp:469 lib/kcommondecoration.cpp:651
+msgid "Do not keep above others"
+msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত নহয়"
+
+#: lib/kcommondecoration.cpp:469 lib/kcommondecoration.cpp:651
+#: lib/kcommondecoration.cpp:675
+msgid "Keep above others"
+msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত"
+
+#: lib/kcommondecoration.cpp:485 lib/kcommondecoration.cpp:668
+msgid "Do not keep below others"
+msgstr "অন্যান্য সংযোগক্ষেত্ৰৰ তলত নহয়"
+
+#: lib/kcommondecoration.cpp:485 lib/kcommondecoration.cpp:658
+#: lib/kcommondecoration.cpp:668
+msgid "Keep below others"
+msgstr "অন্যান্য সংযোগক্ষেত্ৰৰ তলত"
+
+#: lib/kcommondecoration.cpp:501 lib/kcommondecoration.cpp:620
+msgid "Unshade"
+msgstr "ছায়াবিহীন"
+
+#: lib/kcommondecoration.cpp:501 lib/kcommondecoration.cpp:621
+msgid "Shade"
+msgstr "ছায়াবৃত"
+
+#: lib/kdecoration_plugins_p.cpp:128
+msgid "No window decoration plugin library was found."
+msgstr ""
+
+#: lib/kdecoration_plugins_p.cpp:154
+msgid "The default decoration plugin is corrupt and could not be loaded."
+msgstr ""
+
+#: lib/kdecoration_plugins_p.cpp:168 lib/kdecoration_plugins_p.cpp:173
+#, kde-format
+msgid "The library %1 is not a KWin plugin."
+msgstr "%1 লাইব্ৰেৰি এটা KWin প্লাগ-ইন নহয়"
+
+#: tabbox/clientmodel.cpp:57
+msgid "*** No Windows ***"
+msgstr "*** সংযোগক্ষেত্ৰ অনুপস্থিত ***"
+
+#, fuzzy
+#~| msgid "Walk Through Windows"
+#~ msgid "Walk Through Grouped Windows"
+#~ msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+
+#, fuzzy
+#~| msgid "Walk Through Windows (Reverse)"
+#~ msgid "Walk Through Grouped Windows (Reverse)"
+#~ msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#, fuzzy
+#~| msgid "Switch to Screen 0"
+#~ msgid "Switch to group window"
+#~ msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+
+#~ msgid "kwin: failure during initialization; aborting"
+#~ msgstr "kwin: আৰম্ভ কৰোঁতে ব্যৰ্থ; পৰিত্যাগ কৰা হৈছে"
+
+#~ msgid "Terminate"
+#~ msgstr "বন্ধ কৰক"
+
+#~ msgid "Keep Running"
+#~ msgstr "চলাই থাকক"
+
+#~ msgid "Desktop Cube"
+#~ msgstr "Desktop Cube"
+
+#~ msgctxt "@title:tab Basic Settings"
+#~ msgid "Basic"
+#~ msgstr "মৌলিক"
+
+#~ msgctxt "@title:tab Advanced Settings"
+#~ msgid "Advanced"
+#~ msgstr "উন্নত"
+
+#~ msgid "Disabled"
+#~ msgstr "নিষ্ক্ৰিয় কৰক"
+
+#~ msgid "Top"
+#~ msgstr "ওপৰত"
+
+#~ msgid "Top-Right"
+#~ msgstr "ওপৰত সোঁফালে"
+
+#~ msgid "Right"
+#~ msgstr "সোঁফালে"
+
+#~ msgid "Bottom-Right"
+#~ msgstr "তলত সোঁফালে"
+
+#~ msgid "Bottom"
+#~ msgstr "তলত"
+
+#~ msgid "Bottom-Left"
+#~ msgstr "তলত বাওঁফালে"
+
+#~ msgid "Left"
+#~ msgstr "বাওঁফালে"
+
+#~ msgid "Top-Left"
+#~ msgstr "ওপৰত বাওঁফালে"
+
+#~ msgid "Center"
+#~ msgstr "মাজত"
+
+#~ msgid "Clear All Mouse Marks"
+#~ msgstr "মাউছৰ সকলো চিহ্ন আঁতৰুৱা হ'ব"
+
+#~ msgid "Clear Last Mouse Mark"
+#~ msgstr "মাউছৰ শেষৰ চিহ্ন আঁতৰাওঁক"
+
+#~ msgid "Clear Mouse Marks"
+#~ msgstr "মাউছৰ চিহ্নসমূহ আঁতৰাওঁক"
+
+#~ msgid ""
+#~ "Filter:\n"
+#~ "%1"
+#~ msgstr ""
+#~ "ফিল্টাৰ:\n"
+#~ "%1"
+
+#~ msgid "Snow"
+#~ msgstr "বৰফ"
+
+#~ msgid "Hold Ctrl+Meta keys to see where the mouse cursor is."
+#~ msgstr "মাউছ কাৰ্ছাৰৰ স্থান জনাৰ বাবে Ctrl+Meta চাবি টিপি থাকক ।"
+
+#~ msgid "Path to save video:"
+#~ msgstr "ভিডিঅ' সংৰক্ষণৰ পথ:"

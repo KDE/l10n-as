@@ -1,0 +1,88 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: audiorename_plugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-12-29 06:16+0100\n"
+"PO-Revision-Date: 2009-01-05 16:01+0530\n"
+"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: audio_plugin.cpp:72
+#, kde-format
+msgid "An older file named '%1' already exists.\n"
+msgstr "'%1' নামক এটা নথিপত্ৰ বৰ্তমানে উপস্থিত আছে ।\n"
+
+#: audio_plugin.cpp:74
+#, kde-format
+msgid "A similar file named '%1' already exists.\n"
+msgstr "'%1' নামক এটা নথিপত্ৰ বৰ্তমানে উপস্থিত আছে ।\n"
+
+#: audio_plugin.cpp:76
+#, kde-format
+msgid "A newer file named '%1' already exists.\n"
+msgstr "'%1' নামক এটা নতুন নথিপত্ৰ বৰ্তমানে আছে ।\n"
+
+#: audio_plugin.cpp:78
+msgid "Source File"
+msgstr "উৎসৰ নথিপত্ৰ"
+
+#: audio_plugin.cpp:79
+msgid "Existing File"
+msgstr "ইতিমধ্যে থকা নথিপত্ৰ"
+
+#: audio_plugin.cpp:80
+msgid "Would you like to replace the existing file with the one on the right?"
+msgstr "বৰ্ত্তমানে থকা নথিপত্ৰক আপুনি সোঁফালে থকা নথিপত্ৰেৰে সলনি কৰিব বিচাৰে নেকি ?"
+
+#: audiopreview.cpp:51
+msgid ""
+"This audio file is not stored\n"
+"on the local host.\n"
+"Click on this label to load it.\n"
+msgstr ""
+"এই অ'ডিঅ' নথিপত্ৰ\n"
+"স্থানীয় গৃহস্থত সংৰক্ষিত নহয় ।\n"
+"তুলি ল'বলৈ এই লেবেলত টিপক ।\n"
+
+#: audiopreview.cpp:57
+msgid "Unable to load audio file"
+msgstr "অ'ডিঅ' নথিপত্ৰ তুলিব পৰা ন'গ'ল"
+
+#: audiopreview.cpp:88
+#, kde-format
+msgid "Artist: %1"
+msgstr "শিল্পী: %1"
+
+#: audiopreview.cpp:91
+#, kde-format
+msgid "Title: %1"
+msgstr "শিৰোনাম: %1"
+
+#: audiopreview.cpp:94
+#, kde-format
+msgid "Comment: %1"
+msgstr "মন্তব্য: %1"
+
+#: audiopreview.cpp:96
+#, kde-format
+msgctxt "Bitrate: 160 kbits/s"
+msgid "Bitrate: %1 %2\n"
+msgstr "Bitrate: %1 %2\n"
+
+#: audiopreview.cpp:98
+#, kde-format
+msgid "Sample rate: %1 %2\n"
+msgstr "Sample rate: %1 %2\n"
+
+#: audiopreview.cpp:99
+msgid "Length: "
+msgstr "দৈৰ্ঘ্য:"
