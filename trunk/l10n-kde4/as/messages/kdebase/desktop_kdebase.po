@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-13 06:27+0000\n"
+"POT-Creation-Date: 2010-02-14 06:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -12174,6 +12174,17 @@ msgctxt "Comment"
 msgid "Lock the screen or log out"
 msgstr ""
 
+#: workspace/plasma/generic/applets/notifications/plasma-applet-notifications.desktop:2
+#: workspace/systemsettings/categories/settings-notifications.desktop:8
+msgctxt "Name"
+msgid "Notifications"
+msgstr ""
+
+#: workspace/plasma/generic/applets/notifications/plasma-applet-notifications.desktop:3
+msgctxt "Comment"
+msgid "Display notifications and jobs"
+msgstr ""
+
 #: workspace/plasma/generic/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:2
 msgctxt "Name"
 msgid "Panel Spacer"
@@ -13873,11 +13884,6 @@ msgstr ""
 #: workspace/systemsettings/categories/settings-network-settings.desktop:8
 msgctxt "Name"
 msgid "Network Settings"
-msgstr ""
-
-#: workspace/systemsettings/categories/settings-notifications.desktop:8
-msgctxt "Name"
-msgid "Notifications"
 msgstr ""
 
 #: workspace/systemsettings/categories/settings-personal.desktop:8
