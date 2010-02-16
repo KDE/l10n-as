@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-15 06:17+0000\n"
+"POT-Creation-Date: 2010-02-16 06:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3445,7 +3445,7 @@ msgctxt "Name"
 msgid "Open Collaboration Services provider"
 msgstr ""
 
-#: runtime/attica/kcm/kcm_attica.desktop:22
+#: runtime/attica/kcm/kcm_attica.desktop:23
 msgctxt "Comment"
 msgid "Manage Open Collaboration Services providers"
 msgstr ""
@@ -12213,7 +12213,7 @@ msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:14
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:15
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr ""
@@ -12223,7 +12223,7 @@ msgctxt "Name"
 msgid "Hard Disk Status"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:14
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:15
 msgctxt "Comment"
 msgid "A hard disk usage monitor"
 msgstr ""
@@ -12233,7 +12233,7 @@ msgctxt "Name"
 msgid "Hardware Info"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:14
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:15
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr ""
@@ -12246,7 +12246,7 @@ msgctxt "Name"
 msgid "Network Monitor"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:17
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:18
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr ""
@@ -12259,7 +12259,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr "Samba ৰ অৱস্থা"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:14
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:15
 msgctxt "Comment"
 msgid "A RAM usage monitor"
 msgstr ""
@@ -12269,7 +12269,7 @@ msgctxt "Name"
 msgid "Hardware Temperature"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:14
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:15
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr ""
