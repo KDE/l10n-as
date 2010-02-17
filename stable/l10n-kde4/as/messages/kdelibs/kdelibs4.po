@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-13 01:24+0100\n"
+"POT-Creation-Date: 2010-02-17 01:22+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4894,7 +4894,7 @@ msgstr "পূৰ্ণ কৰা ন'হ'ব"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
-#: knewstuff/knewstuff3/downloaddialog.cpp:82
+#: knewstuff/knewstuff3/downloaddialog.cpp:85
 #: knewstuff/knewstuff3/downloaddialog_p.cpp:154
 #: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:84
 msgid "Get Hot New Stuff"
