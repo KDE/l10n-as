@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-23 06:25+0000\n"
+"POT-Creation-Date: 2010-02-24 06:34+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -132,7 +132,7 @@ msgctxt "Comment"
 msgid "Select an icon and use it as a KIcon in your source-code"
 msgstr ""
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:8
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:10
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Insert File"
@@ -140,7 +140,7 @@ msgctxt "Name"
 msgid "IconInserter"
 msgstr "নথিপত্ৰ ভৰাওক"
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:15
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:19
 msgctxt "GenericName"
 msgid "Insert Code for KIcon-Creation"
 msgstr ""
@@ -1134,7 +1134,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: kdecore/network/kssld/kssld.desktop:98
+#: kdecore/network/kssld/kssld.desktop:9
 msgctxt "Comment"
 msgid "Provides SSL Certificate Policy to applications"
 msgstr ""
@@ -1403,7 +1403,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.desktop:91
+#: kio/misc/kpac/proxyscout.desktop:4
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
@@ -1471,7 +1471,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED Cookie Jar অংশ"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:90
+#: kioslave/http/kcookiejar/kcookiejar.desktop:4
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
