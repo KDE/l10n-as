@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-02 04:17+0100\n"
+"POT-Creation-Date: 2010-03-02 22:49+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7192,7 +7192,7 @@ msgstr "হয় (&Y)"
 msgid "&Grant All"
 msgstr "সকলো গ্ৰহণ কৰা হ'ব (&G)"
 
-#: khtml/xml/dom_docimpl.cpp:2252
+#: khtml/xml/dom_docimpl.cpp:2259
 msgid "Basic Page Style"
 msgstr "পৃষ্ঠাৰ মূল বিন্যাস"
 
