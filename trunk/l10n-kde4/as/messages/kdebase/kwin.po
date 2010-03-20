@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-16 04:35+0100\n"
+"POT-Creation-Date: 2010-03-20 04:18+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -693,6 +693,13 @@ msgstr "অমিতাক্ষ ফুকন"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
+
+#: tabbox.cpp:212
+#, fuzzy
+#| msgid "Show Desktop Grid"
+msgctxt "Special entry in alt+tab list for minimizing all windows"
+msgid "Show Desktop"
+msgstr "Desktop Grid দেখুৱাওক"
 
 #: useractions.cpp:73
 msgid "Keep &Above Others"
