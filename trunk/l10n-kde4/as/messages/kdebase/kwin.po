@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-20 04:18+0100\n"
+"POT-Creation-Date: 2010-03-20 22:01+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -729,79 +729,79 @@ msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ�
 msgid "&Special Application Settings..."
 msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ বৈশিষ্ট্য...(&S)"
 
-#: useractions.cpp:134
+#: useractions.cpp:136
 msgid "&Opacity"
 msgstr "গভিৰতা (&O)"
 
-#: useractions.cpp:137
+#: useractions.cpp:139
 msgid "&Move"
 msgstr "লৰাওক (&M)"
 
-#: useractions.cpp:144
+#: useractions.cpp:146
 msgid "Re&size"
 msgstr "মাপ পৰিবৰ্তন (&s)"
 
-#: useractions.cpp:150
+#: useractions.cpp:152
 msgid "Mi&nimize"
 msgstr "সৰু কৰক (&n)"
 
-#: useractions.cpp:156
+#: useractions.cpp:158
 msgid "Ma&ximize"
 msgstr "ডাঙৰ কৰক (&x)"
 
-#: useractions.cpp:163
+#: useractions.cpp:165
 msgid "Sh&ade"
 msgstr "ছায়াবৃত (&a)"
 
-#: useractions.cpp:175
+#: useractions.cpp:177
 msgid "Remove &from group"
 msgstr ""
 
-#: useractions.cpp:181
+#: useractions.cpp:183
 msgid "Close entire &group"
 msgstr ""
 
-#: useractions.cpp:192
+#: useractions.cpp:194
 msgid "Ad&vanced"
 msgstr "উন্নত (&v)"
 
-#: useractions.cpp:199
+#: useractions.cpp:201
 msgid "Configur&e Window Behavior..."
 msgstr "সংযোগক্ষেত্ৰৰ আচৰণ বিন্যাস কৰক...(&e)"
 
-#: useractions.cpp:205
+#: useractions.cpp:207
 msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
-#: useractions.cpp:308
+#: useractions.cpp:310
 #, fuzzy
 #| msgid "Switch to Screen 0"
 msgid "Switch to window tab"
 msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
 
-#: useractions.cpp:349
+#: useractions.cpp:351
 msgid "To the left"
 msgstr ""
 
-#: useractions.cpp:351
+#: useractions.cpp:353
 msgid "To the right"
 msgstr ""
 
-#: useractions.cpp:380
+#: useractions.cpp:382
 #, fuzzy
 #| msgid "Move Window"
 msgid "Move window to group"
 msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
-#: useractions.cpp:423
+#: useractions.cpp:425
 msgid "To &Desktop"
 msgstr "চিহ্নিত ডেষ্কট'পলৈ স্থানান্তৰ (&D)"
 
-#: useractions.cpp:436
+#: useractions.cpp:438
 msgid "&All Desktops"
 msgstr "সকলো ডেষ্কট'পলৈ (&A)"
 
-#: useractions.cpp:615
+#: useractions.cpp:617
 #, kde-format
 msgid "Activate Window (%1)"
 msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
