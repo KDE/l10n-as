@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-25 03:31+0000\n"
+"POT-Creation-Date: 2010-03-26 03:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4301,7 +4301,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/beolingus.desktop:21
+#: runtime/kurifilter-plugins/ikws/searchproviders/beolingus.desktop:22
 msgctxt "Query"
 msgid ""
 "http://dict.tu-chemnitz.de/dings.cgi?"
@@ -8607,7 +8607,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr ""
 
-#: runtime/solidautoeject/solidautoeject.desktop:24
+#: runtime/solidautoeject/solidautoeject.desktop:25
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr ""
@@ -12742,21 +12742,11 @@ msgctxt "Name"
 msgid "StatusNotifierItem Informations"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
-#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:8
+#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:10
 msgctxt "Comment"
 msgid ""
 "Engine for Applications status information based on the StatusNotifier "
 "protocol."
-msgstr ""
-
-#: workspace/plasma/generic/dataengines/statusnotifieritem/statusnotifierwatcher/statusnotifierwatcher.desktop:3
-msgctxt "Name"
-msgid "Status Notifier Manager"
-msgstr ""
-
-#: workspace/plasma/generic/dataengines/statusnotifieritem/statusnotifierwatcher/statusnotifierwatcher.desktop:19
-msgctxt "Comment"
-msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
 
 #: workspace/plasma/generic/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:83
@@ -13957,6 +13947,16 @@ msgstr ""
 #: workspace/solid/wicd/solid_wicd.desktop:70
 msgctxt "Comment"
 msgid "Network management using the Wicd daemon."
+msgstr ""
+
+#: workspace/statusnotifierwatcher/statusnotifierwatcher.desktop:3
+msgctxt "Name"
+msgid "Status Notifier Manager"
+msgstr ""
+
+#: workspace/statusnotifierwatcher/statusnotifierwatcher.desktop:19
+msgctxt "Comment"
+msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
 
 #: workspace/systemsettings/app/systemsettings.desktop:8
