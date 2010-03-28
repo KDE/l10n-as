@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-27 04:20+0100\n"
+"POT-Creation-Date: 2010-03-28 05:32+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -634,7 +634,7 @@ msgstr "ব্যৱহাৰকৰোঁতা:"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:127
 #. i18n: ectx: property (text), widget (QLabel, label_9)
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:43
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:43
 #. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
 #: rc.cpp:279 rc.cpp:381
 #, fuzzy
@@ -664,7 +664,7 @@ msgstr "পুনঃ তোলক"
 #. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:235
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #: rc.cpp:288 rc.cpp:426 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:128
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:229
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:232
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:138
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:192
 msgid "Update"
@@ -742,7 +742,7 @@ msgstr "শিৰোনাম:"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:297
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:60
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:60
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #: rc.cpp:318 rc.cpp:384
 #, fuzzy
@@ -891,7 +891,7 @@ msgstr "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈ
 msgid "Start Upload"
 msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:79
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:79
 #. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
 #: rc.cpp:387
 #, fuzzy
@@ -900,7 +900,7 @@ msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
 msgid "Newest"
 msgstr "নতুন"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:89
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:89
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: rc.cpp:390
 #, fuzzy
@@ -908,13 +908,13 @@ msgstr "নতুন"
 msgid "Rating"
 msgstr "গুৰুত্বৰ মান:"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:96
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:96
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: rc.cpp:393 knewstuff/knewstuff2/core/providerhandler.cpp:166
 msgid "Most Downloads"
 msgstr "সৰ্বাধিকবাৰ ডাউন্‌লোড কৰা হৈছে"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:103
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:103
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
 #: rc.cpp:396
 #, fuzzy
@@ -922,7 +922,7 @@ msgstr "সৰ্বাধিকবাৰ ডাউন্‌লোড কৰা 
 msgid "Installed"
 msgstr "সংস্থাপন কৰক"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:161
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:161
 #. i18n: ectx: property (text), widget (QLabel, orderLabel)
 #: rc.cpp:399
 #, fuzzy
@@ -930,7 +930,7 @@ msgstr "সংস্থাপন কৰক"
 msgid "Order by:"
 msgstr "&Order by:"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:171
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:171
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:402
 #, fuzzy
@@ -938,7 +938,7 @@ msgstr "&Order by:"
 msgid "Search:"
 msgstr "অনুসন্ধান:(&e)"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:197
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:197
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
 #. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:93
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
@@ -946,7 +946,7 @@ msgstr "অনুসন্ধান:(&e)"
 msgid "Enter search phrase here"
 msgstr "বিচাৰিব লগা শব্দ ইয়াত লিখক"
 
-#. i18n: file: knewstuff/knewstuff3/downloaddialog.ui:223
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:223
 #. i18n: ectx: property (text), widget (QPushButton, m_uploadButton)
 #: rc.cpp:408
 #, fuzzy
@@ -984,8 +984,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: rc.cpp:423 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:143
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:153
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:244
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:254
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:247
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:257
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:65
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:144
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:149
@@ -1000,7 +1000,7 @@ msgstr "সংস্থাপন কৰক"
 #. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:245
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
 #: rc.cpp:429 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:124
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:225
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:228
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:66
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
@@ -3098,7 +3098,7 @@ msgid "Download New Stuff..."
 msgstr "নতুন বস্তু ডাউনলোড কৰক"
 
 #: knewstuff/knewstuff3/downloaddialog.cpp:81
-#: knewstuff/knewstuff3/downloadwidget.cpp:205
+#: knewstuff/knewstuff3/downloadwidget.cpp:202
 #: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:70
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
@@ -3112,57 +3112,57 @@ msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "%1 অতিৰিক্ত সংস্থাপক"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:119
+#: knewstuff/knewstuff3/downloadwidget.cpp:116
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:312
 #, fuzzy
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
 msgstr "সময়সীমা পাৰ হ'ল । অনুগ্ৰহ কৰি, ইন্টাৰ্নে'ট সংযোগ পৰীক্ষা কৰক!"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:177
+#: knewstuff/knewstuff3/downloadwidget.cpp:174
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:252
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
 #, kde-format
 msgid "Server: %1"
 msgstr "সেৱক: %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:178
+#: knewstuff/knewstuff3/downloadwidget.cpp:175
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:504
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />উপলব্ধকৰোঁতা: %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:179
+#: knewstuff/knewstuff3/downloadwidget.cpp:176
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />সংস্কৰণ: %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:183
+#: knewstuff/knewstuff3/downloadwidget.cpp:180
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:82
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:258
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:509
 msgid "Provider information"
 msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:194
+#: knewstuff/knewstuff3/downloadwidget.cpp:191
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:535
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1 সংস্থাপন কৰিবলৈ ব্যৰ্থ"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:195
+#: knewstuff/knewstuff3/downloadwidget.cpp:192
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:536
 msgid "Get Hot New Stuff!"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক!"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:259
+#: knewstuff/knewstuff3/downloadwidget.cpp:253
 #, fuzzy
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "উপলব্ধকৰোঁতা: %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:266
+#: knewstuff/knewstuff3/downloadwidget.cpp:260
 #, fuzzy
 #| msgid "Pages"
 msgid "All Categories"
@@ -3174,7 +3174,7 @@ msgstr ""
 
 #: knewstuff/knewstuff3/core/installation.cpp:161
 #, kde-format
-msgid "Download of item failed: no download url for \"%1\""
+msgid "Download of item failed: no download URL for \"%1\"."
 msgstr ""
 
 #: knewstuff/knewstuff3/core/installation.cpp:196
@@ -3217,46 +3217,63 @@ msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেক�
 msgid "Download File:"
 msgstr "ডাউন্‌লোড কৰা হ'ব"
 
-#: knewstuff/knewstuff3/core/engine.cpp:94
+#: knewstuff/knewstuff3/core/engine.cpp:99
 #, fuzzy
 #| msgid "Install"
 msgid "Initializing"
 msgstr "সংস্থাপন কৰক"
 
-#: knewstuff/knewstuff3/core/engine.cpp:159
+#: knewstuff/knewstuff3/core/engine.cpp:103
+#: knewstuff/knewstuff3/core/engine.cpp:112
+#, fuzzy, kde-format
+#| msgid "Configuration files"
+msgid "Configuration file not found: \"%1\""
+msgstr "বিন্যাস নথিপত্ৰ"
+
+#: knewstuff/knewstuff3/core/engine.cpp:125
+#, fuzzy, kde-format
+#| msgid "Configuration files"
+msgid "Configuration file is invalid: \"%1\""
+msgstr "বিন্যাস নথিপত্ৰ"
+
+#: knewstuff/knewstuff3/core/engine.cpp:174
 #, fuzzy
 #| msgid "View Frame Information"
 msgid "Loading provider information"
 msgstr "ফ্ৰেমৰ তথ্য চাওক"
 
-#: knewstuff/knewstuff3/core/engine.cpp:181
+#: knewstuff/knewstuff3/core/engine.cpp:197
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:209
-#: knewstuff/knewstuff3/core/engine.cpp:460
+#: knewstuff/knewstuff3/core/engine.cpp:215
+msgid "Error initializing provider."
+msgstr ""
+
+#: knewstuff/knewstuff3/core/engine.cpp:219
+#: knewstuff/knewstuff3/core/engine.cpp:489
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "এপ্লেট তুলি লোৱা হৈছে"
 
-#: knewstuff/knewstuff3/core/engine.cpp:214
+#: knewstuff/knewstuff3/core/engine.cpp:243
 msgid "Loading data from provider"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:219
+#: knewstuff/knewstuff3/core/engine.cpp:248
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:422
+#: knewstuff/knewstuff3/core/engine.cpp:451
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
 #, kde-format
 msgid "Re: %1"
 msgstr "পুনৰাবৃত্তি: %1"
 
-#: knewstuff/knewstuff3/core/engine.cpp:462
+#: knewstuff/knewstuff3/core/engine.cpp:491
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -3264,9 +3281,9 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 msgstr[1] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 
-#: knewstuff/knewstuff3/core/engine.cpp:464
+#: knewstuff/knewstuff3/core/engine.cpp:493
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:133
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:234
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:237
 #, fuzzy
 #| msgid "Install"
 msgid "Installing"
@@ -3324,7 +3341,7 @@ msgstr ""
 "সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</"
 "qt>"
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:314
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:313
 #, kde-format
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -3333,7 +3350,7 @@ msgid ""
 "Do you want to buy it?"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:326
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:325
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -3341,27 +3358,27 @@ msgid ""
 "Price: %2"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:369
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:368
 #, fuzzy
 #| msgid "No text was replaced."
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "কোনো লিপি প্ৰতিস্থাপন কৰা নহয় ।"
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:385
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:384
 msgid "You are now a fan."
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:396
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:395
 #, kde-format
 msgid "Network error. (%1)"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:400
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:399
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:402
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:401
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
@@ -3386,20 +3403,21 @@ msgid "Loading preview..."
 msgstr "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:138
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:239
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:242
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
 msgstr "উন্নয়ন কৰক"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:148
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:249
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:252
 #, fuzzy
 #| msgid "Install"
 msgid "Install Again"
 msgstr "সংস্থাপন কৰক"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:175
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:282
 #, fuzzy
 #| msgid "Details"
 msgid "Details..."
@@ -3408,9 +3426,9 @@ msgstr "বিৱৰণ"
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:224
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:226
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:228
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:165
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:167
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:169
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:168
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:170
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:172
 #, fuzzy, kde-format
 #| msgctxt "@interface/rich"
 #| msgid "<i>%1</i>"
@@ -3419,7 +3437,7 @@ msgid "By <i>%1</i>"
 msgstr "<i>%1</i>"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:242
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:191
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:194
 #, kde-format
 msgid "1 fan"
 msgid_plural "%1 fans"
@@ -3427,7 +3445,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:245
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:194
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:197
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "1 download"
@@ -3436,14 +3454,14 @@ msgstr[0] "ডাউন্‌লোড কৰা হ'ব"
 msgstr[1] "ডাউন্‌লোড কৰা হ'ব"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:264
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:115
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:118
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating: %1%"
 msgstr "গুৰুত্বৰ মান:"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:315
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:311
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:328
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:264
 msgid "Loading Preview"
 msgstr "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
