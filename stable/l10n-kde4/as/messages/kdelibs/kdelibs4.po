@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-27 01:18+0100\n"
+"POT-Creation-Date: 2010-04-03 01:20+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7133,7 +7133,7 @@ msgstr "Base URL"
 msgid "Archives"
 msgstr "আৰ্কাইভ"
 
-#: khtml/java/kjavaappletviewer.cpp:474
+#: khtml/java/kjavaappletviewer.cpp:475
 msgid "KDE Java Applet Plugin"
 msgstr "KDE Java Applet Plugin"
 
