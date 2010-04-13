@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-09 03:12+0000\n"
+"POT-Creation-Date: 2010-04-13 03:39+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -132,7 +132,7 @@ msgctxt "Comment"
 msgid "Select an icon and use it as a KIcon in your source-code"
 msgstr ""
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:22
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:23
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Insert File"
@@ -140,7 +140,7 @@ msgctxt "Name"
 msgid "IconInserter"
 msgstr "নথিপত্ৰ ভৰাওক"
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:42
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:44
 msgctxt "GenericName"
 msgid "Insert Code for KIcon-Creation"
 msgstr ""
@@ -1134,7 +1134,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: kdecore/network/kssld/kssld.desktop:27
+#: kdecore/network/kssld/kssld.desktop:28
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1403,7 +1403,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.desktop:22
+#: kio/misc/kpac/proxyscout.desktop:23
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
@@ -1416,32 +1416,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.notifyrc:24
+#: kio/misc/kpac/proxyscout.notifyrc:25
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "অবৈধ নিয়ুক্তকৰ স্ক্ৰিপ্ট"
 
-#: kio/misc/kpac/proxyscout.notifyrc:105
+#: kio/misc/kpac/proxyscout.notifyrc:106
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ডাউন্‌লোড কৰা নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট অবৈধ"
 
-#: kio/misc/kpac/proxyscout.notifyrc:196
+#: kio/misc/kpac/proxyscout.notifyrc:197
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "স্ক্ৰিপ্ট ডাউন্‌লোড কৰোঁতে ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:278
+#: kio/misc/kpac/proxyscout.notifyrc:279
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট ডাউন্‌লোড কৰিব পৰা ন'গ'ল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:369
+#: kio/misc/kpac/proxyscout.notifyrc:370
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "স্ক্ৰিপ্টৰ পৰীক্ষাত ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:449
+#: kio/misc/kpac/proxyscout.notifyrc:450
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট চলাওঁতে ভুল"
@@ -1474,7 +1474,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED Cookie Jar অংশ"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:22
+#: kioslave/http/kcookiejar/kcookiejar.desktop:23
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
