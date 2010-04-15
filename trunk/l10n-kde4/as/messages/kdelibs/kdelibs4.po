@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-13 05:21+0200\n"
+"POT-Creation-Date: 2010-04-15 04:28+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2315,7 +2315,7 @@ msgstr "বিৱৰণ"
 msgid "Configure Notifications"
 msgstr "সূচনাবাৰ্তা বিন্যাস কৰক"
 
-#: interfaces/ktexteditor/templateinterface.cpp:64
+#: interfaces/ktexteditor/templateinterface.cpp:66
 msgid ""
 "The template needs information about you, which is stored in your address "
 "book.\n"
