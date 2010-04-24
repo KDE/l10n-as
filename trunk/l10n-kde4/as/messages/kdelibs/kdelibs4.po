@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-23 04:53+0200\n"
+"POT-Creation-Date: 2010-04-24 04:51+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2616,21 +2616,21 @@ msgctxt "@action:button"
 msgid "Cancel"
 msgstr "বাতিল"
 
-#: nepomuk/core/ui/tagwidget.cpp:60
+#: nepomuk/core/ui/tagwidget.cpp:61
 #, fuzzy
 #| msgid "Show all options"
 msgctxt "@label"
 msgid "Show all tags..."
 msgstr "সকল বিকল্প প্ৰদৰ্শন কৰা হ'ব"
 
-#: nepomuk/core/ui/tagwidget.cpp:102
+#: nepomuk/core/ui/tagwidget.cpp:104
 #, fuzzy
 #| msgid "Add..."
 msgctxt "@label"
 msgid "Add Tags..."
 msgstr "যোগ কৰক..."
 
-#: nepomuk/core/ui/tagwidget.cpp:102
+#: nepomuk/core/ui/tagwidget.cpp:104
 #, fuzzy
 #| msgid "Change &Icon..."
 msgctxt "@label"

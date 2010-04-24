@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-23 03:08+0000\n"
+"POT-Creation-Date: 2010-04-24 03:05+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -151,6 +151,16 @@ msgstr "নথিপত্ৰ ভৰাওক"
 #: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:51
 msgctxt "GenericName"
 msgid "Insert Code for KIcon-Creation"
+msgstr ""
+
+#: kate/plugins/kte_insanehtml_le/data/ktexteditor_insanehtml_le.desktop:15
+msgctxt "Name"
+msgid "Insane (not ZEN) HTML coding (light edition)"
+msgstr ""
+
+#: kate/plugins/kte_insanehtml_le/data/ktexteditor_insanehtml_le.desktop:22
+msgctxt "Comment"
+msgid "A plugin, which does zen-coding like selector completion"
 msgstr ""
 
 #: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:5
@@ -1560,7 +1570,7 @@ msgctxt "Name"
 msgid "KDE Emoticons Theme"
 msgstr "Kde Emoticons থিম"
 
-#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:15
+#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:18
 msgctxt "Comment"
 msgid "Library to use KDE emoticons theme"
 msgstr "KDE emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
