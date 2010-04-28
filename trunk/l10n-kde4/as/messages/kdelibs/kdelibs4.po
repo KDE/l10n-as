@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-27 05:14+0200\n"
+"POT-Creation-Date: 2010-04-28 04:47+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7201,7 +7201,7 @@ msgstr "ডাউন্‌লোড কৰা ন'হ'ব"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "এইটো এটা অনুসন্ধানযোগ্য ইন্ডেক্স । অনুগ্ৰহ কৰি অনুসন্ধানৰ উদ্দেশ্যে শব্দ লিখক: "
 
-#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1595
+#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1598
 msgid "Confirmation: JavaScript Popup"
 msgstr "নিশ্চায়ন: JavaScript পপ-আপ"
 
@@ -7220,58 +7220,58 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1603
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1606
 msgid "Allow"
 msgstr "অনুমতি প্ৰদান কৰা হ'ব"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1603
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1606
 msgid "Do Not Allow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
-#: khtml/ecma/kjs_window.cpp:1598
+#: khtml/ecma/kjs_window.cpp:1601
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1601
+#: khtml/ecma/kjs_window.cpp:1604
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1906
+#: khtml/ecma/kjs_window.cpp:1909
 msgid "Close window?"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰা হ'ব নেকি ?"
 
-#: khtml/ecma/kjs_window.cpp:1906
+#: khtml/ecma/kjs_window.cpp:1909
 msgid "Confirmation Required"
 msgstr "নিশ্চিত কৰা আৱশ্যক"
 
-#: khtml/ecma/kjs_window.cpp:2773
+#: khtml/ecma/kjs_window.cpp:2776
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2776
+#: khtml/ecma/kjs_window.cpp:2779
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2784
+#: khtml/ecma/kjs_window.cpp:2787
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript দ্বাৰা পত্ৰচিহ্ন যোগ কৰাৰ প্ৰচেষ্টা কৰা হৈছে"
 
-#: khtml/ecma/kjs_window.cpp:2788
+#: khtml/ecma/kjs_window.cpp:2791
 msgid "Insert"
 msgstr "সন্নিবেশ কৰক"
 
-#: khtml/ecma/kjs_window.cpp:2788
+#: khtml/ecma/kjs_window.cpp:2791
 msgid "Disallow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
