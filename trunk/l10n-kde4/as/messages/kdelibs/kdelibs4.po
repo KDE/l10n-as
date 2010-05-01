@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-30 04:43+0200\n"
+"POT-Creation-Date: 2010-05-01 04:45+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9217,11 +9217,11 @@ msgstr "পৃষ্ঠা"
 msgid "Page Set"
 msgstr "প্ৰতি কাগজত পৃষ্ঠা"
 
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:47
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:64
 msgid "Select Region of Image"
 msgstr "প্ৰতিমূৰ্তিৰ প্ৰান্ত নিৰ্ব্বাচন কৰক"
 
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:52
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:69
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "মন পছন্দ ক্ষেত্ৰ নিৰ্ব্বাচন কৰিবলৈ প্ৰতিমূৰ্তিত টিপি তাক টানক ।"
 
