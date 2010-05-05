@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-04 06:23+0200\n"
+"POT-Creation-Date: 2010-05-05 04:48+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2479,35 +2479,35 @@ msgctxt "@title:group Script properties"
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: kconf_update/kconf_update.cpp:132
+#: kconf_update/kconf_update.cpp:140
 msgid "Only local files are supported."
 msgstr "অকল স্থানীয় নথিপত্ৰ সমৰ্থিত হ'ব ।"
 
-#: kconf_update/kconf_update.cpp:875
+#: kconf_update/kconf_update.cpp:918
 msgid "Keep output results from scripts"
 msgstr "স্ক্ৰিপ্টৰ পৰা প্ৰাপ্ত ফলাফল সংৰক্ষণ কৰা হ'ব"
 
-#: kconf_update/kconf_update.cpp:876
+#: kconf_update/kconf_update.cpp:919
 msgid "Check whether config file itself requires updating"
 msgstr "বিন্যাস নথিপত্ৰ উন্নয়ন কৰাৰ প্ৰয়োজন আছে নে নাই পৰীক্ষা কৰক"
 
-#: kconf_update/kconf_update.cpp:877
+#: kconf_update/kconf_update.cpp:920
 msgid "File to read update instructions from"
 msgstr "চিহ্নিত নথিপত্ৰৰ পৰা উন্নয়ন সংক্ৰান্ত তথ্য পঢ়া হ'ব"
 
-#: kconf_update/kconf_update.cpp:879
+#: kconf_update/kconf_update.cpp:922
 msgid "KConf Update"
 msgstr "KConf উন্নয়ন"
 
-#: kconf_update/kconf_update.cpp:881
+#: kconf_update/kconf_update.cpp:924
 msgid "KDE Tool for updating user configuration files"
 msgstr "ব্যৱহাৰকৰোঁতাৰ বিন্যাস নথিপত্ৰ উন্নয়ন কৰিবলৈ ব্যৱহৃত KDE সামগ্ৰী"
 
-#: kconf_update/kconf_update.cpp:883
+#: kconf_update/kconf_update.cpp:926
 msgid "(c) 2001, Waldo Bastian"
 msgstr "(c) 2001, Waldo Bastian"
 
-#: kconf_update/kconf_update.cpp:885 khtml/khtml_global.cpp:213
+#: kconf_update/kconf_update.cpp:928 khtml/khtml_global.cpp:213
 #: kded/kbuildsycoca.cpp:622
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
@@ -11824,47 +11824,47 @@ msgstr "এটা বছৰ নিৰ্ব্বাচন কৰক"
 msgid "Select the current day"
 msgstr "আজিৰ দিন নিৰ্ব্বাচন কৰক"
 
-#: kdeui/widgets/klineedit.cpp:261
+#: kdeui/widgets/klineedit.cpp:270
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "লিপি পৰিষ্কাৰ কৰক"
 
-#: kdeui/widgets/klineedit.cpp:1132
+#: kdeui/widgets/klineedit.cpp:1141
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "ৰং নিৰ্ব্বাচন কৰক"
 
-#: kdeui/widgets/klineedit.cpp:1139
+#: kdeui/widgets/klineedit.cpp:1148
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "শূণ্য"
 
-#: kdeui/widgets/klineedit.cpp:1140
+#: kdeui/widgets/klineedit.cpp:1149
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "হস্তচালিতভাবে"
 
-#: kdeui/widgets/klineedit.cpp:1141
+#: kdeui/widgets/klineedit.cpp:1150
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "স্বয়ংক্ৰিয়"
 
-#: kdeui/widgets/klineedit.cpp:1142
+#: kdeui/widgets/klineedit.cpp:1151
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "ড্ৰপ-ডাউন তালিকা"
 
-#: kdeui/widgets/klineedit.cpp:1143
+#: kdeui/widgets/klineedit.cpp:1152
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
 
-#: kdeui/widgets/klineedit.cpp:1144
+#: kdeui/widgets/klineedit.cpp:1153
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "ড্ৰপ-ডাউন তালিকা && স্বয়ংক্ৰিয়"
 
-#: kdeui/widgets/klineedit.cpp:1175
+#: kdeui/widgets/klineedit.cpp:1184
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
