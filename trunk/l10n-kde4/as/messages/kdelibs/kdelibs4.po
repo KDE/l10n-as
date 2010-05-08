@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-07 04:38+0200\n"
+"POT-Creation-Date: 2010-05-08 04:41+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9306,7 +9306,7 @@ msgstr ""
 msgid "&Details"
 msgstr "বিৱৰণ (&D)"
 
-#: kdeui/dialogs/kdialog.cpp:969
+#: kdeui/dialogs/kdialog.cpp:975
 msgid "Get help..."
 msgstr "সহায় প্ৰাপ্ত কৰক..."
 
@@ -12335,24 +12335,24 @@ msgid "Minimize"
 msgstr "সৰ্বনিম্ন মাপ"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:395
-#: kdeui/notifications/kstatusnotifieritem.cpp:831
+#: kdeui/notifications/kstatusnotifieritem.cpp:397
+#: kdeui/notifications/kstatusnotifieritem.cpp:833
 msgid "&Minimize"
 msgstr "সৰ্বনিম্ন মাপ (&M)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:829
+#: kdeui/notifications/kstatusnotifieritem.cpp:831
 msgid "&Restore"
 msgstr "পুনৰুদ্ধাৰ (&R)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:839
+#: kdeui/notifications/kstatusnotifieritem.cpp:841
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:842
+#: kdeui/notifications/kstatusnotifieritem.cpp:844
 msgid "Confirm Quit From System Tray"
 msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
 
