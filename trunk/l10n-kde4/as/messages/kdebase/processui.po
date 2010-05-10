@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: processui\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-06 04:55+0200\n"
+"POT-Creation-Date: 2010-05-10 04:41+0200\n"
 "PO-Revision-Date: 2009-01-14 12:30+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -91,7 +91,7 @@ msgid ""
 "any time."
 msgstr ""
 
-#: ksysguardprocesslist.cpp:411
+#: ksysguardprocesslist.cpp:411 ksysguardprocesslist.cpp:1249
 #, fuzzy
 #| msgid "Renice Process"
 msgid "End Process"
@@ -245,15 +245,6 @@ msgid_plural ""
 "lost"
 msgstr[0] ""
 msgstr[1] ""
-
-#: ksysguardprocesslist.cpp:1249
-#, fuzzy, kde-format
-#| msgid "Kill Process"
-#| msgid_plural "Kill Processes"
-msgid "End process"
-msgid_plural "End %1 processes"
-msgstr[0] "প্ৰক্ৰিয়া Kill কৰক"
-msgstr[1] "প্ৰক্ৰিয়াসমূহ Kill কৰক"
 
 #: ksysguardprocesslist.cpp:1250
 msgid "End"
@@ -1399,6 +1390,14 @@ msgstr ""
 msgctxt "Scheduler"
 msgid "Interactive"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Kill Process"
+#~| msgid_plural "Kill Processes"
+#~ msgid "End process"
+#~ msgid_plural "End %1 processes"
+#~ msgstr[0] "প্ৰক্ৰিয়া Kill কৰক"
+#~ msgstr[1] "প্ৰক্ৰিয়াসমূহ Kill কৰক"
 
 #~ msgid "Monitoring I/O for %1 (%2)"
 #~ msgstr "%1 (%2) ৰ কাৰণে I/O নিৰীক্ষণ কৰা হৈছে"
