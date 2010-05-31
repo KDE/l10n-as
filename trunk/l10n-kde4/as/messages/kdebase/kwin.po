@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-14 04:46+0200\n"
+"POT-Creation-Date: 2010-05-31 04:58+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -807,7 +807,9 @@ msgid "&Special Window Settings..."
 msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ্ট্য...(&S)"
 
 #: useractions.cpp:119
-msgid "&Special Application Settings..."
+#, fuzzy
+#| msgid "&Special Application Settings..."
+msgid "S&pecial Application Settings..."
 msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ বৈশিষ্ট্য...(&S)"
 
 #: useractions.cpp:140
