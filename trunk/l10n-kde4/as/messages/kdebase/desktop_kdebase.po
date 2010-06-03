@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-02 03:02+0000\n"
+"POT-Creation-Date: 2010-06-03 03:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11318,7 +11318,7 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
-#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:15
+#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:16
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
