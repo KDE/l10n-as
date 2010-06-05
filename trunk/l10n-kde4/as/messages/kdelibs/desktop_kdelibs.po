@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-03 03:16+0000\n"
+"POT-Creation-Date: 2010-06-05 03:09+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1595,6 +1595,14 @@ msgctxt "Comment"
 msgid "Library to use XMPP emoticons theme"
 msgstr "XMPP Emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
 
+#: plasma/data/services/plasma-applet-extenderapplet.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Word Completion"
+msgctxt "Name"
+msgid "Collection"
+msgstr "শব্দ সম্পূৰ্ণ কৰা"
+
 #: plasma/data/servicetypes/plasma-animator.desktop:5
 msgctxt "Comment"
 msgid "Plasma Animation Engine"
@@ -1604,14 +1612,6 @@ msgstr "Plasma Animation Engine"
 msgctxt "Comment"
 msgid "Plasma applet"
 msgstr "Plasma এপ্লেট"
-
-#: plasma/data/servicetypes/plasma-applet-extenderapplet.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Word Completion"
-msgctxt "Name"
-msgid "Collection"
-msgstr "শব্দ সম্পূৰ্ণ কৰা"
 
 #: plasma/data/servicetypes/plasma-applet-popupapplet.desktop:5
 #, fuzzy
@@ -1655,16 +1655,6 @@ msgstr "Plasma ৰ কাৰণে স্ক্ৰিপ্টিং ভাষ�
 msgctxt "Comment"
 msgid "Plasma wallpaper"
 msgstr "Plasma wallpaper"
-
-#: plasma/kcm_remotewidgets.actions:2
-msgctxt "Name"
-msgid "Save remote widgets policies"
-msgstr ""
-
-#: plasma/kcm_remotewidgets.actions:52
-msgctxt "Description"
-msgid "Prevents the system from saving plasma remote widgets policies"
-msgstr ""
 
 #: plasma/tests/packagemetadatatest.desktop:2
 msgctxt "Name"
