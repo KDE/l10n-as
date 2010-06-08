@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-07 04:49+0200\n"
+"POT-Creation-Date: 2010-06-08 05:37+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11830,13 +11830,13 @@ msgstr "বৃহৎ (%1x%2)"
 msgid "Lock Toolbar Positions"
 msgstr "টুল-বাৰ লক কৰা হ'ব"
 
-#: kdeui/widgets/ktoolbar.cpp:1220
+#: kdeui/widgets/ktoolbar.cpp:1222
 #, kde-format
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/widgets/ktoolbar.cpp:1221
+#: kdeui/widgets/ktoolbar.cpp:1223
 #, kde-format
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
@@ -12416,24 +12416,24 @@ msgid "Minimize"
 msgstr "সৰ্বনিম্ন মাপ"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:397
-#: kdeui/notifications/kstatusnotifieritem.cpp:834
+#: kdeui/notifications/kstatusnotifieritem.cpp:419
+#: kdeui/notifications/kstatusnotifieritem.cpp:856
 msgid "&Minimize"
 msgstr "সৰ্বনিম্ন মাপ (&M)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:832
+#: kdeui/notifications/kstatusnotifieritem.cpp:854
 msgid "&Restore"
 msgstr "পুনৰুদ্ধাৰ (&R)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:842
+#: kdeui/notifications/kstatusnotifieritem.cpp:864
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ পৰা প্ৰস্থান কৰিবলৈ ইচ্ছুক ?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:845
+#: kdeui/notifications/kstatusnotifieritem.cpp:867
 msgid "Confirm Quit From System Tray"
 msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
 
