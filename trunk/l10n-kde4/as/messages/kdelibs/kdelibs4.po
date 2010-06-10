@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-09 05:01+0200\n"
+"POT-Creation-Date: 2010-06-10 04:50+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7457,12 +7457,12 @@ msgstr "উৎস বন্ধ কৰক"
 msgid "Ready"
 msgstr "প্ৰস্তুত"
 
-#: khtml/ecma/debugger/debugwindow.cpp:621
+#: khtml/ecma/debugger/debugwindow.cpp:619
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "%1 ত বিশ্লেষণ সংক্ৰান্ত ত্ৰুটি, পংক্তি %2 ত"
 
-#: khtml/ecma/debugger/debugwindow.cpp:658
+#: khtml/ecma/debugger/debugwindow.cpp:656
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -7475,13 +7475,13 @@ msgstr ""
 "%1 পংক্তি %2:\n"
 "%3"
 
-#: khtml/ecma/debugger/debugwindow.cpp:853
+#: khtml/ecma/debugger/debugwindow.cpp:851
 msgid ""
 "Do not know where to evaluate the expression. Please pause a script or open "
 "a source file."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:889
+#: khtml/ecma/debugger/debugwindow.cpp:887
 #, kde-format
 msgid "Evaluation threw an exception %1"
 msgstr ""
@@ -7494,7 +7494,7 @@ msgstr "JavaScript সংক্ৰান্ত ত্ৰুটি"
 msgid "&Do not show this message again"
 msgstr "এই বাৰ্তা পুনঃ প্ৰদৰ্শন কৰা ন'হ'ব (&D)"
 
-#: khtml/ecma/debugger/debugdocument.cpp:187
+#: khtml/ecma/debugger/debugdocument.cpp:201
 msgid ""
 "Unable to find the Kate editor component;\n"
 "please check your KDE installation."
@@ -7502,7 +7502,7 @@ msgstr ""
 "Kate লিপি সম্পাদক পোৱা নাযায়;\n"
 "অনুগ্ৰহ কৰি KDE সংস্থাপন পৰীক্ষা কৰক ।"
 
-#: khtml/ecma/debugger/debugdocument.cpp:253
+#: khtml/ecma/debugger/debugdocument.cpp:267
 msgid "Breakpoint"
 msgstr "Breakpoint"
 
