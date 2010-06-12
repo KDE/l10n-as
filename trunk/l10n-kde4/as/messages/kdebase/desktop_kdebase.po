@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-11 03:10+0000\n"
+"POT-Creation-Date: 2010-06-12 03:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6646,7 +6646,7 @@ msgctxt "Name"
 msgid "Nepomuk Search Module"
 msgstr "Web SideBar Module"
 
-#: runtime/nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:56
+#: runtime/nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:57
 msgctxt "Comment"
 msgid ""
 "Helper module for KIO to ensure automatic updates of nepomuksearch listings."
@@ -11319,7 +11319,7 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
-#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:23
+#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:24
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
