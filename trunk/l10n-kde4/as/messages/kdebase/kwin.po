@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-12 04:59+0200\n"
+"POT-Creation-Date: 2010-06-15 05:47+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -767,13 +767,13 @@ msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr "Desktop Grid দেখুৱাওক"
 
-#: tiling.cpp:68
+#: tiling.cpp:70
 #, fuzzy
 #| msgid "Disabled"
 msgid "Tiling Disabled"
 msgstr "নিষ্ক্ৰিয় কৰক"
 
-#: tiling.cpp:74
+#: tiling.cpp:76
 msgid "Tiling Enabled"
 msgstr ""
 
