@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-07 23:31+0000\n"
+"POT-Creation-Date: 2010-07-08 23:31+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -26,7 +26,7 @@ msgctxt "Name|standard desktop component"
 msgid "Instant Messenger"
 msgstr "Instant Messenger"
 
-#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:67
+#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:68
 msgctxt "Comment"
 msgid ""
 "The instant messenger allows two-way chat between individuals and groups."
@@ -46,7 +46,7 @@ msgctxt "Name|standard desktop component"
 msgid "Embedded Text Editor"
 msgstr "প্ৰোথিত লিপি সম্পাদক"
 
-#: interfaces/ktexteditor/kcm_ktexteditor.desktop:66
+#: interfaces/ktexteditor/kcm_ktexteditor.desktop:67
 msgctxt "Comment"
 msgid ""
 "The text editor service provides applications with a text viewer and editor. "
@@ -1152,7 +1152,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: kdecore/network/kssld/kssld.desktop:47
+#: kdecore/network/kssld/kssld.desktop:48
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1421,7 +1421,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.desktop:44
+#: kio/misc/kpac/proxyscout.desktop:45
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
@@ -1434,32 +1434,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.notifyrc:46
+#: kio/misc/kpac/proxyscout.notifyrc:47
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "অবৈধ নিয়ুক্তকৰ স্ক্ৰিপ্ট"
 
-#: kio/misc/kpac/proxyscout.notifyrc:127
+#: kio/misc/kpac/proxyscout.notifyrc:128
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ডাউন্‌লোড কৰা নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট অবৈধ"
 
-#: kio/misc/kpac/proxyscout.notifyrc:218
+#: kio/misc/kpac/proxyscout.notifyrc:219
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "স্ক্ৰিপ্ট ডাউন্‌লোড কৰোঁতে ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:300
+#: kio/misc/kpac/proxyscout.notifyrc:301
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট ডাউন্‌লোড কৰিব পৰা ন'গ'ল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:391
+#: kio/misc/kpac/proxyscout.notifyrc:392
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "স্ক্ৰিপ্টৰ পৰীক্ষাত ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:471
+#: kio/misc/kpac/proxyscout.notifyrc:472
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট চলাওঁতে ভুল"
@@ -1570,7 +1570,7 @@ msgctxt "Name"
 msgid "KDE Emoticons Theme"
 msgstr "Kde Emoticons থিম"
 
-#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:43
+#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:44
 msgctxt "Comment"
 msgid "Library to use KDE emoticons theme"
 msgstr "KDE emoticons থিম ব্যৱহাৰ কৰা লাইব্ৰেৰী"
