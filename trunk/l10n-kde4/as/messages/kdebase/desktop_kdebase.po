@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-15 03:34+0000\n"
+"POT-Creation-Date: 2010-07-16 03:17+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7261,7 +7261,7 @@ msgid "Display"
 msgstr ""
 
 #: workspace/kcontrol/hardware/display/display.desktop:99
-#: workspace/systemsettings/categories/settings-display.desktop:47
+#: workspace/systemsettings/categories/settings-display.desktop:48
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
@@ -7387,7 +7387,7 @@ msgctxt "Name"
 msgid "Login Screen"
 msgstr "PrintScreen"
 
-#: workspace/kcontrol/kdm/kdm.desktop:56
+#: workspace/kcontrol/kdm/kdm.desktop:57
 msgctxt "Comment"
 msgid "Configure the login manager (KDM)"
 msgstr ""
@@ -12044,7 +12044,7 @@ msgctxt "Name"
 msgid "Information Sources"
 msgstr "তথ্য"
 
-#: workspace/solid/kcm/kcm_solid.desktop:51
+#: workspace/solid/kcm/kcm_solid.desktop:52
 msgctxt "Comment"
 msgid "Hardware Integration Configuration with Solid"
 msgstr ""
