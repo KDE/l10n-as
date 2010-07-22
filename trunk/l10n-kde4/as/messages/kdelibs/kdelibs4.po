@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-21 05:15+0200\n"
+"POT-Creation-Date: 2010-07-22 04:53+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4237,26 +4237,26 @@ msgstr "অনুগ্ৰহ কৰি %1 লৈ বাগ প্ৰতিব�
 msgid "Unexpected argument '%1'."
 msgstr "অপ্ৰত্যাশিত তৰ্ক '%1' ।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1071
+#: kdecore/kernel/kcmdlineargs.cpp:1078
 msgid "Use --help to get a list of available command line options."
 msgstr ""
 "আদেশ শাৰীৰ পৰা ব্যৱহাৰযোগ্য সকলো উপলব্ধ বিকল্পৰ তালিকা চাওঁতে --help ব্যৱহাৰ কৰক ।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1094
+#: kdecore/kernel/kcmdlineargs.cpp:1101
 msgid "[options] "
 msgstr "[বিকল্প] "
 
-#: kdecore/kernel/kcmdlineargs.cpp:1101
+#: kdecore/kernel/kcmdlineargs.cpp:1108
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-বিকল্প]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1122
+#: kdecore/kernel/kcmdlineargs.cpp:1129
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "ব্যৱহাৰ প্ৰণালী: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1125
+#: kdecore/kernel/kcmdlineargs.cpp:1132
 msgid ""
 "\n"
 "Generic options:\n"
@@ -4264,36 +4264,36 @@ msgstr ""
 "\n"
 "সাধাৰণ বিকল্প:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1127
+#: kdecore/kernel/kcmdlineargs.cpp:1134
 msgid "Show help about options"
 msgstr "বিবিধ বিকল্প সম্বন্ধীয় সহায় প্ৰদৰ্শন কৰা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1135
+#: kdecore/kernel/kcmdlineargs.cpp:1142
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "%1 ৰ বাবে সুনিৰ্দিষ্ট সহায় প্ৰদৰ্শন কৰা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1142
+#: kdecore/kernel/kcmdlineargs.cpp:1149
 msgid "Show all options"
 msgstr "সকল বিকল্প প্ৰদৰ্শন কৰা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1143
+#: kdecore/kernel/kcmdlineargs.cpp:1150
 msgid "Show author information"
 msgstr "লেখকৰ তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1144
+#: kdecore/kernel/kcmdlineargs.cpp:1151
 msgid "Show version information"
 msgstr "সংস্কৰণ সংক্ৰান্ত তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1145
+#: kdecore/kernel/kcmdlineargs.cpp:1152
 msgid "Show license information"
 msgstr "প্ৰমাণপত্ৰ সংক্ৰান্ত তথ্য প্ৰদৰ্শন কৰা হয়"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1146
+#: kdecore/kernel/kcmdlineargs.cpp:1153
 msgid "End of options"
 msgstr "বিকল্পৰ সমাপ্তি"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1167
+#: kdecore/kernel/kcmdlineargs.cpp:1174
 #, kde-format
 msgid ""
 "\n"
@@ -4302,7 +4302,7 @@ msgstr ""
 "\n"
 "%1 বিকল্প:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1169
+#: kdecore/kernel/kcmdlineargs.cpp:1176
 msgid ""
 "\n"
 "Options:\n"
@@ -4310,7 +4310,7 @@ msgstr ""
 "\n"
 "বিকল্প:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1227
+#: kdecore/kernel/kcmdlineargs.cpp:1234
 msgid ""
 "\n"
 "Arguments:\n"
@@ -4318,11 +4318,11 @@ msgstr ""
 "\n"
 "তৰ্ক:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1583
+#: kdecore/kernel/kcmdlineargs.cpp:1590
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "ব্যৱহাৰৰ পিছত অনুপ্ৰয়োগ দ্বাৰা খোলা নথিপত্ৰ/URL সমূহ আঁতৰুৱা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1584
+#: kdecore/kernel/kcmdlineargs.cpp:1591
 msgid "KDE-tempfile"
 msgstr "KDE-tempfile"
 
