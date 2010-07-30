@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-26 01:24+0200\n"
+"POT-Creation-Date: 2010-07-30 01:23+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -8679,7 +8679,7 @@ msgstr "পটভূমিত সঞ্চালন কৰা ন'হ'ব ।"
 msgid "Internally added if launched from Finder"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:826
+#: kdeui/kernel/kapplication.cpp:827
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "'%1' বিন্যাস পোৱা নাযায়"
