@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-30 03:33+0000\n"
+"POT-Creation-Date: 2010-07-31 03:54+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1650,6 +1650,11 @@ msgstr "KRunner প্লাগ-ইন"
 msgctxt "Comment"
 msgid "Scripting language extension for Plasma"
 msgstr "Plasma ৰ কাৰণে স্ক্ৰিপ্টিং ভাষাৰ সম্প্ৰসাৰণ"
+
+#: plasma/data/servicetypes/plasma-toolbox.desktop:5
+msgctxt "Comment"
+msgid "Plasma toolbox"
+msgstr ""
 
 #: plasma/data/servicetypes/plasma-wallpaper.desktop:5
 msgctxt "Comment"
