@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-31 03:54+0000\n"
+"POT-Creation-Date: 2010-08-05 03:28+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1670,6 +1670,16 @@ msgstr "সৰঞ্জাম মিটাডাটাৰ পৰীক্ষা�
 msgctxt "Comment"
 msgid "A test desktop file to test the PackageMetaData class."
 msgstr "PackageMetaData class পৰীক্ষা কৰিবলৈ এটা ডেষ্কট'প পৰীক্ষাৰ নথিপত্ৰ ।"
+
+#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:2
+msgctxt "Name"
+msgid "Test"
+msgstr ""
+
+#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:92
+msgctxt "Comment"
+msgid "A dummy plugin for testing"
+msgstr ""
 
 #: plasma/tests/testengine/plasma-dataengine-testengine.desktop:2
 msgctxt "Name"
