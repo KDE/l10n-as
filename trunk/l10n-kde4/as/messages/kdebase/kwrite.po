@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-27 06:12+0200\n"
+"POT-Creation-Date: 2010-08-09 05:21+0200\n"
 "PO-Revision-Date: 2009-01-15 17:41+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -350,27 +350,27 @@ msgstr "বৰ সুন্দৰ সহায়"
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "যি সকলে অংশ লৈছে আৰু যাৰ নাম মই ল'বলৈ পাহৰিলো"
 
-#: kwritemain.cpp:666
+#: kwritemain.cpp:667
 msgid "Read the contents of stdin"
 msgstr "stdin ৰ বিষয়বস্তু পঢ়ক"
 
-#: kwritemain.cpp:667
+#: kwritemain.cpp:668
 msgid "Set encoding for the file to open"
 msgstr "খুলিব লগা নথিপত্ৰৰ এঙ্কোডিং প্ৰতিষ্ঠা কৰক"
 
-#: kwritemain.cpp:668
+#: kwritemain.cpp:669
 msgid "Navigate to this line"
 msgstr "এই শাৰীলৈ যাওক"
 
-#: kwritemain.cpp:669
+#: kwritemain.cpp:670
 msgid "Navigate to this column"
 msgstr "এই স্তম্ভলৈ যাওক"
 
-#: kwritemain.cpp:670
+#: kwritemain.cpp:671
 msgid "Document to open"
 msgstr "খুলিব লগা আলেখ্যন"
 
-#: kwritemain.cpp:684
+#: kwritemain.cpp:685
 msgid "Choose Editor Component"
 msgstr "সম্পাদকৰ অংশ বাচি লওক"
 
