@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-15 05:11+0200\n"
+"POT-Creation-Date: 2010-08-18 05:17+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -8561,11 +8561,11 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: kparts/part.cpp:806
+#: kparts/part.cpp:813
 msgid "Untitled"
 msgstr "শিৰোনামনোহোৱা"
 
-#: kparts/part.cpp:812
+#: kparts/part.cpp:819
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -8574,7 +8574,7 @@ msgstr ""
 "\"%1\" আলেখ্যনত কিছু পৰিবৰ্তন কৰা হৈছে ।\n"
 "পৰিবৰ্তনসমূহ সংৰক্ষণ কৰা হ'ব নে বৰ্জন কৰা হ'ব?"
 
-#: kparts/part.cpp:814
+#: kparts/part.cpp:821
 msgid "Close Document"
 msgstr "আলেখ্যন বন্ধ কৰক"
 
@@ -11905,47 +11905,47 @@ msgstr "এটা বছৰ নিৰ্ব্বাচন কৰক"
 msgid "Select the current day"
 msgstr "আজিৰ দিন নিৰ্ব্বাচন কৰক"
 
-#: kdeui/widgets/klineedit.cpp:279
+#: kdeui/widgets/klineedit.cpp:291
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "লিপি পৰিষ্কাৰ কৰক"
 
-#: kdeui/widgets/klineedit.cpp:1156
+#: kdeui/widgets/klineedit.cpp:1176
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "ৰং নিৰ্ব্বাচন কৰক"
 
-#: kdeui/widgets/klineedit.cpp:1163
+#: kdeui/widgets/klineedit.cpp:1183
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "শূণ্য"
 
-#: kdeui/widgets/klineedit.cpp:1164
+#: kdeui/widgets/klineedit.cpp:1184
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "হস্তচালিতভাবে"
 
-#: kdeui/widgets/klineedit.cpp:1165
+#: kdeui/widgets/klineedit.cpp:1185
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "স্বয়ংক্ৰিয়"
 
-#: kdeui/widgets/klineedit.cpp:1166
+#: kdeui/widgets/klineedit.cpp:1186
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "ড্ৰপ-ডাউন তালিকা"
 
-#: kdeui/widgets/klineedit.cpp:1167
+#: kdeui/widgets/klineedit.cpp:1187
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
 
-#: kdeui/widgets/klineedit.cpp:1168
+#: kdeui/widgets/klineedit.cpp:1188
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "ড্ৰপ-ডাউন তালিকা && স্বয়ংক্ৰিয়"
 
-#: kdeui/widgets/klineedit.cpp:1199
+#: kdeui/widgets/klineedit.cpp:1219
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
