@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-23 23:35+0000\n"
+"POT-Creation-Date: 2010-08-24 23:32+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7720,7 +7720,7 @@ msgctxt "Name"
 msgid "awesome"
 msgstr ""
 
-#: workspace/kdm/kfrontend/sessions/awesome.desktop:67
+#: workspace/kdm/kfrontend/sessions/awesome.desktop:68
 msgctxt "Comment"
 msgid "Highly configurable framework window manager"
 msgstr ""
