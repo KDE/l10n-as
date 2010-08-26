@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-25 05:07+0200\n"
+"POT-Creation-Date: 2010-08-26 05:55+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2940,7 +2940,25 @@ msgstr[1] ""
 msgid "Search Plugins"
 msgstr "প্লাগ-ইন অনুসন্ধান"
 
-#: kutils/kcmultidialog.cpp:163 kdeui/dialogs/kconfigdialog.cpp:69
+#: kutils/kcmultidialog.cpp:59
+#, fuzzy
+#| msgid ""
+#| "The document \"%1\" has been modified.\n"
+#| "Do you want to save your changes or discard them?"
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"\"%1\" আলেখ্যনত কিছু পৰিবৰ্তন কৰা হৈছে ।\n"
+"পৰিবৰ্তনসমূহ সংৰক্ষণ কৰা হ'ব নে বৰ্জন কৰা হ'ব?"
+
+#: kutils/kcmultidialog.cpp:61
+#, fuzzy
+#| msgid "Settings"
+msgid "Apply Settings"
+msgstr "বৈশিষ্ট্য"
+
+#: kutils/kcmultidialog.cpp:217 kdeui/dialogs/kconfigdialog.cpp:69
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
 
@@ -4318,11 +4336,11 @@ msgstr ""
 "\n"
 "তৰ্ক:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1589
+#: kdecore/kernel/kcmdlineargs.cpp:1587
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "ব্যৱহাৰৰ পিছত অনুপ্ৰয়োগ দ্বাৰা খোলা নথিপত্ৰ/URL সমূহ আঁতৰুৱা হ'ব"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1590
+#: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "KDE-tempfile"
 msgstr "KDE-tempfile"
 
@@ -8680,7 +8698,7 @@ msgstr "পটভূমিত সঞ্চালন কৰা ন'হ'ব ।"
 msgid "Internally added if launched from Finder"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:829
+#: kdeui/kernel/kapplication.cpp:827
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "'%1' বিন্যাস পোৱা নাযায়"
