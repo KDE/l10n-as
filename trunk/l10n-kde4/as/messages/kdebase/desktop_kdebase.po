@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-02 05:29+0000\n"
+"POT-Creation-Date: 2010-09-07 01:09+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2207,7 +2207,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/baidu.desktop:22
+#: runtime/kurifilter-plugins/ikws/searchproviders/baidu.desktop:23
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -2236,7 +2236,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "বেনিন"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/bing.desktop:23
+#: runtime/kurifilter-plugins/ikws/searchproviders/bing.desktop:24
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -6818,12 +6818,27 @@ msgstr ""
 
 #: runtime/plasma/containments/newspaper/plasma-containment-newspaper.desktop:2
 msgctxt "Name"
-msgid "Newspaper Activity"
+msgid "Newspaper Layout"
 msgstr ""
 
 #: runtime/plasma/containments/newspaper/plasma-containment-newspaper.desktop:45
 msgctxt "Comment"
-msgid "An activity that puts widgets on two columns"
+msgid "A layout that puts widgets into columns"
+msgstr ""
+
+#: runtime/plasma/kpart/plasma-kpart.desktop:2
+msgctxt "Name"
+msgid "plasma-kpart"
+msgstr ""
+
+#: runtime/plasma/kpart/shell/plasma-kpart-shell.desktop:2
+msgctxt "Name"
+msgid "plasma-kpart-shell"
+msgstr ""
+
+#: runtime/plasma/kpart/shell/plasma-kpart-shell.desktop:14
+msgctxt "GenericName"
+msgid "A KPart shell for Plasma"
 msgstr ""
 
 #: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:2
@@ -8966,7 +8981,7 @@ msgctxt "Name"
 msgid "Session Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: workspace/ksmserver/kcm/kcmsmserver.desktop:60
+#: workspace/ksmserver/kcm/kcmsmserver.desktop:61
 msgctxt "Comment"
 msgid "Configure the session manager and logout settings"
 msgstr ""
@@ -9038,7 +9053,6 @@ msgid "Highcolor version of the classic style"
 msgstr ""
 
 #: workspace/kstyles/themes/keramik.themerc:2
-#: workspace/kwin/clients/keramik/keramik.desktop:2
 msgctxt "Name"
 msgid "Keramik"
 msgstr ""
@@ -9252,24 +9266,9 @@ msgctxt "Name"
 msgid "B II"
 msgstr ""
 
-#: workspace/kwin/clients/kde2/kde2.desktop:2
-msgctxt "Name"
-msgid "KDE 2"
-msgstr "KDE 2"
-
-#: workspace/kwin/clients/kwmtheme/kwmtheme.desktop:2
-msgctxt "Name"
-msgid "KWM Theme"
-msgstr ""
-
 #: workspace/kwin/clients/laptop/laptop.desktop:2
 msgctxt "Name"
 msgid "Laptop"
-msgstr ""
-
-#: workspace/kwin/clients/modernsystem/modernsystem.desktop:2
-msgctxt "Name"
-msgid "Modern System"
 msgstr ""
 
 #: workspace/kwin/clients/plastik/plastik.desktop:3
@@ -9277,24 +9276,9 @@ msgctxt "Name"
 msgid "Plastik"
 msgstr ""
 
-#: workspace/kwin/clients/quartz/quartz.desktop:2
-msgctxt "Name"
-msgid "Quartz"
-msgstr ""
-
-#: workspace/kwin/clients/redmond/redmond.desktop:2
-msgctxt "Name"
-msgid "Redmond"
-msgstr ""
-
 #: workspace/kwin/clients/tabstrip/tabstrip.desktop:2
 msgctxt "Name"
 msgid "Tabstrip"
-msgstr ""
-
-#: workspace/kwin/clients/web/web.desktop:2
-msgctxt "Name"
-msgid "Web"
 msgstr ""
 
 #: workspace/kwin/data/fsp_workarounds_1.kwinrules:2
@@ -9927,7 +9911,7 @@ msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "ডেস্কট'প"
 
-#: workspace/kwin/kcmkwin/kwindesktop/desktop.desktop:62
+#: workspace/kwin/kcmkwin/kwindesktop/desktop.desktop:63
 msgctxt "Comment"
 msgid "You can configure how many virtual desktops there are."
 msgstr ""
@@ -10699,10 +10683,12 @@ msgid "Desktop Dashboard"
 msgstr "ডেস্কট'প"
 
 #: workspace/plasma/desktop/containments/desktop/plasma-containment-desktopdashboard.desktop:46
-#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:66
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Desktop"
 msgctxt "Comment"
-msgid "Default desktop containment"
-msgstr ""
+msgid "Widget Dashboard"
+msgstr "ডেস্কট'প"
 
 #: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:3
 #, fuzzy
@@ -10712,15 +10698,22 @@ msgctxt "Name|plasma containment"
 msgid "Desktop"
 msgstr "ডেস্কট'প"
 
+#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:66
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Default desktop"
+msgstr "ডেস্কট'প"
+
 #: workspace/plasma/desktop/containments/panel/plasma-containment-panel.desktop:2
 msgctxt "Name"
 msgid "Empty Panel"
 msgstr ""
 
 #: workspace/plasma/desktop/containments/panel/plasma-containment-panel.desktop:48
-#: workspace/plasma/netbook/containments/netpanel/plasma-containment-netpanel.desktop:60
 msgctxt "Comment"
-msgid "A containment for a panel"
+msgid "A simple linear panel"
 msgstr ""
 
 #: workspace/plasma/desktop/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
@@ -11374,7 +11367,7 @@ msgctxt "Name"
 msgid "privatepaste.com"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:9
+#: workspace/plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:10
 msgctxt "Comment"
 msgid "Paste text with the PrivatePaste.com service"
 msgstr ""
@@ -11860,14 +11853,19 @@ msgctxt "Name"
 msgid "Panel for Netbooks"
 msgstr ""
 
+#: workspace/plasma/netbook/containments/netpanel/plasma-containment-netpanel.desktop:60
+msgctxt "Comment"
+msgid "A containment for a panel"
+msgstr ""
+
 #: workspace/plasma/netbook/containments/sal/plasma-containment-sal.desktop:2
 msgctxt "Name"
-msgid "Search and Launch Containment"
+msgid "Search and Launch"
 msgstr ""
 
 #: workspace/plasma/netbook/containments/sal/plasma-containment-sal.desktop:55
 msgctxt "Comment"
-msgid "Special Containment with Launcher"
+msgid "Full screen application launcher with search interface"
 msgstr ""
 
 #: workspace/plasma/netbook/containments/sal/plasma-sal-menu.desktop:5
@@ -12938,6 +12936,10 @@ msgstr ""
 msgctxt "Name"
 msgid "Red Leaf"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "KDE 2"
+#~ msgstr "KDE 2"
 
 #, fuzzy
 #~| msgctxt "Name"
