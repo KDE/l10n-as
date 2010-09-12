@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-08 01:42+0200\n"
+"POT-Creation-Date: 2010-09-12 01:37+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5630,7 +5630,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: knewstuff/knewstuff3/uploaddialog.cpp:506
-#: khtml/rendering/render_form.cpp:811 kjs/object.cpp:548
+#: khtml/rendering/render_form.cpp:811 kjs/object.cpp:553
 #: kdeui/dialogs/kmessagebox.cpp:834 kdeui/dialogs/kmessagebox.cpp:864
 msgid "Error"
 msgstr "ত্ৰুটি"
@@ -8466,27 +8466,27 @@ msgstr "KDE KApplication সমৰ্থন নোহোৱাকে আৰম�
 msgid "Script to execute"
 msgstr "সঞ্চালনৰ বাবে স্ক্ৰিপ্ট"
 
-#: kjs/object.cpp:549
+#: kjs/object.cpp:554
 msgid "Evaluation error"
 msgstr "বিশ্লেষণ সংক্ৰান্ত ত্ৰুটি"
 
-#: kjs/object.cpp:550
+#: kjs/object.cpp:555
 msgid "Range error"
 msgstr "সীমা সংক্ৰান্ত ত্ৰুটি"
 
-#: kjs/object.cpp:551
+#: kjs/object.cpp:556
 msgid "Reference error"
 msgstr "প্ৰসঙ্গ সম্বন্ধিত ত্ৰুটি"
 
-#: kjs/object.cpp:552
+#: kjs/object.cpp:557
 msgid "Syntax error"
 msgstr "সিন্টেক্স ত্ৰুটি"
 
-#: kjs/object.cpp:553
+#: kjs/object.cpp:558
 msgid "Type error"
 msgstr "ধৰণ সংক্ৰান্ত ত্ৰুটি"
 
-#: kjs/object.cpp:554
+#: kjs/object.cpp:559
 msgid "URI error"
 msgstr "URI সংক্ৰান্ত ত্ৰুটি"
 
