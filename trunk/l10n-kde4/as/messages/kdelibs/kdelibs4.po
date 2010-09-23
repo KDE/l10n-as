@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-21 07:13+0200\n"
+"POT-Creation-Date: 2010-09-23 06:14+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2441,7 +2441,7 @@ msgstr "যোগ কৰক..."
 msgid "Add a new script."
 msgstr "নতুন স্ক্ৰিপ্ট যোগ কৰক ।"
 
-#: kross/ui/view.cpp:329 kdeui/dialogs/kswitchlanguagedialog_p.cpp:300
+#: kross/ui/view.cpp:329 kdeui/dialogs/kswitchlanguagedialog_p.cpp:329
 #: kdeui/util/kstandardguiitem.cpp:291
 msgid "Remove"
 msgstr "আঁতৰাওঁক"
@@ -8707,15 +8707,15 @@ msgstr "'%1' বিন্যাস পোৱা নাযায়"
 msgid "Switch Application Language"
 msgstr "অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰক"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:107
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:108
 msgid "Please choose the language which should be used for this application:"
 msgstr "অনুগ্ৰহ কৰি অনুপ্ৰয়োগে ব্যৱহাৰ কৰাৰ উদ্দেশ্যে প্ৰযোজ্য ভাষা নিৰ্ব্বাচন কৰক:"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:135
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:136
 msgid "Add Fallback Language"
 msgstr "বিকল্প ভাষা যোগ কৰক"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:136
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:137
 msgid ""
 "Adds one more language which will be used if other translations do not "
 "contain a proper translation."
@@ -8723,7 +8723,8 @@ msgstr ""
 "ব্যৱহাৰৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে বিকল্প হিচাপে "
 "ব্যৱহাৰৰ উদ্দেশ্যে চিহ্নিত পৃথক এটা ভাষা যোগ কৰা হয় ।"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:226
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:255
 msgid ""
 "The language for this application has been changed. The change will take "
 "effect the next time the application is started."
@@ -8731,19 +8732,20 @@ msgstr ""
 "চিহ্নিত অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰা হৈছে । অনুপ্ৰয়োগ পুনৰাৰম্ভ কৰা হ'লে এই পৰিবৰ্তন "
 "প্ৰয়োগ কৰা হ'ব ।"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:228
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:256
 msgid "Application Language Changed"
 msgstr "অনুপ্ৰয়োগত ব্যৱহৃত ভাষা ব্যৱহৃত হৈছে"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:280
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:309
 msgid "Primary language:"
 msgstr "প্ৰধান ভাষা:"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:280
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:309
 msgid "Fallback language:"
 msgstr "অবিকল্পিত ভাষা:"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:311
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:340
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
@@ -8751,7 +8753,7 @@ msgstr ""
 "এই অনুপ্ৰয়োগৰ বাবে অন্যান্য কোনো ভাষা ব্যৱহাৰ কৰাৰ আগতে চিহ্নিত ভাষা প্ৰয়োগ কৰা হ'ব "
 "।"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:312
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:341
 msgid ""
 "This is the language which will be used if any previous languages do not "
 "contain a proper translation."
