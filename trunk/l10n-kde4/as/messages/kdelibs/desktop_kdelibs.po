@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-25 04:29+0000\n"
+"POT-Creation-Date: 2010-09-30 04:24+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1407,6 +1407,16 @@ msgstr "KFileWrite প্লাগ-ইন"
 msgctxt "Name"
 msgid "KScan"
 msgstr "KScan"
+
+#: kio/kssl/kcm/kcm_ssl.desktop:11
+msgctxt "Name"
+msgid "SSL Preferences"
+msgstr ""
+
+#: kio/kssl/kcm/kcm_ssl.desktop:12
+msgctxt "Comment"
+msgid "SSL Versions and Certificates"
+msgstr ""
 
 #: kio/kurifilterplugin.desktop:4
 msgctxt "Name"
