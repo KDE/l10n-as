@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-01 04:40+0000\n"
+"POT-Creation-Date: 2010-10-02 04:27+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1413,7 +1413,7 @@ msgctxt "Name"
 msgid "SSL Preferences"
 msgstr ""
 
-#: kio/kssl/kcm/kcm_ssl.desktop:13
+#: kio/kssl/kcm/kcm_ssl.desktop:19
 msgctxt "Comment"
 msgid "SSL Versions and Certificates"
 msgstr ""
