@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-01 06:12+0200\n"
+"POT-Creation-Date: 2010-10-05 07:01+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6671,7 +6671,7 @@ msgstr "ফিল্টাৰলৈ URL যোগ কৰা হ'ব"
 msgid "Enter the URL:"
 msgstr "URL উল্লেখ কৰক:"
 
-#: khtml/khtml_ext.cpp:878
+#: khtml/khtml_ext.cpp:879
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -6679,32 +6679,32 @@ msgstr ""
 "\"%1\" নামক এটা নথিপত্ৰ বৰ্তমানে উপস্থিত আছে । আপুনি নিশ্চিতৰূপে সেইটো আঁতৰাবলৈ "
 "ইচ্ছুক ?"
 
-#: khtml/khtml_ext.cpp:878 kdewebkit/kwebpage.cpp:71
+#: khtml/khtml_ext.cpp:879 kdewebkit/kwebpage.cpp:72
 msgid "Overwrite File?"
 msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেকি ?"
 
-#: khtml/khtml_ext.cpp:878
+#: khtml/khtml_ext.cpp:879
 msgid "Overwrite"
 msgstr "নতুনকৈ লিখা হ'ব"
 
-#: khtml/khtml_ext.cpp:939 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:386
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Download Manager (%1) ক আপোনাৰ $PATH ত পোৱা ন'গ'ল"
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:387
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:387
 msgid ""
 "Try to reinstall it  \n"
 "\n"
 "The integration with Konqueror will be disabled."
 msgstr ""
 
-#: khtml/khtml_ext.cpp:1022
+#: khtml/khtml_ext.cpp:1023
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "আখৰৰ অবিকল্পিত মাপ (১০০%)"
 
-#: khtml/khtml_ext.cpp:1035 kdeui/jobs/kwidgetjobtracker.cpp:376
+#: khtml/khtml_ext.cpp:1036 kdeui/jobs/kwidgetjobtracker.cpp:376
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
@@ -10685,7 +10685,7 @@ msgstr "KDE বিন্যাস পুনঃ তুলি লোৱা হ'ব
 msgid "No further items in the history."
 msgstr "পূৰ্ববৰ্তী তথ্যৰ তালিকাত আৰু কোনো তথ্য নাই ।"
 
-#: kdeui/widgets/ksqueezedtextlabel.cpp:167
+#: kdeui/widgets/ksqueezedtextlabel.cpp:165
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
 
