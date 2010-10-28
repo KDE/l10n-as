@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: imagerename_plugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-03 04:52+0200\n"
+"POT-Creation-Date: 2010-10-28 06:07+0200\n"
 "PO-Revision-Date: 2009-01-05 15:52+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: image_plugin.cpp:71
+#: image_plugin.cpp:72
 msgid "You want to overwrite the left picture with the one on the right."
 msgstr "আপুনি বাওঁফালৰ ছবিক সোঁফালৰ ছবিৰে পুনঃ লিখিব বিচাৰিছে ।"
 
