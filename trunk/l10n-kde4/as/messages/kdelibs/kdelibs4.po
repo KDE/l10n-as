@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-10 06:13+0100\n"
+"POT-Creation-Date: 2010-11-11 06:15+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2973,42 +2973,42 @@ msgctxt "option:radio A filter on the rating of a resource"
 msgid "Max Rating"
 msgstr "গুৰুত্বৰ মান:"
 
-#: kinit/klauncher.cpp:562
+#: kinit/klauncher.cpp:563
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
-#: kinit/klauncher.cpp:737 kinit/klauncher.cpp:766 kinit/klauncher.cpp:781
+#: kinit/klauncher.cpp:738 kinit/klauncher.cpp:767 kinit/klauncher.cpp:782
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: kinit/klauncher.cpp:800
+#: kinit/klauncher.cpp:801
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr ""
 
-#: kinit/klauncher.cpp:802 kinit/klauncher.cpp:838
+#: kinit/klauncher.cpp:803 kinit/klauncher.cpp:839
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' সেৱা ত্ৰুটিপূৰ্ণ ৰূপে গঠিত হৈছে ।"
 
-#: kinit/klauncher.cpp:924
+#: kinit/klauncher.cpp:925
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 লঞ্চ কৰা হৈছে"
 
-#: kinit/klauncher.cpp:1128
+#: kinit/klauncher.cpp:1127
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 
-#: kinit/klauncher.cpp:1189
+#: kinit/klauncher.cpp:1188
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
 
-#: kinit/kinit.cpp:525
+#: kinit/kinit.cpp:527
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -3018,7 +3018,7 @@ msgstr ""
 "সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা আপোনাৰ "
 "ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
 
-#: kinit/kinit.cpp:544
+#: kinit/kinit.cpp:546
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -3028,12 +3028,12 @@ msgstr ""
 "সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
 
-#: kinit/kinit.cpp:640
+#: kinit/kinit.cpp:642
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
 
-#: kinit/kinit.cpp:658
+#: kinit/kinit.cpp:660
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -3042,7 +3042,7 @@ msgstr ""
 "লাইব্ৰেৰি '%1' খোলা নাযায় ।\n"
 "%2"
 
-#: kinit/kinit.cpp:704
+#: kinit/kinit.cpp:706
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -4640,7 +4640,7 @@ msgstr ""
 msgid "Could not launch Terminal Client"
 msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdecore/kernel/kaboutdata.cpp:257
+#: kdecore/kernel/kaboutdata.cpp:271
 msgid ""
 "No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
@@ -4650,92 +4650,92 @@ msgstr ""
 "অনুগ্ৰহ কৰি, প্ৰমাণপত্ৰ সংক্ৰান্ত কোনো তথ্যৰ বাবে প্ৰোগ্ৰামৰ সৈতে প্ৰাপ্ত নথিপত্ৰ বা মূল "
 "উৎস পৰীক্ষা কৰক ।\n"
 
-#: kdecore/kernel/kaboutdata.cpp:263
+#: kdecore/kernel/kaboutdata.cpp:277
 #, kde-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "%1 ৰ শৰ্তাধীন এই প্ৰোগ্ৰাম বিতৰণ কৰা হৈছে ।"
 
-#: kdecore/kernel/kaboutdata.cpp:289
+#: kdecore/kernel/kaboutdata.cpp:302
 msgctxt "@item license (short name)"
 msgid "GPL v2"
 msgstr "GPL v2"
 
-#: kdecore/kernel/kaboutdata.cpp:290
+#: kdecore/kernel/kaboutdata.cpp:303
 msgctxt "@item license"
 msgid "GNU General Public License Version 2"
 msgstr "GNU General Public License Version 2"
 
-#: kdecore/kernel/kaboutdata.cpp:293
+#: kdecore/kernel/kaboutdata.cpp:306
 msgctxt "@item license (short name)"
 msgid "LGPL v2"
 msgstr "LGPL v2"
 
-#: kdecore/kernel/kaboutdata.cpp:294
+#: kdecore/kernel/kaboutdata.cpp:307
 msgctxt "@item license"
 msgid "GNU Lesser General Public License Version 2"
 msgstr "GNU Lesser General Public License Version 2"
 
-#: kdecore/kernel/kaboutdata.cpp:297
+#: kdecore/kernel/kaboutdata.cpp:310
 msgctxt "@item license (short name)"
 msgid "BSD License"
 msgstr "BSD License"
 
-#: kdecore/kernel/kaboutdata.cpp:298
+#: kdecore/kernel/kaboutdata.cpp:311
 msgctxt "@item license"
 msgid "BSD License"
 msgstr "BSD License"
 
-#: kdecore/kernel/kaboutdata.cpp:301
+#: kdecore/kernel/kaboutdata.cpp:314
 msgctxt "@item license (short name)"
 msgid "Artistic License"
 msgstr "শিল্পকাৰ্য্য সংক্ৰান্ত প্ৰমাণপত্ৰ"
 
-#: kdecore/kernel/kaboutdata.cpp:302
+#: kdecore/kernel/kaboutdata.cpp:315
 msgctxt "@item license"
 msgid "Artistic License"
 msgstr "শিল্পকাৰ্য্য সংক্ৰান্ত প্ৰমাণপত্ৰ"
 
-#: kdecore/kernel/kaboutdata.cpp:305
+#: kdecore/kernel/kaboutdata.cpp:318
 msgctxt "@item license (short name)"
 msgid "QPL v1.0"
 msgstr "QPL v1.0"
 
-#: kdecore/kernel/kaboutdata.cpp:306
+#: kdecore/kernel/kaboutdata.cpp:319
 msgctxt "@item license"
 msgid "Q Public License"
 msgstr "Q Public License"
 
-#: kdecore/kernel/kaboutdata.cpp:309
+#: kdecore/kernel/kaboutdata.cpp:322
 msgctxt "@item license (short name)"
 msgid "GPL v3"
 msgstr "GPL v3"
 
-#: kdecore/kernel/kaboutdata.cpp:310
+#: kdecore/kernel/kaboutdata.cpp:323
 msgctxt "@item license"
 msgid "GNU General Public License Version 3"
 msgstr "GNU General Public License Version 3"
 
-#: kdecore/kernel/kaboutdata.cpp:313
+#: kdecore/kernel/kaboutdata.cpp:326
 msgctxt "@item license (short name)"
 msgid "LGPL v3"
 msgstr "LGPL v3"
 
-#: kdecore/kernel/kaboutdata.cpp:314
+#: kdecore/kernel/kaboutdata.cpp:327
 msgctxt "@item license"
 msgid "GNU Lesser General Public License Version 3"
 msgstr "GNU Lesser General Public License Version 3"
 
-#: kdecore/kernel/kaboutdata.cpp:318
+#: kdecore/kernel/kaboutdata.cpp:331
 msgctxt "@item license"
 msgid "Custom"
 msgstr "স্বনিৰ্ধাৰিত"
 
-#: kdecore/kernel/kaboutdata.cpp:321
+#: kdecore/kernel/kaboutdata.cpp:334
 msgctxt "@item license"
 msgid "Not specified"
 msgstr "উল্লেখিত নহয়"
 
-#: kdecore/kernel/kaboutdata.cpp:873
+#: kdecore/kernel/kaboutdata.cpp:875
 msgctxt "replace this with information about your translation team"
 msgid ""
 "<p>KDE is translated into many languages thanks to the work of the "
@@ -8298,7 +8298,7 @@ msgid "(No logo available)"
 msgstr "(প্ৰতীকচিহ্ন অনুপস্থিত)"
 
 #: kde3support/kdeui/k3aboutdialog.cpp:1044
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:87
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:92
 #: kdeui/dialogs/kmessagebox.cpp:1042 kdeui/widgets/khelpmenu.cpp:264
 #, kde-format
 msgid "About %1"
@@ -8326,7 +8326,7 @@ msgstr "??"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:51
 #: kde3support/kdeui/k3aboutapplication.cpp:77
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:158
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:166
 msgid "&About"
 msgstr "বিষয়ে (&A)"
 
@@ -8339,17 +8339,17 @@ msgstr ""
 "উল্লেখিত KAboutData অৱজেক্ট বৰ্তমানে উপস্থিত নাই ।"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:95
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:168
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:221
 msgid "A&uthor"
 msgstr "লেখক (&u)"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:95
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:168
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:221
 msgid "A&uthors"
 msgstr "লেখকবৃন্দ (&u)"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:107
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:173
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:185
 msgid ""
 "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report "
 "bugs.\n"
@@ -8359,19 +8359,19 @@ msgstr ""
 
 #: kde3support/kdeui/k3aboutapplication.cpp:111
 #: kde3support/kdeui/k3aboutapplication.cpp:114
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:176
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:181
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:189
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:194
 #, kde-format
 msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr "অনুগ্ৰহ কৰি <a href=\"mailto:%1\">%2</a> ত বাগ প্ৰতিবেদন কৰক ।\n"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:137
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:235
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:248
 msgid "&Thanks To"
 msgstr "ধন্যবাদ জনোৱা হৈছে (&T)"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:164
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:258
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:286
 msgid "T&ranslation"
 msgstr "অনুবাদ (&r)"
 
@@ -8922,19 +8922,19 @@ msgstr "অকল পৰীক্ষামূলকভাবে তালিক�
 msgid "Track menu id for debug purposes"
 msgstr "ডিবাগ কৰাৰ উদ্দেশ্যে তালিকা id নিৰীক্ষণ কৰা হ'ব"
 
-#: kpty/kptydevice.cpp:306
+#: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
 msgstr "PTY ৰ পৰা পঢ়োঁতে সমস্যা"
 
-#: kpty/kptydevice.cpp:340
+#: kpty/kptydevice.cpp:356
 msgid "Error writing to PTY"
 msgstr "PTY লৈ লিখোঁতে সমস্যা"
 
-#: kpty/kptydevice.cpp:425
+#: kpty/kptydevice.cpp:441
 msgid "PTY operation timed out"
 msgstr "PTY কাৰ্য্যৰ সময় পূৰ্ণ হৈছে"
 
-#: kpty/kptydevice.cpp:481 kpty/kptydevice.cpp:495
+#: kpty/kptydevice.cpp:497 kpty/kptydevice.cpp:511
 msgid "Error opening PTY"
 msgstr "PTY খোলোঁতে সমস্যা"
 
@@ -9031,7 +9031,7 @@ msgstr ""
 #: kdeui/shortcuts/kglobalaccel.cpp:586
 #: kdeui/widgets/kkeysequencewidget.cpp:184
 #: kdeui/widgets/kkeysequencewidget.cpp:273
-#: kdeui/widgets/kkeysequencewidget.cpp:669
+#: kdeui/widgets/kkeysequencewidget.cpp:670
 msgid "Reassign"
 msgstr "পুনঃ নিৰ্ধাৰণ"
 
@@ -9357,13 +9357,13 @@ msgstr "লিঙ্কৰ লিপি:"
 msgid "Link URL:"
 msgstr "লিঙ্কৰ URL:"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:79
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
 "<qt>No information available.<br />The supplied KAboutData object does not "
 "exist.</qt>"
 msgstr "<qt>কোনো তথ্য উপলব্ধ নাই ।<br />উল্লেখিত KAboutData object অনুপস্থিত ।</qt>"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:107
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:113
 #, fuzzy, kde-format
 #| msgid ""
 #| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %"
@@ -9374,7 +9374,7 @@ msgstr ""
 "<html><font size=\"5\">%1</font><br /><b>সংস্কৰণ %2</b><br />KDE %3 "
 "ব্যৱহাৰকৰোঁতা</html>"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:111
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:117
 #, fuzzy, kde-format
 #| msgid ""
 #| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %"
@@ -9389,28 +9389,12 @@ msgstr ""
 "<html><font size=\"5\">%1</font><br /><b>সংস্কৰণ %2</b><br />KDE %3 "
 "ব্যৱহাৰকৰোঁতা</html>"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:145
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:153
 #, kde-format
 msgid "License: %1"
 msgstr "প্ৰমাণপত্ৰ: %1"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:194
-#, fuzzy, kde-format
-#| msgctxt "@application/plain"
-#| msgid "%1"
-msgctxt "@item Author name in about dialog"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:219
-#, fuzzy, kde-format
-#| msgctxt "@application/plain"
-#| msgid "%1"
-msgctxt "@item Contributor name in about dialog."
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:282
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:311
 msgid "License Agreement"
 msgstr "প্ৰমাণপত্ৰ সংক্ৰান্ত চুক্তি"
 
@@ -9766,7 +9750,7 @@ msgstr "অবিকল্পিত মান:"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:60
 #: kdeui/dialogs/kshortcuteditwidget.cpp:63
-#: kdeui/widgets/kkeysequencewidget.cpp:703
+#: kdeui/widgets/kkeysequencewidget.cpp:704
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "শূণ্য"
@@ -9886,6 +9870,54 @@ msgstr "গোপনীয়"
 msgctxt "Banner page"
 msgid "Top Secret"
 msgstr "অত্যন্ত গোপনীয়"
+
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:60
+#, fuzzy
+#| msgid "Other Contributors:"
+msgid "Email contributor"
+msgstr "অন্যান্য যোগদানকাৰী:"
+
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:65
+#, fuzzy
+#| msgid "Homepage"
+msgid "Visit contributor's homepage"
+msgstr "হোম পৃষ্ঠা"
+
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:152
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:173
+#, kde-format
+msgid ""
+"Visit contributor's profile on %1\n"
+"%2"
+msgstr ""
+
+#: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:184
+#, fuzzy, kde-format
+#| msgctxt "concatenation of dates and time"
+#| msgid "%1 %2"
+msgctxt "City, Country"
+msgid "%1, %2"
+msgstr "%1 %2"
+
+#: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:258
+#, fuzzy
+#| msgctxt "@item Text character set"
+#| msgid "Other"
+msgctxt "A generic social network or homepage link of an unlisted type."
+msgid "Other"
+msgstr "অন্য"
+
+#: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:260
+msgctxt "A type of link."
+msgid "Blog"
+msgstr ""
+
+#: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:268
+#, fuzzy
+#| msgid "Homepage"
+msgctxt "A type of link."
+msgid "Homepage"
+msgstr "হোম পৃষ্ঠা"
 
 #: kdeui/fonts/kfontdialog.cpp:75
 msgid "Select Font"
@@ -12664,30 +12696,30 @@ msgid ""
 "<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:313
+#: kdeui/widgets/kkeysequencewidget.cpp:314
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
 "Example for Ctrl+a: hold the Ctrl key and press a."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:522
+#: kdeui/widgets/kkeysequencewidget.cpp:523
 #, fuzzy
 #| msgid "New Web Shortcut"
 msgid "Reserved Shortcut"
 msgstr "নতুন ৱেব চমু পথ"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:523
+#: kdeui/widgets/kkeysequencewidget.cpp:524
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
 "Please choose another one."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:663
+#: kdeui/widgets/kkeysequencewidget.cpp:664
 msgid "Conflict with Standard Application Shortcut"
 msgstr "অনুপ্ৰয়োগৰ মানপ্ৰাপ্ত চমু পথৰ সৈতে দ্বন্দ্ব"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:664
+#: kdeui/widgets/kkeysequencewidget.cpp:665
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -12695,16 +12727,16 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:696
+#: kdeui/widgets/kkeysequencewidget.cpp:697
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "নিবেশ"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:746
+#: kdeui/widgets/kkeysequencewidget.cpp:747
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:747
+#: kdeui/widgets/kkeysequencewidget.cpp:748
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
 
@@ -13716,6 +13748,20 @@ msgid "pm"
 msgstr "pm"
 
 #, fuzzy
+#~| msgctxt "@application/plain"
+#~| msgid "%1"
+#~ msgctxt "@item Author name in about dialog"
+#~ msgid "%1"
+#~ msgstr "%1"
+
+#, fuzzy
+#~| msgctxt "@application/plain"
+#~| msgid "%1"
+#~ msgctxt "@item Contributor name in about dialog."
+#~ msgid "%1"
+#~ msgstr "%1"
+
+#, fuzzy
 #~| msgid "Meta"
 #~ msgctxt "option:check A filter on file type - media files"
 #~ msgid "Media"
@@ -13828,12 +13874,6 @@ msgstr "pm"
 
 #~ msgid "Tag Exists"
 #~ msgstr "টেগ উপস্থিত আছে"
-
-#, fuzzy
-#~| msgid "Homepage"
-#~ msgctxt "A link to the description of this Get Hot New Stuff item"
-#~ msgid "Visit homepage..."
-#~ msgstr "হোম পৃষ্ঠা"
 
 #, fuzzy
 #~| msgid "Loading Preview"
