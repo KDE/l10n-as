@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-20 06:28+0100\n"
+"POT-Creation-Date: 2010-11-23 07:14+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6571,7 +6571,7 @@ msgstr "চিহ্নিত কলঘৰ দ্বাৰা সুনিৰ্
 msgid "KLibLoader: Unknown error"
 msgstr "KLibLoader: অজ্ঞাত ত্ৰুটি"
 
-#: kdecore/util/kpluginloader.cpp:142 kdecore/util/kpluginloader.cpp:175
+#: kdecore/util/kpluginloader.cpp:142 kdecore/util/kpluginloader.cpp:173
 #, fuzzy, kde-format
 #| msgid ""
 #| "Could not find 'kdemain' in '%1'.\n"
@@ -6581,11 +6581,11 @@ msgstr ""
 "'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
 "%2"
 
-#: kdecore/util/kpluginloader.cpp:161
+#: kdecore/util/kpluginloader.cpp:159
 msgid "The provided service is not valid"
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:167
+#: kdecore/util/kpluginloader.cpp:165
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' provides no library or the Library key is missing in "
@@ -6595,12 +6595,12 @@ msgstr ""
 "'%1' সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা নহয় বা .desktop নথিপত্ৰত Library চাবি "
 "অনুপস্থিত ।"
 
-#: kdecore/util/kpluginloader.cpp:215
+#: kdecore/util/kpluginloader.cpp:211
 #, kde-format
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr "%1 লাইব্ৰেৰি দ্বাৰা, KDE 4 ৰ সৈতে সুসংগত কলঘৰ উপলব্ধ কৰা নহয় ।"
 
-#: kdecore/util/kpluginloader.cpp:243
+#: kdecore/util/kpluginloader.cpp:242
 #, kde-format
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr "'%1' প্লাগ-ইন দ্বাৰা বিসংগত KDE লাইব্ৰেৰি ব্যৱহাৰ কৰা হয় (%2) ।"
