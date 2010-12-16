@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-10 02:18+0100\n"
+"POT-Creation-Date: 2010-12-16 02:07+0100\n"
 "PO-Revision-Date: 2009-01-15 15:43+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -246,7 +246,7 @@ msgstr ""
 "বেটেৰি সংযোগক্ষেত্ৰৰ সৈতে সংযোগ কৰিব নোৱাৰি!\n"
 "অনুগ্ৰহ কৰি আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ বিন্যাস পৰীক্ষা কৰক"
 
-#: powerdevilcore.cpp:425
+#: powerdevilcore.cpp:415
 #, fuzzy
 #| msgid "The power adaptor has been plugged in"
 msgid ""
@@ -254,19 +254,19 @@ msgid ""
 "been cancelled"
 msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ সংযুক্ত কৰা হৈছে"
 
-#: powerdevilcore.cpp:427
+#: powerdevilcore.cpp:417
 #, fuzzy
 #| msgid "The power adaptor has been plugged in"
 msgid "The power adaptor has been plugged in."
 msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ সংযুক্ত কৰা হৈছে"
 
-#: powerdevilcore.cpp:430
+#: powerdevilcore.cpp:420
 #, fuzzy
 #| msgid "The power adaptor has been unplugged"
 msgid "The power adaptor has been unplugged."
 msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ বিচ্ছিন্ন কৰা হৈছে"
 
-#: powerdevilcore.cpp:436
+#: powerdevilcore.cpp:426
 #, kde-format
 msgid ""
 "KDE Power Management System could not be initialized. The backend reported "
@@ -274,31 +274,31 @@ msgid ""
 "Please check your system configuration"
 msgstr ""
 
-#: powerdevilcore.cpp:463
+#: powerdevilcore.cpp:453
 msgid ""
 "Your battery level is critical, the computer will be halted in 30 seconds."
 msgstr ""
 
-#: powerdevilcore.cpp:468
+#: powerdevilcore.cpp:458
 msgid ""
 "Your battery level is critical, the computer will be hibernated in 30 "
 "seconds."
 msgstr ""
 
-#: powerdevilcore.cpp:473
+#: powerdevilcore.cpp:463
 msgid ""
 "Your battery level is critical, the computer will be suspended in 30 seconds."
 msgstr ""
 
-#: powerdevilcore.cpp:478
+#: powerdevilcore.cpp:468
 msgid "Your battery level is critical: save your work as soon as possible."
 msgstr ""
 
-#: powerdevilcore.cpp:484
+#: powerdevilcore.cpp:474
 msgid "Your battery has reached the warning level."
 msgstr ""
 
-#: powerdevilcore.cpp:489
+#: powerdevilcore.cpp:479
 msgid "Your battery has reached a low level."
 msgstr ""
 
