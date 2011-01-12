@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-11 02:41+0100\n"
+"POT-Creation-Date: 2011-01-12 02:25+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6607,16 +6607,16 @@ msgstr "%1 লাইব্ৰেৰি দ্বাৰা, KDE 4 ৰ সৈত�
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr "'%1' প্লাগ-ইন দ্বাৰা বিসংগত KDE লাইব্ৰেৰি ব্যৱহাৰ কৰা হয় (%2) ।"
 
-#: khtml/khtmlview.cpp:1844
+#: khtml/khtmlview.cpp:1842
 msgid "Access Keys activated"
 msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
 
-#: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4761
+#: khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839 khtml/khtml_part.cpp:4761
 #: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: khtml/khtmlview.cpp:2813 khtml/khtmlview.cpp:2846
+#: khtml/khtmlview.cpp:2811 khtml/khtmlview.cpp:2844
 #: khtml/html/html_formimpl.cpp:1836 kdeui/dialogs/kedittoolbar.cpp:602
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
