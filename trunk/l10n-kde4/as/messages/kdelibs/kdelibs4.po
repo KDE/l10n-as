@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-19 02:25+0100\n"
+"POT-Creation-Date: 2011-01-20 02:26+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7541,18 +7541,18 @@ msgstr "ডাউন্‌লোড কৰা ন'হ'ব"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "এইটো এটা অনুসন্ধানযোগ্য ইন্ডেক্স । অনুগ্ৰহ কৰি অনুসন্ধানৰ উদ্দেশ্যে শব্দ লিখক: "
 
-#: khtml/ecma/kjs_html.cpp:2167 khtml/ecma/kjs_window.cpp:1650
+#: khtml/ecma/kjs_html.cpp:2168 khtml/ecma/kjs_window.cpp:1650
 msgid "Confirmation: JavaScript Popup"
 msgstr "নিশ্চায়ন: JavaScript পপ-আপ"
 
-#: khtml/ecma/kjs_html.cpp:2169
+#: khtml/ecma/kjs_html.cpp:2170
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2172
+#: khtml/ecma/kjs_html.cpp:2173
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -7560,11 +7560,11 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2174 khtml/ecma/kjs_window.cpp:1658
+#: khtml/ecma/kjs_html.cpp:2175 khtml/ecma/kjs_window.cpp:1658
 msgid "Allow"
 msgstr "অনুমতি প্ৰদান কৰা হ'ব"
 
-#: khtml/ecma/kjs_html.cpp:2174 khtml/ecma/kjs_window.cpp:1658
+#: khtml/ecma/kjs_html.cpp:2175 khtml/ecma/kjs_window.cpp:1658
 msgid "Do Not Allow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
