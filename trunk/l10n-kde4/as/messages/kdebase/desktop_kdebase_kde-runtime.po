@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-04 02:07+0000\n"
+"POT-Creation-Date: 2011-02-06 02:12+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -47,6 +47,19 @@ msgstr ""
 #: desktoptheme/air/metadata.desktop:74
 msgctxt "Comment"
 msgid "A breath of fresh air"
+msgstr ""
+
+#: desktoptheme/appdashboard/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Name"
+msgid "Application dashboard"
+msgstr "অনুপ্ৰয়োগ"
+
+#: desktoptheme/appdashboard/metadata.desktop:9
+msgctxt "Comment"
+msgid "Intended as Application dashboard default"
 msgstr ""
 
 #: desktoptheme/oxygen/metadata.desktop:2
@@ -6627,10 +6640,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "KDE Eye Candy"
 #~ msgstr "KDE Eye Candy"
-
-#~ msgctxt "Name"
-#~ msgid "Applications"
-#~ msgstr "অনুপ্ৰয়োগ"
 
 #~ msgctxt "Name"
 #~ msgid "Print System Browser"
