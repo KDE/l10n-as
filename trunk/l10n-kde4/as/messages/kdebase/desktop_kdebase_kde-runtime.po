@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-08 02:32+0000\n"
+"POT-Creation-Date: 2011-02-09 02:35+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -57,7 +57,7 @@ msgctxt "Name"
 msgid "Application dashboard"
 msgstr "অনুপ্ৰয়োগ"
 
-#: desktoptheme/appdashboard/metadata.desktop:10
+#: desktoptheme/appdashboard/metadata.desktop:12
 msgctxt "Comment"
 msgid "Intended as Application dashboard default"
 msgstr ""

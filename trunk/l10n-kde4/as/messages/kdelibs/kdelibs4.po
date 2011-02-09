@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-02 03:10+0100\n"
+"POT-Creation-Date: 2011-02-09 02:45+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11378,7 +11378,7 @@ msgstr ""
 "সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা আপোনাৰ "
 "ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
 
-#: kinit/kinit.cpp:546
+#: kinit/kinit.cpp:552
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -11388,12 +11388,12 @@ msgstr ""
 "সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
 
-#: kinit/kinit.cpp:642
+#: kinit/kinit.cpp:647
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
 
-#: kinit/kinit.cpp:660
+#: kinit/kinit.cpp:665
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -11402,7 +11402,7 @@ msgstr ""
 "লাইব্ৰেৰি '%1' খোলা নাযায় ।\n"
 "%2"
 
-#: kinit/kinit.cpp:706
+#: kinit/kinit.cpp:710
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -11411,37 +11411,37 @@ msgstr ""
 "'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
 "%2"
 
-#: kinit/klauncher.cpp:563
+#: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
-#: kinit/klauncher.cpp:738 kinit/klauncher.cpp:767 kinit/klauncher.cpp:782
+#: kinit/klauncher.cpp:745 kinit/klauncher.cpp:774 kinit/klauncher.cpp:789
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: kinit/klauncher.cpp:801
+#: kinit/klauncher.cpp:808
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr ""
 
-#: kinit/klauncher.cpp:803 kinit/klauncher.cpp:839
+#: kinit/klauncher.cpp:810 kinit/klauncher.cpp:846
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' সেৱা ত্ৰুটিপূৰ্ণ ৰূপে গঠিত হৈছে ।"
 
-#: kinit/klauncher.cpp:925
+#: kinit/klauncher.cpp:932
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 লঞ্চ কৰা হৈছে"
 
-#: kinit/klauncher.cpp:1127
+#: kinit/klauncher.cpp:1134
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 
-#: kinit/klauncher.cpp:1188
+#: kinit/klauncher.cpp:1202
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
