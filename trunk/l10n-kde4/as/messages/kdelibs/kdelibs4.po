@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-09 02:45+0100\n"
+"POT-Creation-Date: 2011-02-13 15:29+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10273,6 +10273,211 @@ msgstr "Simon Hausmann"
 msgid "Tobias Anton"
 msgstr "Tobias Anton"
 
+#: khtml/khtml_printsettings.cpp:31
+msgid ""
+"<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, "
+"images contained in the HTML page will be printed. Printing may take longer "
+"and use more ink or toner.</p><p>If this checkbox is disabled, only the text "
+"of the HTML page will be printed, without the included images. Printing will "
+"be faster and use less ink or toner.</p> </qt>"
+msgstr ""
+
+#: khtml/khtml_printsettings.cpp:43
+msgid ""
+"<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, "
+"the printout of the HTML document will contain a header line at the top of "
+"each page. This header contains the current date, the location URL of the "
+"printed page and the page number.</p><p>If this checkbox is disabled, the "
+"printout of the HTML document will not contain such a header line.</p> </qt>"
+msgstr ""
+
+#: khtml/khtml_printsettings.cpp:56
+msgid ""
+"<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
+"enabled, the printout of the HTML document will be black and white only, and "
+"all colored background will be converted into white. Printout will be faster "
+"and use less ink or toner.</p><p>If this checkbox is disabled, the printout "
+"of the HTML document will happen in the original color settings as you see "
+"in your application. This may result in areas of full-page color (or "
+"grayscale, if you use a black+white printer). Printout will possibly happen "
+"more slowly and will probably use more toner or ink.</p> </qt>"
+msgstr ""
+
+#: khtml/khtml_printsettings.cpp:71
+msgid "HTML Settings"
+msgstr "HTML সংক্ৰান্ত বৈশিষ্ট্য"
+
+#: khtml/khtml_printsettings.cpp:73
+msgid "Printer friendly mode (black text, no background)"
+msgstr ""
+
+#: khtml/khtml_printsettings.cpp:76
+msgid "Print images"
+msgstr "ছবি মূদ্ৰণ কৰা হ'ব"
+
+#: khtml/khtml_printsettings.cpp:79
+msgid "Print header"
+msgstr "হেডাৰ মূদ্ৰণ কৰা হ'ব"
+
+#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3939
+#: khtml/khtml_part.cpp:4361 kparts/browserrun.cpp:419
+msgid "Save As"
+msgstr "নতুন ৰূপে সংৰক্ষণ"
+
+#: khtml/khtmladaptorpart.cpp:29
+#, fuzzy
+#| msgctxt "@item font size"
+#| msgid "Relative"
+msgid "Inactive"
+msgstr "আপেক্ষিক"
+
+#: khtml/khtmlimage.cpp:202
+#, kde-format
+msgid "%1 (%2 - %3x%4 Pixels)"
+msgstr "%1 (%2 - %3x%4 পিক্সেল)"
+
+#: khtml/khtmlimage.cpp:204
+#, kde-format
+msgid "%1 - %2x%3 Pixels"
+msgstr "%1 - %2x%3 পিক্সেল"
+
+#: khtml/khtmlimage.cpp:209
+#, kde-format
+msgid "%1 (%2x%3 Pixels)"
+msgstr "%1 (%2x%3 পিক্সেল)"
+
+#: khtml/khtmlimage.cpp:211
+#, kde-format
+msgid "Image - %1x%2 Pixels"
+msgstr "ছবি - %1x%2 পিক্সেল"
+
+#: khtml/khtmlimage.cpp:217
+msgid "Done."
+msgstr "সমাপ্ত ।"
+
+#: khtml/khtmlview.cpp:1842
+msgid "Access Keys activated"
+msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
+
+#: khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839 khtml/khtml_part.cpp:4761
+#: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
+msgid "Submit"
+msgstr "জমা কৰক"
+
+#: khtml/test_regression.cpp:619
+msgid "Directory containing tests, basedir and output directories."
+msgstr "tests, basedir আৰু output পঞ্জিকা ধাৰণকৰা পঞ্জিকা ।"
+
+#: khtml/test_regression.cpp:621
+msgid "Do not suppress debug output"
+msgstr "ডিবাগৰ পৰা প্ৰাপ্ত ফলাফল লুকুৱা ন'হ'ব"
+
+#: khtml/test_regression.cpp:623
+msgid "Regenerate baseline (instead of checking)"
+msgstr "baseline পুনঃ সৃষ্টি কৰক (পৰীক্ষা নকৰি)"
+
+#: khtml/test_regression.cpp:625
+msgid "Do not show the window while running tests"
+msgstr "পৰীক্ষা চলা সময়ত সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা ন'হ'ব"
+
+#: khtml/test_regression.cpp:627
+msgid "Only run a single test. Multiple options allowed."
+msgstr "অকল এটা পৰীক্ষা কৰা হ'ব । একাধিক বিকল্প প্ৰয়োগ কৰা যাব ।"
+
+#: khtml/test_regression.cpp:628
+msgid "Only run .js tests"
+msgstr "অকল .js পৰীক্ষা কৰা হ'ব ।"
+
+#: khtml/test_regression.cpp:629
+msgid "Only run .html tests"
+msgstr "অকল .html পৰীক্ষা কৰা হ'ব ।"
+
+#: khtml/test_regression.cpp:632
+msgid "Put output in &lt;directory&gt; instead of &lt;base_dir&gt;/output"
+msgstr ""
+
+#: khtml/test_regression.cpp:634
+msgid "Use &lt;directory&gt; as reference instead of &lt;base_dir&gt;/baseline"
+msgstr ""
+
+#: khtml/test_regression.cpp:635
+msgid ""
+"Directory containing tests, basedir and output directories. Only regarded if "
+"-b is not specified."
+msgstr ""
+
+#: khtml/test_regression.cpp:636
+msgid ""
+"Relative path to testcase, or directory of testcases to be run (equivalent "
+"to -t)."
+msgstr ""
+
+#: khtml/test_regression.cpp:638
+msgid "TestRegression"
+msgstr "TestRegression"
+
+#: khtml/test_regression.cpp:639
+msgid "Regression tester for khtml"
+msgstr "khtml ৰ কাৰণে Regression tester"
+
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr "TestRegressionGui"
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
+
+#: khtml/test_regression_gui_window.cpp:76
+msgid "Available Tests: 0"
+msgstr "উপলব্ধ পৰীক্ষা: 0"
+
+#: khtml/test_regression_gui_window.cpp:181
+msgid "Please choose a valid 'khtmltests/regression/' directory."
+msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtmltests/regression/' পঞ্জিকা চিনাক্ত কৰক ।"
+
+#: khtml/test_regression_gui_window.cpp:250
+msgid "Please choose a valid 'khtml/' build directory."
+msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtml/' বিল্ড পঞ্জিকা চিনাক্ত কৰক ।"
+
+#: khtml/test_regression_gui_window.cpp:532
+#, kde-format
+msgid "Available Tests: %1 (ignored: %2)"
+msgstr "উপলব্ধ পৰীক্ষা: %1 (উপেক্ষিত: %2)"
+
+#: khtml/test_regression_gui_window.cpp:563
+#: khtml/ecma/debugger/debugwindow.cpp:192
+msgid "Continue"
+msgstr "আগবাঢ়ক"
+
+#: khtml/test_regression_gui_window.cpp:632
+msgid "Cannot find testregression executable."
+msgstr "testregression executable পোৱা নাযায় ।"
+
+#: khtml/test_regression_gui_window.cpp:1102
+msgid "Run test..."
+msgstr "পৰীক্ষণ আৰম্ভ কৰা হ'ব..."
+
+#: khtml/test_regression_gui_window.cpp:1104
+msgid "Add to ignores..."
+msgstr "অগ্ৰাহ্যৰ তালিকাত যোগ কৰা হ'ব..."
+
+#: khtml/test_regression_gui_window.cpp:1105
+msgid "Remove from ignores..."
+msgstr "অগ্ৰাহ্যৰ তালিকাৰ পৰা আঁতৰুৱা হ'ব..."
+
+#: khtml/testkhtml.cpp:39
+msgid "URL to open"
+msgstr "প্ৰদৰ্শনৰ উদ্দেশ্যে URL"
+
+#: khtml/testkhtml.cpp:41
+msgid "Testkhtml"
+msgstr "Testkhtml"
+
+#: khtml/testkhtml.cpp:42
+msgid "a basic web browser using the KHTML library"
+msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
+
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
 msgstr "আলেখ্যনৰ উৎস চাওক (&c)"
@@ -10519,11 +10724,6 @@ msgstr " - CC: "
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3939
-#: khtml/khtml_part.cpp:4361 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:419
-msgid "Save As"
-msgstr "নতুন ৰূপে সংৰক্ষণ"
-
 #: khtml/khtml_part.cpp:3715
 #, kde-format
 msgid ""
@@ -10629,11 +10829,6 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4761 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
-#: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
-msgid "Submit"
-msgstr "জমা কৰক"
-
 #: khtml/khtml_part.cpp:4814
 msgid ""
 "This site attempted to attach a file from your computer in the form "
@@ -10711,52 +10906,6 @@ msgstr ""
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript ৰ নতুন সংযোগক্ষেত্ৰ সংক্ৰান্ত নিয়মনীতি বিন্যাস কৰক...&C"
 
-#: khtml/khtml_printsettings.cpp:31
-msgid ""
-"<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, "
-"images contained in the HTML page will be printed. Printing may take longer "
-"and use more ink or toner.</p><p>If this checkbox is disabled, only the text "
-"of the HTML page will be printed, without the included images. Printing will "
-"be faster and use less ink or toner.</p> </qt>"
-msgstr ""
-
-#: khtml/khtml_printsettings.cpp:43
-msgid ""
-"<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, "
-"the printout of the HTML document will contain a header line at the top of "
-"each page. This header contains the current date, the location URL of the "
-"printed page and the page number.</p><p>If this checkbox is disabled, the "
-"printout of the HTML document will not contain such a header line.</p> </qt>"
-msgstr ""
-
-#: khtml/khtml_printsettings.cpp:56
-msgid ""
-"<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
-"enabled, the printout of the HTML document will be black and white only, and "
-"all colored background will be converted into white. Printout will be faster "
-"and use less ink or toner.</p><p>If this checkbox is disabled, the printout "
-"of the HTML document will happen in the original color settings as you see "
-"in your application. This may result in areas of full-page color (or "
-"grayscale, if you use a black+white printer). Printout will possibly happen "
-"more slowly and will probably use more toner or ink.</p> </qt>"
-msgstr ""
-
-#: khtml/khtml_printsettings.cpp:71
-msgid "HTML Settings"
-msgstr "HTML সংক্ৰান্ত বৈশিষ্ট্য"
-
-#: khtml/khtml_printsettings.cpp:73
-msgid "Printer friendly mode (black text, no background)"
-msgstr ""
-
-#: khtml/khtml_printsettings.cpp:76
-msgid "Print images"
-msgstr "ছবি মূদ্ৰণ কৰা হ'ব"
-
-#: khtml/khtml_printsettings.cpp:79
-msgid "Print header"
-msgstr "হেডাৰ মূদ্ৰণ কৰা হ'ব"
-
 #: khtml/khtml_settings.cpp:235
 msgid "Accept"
 msgstr "গ্ৰহণ কৰা হ'ব"
@@ -10768,155 +10917,6 @@ msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
 #: khtml/khtml_settings.cpp:916
 msgid "Filter error"
 msgstr "ফিল্টাৰ সংক্ৰান্ত ত্ৰুটি"
-
-#: khtml/khtmladaptorpart.cpp:29
-#, fuzzy
-#| msgctxt "@item font size"
-#| msgid "Relative"
-msgid "Inactive"
-msgstr "আপেক্ষিক"
-
-#: khtml/khtmlimage.cpp:202
-#, kde-format
-msgid "%1 (%2 - %3x%4 Pixels)"
-msgstr "%1 (%2 - %3x%4 পিক্সেল)"
-
-#: khtml/khtmlimage.cpp:204
-#, kde-format
-msgid "%1 - %2x%3 Pixels"
-msgstr "%1 - %2x%3 পিক্সেল"
-
-#: khtml/khtmlimage.cpp:209
-#, kde-format
-msgid "%1 (%2x%3 Pixels)"
-msgstr "%1 (%2x%3 পিক্সেল)"
-
-#: khtml/khtmlimage.cpp:211
-#, kde-format
-msgid "Image - %1x%2 Pixels"
-msgstr "ছবি - %1x%2 পিক্সেল"
-
-#: khtml/khtmlimage.cpp:217
-msgid "Done."
-msgstr "সমাপ্ত ।"
-
-#: khtml/khtmlview.cpp:1842
-msgid "Access Keys activated"
-msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
-
-#: khtml/test_regression.cpp:619
-msgid "Directory containing tests, basedir and output directories."
-msgstr "tests, basedir আৰু output পঞ্জিকা ধাৰণকৰা পঞ্জিকা ।"
-
-#: khtml/test_regression.cpp:621
-msgid "Do not suppress debug output"
-msgstr "ডিবাগৰ পৰা প্ৰাপ্ত ফলাফল লুকুৱা ন'হ'ব"
-
-#: khtml/test_regression.cpp:623
-msgid "Regenerate baseline (instead of checking)"
-msgstr "baseline পুনঃ সৃষ্টি কৰক (পৰীক্ষা নকৰি)"
-
-#: khtml/test_regression.cpp:625
-msgid "Do not show the window while running tests"
-msgstr "পৰীক্ষা চলা সময়ত সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা ন'হ'ব"
-
-#: khtml/test_regression.cpp:627
-msgid "Only run a single test. Multiple options allowed."
-msgstr "অকল এটা পৰীক্ষা কৰা হ'ব । একাধিক বিকল্প প্ৰয়োগ কৰা যাব ।"
-
-#: khtml/test_regression.cpp:628
-msgid "Only run .js tests"
-msgstr "অকল .js পৰীক্ষা কৰা হ'ব ।"
-
-#: khtml/test_regression.cpp:629
-msgid "Only run .html tests"
-msgstr "অকল .html পৰীক্ষা কৰা হ'ব ।"
-
-#: khtml/test_regression.cpp:632
-msgid "Put output in &lt;directory&gt; instead of &lt;base_dir&gt;/output"
-msgstr ""
-
-#: khtml/test_regression.cpp:634
-msgid "Use &lt;directory&gt; as reference instead of &lt;base_dir&gt;/baseline"
-msgstr ""
-
-#: khtml/test_regression.cpp:635
-msgid ""
-"Directory containing tests, basedir and output directories. Only regarded if "
-"-b is not specified."
-msgstr ""
-
-#: khtml/test_regression.cpp:636
-msgid ""
-"Relative path to testcase, or directory of testcases to be run (equivalent "
-"to -t)."
-msgstr ""
-
-#: khtml/test_regression.cpp:638
-msgid "TestRegression"
-msgstr "TestRegression"
-
-#: khtml/test_regression.cpp:639
-msgid "Regression tester for khtml"
-msgstr "khtml ৰ কাৰণে Regression tester"
-
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr "TestRegressionGui"
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
-
-#: khtml/test_regression_gui_window.cpp:76
-msgid "Available Tests: 0"
-msgstr "উপলব্ধ পৰীক্ষা: 0"
-
-#: khtml/test_regression_gui_window.cpp:181
-msgid "Please choose a valid 'khtmltests/regression/' directory."
-msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtmltests/regression/' পঞ্জিকা চিনাক্ত কৰক ।"
-
-#: khtml/test_regression_gui_window.cpp:250
-msgid "Please choose a valid 'khtml/' build directory."
-msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtml/' বিল্ড পঞ্জিকা চিনাক্ত কৰক ।"
-
-#: khtml/test_regression_gui_window.cpp:532
-#, kde-format
-msgid "Available Tests: %1 (ignored: %2)"
-msgstr "উপলব্ধ পৰীক্ষা: %1 (উপেক্ষিত: %2)"
-
-#: khtml/test_regression_gui_window.cpp:563
-#: khtml/ecma/debugger/debugwindow.cpp:192
-msgid "Continue"
-msgstr "আগবাঢ়ক"
-
-#: khtml/test_regression_gui_window.cpp:632
-msgid "Cannot find testregression executable."
-msgstr "testregression executable পোৱা নাযায় ।"
-
-#: khtml/test_regression_gui_window.cpp:1102
-msgid "Run test..."
-msgstr "পৰীক্ষণ আৰম্ভ কৰা হ'ব..."
-
-#: khtml/test_regression_gui_window.cpp:1104
-msgid "Add to ignores..."
-msgstr "অগ্ৰাহ্যৰ তালিকাত যোগ কৰা হ'ব..."
-
-#: khtml/test_regression_gui_window.cpp:1105
-msgid "Remove from ignores..."
-msgstr "অগ্ৰাহ্যৰ তালিকাৰ পৰা আঁতৰুৱা হ'ব..."
-
-#: khtml/testkhtml.cpp:39
-msgid "URL to open"
-msgstr "প্ৰদৰ্শনৰ উদ্দেশ্যে URL"
-
-#: khtml/testkhtml.cpp:41
-msgid "Testkhtml"
-msgstr "Testkhtml"
-
-#: khtml/testkhtml.cpp:42
-msgid "a basic web browser using the KHTML library"
-msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
 
 #: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
@@ -11016,18 +11016,6 @@ msgstr "সন্নিবেশ কৰক"
 #: khtml/ecma/kjs_window.cpp:2883
 msgid "Disallow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
-
-#: khtml/ecma/debugger/callstackdock.cpp:37
-msgid "Call Stack"
-msgstr "Call Stack"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-msgid "Call"
-msgstr "কল"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-msgid "Line"
-msgstr "ৰেখা"
 
 #: khtml/ecma/debugger/consoledock.cpp:220
 msgid "Console"
@@ -11141,6 +11129,18 @@ msgstr "প্ৰতিনিৰ্দেশ"
 #: khtml/ecma/debugger/scriptsdock.cpp:43
 msgid "Loaded Scripts"
 msgstr "স্ক্ৰিপ্ট তুলি লোৱা হৈছে"
+
+#: khtml/ecma/debugger/callstackdock.cpp:37
+msgid "Call Stack"
+msgstr "Call Stack"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+msgid "Call"
+msgstr "কল"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+msgid "Line"
+msgstr "ৰেখা"
 
 #: khtml/html/html_formimpl.cpp:422
 msgid ""
