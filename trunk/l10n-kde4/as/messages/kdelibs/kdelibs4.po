@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-26 03:40+0100\n"
+"POT-Creation-Date: 2011-02-27 03:39+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9919,98 +9919,106 @@ msgstr "প্ৰদেশ"
 msgid "Comment"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktoolbar.cpp:272
+#: kdeui/widgets/ktoolbar.cpp:291
+#, fuzzy
+#| msgid "Show help"
+msgctxt "@title:menu"
+msgid "Show Text"
+msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
+
+#: kdeui/widgets/ktoolbar.cpp:294
 #, fuzzy
 #| msgid "Toolbar Menu"
+msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "টুল-বাৰ তালিকা"
 
-#: kdeui/widgets/ktoolbar.cpp:274
+#: kdeui/widgets/ktoolbar.cpp:296
 msgid "Orientation"
 msgstr "দিশ"
 
-#: kdeui/widgets/ktoolbar.cpp:276
+#: kdeui/widgets/ktoolbar.cpp:298
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "ওপৰত"
 
-#: kdeui/widgets/ktoolbar.cpp:278
+#: kdeui/widgets/ktoolbar.cpp:300
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "বাওঁফালে"
 
-#: kdeui/widgets/ktoolbar.cpp:279
+#: kdeui/widgets/ktoolbar.cpp:301
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "সোঁফালে"
 
-#: kdeui/widgets/ktoolbar.cpp:280
+#: kdeui/widgets/ktoolbar.cpp:302
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "তলত"
 
-#: kdeui/widgets/ktoolbar.cpp:288
+#: kdeui/widgets/ktoolbar.cpp:310
 msgid "Text Position"
 msgstr "লিপিৰ অৱস্থান"
 
-#: kdeui/widgets/ktoolbar.cpp:290
+#: kdeui/widgets/ktoolbar.cpp:312
 msgid "Icons Only"
 msgstr "অকল আইকন"
 
-#: kdeui/widgets/ktoolbar.cpp:291
+#: kdeui/widgets/ktoolbar.cpp:313
 msgid "Text Only"
 msgstr "অকল লিপি"
 
-#: kdeui/widgets/ktoolbar.cpp:292
+#: kdeui/widgets/ktoolbar.cpp:314
 msgid "Text Alongside Icons"
 msgstr "আইকনৰ ওচৰত লিপি"
 
-#: kdeui/widgets/ktoolbar.cpp:293
+#: kdeui/widgets/ktoolbar.cpp:315
 msgid "Text Under Icons"
 msgstr "আইকনৰ তলত লিপি"
 
-#: kdeui/widgets/ktoolbar.cpp:301
+#: kdeui/widgets/ktoolbar.cpp:323
 msgid "Icon Size"
 msgstr "আইকনৰ মাপ"
 
-#: kdeui/widgets/ktoolbar.cpp:303
+#: kdeui/widgets/ktoolbar.cpp:325
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: kdeui/widgets/ktoolbar.cpp:320 kdeui/widgets/ktoolbar.cpp:340
+#: kdeui/widgets/ktoolbar.cpp:342 kdeui/widgets/ktoolbar.cpp:362
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "সৰু (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:322 kdeui/widgets/ktoolbar.cpp:342
+#: kdeui/widgets/ktoolbar.cpp:344 kdeui/widgets/ktoolbar.cpp:364
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "মধ্যম (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:324 kdeui/widgets/ktoolbar.cpp:344
+#: kdeui/widgets/ktoolbar.cpp:346 kdeui/widgets/ktoolbar.cpp:366
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "ডাঙৰ (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:326 kdeui/widgets/ktoolbar.cpp:346
+#: kdeui/widgets/ktoolbar.cpp:348 kdeui/widgets/ktoolbar.cpp:368
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "বৃহৎ (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:366
+#: kdeui/widgets/ktoolbar.cpp:388
 #, fuzzy
 #| msgid "Lock Toolbars"
 msgid "Lock Toolbar Positions"
 msgstr "টুল-বাৰ লক কৰা হ'ব"
 
-#: kdeui/widgets/ktoolbar.cpp:1232
+#: kdeui/widgets/ktoolbar.cpp:1289
 #, kde-format
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/widgets/ktoolbar.cpp:1233
+#: kdeui/widgets/ktoolbar.cpp:1290
 #, kde-format
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
