@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-28 03:33+0000\n"
+"POT-Creation-Date: 2011-03-01 03:44+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2025,7 +2025,7 @@ msgctxt "Name"
 msgid "Session Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: ksmserver/kcm/kcmsmserver.desktop:71
+#: ksmserver/kcm/kcmsmserver.desktop:72
 msgctxt "Comment"
 msgid "Configure the session manager and logout settings"
 msgstr ""
