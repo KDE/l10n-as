@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-17 03:25+0000\n"
+"POT-Creation-Date: 2011-03-28 02:28+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4584,7 +4584,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: plasma/generic/runners/activities/plasma-runner-activityrunner.desktop:17
+#: plasma/generic/runners/activities/plasma-runner-activityrunner.desktop:18
 msgctxt "Comment"
 msgid "List and switch between desktop activities"
 msgstr ""
