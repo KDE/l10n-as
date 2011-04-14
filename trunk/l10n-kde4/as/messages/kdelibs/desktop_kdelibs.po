@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-13 02:46+0000\n"
+"POT-Creation-Date: 2011-04-14 02:56+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -941,97 +941,97 @@ msgctxt "Name"
 msgid "Uyghur"
 msgstr "উইঘুৰ"
 
-#: kdecore/localization/all_languages.desktop:15582
+#: kdecore/localization/all_languages.desktop:15583
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "ইউক্ৰেনিয়ান"
 
-#: kdecore/localization/all_languages.desktop:15676
+#: kdecore/localization/all_languages.desktop:15677
 msgctxt "Name"
 msgid "Urdu"
 msgstr "উৰ্দু"
 
-#: kdecore/localization/all_languages.desktop:15770
+#: kdecore/localization/all_languages.desktop:15771
 msgctxt "Name"
 msgid "Uzbek"
 msgstr "উজ্‌বেক"
 
-#: kdecore/localization/all_languages.desktop:15864
+#: kdecore/localization/all_languages.desktop:15865
 msgctxt "Name"
 msgid "Uzbek (Cyrillic)"
 msgstr "উজ্‌বেক (ছিৰিলিক)"
 
-#: kdecore/localization/all_languages.desktop:15945
+#: kdecore/localization/all_languages.desktop:15946
 msgctxt "Name"
 msgid "Venda"
 msgstr "ভেন্ডা"
 
-#: kdecore/localization/all_languages.desktop:16038
+#: kdecore/localization/all_languages.desktop:16039
 msgctxt "Name"
 msgid "Vietnamese"
 msgstr "ভিয়েট্নামি"
 
-#: kdecore/localization/all_languages.desktop:16132
+#: kdecore/localization/all_languages.desktop:16133
 msgctxt "Name"
 msgid "Volapük"
 msgstr "ভ'লাপুক"
 
-#: kdecore/localization/all_languages.desktop:16223
+#: kdecore/localization/all_languages.desktop:16224
 msgctxt "Name"
 msgid "Walloon"
 msgstr "ৱেলুন"
 
-#: kdecore/localization/all_languages.desktop:16317
+#: kdecore/localization/all_languages.desktop:16318
 msgctxt "Name"
 msgid "Wolof"
 msgstr "ৱ'ল'ফ"
 
-#: kdecore/localization/all_languages.desktop:16411
+#: kdecore/localization/all_languages.desktop:16412
 msgctxt "Name"
 msgid "Xhosa"
 msgstr "জ'ছা"
 
-#: kdecore/localization/all_languages.desktop:16505
+#: kdecore/localization/all_languages.desktop:16506
 msgctxt "Name"
 msgid "KDE Test Language"
 msgstr ""
 
-#: kdecore/localization/all_languages.desktop:16551
+#: kdecore/localization/all_languages.desktop:16553
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "যিদ্দিশ্ব"
 
-#: kdecore/localization/all_languages.desktop:16645
+#: kdecore/localization/all_languages.desktop:16647
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "য'ৰুবা"
 
-#: kdecore/localization/all_languages.desktop:16738
+#: kdecore/localization/all_languages.desktop:16740
 msgctxt "Name"
 msgid "Zhuang"
 msgstr "ঝুৱাঙ"
 
-#: kdecore/localization/all_languages.desktop:16830
+#: kdecore/localization/all_languages.desktop:16832
 msgctxt "Name"
 msgid "Chinese"
 msgstr "চীনা"
 
-#: kdecore/localization/all_languages.desktop:16924
+#: kdecore/localization/all_languages.desktop:16926
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "চীনা সৰল কৰা"
 
-#: kdecore/localization/all_languages.desktop:17017
+#: kdecore/localization/all_languages.desktop:17019
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "চীনা (হং কং)"
 
-#: kdecore/localization/all_languages.desktop:17108
+#: kdecore/localization/all_languages.desktop:17110
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "চীনা পাৰম্পৰিক"
 
-#: kdecore/localization/all_languages.desktop:17201
+#: kdecore/localization/all_languages.desktop:17203
 msgctxt "Name"
 msgid "Zulu"
 msgstr "জুলু"
@@ -1315,7 +1315,7 @@ msgctxt "Name"
 msgid "SSL Preferences"
 msgstr ""
 
-#: kio/kssl/kcm/kcm_ssl.desktop:56
+#: kio/kssl/kcm/kcm_ssl.desktop:57
 msgctxt "Comment"
 msgid "SSL Versions and Certificates"
 msgstr ""
@@ -1606,7 +1606,7 @@ msgctxt "Name"
 msgid "Test"
 msgstr ""
 
-#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:51
+#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:52
 msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr ""
