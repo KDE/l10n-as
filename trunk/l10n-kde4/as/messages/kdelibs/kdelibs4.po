@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-10 03:59+0200\n"
+"POT-Creation-Date: 2011-04-15 04:00+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -12521,19 +12521,6 @@ msgctxt "Description of the notified event"
 msgid "Description"
 msgstr "বিৱৰণ"
 
-#: kparts/browserextension.cpp:645
-#, kde-format
-msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
-msgstr "<qt><b>%1</b> সম্বন্ধে ইন্টাৰ্নে'টত অনুসন্ধান কৰা হ'ব নেকি ?</qt>"
-
-#: kparts/browserextension.cpp:646
-msgid "Internet Search"
-msgstr "ইন্টাৰ্নে'টত অনুসন্ধান"
-
-#: kparts/browserextension.cpp:646
-msgid "&Search"
-msgstr "অনুসন্ধান (&S)"
-
 #: kparts/browseropenorsavequestion.cpp:100
 #, fuzzy, kde-format
 #| msgid "Re: %1"
@@ -12629,6 +12616,19 @@ msgstr "আপুনি নিশ্চিতৰূপে '%1' সঞ্চা�
 #: kparts/browserrun.cpp:336
 msgid "Execute File?"
 msgstr "নথিপত্ৰ চলোৱা হ'ব নে ?"
+
+#: kparts/browserextension.cpp:645
+#, kde-format
+msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
+msgstr "<qt><b>%1</b> সম্বন্ধে ইন্টাৰ্নে'টত অনুসন্ধান কৰা হ'ব নেকি ?</qt>"
+
+#: kparts/browserextension.cpp:646
+msgid "Internet Search"
+msgstr "ইন্টাৰ্নে'টত অনুসন্ধান"
+
+#: kparts/browserextension.cpp:646
+msgid "&Search"
+msgstr "অনুসন্ধান (&S)"
 
 #: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
