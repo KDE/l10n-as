@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-15 04:00+0200\n"
+"POT-Creation-Date: 2011-04-16 03:59+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13760,11 +13760,11 @@ msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
 
 #: kdecore/date/kdatetime.cpp:1513 kdecore/date/kdatetime.cpp:1523
-#: kdecore/date/kdatetime.cpp:2887
+#: kdecore/date/kdatetime.cpp:2973
 msgid "am"
 msgstr "am"
 
-#: kdecore/date/kdatetime.cpp:2895
+#: kdecore/date/kdatetime.cpp:2981
 msgid "pm"
 msgstr "pm"
 
