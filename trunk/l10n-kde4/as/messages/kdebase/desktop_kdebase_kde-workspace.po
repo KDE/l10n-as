@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-27 02:46+0000\n"
+"POT-Creation-Date: 2011-04-28 02:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3678,7 +3678,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: plasma/desktop/applets/showActivityManager/plasma-applet-org.kde.showActivityManager.desktop:3
+#: plasma/desktop/applets/showActivityManager/plasma-applet-org.kde.showActivityManager.desktop:22
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Contact Manager"
@@ -3779,6 +3779,14 @@ msgctxt "Name"
 msgid "Default Panel"
 msgstr "অবিকল্পিত"
 
+#: plasma/desktop/shell/data/layouts/org.kde.plasma-desktop.desktopIcons/metadata.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Desktop Icons"
+msgstr "ডেস্কট'প"
+
 #: plasma/desktop/shell/data/layouts/org.kde.plasma-desktop.findWidgets/metadata.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -3790,6 +3798,12 @@ msgstr "MS Windows 9x"
 #: plasma/desktop/shell/data/layouts/org.kde.plasma-desktop.photoActivity/metadata.desktop:3
 msgctxt "Name"
 msgid "Photos Activity"
+msgstr ""
+
+#: plasma/desktop/shell/data/layouts/org.kde.plasma-desktop.SaL/metadata.desktop:3
+#: plasma/netbook/containments/sal/plasma-containment-sal.desktop:2
+msgctxt "Name"
+msgid "Search and Launch"
 msgstr ""
 
 #: plasma/desktop/shell/data/plasma-desktop.desktop:4
@@ -4381,7 +4395,7 @@ msgctxt "Name"
 msgid "img.susepaste.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/imgsusepasteorg/metadata.desktop:12
+#: plasma/generic/dataengines/share/backends/imgsusepasteorg/metadata.desktop:14
 msgctxt "Comment"
 msgid "Allows images to be shared using the susepaste.org service"
 msgstr ""
@@ -4934,11 +4948,6 @@ msgstr ""
 #: plasma/netbook/containments/netpanel/plasma-containment-netpanel.desktop:61
 msgctxt "Comment"
 msgid "A containment for a panel"
-msgstr ""
-
-#: plasma/netbook/containments/sal/plasma-containment-sal.desktop:2
-msgctxt "Name"
-msgid "Search and Launch"
 msgstr ""
 
 #: plasma/netbook/containments/sal/plasma-containment-sal.desktop:49
@@ -10347,10 +10356,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Lost & Found"
 #~ msgstr "হেৰুৱা & পোৱা"
-
-#~ msgctxt "Name"
-#~ msgid "Desktop"
-#~ msgstr "ডেস্কট'প"
 
 #~ msgctxt "Comment"
 #~ msgid "Desktop"
