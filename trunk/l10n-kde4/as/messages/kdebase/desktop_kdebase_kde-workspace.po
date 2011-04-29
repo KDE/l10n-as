@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-28 02:52+0000\n"
+"POT-Creation-Date: 2011-04-29 02:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2050,6 +2050,19 @@ msgctxt "Comment"
 msgid "A style that works well with high contrast color schemes"
 msgstr ""
 
+#: kstyles/oxygen/config/oxygen-settings.desktop:5
+msgctxt "GenericName"
+msgid "Advanced Widget and Window Decoration Settings"
+msgstr ""
+
+#: kstyles/oxygen/config/oxygen-settings.desktop:7
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Fetchmail Configuration"
+msgctxt "Name"
+msgid "Oxygen Advanced Configuration"
+msgstr "Fetchmail ৰ বিন্যাস"
+
 #: kstyles/oxygen/oxygen.themerc:87
 #: kwin/clients/oxygen/oxygenclient.desktop:88
 msgctxt "Comment"
@@ -2612,6 +2625,19 @@ msgstr ""
 #: kwin/effects/mousemark/mousemark.desktop:80
 msgctxt "Comment"
 msgid "Allows you to draw lines on the desktop"
+msgstr ""
+
+#: kwin/effects/outline/outline.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guinea"
+msgctxt "Name"
+msgid "Outline"
+msgstr "গিনি"
+
+#: kwin/effects/outline/outline.desktop:4
+msgctxt "Comment"
+msgid "Helper effect to render an outline"
 msgstr ""
 
 #: kwin/effects/presentwindows/presentwindows_config.desktop:9
@@ -8757,10 +8783,6 @@ msgstr ""
 #~ msgstr "গাম্বিয়া"
 
 #~ msgctxt "Name"
-#~ msgid "Guinea"
-#~ msgstr "গিনি"
-
-#~ msgctxt "Name"
 #~ msgid "Guadeloupe"
 #~ msgstr "গুয়াডেল্যুপ"
 
@@ -11362,10 +11384,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Fetchmailconf"
 #~ msgstr "Fetchmailconf"
-
-#~ msgctxt "GenericName"
-#~ msgid "Fetchmail Configuration"
-#~ msgstr "Fetchmail ৰ বিন্যাস"
 
 #~ msgctxt "Name"
 #~ msgid "Gabber"
