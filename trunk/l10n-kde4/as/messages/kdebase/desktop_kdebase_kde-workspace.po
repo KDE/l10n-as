@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-30 02:48+0000\n"
+"POT-Creation-Date: 2011-05-01 02:58+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2055,7 +2055,7 @@ msgctxt "GenericName"
 msgid "Advanced Widget and Window Decoration Settings"
 msgstr ""
 
-#: kstyles/oxygen/config/oxygen-settings.desktop:7
+#: kstyles/oxygen/config/oxygen-settings.desktop:11
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Fetchmail Configuration"
@@ -2635,7 +2635,7 @@ msgctxt "Name"
 msgid "Outline"
 msgstr "গিনি"
 
-#: kwin/effects/outline/outline.desktop:4
+#: kwin/effects/outline/outline.desktop:8
 msgctxt "Comment"
 msgid "Helper effect to render an outline"
 msgstr ""
@@ -4421,7 +4421,7 @@ msgctxt "Name"
 msgid "img.susepaste.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/imgsusepasteorg/metadata.desktop:15
+#: plasma/generic/dataengines/share/backends/imgsusepasteorg/metadata.desktop:16
 msgctxt "Comment"
 msgid "Allows images to be shared using the susepaste.org service"
 msgstr ""
