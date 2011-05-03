@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-02 04:03+0200\n"
+"POT-Creation-Date: 2011-05-03 04:23+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5475,15 +5475,15 @@ msgstr "অকল পৰীক্ষামূলকভাবে তালিক�
 msgid "Track menu id for debug purposes"
 msgstr "ডিবাগ কৰাৰ উদ্দেশ্যে তালিকা id নিৰীক্ষণ কৰা হ'ব"
 
-#: kded/kded.cpp:860
+#: kded/kded.cpp:859
 msgid "KDE Daemon"
 msgstr "KDE Daemon"
 
-#: kded/kded.cpp:862
+#: kded/kded.cpp:861
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE Daemon - প্ৰয়োজন অনুসাৰে Sycoca তথ্যভঁৰাল উন্নয়ন আৰম্ভ কৰে"
 
-#: kded/kded.cpp:865
+#: kded/kded.cpp:864
 msgid "Check Sycoca database only once"
 msgstr "Sycoca তথ্যভঁৰাল অকল এবাৰ পৰীক্ষা কৰা হ'ব"
 
