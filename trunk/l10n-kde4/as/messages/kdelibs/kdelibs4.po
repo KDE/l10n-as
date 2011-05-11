@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-09 04:13+0200\n"
+"POT-Creation-Date: 2011-05-11 03:57+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3112,14 +3112,14 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:722
-msgid "Please contact your system administrator."
-msgstr "অনুগ্ৰহ কৰি ব্যৱস্থাপ্ৰণালী প্ৰশাসকৰ সৈতে যোগাযোগ কৰক ।"
-
 #: kdecore/config/kconfigini.cpp:523
 #, kde-format
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr "\"%1\" বিন্যাস নথিপত্ৰত লিখা সম্ভব ন'হ'ব ।\n"
+
+#: kdecore/config/kconfig.cpp:814
+msgid "Please contact your system administrator."
+msgstr "অনুগ্ৰহ কৰি ব্যৱস্থাপ্ৰণালী প্ৰশাসকৰ সৈতে যোগাযোগ কৰক ।"
 
 #: kdecore/io/ksavefile.cpp:84
 msgid "No target filename has been given."
