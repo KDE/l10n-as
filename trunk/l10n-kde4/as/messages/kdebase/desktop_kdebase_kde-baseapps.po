@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-10 03:13+0000\n"
+"POT-Creation-Date: 2011-05-12 03:14+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -59,7 +59,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:150
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:151
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "General"
@@ -67,7 +67,7 @@ msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:221
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:223
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -91,7 +91,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:150
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:151
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Navigation Panel"
@@ -99,7 +99,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "পৰিদৰ্শনৰ পেনেল"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:221
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:222
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -146,7 +146,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:148
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:149
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Views"
@@ -154,7 +154,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "প্ৰদৰ্শন ব্যৱস্থা"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:218
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:219
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -319,22 +319,22 @@ msgctxt "X-KDE-Submenu"
 msgid "Convert To"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:66
+#: konq-plugins/imagerotation/imageconverter.desktop:68
 msgctxt "Name"
 msgid "JPEG"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:130
+#: konq-plugins/imagerotation/imageconverter.desktop:132
 msgctxt "Name"
 msgid "PNG"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:194
+#: konq-plugins/imagerotation/imageconverter.desktop:196
 msgctxt "Name"
 msgid "TIFF"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:249
+#: konq-plugins/imagerotation/imageconverter.desktop:251
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "SGI"
@@ -347,22 +347,22 @@ msgctxt "X-KDE-Submenu"
 msgid "Transform Image"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:67
+#: konq-plugins/imagerotation/jpegorient.desktop:69
 msgctxt "Name"
 msgid "Rotate Clockwise"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:128
+#: konq-plugins/imagerotation/jpegorient.desktop:130
 msgctxt "Name"
 msgid "Rotate Counter-Clockwise"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:193
+#: konq-plugins/imagerotation/jpegorient.desktop:196
 msgctxt "Name"
 msgid "Flip Vertically"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:257
+#: konq-plugins/imagerotation/jpegorient.desktop:260
 msgctxt "Name"
 msgid "Flip Horizontally"
 msgstr ""
@@ -582,7 +582,7 @@ msgctxt "Name"
 msgid "Konqueror Browser Preloader"
 msgstr "KDED Konqueror Preloader Module"
 
-#: konqueror/preloader/konqy_preloader.desktop:65
+#: konqueror/preloader/konqy_preloader.desktop:67
 msgctxt "Comment"
 msgid "Reduces Konqueror startup time"
 msgstr "Konqueror আৰম্ভণিৰ সময় কম কৰে"
@@ -878,7 +878,7 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr "চৰকৰ চিনাক্তকৰণ"
 
-#: konqueror/settings/kio/useragent.desktop:101
+#: konqueror/settings/kio/useragent.desktop:102
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
 msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
@@ -957,7 +957,7 @@ msgctxt ""
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: konqueror/settings/konqhtml/khtml_general.desktop:81
+#: konqueror/settings/konqhtml/khtml_general.desktop:82
 msgctxt "Comment"
 msgid "Configure general Konqueror behavior"
 msgstr "Konqueror ৰ সাধাৰণ আচৰণ বিন্যাস কৰক"
