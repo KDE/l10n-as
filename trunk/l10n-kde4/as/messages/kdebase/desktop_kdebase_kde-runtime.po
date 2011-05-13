@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-12 03:14+0000\n"
+"POT-Creation-Date: 2011-05-13 02:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5517,6 +5517,27 @@ msgctxt "Comment"
 msgid "The Nepomuk file watch service for monitoring file changes"
 msgstr ""
 
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Comment"
+msgid "Nepomuk file watch service"
+msgstr "USB যন্ত্ৰ"
+
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "New Removable Device"
+msgstr "USB যন্ত্ৰ"
+
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:7
+msgctxt "Comment"
+msgid "A new unknown removable device has been mounted"
+msgstr ""
+
 #: nepomuk/services/queryservice/nepomukqueryservice.desktop:7
 msgctxt "Name"
 msgid "NepomukQueryService"
@@ -8082,13 +8103,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Power Management"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "USB Devices"
-#~ msgctxt "Name"
-#~ msgid "Nepomuk Activities Service"
-#~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
 #~| msgctxt "Name"
