@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-22 04:12+0200\n"
+"POT-Creation-Date: 2011-05-24 04:18+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6994,6 +6994,63 @@ msgctxt "@item Font name [foundry]"
 msgid "%1 [%2]"
 msgstr "%1 [%2]"
 
+#. i18n: A shorter version of the alphabet test phrase translated in
+#. another message. It is displayed in the dropdown list of font previews
+#. (the font selection combo box), so keep it under the length equivalent
+#. to 60 or so proportional Latin characters.
+#: kdeui/fonts/kfontcombobox.cpp:49
+msgctxt "short"
+msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
+msgstr "The Quick Brown Fox Jumps Over The Lazy Dog"
+
+#. i18n: Integer which indicates the script you used in the sample text
+#. for font previews in your language. For the possible values, see
+#. http://doc.trolltech.com/qfontdatabase.html#WritingSystem-enum
+#. If the sample text contains several scripts, their IDs can be given
+#. as a comma-separated list (e.g. for Japanese it is "1,27").
+#: kdeui/fonts/kfontcombobox.cpp:120
+msgctxt "Numeric IDs of scripts for font previews"
+msgid "1"
+msgstr "1"
+
+#: kdeui/fonts/kfontdialog.cpp:75
+msgid "Select Font"
+msgstr "আখৰ নিৰ্ব্বাচন কৰক"
+
+#: kdeui/fonts/kfontrequester.cpp:110
+msgid "Choose..."
+msgstr "নিৰ্ব্বাচন কৰক..."
+
+#: kdeui/fonts/kfontrequester.cpp:215
+msgid "Click to select a font"
+msgstr "আখৰ নিৰ্ব্বাচনৰ বাবে টিপক"
+
+#: kdeui/fonts/kfontrequester.cpp:222
+msgid "Preview of the selected font"
+msgstr "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শন"
+
+#: kdeui/fonts/kfontrequester.cpp:223
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
+"এইটো পৰিবৰ্তন কৰা যাব ।"
+
+#: kdeui/fonts/kfontrequester.cpp:228
+#, kde-format
+msgid "Preview of the \"%1\" font"
+msgstr "\"%1\" আখৰৰ প্ৰদৰ্শিত পূৰ্বৰূপ"
+
+#: kdeui/fonts/kfontrequester.cpp:229
+#, kde-format
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো পৰিবৰ্তন "
+"কৰা যাব ।"
+
 #: kdeui/fonts/kfontchooser.cpp:162
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font to be used."
@@ -7147,63 +7204,6 @@ msgstr "প্ৰকৃত আখৰ"
 msgctxt "@item Font style"
 msgid "%1"
 msgstr "%1"
-
-#. i18n: A shorter version of the alphabet test phrase translated in
-#. another message. It is displayed in the dropdown list of font previews
-#. (the font selection combo box), so keep it under the length equivalent
-#. to 60 or so proportional Latin characters.
-#: kdeui/fonts/kfontcombobox.cpp:49
-msgctxt "short"
-msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
-msgstr "The Quick Brown Fox Jumps Over The Lazy Dog"
-
-#. i18n: Integer which indicates the script you used in the sample text
-#. for font previews in your language. For the possible values, see
-#. http://doc.trolltech.com/qfontdatabase.html#WritingSystem-enum
-#. If the sample text contains several scripts, their IDs can be given
-#. as a comma-separated list (e.g. for Japanese it is "1,27").
-#: kdeui/fonts/kfontcombobox.cpp:120
-msgctxt "Numeric IDs of scripts for font previews"
-msgid "1"
-msgstr "1"
-
-#: kdeui/fonts/kfontdialog.cpp:75
-msgid "Select Font"
-msgstr "আখৰ নিৰ্ব্বাচন কৰক"
-
-#: kdeui/fonts/kfontrequester.cpp:110
-msgid "Choose..."
-msgstr "নিৰ্ব্বাচন কৰক..."
-
-#: kdeui/fonts/kfontrequester.cpp:215
-msgid "Click to select a font"
-msgstr "আখৰ নিৰ্ব্বাচনৰ বাবে টিপক"
-
-#: kdeui/fonts/kfontrequester.cpp:222
-msgid "Preview of the selected font"
-msgstr "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শন"
-
-#: kdeui/fonts/kfontrequester.cpp:223
-msgid ""
-"This is a preview of the selected font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
-"এইটো পৰিবৰ্তন কৰা যাব ।"
-
-#: kdeui/fonts/kfontrequester.cpp:228
-#, kde-format
-msgid "Preview of the \"%1\" font"
-msgstr "\"%1\" আখৰৰ প্ৰদৰ্শিত পূৰ্বৰূপ"
-
-#: kdeui/fonts/kfontrequester.cpp:229
-#, kde-format
-msgid ""
-"This is a preview of the \"%1\" font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো পৰিবৰ্তন "
-"কৰা যাব ।"
 
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
 #: nepomuk/utils/searchwidget.cpp:128
