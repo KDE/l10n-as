@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-24 04:18+0200\n"
+"POT-Creation-Date: 2011-05-27 04:11+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13136,7 +13136,7 @@ msgctxt ""
 msgid "or"
 msgstr "Mor"
 
-#: nepomuk/query/query.cpp:609
+#: nepomuk/query/query.cpp:685
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -13144,7 +13144,7 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr ""
 
-#: nepomuk/query/query.cpp:615
+#: nepomuk/query/query.cpp:691
 msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr ""
@@ -13908,12 +13908,12 @@ msgstr "দিনৰ উপদেশ (&D)"
 msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
 
-#: kdecore/date/kdatetime.cpp:1513 kdecore/date/kdatetime.cpp:1523
-#: kdecore/date/kdatetime.cpp:2973
+#: kdecore/date/kdatetime.cpp:1522 kdecore/date/kdatetime.cpp:1532
+#: kdecore/date/kdatetime.cpp:2982
 msgid "am"
 msgstr "am"
 
-#: kdecore/date/kdatetime.cpp:2981
+#: kdecore/date/kdatetime.cpp:2990
 msgid "pm"
 msgstr "pm"
 
