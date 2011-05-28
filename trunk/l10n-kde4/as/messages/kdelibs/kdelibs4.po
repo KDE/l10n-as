@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-27 04:11+0200\n"
+"POT-Creation-Date: 2011-05-28 04:12+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3252,6 +3252,96 @@ msgstr ""
 "হৈছে ।</p><p>KDE ৰ আন্তৰ্জাতীয়কৰণৰ সম্বন্ধে অধিক জনাৰ বাবে <a href=\"http://l10n."
 "kde.org\">http://l10n.kde.org</a></p> চাওক ।"
 
+#: kdecore/kernel/ktoolinvocation.cpp:79
+msgid "Function must be called from the main thread."
+msgstr "মূল থ্ৰেডৰ পৰা আপেক্ষক কল কৰা হ'ব ।"
+
+#: kdecore/kernel/ktoolinvocation.cpp:120
+#, kde-format
+msgid ""
+"Error launching %1. Either KLauncher is not running anymore, or it failed to "
+"start the application."
+msgstr ""
+
+#: kdecore/kernel/ktoolinvocation.cpp:123
+#, kde-format
+msgid ""
+"KLauncher could not be reached via D-Bus. Error when calling %1:\n"
+"%2\n"
+msgstr ""
+"D-Bus এৰে KLauncher পোৱা নাযায় । %1 কল কৰিবলৈ ত্ৰুটি:\n"
+"%2\n"
+
+#: kdecore/kernel/ktoolinvocation.cpp:302
+#, kde-format
+msgid ""
+"Could not launch the KDE Help Center:\n"
+"\n"
+"%1"
+msgstr ""
+"KDE সহায় ব্যৱস্থা আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
+"\n"
+"%1"
+
+#: kdecore/kernel/ktoolinvocation.cpp:303
+msgid "Could not Launch Help Center"
+msgstr "সহায় ব্যৱস্থা আৰম্ভ কৰিবলৈ ব্যৰ্থ"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:281
+#, kde-format
+msgid ""
+"Could not launch the mail client:\n"
+"\n"
+"%1"
+msgstr ""
+"মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
+"\n"
+"%1"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:282
+#, fuzzy
+#| msgid "Could not Launch Mail Client"
+msgid "Could not launch Mail Client"
+msgstr "মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:334
+#: kdecore/kernel/ktoolinvocation_x11.cpp:349
+#: kdecore/kernel/ktoolinvocation_x11.cpp:369
+#, kde-format
+msgid ""
+"Could not launch the browser:\n"
+"\n"
+"%1"
+msgstr ""
+"চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
+"\n"
+"%1"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:335
+#: kdecore/kernel/ktoolinvocation_x11.cpp:350
+#: kdecore/kernel/ktoolinvocation_x11.cpp:370
+#, fuzzy
+#| msgid "Could not Launch Browser"
+msgid "Could not launch Browser"
+msgstr "চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:409
+#, kde-format
+msgid ""
+"Could not launch the terminal client:\n"
+"\n"
+"%1"
+msgstr ""
+"টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
+"\n"
+"%1"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:410
+#, fuzzy
+#| msgid "Could not Launch Terminal Client"
+msgid "Could not launch Terminal Client"
+msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
+
 #: kdecore/kernel/kcmdlineargs.cpp:274
 msgid "Use the X-server display 'displayname'"
 msgstr "X-server প্ৰদৰ্শন 'displayname' ব্যৱহাৰ কৰা হ'ব"
@@ -3555,96 +3645,6 @@ msgstr "ব্যৱহাৰৰ পিছত অনুপ্ৰয়োগ দ্
 #: kdecore/kernel/kcmdlineargs.cpp:1598
 msgid "KDE-tempfile"
 msgstr "KDE-tempfile"
-
-#: kdecore/kernel/ktoolinvocation.cpp:79
-msgid "Function must be called from the main thread."
-msgstr "মূল থ্ৰেডৰ পৰা আপেক্ষক কল কৰা হ'ব ।"
-
-#: kdecore/kernel/ktoolinvocation.cpp:120
-#, kde-format
-msgid ""
-"Error launching %1. Either KLauncher is not running anymore, or it failed to "
-"start the application."
-msgstr ""
-
-#: kdecore/kernel/ktoolinvocation.cpp:123
-#, kde-format
-msgid ""
-"KLauncher could not be reached via D-Bus. Error when calling %1:\n"
-"%2\n"
-msgstr ""
-"D-Bus এৰে KLauncher পোৱা নাযায় । %1 কল কৰিবলৈ ত্ৰুটি:\n"
-"%2\n"
-
-#: kdecore/kernel/ktoolinvocation.cpp:302
-#, kde-format
-msgid ""
-"Could not launch the KDE Help Center:\n"
-"\n"
-"%1"
-msgstr ""
-"KDE সহায় ব্যৱস্থা আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
-"\n"
-"%1"
-
-#: kdecore/kernel/ktoolinvocation.cpp:303
-msgid "Could not Launch Help Center"
-msgstr "সহায় ব্যৱস্থা আৰম্ভ কৰিবলৈ ব্যৰ্থ"
-
-#: kdecore/kernel/ktoolinvocation_x11.cpp:281
-#, kde-format
-msgid ""
-"Could not launch the mail client:\n"
-"\n"
-"%1"
-msgstr ""
-"মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
-"\n"
-"%1"
-
-#: kdecore/kernel/ktoolinvocation_x11.cpp:282
-#, fuzzy
-#| msgid "Could not Launch Mail Client"
-msgid "Could not launch Mail Client"
-msgstr "মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
-
-#: kdecore/kernel/ktoolinvocation_x11.cpp:334
-#: kdecore/kernel/ktoolinvocation_x11.cpp:349
-#: kdecore/kernel/ktoolinvocation_x11.cpp:369
-#, kde-format
-msgid ""
-"Could not launch the browser:\n"
-"\n"
-"%1"
-msgstr ""
-"চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
-"\n"
-"%1"
-
-#: kdecore/kernel/ktoolinvocation_x11.cpp:335
-#: kdecore/kernel/ktoolinvocation_x11.cpp:350
-#: kdecore/kernel/ktoolinvocation_x11.cpp:370
-#, fuzzy
-#| msgid "Could not Launch Browser"
-msgid "Could not launch Browser"
-msgstr "চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
-
-#: kdecore/kernel/ktoolinvocation_x11.cpp:409
-#, kde-format
-msgid ""
-"Could not launch the terminal client:\n"
-"\n"
-"%1"
-msgstr ""
-"টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ:\n"
-"\n"
-"%1"
-
-#: kdecore/kernel/ktoolinvocation_x11.cpp:410
-#, fuzzy
-#| msgid "Could not Launch Terminal Client"
-msgid "Could not launch Terminal Client"
-msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
 #: kdecore/localization/kcharsets.cpp:155
 #: kdecore/localization/kencodingdetector.cpp:1149
