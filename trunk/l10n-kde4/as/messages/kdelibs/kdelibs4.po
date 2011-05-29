@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-28 04:12+0200\n"
+"POT-Creation-Date: 2011-05-29 04:15+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13136,7 +13136,7 @@ msgctxt ""
 msgid "or"
 msgstr "Mor"
 
-#: nepomuk/query/query.cpp:685
+#: nepomuk/query/query.cpp:682
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -13144,7 +13144,7 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr ""
 
-#: nepomuk/query/query.cpp:691
+#: nepomuk/query/query.cpp:688
 msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr ""
