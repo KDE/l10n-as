@@ -2,18 +2,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-04-17 03:46+0200\n"
-"PO-Revision-Date: 2009-01-15 17:41+0530\n"
-"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
-"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"PO-Revision-Date: 2011-06-01 18:21+0000\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.2\n"
+"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: kwriteapp.cpp:37 kwritemain.cpp:474
@@ -21,6 +22,8 @@ msgid ""
 "A KDE text-editor component could not be found.\n"
 "Please check your KDE installation."
 msgstr ""
+"এটা KDE লিখনী-সম্পাদক উপাদান পোৱা নগল।\n"
+"অনুগ্ৰহ কৰি আপোনাৰ KDE ইনস্টল নীৰিক্ষণ কৰক।"
 
 #: kwriteapp.cpp:145
 #, kde-format
@@ -30,10 +33,9 @@ msgstr ""
 "'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
 
 #: kwritemain.cpp:138
-#, fuzzy
 #| msgid "Use this to close the current document"
 msgid "Use this command to close the current document"
-msgstr "বৰ্ত্তমানৰ আলেখ্যন বন্ধ কৰিবলৈ এইটো ব্যৱহাৰ কৰক"
+msgstr "বৰ্ত্তমান দস্তাবেজ বন্ধ কৰিবলে এই কমান্ড ব্যৱহাৰ কৰক"
 
 #: kwritemain.cpp:142
 msgid "Use this command to create a new document"
@@ -48,6 +50,8 @@ msgid ""
 "This lists files which you have opened recently, and allows you to easily "
 "open them again."
 msgstr ""
+"ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো "
+"সহজতে খোলাৰ অনুমতি দিয়ে।"
 
 #: kwritemain.cpp:152
 msgid "&New Window"
@@ -75,15 +79,15 @@ msgstr "সংযোগক্ষেত্ৰৰ কেপ্‌ছনত আল�
 
 #: kwritemain.cpp:172
 msgid "Configure the application's keyboard shortcut assignments."
-msgstr ""
+msgstr "অনুপ্ৰয়োগৰ কিবৰ্ড চৰ্টকাট কাৰ্য্যসমূহ সংৰূপণ কৰক।"
 
 #: kwritemain.cpp:176
 msgid "Configure which items should appear in the toolbar(s)."
-msgstr ""
+msgstr "কোনবোৰ বস্তু টুলবাৰ(সমূহ)ত আহিব লাগিব সংৰূপণ কৰক।"
 
 #: kwritemain.cpp:179
 msgid "&About Editor Component"
-msgstr ""
+msgstr "&About সম্পাদক উপাদান"
 
 #: kwritemain.cpp:188 kwritemain.cpp:539
 #, kde-format
@@ -109,6 +113,9 @@ msgid ""
 "The file given could not be read; check whether it exists or is readable for "
 "the current user."
 msgstr ""
+"প্ৰদান কৰা নথিপত্ৰ পঢ়িব নোৱাৰি; ইয়াৰ অস্তিত্ব আছে নে বৰ্তমান ব্যৱহাৰকাৰীৰ "
+"কাৰণে পঢ়াযোগ্য "
+"নীৰিক্ষণ কৰি চাওক।"
 
 #: kwritemain.cpp:545
 msgctxt "@info:status Statusbar label for block selection mode"
@@ -124,16 +131,14 @@ msgid "KWrite"
 msgstr "KWrite"
 
 #: kwritemain.cpp:629
-#, fuzzy
 #| msgid "KWrite - Text Editor"
 msgid "KWrite - Text Editor"
-msgstr "KWrite - লিপি সম্পাদক"
+msgstr "KWrite - লিখনী সম্পাদক"
 
 #: kwritemain.cpp:630
-#, fuzzy
 #| msgid "(c) 2000-2005 The Kate Authors"
 msgid "(c) 2000-2010 The Kate Authors"
-msgstr "(c) 2000-2005 The Kate Authors"
+msgstr "(c) ২০০০-২০১০  Kate লিখকসমূহ"
 
 #: kwritemain.cpp:631
 msgid "Christoph Cullmann"
@@ -425,3 +430,4 @@ msgstr "সহায় (&H)"
 #: rc.cpp:23
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
+
