@@ -33,7 +33,6 @@ msgstr ""
 "'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
 
 #: kwritemain.cpp:138
-#| msgid "Use this to close the current document"
 msgid "Use this command to close the current document"
 msgstr "বৰ্ত্তমান দস্তাবেজ বন্ধ কৰিবলে এই কমান্ড ব্যৱহাৰ কৰক"
 
@@ -50,8 +49,8 @@ msgid ""
 "This lists files which you have opened recently, and allows you to easily "
 "open them again."
 msgstr ""
-"ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো "
-"সহজতে খোলাৰ অনুমতি দিয়ে।"
+"ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো সহজতে "
+"খোলাৰ অনুমতি দিয়ে।"
 
 #: kwritemain.cpp:152
 msgid "&New Window"
@@ -113,9 +112,8 @@ msgid ""
 "The file given could not be read; check whether it exists or is readable for "
 "the current user."
 msgstr ""
-"প্ৰদান কৰা নথিপত্ৰ পঢ়িব নোৱাৰি; ইয়াৰ অস্তিত্ব আছে নে বৰ্তমান ব্যৱহাৰকাৰীৰ "
-"কাৰণে পঢ়াযোগ্য "
-"নীৰিক্ষণ কৰি চাওক।"
+"প্ৰদান কৰা নথিপত্ৰ পঢ়িব নোৱাৰি; ইয়াৰ অস্তিত্ব আছে নে বৰ্তমান ব্যৱহাৰকাৰীৰ কাৰণে "
+"পঢ়াযোগ্য নীৰিক্ষণ কৰি চাওক।"
 
 #: kwritemain.cpp:545
 msgctxt "@info:status Statusbar label for block selection mode"
@@ -131,12 +129,10 @@ msgid "KWrite"
 msgstr "KWrite"
 
 #: kwritemain.cpp:629
-#| msgid "KWrite - Text Editor"
 msgid "KWrite - Text Editor"
 msgstr "KWrite - লিখনী সম্পাদক"
 
 #: kwritemain.cpp:630
-#| msgid "(c) 2000-2005 The Kate Authors"
 msgid "(c) 2000-2010 The Kate Authors"
 msgstr "(c) ২০০০-২০১০  Kate লিখকসমূহ"
 
@@ -430,4 +426,3 @@ msgstr "সহায় (&H)"
 #: rc.cpp:23
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
-
