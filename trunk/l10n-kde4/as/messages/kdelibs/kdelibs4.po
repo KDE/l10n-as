@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-06-04 04:16+0200\n"
+"POT-Creation-Date: 2011-06-05 04:23+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2493,12 +2493,12 @@ msgid "Show %1"
 msgstr "%1 প্ৰদৰ্শন কৰা হ'ব"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:287
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:424
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:420
 msgid "Search Columns"
 msgstr "স্তম্ভ অনুসন্ধান"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:290
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:426
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:422
 msgid "All Visible Columns"
 msgstr "সকল দৃশ্যমান স্তম্ভ"
 
@@ -2509,7 +2509,7 @@ msgid "Column No. %1"
 msgstr "স্তম্ভ সংখ্যা %1"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:557
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:601
 msgid "S&earch:"
 msgstr "অনুসন্ধান:(&e)"
 
@@ -3112,14 +3112,14 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfigini.cpp:523
-#, kde-format
-msgid "Configuration file \"%1\" not writable.\n"
-msgstr "\"%1\" বিন্যাস নথিপত্ৰত লিখা সম্ভব ন'হ'ব ।\n"
-
 #: kdecore/config/kconfig.cpp:814
 msgid "Please contact your system administrator."
 msgstr "অনুগ্ৰহ কৰি ব্যৱস্থাপ্ৰণালী প্ৰশাসকৰ সৈতে যোগাযোগ কৰক ।"
+
+#: kdecore/config/kconfigini.cpp:519
+#, kde-format
+msgid "Configuration file \"%1\" not writable.\n"
+msgstr "\"%1\" বিন্যাস নথিপত্ৰত লিখা সম্ভব ন'হ'ব ।\n"
 
 #: kdecore/io/ksavefile.cpp:84
 msgid "No target filename has been given."
@@ -7349,6 +7349,11 @@ msgstr[1] "%1 নথিপত্ৰ"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
 
+#: kdeui/kernel/kapplication.cpp:830
+#, kde-format
+msgid "The style '%1' was not found"
+msgstr "'%1' বিন্যাস পোৱা নাযায়"
+
 #: kdeui/kernel/kuniqueapplication.cpp:88
 msgid "Do not run in the background."
 msgstr "পটভূমিত সঞ্চালন কৰা ন'হ'ব ।"
@@ -7356,11 +7361,6 @@ msgstr "পটভূমিত সঞ্চালন কৰা ন'হ'ব ।"
 #: kdeui/kernel/kuniqueapplication.cpp:90
 msgid "Internally added if launched from Finder"
 msgstr ""
-
-#: kdeui/kernel/kapplication.cpp:830
-#, kde-format
-msgid "The style '%1' was not found"
-msgstr "'%1' বিন্যাস পোৱা নাযায়"
 
 #: kdeui/notifications/knotificationrestrictions.cpp:181
 msgid "Unknown Application"
@@ -13908,12 +13908,12 @@ msgstr "দিনৰ উপদেশ (&D)"
 msgid "No such function \"%1\""
 msgstr "আপেক্ষক \"%1\" অনুপস্থি"
 
-#: kdecore/date/kdatetime.cpp:1522 kdecore/date/kdatetime.cpp:1532
-#: kdecore/date/kdatetime.cpp:2982
+#: kdecore/date/kdatetime.cpp:1523 kdecore/date/kdatetime.cpp:1533
+#: kdecore/date/kdatetime.cpp:2983
 msgid "am"
 msgstr "am"
 
-#: kdecore/date/kdatetime.cpp:2990
+#: kdecore/date/kdatetime.cpp:2991
 msgid "pm"
 msgstr "pm"
 
