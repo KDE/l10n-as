@@ -2,24 +2,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-19 03:55+0200\n"
-"PO-Revision-Date: 2009-01-16 16:49+0530\n"
-"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
-"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"PO-Revision-Date: 2011-07-07 10:15+0530\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.2\n"
+"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: activation.cpp:731
 #, kde-format
 msgid "Window '%1' demands attention."
-msgstr "সংযোগক্ষেত্ৰ '%1' ৰ পৰা চেতাৱনী প্ৰাপ্ত হৈছে ।"
+msgstr "উইন্ডো '%1' ৰ পৰা মনোযোগৰ দাবী কৰে।"
 
 #: composite.cpp:279
 #, kde-format
@@ -27,6 +28,9 @@ msgid ""
 "Desktop effects have been suspended by another application.<br/>You can "
 "resume using the '%1' shortcut."
 msgstr ""
+"ডেস্কটপ প্ৰভাৱসমূহ অন্য অনুপ্ৰয়োগ দ্বাৰা বাতিল কৰা হৈছে। <br/> আপুনি '%1' শৰ্টকাট "
+"ব্যৱহাৰ কৰি "
+"চলাই থাকিব পাৰিব।"
 
 #: composite.cpp:561
 msgid ""
@@ -34,6 +38,10 @@ msgid ""
 "You can disable functionality checks in System Settings (on the Advanced tab "
 "in Desktop Effects)."
 msgstr ""
+"ডেস্কটপ প্ৰভাৱসমূহ অতি লেহেম আছিল আৰু বাতিল কৰা হৈছে।\n"
+"আপুনি চিস্টেম সংহতিসমূহত কাৰ্যকৰীতা নীৰিক্ষণ অসামৰ্থবান কৰিব পাৰিব (ডেস্কটপ "
+"প্ৰভাৱসমূহৰ "
+"উন্নত টেবত)।"
 
 #: composite.cpp:564
 #, kde-format
@@ -44,6 +52,12 @@ msgid ""
 "You can disable functionality checks in System Settings (on the Advanced tab "
 "in Desktop Effects)."
 msgstr ""
+"ডেস্কটপ প্ৰভাৱসমূহ অতি লেহেম আছিল আৰু বাতিল কৰা হৈছে।\n"
+"যদি এইটো এটা অস্থায়ী সমস্যা আছিল, আপুনি '%1'  শৰ্টকাট ব্যৱহাৰ কৰি "
+"চলাই থাকিব পাৰিব।\n"
+"আপুনি চিস্টেম সংহতিসমূহত কাৰ্যকৰীতা নীৰিক্ষণ অসামৰ্থবান কৰিব পাৰিব (ডেস্কটপ "
+"প্ৰভাৱসমূহৰ "
+"উন্নত টেবত)।"
 
 #: compositingprefs.cpp:108
 msgid ""
@@ -53,6 +67,12 @@ msgid ""
 "<b>be aware that this might result in an immediate crash!</b></"
 "p><p>Alternatively, you might want to use the XRender backend instead.</p>"
 msgstr ""
+"<b>OpenGL compositing (অবিকল্পিত)-এ KWin -ক আগতেও স্খলন কৰিছে।</"
+"b><br>ই সম্ভৱত এটা ড্ৰাইভাৰ বাগৰ কাৰণে।<p>যদি আপুনি ভাবিছে আপুনি ইতিমধ্যে "
+"এটা স্থিৰ ড্ৰাইভাৰলে আপডেইট কৰিছে,<br>আপুনি এই সুৰক্ষা পুনৰ সংস্থাপন কৰিব পাৰিব "
+"কিন্তু "
+"<b>মনত ৰাখিব যে ই এটা তৎক্ষনাত স্খলন ঘঠাব পাৰে!</b></"
+"p><p>বিকল্পভাৱে, আপুনি XRender বেকএন্ড ব্যৱহাৰ কৰিম বুলি ভাবিব পাৰে।</p>"
 
 #: compositingprefs.cpp:116
 msgid "Required X extensions (XComposite and XDamage) are not available."
@@ -78,10 +98,12 @@ msgid ""
 "Compositing was disabled at compile time.\n"
 "It is likely Xorg development headers were not installed."
 msgstr ""
+"Compositing -ক কমপাইল সময়ত অসামৰ্থবান কৰা হৈছিল।\n"
+"খুব সম্ভৱত Xorg উন্নয়ন হেডাৰসমূহ ইনস্টল কৰা হোৱা নাই।"
 
 #: kwinbindings.cpp:58
 msgid "System"
-msgstr "ব্যৱস্থাপ্ৰণালী"
+msgstr "চিস্টেম"
 
 #: kwinbindings.cpp:61
 msgid "Navigation"
@@ -89,39 +111,35 @@ msgstr "পৰিদৰ্শন"
 
 #: kwinbindings.cpp:62
 msgid "Walk Through Windows"
-msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+msgstr "উইন্ডোসমূহৰ পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:63
 msgid "Walk Through Windows (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+msgstr "উইন্ডোসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: kwinbindings.cpp:64
-#, fuzzy
 #| msgid "Walk Through Windows"
 msgid "Walk Through Window Tabs"
-msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+msgstr "উইন্ডো টেব সমূহৰে পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:65
-#, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Window Tabs (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+msgstr "উইন্ডো টেবসমূহৰে পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: kwinbindings.cpp:66
 msgid "Remove Window From Group"
-msgstr ""
+msgstr "উইন্ডোক দলৰ পৰা আতৰাওক"
 
 #: kwinbindings.cpp:67
-#, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+msgstr "Windows বিকল্পৰ মাজেৰে পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:68
-#, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+msgstr "Windows বিকল্পৰ মাজেৰে পৰিদৰ্শন কৰক (বিপৰিত দিশে)"
 
 #: kwinbindings.cpp:69
 msgid "Walk Through Desktops"
@@ -129,281 +147,270 @@ msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:70
 msgid "Walk Through Desktops (Reverse)"
-msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+msgstr "ডেস্কটপসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: kwinbindings.cpp:71
 msgid "Walk Through Desktop List"
-msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
+msgstr "ডেস্কটপ তালিকা পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:72
 msgid "Walk Through Desktop List (Reverse)"
-msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+msgstr "ডেস্কটপ তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: kwinbindings.cpp:75
 msgid "Windows"
-msgstr "সংযোগক্ষেত্ৰ"
+msgstr "Windows"
 
 #: kwinbindings.cpp:76
 msgid "Window Operations Menu"
-msgstr "সংযোগক্ষেত্ৰ পৰিচালনাৰ তালিকা"
+msgstr "উইন্ডো পৰিচালনাৰ তালিকা"
 
 #: kwinbindings.cpp:78
 msgid "Close Window"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
+msgstr "উইন্ডো বন্ধ কৰক"
 
 #: kwinbindings.cpp:80
 msgid "Maximize Window"
-msgstr "সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
+msgstr "উইন্ডো ডাঙৰ কৰক"
 
 #: kwinbindings.cpp:82
 msgid "Maximize Window Vertically"
-msgstr "উলম্ব দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
+msgstr "উলম্ব দিশত উইন্ডো ডাঙৰ কৰক"
 
 #: kwinbindings.cpp:84
 msgid "Maximize Window Horizontally"
-msgstr "অনুভূমিক দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
+msgstr "অনুভূমিক দিশত উইন্ডো ডাঙৰ কৰক"
 
 #: kwinbindings.cpp:86
 msgid "Minimize Window"
-msgstr "সংযোগক্ষেত্ৰ সৰু কৰক"
+msgstr "উইন্ডো সৰু কৰক"
 
 #: kwinbindings.cpp:88
 msgid "Shade Window"
-msgstr "ছায়াবৃত সংযোগক্ষেত্ৰ"
+msgstr "ছায়াবৃত উইন্ডো"
 
 #: kwinbindings.cpp:90
 msgid "Move Window"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+msgstr "উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:92
 msgid "Resize Window"
-msgstr "সংযোগক্ষেত্ৰৰ মাপ পৰিবৰ্তন"
+msgstr "উইন্ডো পুনৰ আকাৰ দিয়ক"
 
 #: kwinbindings.cpp:94
 msgid "Raise Window"
-msgstr "সংযোগক্ষেত্ৰ উঠাওক"
+msgstr "উইন্ডো উঠাওক"
 
 #: kwinbindings.cpp:96
 msgid "Lower Window"
-msgstr "সংযোগক্ষেত্ৰ নমাওক"
+msgstr "উইন্ডো নমাওক"
 
 #: kwinbindings.cpp:98
 msgid "Toggle Window Raise/Lower"
-msgstr ""
+msgstr "উইন্ডো অদল বদল কৰক উঠাওক/নমাওক"
 
 #: kwinbindings.cpp:100
 msgid "Make Window Fullscreen"
-msgstr "সম্পূৰ্ণ পৰ্দ্দাত সংযোগক্ষেত্ৰ প্ৰদৰ্শন"
+msgstr "সম্পূৰ্ণ পৰ্দাত উইন্ডো প্ৰদৰ্শন"
 
 #: kwinbindings.cpp:102
 msgid "Hide Window Border"
-msgstr "সংযোগক্ষেত্ৰৰ প্ৰান্ত লুকাওক কৰক"
+msgstr "উইন্ডোৰ প্ৰান্ত লুকাওক কৰক"
 
 #: kwinbindings.cpp:104
 msgid "Keep Window Above Others"
-msgstr "সকলো সংযোগক্ষেত্ৰৰ শীৰ্ষত এই সংযোগক্ষেত্ৰ স্থাপন কৰক"
+msgstr "সকলো উইন্ডোৰ শীৰ্ষত এই উইন্ডো স্থাপন কৰক"
 
 #: kwinbindings.cpp:106
 msgid "Keep Window Below Others"
-msgstr "অন্য সংযোগক্ষেত্ৰৰ তলত এই সংযোগক্ষেত্ৰ স্থাপন কৰক"
+msgstr "অন্য উইন্ডোৰ তলত এই উইন্ডো স্থাপন কৰক"
 
 #: kwinbindings.cpp:108
 msgid "Activate Window Demanding Attention"
-msgstr ""
+msgstr "মনোযোগৰ দাবী কৰি উইন্ডো সক্ৰিয় কৰক"
 
 #: kwinbindings.cpp:110
 msgid "Setup Window Shortcut"
-msgstr "সংযোগক্ষেত্ৰৰ শৰ্ট কাট নিৰ্ধাৰণ কৰক"
+msgstr "উইন্ডোৰ শৰ্ট কাট নিৰ্ধাৰণ কৰক"
 
 #: kwinbindings.cpp:112
 msgid "Pack Window to the Right"
-msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "সোঁফালে উইন্ডো থুপ কৰক"
 
 #: kwinbindings.cpp:114
 msgid "Pack Window to the Left"
-msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "বাওঁফালে উইন্ডো থুপ কৰক"
 
 #: kwinbindings.cpp:116
 msgid "Pack Window Up"
-msgstr "ওপৰত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "ওপৰত উইন্ডো থুপ কৰক"
 
 #: kwinbindings.cpp:118
 msgid "Pack Window Down"
-msgstr "তলত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "তলত উইন্ডো থুপ কৰক"
 
 #: kwinbindings.cpp:120
 msgid "Pack Grow Window Horizontally"
-msgstr ""
+msgstr "উইন্ডোক আনুভুমিকভাৱে থুপত বঢ়াওক"
 
 #: kwinbindings.cpp:122
 msgid "Pack Grow Window Vertically"
-msgstr ""
+msgstr "উইন্ডোক উলম্বভাৱে থুপত বঢ়াওক"
 
 #: kwinbindings.cpp:124
 msgid "Pack Shrink Window Horizontally"
-msgstr ""
+msgstr "উইন্ডোক আনুভুমিকভাৱে থুপ সংকোচিত কৰক"
 
 #: kwinbindings.cpp:126
 msgid "Pack Shrink Window Vertically"
-msgstr ""
+msgstr "উইন্ডোক উলম্বভাৱে থুপ সংকোচিত কৰক"
 
 #: kwinbindings.cpp:128
-#, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Left"
-msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক বাওফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:130
-#, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Right"
-msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক সোঁফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:132
-#, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Top Left"
-msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক উপৰত বাওফালে টাইল কৰক"
 
 #: kwinbindings.cpp:134
-#, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Bottom Left"
-msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক তল বাওফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:136
-#, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Top Right"
-msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক উপৰ সোঁফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:138
-#, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Bottom Right"
-msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক তল বাওফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:140
-#, fuzzy
 #| msgid "Switch to Screen 0"
 msgid "Switch to Window Above"
-msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+msgstr "উপৰৰ উইন্ডোলে যাওক"
 
 #: kwinbindings.cpp:142
-#, fuzzy
 #| msgid "Switch to Previous Desktop"
 msgid "Switch to Window Below"
-msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "তলৰ উইন্ডোলে যাওক"
 
 #: kwinbindings.cpp:144
-#, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Switch to Window to the Right"
-msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক সোঁফালে লৈ যাওক"
 
 #: kwinbindings.cpp:146
-#, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Switch to Window to the Left"
-msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+msgstr "উইন্ডোক বাওফালে লৈ যাওক"
 
 #: kwinbindings.cpp:150
 msgid "Window & Desktop"
-msgstr "সংযোগক্ষেত্ৰ & ডেষ্কট'প"
+msgstr "উইন্ডো & ডেস্কটপ"
 
 #: kwinbindings.cpp:151
 msgid "Keep Window on All Desktops"
-msgstr "সকলো ডেষ্কট'পত সংযোগক্ষেত্ৰ প্ৰদৰ্শিত হ'ব"
+msgstr "সকলো ডেস্কটপত উইন্ডো প্ৰদৰ্শিত হ'ব"
 
 #: kwinbindings.cpp:155
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Window to Desktop 1"
 msgid "Window to Desktop %1"
-msgstr "ডেষ্কট'প ১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "ডেস্কটপ %1 লে উইন্ডো"
 
 #: kwinbindings.cpp:157
 msgid "Window to Next Desktop"
-msgstr "পৰবৰ্তি ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "পৰবৰ্তি ডেস্কটপলৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:158
 msgid "Window to Previous Desktop"
-msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "পূৰ্ববৰ্তী ডেস্কটপলৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:159
 msgid "Window One Desktop to the Right"
-msgstr "সোঁফালৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "সোঁফালৰ ডেস্কটপলৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:160
 msgid "Window One Desktop to the Left"
-msgstr "বাওঁফালৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "বাওঁফালৰ ডেস্কটপলৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:161
 msgid "Window One Desktop Up"
-msgstr "ওপৰৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "ওপৰৰ ডেস্কটপলৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:162
 msgid "Window One Desktop Down"
-msgstr "তলৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "তলৰ ডেস্কটপলৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:165
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Window to Screen 1"
 msgid "Window to Screen %1"
-msgstr "পৰ্দ্দা ১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "পৰ্দা %1 লে উইন্ডো"
 
 #: kwinbindings.cpp:167
 msgid "Window to Next Screen"
-msgstr "পৰবৰ্তী পৰ্দ্দালৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+msgstr "পৰবৰ্তী পৰ্দালৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:168
-#, fuzzy
 #| msgid "Show Desktop Grid"
 msgid "Show Desktop"
-msgstr "Desktop Grid দেখুৱাওক"
+msgstr "ডেস্কটপ দেখুৱাওক"
 
 #: kwinbindings.cpp:171
 msgid "Desktop Switching"
-msgstr "ডেষ্কট'প পৰিবৰ্তন"
+msgstr "ডেস্কটপ পৰিবৰ্তন"
 
 #: kwinbindings.cpp:177
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Switch to Desktop 1"
 msgid "Switch to Desktop %1"
-msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
+msgstr "ডেস্কটপ %1 লে লৈ যাওক"
 
 #: kwinbindings.cpp:180
 msgid "Switch to Next Desktop"
-msgstr "পৰবৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "পৰবৰ্তী ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:181
 msgid "Switch to Previous Desktop"
-msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "পূৰ্ববৰ্তী ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:182
 msgid "Switch One Desktop to the Right"
-msgstr "সোঁফালৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "সোঁফালৰ ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:183
 msgid "Switch One Desktop to the Left"
-msgstr "বাওঁফালৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "বাওঁফালৰ ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:184
 msgid "Switch One Desktop Up"
-msgstr "উপৰৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "উপৰৰ ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:185
 msgid "Switch One Desktop Down"
-msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "তলৰ ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:188
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Switch to Screen 1"
 msgid "Switch to Screen %1"
-msgstr "পৰ্দ্দা ১ লৈ পৰিবৰ্তন কৰক"
+msgstr "পৰ্দা %1 লে লৈ যাওক"
 
 #: kwinbindings.cpp:191
 msgid "Switch to Next Screen"
-msgstr "পৰবৰ্তী পৰ্দ্দালৈ পৰিবৰ্তন কৰক"
+msgstr "পৰবৰ্তী পৰ্দালৈ লৈ যাওক"
 
 #: kwinbindings.cpp:194
 msgid "Miscellaneous"
@@ -415,88 +422,81 @@ msgstr "মাউছ এমুলেছন"
 
 #: kwinbindings.cpp:196
 msgid "Kill Window"
-msgstr "সংযোগক্ষেত্ৰ Kill কৰক"
+msgstr "উইন্ডো Kill কৰক"
 
 #: kwinbindings.cpp:197
 msgid "Block Global Shortcuts"
-msgstr "সাৰ্বজনীন শৰ্ট বাট ৰোধ কৰা হ'ব"
+msgstr "সাৰ্বজনীন শৰ্ট কাট ৰোধ কৰক"
 
 #: kwinbindings.cpp:198
 msgid "Suspend Compositing"
-msgstr ""
+msgstr "Compositing বাতিল কৰক"
 
 #: kwinbindings.cpp:201
 msgid "Tiling"
-msgstr ""
+msgstr "টাইল কৰা"
 
 #: kwinbindings.cpp:202
 msgid "Enable/Disable Tiling"
-msgstr ""
+msgstr "টাইল কৰা সামৰ্থবান/অসামৰ্থবান কৰক"
 
 #: kwinbindings.cpp:203
 msgid "Toggle Floating"
-msgstr ""
+msgstr "উপঙা অদল বদল কৰক"
 
 #: kwinbindings.cpp:205
-#, fuzzy
 #| msgid "Switch to Desktop 1"
 msgid "Switch Focus Left"
-msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
+msgstr "মনোযোগ বাওফালে লৈ যাওক"
 
 #: kwinbindings.cpp:206
 msgid "Switch Focus Right"
-msgstr ""
+msgstr "মনোযোগ সোঁফালে লৈ যাওক"
 
 #: kwinbindings.cpp:207
-#, fuzzy
 #| msgid "Switch One Desktop Up"
 msgid "Switch Focus Up"
-msgstr "উপৰৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "মনোযোগ উপৰফালে লৈ যাওক"
 
 #: kwinbindings.cpp:208
-#, fuzzy
 #| msgid "Switch One Desktop Down"
 msgid "Switch Focus Down"
-msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+msgstr "মনোযোগ তলফালে লৈ যাওক"
 
 #: kwinbindings.cpp:209
-#, fuzzy
 #| msgid "Move Window"
 msgid "Move Window Left"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+msgstr "উইন্ডো বাওফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:210
-#, fuzzy
 #| msgid "Move Window"
 msgid "Move Window Right"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+msgstr "উইন্ডো সোঁফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:211
-#, fuzzy
 #| msgid "Move Window"
 msgid "Move Window Up"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+msgstr "উইন্ডো উপৰফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:212
-#, fuzzy
 #| msgid "Move Window"
 msgid "Move Window Down"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+msgstr "উইন্ডো তলৰফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:213
 msgid "Next Layout"
-msgstr ""
+msgstr "পৰৱৰ্তী বিন্যাস"
 
 #: kwinbindings.cpp:214
 msgid "Previous Layout"
-msgstr ""
+msgstr "পূৰ্বৱৰ্তী বিন্যাস"
 
 #: main.cpp:178
 msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
 "started.\n"
 msgstr ""
-"kwin: সম্ভৱতঃ এটা সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা বৰ্তমানে চলিছে । kwin আৰম্ভ কৰা নহয় "
+"kwin: সম্ভৱতঃ এটা উইন্ডো ব্যৱস্থাপক বৰ্তমানে চলি আছে । kwin আৰম্ভ কৰা নহল। "
 "।\n"
 
 #: main.cpp:206
@@ -507,19 +507,19 @@ msgid ""
 msgstr ""
 "KWin ত সমস্যা দেখা দিছে ।\n"
 "একাধিক বাৰ বিপৰ্যস্ত হৈছে ।\n"
-"আপুনি কোনো পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা নিৰ্ব্বাচন কৰিব পাৰে:"
+"আপুনি কোনো পৃথক উইন্ডো ব্যৱস্থাপক নিৰ্ব্বাচন কৰিব পাৰে:"
 
 #: main.cpp:263
 msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using --"
 "replace)\n"
 msgstr ""
-"kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা "
-"বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
+"kwin: ব্যৱস্থাপক ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক উইন্ডো ব্যৱস্থাপক "
+"বৰ্তমানে চলি আছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
 #: main.cpp:394
 msgid "KDE window manager"
-msgstr "KDE সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা"
+msgstr "KDE উইন্ডো ব্যৱস্থাপক"
 
 #: main.cpp:452 killer/killer.cpp:40
 msgid "KWin"
@@ -527,27 +527,27 @@ msgstr "KWin"
 
 #: main.cpp:456
 msgid "(c) 1999-2008, The KDE Developers"
-msgstr "(c) 1999-2008, The KDE Developers"
+msgstr "(c) ১৯৯৯-২০০৮,  KDE উন্নয়নকাৰীসমূহ"
 
 #: main.cpp:457
 msgid "Matthias Ettrich"
-msgstr "Matthias Ettrich"
+msgstr "মেথিয়াছ এট্ৰিক"
 
 #: main.cpp:458
 msgid "Cristian Tibirna"
-msgstr "Cristian Tibirna"
+msgstr "ক্ৰিস্টিয়ান টিবিৰনা"
 
 #: main.cpp:459
 msgid "Daniel M. Duley"
-msgstr "Daniel M. Duley"
+msgstr "ডেনিয়েল.এম.ডুলে"
 
 #: main.cpp:460
 msgid "Luboš Luňák"
-msgstr "Luboš Luňák"
+msgstr "লুবোচ লুনাক"
 
 #: main.cpp:461
 msgid "Martin Gräßlin"
-msgstr ""
+msgstr "মাৰ্টিন গ্ৰেবলিন"
 
 #: main.cpp:461
 msgid "Maintainer"
@@ -555,21 +555,21 @@ msgstr "পৰিচালক"
 
 #: main.cpp:466
 msgid "Disable configuration options"
-msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় কৰা হ'ব"
+msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় কৰক"
 
 #: main.cpp:467
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr ""
-"ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক প্ৰতিস্থাপন "
+"ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত উইন্ডো ব্যৱস্থাপকক প্ৰতিস্থাপন "
 "কৰক"
 
 #: main.cpp:468
 msgid "Indicate that KWin has recently crashed n times"
-msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰা হ'ব"
+msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰক"
 
 #: main.cpp:469
 msgid "Load the script testing dialog"
-msgstr ""
+msgstr "স্ক্ৰিপ্ট পৰিক্ষা কৰা ডাইলগ লোড কৰক"
 
 #: plugins.cpp:48
 msgid "KWin: "
@@ -578,63 +578,60 @@ msgstr "KWin: "
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "অমিতাক্ষ ফুকন"
+msgstr "অমিতাক্ষ ফুকন, নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "aphukan@fedoraproject.org"
+msgstr "aphukan@fedoraproject.org, ngoswami@redhat.com"
 
 #: tabbox.cpp:232
-#, fuzzy
 #| msgid "Show Desktop Grid"
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
-msgstr "Desktop Grid দেখুৱাওক"
+msgstr "ডেস্কটপ দেখুৱাওক"
 
 #: tiling.cpp:73
-#, fuzzy
 #| msgid "Disabled"
 msgid "Tiling Disabled"
-msgstr "নিষ্ক্ৰিয় কৰক"
+msgstr "টাইল কৰা অসামৰ্থবান কৰা হৈছে"
 
 #: tiling.cpp:77
 msgid "Tiling Enabled"
-msgstr ""
+msgstr "টাইল কৰা সামৰ্থবান কৰা হৈছে"
 
 #: tilinglayoutfactory.cpp:43
 #, kde-format
 msgid "Layout changed to %1"
-msgstr ""
+msgstr "বিন্যাস %1 লে সলনি কৰা হৈছে"
 
 #: tilinglayoutfactory.cpp:60
 msgctxt "Spiral tiling layout"
 msgid "Spiral"
-msgstr ""
+msgstr "কুণ্ডলিত"
 
 #: tilinglayoutfactory.cpp:61
 msgctxt "Two-column horizontal tiling layout"
 msgid "Columns"
-msgstr ""
+msgstr "স্তম্ভসমূহ"
 
 #: tilinglayoutfactory.cpp:62
-#, fuzzy
 #| msgid "Close Window"
 msgctxt "Floating layout, windows aren't tiled at all"
 msgid "Floating"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
+msgstr "উপঙি থকা"
 
 #: useractions.cpp:76
 msgid "Keep &Above Others"
-msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত স্থাপন (&A)"
+msgstr "সকলো উইন্ডোৰ ওপৰত ৰাখক (&A)"
 
 #: useractions.cpp:84
 msgid "Keep &Below Others"
-msgstr "সকল সংযোগক্ষেত্ৰৰ তলত স্থাপন (&B)"
+msgstr "সকল উইন্ডোৰ তলত ৰাখক (&B)"
 
 #: useractions.cpp:92
 msgid "&Fullscreen"
-msgstr "সম্পূৰ্ণ পৰ্দ্দাত প্ৰদৰ্শন (&F)"
+msgstr "সম্পূৰ্ণ পৰ্দাত প্ৰদৰ্শন (&F)"
 
 #: useractions.cpp:100
 msgid "&No Border"
@@ -642,17 +639,16 @@ msgstr "প্ৰান্ত নোহোৱা (&N)"
 
 #: useractions.cpp:107
 msgid "Window &Shortcut..."
-msgstr "সংযোগক্ষেত্ৰৰ শ'ৰ্ট কাট... (&S)"
+msgstr "উইন্ডোৰ শ'ৰ্ট কাট... (&S)"
 
 #: useractions.cpp:114
 msgid "&Special Window Settings..."
-msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ্ট্য...(&S)"
+msgstr "উইন্ডোৰ বিশেষ সংহতিসমূহ...(&S)"
 
 #: useractions.cpp:118
-#, fuzzy
 #| msgid "&Special Application Settings..."
 msgid "S&pecial Application Settings..."
-msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ বৈশিষ্ট্য...(&S)"
+msgstr "বিশেষ অনুপ্ৰয়োগ সংহতিসমূহ...(&p)"
 
 #: useractions.cpp:138
 msgid "&Opacity"
@@ -660,11 +656,11 @@ msgstr "গভিৰতা (&O)"
 
 #: useractions.cpp:141
 msgid "&Move"
-msgstr "লৰাওক (&M)"
+msgstr "স্থানান্তৰ কৰক (&M)"
 
 #: useractions.cpp:148
 msgid "Re&size"
-msgstr "মাপ পৰিবৰ্তন (&s)"
+msgstr "পুনৰ আকাৰ দিয়ক (&s)"
 
 #: useractions.cpp:154
 msgid "Mi&nimize"
@@ -680,18 +676,17 @@ msgstr "ছায়াবৃত (&a)"
 
 #: useractions.cpp:178
 msgid "Remove &From Group"
-msgstr ""
+msgstr "দলৰ পৰা আতৰাওক (&F)"
 
 #: useractions.cpp:184
 msgid "Close Entire &Group"
-msgstr ""
+msgstr "সম্পূৰ্ণ দল বন্ধ কৰক (&G)"
 
 #: useractions.cpp:195
-#, fuzzy
 #| msgid "Close Window"
 msgctxt "When in tiling mode, toggle's the window's floating/tiled state"
 msgid "&Float Window"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
+msgstr "উপঙা উইন্ডো (&F)"
 
 #: useractions.cpp:210
 msgid "Ad&vanced"
@@ -699,68 +694,64 @@ msgstr "উন্নত (&v)"
 
 #: useractions.cpp:216
 msgid "Configur&e Window Behavior..."
-msgstr "সংযোগক্ষেত্ৰৰ আচৰণ বিন্যাস কৰক...(&e)"
+msgstr "উইন্ডোৰ ব্যৱহাৰ সংৰূপণ কৰক...(&e)"
 
 #: useractions.cpp:222
 msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
 #: useractions.cpp:338
-#, fuzzy
 #| msgid "Switch to Screen 0"
 msgid "Switch to Window Tab"
-msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+msgstr "উইন্ডো টেবলে যাওক"
 
 #: useractions.cpp:372
-#, fuzzy
 #| msgid "Left"
 msgid "To the Left"
 msgstr "বাওঁফালে"
 
 #: useractions.cpp:374
-#, fuzzy
 #| msgid "Right"
 msgid "To the Right"
 msgstr "সোঁফালে"
 
 #: useractions.cpp:401
-#, fuzzy
 #| msgid "Move Window"
 msgid "Move Window to Group"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+msgstr "উইন্ডোক দললে লৈ যাওক"
 
 #: useractions.cpp:442
 msgid "To &Desktop"
-msgstr "চিহ্নিত ডেষ্কট'পলৈ স্থানান্তৰ (&D)"
+msgstr "চিহ্নিত ডেস্কটপলৈ (&D)"
 
 #: useractions.cpp:465
 msgid "Ac&tivities"
-msgstr ""
+msgstr "কাৰ্য্যসমূহ (&t)"
 
 #: useractions.cpp:478
 msgid "&All Desktops"
-msgstr "সকলো ডেষ্কট'পলৈ (&A)"
+msgstr "সকলো ডেস্কটপ (&A)"
 
 #: useractions.cpp:512
 msgid "&All Activities"
-msgstr ""
+msgstr "সকলো কাৰ্য্য (&A)"
 
 #: useractions.cpp:676
 #, kde-format
 msgid "Activate Window (%1)"
-msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
+msgstr "উইন্ডো সক্ৰিয় কৰক (%1)"
 
 #: utils.cpp:506
 #, kde-format
 msgctxt "'%1' is a keyboard shortcut like 'ctrl+w'"
 msgid "<b>%1</b> is already in use"
-msgstr ""
+msgstr "<b>%1</b> ইতিমধ্যে ব্যৱহৃত"
 
 #: utils.cpp:508
 #, kde-format
 msgctxt "keyboard shortcut '%1' is used by action '%2' in application '%3'"
 msgid "<b>%1</b> is used by %2 in %3"
-msgstr ""
+msgstr "<b>%1</b> %3 -ত %2 দ্বাৰা ব্যৱহৃত"
 
 #: workspace.cpp:1175 workspace.cpp:1197
 #, kde-format
@@ -775,6 +766,10 @@ msgid ""
 "the mouse: use the window operations menu instead, activated using the %1 "
 "keyboard shortcut."
 msgstr ""
+"আপুনি এটা উইন্ডোক তাৰ সীমাৰ বাহিৰে দেখুৱাব বিচাৰিছে।\n"
+"সীমাৰ বাহিৰে, আপুনি এই মাউছ ব্যৱহাৰ কৰি পুনৰ সীমা সামৰ্থবান কৰিব নোৱাৰিব: "
+"ইয়াৰ বিপৰিতে উইন্ডো কাৰ্য্য মেনু ব্যৱহাৰ কৰক, %1 কিবৰ্ড শৰ্টকাট ব্যৱহাৰ কৰি সক্ৰিয় "
+"কৰা।"
 
 #: workspace.cpp:2604
 #, kde-format
@@ -784,6 +779,11 @@ msgid ""
 "mode off you will not be able to disable it again using the mouse: use the "
 "window operations menu instead, activated using the %1 keyboard shortcut."
 msgstr ""
+"আপুনি এটা উইন্ডোক সম্পূৰ্ণ পৰ্দা অৱস্থাত দেখাবলে বাচিছে।\n"
+"যদি অনুপ্ৰয়োগটোৰ সম্পূৰ্ণ পৰ্দা বন্ধ কৰাৰ বিকল্প নাই আপুনি ইয়াক "
+"এই মাউছ ব্যৱহাৰ কৰি পুনৰ অসামৰ্থবান কৰিব নোৱাৰিব: ইয়াৰ "
+"বিপৰিতে উইন্ডো কাৰ্য্যসমূহ মেনু ব্যৱহাৰ কৰক, %1 কিবৰ্ড শৰ্টকাট "
+"ব্যৱহাৰ কৰি সক্ৰিয় কৰা।"
 
 #: killer/killer.cpp:41
 msgid "KWin helper utility"
@@ -795,11 +795,11 @@ msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনু�
 
 #: killer/killer.cpp:45
 msgid "Hostname on which the application is running"
-msgstr "অনুপ্ৰয়োগ চালনকাৰী যন্ত্ৰৰ গৃহস্থৰ নাম"
+msgstr "হস্টৰ নাম যত অনুপ্ৰয়োগ চলি আছে"
 
 #: killer/killer.cpp:46
 msgid "Caption of the window to be terminated"
-msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত সংযোগক্ষেত্ৰৰ শিৰোনাম"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত উইন্ডোৰ শিৰোনাম"
 
 #: killer/killer.cpp:47
 msgid "Name of the application to be terminated"
@@ -811,14 +811,14 @@ msgstr "অনুপ্ৰয়োগৰ সম্পদৰ ID"
 
 #: killer/killer.cpp:49
 msgid "Time of user action causing termination"
-msgstr ""
+msgstr "অৱসান ঘটোৱা ব্যৱহাৰকাৰী কাৰ্য্যৰ সময় "
 
 #: killer/killer.cpp:66
 msgid "This helper utility is not supposed to be called directly."
-msgstr "সহায়ক সামগ্ৰীক পোনেপোনে মাতিব নালাগে ।"
+msgstr "সহায়ক সামগ্ৰীক প্ৰত্যক্ষভাৱে মাতিব নালাগে ।"
 
 #: killer/killer.cpp:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ""
 #| "<p>Window with title \"<b>%2</b>\" is not responding. This window belongs "
 #| "to application <b>%1</b> (PID=%3, hostname=%4).</p><p>Do you wish to "
@@ -830,181 +830,182 @@ msgid ""
 "the application process <em>including <b>all</b> of its child windows</em>?"
 "<br /><b>Any unsaved data will be lost.</b></p>"
 msgstr ""
-"<p>\"<b>%2</b>\" শিৰোনাম থকা সংযোগক্ষেত্ৰৰ পৰা কোনো প্ৰতিক্ৰিয়া হোৱা নাই  । এই "
-"সংযোগক্ষেত্ৰৰ গৰাকী <b>%1</b> অনুপ্ৰয়োগ (PID=%3, গৃহস্থ নাম=%4) ।</p><p>এই অনুপ্ৰয়োগ "
-"বন্ধ কৰিব নে ? (ইয়াৰ ফলত, অনুপ্ৰয়োগত উপস্থিত সকলো অসংৰক্ষিত তথ্য হেৰাব ।)</p>"
+"<p>উইন্ডো \"<b>%2</b>\" -য় প্ৰতিক্ৰিয়া কৰা নাই। ই অনুপ্ৰয়োগ <b>%1</b> (প্ৰক্ৰিয়া ID "
+"= %3, হস্টনাম = %4) -ৰ হয়। </p><p>আপুনি অনুপ্ৰয়োগ প্ৰক্ৰিয়াটো সমাপ্ত কৰিব বিচাৰে নে "
+"<em>ইয়াৰ <b>সকলো</b> ছাইল্ড উইন্ডো অন্তৰ্ভুক্ত কৰাকৈ</em>? <br /><b>সঞ্চয় "
+"নকৰা যিকোনো তথ্য হেৰাই যাব।</b></p>"
 
 #: killer/killer.cpp:76
 #, kde-format
 msgid "&Terminate Application %1"
-msgstr ""
+msgstr "অনুপ্ৰয়োগ %1 সমাপ্ত কৰক (&T)"
 
 #: tabbox/clientmodel.cpp:56
 msgid "*** No Windows ***"
-msgstr "*** সংযোগক্ষেত্ৰ অনুপস্থিত ***"
+msgstr "*** উইন্ডো অনুপস্থিত ***"
 
 #~ msgid ""
 #~ "\n"
 #~ "KWin will now exit..."
 #~ msgstr ""
 #~ "\n"
-#~ "KWin এতিয়া বন্ধ কৰা হ'ব..."
+#~ "KWin এতিয়া বন্ধ কৰক..."
 
 #~ msgid "Window to Desktop 2"
-#~ msgstr "ডেষ্কট'প ২ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ২ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 3"
-#~ msgstr "ডেষ্কট'প ৩ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৩ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 4"
-#~ msgstr "ডেষ্কট'প ৪ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৪ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 5"
-#~ msgstr "ডেষ্কট'প ৫ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৫ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 6"
-#~ msgstr "ডেষ্কট'প ৬ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৬ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 7"
-#~ msgstr "ডেষ্কট'প ৭ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৭ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 8"
-#~ msgstr "ডেষ্কট'প ৮ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৮ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 9"
-#~ msgstr "ডেষ্কট'প ৯ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ৯ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 10"
-#~ msgstr "ডেষ্কট'প ১০ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১০ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 11"
-#~ msgstr "ডেষ্কট'প ১১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১১ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 12"
-#~ msgstr "ডেষ্কট'প ১২ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১২ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 13"
-#~ msgstr "ডেষ্কট'প ১৩ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৩ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 14"
-#~ msgstr "ডেষ্কট'প ১৪ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৪ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 15"
-#~ msgstr "ডেষ্কট'প ১৫ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৫ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 16"
-#~ msgstr "ডেষ্কট'প ১৬ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৬ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 17"
-#~ msgstr "ডেষ্কট'প ১৭ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৭ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 18"
-#~ msgstr "ডেষ্কট'প ১৮ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৮ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 19"
-#~ msgstr "ডেষ্কট'প ১৯ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ১৯ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Desktop 20"
-#~ msgstr "ডেষ্কট'প ২০ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "ডেস্কটপ ২০ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 0"
-#~ msgstr "পৰ্দ্দা ০ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ০ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 2"
-#~ msgstr "পৰ্দ্দা ২ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ২ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 3"
-#~ msgstr "পৰ্দ্দা ৩ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ৩ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 4"
-#~ msgstr "পৰ্দ্দা ৪ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ৪ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 5"
-#~ msgstr "পৰ্দ্দা ৫ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ৫ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 6"
-#~ msgstr "পৰ্দ্দা ৬ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ৬ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Window to Screen 7"
-#~ msgstr "পৰ্দ্দা ৭ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
+#~ msgstr "পৰ্দা ৭ লৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #~ msgid "Switch to Desktop 2"
-#~ msgstr "ডেষ্কট'প ২ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ২ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 3"
-#~ msgstr "ডেষ্কট'প ৩ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৩ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 4"
-#~ msgstr "ডেষ্কট'প ৪ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৪ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 5"
-#~ msgstr "ডেষ্কট'প ৫ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৫ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 6"
-#~ msgstr "ডেষ্কট'প ৬ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৬ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 7"
-#~ msgstr "ডেষ্কট'প ৭ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৭ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 8"
-#~ msgstr "ডেষ্কট'প ৮ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৮ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 9"
-#~ msgstr "ডেষ্কট'প ৯ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ৯ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 10"
-#~ msgstr "ডেষ্কট'প ১০ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১০ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 11"
-#~ msgstr "ডেষ্কট'প ১১ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১১ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 12"
-#~ msgstr "ডেষ্কট'প ১২ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১২ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 13"
-#~ msgstr "ডেষ্কট'প ১৩ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৩ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 14"
-#~ msgstr "ডেষ্কট'প ১৪ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৪ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 15"
-#~ msgstr "ডেষ্কট'প ১৫ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৫ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 16"
-#~ msgstr "ডেষ্কট'প ১৬ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৬ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 17"
-#~ msgstr "ডেষ্কট'প ১৭ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৭ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 18"
-#~ msgstr "ডেষ্কট'প ১৮ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৮ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 19"
-#~ msgstr "ডেষ্কট'প ১৯ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ১৯ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Desktop 20"
-#~ msgstr "ডেষ্কট'প ২০ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "ডেস্কটপ ২০ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 0"
-#~ msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ০ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 2"
-#~ msgstr "পৰ্দ্দা ২ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ২ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 3"
-#~ msgstr "পৰ্দ্দা ৩ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ৩ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 4"
-#~ msgstr "পৰ্দ্দা ৪ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ৪ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 5"
-#~ msgstr "পৰ্দ্দা ৫ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ৫ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 6"
-#~ msgstr "পৰ্দ্দা ৬ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ৬ লৈ লৈ যাওক"
 
 #~ msgid "Switch to Screen 7"
-#~ msgstr "পৰ্দ্দা ৭ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ৭ লৈ লৈ যাওক"
 
 #, fuzzy
 #~| msgid "<center><b>%1 preview</b></center>"
@@ -1015,10 +1016,10 @@ msgstr "*** সংযোগক্ষেত্ৰ অনুপস্থিত ***
 #~ msgstr "তালিকা"
 
 #~ msgid "Not on all desktops"
-#~ msgstr "সকলো ডেষ্কট'পলৈ নহয়"
+#~ msgstr "সকলো ডেস্কটপলৈ নহয়"
 
 #~ msgid "On all desktops"
-#~ msgstr "সকলো ডেষ্কট'পত"
+#~ msgstr "সকলো ডেস্কটপত"
 
 #~ msgid "Help"
 #~ msgstr "সহায়"
@@ -1036,16 +1037,16 @@ msgstr "*** সংযোগক্ষেত্ৰ অনুপস্থিত ***
 #~ msgstr "বন্ধ কৰক"
 
 #~ msgid "Do not keep above others"
-#~ msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত নহয়"
+#~ msgstr "সকলো উইন্ডোৰ ওপৰত নহয়"
 
 #~ msgid "Keep above others"
-#~ msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত"
+#~ msgstr "সকলো উইন্ডোৰ ওপৰত"
 
 #~ msgid "Do not keep below others"
-#~ msgstr "অন্যান্য সংযোগক্ষেত্ৰৰ তলত নহয়"
+#~ msgstr "অন্যান্য উইন্ডোৰ তলত নহয়"
 
 #~ msgid "Keep below others"
-#~ msgstr "অন্যান্য সংযোগক্ষেত্ৰৰ তলত"
+#~ msgstr "অন্যান্য উইন্ডোৰ তলত"
 
 #~ msgid "Unshade"
 #~ msgstr "ছায়াবিহীন"
@@ -1074,22 +1075,22 @@ msgstr "*** সংযোগক্ষেত্ৰ অনুপস্থিত ***
 #, fuzzy
 #~| msgid "Move Window"
 #~ msgid "Move Down"
-#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+#~ msgstr "উইন্ডো স্থানান্তৰণ"
 
 #, fuzzy
 #~| msgid "Walk Through Windows"
 #~ msgid "Walk Through Grouped Windows"
-#~ msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+#~ msgstr "উইন্ডোসমূহৰ পৰিদৰ্শন কৰক"
 
 #, fuzzy
 #~| msgid "Walk Through Windows (Reverse)"
 #~ msgid "Walk Through Grouped Windows (Reverse)"
-#~ msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+#~ msgstr "উইন্ডোসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #, fuzzy
 #~| msgid "Switch to Screen 0"
 #~ msgid "Switch to group window"
-#~ msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
+#~ msgstr "পৰ্দা ০ লৈ লৈ যাওক"
 
 #~ msgid "kwin: failure during initialization; aborting"
 #~ msgstr "kwin: আৰম্ভ কৰোঁতে ব্যৰ্থ; পৰিত্যাগ কৰা হৈছে"
