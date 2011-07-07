@@ -2,34 +2,34 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-04-28 03:55+0200\n"
-"PO-Revision-Date: 2009-01-15 15:43+0530\n"
-"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
-"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"PO-Revision-Date: 2011-07-07 13:00+0530\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.2\n"
+"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: actions/bundled/brightnesscontrolconfig.cpp:63
 msgctxt "Brightness level, label for the slider"
 msgid "Level"
-msgstr ""
+msgstr "স্তৰ"
 
 #: actions/bundled/dimdisplayconfig.cpp:63
 #: actions/bundled/disabledesktopeffectsconfig.cpp:69
 #: actions/bundled/runscriptconfig.cpp:80
 #: actions/bundled/suspendsessionconfig.cpp:75
 #: actions/dpms/powerdevildpmsactionconfig.cpp:59
-#, fuzzy
 #| msgid "min"
 msgid " min"
-msgstr "min"
+msgstr " min"
 
 #: actions/bundled/dimdisplayconfig.cpp:64
 #: actions/bundled/disabledesktopeffectsconfig.cpp:72
@@ -38,16 +38,16 @@ msgstr "min"
 #: actions/bundled/runscriptconfig.cpp:104
 #: actions/bundled/suspendsessionconfig.cpp:95
 msgid "After"
-msgstr ""
+msgstr "পিছত"
 
 #: actions/bundled/disabledesktopeffectsconfig.cpp:71
 #: actions/bundled/runscriptconfig.cpp:81
 msgid "On Profile Load"
-msgstr ""
+msgstr "আলেখ্য লোডত"
 
 #: actions/bundled/disabledesktopeffectsconfig.cpp:83
 msgid "Disable effects"
-msgstr ""
+msgstr "প্ৰভাৱসমূহ অসামৰ্থবান কৰক"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:77
 msgid "Do nothing"
@@ -56,12 +56,12 @@ msgstr "একো নকৰিব"
 #: actions/bundled/handlebuttoneventsconfig.cpp:79
 #: actions/bundled/suspendsessionconfig.cpp:80
 msgid "Sleep"
-msgstr ""
+msgstr "নিদ্ৰা"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:82
 #: actions/bundled/suspendsessionconfig.cpp:83
 msgid "Hibernate"
-msgstr ""
+msgstr "হাইবাৰনেইট"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:84
 #: actions/bundled/suspendsessionconfig.cpp:85
@@ -70,82 +70,84 @@ msgstr "বন্ধ কৰক"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:85
 #: actions/bundled/suspendsessionconfig.cpp:86
-#, fuzzy
 #| msgid "Lock Screen"
 msgid "Lock screen"
-msgstr "পৰ্দ্দা বন্ধ কৰক"
+msgstr "পৰ্দা লক কৰক"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:87
 msgid "Prompt log out dialog"
-msgstr ""
+msgstr "প্ৰমপ্ট লগ আউট ডাইলগ"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:89
 msgid "Turn off screen"
-msgstr ""
+msgstr "পৰ্দা বন্ধ কৰক"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:97
-#, fuzzy
 #| msgid "The power adaptor has been unplugged"
 msgid "When laptop lid closed"
-msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ বিচ্ছিন্ন কৰা হৈছে"
+msgstr "যেতিয়া লেপটপ লিড বন্ধ হৈছিল"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:98
 msgid "When power button pressed"
-msgstr ""
+msgstr "যেতিয়া পাওয়াৰ বুটাম দবোৱা হৈছিল"
 
 #: actions/bundled/runscriptconfig.cpp:70
 msgid "Script"
-msgstr ""
+msgstr "স্ক্ৰিপ্ট"
 
 #: actions/bundled/runscriptconfig.cpp:82
 msgid "On Profile Unload"
-msgstr ""
+msgstr "আলেখ্য আনলোডত"
 
 #: actions/bundled/runscriptconfig.cpp:93
 msgid "Run script"
-msgstr ""
+msgstr "স্ক্ৰিপ্ট চলাওক"
 
 #: actions/bundled/suspendsession.cpp:114
 msgid "The screen is being locked"
-msgstr ""
+msgstr "পৰ্দা লক কৰা হৈ আছে"
 
 #: actions/dpms/powerdevildpmsactionconfig.cpp:60
 msgid "Switch off after"
-msgstr ""
+msgstr "পিছত চুইচ অফ কৰক"
 
 #: backends/upower/upowersuspendjob.cpp:76
 msgid "Unsupported suspend method"
-msgstr ""
+msgstr "অসমৰ্থিত বাতিল পদ্ধতি"
 
 #: kdedpowerdevil.cpp:58
-#, fuzzy
 #| msgid "A Power Management tool for KDE4"
 msgid "KDE Power Management System"
-msgstr "KDE4 ৰ বাবে এটা শক্তি পৰিচালনৰ সৰঞ্জাম"
+msgstr "KDE শক্তি ব্যৱস্থাপনা চিস্টেম "
 
 #: kdedpowerdevil.cpp:59
 msgid ""
 "KDE Power Management System is PowerDevil, an advanced, modular and "
 "lightweight Power Management daemon"
 msgstr ""
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেম হ'ল PowerDevil, এটা উন্নত, মডিউলাৰ আৰু লঘু "
+"শক্তি ব্যৱস্থাপনা "
+"ডিমন"
 
 #: kdedpowerdevil.cpp:62
 msgid "(c) 2010 MetalWorkers Co."
-msgstr ""
+msgstr "(c) ২০১০ MetalWorkers Co."
 
 #: kdedpowerdevil.cpp:65
 msgid "Dario Freddi"
-msgstr "Dario Freddi"
+msgstr "ডাৰিও ফ্ৰেডি"
 
 #: kdedpowerdevil.cpp:65
 msgid "Maintainer"
-msgstr "পৰিচালক"
+msgstr "ব্যৱস্থাপক"
 
 #: powerdevilcore.cpp:70
 msgid ""
 "No valid Power Management backend plugins are available. A new installation "
 "might solve this problem."
 msgstr ""
+"কোনো বৈধ শক্তি ব্যৱস্থাপনা বেকএন্ড প্লাগিন উপলব্ধ নাই। এটা নতুন ইনস্টলে এই "
+"সমস্যা সমাধান কৰিব পাৰে।"
 
 #: powerdevilcore.cpp:98
 msgid ""
@@ -153,26 +155,30 @@ msgid ""
 "Management System. You can tweak them or generate a new set of defaults from "
 "System Settings."
 msgstr ""
+"আপোনাৰ শক্তি আলেখ্যসমূহ নতুন KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ লগত ব্যৱহাৰৰ "
+"বাবে আপডেইট কৰা হৈছে। "
+"আপুনি সিহতক টুইক কৰিব পাৰিব বা চিস্টেম সংহতিসমূহৰ পৰা অবিকল্পিতসমূহৰ এটা "
+"নতুন সংহতি সৃজন কৰিব পাৰিব।"
 
 #: powerdevilcore.cpp:153
 msgctxt "Global shortcut"
 msgid "Increase Screen Brightness"
-msgstr ""
+msgstr "পৰ্দাৰ উজ্জ্বলতা বঢ়াওক"
 
 #: powerdevilcore.cpp:158
 msgctxt "Global shortcut"
 msgid "Decrease Screen Brightness"
-msgstr ""
+msgstr "পৰ্দাৰ উজ্জ্বলতা কমাওক"
 
 #: powerdevilcore.cpp:163
 msgctxt "Global shortcut"
 msgid "Sleep"
-msgstr ""
+msgstr "নিদ্ৰা"
 
 #: powerdevilcore.cpp:168
 msgctxt "Global shortcut"
 msgid "Hibernate"
-msgstr ""
+msgstr "হাইবাৰনেইট"
 
 #: powerdevilcore.cpp:187
 #, kde-format
@@ -180,6 +186,10 @@ msgid ""
 "Your battery capacity is %1%. This means your battery is broken and needs a "
 "replacement. Please contact your hardware vendor for more details."
 msgstr ""
+"আপোনাৰ বেটাৰি ক্ষমতা %1%। ই বুজায় যে আপোনাৰ বেটাৰি ভাঙি গৈছে আৰু এটা "
+"প্ৰতিস্থাপনৰ "
+"প্ৰয়োজন। অধিক বিৱৰণৰ বাবে অনুগ্ৰহ কৰি আপোনাৰ হাৰ্ডৱেৰ বিক্ৰেতাৰ হৈতে যোগাযোগ "
+"কৰক।"
 
 #: powerdevilcore.cpp:193
 #, kde-format
@@ -188,6 +198,9 @@ msgid ""
 "and needs a replacement. Please contact your hardware vendor for more "
 "details."
 msgstr ""
+"আপোনাৰ এটা বেটাৰি (ID %2) -ৰ %1% ক্ষমতা আছে। ই বুজায় যে ই ভাঙি গৈছে আৰু এটা "
+"প্ৰতিস্থাপনৰ "
+"প্ৰয়োজন। অধিক বিৱৰণৰ বাবে অনুগ্ৰহ কৰি আপোনাৰ হাৰ্ডৱেৰ বিক্ৰেতাক যোগাযোগ কৰক।"
 
 #: powerdevilcore.cpp:206
 #, kde-format
@@ -197,6 +210,13 @@ msgid ""
 "for a free repair or substitution. Please check <a href=\"%2\">%1's website</"
 "a> to verify if your battery is faulted."
 msgstr ""
+"আপোনাৰ বেটাৰিক হৈতো %1 -ৰে মাতা হৈছে। সাধাৰনত, যেতিয়া বিক্ৰেতাসমূহে "
+"হাৰ্ডৱেৰক মাতে, "
+"ই কলঘৰ খুঁতসমূহৰ বাবে যি সাধাৰনত এটা বিনামূলীয়া মেৰামতি বা প্ৰতিস্থাপনৰ বাবে "
+"আৰ্হত। "
+"আপোনাৰ বেটাৰিটো ত্ৰুটিপূৰ্ণ নে সতাসত্য নিৰূপন কৰিবলে <a href=\"%2\">%1-ৰ "
+"ৱেবছাইট</"
+"a> নীৰিক্ষণ কৰক।"
 
 #: powerdevilcore.cpp:214
 #, kde-format
@@ -206,25 +226,30 @@ msgid ""
 "usually eligible for a free repair or substitution. Please check <a href=\"%2"
 "\">%1's website</a> to verify if your battery is faulted."
 msgstr ""
+"আপোনাৰ বেটাৰিসমূহৰ এটা (ID %3) হয়তো %1 -ৰে মাতা হৈছে। সাধাৰনত, যেতিয়া "
+"বিক্ৰেতাসমূহে "
+"হাৰ্ডৱেৰক পুনৰ মাতে, ই কলঘৰ ত্ৰুটিসমূহৰ বাবে যি সাধাৰনত এটা বিনামূলীয়া "
+"মেৰামতি বা প্ৰতিস্থাপনৰ "
+"বাবে অৰ্হত। আপোনাৰ বেটাৰিটো ত্ৰটিপূৰ্ণ নে সতাসত্য নিৰূপন কৰিবলে অনুগ্ৰহ কৰি "
+"<a href=\"%2"
+"\">%1 -ৰ ৱেবছাইট</a> নীৰিক্ষন কৰক।"
 
 #: powerdevilcore.cpp:264
-#, fuzzy
 #| msgid "Performance"
 msgctxt "Name of a power profile"
 msgid "Performance"
-msgstr "কর্মক্ষমতা"
+msgstr "পৰিৱেশন"
 
 #: powerdevilcore.cpp:266
-#, fuzzy
 #| msgid "PowerDevil"
 msgctxt "Name of a power profile"
 msgid "Powersave"
-msgstr "PowerDevil"
+msgstr "Powersave"
 
 #: powerdevilcore.cpp:268
 msgctxt "Name of a power profile"
 msgid "Aggressive powersave"
-msgstr ""
+msgstr "আক্ৰমণাত্মক powersave"
 
 #: powerdevilcore.cpp:325
 #, kde-format
@@ -232,6 +257,8 @@ msgid ""
 "The profile \"%1\" has been selected, but it does not exist.\n"
 "Please check your PowerDevil configuration."
 msgstr ""
+"আলেখ্য \"%1\" বাছা হৈছে, কিন্তু ই অস্তিত্ববান নহয়।\n"
+"অনুগ্ৰহ কৰি আপোনাৰ PowerDevil সংৰূপ নীৰিক্ষন কৰক।"
 
 #: powerdevilcore.cpp:338
 #, kde-format
@@ -239,9 +266,11 @@ msgid ""
 "The profile \"%1\" tried to activate %2, a non existent action. This is "
 "usually due to an installation problem or to a configuration problem."
 msgstr ""
+"আলেখ্য  \"%1\" -এ %2 সক্ৰিয় কৰাৰ চেষ্টা কৰিছিল, এটা অস্তিত্বহিন কাৰ্য্য। ই "
+"সাধাৰনত এটা "
+"ইনস্টল সমস্যা বা এটা সংৰূপ সমস্যাৰ বাবে।"
 
 #: powerdevilcore.cpp:380
-#, fuzzy
 #| msgid ""
 #| "Could not connect to battery interface!\n"
 #| "Please check your system configuration"
@@ -249,28 +278,27 @@ msgid ""
 "Could not connect to battery interface.\n"
 "Please check your system configuration"
 msgstr ""
-"বেটেৰি সংযোগক্ষেত্ৰৰ সৈতে সংযোগ কৰিব নোৱাৰি!\n"
-"অনুগ্ৰহ কৰি আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ বিন্যাস পৰীক্ষা কৰক"
+"বেটাৰি আন্তঃপৃষ্টৰ লগত সংযোগ কৰিব নোৱাৰি।\n"
+"অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
 #: powerdevilcore.cpp:428
-#, fuzzy
 #| msgid "The power adaptor has been plugged in"
 msgid ""
 "The power adaptor has been plugged in – all pending suspend actions have "
 "been canceled."
-msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ সংযুক্ত কৰা হৈছে"
+msgstr ""
+"শক্তি এডাপ্টাৰ প্লাগ-ইন কৰা হৈছে - সকলো অনিশ্চিত বাতিল কাৰ্য্যসমূহ বাতিল কৰা "
+"হৈছে।"
 
 #: powerdevilcore.cpp:430
-#, fuzzy
 #| msgid "The power adaptor has been plugged in"
 msgid "The power adaptor has been plugged in."
-msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ সংযুক্ত কৰা হৈছে"
+msgstr "শক্তি এডাপ্টাৰ প্লাগিন কৰা হৈছে।"
 
 #: powerdevilcore.cpp:433
-#, fuzzy
 #| msgid "The power adaptor has been unplugged"
 msgid "The power adaptor has been unplugged."
-msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ বিচ্ছিন্ন কৰা হৈছে"
+msgstr "শক্তি এডাপ্টাৰ আনপ্লাগ কৰা হৈছে।"
 
 #: powerdevilcore.cpp:439
 #, kde-format
@@ -279,44 +307,47 @@ msgid ""
 "the following error: %1\n"
 "Please check your system configuration"
 msgstr ""
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেম আৰম্ভ কৰিব পৰা নগল। বেকএন্ডে নিম্নলিখিত "
+"ত্ৰুটিৰ সংবাদ দিছে: %1\n"
+"অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
 #: powerdevilcore.cpp:466
 msgid ""
 "Your battery level is critical, the computer will be halted in 30 seconds."
-msgstr ""
+msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰটো ৩০ ছেকেণ্ডত ৰখাই দিয়া হব।"
 
 #: powerdevilcore.cpp:472
 msgid ""
 "Your battery level is critical, the computer will be hibernated in 30 "
 "seconds."
-msgstr ""
+msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰটো ৩০ ছেকেণ্ডত হাইবাৰনেইট কৰা হব।"
 
 #: powerdevilcore.cpp:478
 msgid ""
 "Your battery level is critical, the computer will be suspended in 30 seconds."
-msgstr ""
+msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰ ৩০ ছেকেণ্ডত বাতিল কৰা হব।"
 
 #: powerdevilcore.cpp:484
 msgid "Your battery level is critical: save your work as soon as possible."
-msgstr ""
+msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক: আপোনাৰ কাম যিমান সোনকালে পাৰে সঞ্চয় কৰক।"
 
 #: powerdevilcore.cpp:490
 msgid "Your battery has reached the warning level."
-msgstr ""
+msgstr "আপোনাৰ বেটাৰি সতৰ্ক স্তৰ পাই গৈছে।"
 
 #: powerdevilcore.cpp:495
 msgid "Your battery has reached a low level."
-msgstr ""
+msgstr "আপোনাৰ বেটাৰি এটা তলৰ স্তৰত আহি গৈছে।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "অমিতাক্ষ ফুকন"
+msgstr "অমিতাক্ষ ফুকন; নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "aphukan@fedoraproject.org"
+msgstr "aphukan@fedoraproject.org, ngoswami@redhat.com"
 
 #, fuzzy
 #~| msgid "Main Developer"
