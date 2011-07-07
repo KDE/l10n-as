@@ -27,7 +27,6 @@ msgstr "স্তৰ"
 #: actions/bundled/runscriptconfig.cpp:80
 #: actions/bundled/suspendsessionconfig.cpp:75
 #: actions/dpms/powerdevildpmsactionconfig.cpp:59
-#| msgid "min"
 msgid " min"
 msgstr " min"
 
@@ -70,7 +69,6 @@ msgstr "বন্ধ কৰক"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:85
 #: actions/bundled/suspendsessionconfig.cpp:86
-#| msgid "Lock Screen"
 msgid "Lock screen"
 msgstr "পৰ্দা লক কৰক"
 
@@ -83,7 +81,6 @@ msgid "Turn off screen"
 msgstr "পৰ্দা বন্ধ কৰক"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:97
-#| msgid "The power adaptor has been unplugged"
 msgid "When laptop lid closed"
 msgstr "যেতিয়া লেপটপ লিড বন্ধ হৈছিল"
 
@@ -116,7 +113,6 @@ msgid "Unsupported suspend method"
 msgstr "অসমৰ্থিত বাতিল পদ্ধতি"
 
 #: kdedpowerdevil.cpp:58
-#| msgid "A Power Management tool for KDE4"
 msgid "KDE Power Management System"
 msgstr "KDE শক্তি ব্যৱস্থাপনা চিস্টেম "
 
@@ -125,9 +121,8 @@ msgid ""
 "KDE Power Management System is PowerDevil, an advanced, modular and "
 "lightweight Power Management daemon"
 msgstr ""
-"KDE শক্তি ব্যৱস্থাপনা চিস্টেম হ'ল PowerDevil, এটা উন্নত, মডিউলাৰ আৰু লঘু "
-"শক্তি ব্যৱস্থাপনা "
-"ডিমন"
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেম হ'ল PowerDevil, এটা উন্নত, মডিউলাৰ আৰু লঘু শক্তি "
+"ব্যৱস্থাপনা ডিমন"
 
 #: kdedpowerdevil.cpp:62
 msgid "(c) 2010 MetalWorkers Co."
@@ -146,8 +141,8 @@ msgid ""
 "No valid Power Management backend plugins are available. A new installation "
 "might solve this problem."
 msgstr ""
-"কোনো বৈধ শক্তি ব্যৱস্থাপনা বেকএন্ড প্লাগিন উপলব্ধ নাই। এটা নতুন ইনস্টলে এই "
-"সমস্যা সমাধান কৰিব পাৰে।"
+"কোনো বৈধ শক্তি ব্যৱস্থাপনা বেকএন্ড প্লাগিন উপলব্ধ নাই। এটা নতুন ইনস্টলে এই সমস্যা "
+"সমাধান কৰিব পাৰে।"
 
 #: powerdevilcore.cpp:98
 msgid ""
@@ -155,9 +150,8 @@ msgid ""
 "Management System. You can tweak them or generate a new set of defaults from "
 "System Settings."
 msgstr ""
-"আপোনাৰ শক্তি আলেখ্যসমূহ নতুন KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ লগত ব্যৱহাৰৰ "
-"বাবে আপডেইট কৰা হৈছে। "
-"আপুনি সিহতক টুইক কৰিব পাৰিব বা চিস্টেম সংহতিসমূহৰ পৰা অবিকল্পিতসমূহৰ এটা "
+"আপোনাৰ শক্তি আলেখ্যসমূহ নতুন KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ লগত ব্যৱহাৰৰ বাবে আপডেইট "
+"কৰা হৈছে। আপুনি সিহতক টুইক কৰিব পাৰিব বা চিস্টেম সংহতিসমূহৰ পৰা অবিকল্পিতসমূহৰ এটা "
 "নতুন সংহতি সৃজন কৰিব পাৰিব।"
 
 #: powerdevilcore.cpp:153
@@ -186,10 +180,8 @@ msgid ""
 "Your battery capacity is %1%. This means your battery is broken and needs a "
 "replacement. Please contact your hardware vendor for more details."
 msgstr ""
-"আপোনাৰ বেটাৰি ক্ষমতা %1%। ই বুজায় যে আপোনাৰ বেটাৰি ভাঙি গৈছে আৰু এটা "
-"প্ৰতিস্থাপনৰ "
-"প্ৰয়োজন। অধিক বিৱৰণৰ বাবে অনুগ্ৰহ কৰি আপোনাৰ হাৰ্ডৱেৰ বিক্ৰেতাৰ হৈতে যোগাযোগ "
-"কৰক।"
+"আপোনাৰ বেটাৰি ক্ষমতা %1%। ই বুজায় যে আপোনাৰ বেটাৰি ভাঙি গৈছে আৰু এটা প্ৰতিস্থাপনৰ "
+"প্ৰয়োজন। অধিক বিৱৰণৰ বাবে অনুগ্ৰহ কৰি আপোনাৰ হাৰ্ডৱেৰ বিক্ৰেতাৰ হৈতে যোগাযোগ কৰক।"
 
 #: powerdevilcore.cpp:193
 #, kde-format
@@ -199,8 +191,8 @@ msgid ""
 "details."
 msgstr ""
 "আপোনাৰ এটা বেটাৰি (ID %2) -ৰ %1% ক্ষমতা আছে। ই বুজায় যে ই ভাঙি গৈছে আৰু এটা "
-"প্ৰতিস্থাপনৰ "
-"প্ৰয়োজন। অধিক বিৱৰণৰ বাবে অনুগ্ৰহ কৰি আপোনাৰ হাৰ্ডৱেৰ বিক্ৰেতাক যোগাযোগ কৰক।"
+"প্ৰতিস্থাপনৰ প্ৰয়োজন। অধিক বিৱৰণৰ বাবে অনুগ্ৰহ কৰি আপোনাৰ হাৰ্ডৱেৰ বিক্ৰেতাক "
+"যোগাযোগ কৰক।"
 
 #: powerdevilcore.cpp:206
 #, kde-format
@@ -210,13 +202,10 @@ msgid ""
 "for a free repair or substitution. Please check <a href=\"%2\">%1's website</"
 "a> to verify if your battery is faulted."
 msgstr ""
-"আপোনাৰ বেটাৰিক হৈতো %1 -ৰে মাতা হৈছে। সাধাৰনত, যেতিয়া বিক্ৰেতাসমূহে "
-"হাৰ্ডৱেৰক মাতে, "
-"ই কলঘৰ খুঁতসমূহৰ বাবে যি সাধাৰনত এটা বিনামূলীয়া মেৰামতি বা প্ৰতিস্থাপনৰ বাবে "
-"আৰ্হত। "
-"আপোনাৰ বেটাৰিটো ত্ৰুটিপূৰ্ণ নে সতাসত্য নিৰূপন কৰিবলে <a href=\"%2\">%1-ৰ "
-"ৱেবছাইট</"
-"a> নীৰিক্ষণ কৰক।"
+"আপোনাৰ বেটাৰিক হৈতো %1 -ৰে মাতা হৈছে। সাধাৰনত, যেতিয়া বিক্ৰেতাসমূহে হাৰ্ডৱেৰক "
+"মাতে, ই কলঘৰ খুঁতসমূহৰ বাবে যি সাধাৰনত এটা বিনামূলীয়া মেৰামতি বা প্ৰতিস্থাপনৰ বাবে "
+"আৰ্হত। আপোনাৰ বেটাৰিটো ত্ৰুটিপূৰ্ণ নে সতাসত্য নিৰূপন কৰিবলে <a href=\"%2\">%1-ৰ "
+"ৱেবছাইট</a> নীৰিক্ষণ কৰক।"
 
 #: powerdevilcore.cpp:214
 #, kde-format
@@ -227,21 +216,16 @@ msgid ""
 "\">%1's website</a> to verify if your battery is faulted."
 msgstr ""
 "আপোনাৰ বেটাৰিসমূহৰ এটা (ID %3) হয়তো %1 -ৰে মাতা হৈছে। সাধাৰনত, যেতিয়া "
-"বিক্ৰেতাসমূহে "
-"হাৰ্ডৱেৰক পুনৰ মাতে, ই কলঘৰ ত্ৰুটিসমূহৰ বাবে যি সাধাৰনত এটা বিনামূলীয়া "
-"মেৰামতি বা প্ৰতিস্থাপনৰ "
-"বাবে অৰ্হত। আপোনাৰ বেটাৰিটো ত্ৰটিপূৰ্ণ নে সতাসত্য নিৰূপন কৰিবলে অনুগ্ৰহ কৰি "
-"<a href=\"%2"
-"\">%1 -ৰ ৱেবছাইট</a> নীৰিক্ষন কৰক।"
+"বিক্ৰেতাসমূহে হাৰ্ডৱেৰক পুনৰ মাতে, ই কলঘৰ ত্ৰুটিসমূহৰ বাবে যি সাধাৰনত এটা বিনামূলীয়া "
+"মেৰামতি বা প্ৰতিস্থাপনৰ বাবে অৰ্হত। আপোনাৰ বেটাৰিটো ত্ৰটিপূৰ্ণ নে সতাসত্য নিৰূপন "
+"কৰিবলে অনুগ্ৰহ কৰি <a href=\"%2\">%1 -ৰ ৱেবছাইট</a> নীৰিক্ষন কৰক।"
 
 #: powerdevilcore.cpp:264
-#| msgid "Performance"
 msgctxt "Name of a power profile"
 msgid "Performance"
 msgstr "পৰিৱেশন"
 
 #: powerdevilcore.cpp:266
-#| msgid "PowerDevil"
 msgctxt "Name of a power profile"
 msgid "Powersave"
 msgstr "Powersave"
@@ -266,14 +250,10 @@ msgid ""
 "The profile \"%1\" tried to activate %2, a non existent action. This is "
 "usually due to an installation problem or to a configuration problem."
 msgstr ""
-"আলেখ্য  \"%1\" -এ %2 সক্ৰিয় কৰাৰ চেষ্টা কৰিছিল, এটা অস্তিত্বহিন কাৰ্য্য। ই "
-"সাধাৰনত এটা "
-"ইনস্টল সমস্যা বা এটা সংৰূপ সমস্যাৰ বাবে।"
+"আলেখ্য  \"%1\" -এ %2 সক্ৰিয় কৰাৰ চেষ্টা কৰিছিল, এটা অস্তিত্বহিন কাৰ্য্য। ই সাধাৰনত "
+"এটা ইনস্টল সমস্যা বা এটা সংৰূপ সমস্যাৰ বাবে।"
 
 #: powerdevilcore.cpp:380
-#| msgid ""
-#| "Could not connect to battery interface!\n"
-#| "Please check your system configuration"
 msgid ""
 "Could not connect to battery interface.\n"
 "Please check your system configuration"
@@ -282,21 +262,17 @@ msgstr ""
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
 #: powerdevilcore.cpp:428
-#| msgid "The power adaptor has been plugged in"
 msgid ""
 "The power adaptor has been plugged in – all pending suspend actions have "
 "been canceled."
 msgstr ""
-"শক্তি এডাপ্টাৰ প্লাগ-ইন কৰা হৈছে - সকলো অনিশ্চিত বাতিল কাৰ্য্যসমূহ বাতিল কৰা "
-"হৈছে।"
+"শক্তি এডাপ্টাৰ প্লাগ-ইন কৰা হৈছে - সকলো অনিশ্চিত বাতিল কাৰ্য্যসমূহ বাতিল কৰা হৈছে।"
 
 #: powerdevilcore.cpp:430
-#| msgid "The power adaptor has been plugged in"
 msgid "The power adaptor has been plugged in."
 msgstr "শক্তি এডাপ্টাৰ প্লাগিন কৰা হৈছে।"
 
 #: powerdevilcore.cpp:433
-#| msgid "The power adaptor has been unplugged"
 msgid "The power adaptor has been unplugged."
 msgstr "শক্তি এডাপ্টাৰ আনপ্লাগ কৰা হৈছে।"
 
@@ -307,8 +283,8 @@ msgid ""
 "the following error: %1\n"
 "Please check your system configuration"
 msgstr ""
-"KDE শক্তি ব্যৱস্থাপনা চিস্টেম আৰম্ভ কৰিব পৰা নগল। বেকএন্ডে নিম্নলিখিত "
-"ত্ৰুটিৰ সংবাদ দিছে: %1\n"
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেম আৰম্ভ কৰিব পৰা নগল। বেকএন্ডে নিম্নলিখিত ত্ৰুটিৰ সংবাদ "
+"দিছে: %1\n"
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
 #: powerdevilcore.cpp:466

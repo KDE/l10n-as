@@ -29,8 +29,7 @@ msgid ""
 "resume using the '%1' shortcut."
 msgstr ""
 "ডেস্কটপ প্ৰভাৱসমূহ অন্য অনুপ্ৰয়োগ দ্বাৰা বাতিল কৰা হৈছে। <br/> আপুনি '%1' শৰ্টকাট "
-"ব্যৱহাৰ কৰি "
-"চলাই থাকিব পাৰিব।"
+"ব্যৱহাৰ কৰি চলাই থাকিব পাৰিব।"
 
 #: composite.cpp:561
 msgid ""
@@ -40,8 +39,7 @@ msgid ""
 msgstr ""
 "ডেস্কটপ প্ৰভাৱসমূহ অতি লেহেম আছিল আৰু বাতিল কৰা হৈছে।\n"
 "আপুনি চিস্টেম সংহতিসমূহত কাৰ্যকৰীতা নীৰিক্ষণ অসামৰ্থবান কৰিব পাৰিব (ডেস্কটপ "
-"প্ৰভাৱসমূহৰ "
-"উন্নত টেবত)।"
+"প্ৰভাৱসমূহৰ উন্নত টেবত)।"
 
 #: composite.cpp:564
 #, kde-format
@@ -53,11 +51,10 @@ msgid ""
 "in Desktop Effects)."
 msgstr ""
 "ডেস্কটপ প্ৰভাৱসমূহ অতি লেহেম আছিল আৰু বাতিল কৰা হৈছে।\n"
-"যদি এইটো এটা অস্থায়ী সমস্যা আছিল, আপুনি '%1'  শৰ্টকাট ব্যৱহাৰ কৰি "
-"চলাই থাকিব পাৰিব।\n"
+"যদি এইটো এটা অস্থায়ী সমস্যা আছিল, আপুনি '%1'  শৰ্টকাট ব্যৱহাৰ কৰি চলাই থাকিব "
+"পাৰিব।\n"
 "আপুনি চিস্টেম সংহতিসমূহত কাৰ্যকৰীতা নীৰিক্ষণ অসামৰ্থবান কৰিব পাৰিব (ডেস্কটপ "
-"প্ৰভাৱসমূহৰ "
-"উন্নত টেবত)।"
+"প্ৰভাৱসমূহৰ উন্নত টেবত)।"
 
 #: compositingprefs.cpp:108
 msgid ""
@@ -67,12 +64,11 @@ msgid ""
 "<b>be aware that this might result in an immediate crash!</b></"
 "p><p>Alternatively, you might want to use the XRender backend instead.</p>"
 msgstr ""
-"<b>OpenGL compositing (অবিকল্পিত)-এ KWin -ক আগতেও স্খলন কৰিছে।</"
-"b><br>ই সম্ভৱত এটা ড্ৰাইভাৰ বাগৰ কাৰণে।<p>যদি আপুনি ভাবিছে আপুনি ইতিমধ্যে "
-"এটা স্থিৰ ড্ৰাইভাৰলে আপডেইট কৰিছে,<br>আপুনি এই সুৰক্ষা পুনৰ সংস্থাপন কৰিব পাৰিব "
-"কিন্তু "
-"<b>মনত ৰাখিব যে ই এটা তৎক্ষনাত স্খলন ঘঠাব পাৰে!</b></"
-"p><p>বিকল্পভাৱে, আপুনি XRender বেকএন্ড ব্যৱহাৰ কৰিম বুলি ভাবিব পাৰে।</p>"
+"<b>OpenGL compositing (অবিকল্পিত)-এ KWin -ক আগতেও স্খলন কৰিছে।</b><br>ই সম্ভৱত "
+"এটা ড্ৰাইভাৰ বাগৰ কাৰণে।<p>যদি আপুনি ভাবিছে আপুনি ইতিমধ্যে এটা স্থিৰ ড্ৰাইভাৰলে "
+"আপডেইট কৰিছে,<br>আপুনি এই সুৰক্ষা পুনৰ সংস্থাপন কৰিব পাৰিব কিন্তু <b>মনত ৰাখিব যে ই "
+"এটা তৎক্ষনাত স্খলন ঘঠাব পাৰে!</b></p><p>বিকল্পভাৱে, আপুনি XRender বেকএন্ড ব্যৱহাৰ "
+"কৰিম বুলি ভাবিব পাৰে।</p>"
 
 #: compositingprefs.cpp:116
 msgid "Required X extensions (XComposite and XDamage) are not available."
@@ -118,12 +114,10 @@ msgid "Walk Through Windows (Reverse)"
 msgstr "উইন্ডোসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: kwinbindings.cpp:64
-#| msgid "Walk Through Windows"
 msgid "Walk Through Window Tabs"
 msgstr "উইন্ডো টেব সমূহৰে পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:65
-#| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Window Tabs (Reverse)"
 msgstr "উইন্ডো টেবসমূহৰে পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
@@ -132,12 +126,10 @@ msgid "Remove Window From Group"
 msgstr "উইন্ডোক দলৰ পৰা আতৰাওক"
 
 #: kwinbindings.cpp:67
-#| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative"
 msgstr "Windows বিকল্পৰ মাজেৰে পৰিদৰ্শন কৰক"
 
 #: kwinbindings.cpp:68
-#| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative (Reverse)"
 msgstr "Windows বিকল্পৰ মাজেৰে পৰিদৰ্শন কৰক (বিপৰিত দিশে)"
 
@@ -266,52 +258,42 @@ msgid "Pack Shrink Window Vertically"
 msgstr "উইন্ডোক উলম্বভাৱে থুপ সংকোচিত কৰক"
 
 #: kwinbindings.cpp:128
-#| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Left"
 msgstr "উইন্ডোক বাওফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:130
-#| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Right"
 msgstr "উইন্ডোক সোঁফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:132
-#| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Top Left"
 msgstr "উইন্ডোক উপৰত বাওফালে টাইল কৰক"
 
 #: kwinbindings.cpp:134
-#| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Bottom Left"
 msgstr "উইন্ডোক তল বাওফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:136
-#| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Top Right"
 msgstr "উইন্ডোক উপৰ সোঁফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:138
-#| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Bottom Right"
 msgstr "উইন্ডোক তল বাওফালে সোনকালে টাইল কৰক"
 
 #: kwinbindings.cpp:140
-#| msgid "Switch to Screen 0"
 msgid "Switch to Window Above"
 msgstr "উপৰৰ উইন্ডোলে যাওক"
 
 #: kwinbindings.cpp:142
-#| msgid "Switch to Previous Desktop"
 msgid "Switch to Window Below"
 msgstr "তলৰ উইন্ডোলে যাওক"
 
 #: kwinbindings.cpp:144
-#| msgid "Pack Window to the Right"
 msgid "Switch to Window to the Right"
 msgstr "উইন্ডোক সোঁফালে লৈ যাওক"
 
 #: kwinbindings.cpp:146
-#| msgid "Pack Window to the Left"
 msgid "Switch to Window to the Left"
 msgstr "উইন্ডোক বাওফালে লৈ যাওক"
 
@@ -325,7 +307,6 @@ msgstr "সকলো ডেস্কটপত উইন্ডো প্ৰদৰ
 
 #: kwinbindings.cpp:155
 #, kde-format
-#| msgid "Window to Desktop 1"
 msgid "Window to Desktop %1"
 msgstr "ডেস্কটপ %1 লে উইন্ডো"
 
@@ -355,7 +336,6 @@ msgstr "তলৰ ডেস্কটপলৈ উইন্ডো স্থান
 
 #: kwinbindings.cpp:165
 #, kde-format
-#| msgid "Window to Screen 1"
 msgid "Window to Screen %1"
 msgstr "পৰ্দা %1 লে উইন্ডো"
 
@@ -364,7 +344,6 @@ msgid "Window to Next Screen"
 msgstr "পৰবৰ্তী পৰ্দালৈ উইন্ডো স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:168
-#| msgid "Show Desktop Grid"
 msgid "Show Desktop"
 msgstr "ডেস্কটপ দেখুৱাওক"
 
@@ -374,7 +353,6 @@ msgstr "ডেস্কটপ পৰিবৰ্তন"
 
 #: kwinbindings.cpp:177
 #, kde-format
-#| msgid "Switch to Desktop 1"
 msgid "Switch to Desktop %1"
 msgstr "ডেস্কটপ %1 লে লৈ যাওক"
 
@@ -404,7 +382,6 @@ msgstr "তলৰ ডেস্কটপলৈ লৈ যাওক"
 
 #: kwinbindings.cpp:188
 #, kde-format
-#| msgid "Switch to Screen 1"
 msgid "Switch to Screen %1"
 msgstr "পৰ্দা %1 লে লৈ যাওক"
 
@@ -445,7 +422,6 @@ msgid "Toggle Floating"
 msgstr "উপঙা অদল বদল কৰক"
 
 #: kwinbindings.cpp:205
-#| msgid "Switch to Desktop 1"
 msgid "Switch Focus Left"
 msgstr "মনোযোগ বাওফালে লৈ যাওক"
 
@@ -454,32 +430,26 @@ msgid "Switch Focus Right"
 msgstr "মনোযোগ সোঁফালে লৈ যাওক"
 
 #: kwinbindings.cpp:207
-#| msgid "Switch One Desktop Up"
 msgid "Switch Focus Up"
 msgstr "মনোযোগ উপৰফালে লৈ যাওক"
 
 #: kwinbindings.cpp:208
-#| msgid "Switch One Desktop Down"
 msgid "Switch Focus Down"
 msgstr "মনোযোগ তলফালে লৈ যাওক"
 
 #: kwinbindings.cpp:209
-#| msgid "Move Window"
 msgid "Move Window Left"
 msgstr "উইন্ডো বাওফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:210
-#| msgid "Move Window"
 msgid "Move Window Right"
 msgstr "উইন্ডো সোঁফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:211
-#| msgid "Move Window"
 msgid "Move Window Up"
 msgstr "উইন্ডো উপৰফালে স্থানান্তৰ কৰক"
 
 #: kwinbindings.cpp:212
-#| msgid "Move Window"
 msgid "Move Window Down"
 msgstr "উইন্ডো তলৰফালে স্থানান্তৰ কৰক"
 
@@ -496,8 +466,7 @@ msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
 "started.\n"
 msgstr ""
-"kwin: সম্ভৱতঃ এটা উইন্ডো ব্যৱস্থাপক বৰ্তমানে চলি আছে । kwin আৰম্ভ কৰা নহল। "
-"।\n"
+"kwin: সম্ভৱতঃ এটা উইন্ডো ব্যৱস্থাপক বৰ্তমানে চলি আছে । kwin আৰম্ভ কৰা নহল। ।\n"
 
 #: main.cpp:206
 msgid ""
@@ -514,8 +483,8 @@ msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using --"
 "replace)\n"
 msgstr ""
-"kwin: ব্যৱস্থাপক ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক উইন্ডো ব্যৱস্থাপক "
-"বৰ্তমানে চলি আছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
+"kwin: ব্যৱস্থাপক ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক উইন্ডো ব্যৱস্থাপক বৰ্তমানে চলি আছে "
+"নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
 #: main.cpp:394
 msgid "KDE window manager"
@@ -559,9 +528,7 @@ msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় 
 
 #: main.cpp:467
 msgid "Replace already-running ICCCM2.0-compliant window manager"
-msgstr ""
-"ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত উইন্ডো ব্যৱস্থাপকক প্ৰতিস্থাপন "
-"কৰক"
+msgstr "ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত উইন্ডো ব্যৱস্থাপকক প্ৰতিস্থাপন কৰক"
 
 #: main.cpp:468
 msgid "Indicate that KWin has recently crashed n times"
@@ -586,13 +553,11 @@ msgid "Your emails"
 msgstr "aphukan@fedoraproject.org, ngoswami@redhat.com"
 
 #: tabbox.cpp:232
-#| msgid "Show Desktop Grid"
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr "ডেস্কটপ দেখুৱাওক"
 
 #: tiling.cpp:73
-#| msgid "Disabled"
 msgid "Tiling Disabled"
 msgstr "টাইল কৰা অসামৰ্থবান কৰা হৈছে"
 
@@ -616,7 +581,6 @@ msgid "Columns"
 msgstr "স্তম্ভসমূহ"
 
 #: tilinglayoutfactory.cpp:62
-#| msgid "Close Window"
 msgctxt "Floating layout, windows aren't tiled at all"
 msgid "Floating"
 msgstr "উপঙি থকা"
@@ -646,7 +610,6 @@ msgid "&Special Window Settings..."
 msgstr "উইন্ডোৰ বিশেষ সংহতিসমূহ...(&S)"
 
 #: useractions.cpp:118
-#| msgid "&Special Application Settings..."
 msgid "S&pecial Application Settings..."
 msgstr "বিশেষ অনুপ্ৰয়োগ সংহতিসমূহ...(&p)"
 
@@ -683,7 +646,6 @@ msgid "Close Entire &Group"
 msgstr "সম্পূৰ্ণ দল বন্ধ কৰক (&G)"
 
 #: useractions.cpp:195
-#| msgid "Close Window"
 msgctxt "When in tiling mode, toggle's the window's floating/tiled state"
 msgid "&Float Window"
 msgstr "উপঙা উইন্ডো (&F)"
@@ -701,22 +663,18 @@ msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
 #: useractions.cpp:338
-#| msgid "Switch to Screen 0"
 msgid "Switch to Window Tab"
 msgstr "উইন্ডো টেবলে যাওক"
 
 #: useractions.cpp:372
-#| msgid "Left"
 msgid "To the Left"
 msgstr "বাওঁফালে"
 
 #: useractions.cpp:374
-#| msgid "Right"
 msgid "To the Right"
 msgstr "সোঁফালে"
 
 #: useractions.cpp:401
-#| msgid "Move Window"
 msgid "Move Window to Group"
 msgstr "উইন্ডোক দললে লৈ যাওক"
 
@@ -767,9 +725,8 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 "আপুনি এটা উইন্ডোক তাৰ সীমাৰ বাহিৰে দেখুৱাব বিচাৰিছে।\n"
-"সীমাৰ বাহিৰে, আপুনি এই মাউছ ব্যৱহাৰ কৰি পুনৰ সীমা সামৰ্থবান কৰিব নোৱাৰিব: "
-"ইয়াৰ বিপৰিতে উইন্ডো কাৰ্য্য মেনু ব্যৱহাৰ কৰক, %1 কিবৰ্ড শৰ্টকাট ব্যৱহাৰ কৰি সক্ৰিয় "
-"কৰা।"
+"সীমাৰ বাহিৰে, আপুনি এই মাউছ ব্যৱহাৰ কৰি পুনৰ সীমা সামৰ্থবান কৰিব নোৱাৰিব: ইয়াৰ "
+"বিপৰিতে উইন্ডো কাৰ্য্য মেনু ব্যৱহাৰ কৰক, %1 কিবৰ্ড শৰ্টকাট ব্যৱহাৰ কৰি সক্ৰিয় কৰা।"
 
 #: workspace.cpp:2604
 #, kde-format
@@ -780,10 +737,9 @@ msgid ""
 "window operations menu instead, activated using the %1 keyboard shortcut."
 msgstr ""
 "আপুনি এটা উইন্ডোক সম্পূৰ্ণ পৰ্দা অৱস্থাত দেখাবলে বাচিছে।\n"
-"যদি অনুপ্ৰয়োগটোৰ সম্পূৰ্ণ পৰ্দা বন্ধ কৰাৰ বিকল্প নাই আপুনি ইয়াক "
-"এই মাউছ ব্যৱহাৰ কৰি পুনৰ অসামৰ্থবান কৰিব নোৱাৰিব: ইয়াৰ "
-"বিপৰিতে উইন্ডো কাৰ্য্যসমূহ মেনু ব্যৱহাৰ কৰক, %1 কিবৰ্ড শৰ্টকাট "
-"ব্যৱহাৰ কৰি সক্ৰিয় কৰা।"
+"যদি অনুপ্ৰয়োগটোৰ সম্পূৰ্ণ পৰ্দা বন্ধ কৰাৰ বিকল্প নাই আপুনি ইয়াক এই মাউছ ব্যৱহাৰ কৰি "
+"পুনৰ অসামৰ্থবান কৰিব নোৱাৰিব: ইয়াৰ বিপৰিতে উইন্ডো কাৰ্য্যসমূহ মেনু ব্যৱহাৰ কৰক, %1 "
+"কিবৰ্ড শৰ্টকাট ব্যৱহাৰ কৰি সক্ৰিয় কৰা।"
 
 #: killer/killer.cpp:41
 msgid "KWin helper utility"
@@ -819,11 +775,6 @@ msgstr "সহায়ক সামগ্ৰীক প্ৰত্যক্ষভ�
 
 #: killer/killer.cpp:70
 #, kde-format
-#| msgid ""
-#| "<p>Window with title \"<b>%2</b>\" is not responding. This window belongs "
-#| "to application <b>%1</b> (PID=%3, hostname=%4).</p><p>Do you wish to "
-#| "terminate this application? (All unsaved data in this application will be "
-#| "lost.)</p>"
 msgid ""
 "<p>The window \"<b>%2</b>\" is not responding. It belongs to the application "
 "<b>%1</b> (Process ID = %3, hostname = %4).</p><p>Do you wish to terminate "
@@ -832,8 +783,8 @@ msgid ""
 msgstr ""
 "<p>উইন্ডো \"<b>%2</b>\" -য় প্ৰতিক্ৰিয়া কৰা নাই। ই অনুপ্ৰয়োগ <b>%1</b> (প্ৰক্ৰিয়া ID "
 "= %3, হস্টনাম = %4) -ৰ হয়। </p><p>আপুনি অনুপ্ৰয়োগ প্ৰক্ৰিয়াটো সমাপ্ত কৰিব বিচাৰে নে "
-"<em>ইয়াৰ <b>সকলো</b> ছাইল্ড উইন্ডো অন্তৰ্ভুক্ত কৰাকৈ</em>? <br /><b>সঞ্চয় "
-"নকৰা যিকোনো তথ্য হেৰাই যাব।</b></p>"
+"<em>ইয়াৰ <b>সকলো</b> ছাইল্ড উইন্ডো অন্তৰ্ভুক্ত কৰাকৈ</em>? <br /><b>সঞ্চয় নকৰা "
+"যিকোনো তথ্য হেৰাই যাব।</b></p>"
 
 #: killer/killer.cpp:76
 #, kde-format
