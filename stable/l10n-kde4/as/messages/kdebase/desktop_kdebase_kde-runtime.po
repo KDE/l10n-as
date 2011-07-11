@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-10 12:51+0000\n"
+"POT-Creation-Date: 2011-07-11 15:50+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -57,7 +57,7 @@ msgctxt "Name"
 msgid "Application dashboard"
 msgstr "অনুপ্ৰয়োগ"
 
-#: desktoptheme/appdashboard/metadata.desktop:45
+#: desktoptheme/appdashboard/metadata.desktop:47
 msgctxt "Comment"
 msgid "Intended as Application dashboard default"
 msgstr ""
@@ -5525,7 +5525,7 @@ msgctxt "Comment"
 msgid "Nepomuk file watch service"
 msgstr "USB যন্ত্ৰ"
 
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:44
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:45
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -5533,7 +5533,7 @@ msgctxt "Name"
 msgid "New Removable Device"
 msgstr "USB যন্ত্ৰ"
 
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:84
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:86
 msgctxt "Comment"
 msgid "A new unknown removable device has been mounted"
 msgstr ""
@@ -5642,33 +5642,33 @@ msgctxt "Comment"
 msgid "Indexing of local files for fast searches has started."
 msgstr ""
 
-#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:209
+#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:210
 msgctxt "Name"
 msgid "Initial Indexing finished"
 msgstr ""
 
-#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:285
+#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:286
 msgctxt "Comment"
 msgid ""
 "The initial indexing of local files for fast desktop searches has completed."
 msgstr ""
 
-#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:350
+#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:352
 msgctxt "Name"
 msgid "Indexing suspended"
 msgstr ""
 
-#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:427
+#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:429
 msgctxt "Comment"
 msgid "File indexing has been suspended by the search service."
 msgstr ""
 
-#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:491
+#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:494
 msgctxt "Name"
 msgid "Indexing resumed"
 msgstr ""
 
-#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:567
+#: nepomuk/services/strigi/nepomukstrigiservice.notifyrc:570
 msgctxt "Comment"
 msgid "File indexing has been resumed by the search service."
 msgstr ""
@@ -5747,7 +5747,7 @@ msgctxt "Name"
 msgid "Newspaper Layout"
 msgstr ""
 
-#: plasma/containments/newspaper/plasma-containment-newspaper.desktop:55
+#: plasma/containments/newspaper/plasma-containment-newspaper.desktop:56
 msgctxt "Comment"
 msgid "A layout that puts widgets into columns"
 msgstr ""
@@ -5783,7 +5783,7 @@ msgctxt "Name"
 msgid "Javascript Addon"
 msgstr "Java & JavaScript"
 
-#: plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:55
+#: plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:56
 msgctxt "Comment"
 msgid "Addons for Javascript Plasma plugins"
 msgstr ""
@@ -5838,7 +5838,7 @@ msgctxt "Name"
 msgid "KDE Shutdown"
 msgstr ""
 
-#: platforms/win/kwinshutdown/kwinshutdown.desktop:45
+#: platforms/win/kwinshutdown/kwinshutdown.desktop:48
 msgctxt "Comment"
 msgid "kill running KDE applications and processes"
 msgstr ""

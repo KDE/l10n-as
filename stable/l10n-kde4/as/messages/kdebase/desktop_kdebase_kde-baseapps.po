@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-06 14:04+0000\n"
+"POT-Creation-Date: 2011-07-11 15:50+0000\n"
 "PO-Revision-Date: 2011-07-11 18:43+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -45,64 +45,46 @@ msgid "Columns"
 msgstr "স্তম্ভসমূহ"
 
 #: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:1
-#| msgctxt "Name"
-#| msgid "Dolphin View"
 msgctxt "Name"
 msgid "Dolphin General"
 msgstr "Dolphin সাধাৰন"
 
 #: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:72
-#| msgctxt "Comment"
-#| msgid "This service allows configuration of the Dolphin views."
 msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "এই সেৱায় সাধাৰন Dolphin সংহতিসমূহ সংৰূপণ কৰাৰ অনুমতি দিয়ে।"
 
 #: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:152
-#| msgctxt "Name"
-#| msgid "General"
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "সাধাৰন"
 
 #: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:224
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "সাধাৰন নথিপত্ৰ ব্যৱস্থাপক সংহতিসমূহ সংৰূপণ কৰক"
 
 #: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:1
-#| msgctxt "Name"
-#| msgid "Dolphin View"
 msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "Dolphin দিশ নিৰ্দেশন"
 
 #: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:73
-#| msgctxt "Comment"
-#| msgid "This service allows configuration of the Dolphin views."
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "এই সেৱায় Dolphin দিশ নিৰ্দেশনৰ সংৰূপণৰ অনুমতি দিয়ে।"
 
 #: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:152
-#| msgctxt "Name"
-#| msgid "Navigation Panel"
 msgctxt "Name"
 msgid "Navigation"
 msgstr "দিশ নিৰ্দেশন"
 
 #: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:224
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr "নথিপত্ৰ ব্যৱস্থাপনা দিশ নিৰ্দেশন সংৰূপণ কৰক"
 
 #: dolphin/src/settings/kcm/kcmdolphinservices.desktop:1
-#| msgctxt "Name"
-#| msgid "Dolphin View"
 msgctxt "Name"
 msgid "Dolphin Services"
 msgstr "Dolphin সেৱাসমূহ"
@@ -115,36 +97,26 @@ msgid "Services"
 msgstr "সেৱা"
 
 #: dolphin/src/settings/kcm/kcmdolphinservices.desktop:175
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
 msgctxt "Comment"
 msgid "Configure file manager services"
 msgstr "নথিপত্ৰ ব্যৱস্থাপক সেৱাসমূহ সংৰূপণ কৰক"
 
 #: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:1
-#| msgctxt "Name"
-#| msgid "Dolphin View"
 msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "Dolphin দৰ্শন অৱস্থাসমূহ"
 
 #: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:72
-#| msgctxt "Comment"
-#| msgid "This service allows configuration of the Dolphin views."
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "এই সেৱায় Dolphin দৰ্শন অৱস্থাসমূহৰ সংৰূপণৰ অনুমতি দিয়ে।"
 
 #: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:150
-#| msgctxt "Name"
-#| msgid "Views"
 msgctxt "Name"
 msgid "View Modes"
 msgstr "দৰ্শন অৱস্থাসমূহ"
 
 #: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:221
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr "নথিপত্ৰ ব্যৱস্থাপক দৰ্শন অৱস্থা সংৰূপণ কৰক"
@@ -170,8 +142,6 @@ msgid "Change Password"
 msgstr "পাছৱাৰ্ড সলনি কৰক"
 
 #: keditbookmarks/keditbookmarks.desktop:6
-#| msgctxt "Name"
-#| msgid "Bookmark Toolbar"
 msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "পত্ৰচিহ্নৰ সম্পাদক"
@@ -187,25 +157,21 @@ msgid "Find Files/Folders"
 msgstr "নথিপত্ৰ/ফোল্ডাৰ বিচাৰক"
 
 #: konq-plugins/adblock/plugin_adblock.desktop:2
-#| msgctxt "GenericName"
-#| msgid "Clock"
 msgctxt "Name"
 msgid "Adblock"
 msgstr "Adblock"
 
-#: konq-plugins/adblock/plugin_adblock.desktop:55
+#: konq-plugins/adblock/plugin_adblock.desktop:56
 msgctxt "Comment"
 msgid "Show all blockable html elements"
 msgstr "সকলো প্ৰতিৰোধ কৰিব পৰা html উপাদানসমূহ"
 
 #: konq-plugins/akregator/akregator_konqfeedicon.desktop:2
-#| msgctxt "Name"
-#| msgid "Konqueror"
 msgctxt "Name"
 msgid "Konqueror Feed Icon"
 msgstr "Konqueror ফিড আইকন"
 
-#: konq-plugins/akregator/akregator_konqfeedicon.desktop:61
+#: konq-plugins/akregator/akregator_konqfeedicon.desktop:62
 msgctxt "Comment"
 msgid "Displays an icon in the status bar if the page contains a feed"
 msgstr "এটা আইকনক অৱস্থা বাৰত প্ৰদৰ্শন কৰা হয় যদি পৃষ্ঠায় এটা ফিড অন্তৰ্ভুক্ত কৰে"
@@ -215,79 +181,67 @@ msgctxt "Name"
 msgid "Add Feed to Akregator"
 msgstr "Akregator লে ফিড যোগ কৰক"
 
-#: konq-plugins/akregator/akregator_konqplugin.desktop:65
+#: konq-plugins/akregator/akregator_konqplugin.desktop:66
 msgctxt "Comment"
 msgid "Adds selected feed to Akregator"
 msgstr "নিৰ্বাচিত ফিডক  Akregator লে যোগ কৰে"
 
 #: konq-plugins/autorefresh/autorefresh.desktop:13
-#| msgctxt "Name"
-#| msgid "X Refresh"
 msgctxt "Name"
 msgid "Auto Refresh"
 msgstr "স্বচালিত সতেজ"
 
-#: konq-plugins/autorefresh/autorefresh.desktop:64
+#: konq-plugins/autorefresh/autorefresh.desktop:65
 msgctxt "Comment"
 msgid "Auto Refresh plugin"
 msgstr "প্লাগিনক স্বচালিভাৱে সতেজ কৰক"
 
 #: konq-plugins/babelfish/plugin_babelfish.desktop:13
-#| msgctxt "Name"
-#| msgid "LEO-Translate"
 msgctxt "Name"
 msgid "Translate"
 msgstr "অনুবাদ কৰক"
 
-#: konq-plugins/babelfish/plugin_babelfish.desktop:74
+#: konq-plugins/babelfish/plugin_babelfish.desktop:75
 msgctxt "Comment"
 msgid "Language translation for the current page using Babelfish"
 msgstr "বৰ্তমান পৃষ্ঠাৰ বাবে Babelfish ব্যৱহাৰ কৰি ভাষা অনুবাদ"
 
 #: konq-plugins/dirfilter/dirfilterplugin.desktop:13
-#| msgctxt "GenericName"
-#| msgid "Network Analyzer"
 msgctxt "Name"
 msgid "Directory Filter"
 msgstr "ডাইৰেকটৰি পৰিস্ৰাৱক"
 
-#: konq-plugins/dirfilter/dirfilterplugin.desktop:70
+#: konq-plugins/dirfilter/dirfilterplugin.desktop:71
 msgctxt "Comment"
 msgid "Filter directory view using an attribute filter"
 msgstr "এটা বৈশিষ্ঠ পৰিস্ৰাৱক ব্যৱহাৰ কৰি ডাইৰেকটৰি দৰ্শন পৰিস্ৰাৱন কৰক"
 
 #: konq-plugins/domtreeviewer/plugin_domtreeviewer.desktop:13
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
 msgctxt "Name"
 msgid "DOM Tree Viewer"
 msgstr "DOM ট্ৰি দৰ্শক"
 
-#: konq-plugins/domtreeviewer/plugin_domtreeviewer.desktop:71
+#: konq-plugins/domtreeviewer/plugin_domtreeviewer.desktop:72
 msgctxt "Comment"
 msgid "View the DOM tree of the current page"
 msgstr "বৰ্তমান পৃষ্ঠাৰ DOM ট্ৰি দৰ্শন কৰক"
 
 #: konq-plugins/fsview/fsview.desktop:10
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
 msgctxt "Name"
 msgid "File Size Viewer"
 msgstr "নথিপত্ৰ আকাৰ দৰ্শক"
 
-#: konq-plugins/fsview/fsview.desktop:67
+#: konq-plugins/fsview/fsview.desktop:68
 msgctxt "Comment"
 msgid "View your filesystem as a TreeMap"
 msgstr "আপোনাৰ নথিপত্ৰ প্ৰণালিক এটা ট্ৰিমানচিত্ৰ হিচাপে দৰ্শন কৰক"
 
 #: konq-plugins/fsview/fsview_part.desktop:3
-#| msgctxt "Name"
-#| msgid "System"
 msgctxt "Name"
 msgid "File Size View"
 msgstr "নথিপত্ৰ প্ৰণালী আকাৰ দৰ্শন "
 
-#: konq-plugins/fsview/fsview_part.desktop:60
+#: konq-plugins/fsview/fsview_part.desktop:61
 msgctxt "Comment"
 msgid "Enables a proportional view of directories and files based on file size"
 msgstr ""
@@ -298,24 +252,22 @@ msgctxt "X-KDE-Submenu"
 msgid "Convert To"
 msgstr "লে পৰিৱৰ্তন কৰক"
 
-#: konq-plugins/imagerotation/imageconverter.desktop:71
+#: konq-plugins/imagerotation/imageconverter.desktop:72
 msgctxt "Name"
 msgid "JPEG"
 msgstr "JPEG"
 
-#: konq-plugins/imagerotation/imageconverter.desktop:139
+#: konq-plugins/imagerotation/imageconverter.desktop:141
 msgctxt "Name"
 msgid "PNG"
 msgstr "PNG"
 
-#: konq-plugins/imagerotation/imageconverter.desktop:207
+#: konq-plugins/imagerotation/imageconverter.desktop:210
 msgctxt "Name"
 msgid "TIFF"
 msgstr "TIFF"
 
-#: konq-plugins/imagerotation/imageconverter.desktop:266
-#| msgctxt "Name"
-#| msgid "SGI"
+#: konq-plugins/imagerotation/imageconverter.desktop:270
 msgctxt "Name"
 msgid "GIF"
 msgstr "GIF"
@@ -325,46 +277,42 @@ msgctxt "X-KDE-Submenu"
 msgid "Transform Image"
 msgstr "ছবি পৰিৱৰ্তন কৰক"
 
-#: konq-plugins/imagerotation/jpegorient.desktop:72
+#: konq-plugins/imagerotation/jpegorient.desktop:73
 msgctxt "Name"
 msgid "Rotate Clockwise"
 msgstr "দক্ষিণাৱৰ্তী ঘুৰাওক"
 
-#: konq-plugins/imagerotation/jpegorient.desktop:137
+#: konq-plugins/imagerotation/jpegorient.desktop:139
 msgctxt "Name"
 msgid "Rotate Counter-Clockwise"
 msgstr "উত্তৰৱৰ্তী ঘুৰাওক"
 
-#: konq-plugins/imagerotation/jpegorient.desktop:207
+#: konq-plugins/imagerotation/jpegorient.desktop:210
 msgctxt "Name"
 msgid "Flip Vertically"
 msgstr "উলম্বভাৱে উলোটা কৰক"
 
-#: konq-plugins/imagerotation/jpegorient.desktop:275
+#: konq-plugins/imagerotation/jpegorient.desktop:279
 msgctxt "Name"
 msgid "Flip Horizontally"
 msgstr "আনুভুমিকভাৱে উলোটা কৰক"
 
 #: konq-plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:13
-#| msgctxt "Name"
-#| msgid "Settings"
 msgctxt "Name"
 msgid "KHTML Settings"
 msgstr "KHTML সংহতিসমূহ"
 
-#: konq-plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:71
+#: konq-plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:72
 msgctxt "Comment"
 msgid "A fast way to change the KHTML settings"
 msgstr "KHTML সংহতিসমূহ সলনি কৰাৰ দ্ৰুততম পদ্ধতি"
 
 #: konq-plugins/kimgalleryplugin/kimgalleryplugin.desktop:12
-#| msgctxt "GenericName"
-#| msgid "Image Viewer"
 msgctxt "Name"
 msgid "Image Gallery"
 msgstr "ছবি গেলেৰি"
 
-#: konq-plugins/kimgalleryplugin/kimgalleryplugin.desktop:69
+#: konq-plugins/kimgalleryplugin/kimgalleryplugin.desktop:70
 msgctxt "Comment"
 msgid "An easy way to generate an HTML image gallery"
 msgstr "এটা HTML ছবি গেলেৰি সৃজন কৰাৰ এটা সহজ পদ্ধতি"
@@ -380,27 +328,21 @@ msgid "Produces audio output for text in the current page"
 msgstr "বৰ্ত্তমানৰ পৃষ্ঠাৰ লিপিৰ বিষয়ে অ'ডিঅ' আউটপুট সৃষ্টি কৰে"
 
 #: konq-plugins/microformat/mf_konqmficon.desktop:2
-#| msgctxt "Comment"
-#| msgid "DMA information"
 msgctxt "Name"
 msgid "Microformat Icon"
 msgstr "সূক্ষ্ম বিন্যাস আইকন"
 
-#: konq-plugins/microformat/mf_konqmficon.desktop:60
+#: konq-plugins/microformat/mf_konqmficon.desktop:61
 msgctxt "Comment"
 msgid "Displays an icon in the status bar if the page contains a microformat"
-msgstr ""
-"এটা আইকনক অৱস্থা বাৰত প্ৰদৰ্শন কৰে যদি পৃষ্ঠায় এটা সূক্ষ্ম বিন্যাস অন্তৰ্ভুক্ত "
-"কৰে"
+msgstr "এটা আইকনক অৱস্থা বাৰত প্ৰদৰ্শন কৰে যদি পৃষ্ঠায় এটা সূক্ষ্ম বিন্যাস অন্তৰ্ভুক্ত কৰে"
 
 #: konq-plugins/minitools/minitoolsplugin.desktop:14
-#| msgctxt "Name"
-#| msgid "Bookmarks"
 msgctxt "Name"
 msgid "Bookmarklets"
 msgstr "পত্ৰচিহ্নসমূহ"
 
-#: konq-plugins/minitools/minitoolsplugin.desktop:68
+#: konq-plugins/minitools/minitoolsplugin.desktop:69
 msgctxt "Comment"
 msgid "Enables the use of bookmarklets"
 msgstr "পত্ৰচিহ্নসমূহৰ ব্যৱহাৰ সামৰ্থবান কৰে"
@@ -429,25 +371,21 @@ msgid "Print..."
 msgstr "প্ৰিন্ট কৰক..."
 
 #: konq-plugins/rellinks/plugin_rellinks.desktop:14
-#| msgctxt "Name"
-#| msgid "KDE API Documentation"
 msgctxt "Name"
 msgid "Document Relations"
 msgstr "দস্তাবেজ সম্বন্ধসমূহ"
 
-#: konq-plugins/rellinks/plugin_rellinks.desktop:71
+#: konq-plugins/rellinks/plugin_rellinks.desktop:73
 msgctxt "Comment"
 msgid "Displays the document relations of a document"
 msgstr "এখন দস্তাবেজৰ দস্তাবেজ সম্বন্ধসমূহ প্ৰদৰ্শন কৰে"
 
 #: konq-plugins/searchbar/searchbar.desktop:15
-#| msgctxt "Name"
-#| msgid "PHP Search"
 msgctxt "Name"
 msgid "Search Bar"
 msgstr "সন্ধান বাৰ"
 
-#: konq-plugins/searchbar/searchbar.desktop:74
+#: konq-plugins/searchbar/searchbar.desktop:75
 msgctxt "Comment"
 msgid "Provides a text box for easier access to search engines like Google."
 msgstr ""
@@ -464,13 +402,11 @@ msgid "Shell Command Plugin for Konqueror"
 msgstr "Konqueror ৰ কাৰণে শ্বেল কমান্ড প্লাগিন"
 
 #: konq-plugins/uachanger/uachangerplugin.desktop:13
-#| msgctxt "Comment"
-#| msgid "UserAgent Strings"
 msgctxt "Name"
 msgid "UserAgent Changer"
 msgstr "UserAgent পৰিৱৰ্তক"
 
-#: konq-plugins/uachanger/uachangerplugin.desktop:69
+#: konq-plugins/uachanger/uachangerplugin.desktop:70
 msgctxt "Comment"
 msgid "Allows the detected UserAgent to be modified"
 msgstr "চিনাক্ত কৰা UserAgent -ক সলনি কৰাৰ অনুমতি দিয়ে"
@@ -480,26 +416,22 @@ msgctxt "Name"
 msgid "Website Validators"
 msgstr "ৱেবছাইট সতাসত্য নিৰূপকসমূহ"
 
-#: konq-plugins/validators/plugin_validators.desktop:70
+#: konq-plugins/validators/plugin_validators.desktop:71
 msgctxt "Comment"
 msgid "CSS and HTML validation tools"
 msgstr "CSS আৰু HTML সতাসত্য নিৰূপক সঁজুলিসমূহ"
 
 #: konq-plugins/webarchiver/plugin_webarchiver.desktop:13
-#| msgctxt "Name"
-#| msgid "FTP Archives"
 msgctxt "Name"
 msgid "Web Archiver"
 msgstr "ৱেব আৰ্কাইভাৰ"
 
-#: konq-plugins/webarchiver/plugin_webarchiver.desktop:71
+#: konq-plugins/webarchiver/plugin_webarchiver.desktop:73
 msgctxt "Comment"
 msgid "Creates archives of websites"
 msgstr "ৱেবছাইটসমূহৰ আৰ্কাইভসমূহ সৃষ্টি কৰে"
 
 #: konq-plugins/webarchiver/webarchivethumbnail.desktop:4
-#| msgctxt "Name"
-#| msgid "FTP Archives"
 msgctxt "Name"
 msgid "Web Archives"
 msgstr "ৱেব আৰ্কাইভসমূহ"
@@ -547,8 +479,6 @@ msgid "Konqueror Preloading During KDE startup"
 msgstr "KDE আৰম্ভ কৰাৰ সময়ত Konqueror আগতে লোড কৰা"
 
 #: konqueror/preloader/konqy_preloader.desktop:3
-#| msgctxt "Name"
-#| msgid "KDED Konqueror Preloader Module"
 msgctxt "Name"
 msgid "Konqueror Browser Preloader"
 msgstr "Konqueror ব্ৰাউছাৰ পূৰ্বলোডাৰ"
@@ -669,22 +599,16 @@ msgid "UserAgent Strings"
 msgstr "UserAgent স্ট্ৰিংসমূহ"
 
 #: konqueror/settings/kio/uasproviders/android10.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Wget 1.5.3)"
 msgctxt "Name"
 msgid "UADescription (Android Phone 1.0)"
 msgstr "UAবিৱৰণ (Android ফোন ১.০)"
 
 #: konqueror/settings/kio/uasproviders/chrome10onwinnt51.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 1.0 on Windows XP)"
 msgstr "UAবিৱৰণ (Windows XP -ত Google Chrome ১.০)"
 
 #: konqueror/settings/kio/uasproviders/chrome50oncurrent.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 5.0)"
 msgstr "UAবিৱৰণ (Google Chrome ৫.০)"
@@ -695,15 +619,11 @@ msgid "UADescription (Firefox 2.0 on current)"
 msgstr "UAবিৱৰণ (বৰ্তমানত Firefox ২.০)"
 
 #: konqueror/settings/kio/uasproviders/firefox30oncurrent.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 3.0 on current)"
 msgstr "UAবিৱৰণ (বৰ্তমানত Firefox ৩.০)"
 
 #: konqueror/settings/kio/uasproviders/firefox36oncurrent.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 3.6 on current)"
 msgstr "UAবিৱৰণ (বৰ্তমানত Firefox ৩.৬)"
@@ -739,8 +659,6 @@ msgid "UADescription (IE 6.0 on Win XP)"
 msgstr "UADescription (Win XP -ত IE ৬.০)"
 
 #: konqueror/settings/kio/uasproviders/ie70onwinnt51.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (IE 6.0 on Win XP)"
 msgctxt "Name"
 msgid "UADescription (IE 7.0 on Win XP)"
 msgstr "UAবিৱৰণ (Win XP -ত IE ৭.০)"
@@ -791,8 +709,6 @@ msgid "UADescription (Opera 9.00 on current)"
 msgstr "UAবিৱৰণ (বৰ্তমানত Opera ৯.০০)"
 
 #: konqueror/settings/kio/uasproviders/op962oncurrent.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Opera 9.00 on current)"
 msgctxt "Name"
 msgid "UADescription (Opera 9.62 on current)"
 msgstr "UAবিৱৰণ (বৰ্তমানত Opera ৯.৬২)"
@@ -803,22 +719,16 @@ msgid "UADescription (Safari 2.0 on MacOS X)"
 msgstr "UAবিৱৰণ (MacOS X -ত Safari ২.০)"
 
 #: konqueror/settings/kio/uasproviders/safari30oniphone.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
 msgctxt "Name"
 msgid "UADescription (Safari 3.0 on iPhone)"
 msgstr "UAবিৱৰণ (iPhone Safari ৩.০ )"
 
 #: konqueror/settings/kio/uasproviders/safari32.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 1.2 on MacOS X)"
 msgctxt "Name"
 msgid "UADescription (Safari 3.2 on MacOS X)"
 msgstr "UAবিৱৰণ (MacOS X -ত Safari ৩.২)"
 
 #: konqueror/settings/kio/uasproviders/safari40.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
 msgctxt "Name"
 msgid "UADescription (Safari 4.0 on MacOS X)"
 msgstr "UAবিৱৰণ (MacOS X -ত Safari ৪.০)"
@@ -829,8 +739,6 @@ msgid "UADescription (w3m 0.1.9)"
 msgstr "UAবিৱৰণ (w3m ০.১.৯)"
 
 #: konqueror/settings/kio/uasproviders/wgetoncurrent.desktop:2
-#| msgctxt "Name"
-#| msgid "UADescription (Wget 1.5.3)"
 msgctxt "Name"
 msgid "UADescription (Wget 1.11.4)"
 msgstr "UAবিৱৰণ (Wget ১.১১.৪)"
@@ -883,8 +791,6 @@ msgid "Configure the stylesheets used to render web pages"
 msgstr "ৱেব পৃষ্ঠা দেখুৱাবলৈ stylesheets কি ধৰণে ব্যৱহাৰ হয় সংৰূপণ কৰক"
 
 #: konqueror/settings/konqhtml/khtml_appearance.desktop:108
-#| msgctxt "Comment"
-#| msgid "Configure the fonts used on web pages"
 msgctxt "Comment"
 msgid "Configure how to display web pages"
 msgstr "ৱেব পৃষ্টাসমূহ কেনেকে প্ৰদৰ্শন কৰা হব সংৰূপণ কৰক"
@@ -910,8 +816,6 @@ msgid "Configure Konqueror AdBlocK filters"
 msgstr "Konqueror AdBlocK পৰিস্ৰাৱকসমূহ সংৰূপণ কৰক"
 
 #: konqueror/settings/konqhtml/khtml_general.desktop:13
-#| msgctxt "Name"
-#| msgid "General"
 msgctxt ""
 "Name|Konqeuror settings relevant to both web browsing and file management."
 msgid "General"
@@ -987,8 +891,6 @@ msgid "Places"
 msgstr "স্থানসমূহ"
 
 #: konqueror/sidebar/default_entries/places.desktop:80
-#| msgctxt "Comment"
-#| msgid "This is the root of the filesystem"
 msgctxt "Comment"
 msgid "This is the list of places."
 msgstr "এইটো স্থানসমূহৰ তালিকা।"
@@ -1015,22 +917,16 @@ msgid "Configure the history sidebar"
 msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ সংৰূপণ কৰক"
 
 #: konqueror/sidebar/history_module/konqsidebar_history.desktop:4
-#| msgctxt "Name"
-#| msgid "History Sidebar"
 msgctxt "Name"
 msgid "History SideBar Module"
 msgstr "ইতিহাস কাষবাৰ মডিউল"
 
 #: konqueror/sidebar/konq_sidebartng.desktop:4
-#| msgctxt "Name"
-#| msgid "History Sidebar"
 msgctxt "Name"
 msgid "Sidebar"
 msgstr "কাষবাৰ"
 
 #: konqueror/sidebar/places_module/konqsidebar_places.desktop:4
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
 msgctxt "Name"
 msgid "Places SideBar Module"
 msgstr "স্থানসমূহ কাষবাৰ মডিউল"
@@ -1117,8 +1013,6 @@ msgid "Stores website icons"
 msgstr "ৱেবছাইট আইকন সমূহ সঞ্চয় কৰে"
 
 #: lib/konq/konqdndpopupmenuplugin.desktop:4
-#| msgctxt "Comment"
-#| msgid "Plugin for the Konqueror Popup Menu"
 msgctxt "Comment"
 msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
 msgstr "Konqueror প'প-আপ মেনুৰ কাৰণে প্লাগিন ড্ৰেগ-আৰু-ড্ৰপ কৰক।"
@@ -1147,8 +1041,6 @@ msgid "Enter folder name:"
 msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
 
 #: lib/konq/Templates/Floppy.desktop:4
-#| msgctxt "Name"
-#| msgid "Format"
 msgctxt "Name|Starts a program to format a floppy drive"
 msgid "Format"
 msgstr "বিন্যাস"
@@ -1309,8 +1201,6 @@ msgid "Folder View"
 msgstr "ফোল্ডাৰৰ দৰ্শন"
 
 #: plasma/applets/folderview/plasma-applet-folderview.desktop:84
-#| msgctxt "Comment"
-#| msgid "Display the content of folders (Desktop as default)"
 msgctxt "Comment"
 msgid "Display the contents of folders (User's home folder as default)"
 msgstr "ফোল্ডাৰৰ সমলসমূহ দেখুৱাওক (ব্যৱহাৰকাৰীৰ ঘৰ ফোল্ডাৰ অবিকল্পিত হিচাপে)"
