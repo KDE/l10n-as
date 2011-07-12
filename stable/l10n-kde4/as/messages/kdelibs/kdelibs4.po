@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-10 14:27+0200\n"
+"POT-Creation-Date: 2011-07-12 15:32+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2436,34 +2436,6 @@ msgstr "(প্ৰতীকচিহ্ন অনুপস্থিত)"
 msgid "About %1"
 msgstr "%1 ৰ বিষয়ে"
 
-#: kde3support/kdeui/k3command.cpp:388
-#, kde-format
-msgid "Undo: %1"
-msgstr "পূৰ্বাবস্থা: %1"
-
-#: kde3support/kdeui/k3command.cpp:394
-#, kde-format
-msgid "Redo: %1"
-msgstr "পুনৰাবৃত্তি: %1"
-
-#: kde3support/kdeui/k3command.cpp:421 kdeui/actions/kstandardaction_p.h:55
-msgid "&Undo"
-msgstr "পূৰ্বাবস্থা (&U)"
-
-#: kde3support/kdeui/k3command.cpp:421
-msgid "&Redo"
-msgstr "পুনৰাবৃত্তি (&R)"
-
-#: kde3support/kdeui/k3command.cpp:426
-#, kde-format
-msgid "&Undo: %1"
-msgstr "পূৰ্বাবস্থা: %1 (&U)"
-
-#: kde3support/kdeui/k3command.cpp:429
-#, kde-format
-msgid "&Redo: %1"
-msgstr "পুনৰাবৃত্তি: %1 (&R)"
-
 #: kde3support/kdeui/k3dockwidget.cpp:272
 msgid "Close"
 msgstr "বন্ধ কৰক"
@@ -2849,6 +2821,34 @@ msgstr[1] "গুপ্তশব্দ অতি কমেও %1 টা আখ�
 #: kdeui/dialogs/knewpassworddialog.cpp:175
 msgid "Passwords match"
 msgstr "গুপ্তশব্দ মিলে"
+
+#: kde3support/kdeui/k3command.cpp:389
+#, kde-format
+msgid "Undo: %1"
+msgstr "পূৰ্বাবস্থা: %1"
+
+#: kde3support/kdeui/k3command.cpp:395
+#, kde-format
+msgid "Redo: %1"
+msgstr "পুনৰাবৃত্তি: %1"
+
+#: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
+msgid "&Undo"
+msgstr "পূৰ্বাবস্থা (&U)"
+
+#: kde3support/kdeui/k3command.cpp:422
+msgid "&Redo"
+msgstr "পুনৰাবৃত্তি (&R)"
+
+#: kde3support/kdeui/k3command.cpp:427
+#, kde-format
+msgid "&Undo: %1"
+msgstr "পূৰ্বাবস্থা: %1 (&U)"
+
+#: kde3support/kdeui/k3command.cpp:430
+#, kde-format
+msgid "&Redo: %1"
+msgstr "পুনৰাবৃত্তি: %1 (&R)"
 
 #: kde3support/kio/kfile/k3fileview.cpp:123
 msgid "Unknown View"
