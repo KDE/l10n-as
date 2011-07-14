@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-13 04:16+0200\n"
+"POT-Creation-Date: 2011-07-14 04:14+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7206,7 +7206,7 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
-#: nepomuk/utils/searchwidget.cpp:128
+#: nepomuk/utils/searchwidget.cpp:142
 #, fuzzy
 #| msgid "&Search"
 msgid "Search"
