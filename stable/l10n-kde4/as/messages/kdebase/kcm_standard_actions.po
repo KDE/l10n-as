@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-04-14 03:55+0200\n"
-"PO-Revision-Date: 2011-07-18 21:10+0530\n"
+"PO-Revision-Date: 2011-07-18 22:27+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,20 +19,20 @@ msgstr ""
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #: standard_actions_module.cpp:67
 msgid "Standard Shortcuts"
-msgstr ""
+msgstr "প্ৰামাণিক চৰ্টকাটসমূহ"
 
 #: standard_actions_module.cpp:161
 msgid "Standard Actions successfully saved"
-msgstr ""
+msgstr "প্ৰামাণিক কাৰ্য্যসমূহ সফলভাৱে সংৰক্ষণ কৰা হৈছে"
 
 #: standard_actions_module.cpp:163
 msgid ""
@@ -40,5 +40,10 @@ msgid ""
 "be restarted to see the changes.</li>    <li>This change could introduce "
 "shortcut conflicts in some applications.</li></ul>"
 msgstr ""
+"পৰিৱৰ্তনসমূহ সলনি কৰা হৈছে। অনুগ্ৰহ কৰি মন কৰিব যে: <ul><li> পৰিৱৰ্তনসমূহ "
+"চাবলে অনুপ্ৰয়োগসমূহ "
+"পুনৰাম্ভ কৰিব লাগিব। </li>    <li> এই পৰিৱৰ্তনে কিছুমান অনুপ্ৰয়োগত চৰ্টকাট "
+"দন্দসমূহ উন্মোচন কৰিব পাৰে। "
+"</li></ul>"
 
 
