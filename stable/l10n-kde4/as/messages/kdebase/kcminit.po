@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-28 06:07+0200\n"
-"PO-Revision-Date: 2011-07-18 21:15+0530\n"
+"PO-Revision-Date: 2011-07-18 22:20+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,32 +19,32 @@ msgstr ""
 #: main.cpp:172
 #, kde-format
 msgid "Module %1 not found"
-msgstr ""
+msgstr "মডিউল %1 পোৱা নগল"
 
 #: main.cpp:249
 msgid "KCMInit"
-msgstr ""
+msgstr "KCMInit"
 
 #: main.cpp:251
 msgid "KCMInit - runs startup initialization for Control Modules."
-msgstr ""
+msgstr "KCMInit - নিয়ন্ত্ৰক মডিউলসমূহৰ বাবে startup আৰম্ভনী চলায়।"
 
 #: main.cpp:256
 msgid "List modules that are run at startup"
-msgstr ""
+msgstr "startup -ত চলা মডিউলসমূহ তালিকাভুক্ত কৰা"
 
 #: main.cpp:257
 msgid "Configuration module to run"
-msgstr ""
+msgstr "চলাব লগিয়া সংৰূপ মডিউল"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 

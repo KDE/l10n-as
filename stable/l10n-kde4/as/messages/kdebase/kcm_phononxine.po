@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-28 06:07+0200\n"
-"PO-Revision-Date: 2011-07-18 21:10+0530\n"
+"PO-Revision-Date: 2011-07-18 22:22+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,23 +20,23 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, deinterlaceGroupBox)
 #: rc.cpp:3
 msgid "Deinterlacing"
-msgstr ""
+msgstr "Deinterlacing"
 
 #. i18n: file: xineoptions.ui:26
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:6
 msgid "Deinterlace &media:"
-msgstr ""
+msgstr "Deinterlace & মাধ্যম:"
 
 #. i18n: file: xineoptions.ui:61
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:9
 msgid "Deinterlacing m&ethod:"
-msgstr ""
+msgstr "Deinterlacing পদ্ধতি (&e):"
 
 #: xineoptions.cpp:41
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: xineoptions.cpp:45
 msgid "VCD"
@@ -44,6 +44,6 @@ msgstr "VCD"
 
 #: xineoptions.cpp:49
 msgid "File"
-msgstr ""
+msgstr "নথিপত্ৰ"
 
 
