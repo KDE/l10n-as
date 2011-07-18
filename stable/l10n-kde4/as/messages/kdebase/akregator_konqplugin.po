@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 18:22+0530\n"
+"PO-Revision-Date: 2011-07-18 21:46+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,26 +22,27 @@ msgstr "Akregator লে ফিড যোগ কৰক"
 
 #: konqfeedicon.cpp:146
 msgid "Add Feeds to Akregator"
-msgstr ""
+msgstr "Akregator লে ফিডসমূহ যোগ কৰক"
 
 #: konqfeedicon.cpp:156
 msgid "Add All Found Feeds to Akregator"
-msgstr ""
+msgstr "Akregator লে সকলো বিচাৰি পোৱা ফিড যোগ কৰক"
 
 #: konqfeedicon.cpp:179
 msgid "Subscribe to site updates (using news feed)"
-msgstr ""
+msgstr "ছাইট আপডেইটসমূহলে স্বাক্ষৰ কৰক (বাতৰি ফিড ব্যৱহাৰ কৰি)"
 
 #: konqfeedicon.cpp:225 pluginbase.cpp:53 pluginbase.cpp:63
 msgid "Imported Feeds"
-msgstr ""
+msgstr "ইমপোৰ্ট কৰি অনা ফিডসমূহ"
 
 #: pluginbase.cpp:55
 msgid "Akregator feed icon - DBus Call failed"
-msgstr ""
+msgstr "Akregator ফিড আইকন - DBus কল ব্যৰ্থ "
 
 #: pluginbase.cpp:56
 msgctxt "@title:window"
 msgid "The DBus call addFeedToGroup failed"
-msgstr ""
+msgstr "DBus কল addFeedToGroup ব্যৰ্থ হৈছে"
+
 
