@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 21:07+0530\n"
+"PO-Revision-Date: 2011-07-18 22:39+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,32 +18,32 @@ msgstr ""
 
 #: khtmlkttsd.cpp:42
 msgid "&Speak Text"
-msgstr ""
+msgstr "লিখনী কওক (&S)"
 
 #: khtmlkttsd.cpp:60
 msgctxt "@title:window"
 msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
+msgstr "Jovie লিখনীৰ-পৰা-কথা সেৱা ব্যৰ্থ হল"
 
 #: khtmlkttsd.cpp:91
 msgid "The D-Bus call say() failed."
-msgstr ""
+msgstr "D-Bus কল say() ব্যৰ্থ হল।"
 
 #: khtmlkttsd.cpp:92
 msgctxt "@title:window"
 msgid "D-Bus Call Failed"
-msgstr ""
+msgstr "D-Bus কল ব্যৰ্থ হল"
 
 #. i18n: file: khtmlkttsd.rc:5
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:3
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: khtmlkttsd.rc:10
 #. i18n: ectx: ToolBar (speechToolbar)
 #: rc.cpp:6
 msgid "Speech Toolbar"
-msgstr ""
+msgstr "কথা টুলবাৰ"
 
 
