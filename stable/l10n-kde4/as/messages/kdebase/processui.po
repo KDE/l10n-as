@@ -2,58 +2,57 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: processui\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-03-25 03:34+0100\n"
-"PO-Revision-Date: 2009-01-14 12:30+0530\n"
-"Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
-"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"PO-Revision-Date: 2011-07-18 16:30+0530\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 0.2\n"
+"X-Generator: Lokalize 1.0\n"
 
 #: ksysguardprocesslist.cpp:158 ksysguardprocesslist.cpp:414
 msgid "Set Priority..."
 msgid_plural "Set Priority..."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "প্ৰাথমিকতা সংহতি কৰক..."
+msgstr[1] "প্ৰাথমিকতা সংহতি কৰক..."
 
 #: ksysguardprocesslist.cpp:160 ksysguardprocesslist.cpp:498
 msgid "Jump to Parent Process"
-msgstr "Parent Process লৈ যাওক"
+msgstr "উপধায়ক প্ৰক্ৰিয়া লৈ যাওক"
 
 #: ksysguardprocesslist.cpp:162
 msgid "Jump to Process Debugging This One"
-msgstr ""
+msgstr "ইয়াক ডিবাগ কৰি প্ৰক্ৰিয়ালে জঁপিয়াওক"
 
 #: ksysguardprocesslist.cpp:163
 msgid "Show Application Window"
-msgstr "অনুপ্ৰয়োগৰ সংযোগক্ষেত্ৰ দেখুৱাওক"
+msgstr "অনুপ্ৰয়োগৰ উইন্ডো দেখুৱাওক"
 
 #: ksysguardprocesslist.cpp:164
 msgid "Resume Stopped Process"
 msgstr "বন্ধ কৰা প্ৰক্ৰিয়া পুনৰাৰম্ভ কৰক"
 
 #: ksysguardprocesslist.cpp:165
-#, fuzzy
 #| msgid "Renice Process"
 msgid "End Process"
 msgid_plural "End Processes"
-msgstr[0] "প্ৰক্ৰিয়া Renice কৰক"
-msgstr[1] "প্ৰক্ৰিয়া Renice কৰক"
+msgstr[0] "প্ৰক্ৰিয়া সমাপ্ত কৰক"
+msgstr[1] "প্ৰক্ৰিয়াসমূহ সমাপ্ত কৰক"
 
 #: ksysguardprocesslist.cpp:168 ksysguardprocesslist.cpp:415
-#, fuzzy
 #| msgid "Kill Process"
 #| msgid_plural "Kill Processes"
 msgid "Forcibly Kill Process"
 msgid_plural "Forcibly Kill Processes"
-msgstr[0] "প্ৰক্ৰিয়া Kill কৰক"
-msgstr[1] "প্ৰক্ৰিয়াসমূহ Kill কৰক"
+msgstr[0] "প্ৰক্ৰিয়াক বাধ্যতামূলকভাৱে Kill কৰক"
+msgstr[1] "প্ৰক্ৰিয়াসমূহক বাধ্যতামূলকভাৱে Kill কৰক"
 
 #: ksysguardprocesslist.cpp:172
 msgid "Suspend (STOP)"
@@ -81,15 +80,15 @@ msgstr "Kill (KILL)"
 
 #: ksysguardprocesslist.cpp:178
 msgid "User 1 (USR1)"
-msgstr "User 1 (USR1)"
+msgstr "ব্যৱহাৰকাৰী ১ (USR1)"
 
 #: ksysguardprocesslist.cpp:179
 msgid "User 2 (USR2)"
-msgstr "User 2 (USR2)"
+msgstr "ব্যৱহাৰকাৰী ২ (USR2)"
 
 #: ksysguardprocesslist.cpp:182
 msgid "Focus on Quick Search"
-msgstr ""
+msgstr "দ্ৰুত সন্ধানত মনোনিবেষ কৰক"
 
 #: ksysguardprocesslist.cpp:336
 msgid ""
@@ -98,15 +97,19 @@ msgid ""
 "information.<br>To target a specific window to kill, press Ctrl+Alt+Esc at "
 "any time."
 msgstr ""
+"<qt> নিৰ্বাচিত প্ৰক্ৰিয়া অন্ত কৰক। সতৰ্কবাৰ্তা - আপুনি অসংৰক্ষীত কাম হেৰুৱাব "
+"পাৰে। <br> অন্য "
+"সংকেত পঠাবলে এটা প্ৰক্ৰিয়াত ৰাইট ক্লিক কৰক। <br> কাৰিকৰি তথ্যৰ বাবে ই কি "
+"চাওক। <br> এটা "
+"বিশেষ উইন্ডোক kill -ৰ কাৰণে লক্ষ্য কৰিবলে, যিকোনো সময়ত Ctrl+Alt+Esc দবাওক।"
 
 #: ksysguardprocesslist.cpp:416
-#, fuzzy
 #| msgid "Renice Process"
 msgctxt "Context menu"
 msgid "End Process"
 msgid_plural "End Processes"
-msgstr[0] "প্ৰক্ৰিয়া Renice কৰক"
-msgstr[1] "প্ৰক্ৰিয়া Renice কৰক"
+msgstr[0] "প্ৰক্ৰিয়া অন্ত কৰক"
+msgstr[1] "প্ৰক্ৰিয়াসমূহ অন্ত কৰক"
 
 #: ksysguardprocesslist.cpp:441
 msgid "Send Signal"
@@ -115,7 +118,7 @@ msgstr "সঙ্কেত পঠিয়াওক"
 #: ksysguardprocesslist.cpp:461
 #, kde-format
 msgid "Jump to Parent Process (%1)"
-msgstr ""
+msgstr "উপধায়ক প্ৰক্ৰিয়ালে জঁপিয়াওক (%1)"
 
 #: ksysguardprocesslist.cpp:588
 #, kde-format
@@ -129,77 +132,74 @@ msgstr "'%1' স্তম্ভ দেখুৱাওক"
 
 #: ksysguardprocesslist.cpp:632
 msgid "Display Units"
-msgstr ""
+msgstr "প্ৰদৰ্শন এককসমূহ"
 
 #: ksysguardprocesslist.cpp:636
 msgid "Mixed"
-msgstr ""
+msgstr "মিশ্ৰিত"
 
 #: ksysguardprocesslist.cpp:642
-#, fuzzy
 #| msgid "Kilobytes"
 msgid "Kilobytes per second"
-msgstr "Kilobytes"
+msgstr "কিলোবাইট প্ৰতি ছেকেণ্ড"
 
 #: ksysguardprocesslist.cpp:642
 msgid "Kilobytes"
-msgstr "Kilobytes"
+msgstr "কিলোবাইটসমূহ"
 
 #: ksysguardprocesslist.cpp:648
-#, fuzzy
 #| msgid "Megabytes"
 msgid "Megabytes per second"
-msgstr "Megabytes"
+msgstr "মেগাবাইট প্ৰতি ছেকেণ্ড"
 
 #: ksysguardprocesslist.cpp:648
 msgid "Megabytes"
-msgstr "Megabytes"
+msgstr "মেগাবাইটসমূহ"
 
 #: ksysguardprocesslist.cpp:654
-#, fuzzy
 #| msgid "Gigabytes"
 msgid "Gigabytes per second"
-msgstr "Gigabytes"
+msgstr "গিগাবাইট প্ৰতি ছেকেণ্ড"
 
 #: ksysguardprocesslist.cpp:654
 msgid "Gigabytes"
-msgstr "Gigabytes"
+msgstr "গিগাবাইটসমূহ"
 
 #: ksysguardprocesslist.cpp:663
 msgid "Percentage"
-msgstr ""
+msgstr "সতাংশ"
 
 #: ksysguardprocesslist.cpp:692
 msgid "Display command line options"
-msgstr ""
+msgstr "কমান্ড শাৰী বিকল্পসমূহ প্ৰদৰ্শন কৰক"
 
 #: ksysguardprocesslist.cpp:699
 msgid "Divide CPU usage by number of CPUs"
-msgstr ""
+msgstr "CPU ব্যৱহাৰক CPUসমূহৰ সংখ্যাৰে হৰণ কৰক"
 
 #: ksysguardprocesslist.cpp:706
 msgid "Displayed Information"
-msgstr ""
+msgstr "প্ৰদৰ্শীত তথ্য"
 
 #: ksysguardprocesslist.cpp:709
 msgid "Characters read/written"
-msgstr ""
+msgstr "পঢ়া/লিখা আথৰসমূহ"
 
 #: ksysguardprocesslist.cpp:714
 msgid "Number of Read/Write operations"
-msgstr ""
+msgstr "পঢ়া/লিখা কাৰ্য্যসমূহৰ সংখ্যা"
 
 #: ksysguardprocesslist.cpp:719
 msgid "Bytes actually read/written"
-msgstr ""
+msgstr "প্ৰকৃততে পঢ়া/লিখা বাইটসমূহ"
 
 #: ksysguardprocesslist.cpp:725
 msgid "Show I/O rate"
-msgstr ""
+msgstr "I/O হাৰ দেখুৱাওক"
 
 #: ksysguardprocesslist.cpp:752
 msgid "Show Tooltips"
-msgstr ""
+msgstr "টুলটিপসমূহ দেখুৱাওক"
 
 #: ksysguardprocesslist.cpp:1012
 #, kde-format
@@ -207,6 +207,9 @@ msgid ""
 "You do not have the permission to renice the process and there was a problem "
 "trying to run as root.  Error %1 %2"
 msgstr ""
+"আপোনাৰ প্ৰক্ৰিয়াটো renice কৰাৰ অনুমতি নাই আৰু ৰুট হিচাপে চলাওতে এটা সমস্যা "
+"হৈছিল। ত্ৰটি "
+"%1 %2"
 
 #: ksysguardprocesslist.cpp:1041 ksysguardprocesslist.cpp:1277
 msgid "You must select a process first."
@@ -218,6 +221,9 @@ msgid ""
 "You do not have the permission to change the I/O priority of the process and "
 "there was a problem trying to run as root.  Error %1 %2"
 msgstr ""
+"আপোনাৰ প্ৰক্ৰিয়াটোৰ I/O প্ৰাথমিকতা সলনি কৰাৰ অনুমতি নাই আৰু ৰুট হিচাপে "
+"চলাওতে এটা সমস্যা "
+"হৈছিল। ত্ৰুটি %1 %2"
 
 #: ksysguardprocesslist.cpp:1210
 #, kde-format
@@ -225,6 +231,9 @@ msgid ""
 "You do not have the permission to change the CPU Scheduler for the process "
 "and there was a problem trying to run as root.  Error %1 %2"
 msgstr ""
+"আপোনাৰ প্ৰক্ৰিয়াটোৰ বাবে CPU সূচক সলনি কৰাৰ অনুমতি নাই আৰু ৰুট হিচাপে চলাওতে "
+"এটা সমস্যা হৈছিল। ত্ৰটি "
+"%1 %2"
 
 #: ksysguardprocesslist.cpp:1242
 #, kde-format
@@ -232,6 +241,9 @@ msgid ""
 "You do not have the permission to kill the process and there was a problem "
 "trying to run as root. %1"
 msgstr ""
+"আপোনাৰ প্ৰক্ৰিয়াটো kill কৰাৰ অনুমতি নাই আৰু ৰুট হিচাপে চলাওতে এটা সমস্যা "
+"হৈছিল। %1"
+" "
 
 #: ksysguardprocesslist.cpp:1246
 #, kde-format
@@ -239,6 +251,9 @@ msgid ""
 "You do not have the permission to kill the process and there was a problem "
 "trying to run as root.  Error %1 %2"
 msgstr ""
+"আপোনাৰ প্ৰক্ৰিয়াটো kill কৰাৰ অনুমতি নাই আৰু ৰুট হিচাপে চলাওতে সমস্যা হৈছিল। "
+"ত্ৰুটি "
+"%1 %2"
 
 #: ksysguardprocesslist.cpp:1286
 #, kde-format
@@ -248,20 +263,24 @@ msgid_plural ""
 "Are you sure you want to end these %1 processes?  Any unsaved work may be "
 "lost"
 msgstr[0] ""
+"আপুনি নিশ্চিত নে আপুনি এই প্ৰক্ৰিয়া অন্ত কৰিব বিচাৰে ? যিকোনো অসংৰক্ষীত কাম "
+"হেৰাই যাব পাৰে।"
 msgstr[1] ""
+"আপুনি নিশ্চিত নে আপুনি এই %1 প্ৰক্ৰিয়াসমূহ অন্ত কৰিব বিচাৰে ? যিকোনো "
+"অসংৰক্ষীত কাম হেৰাই যাব পাৰে।"
 
 #: ksysguardprocesslist.cpp:1289
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Renice Process"
 msgctxt "Dialog title"
 msgid "End Process"
 msgid_plural "End %1 Processes"
-msgstr[0] "প্ৰক্ৰিয়া Renice কৰক"
-msgstr[1] "প্ৰক্ৰিয়া Renice কৰক"
+msgstr[0] "প্ৰক্ৰিয়া অন্ত কৰক"
+msgstr[1] "%1 প্ৰক্ৰিয়াসমূহ অন্ত কৰক"
 
 #: ksysguardprocesslist.cpp:1291
 msgid "End"
-msgstr ""
+msgstr "অন্ত"
 
 #: ksysguardprocesslist.cpp:1293
 #, kde-format
@@ -272,17 +291,21 @@ msgid_plural ""
 "<qt>Are you sure you want to <b>immediately and forcibly kill</b> these %1 "
 "processes?  Any unsaved work may be lost"
 msgstr[0] ""
+"<qt>আপুনি নিশ্চিত নে আপুনি <b>তৎক্ষণাত আৰ বাধ্যতামূলকভাৱে</b> এই "
+"প্ৰক্ৰিয়া অন্ত কৰিব বিচাৰে? যিকোনো অসংৰক্ষীত কাম হেৰাই যাব পাৰে।"
 msgstr[1] ""
+"<qt>আপুনি নিশ্চিত নে আপুনি <b>তৎক্ষণাত আৰ বাধ্যতামূলকভাৱে</b> এই %1 "
+"প্ৰক্ৰিয়াসমূহ অন্ত কৰিব বিচাৰে? যিকোনো অসংৰক্ষীত কাম হেৰাই যাব পাৰে।"
 
 #: ksysguardprocesslist.cpp:1296
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Kill Process"
 #| msgid_plural "Kill Processes"
 msgctxt "Dialog title"
 msgid "Forcibly Kill Process"
 msgid_plural "Forcibly Kill %1 Processes"
-msgstr[0] "প্ৰক্ৰিয়া Kill কৰক"
-msgstr[1] "প্ৰক্ৰিয়াসমূহ Kill কৰক"
+msgstr[0] "প্ৰক্ৰিয়া বাধ্যতামূলকভাৱে Kill কৰক"
+msgstr[1] "%1 প্ৰক্ৰিয়াসমূহ বাধ্যতামূলকভাৱে Kill কৰক"
 
 #: ksysguardprocesslist.cpp:1298
 msgid "Kill"
@@ -304,59 +327,63 @@ msgid "%1 G"
 msgstr "%1 G"
 
 #: ProcessModel.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 K"
 msgid "%1 T"
-msgstr "%1 K"
+msgstr "%1 T"
 
 #: ProcessModel.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 K"
 msgid "%1 P"
-msgstr "%1 K"
+msgstr "%1 P"
 
 #: ProcessModel.cpp:593
 msgid "- Process is doing some work."
-msgstr ""
+msgstr "- প্ৰক্ৰিয়ায় কিবা কাম কৰি আছে।"
 
 #: ProcessModel.cpp:595
 msgid "- Process is waiting for something to happen."
-msgstr ""
+msgstr "- প্ৰক্ৰিয়ায় কিবা হবলে অপেক্ষা কৰি আছে।"
 
 #: ProcessModel.cpp:597
 msgid ""
 "- Process has been stopped. It will not respond to user input at the moment."
 msgstr ""
+"- প্ৰক্ৰিয়া বন্ধ কৰা হৈছে। ই বৰ্তমানে ব্যৱহাৰকাৰী ইনপুটলে প্ৰতিক্ৰিয়া কৰিব।"
 
 #: ProcessModel.cpp:599
 msgid ""
 "- Process has finished and is now dead, but the parent process has not "
 "cleaned up."
 msgstr ""
+"- প্ৰক্ৰিয়া সমাপ্ত হৈছে আৰু এতিয়া মৃত, কিন্তু উপধায়ক প্ৰক্ৰিয়া সফা হোৱা নাই।"
 
 #: ProcessModel.cpp:948
-#, fuzzy
 #| msgid "The process name"
 msgid "The process name."
-msgstr "প্ৰক্ৰিয়াৰ নাম"
+msgstr "প্ৰক্ৰিয়াটোৰ নাম।"
 
 #: ProcessModel.cpp:950
 msgid "The user who owns this process."
-msgstr ""
+msgstr "এই প্ৰক্ৰিয়াটোৰ অধিকাৰিত্ব থকা ব্যৱহাৰকাৰীজন।"
 
 #: ProcessModel.cpp:952
 msgid "The controlling terminal on which this process is running."
-msgstr ""
+msgstr "নিয়ন্ত্ৰক টাৰ্মিনেল যত এই প্ৰক্ৰিয়া চলি আছে।"
 
 #: ProcessModel.cpp:954
 msgid ""
 "The priority with which this process is being run. For the normal scheduler, "
 "this ranges from 19 (very nice, least priority) to -19 (top priority)."
 msgstr ""
+"প্ৰাথমিকতা যাৰ সৈতে এই প্ৰক্ৰিয়া চলাই থকা হৈছে। স্বাভাৱিক সূচকৰ বাবে, ই ১৯ "
+"(বহুত ভাল, নূন্যতম "
+"প্ৰাথমিকতা) -ৰ পৰা -১৯ (উচ্চ প্ৰাথমিকতা) লে বিস্তাৰিত।"
 
 #: ProcessModel.cpp:957
 msgid "The current CPU usage of the process."
-msgstr ""
+msgstr "প্ৰক্ৰিয়াটোৰ বৰ্তমান CPU ব্যৱহাৰ।"
 
 #: ProcessModel.cpp:962
 #, kde-format
@@ -367,17 +394,24 @@ msgid_plural ""
 "The current total CPU usage of the process, divided by the %1 processor "
 "cores in the machine."
 msgstr[0] ""
+"প্ৰক্ৰিয়াটোৰ বৰ্তমান সৰ্বমূঠ CPU ব্যৱহাৰ, মেচিনত %1 প্ৰচেছৰ কেন্দ্ৰৰে "
+"বিভাজিত।"
 msgstr[1] ""
+"প্ৰক্ৰিয়াটোৰ বৰ্তমান সৰ্বমূঠ CPU ব্যৱহাৰ, মেচিনত %1 প্ৰচেছৰ কেন্দ্ৰসমূহৰে "
+"বিভাজিত।"
 
 #: ProcessModel.cpp:964
 msgid "The current total CPU usage of the process."
-msgstr ""
+msgstr "প্ৰক্ৰিটোৰ বৰ্তমান সৰ্বমূঠ CPU ব্যৱহাৰ।"
 
 #: ProcessModel.cpp:966
 msgid ""
 "<qt>The total user and system time that this process has been running for, "
 "displayed as minutes:seconds."
 msgstr ""
+"<qt> এই প্ৰক্ৰিয়াটো চলি থকা সৰ্বমূঠ ব্যৱহাৰকাৰী আৰু চিস্টেম সময়, "
+"মিনিটসমূহ:ছেকেণ্ডসমূহ "
+"হিচাপে প্ৰদৰ্শীত।"
 
 #: ProcessModel.cpp:968
 msgid ""
@@ -385,6 +419,10 @@ msgid ""
 "included shared libraries, graphics memory, files on disk, and so on. This "
 "number is almost meaningless.</qt>"
 msgstr ""
+"<qt>ই প্ৰক্ৰিয়াটোৱে ব্যৱহাৰ কৰা ভাৰছুৱেল স্থানৰ পৰিমাণ, অংশীদাৰী লাইব্ৰেৰি, "
+"গ্ৰাফিয় লাইব্ৰেৰি, "
+"ডিস্কত থকা নথিপত্ৰসমূহ, আৰু এনেধৰণৰ অন্তৰ্ভুক্ত কৰাকৈ। এই সংখ্যাটো প্ৰায় "
+"অৰ্থহিন।</qt>"
 
 #: ProcessModel.cpp:970
 msgid ""
@@ -394,6 +432,13 @@ msgid ""
 "libraries.<br>This is often the most useful figure to judge the memory use "
 "of a program.  See What's This for more information.</qt>"
 msgstr ""
+"<qt> ই এই প্ৰক্ৰিয়ায় ব্যৱহাৰ কৰি থকা প্ৰকৃত ভৌতিক মেমৰিৰ পৰিমাণ, আৰু "
+"প্ৰক্ৰিয়াৰ ব্যক্তিগত "
+"মেমৰি ব্যৱহাৰৰ প্ৰায় শুদ্ধ এটা পৰিমাণ প্ৰদান কৰে। <br> ই স্বাপ হোৱা মেমৰি, "
+"বা ইয়াৰ অংশীদাৰী "
+"লাইব্ৰেৰিসমূহৰ কোড আকাৰ অন্তৰ্ভুকত নকৰে। <br> ই সঘনে এটা প্ৰগ্ৰামৰ মেমৰি "
+"ব্যৱহাৰ বিচাৰ "
+"কৰা সকলোতকৈ উত্তম আকৃতি। অধিক তথ্যৰ বাবে এইটো কি চাওক। </qt>"
 
 #: ProcessModel.cpp:972
 msgid ""
@@ -401,30 +446,33 @@ msgid ""
 "process's shared libraries are using.<br>This memory is shared among all "
 "processes that use this library.</qt>"
 msgstr ""
+"<qt> ই প্ৰক্ৰিয়াৰ অংশীদাৰী লাইব্ৰেৰিসমূহে ব্যৱহাৰ কৰা প্ৰকৃত ভৌতিক মেমৰিৰ "
+"প্ৰায় শুদ্ধ পৰিমাণ। "
+"<br>এই মেমৰি এই লাইব্ৰেৰিক ব্যৱহাৰ কৰা সকলো প্ৰক্ৰিয়াৰ মাজত অংশীদাৰী হয়।</qt>"
 
 #: ProcessModel.cpp:974
 msgid "<qt>The command with which this process was launched.</qt>"
-msgstr ""
+msgstr "<qt>কমান্ড যাৰ সহায়ত এই প্ৰক্ৰিয়া লঞ্চ কৰা হৈছিল।</qt>"
 
 #: ProcessModel.cpp:976
 msgid "<qt>The amount of pixmap memory that this process is using.</qt>"
-msgstr ""
+msgstr "<qt>এই প্ৰক্ৰিয়ায় ব্যৱহাৰ কৰি থকা pixmap মেমৰিৰ পৰিমাণ।</qt>"
 
 #: ProcessModel.cpp:978
 msgid "<qt>The title of any windows that this process is showing.</qt>"
-msgstr ""
+msgstr "<qt>এই প্ৰক্ৰিয়া দেখাই থকা যিকোনো উইন্ডোৰ শীৰ্ষক।</qt>"
 
 #: ProcessModel.cpp:980
 msgid "The unique Process ID that identifies this process."
-msgstr ""
+msgstr "এই প্ৰক্ৰিয়াক চিনাক্ত কৰা অবিকল্প প্ৰক্ৰিয়া ID."
 
 #: ProcessModel.cpp:982
 msgid "The number of bytes read.  See What's This for more information."
-msgstr ""
+msgstr "পঢ়া বাইটসমূহৰ সংখ্যা। অধিক তথ্যৰ বাবে এইটো কি চাওক।"
 
 #: ProcessModel.cpp:984
 msgid "The number of bytes written.  See What's This for more information."
-msgstr ""
+msgstr "লিখা বাইটসমূহৰ সংখ্যা। অধিক তথ্যৰ বাবে এইটো কি চাওক।"
 
 #: ProcessModel.cpp:993
 msgid ""
@@ -433,6 +481,11 @@ msgid ""
 "full command line starts with the process name, the first word of the "
 "command line is shown, otherwise the process name is used."
 msgstr ""
+"<qt><i>কাৰিকৰি তথ্য: </i> কাৰনেল প্ৰক্ৰিয়া নাম সৰ্বাধিক ৮ আখৰ দীঘল, যাৰ বাবে "
+"সম্পূৰ্ণ কমান্ড "
+"নীৰিক্ষন কৰা হয়। যদি সম্পূৰ্ণ কমান্ড শাৰীৰ প্ৰথম শব্দ প্ৰক্ৰিয়াৰ নামৰে আৰম্ভ "
+"হয়, কমান্ড শাৰীৰ প্ৰথম শব্দ "
+"দেখুৱা হয়, অন্যথা প্ৰক্ৰিয়া নাম ব্যৱহাৰ কৰা হয়।"
 
 #: ProcessModel.cpp:995
 msgid ""
@@ -449,6 +502,25 @@ msgid ""
 "File System User/Group.  This is a Linux specific call. See setfsuid(2) for "
 "more information.</td></tr></table>"
 msgstr ""
+"<qt> এই প্ৰক্ৰিয়া নিজা কৰা ব্যৱহাৰকাৰীজন। যদি ফলপ্ৰদ, setuid ইত্যাদি "
+"ব্যৱহাৰকাৰী ভিন্ন হয়, "
+"প্ৰক্ৰিয়া নিজা কৰা ব্যৱহাৰকাৰীজনক দেখুৱা হব, ফলপ্ৰদ ব্যৱহাৰকাৰীজন অনুকৰিত "
+"কৰাকৈ। টুলটিপে "
+"সম্পূৰ্ণ তথ্য অন্তৰ্ভুক্ত কৰে। <p><table><tr><td>লগিন নাম/দল</td><td> এই "
+"প্ৰক্ৰিয়া সৃষ্টি "
+"কৰা প্ৰকৃত ব্যৱহাৰকাৰীৰ ব্যৱহাৰকাৰী নাম/দল</td></tr><tr><td>ফলপ্ৰদ "
+"ব্যৱহাৰকাৰী/দল</"
+"td><td>প্ৰক্ৰিয়াটো ফলপ্ৰদ ব্যৱহাৰকাৰী/দল -ৰ সুবিধাসমূহৰ সৈতে চলি আছে। ইয়াক "
+"দেখুৱা হয় যদি "
+"প্ৰকৃত ব্যৱহাৰকাৰীৰ পৰা ভিন্ন হয়। </td></tr><tr><td>Setuid ব্যৱহাৰকাৰী/দল<"
+"/td><td> "
+"বাইনাৰিৰ সংৰক্ষীত ব্যৱহাৰকাৰী নাম। প্ৰক্ৰিয়ায় ইয়াৰ ফলপ্ৰদ ব্যৱহাৰকাৰী/দল -ক "
+"Setuid ব্যৱহাৰকাৰী "
+"/দল -লে পঠাব পাৰে। </td></tr><tr><td>নথিপত্ৰ প্ৰণালী ব্যৱহাৰকাৰী/দল</td><td> "
+"-ৰ "
+"নথিপত্ৰপ্ৰণালীলে অভিগম নথিপত্ৰ প্ৰণালী ব্যৱহাৰকাৰী/দল -ৰ দ্বাৰা নীৰিক্ষণ কৰা "
+"হয়। ই এটা Linux "
+"বিশেষ কল। অধিক তথ্যৰ বাবে setfsuid(2) চাওক। </td></tr></table>"
 
 #: ProcessModel.cpp:1005
 msgid ""
@@ -458,6 +530,13 @@ msgid ""
 "real usage will be low, VIRT will be high. <p><i>Technical information: </"
 "i>This is VmSize in proc/*/status and VIRT in top."
 msgstr ""
+"<qt> ই আবন্টন কৰা ঠিকনা স্থানৰ আকাৰ - মেমৰিৰ নহয়, কিন্তু ঠিকনা স্থান। "
+"অভ্যাসত থকা এই মানে "
+"একো নথকাৰ পৰিৱৰ্ত বুজায়। যেতিয়া এটা প্ৰক্ৰিয়ায় চিস্টেমৰ পৰা এটা ডাঙৰ মেমৰি "
+"খন্ডৰ অনুৰোধ কৰে "
+"কিন্তু ইয়াৰ এটা সৰু অংশয় ব্যৱহাৰ কৰে, প্ৰকৃত ব্যৱহাৰ কম হব,  VIRT উচ্চ হব। <"
+"p><i>কাৰিকৰি তথ্য: </ "
+"i> ই  proc/*/status -ত থকা  VmSize আৰু উপৰত থকা VIRT।"
 
 #: ProcessModel.cpp:1007
 msgid ""
@@ -469,10 +548,20 @@ msgid ""
 "For an individual process, see \"Detailed  Memory Information\" for a more "
 "accurate, but slower, calculation of the true Private memory usage."
 msgstr ""
+"<qt><i>কাৰিকৰী তথ্য: </i> ই ব্যক্তিগত মেমেৰি ব্যৱহাৰৰ প্ৰায় শুদ্ধ এটা "
+"পৰিমাণ, /proc/*/statm "
+"-ৰ পৰা, VmRSS - Shared হিচাপে গণিত। ই এটা প্ৰক্ৰিয়াৰ প্ৰকৃত মেমৰি ব্যৱহাৰৰ "
+"নিম্নভাৱে প্ৰাককলনৰৰ ফালে "
+"প্ৰৱনত (i/o সমৰ্থিত মেমৰি পৃষ্ঠাসমূহ অন্তৰ্ভুক্ত নকৰাকৈ), কিন্তু ই সৰ্বোত্তম "
+"প্ৰাককলন যাক দ্ৰুত নিৰ্ধাৰন কৰিব পাৰি। "
+"ই কেতিয়াবা URSS (বিশেষ স্থানীয় সংহতি আকাৰ) হিচাপে জনাজাত। এটা সূকীয়া "
+"প্ৰক্ৰিয়াৰ বাবে, চাওক "
+"\"বিৱৰিত মেমৰি তথ্য\" এটা অধিক সঠিক, কিন্তু লেহেম, সঠিক ব্যক্তিগত মেমৰি "
+"ব্যৱহাৰৰ গণনাৰ বাবে।"
 
 #: ProcessModel.cpp:1009
 msgid "The CPU usage of a process and all of its threads."
-msgstr ""
+msgstr "এটা প্ৰক্ৰিয়া আৰু ইয়াৰ সকলো থ্ৰেডৰ বাবে CPU ব্যৱহাৰ।"
 
 #: ProcessModel.cpp:1011
 msgid ""
@@ -480,6 +569,11 @@ msgid ""
 "have been running on the CPU for. This can be greater than the wall clock "
 "time if the process has been across multiple CPU cores."
 msgstr ""
+"<qt> সৰ্বমূঠ চিস্টেম আৰু ব্যৱহাৰকাৰী সময় যি এটা প্ৰক্ৰিয়া আৰু ইয়াৰ সকলো "
+"থ্ৰেডে CPU -ত "
+"চলাই আছে। ই ৱাল ঘড়ি সময়তকে অধিক হব পাৰিব যদি প্ৰক্ৰিয়াটো বহু CPU কেন্দ্ৰ পাৰ "
+"হৈ "
+"আহিছে।"
 
 #: ProcessModel.cpp:1013
 msgid ""
@@ -489,10 +583,17 @@ msgid ""
 "process, see \"Detailed Memory Information\" for a more accurate, but "
 "slower, calculation of the true Shared memory usage."
 msgstr ""
+"<qt><i>কাৰীকৰি তথ্য: </i> ই অংশীদাৰী মেমৰিৰ এটা প্ৰায় শুদ্ধ অনুমান, যাক উপৰত "
+"SHR "
+"বুলি কোৱা হয়। ই এটা নথিপত্ৰয় সমৰ্থন কৰা পৃষ্ঠাসমূহৰ সংখ্যা (চাওক kernel "
+"Documentation "
+"/filesystems/proc.txt )। এটা সূকীয়া প্ৰক্ৰিয়াৰ বাবে, চাওক  \"বিৱৰিত মেমৰি "
+"তথ্য\", প্ৰকৃত অংশীদাৰী "
+"মেমৰি ব্যৱহাৰৰ , এটা অধিক সঠিক, কিন্তু লেহেম, গণনাৰ বাবে।"
 
 #: ProcessModel.cpp:1015
 msgid "<qt><i>Technical information: </i>This is from /proc/*/cmdline"
-msgstr ""
+msgstr "<qt><i>কাৰিকৰি তথ্য: </i>ই /proc/*/cmdline -ৰ পৰা"
 
 #: ProcessModel.cpp:1017
 msgid ""
@@ -503,6 +604,15 @@ msgid ""
 "fonts, cursors, glyphsets etc.  See the <code>xrestop</code> program for a "
 "more detailed breakdown."
 msgstr ""
+"<qt><i>কাৰীকৰি তথ্য:</i> ই এই প্ৰক্ৰিয়াৰ বাবে Xorg প্ৰক্ৰিয়া দ্বাৰা ব্যৱহাৰ "
+"কৰা মেমৰিৰ পৰিমাণ। "
+"ই মেমৰি আৰু অংশীদাৰী মেমৰিৰ অতিৰিক্তে ব্যৱহাৰ কৰা মেমৰি। <br><i>কাৰীকৰি "
+"তথ্য: </i> ই "
+"কেৱল pixmap মেমৰি গণনা কৰে, আৰু ফন্ট, কাৰ্চাৰ, glyphsets ইত্যদিয়ে ব্যৱহাৰ "
+"কৰা সম্পদ "
+"মেমৰি ব্যৱহাৰ নকৰে। এটা অধিক বিৱৰিত ব্ৰেকডাউনৰ বাবে <code>xrestop</code> "
+"প্ৰগ্ৰাম "
+"চাওক।"
 
 #: ProcessModel.cpp:1019
 msgid ""
@@ -510,6 +620,11 @@ msgid ""
 "_NET_WM_PID is used to map the window to a PID.  If a process' windows are "
 "not shown, then that application incorrectly is not setting _NET_WM_PID."
 msgstr ""
+"<qt><i>কাৰিকৰি তথ্য: </i>প্ৰতিটো X11 উইন্ডোৰ বাবে, X11 বৈশিষ্ট "
+"_NET_WM_PID -ক উইন্ডোটোক এটা PID লে মেপ কৰাৰ কাৰণে ব্যৱহাৰ কৰা হয়।  যদি এটা "
+"প্ৰক্ৰিয়াৰ "
+"উইন্ডোসমূহ দেখুৱা হোৱা নাই, তেতিয়া অনুপ্ৰয়োগটো ভুলভাৱে _NET_WM_PID সংহতি কৰা "
+"নাই।"
 
 #: ProcessModel.cpp:1021
 msgid ""
@@ -518,6 +633,11 @@ msgid ""
 "PID.  The CPU usage etc will be the total, accumulated, CPU usage of all the "
 "threads."
 msgstr ""
+"<qt><i>কাৰিকৰি তথ্য: </i> ই প্ৰক্ৰিয়া ID। এটা বহু থ্ৰেডৰ অনুপ্ৰয়োগক এটা একক "
+"প্ৰক্ৰিয়া হিচাপে "
+"গন্য কৰা হয়, সকলো থ্ৰেড একেটা PID অংশীদাৰী কৰাকৈ। CPU ব্যৱহাৰ ইত্যাদি হব "
+"সকলো থ্ৰেডৰ "
+"সৰ্বমূঠ, সংগ্ৰহীত, CPU ব্যৱহাৰ।"
 
 #: ProcessModel.cpp:1024
 msgid ""
@@ -546,15 +666,49 @@ msgid ""
 "*/io and is documented further in Documentation/accounting and Documentation/"
 "filesystems/proc.txt in the kernel source."
 msgstr ""
+"<qt>এই স্তম্ভয় প্ৰতিটো প্ৰক্ৰিয়াৰ কাৰণে IO পৰিসংখ্যা দেখুৱায়। টুলটিপে "
+"নিম্নলিখিত তথ্য প্ৰদান কৰে: "
+"<br><table><tr><td>পঢ়া আখৰসমূহ</td><td> এই কাৰ্য্যৰ বাবে সংৰক্ষণৰ পৰা পঢ়িব "
+"লগিয়া \n"
+"হোৱা বাইটসমূহৰ সংখ্যা। ই সাধাৰনত বাইটসমূহৰ যোগফল যি এই প্ৰক্ৰিয়ায় read() আৰু "
+"pread() "
+"-লে পঠাইছিল। ই বস্তু যেনে tty IO অন্তৰ্ভুক্ত কৰে আৰু প্ৰকৃত ভৌতিক ডিস্ক IO "
+"-ৰ প্ৰয়োজন আছে নে "
+"নাই তাৰ পৰা অপ্ৰভাৱিত (পঢ়াটো হয়তো pagecache -ৰ দ্বাৰা সন্তোষ কৰা হৈছিল)। <"
+"/td></tr> "
+"<tr><td>লিখা আখৰসমূহ</td><td> এই কাৰ্য্যৰ বাবে অহা বাইটসমূহ সংখ্যা, অথবা "
+"ডিস্কলে লিখিবলে "
+"বাধ্য কৰিব। সদৃশ caveats আখৰসমূহৰ হৈতে পঢ়া হৈছে বুলি ইয়াত প্ৰয়োগ হয়। </td></"
+"tr><tr><td>Syscalls পঢ়ক</td><td>পঢ়া I/O কাৰ্য্যসমূহৰ সংখ্যা, মানে syscalls "
+"যেনে read() "
+"আৰু pread()। </td></tr><tr><td>Write Syscalls</td><td>লিখা I/O কাৰ্য্যসমূহৰ "
+"সংখ্যা, মানে "
+"syscalls যেনে write() আৰু pwrite()। </td></tr><tr><td>প্ৰকৃতে পঢ়া বাইটসমূহ<"
+"/td><td> "
+"বাইটসমূহৰ সংখ্যা যি এই প্ৰক্ৰিয়ায় প্ৰকৃততে কৰিছিল সংৰক্ষণ স্তৰৰ পৰা গ্ৰহন "
+"কৰিব লাগিব। submit_bio() "
+"স্তৰত কৰা হৈছিল, সেয়েহে ই ব্লক-বেক নথিপত্ৰ প্ৰণালীসমূহৰ বাবে সঠিক। ই NFS আৰু "
+"CIFS নথিপত্ৰপ্ৰণালীসমূহৰ "
+"বাবে সংবেদ্য মানসমূহ দিব পাৰে। </td></tr><tr><td>প্ৰকৃততে লিখা বাইটসমূহ</td>"
+"<td> বাইটসমূহৰ "
+"সংখ্যা গণনা কৰাৰ চেষ্ঠা যি এই প্ৰক্ৰিয়ায় সংৰক্ষণ স্তৰলে পঠাবলে বাধ্য কৰিছে। "
+"ই পৃষ্ঠা-লেতেৰা কৰাৰ সময়ত কৰা "
+"হয়। </td></table><p> ব্ৰেকেটত থকা নম্বৰে প্ৰতিটো মান সলনি হোৱাৰ হাৰ দেখুৱায়, "
+"পূৰ্বৱৰ্তী মান আৰু নতুন "
+"মানৰ মাজৰ পাৰ্থক্যক লৈ, আৰু আপডেইট অন্তৰালৰে হৰণ কৰি নিৰ্ধাৰন কৰা হয়। <p><i>"
+"কাৰীকৰি তথ্য: </i> "
+"এই তথ্য /proc/*/io পৰা সংগ্ৰহ কৰা হয় আৰু কাৰনেল উৎসৰ তথ্য/একাওন্টিং আৰু "
+"তথ্য/নথিপত্ৰপ্ৰণালীসমূহ/proc.txt "
+"-ত ততোধিক তথ্যচিত্ৰিত কৰা হয়।"
 
 #: ProcessModel.cpp:1111
 #, kde-format
 msgid "Login Name: %1<br/>"
-msgstr "প্ৰৱেশ কৰাৰ নাম: %1<br/>"
+msgstr "লগিন কৰাৰ নাম: %1<br/>"
 
 #: ProcessModel.cpp:1115
 msgid "This user is not recognized for some reason."
-msgstr ""
+msgstr "ব্যৱহাৰকাৰীজনক কিবা কাৰণে চিনাক্ত কৰিব নোৱাৰি।"
 
 #: ProcessModel.cpp:1118
 #, kde-format
@@ -564,32 +718,32 @@ msgstr "<b>%1</b><br/>"
 #: ProcessModel.cpp:1119
 #, kde-format
 msgid "Login Name: %1 (uid: %2)<br/>"
-msgstr "প্ৰৱেশ কৰাৰ নাম: %1 (uid: %2)<br/>"
+msgstr "লগিন কৰাৰ নাম: %1 (uid: %2)<br/>"
 
 #: ProcessModel.cpp:1121
 #, kde-format
 msgid "  Room Number: %1<br/>"
-msgstr ""
+msgstr "  ৰুম নম্বৰ:%1<br/>"
 
 #: ProcessModel.cpp:1123
 #, kde-format
 msgid "  Work Phone: %1<br/>"
-msgstr ""
+msgstr "  কৰ্মক্ষেত্ৰৰ ফোন: %1<br/>"
 
 #: ProcessModel.cpp:1130
 #, kde-format
 msgid "Effective User: %1<br/>"
-msgstr ""
+msgstr "ফলপ্ৰদ ব্যৱহাৰকাৰী: %1<br/>"
 
 #: ProcessModel.cpp:1132
 #, kde-format
 msgid "Setuid User: %1<br/>"
-msgstr ""
+msgstr "Setuid ব্যৱহাৰকাৰী: %1<br/>"
 
 #: ProcessModel.cpp:1134
 #, kde-format
 msgid "File System User: %1<br/>"
-msgstr ""
+msgstr "নথিপত্ৰ প্ৰণালী ব্যৱহাৰকাৰী: %1<br/>"
 
 #: ProcessModel.cpp:1138
 #, kde-format
@@ -599,23 +753,23 @@ msgstr "দল: %1"
 #: ProcessModel.cpp:1143
 #, kde-format
 msgid "<br/>Effective Group: %1"
-msgstr ""
+msgstr "<br/>ফলপ্ৰদ দল: %1"
 
 #: ProcessModel.cpp:1145
 #, kde-format
 msgid "<br/>Setuid Group: %1"
-msgstr ""
+msgstr "<br/>Setuid দল: %1"
 
 #: ProcessModel.cpp:1147
 #, kde-format
 msgid "<br/>File System Group: %1"
-msgstr ""
+msgstr "<br/>নথিপত্ৰ প্ৰণালী দল: %1"
 
 #: ProcessModel.cpp:1154
 #, kde-format
 msgctxt "Short description of a process. PID, name, user"
-msgid "<numid>%1</numid>: %2, owned by user %3"
-msgstr "<numid>%1</numid>: %2, %3 ব্যৱহাৰকৰোঁতা গৰাকী"
+msgid "<numid>%1</numid>: %2, own by %3 "
+msgstr "<numid>%1</numid>: %2, %3 -ৰে নিজস্ব কৰা"
 
 #: ProcessModel.cpp:1161
 #, kde-format
@@ -630,66 +784,69 @@ msgstr "%1 (uid: %2)"
 #: ProcessModel.cpp:1220
 msgctxt "scheduler"
 msgid "Idle"
-msgstr ""
+msgstr "অলস"
 
 #: ProcessModel.cpp:1222
 #, kde-format
 msgctxt "scheduler"
 msgid "(Batch) %1"
-msgstr ""
+msgstr "(চাম) %1"
 
 #: ProcessModel.cpp:1224
 #, kde-format
 msgctxt "Round robin scheduler"
 msgid "RR %1"
-msgstr ""
+msgstr "RR %1"
 
 #: ProcessModel.cpp:1227
 msgctxt "Real Time scheduler"
 msgid "RT"
-msgstr ""
+msgstr "RT"
 
 #: ProcessModel.cpp:1229
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "FIFO"
 msgctxt "First in first out scheduler"
 msgid "FIFO %1"
-msgstr "FIFO"
+msgstr "FIFO %1"
 
 #: ProcessModel.cpp:1231
 #, kde-format
 msgctxt "scheduler"
 msgid "(IA) %1"
-msgstr ""
+msgstr "(IA) %1"
 
 #: ProcessModel.cpp:1288 ProcessModel.cpp:1296 ProcessModel.cpp:1314
 #: ProcessModel.cpp:1322
 #, kde-format
 msgid "%1/s"
-msgstr ""
+msgstr "%1/s"
 
 #: ProcessModel.cpp:1355
 #, kde-format
 msgctxt "tooltip. name,pid "
 msgid "This process is being debugged by %1 (<numid>%2</numid>)"
-msgstr ""
+msgstr "এই প্ৰক্ৰিয়া %1 (<numid>%2</numid>) -ৰ দ্বাৰা ডিবাগ কৰা হৈ আছে"
 
 #: ProcessModel.cpp:1376
 msgid ""
 "<b>Init</b> is the parent of all other processes and cannot be killed.<br/>"
-msgstr ""
+msgstr "<b>Init</b> সকলো প্ৰক্ৰিয়াৰ উপধায়ক আৰু ইয়াক kill কৰিব নোৱাৰি।<br/>"
 
 #: ProcessModel.cpp:1378
 msgid ""
 "<b>KThreadd</b> manages kernel threads. The children processes run in the "
 "kernel, controlling hard disk access, etc.<br/>"
 msgstr ""
+"<b>KThreadd</b> -এ কাৰনেল থ্ৰেডসমূহ ব্যৱস্থাপনা কৰে। সন্তান প্ৰক্ৰিয়াসমূহ "
+"কাৰনেলত চলে, "
+"হাৰ্ড ডিস্ক অভিগম নিয়ন্ত্ৰণ কৰাকৈ, ইত্যাদি।<br/>"
 
 #: ProcessModel.cpp:1380
 #, kde-format
 msgctxt "name column tooltip. first item is the name"
 msgid "<b>%1</b><br />Process ID: <numid>%2</numid>"
-msgstr ""
+msgstr "<b>%1</b><br />প্ৰক্ৰিয়া ID: <numid>%2</numid>"
 
 #: ProcessModel.cpp:1385
 #, kde-format
@@ -698,6 +855,8 @@ msgid ""
 "<b>%1</b><br />Process ID: <numid>%2</numid><br />Parent: %3<br />Parent's "
 "ID: <numid>%4</numid>"
 msgstr ""
+"<b>%1</b><br />প্ৰক্ৰিয়া ID: <numid>%2</numid><br />উপধায়ক: %3<br />উপধায়কৰ "
+"ID: <numid>%4</numid>"
 
 #: ProcessModel.cpp:1387
 #, kde-format
@@ -706,11 +865,13 @@ msgid ""
 "<b>%1</b><br />Process ID: <numid>%2</numid><br />Parent's ID: <numid>%3</"
 "numid>"
 msgstr ""
+"<b>%1</b><br />প্ৰক্ৰিয়া ID: <numid>%2</numid><br />উপধায়কৰ ID: <numid>%3</"
+"numid>"
 
 #: ProcessModel.cpp:1391 ProcessModel.cpp:1455
 #, kde-format
 msgid "<br/>Number of threads: %1"
-msgstr ""
+msgstr "<br/>থ্ৰেডসমূহৰ সংখ্যা: %1"
 
 #: ProcessModel.cpp:1393
 #, kde-format
@@ -725,7 +886,7 @@ msgstr "<br />-ত চলিছে: %1"
 #: ProcessModel.cpp:1404
 #, kde-format
 msgid "<qt>This process was run with the following command:<br />%1"
-msgstr ""
+msgstr "<qt>এই প্ৰক্ৰিয়া নিম্নলিখিত কমান্ডৰে চলোৱা হৈছিল:<br />%1"
 
 #: ProcessModel.cpp:1406
 #, kde-format
@@ -740,22 +901,22 @@ msgstr "Nice স্তৰ: %1 (%2)"
 #: ProcessModel.cpp:1425
 #, kde-format
 msgid "This is a real time process.<br>Scheduler priority: %1"
-msgstr ""
+msgstr "ই এটা প্ৰকৃত সময় প্ৰক্ৰিয়া। <br>সূচক প্ৰাথমিকতা: %1"
 
 #: ProcessModel.cpp:1431
 #, kde-format
 msgid "<br/>Scheduler: %1"
-msgstr "<br/>Scheduler: %1"
+msgstr "<br/>সূচক: %1"
 
 #: ProcessModel.cpp:1435 ProcessModel.cpp:1477
 #, kde-format
 msgid "<br/>I/O Nice level: %1 (%2)"
-msgstr "<br/>I/O Nice level: %1 (%2)"
+msgstr "<br/>I/O Nice স্তৰ: %1 (%2)"
 
 #: ProcessModel.cpp:1436 ProcessModel.cpp:1478
 #, kde-format
 msgid "<br/>I/O Class: %1"
-msgstr "<br/>I/O Class: %1"
+msgstr "<br/>I/O ক্লাছ: %1"
 
 #: ProcessModel.cpp:1444
 #, kde-format
@@ -763,6 +924,9 @@ msgid ""
 "<qt><p style='white-space:pre'>Process status: %1 %2<br />User CPU usage: %3%"
 "<br />System CPU usage: %4%"
 msgstr ""
+"<qt><p style='white-space:pre'>প্ৰক্ৰিয়া অৱস্থা: %1 %2<br />ব্যৱহাৰকাৰী CPU "
+"ব্যৱহাৰ: %3%"
+"<br />চিস্টেমৰ CPU ব্যৱহাৰ: %4%"
 
 #: ProcessModel.cpp:1457
 #, kde-format
@@ -770,16 +934,21 @@ msgid ""
 "<br />Number of children: %1<br />Total User CPU usage: %2%<br />Total "
 "System CPU usage: %3%<br />Total CPU usage: %4%"
 msgstr ""
+"<br />সন্তানসমূহৰ সংখ্যা: %1<br />সৰ্বমূঠ ব্যৱহাৰকাৰী CPU ব্যৱহাৰ: %2%<br />"
+"সৰ্বমূঠ "
+"চিস্টেম CPU ব্যৱহাৰ: %3%<br />সৰ্বমূঠ CPU ব্যৱহাৰ: %4%"
 
 #: ProcessModel.cpp:1466
 #, kde-format
 msgid "<br /><br />CPU time spent running as user: %1 seconds"
 msgstr ""
+"<br /><br />ব্যৱহাৰকাৰী হিচাপে চলাই থাকোতে নিঃশেষ কৰা CPU সময় : %1 "
+"ছেকেণ্ডসমূহ"
 
 #: ProcessModel.cpp:1470
 #, kde-format
 msgid "<br />CPU time spent running in kernel: %1 seconds"
-msgstr ""
+msgstr "<br />কাৰনেলত চলি থাকোতে নিঃশেষ কৰা CPU সময়: %1 ছেকেণ্ডসমূহ"
 
 #: ProcessModel.cpp:1474
 #, kde-format
@@ -789,41 +958,40 @@ msgstr "<br />Nice স্তৰ: %1 (%2)"
 #: ProcessModel.cpp:1493
 #, kde-format
 msgid "Memory usage: %1 out of %2  (%3 %)<br />"
-msgstr "স্মৃতিশক্তিৰ ব্যৱহাৰ: %1, মুঠ %2 ৰ (%3 %)<br />"
+msgstr "মেমৰিৰ ব্যৱহাৰ: %1, মুঠ %2 ৰ (%3 %)<br />"
 
 #: ProcessModel.cpp:1495
 #, kde-format
 msgid "Memory usage: %1<br />"
-msgstr "স্মৃতিশক্তিৰ ব্যৱহাৰ: %1<br />"
+msgstr "মেমৰিৰ ব্যৱহাৰ: %1<br />"
 
 #: ProcessModel.cpp:1498
 #, kde-format
 msgid "RSS Memory usage: %1 out of %2  (%3 %)"
-msgstr ""
+msgstr "RSS মেমৰি ব্যৱহাৰ: %2  (%3 %) ভিতৰত %1"
 
 #: ProcessModel.cpp:1500
 #, kde-format
 msgid "RSS Memory usage: %1"
-msgstr "RSS স্মৃতিশক্তিৰ ব্যৱহাৰ: %1"
+msgstr "RSS মেমৰিৰ ব্যৱহাৰ: %1"
 
 #: ProcessModel.cpp:1506
-#, fuzzy
 #| msgid ""
 #| "<qt>Your system does not seem to have this information available to be "
 #| "read.</qt>"
 msgid ""
 "Your system does not seem to have this information available to be read."
-msgstr "<qt>আপোনাৰ ব্যৱস্থাপ্ৰণালীত পঢ়িবৰ বাবে এই তথ্য নাই ।</qt>"
+msgstr "আপোনাৰ চিস্টেমত সম্ভৱত পঢ়িবৰ বাবে এই তথ্য নাই।"
 
 #: ProcessModel.cpp:1510
 #, kde-format
 msgid "Shared library memory usage: %1 out of %2  (%3 %)"
-msgstr ""
+msgstr "অংশীদাৰী লাইব্ৰেৰি মেমৰি ব্যৱহাৰ: %2  (%3 %) -ৰ ভিতৰত %1 "
 
 #: ProcessModel.cpp:1512
 #, kde-format
 msgid "Shared library memory usage: %1"
-msgstr "Shared library স্মৃতিশক্তিৰ ব্যৱহাৰ: %1"
+msgstr "অংশীদাৰী লাইব্ৰেৰি মেমৰিৰ ব্যৱহাৰ: %1"
 
 #: ProcessModel.cpp:1520
 #, kde-format
@@ -832,6 +1000,11 @@ msgid ""
 "syscalls: %5 (%6 s⁻¹)<br>Write syscalls: %7 (%8 s⁻¹)<br>Actual bytes read: %"
 "9 (%10 KiB/s)<br>Actual bytes written: %11 (%12 KiB/s)"
 msgstr ""
+"পঢ়া আখৰসমূহ: %1 (%2 KiB/s)<br> লিখা আখৰসমূহ: %3 (%4 KiB/s)<br> পঢ়া syscalls: "
+" %5 (%6 s⁻¹)<br> "
+"লিখা syscalls: %7 (%8 s⁻¹)<br> প্ৰকৃততে পঢ়া বাইটসমূহ: %9 (%10 KiB/s)<br> "
+"প্ৰকৃতকে লিখা বাইটসমূহ: %11 "
+"(%12 KiB/s)"
 
 #: ProcessModel.cpp:1810
 msgctxt "process heading"
@@ -839,12 +1012,11 @@ msgid "Name"
 msgstr "নাম"
 
 #: ProcessModel.cpp:1811
-#, fuzzy
 #| msgctxt "process heading"
 #| msgid "User Name"
 msgctxt "process heading"
 msgid "Username"
-msgstr "ব্যৱহাৰকৰোঁতাৰ নাম"
+msgstr "ব্যৱহাৰকাৰীৰ নাম"
 
 #: ProcessModel.cpp:1812
 msgctxt "process heading"
@@ -868,22 +1040,21 @@ msgid "CPU %"
 msgstr "CPU %"
 
 #: ProcessModel.cpp:1817
-#, fuzzy
 #| msgctxt "process heading"
 #| msgid "CPU %"
 msgctxt "process heading"
 msgid "CPU Time"
-msgstr "CPU %"
+msgstr "CPU সময়"
 
 #: ProcessModel.cpp:1818
 msgctxt "process heading"
 msgid "IO Read"
-msgstr ""
+msgstr "IO পঢ়া"
 
 #: ProcessModel.cpp:1819
 msgctxt "process heading"
 msgid "IO Write"
-msgstr ""
+msgstr "IO লিখা"
 
 #: ProcessModel.cpp:1820
 msgctxt "process heading"
@@ -893,35 +1064,34 @@ msgstr "ভাৰ্চুৱেল আকাৰ"
 #: ProcessModel.cpp:1821
 msgctxt "process heading"
 msgid "Memory"
-msgstr "স্মৃতিশক্তি"
+msgstr "মেমৰি"
 
 #: ProcessModel.cpp:1822
 msgctxt "process heading"
 msgid "Shared Mem"
-msgstr "অংশ লোৱা স্মৃতিশক্তি"
+msgstr "অংশীদাৰী মেমৰি"
 
 #: ProcessModel.cpp:1823
 msgctxt "process heading"
 msgid "Command"
-msgstr "আদেশ"
+msgstr "কমান্ড"
 
 #: ProcessModel.cpp:1825
-#, fuzzy
 #| msgctxt "process heading"
 #| msgid "Memory"
 msgctxt "process heading"
 msgid "X11 Memory"
-msgstr "স্মৃতিশক্তি"
+msgstr "X11 মেমৰি"
 
 #: ProcessModel.cpp:1826
 msgctxt "process heading"
 msgid "Window Title"
-msgstr "সংযোগক্ষেত্ৰৰ শিৰোনাম"
+msgstr "উইন্ডোৰ শীৰ্ষক"
 
 #: ProcessModel.cpp:1945
 #, kde-format
 msgid "%1%"
-msgstr ""
+msgstr "%1%"
 
 #. i18n: file: ProcessWidgetUI.ui:39
 #. i18n: ectx: property (whatsThis), widget (QPushButton, btnKillProcess)
@@ -946,15 +1116,34 @@ msgid ""
 "certain (or all) users permission to kill any process, without requiring a "
 "password. </p></body></html>"
 msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">বৰ্তমানে নিৰ্বাচিত "
+"প্ৰক্ৰিয়াক "
+"SIGTERM সংকেত পঠাই kill কৰাৰ চেষ্টা।</p>\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-style:"
+"italic;\">কাৰীকৰি তথ্য: </span><br />SIGTERM সংকেত দিয়া প্ৰক্ৰিয়াক পঠোৱা হয়। "
+"যদি এনে কৰিবলে অপৰ্যাপ্ত সুবিধাসমূহ আছে, এটা পাছৱাৰ্ডৰ অনুৰোধ কৰা হয়।"
+"<br /><span style=\" font-family:'Courier New,courier';\">"
+"polkit-kde-authorization</span> "
+"প্ৰগ্ৰামটো চলাই আপুনি কিছুমান (অথবা সকলো) ব্যৱহাৰকাৰীক এটা প্ৰক্ৰিয়া kill "
+"কৰাৰ অনুমতি দিব পাৰে, "
+"এটা পাছৱাৰ্ডৰ প্ৰয়োজনীয়তা নহোৱাকে। </p></body></html>"
 
 #. i18n: file: ProcessWidgetUI.ui:42
 #. i18n: ectx: property (text), widget (QPushButton, btnKillProcess)
 #: rc.cpp:11
-#, fuzzy
 #| msgid "Kill Process"
 #| msgid_plural "Kill Processes"
 msgid "&End Process..."
-msgstr "প্ৰক্ৰিয়া Kill কৰক"
+msgstr "প্ৰক্ৰিয়া অন্ত কৰক (&E)..."
 
 #. i18n: file: ProcessWidgetUI.ui:60
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, txtFilter)
@@ -975,12 +1164,29 @@ msgid ""
 "<b>1234</b>.</td></th></tr>\n"
 "</table>\n"
 msgstr ""
+"কোনবোৰ প্ৰক্ৰিয়া ইয়াত দিয়া লিখনীৰে দেখুৱা হয় সেয়া পৰিস্ৰাৱন কৰক। লিখনীটো "
+"প্ৰক্ৰিয়াৰ নাম, কমান্ড "
+"অথবা উইন্ডো শীৰ্ষকৰ আংশিক স্ট্ৰিং মিল হব পাৰে। ই এটা ব্যৱহাৰকাৰীনাম অথবা এটা "
+"প্ৰক্ৰিয়া ID নম্বৰ হব পাৰে। "
+"<p>\n"
+"উদাহৰনস্বৰুপে: \n"
+"\n"
+"<table>\n"
+"<tr><th>ksys</th><td> -এ নামত  \"<b>ksys</b>\"  থকা প্ৰক্ৰিয়াসমূহ দেখায় যেনে "
+"\"<i>ksysguard</i>\" "
+"আৰু \"<i>ksysguardd</i>\"। "
+"<td></tr>\n"
+"<tr><th>ৰুট</th><td> <b>ৰুট</b> -ৰ প্ৰক্ৰিয়াসমূহ দেখুৱাওক।  উদাহৰনস্বৰুপে"
+"<i>init</i></td></tr>\n"
+"<tr><th>1234</th><td> <b>1234</b> -ৰ PID অথবা উপধায়ক PID দেখুৱাওক। </td></th>"
+"</tr>\n"
+"</table>\n"
 
 #. i18n: file: ProcessWidgetUI.ui:66
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, txtFilter)
 #: rc.cpp:25
 msgid "Quick search"
-msgstr ""
+msgstr "দ্ৰুত সন্ধান"
 
 #. i18n: file: ProcessWidgetUI.ui:95
 #. i18n: ectx: property (whatsThis), widget (QComboBox, cmbFilter)
@@ -1011,54 +1217,85 @@ msgid ""
 "inside the kernel and are not real processes.  As such, many of the fields "
 "(such as Username) do not apply.\n"
 msgstr ""
+"<qt>যি প্ৰক্ৰিয়াসমূহ দেখুৱা হ'ব, আৰু কেনেধৰণে দেখুৱা হ'ব সলনি কৰক। "
+"প্ৰক্ৰিয়াসমূহক দ্ৰুত সন্ধান লিখনী "
+"পৰিস্ৰাৱক ব্যৱহাৰ কৰি ততোধিক পৰিস্ৰাৱন কৰিব পৰা যাব। <p>\n"
+"<table>\n"
+"<tr><td>সকলো প্ৰক্ৰিয়া</td><td>চিস্টেমত থকা সকলো প্ৰক্ৰিয়া দেখুৱাওক।</td></"
+"tr>\n"
+"<tr><td>সকলো প্ৰক্ৰিয়া, ট্ৰি</td><td>চিস্টেমত থকা সকলো প্ৰক্ৰিয়াক উপধায়ক PID "
+"তথ্য ব্যৱহাৰ কৰি, "
+"এটা অধিক্ৰম পদ্ধতি দেখুৱাওক।</td></tr>\n"
+"<tr><td>চিস্টেম প্ৰক্ৰিয়াসমূহ</td><td> প্ৰক্ৰিয়াসমূহক ৰুট আৰু এজন "
+"ব্যৱহাৰকাৰী যোনে লগিন কৰিব "
+"নোৱাৰে সেই হিচাপে দেখুৱাওক। </td></tr>\n"
+"<tr><td>ব্যৱহাৰকাৰী প্ৰক্ৰিয়াসমূহ</td><td>প্ৰক্ৰিয়াসমূহক নন-ৰুট ব্যৱহাৰকাৰী "
+"হিচাপে দেখুৱাওক যোনে "
+"লগিম কৰিব পাৰে।</td></tr>\n"
+"<tr><td>নিজস্ব প্ৰক্ৰিয়াসমূহ</td><td>এই প্ৰক্ৰিয়া নিজস্ব কৰা একে "
+"ব্যৱহাৰকাৰীজনৰ প্ৰক্ৰিয়াসমূহ দেখুৱাওক। "
+" </td></tr>\n"
+"<tr><td>কেৱল প্ৰগ্ৰামসমূহ</td><td>প্ৰক্ৰিয়াসমূহ যি এজন ব্যৱহাৰকাৰী হিচাপে "
+"চলি আছে যোনে লগিন কৰিব "
+"পাৰে আৰু হয় এটা TTY সংযোগিত অথবা অন্তত এটা X11 উইন্ডো আছে।</"
+"td></tr>\n"
+"</table>\n"
+"<p>\n"
+"<i>কাৰীকৰি তথ্য:</i><br>\n"
+"বহু থ্ৰেড থকা প্ৰক্ৰিয়াসমূহক এটা প্ৰক্ৰিয়া হিচাপে দেখুৱা হয়, আৰু অন্য ধৰণে "
+"ব্যহাৰ কৰা নহয়।<br>\n"
+"কাৰনেল থ্ৰেডসমূহক সাধাৰন প্ৰক্ৰিয়া হিচাপে দেখুৱা হয়, কিন্তু প্ৰকৃততে কাৰনেলৰ "
+"ভিতৰত চলি আছে আৰু "
+"প্ৰকৃত প্ৰক্ৰিয়া নহয়।  সেয়েহে, বহু ক্ষেত্ৰ (যেনে ব্যৱহাৰকাৰী নাম) প্ৰয়োগ "
+"নহয়।\n"
 
 #. i18n: file: ProcessWidgetUI.ui:105
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilter)
 #: rc.cpp:44
 msgid "All Processes"
-msgstr ""
+msgstr "সকলো প্ৰক্ৰিয়া"
 
 #. i18n: file: ProcessWidgetUI.ui:110
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilter)
 #: rc.cpp:47
 msgid "All Processes, Tree"
-msgstr ""
+msgstr "সকলো প্ৰক্ৰিয়া, ট্ৰি"
 
 #. i18n: file: ProcessWidgetUI.ui:115
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilter)
 #: rc.cpp:50
 msgid "System Processes"
-msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰিয়া"
+msgstr "চিস্টেমৰ প্ৰক্ৰিয়া"
 
 #. i18n: file: ProcessWidgetUI.ui:120
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilter)
 #: rc.cpp:53
 msgid "User Processes"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰী প্ৰক্ৰিয়াসমূহ"
 
 #. i18n: file: ProcessWidgetUI.ui:125
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilter)
 #: rc.cpp:56
 msgid "Own Processes"
-msgstr ""
+msgstr "নিজস্ব প্ৰক্ৰিয়াসমূহ"
 
 #. i18n: file: ProcessWidgetUI.ui:130
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFilter)
 #: rc.cpp:59
 msgid "Programs Only"
-msgstr "অকল কাৰ্য্যক্ৰম"
+msgstr "কেৱল প্ৰগ্ৰামসমূহ"
 
 #. i18n: file: ReniceDlgUi.ui:23
 #. i18n: ectx: property (text), widget (QLabel, lblMessage1)
 #: rc.cpp:62
 msgid "Change scheduling priority for:"
-msgstr ""
+msgstr "সূচক প্ৰাথমিকতা সলনি কৰক:"
 
 #. i18n: file: ReniceDlgUi.ui:100
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:65
 msgid "CPU Scheduler"
-msgstr ""
+msgstr "CPU সূচক"
 
 #. i18n: file: ReniceDlgUi.ui:129
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioNormal)
@@ -1073,6 +1310,15 @@ msgid ""
 "right:0px; -qt-block-indent:0; text-indent:0px;\">The standard time-sharing "
 "scheduler for processes without special requirements.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">বিশেষ প্ৰয়োজনীয়তা নথকা "
+"প্ৰক্ৰিয়াসমূহৰ "
+"বাবে প্ৰামাণিক সময়-অংশীদাৰী সূচক।</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:136
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioNormal)
@@ -1099,6 +1345,32 @@ msgid ""
 "process is ready to run, but denied to run by the scheduler. This ensures "
 "fair progress among all Normal processes.</span></p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">সাধাৰন সূচনা: অবিকল্পিত Linux সময়-অংশীদাৰী  (অন্য)</span></"
+"p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600;"
+"\">সাধাৰন<span style=\" font-weight:400;\"> হল প্ৰামাণিক Linux সময়-"
+"অংশীদাৰী সুচক সকলো প্ৰক্ৰিয়াৰ কাৰণে ভৱা হৈছে যি বিশেষ স্থিৰ প্ৰাথমিকতা "
+"প্ৰকৃত-সময় "
+"পদ্ধতিসমূহৰ প্ৰয়োজন নহয়। চলিব লগিয়া প্ৰক্ৰিয়াটো বাছনি কৰা হৈছে </span> "
+"সাধাৰন "
+"<span style=\" font-weight:400;\"> অথবা </span>চাম<span style=\" "
+"font-weight:400;\"> "
+"প্ৰক্ৰিয়াসমূহৰ তালিকাৰ পৰা এটা চলমান প্ৰাথমিকতাৰ উপৰত ভিত্তি কৰি যি কেৱল "
+"তালিকাৰ ভিতৰত "
+"নিৰ্ধাৰন কৰা হৈছে। চলমান প্ৰাথমিকতা প্ৰদান কৰা প্ৰাথমিকতা স্তৰৰ উপৰত ভিত্তিয় "
+"আৰু প্ৰতি সময়-কণিকা "
+"যাৰ কাৰণে প্ৰক্ৰিয়াটো চলিবলে প্ৰস্তুত তাৰ বাবে বৃদ্ধি কৰা হয়, কিন্তু সূচক "
+"দ্বাৰা চলাবলে নাকচ কৰা হয়। ই "
+"সকলো সাধাৰন প্ৰক্ৰিয়াসমূহৰ মাজত ব্যৰ্থ প্ৰগতি সুনিশ্চিত কৰে। </span></p><"
+"/body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:139
 #. i18n: ectx: property (text), widget (QRadioButton, radioNormal)
@@ -1122,6 +1394,16 @@ msgid ""
 "interactive processes.  Process is mildly disfavored in scheduling decisions."
 "</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">CPU-প্ৰখৰ অ-"
+"ভাৱবিনিময়ী প্ৰক্ৰিয়াসমূহ। সিদ্ধান্তসমূহ সূচনা কৰোতে প্ৰক্ৰিয়াটো মৃদুভাৱে "
+"অসন্মত কৰা হৈছে।"
+"</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:156
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioBatch)
@@ -1148,12 +1430,35 @@ msgid ""
 "policy without interactivity causing extra preemptions (between the "
 "workload's tasks).</span></p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">চাম সূচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600;\"><span "
+"style=\" font-weight:400; font-style:italic;\">(Linux 2.6.16. -ৰ পৰা)</"
+"span><span style=\" font-weight:400;\"> এই নীতি </span>Normal<span style "
+"=\" font-weight:400;\"> -ৰ লগত সদৃশ, কেৱলমাত্ৰ এই যে এই নীতিয়ে সূচকক বাধ্য "
+"কৰিব"
+"সদায় ভাৱি লবলে যে প্ৰক্ৰিয়াটো CPU-প্ৰখৰ। এতেকে, সূচকে এটা সৰু সূচনা জৰমনা "
+"প্ৰয়োগ কৰিব"
+"যাতে এই প্ৰক্ৰিয়াক সূচনা সিদ্ধান্তসমূহত মৃদুভাৱে অসন্মত কৰা হয়। এই নীতি "
+"কাৰ্য্যভাৰসমূহ "
+"যি অ-ভাৱবিনিময়ী, কিন্তু  নিজৰ ভাল মান কমাব নিবিচাৰে, আৰু কাৰ্য্যভাৰসমূহ যি "
+"এটা নিৰ্ণায়ক "
+"সূচনা নীতি বিচাৰে অধিক ক্ৰয় কৰা ভাৱবিনিময়ী নথকাকে (কাৰ্য্যভাৰ কাৰ্য্যসমূহৰ "
+"মাজত) সিহতৰ "
+"বাবে লাভদায়ক। </span></p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:159
 #. i18n: ectx: property (text), widget (QRadioButton, radioBatch)
 #: rc.cpp:97
 msgid "Batch"
-msgstr ""
+msgstr "চাম"
 
 #. i18n: file: ReniceDlgUi.ui:169
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioRR)
@@ -1169,6 +1474,16 @@ msgid ""
 "runnable.  Higher priority than Normal or Batch.  Has Timeslicing.</p></"
 "body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">প্ৰক্ৰিয়া যেতিয়া চলাব পাৰি "
+"তেতিয়া চলিব। "
+"সাধাৰন বা চামতকে অধিক প্ৰাথমিকতা।  সময় ত্ৰাস নহয়।</p></"
+"body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:176
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioRR)
@@ -1190,14 +1505,32 @@ msgid ""
 "weight:600;\">Round Robin</span>, except that each process is only allowed "
 "to run for a maximum time quantum.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Round Robin সূচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Round Robin</span>  <span style=\" font-weight:600;\">FIFO<"
+"/span> "
+"-ৰ এটা সাধাৰন সম্প্ৰসাৰন। <span style=\" font-weight:600;\">FIFO</span> -ৰ "
+"বাবে তলত "
+"বিৱৰন দিয়া সকলোৱে <span style=\" font-weight:600;\">Round Robin</span> -ৰ "
+"বাবেও প্ৰয়োগ "
+"হয়, কেৱলমাত্ৰ এই যে প্ৰতিটো প্ৰক্ৰিয়াক এটা সৰ্বাধিক সময় কণিকাৰ বাবে চলিবলে "
+"অনুমতি দিয়া হয়। "
+"</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:179
 #. i18n: ectx: property (text), widget (QRadioButton, radioRR)
 #: rc.cpp:113
-#, fuzzy
 #| msgid "Round Robin"
 msgid "Round robin"
-msgstr "Round Robin"
+msgstr "Round robin"
 
 #. i18n: file: ReniceDlgUi.ui:189
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioFIFO)
@@ -1213,6 +1546,16 @@ msgid ""
 "runnable.  Higher priority than Normal or Batch.  No timeslicing.</p></"
 "body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">প্ৰক্ৰিয়া যেতিয়া চলাব পাৰি "
+"তেতিয়া চলিব। "
+"সাধাৰন বা চামতকে অধিক প্ৰাথমিকতা।  কোনো সময় ত্ৰাস নহয়।</p></"
+"body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:196
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioFIFO)
@@ -1233,6 +1576,21 @@ msgid ""
 "\">Normal</span> or <span style=\" font-weight:600;\">Batch</span> process.</"
 "p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">প্ৰথম সোমোৱা-প্ৰথম উলোৱা সুচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">যেতিয়া এটা  <span style=\" "
+"font-weight:600;\">FIFO</span> প্ৰক্ৰিয়া চলমান বনে,  ই সদায় এটা বৰ্তমানে চলি "
+"থকা "
+"<span style=\" font-weight:600;\">সাধাৰন</span> অথবা <span style=\" "
+"font-weight:600;\"> "
+"চাম</span> প্ৰক্ৰিয়া</p></body></html> তৎক্ষণাত ক্ৰয় কৰিব।"
 
 #. i18n: file: ReniceDlgUi.ui:199
 #. i18n: ectx: property (text), widget (QRadioButton, radioFIFO)
@@ -1244,7 +1602,7 @@ msgstr "FIFO"
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: rc.cpp:132
 msgid "I/O Scheduler"
-msgstr "I/O Scheduler"
+msgstr "I/O সূচক"
 
 #. i18n: file: ReniceDlgUi.ui:293
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioIONormal)
@@ -1259,6 +1617,15 @@ msgid ""
 "right:0px; -qt-block-indent:0; text-indent:0px;\">Process's priority is "
 "based on the CPU priority.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">প্ৰক্ৰিয়াৰ প্ৰাথমিকতা CPU "
+"প্ৰাথমিকতা "
+"ভিত্তিয়।</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:300
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioIONormal)
@@ -1281,6 +1648,26 @@ msgid ""
 "Normal</span> priority are served in a <span style=\" font-weight:600;"
 "\">Round Robin</span> fashion.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">সাধাৰন সুচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">ই <span style=\" "
+"font-weight "
+":600;\">উত্তম চেষ্ঠা</span> সূচনাৰ হৈতে একে, কেৱলমাত্ৰ এই যে প্ৰাথমিকতা "
+"স্বচালিতভাৱে"
+"CPU প্ৰাথমিকতাৰ উপৰত ভিত্তি কৰি গণনা কৰা হয়।  উচ্চ প্ৰাথমিকতা থকা "
+"প্ৰক্ৰিয়াসমূহে হাৰ্ড ডিস্ক "
+"অভিগমৰ বাবে প্ৰাথমিকতা লব। একে <span style=\" font-weight:600;\">উত্তম "
+"চেষ্টা/"
+"সাধাৰন</span> প্ৰাথমিকতাত চলি থকা প্ৰগ্ৰামসমূহক এটা <span style=\" "
+"font-weight:600;"
+"\">Round Robin</span> প্ৰক্ৰিয়াত পৰিৱেশন কৰা হয়। </p></body></html> "
 
 #. i18n: file: ReniceDlgUi.ui:313
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioIdle)
@@ -1295,6 +1682,16 @@ msgid ""
 "right:0px; -qt-block-indent:0; text-indent:0px;\">Process can only use the "
 "hard disk when no other process has used it very recently.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">প্ৰক্ৰিয়ায় হাৰ্ড ডিস্কক "
+"তেতিয়াহে ব্যৱহাৰ কৰিব "
+"পাৰিব যেতিয়া অন্য কোনো প্ৰক্ৰিয়ায় ইয়াক অতি সেহতিয়াভাৱে ব্যৱহাৰ কৰা নাই।</p><"
+"/body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:320
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioIdle)
@@ -1316,12 +1713,30 @@ msgid ""
 "processes on normal system activity should be zero. Priority is not "
 "applicable to this scheduling class.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">অলস সূচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"> <span style=\" "
+"font-weight:600 ;\" "
+">অলস</span> I/O প্ৰাথমিকতাৰ হৈতে চলা প্ৰগ্ৰাম এটায় ডিস্ক সময় পাব যেতিয়া অন্য "
+"কোনো"
+"প্ৰগ্ৰামে এটা বিৱৰিত সমায়কালৰ বাবে ডিস্ক I/O বিচৰা নাই। সাধাৰন চিস্টেম "
+"কাৰ্য্যৰ উপৰত "
+"<span style=\" font-weight:600;\">অলস </span> I/O প্ৰক্ৰিয়াসমূহৰ প্ৰভাৱ "
+"শূন্য হব লাগিব। "
+"প্ৰাথমিকতা এই সূচনা ক্লাছৰ বাবে প্ৰযোজ্য নহয়।</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:323
 #. i18n: ectx: property (text), widget (QRadioButton, radioIdle)
 #: rc.cpp:164
 msgid "Idle"
-msgstr ""
+msgstr "অলস"
 
 #. i18n: file: ReniceDlgUi.ui:333
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioBestEffort)
@@ -1336,6 +1751,15 @@ msgid ""
 "right:0px; -qt-block-indent:0; text-indent:0px;\">Process is given higher "
 "priority to access the hard disk than Normal.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">প্ৰক্ৰিয়াক হাৰ্ড ডিস্ক "
+"অভিগম কৰিবলে "
+"স্বাভাৱিকতকে অধিক প্ৰাথমিকতা দিয়া হৈছে।</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:340
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioBestEffort)
@@ -1356,12 +1780,28 @@ msgid ""
 "priority are served in a <span style=\" font-weight:600;\">Round Robin</"
 "span> fashion.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">উত্তম চেষ্ঠা সূচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">এটা উচ্চ প্ৰথামিকতা থকা "
+"প্ৰক্ৰিয়াসমূহ "
+"হাৰ্ড ডিস্কলে অভিগমৰ কাৰণে প্ৰাথমিকতা লব। একে <span style=\" "
+"font-weight:600;\">উত্তম/সাধাৰন</span> "
+"প্ৰাথমিকতাত চলি থকা প্ৰগ্ৰামসমূহক এটা <span style=\" font-weight:600;\">"
+"Round Robin</"
+"span> প্ৰক্ৰিয়াত</p></body></html> পৰিৱেশন কৰা হয়।"
 
 #. i18n: file: ReniceDlgUi.ui:343
 #. i18n: ectx: property (text), widget (QRadioButton, radioBestEffort)
 #: rc.cpp:180
 msgid "Best effort"
-msgstr ""
+msgstr "উত্তম চেষ্টা"
 
 #. i18n: file: ReniceDlgUi.ui:353
 #. i18n: ectx: property (toolTip), widget (QRadioButton, radioRealTime)
@@ -1377,6 +1817,15 @@ msgid ""
 "access to the hard disk whenever needed, regardless of what else is going on."
 "</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">প্ৰক্ৰিয়াৰ যেতিয়ায় প্ৰয়োজন "
+"তেতিয়ায় হাৰ্ড ডিস্কলে তৎক্ষণাত অভিগম পায়, বেলেগ যিয়ে চলি নাথাকক।"
+"</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:360
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioRealTime)
@@ -1400,14 +1849,34 @@ msgid ""
 "denoting how big a time slice a given process will receive on each "
 "scheduling window.</p></body></html>"
 msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">প্ৰকৃত সময় সূচনা</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"> <span style=\" font-"
+"weight:600;\">প্ৰকৃত সময়</span> সূচনা ক্লাছক ডিস্কলে প্ৰথম অভিগম দিয়া হয়,  "
+"চিস্টেমত কি চলি আছে তাৰ বিষয়ে চিন্তা নকৰি। সেয়েহে <span "
+"style=\" font-weight:600;\">প্ৰকৃত সময়</span> ক্লাছক কিছু সাৱধানেৰে ব্যৱহাৰ "
+"কৰিব "
+"লাগিব, যিহেতু ই অন্য প্ৰক্ৰিয়াসমূহক ক্ষতিগ্ৰস্থ কৰিব পাৰে।  যেনে <span "
+"style=\" font-"
+"weight:600;\">উত্তম চেষ্ঠা</span> ক্লাছৰ লগত, ৮ টা প্ৰাথমিকতা স্তৰৰ বিৱৰণ "
+"দিয়া হয় "
+"এয়া নিৰ্ণয় কৰি যে প্ৰতিটো সূচক উইন্ডোত এটা প্ৰদান কৰা প্ৰক্ৰিয়ায় কিমান ডাঙৰ "
+"সময় ছোৱা "
+"গ্ৰহন কৰিব।</p></body></html>"
 
 #. i18n: file: ReniceDlgUi.ui:363
 #. i18n: ectx: property (text), widget (QRadioButton, radioRealTime)
 #: rc.cpp:196
-#, fuzzy
 #| msgid "Real Time"
 msgid "Real time"
-msgstr "Real Time"
+msgstr "প্ৰকৃত সময়"
 
 #. i18n: file: ReniceDlgUi.ui:399
 #. i18n: ectx: property (text), widget (QLabel, lblCpuLow)
@@ -1415,7 +1884,7 @@ msgstr "Real Time"
 #. i18n: ectx: property (text), widget (QLabel, lblIOLow)
 #: rc.cpp:199 rc.cpp:205
 msgid "Low Priority"
-msgstr ""
+msgstr "নিম্ন প্ৰাথমিকতা"
 
 #. i18n: file: ReniceDlgUi.ui:406
 #. i18n: ectx: property (text), widget (QLabel, lblCpuHigh)
@@ -1423,16 +1892,16 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lblIOHigh)
 #: rc.cpp:202 rc.cpp:208
 msgid "High Priority"
-msgstr ""
+msgstr "উচ্চ প্ৰাথমিকতা"
 
 #: ReniceDlg.cpp:39
 msgid "Set Priority"
-msgstr ""
+msgstr "প্ৰাথমিকতা সংহতি কৰক"
 
 #: ReniceDlg.cpp:69
 msgctxt "Scheduler"
 msgid "Interactive"
-msgstr ""
+msgstr "ভাৱ-বিনিময়ী"
 
 #, fuzzy
 #~| msgid "Renice Process..."
