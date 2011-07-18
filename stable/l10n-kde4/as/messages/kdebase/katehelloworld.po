@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-13 03:55+0200\n"
-"PO-Revision-Date: 2011-07-18 21:33+0530\n"
+"PO-Revision-Date: 2011-07-18 21:54+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,25 +18,25 @@ msgstr ""
 
 #: plugin_katehelloworld.cpp:16
 msgid "Hello World"
-msgstr ""
+msgstr "হেল্লো ৱাৰ্ল্ড"
 
 #: plugin_katehelloworld.cpp:16
 msgid "Example kate plugin"
-msgstr ""
+msgstr "উদাহৰন kate প্লাগিন"
 
 #: plugin_katehelloworld.cpp:38
 msgid "Insert Hello World"
-msgstr ""
+msgstr "সোমাওক হেল্লো ৱাৰ্ল্ড"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: ui.rc:4
 #. i18n: ectx: Menu (tools)
