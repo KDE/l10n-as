@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-11-14 06:29+0100\n"
-"PO-Revision-Date: 2011-07-18 21:09+0530\n"
+"PO-Revision-Date: 2011-07-18 22:31+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,32 +18,32 @@ msgstr ""
 
 #: kdesud.cpp:260
 msgid "KDE su daemon"
-msgstr ""
+msgstr "KDE su ডিমন"
 
 #: kdesud.cpp:261
 msgid "Daemon used by kdesu"
-msgstr ""
+msgstr "kdesu দ্বাৰা ব্যৱহাৰ কৰা ডিমন"
 
 #: kdesud.cpp:263
 msgid "Copyright (c) 1999,2000 Geert Jansen"
-msgstr ""
+msgstr "স্বত্বাধিকাৰ (c) ১৯৯৯,২০০০ গিয়াৰ্ট জেনছেন"
 
 #: kdesud.cpp:264
 msgid "Geert Jansen"
-msgstr ""
+msgstr "গিয়াৰ্ট জেনছেন"
 
 #: kdesud.cpp:264
 msgid "Author"
-msgstr ""
+msgstr "লেখক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
