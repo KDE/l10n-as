@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-09 04:01+0200\n"
-"PO-Revision-Date: 2011-07-18 18:49+0530\n"
+"PO-Revision-Date: 2011-07-18 21:41+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: kdeplatformdependent.cpp:110
 msgid ""
 "Should the password be stored in the configuration file? This is unsafe."
-msgstr ""
+msgstr "পাছওৱাৰ্ডটোক সংৰূপ নথিপত্ৰত সঞ্চয় কৰা হব নেকি? এইটো সুৰক্ষিত নহয়।"
 
 #: kdeplatformdependent.cpp:111
 msgid "Social Desktop Configuration"
@@ -27,5 +27,6 @@ msgstr "সামাজিক ডেস্কটপ সংৰূপ"
 
 #: kdeplatformdependent.cpp:207
 msgid "Open Collaboration Providers"
-msgstr ""
+msgstr "সহযোগ প্ৰদানকাৰীসমূহক খোলক"
+
 
