@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-02 03:04+0100\n"
-"PO-Revision-Date: 2011-07-18 21:32+0530\n"
+"PO-Revision-Date: 2011-07-18 22:00+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,33 +18,33 @@ msgstr ""
 
 #: plugin_katequickdocumentswitcher.cpp:49
 msgid "Quick Document Switcher"
-msgstr ""
+msgstr "দ্ৰুত দস্তাবেজ পৰিৱৰ্তক"
 
 #: plugin_katequickdocumentswitcher.cpp:49
 msgid "Quickly switch between documents"
-msgstr ""
+msgstr "দস্তাবেজসমূহ দ্ৰুত অদল বদল কৰক"
 
 #: plugin_katequickdocumentswitcher.cpp:73
 msgid "Quickswitch"
-msgstr ""
+msgstr "দ্ৰুতপৰিৱৰ্তন"
 
 #: plugin_katequickdocumentswitcher.cpp:123
 msgid "Document Quick Switch"
-msgstr ""
+msgstr "দস্তাবেজ দ্ৰুত পৰিৱৰ্তন"
 
 #: plugin_katequickdocumentswitcher.cpp:134
 msgid "&Filter:"
-msgstr ""
+msgstr "পৰিস্ৰাৱক (&F):"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: ui.rc:4
 #. i18n: ectx: Menu (go)

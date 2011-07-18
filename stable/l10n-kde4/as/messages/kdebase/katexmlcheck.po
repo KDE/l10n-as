@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-07-10 14:06+0200\n"
-"PO-Revision-Date: 2011-07-18 21:32+0530\n"
+"PO-Revision-Date: 2011-07-18 22:15+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,15 +18,15 @@ msgstr ""
 
 #: plugin_katexmlcheck.cpp:84
 msgid "XML Checker Output"
-msgstr ""
+msgstr "XML নীৰিক্ষক আউটপুট"
 
 #: plugin_katexmlcheck.cpp:89
 msgid "Validate XML"
-msgstr ""
+msgstr "XML বৈধ কৰক"
 
 #: plugin_katexmlcheck.cpp:96
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: plugin_katexmlcheck.cpp:97
 msgid "Line"
@@ -34,27 +34,30 @@ msgstr "শাৰী"
 
 #: plugin_katexmlcheck.cpp:99
 msgid "Column"
-msgstr ""
+msgstr "স্তম্ভ"
 
 #: plugin_katexmlcheck.cpp:101
 msgid "Message"
-msgstr ""
+msgstr "বাৰ্তা"
 
 #: plugin_katexmlcheck.cpp:253
 #, kde-format
 msgid "<b>Error:</b> Could not create temporary file '%1'."
-msgstr ""
+msgstr "<b>ত্ৰুটি:</b> অস্থায়ী নথিপত্ৰ '%1' সৃষ্টি কৰিব নোৱাৰি।"
 
 #: plugin_katexmlcheck.cpp:322
 msgid ""
 "<b>Error:</b> Failed to execute xmllint. Please make sure that xmllint is "
 "installed. It is part of libxml2."
 msgstr ""
+"<b>ত্ৰুটি:</b> xmllint প্ৰেৰণ কৰোতে ব্যৰ্থ। অনুগ্ৰহ কৰি সুনিশ্চিত কৰক যে "
+"xmllint ইনস্টল "
+"হৈছে। ই libxml2 -ৰ এটা অংশ।"
 
 #. i18n: file: ui.rc:4
 #. i18n: ectx: Menu (xml)
 #: rc.cpp:3
 msgid "&XML"
-msgstr ""
+msgstr "XML (&X)"
 
 
