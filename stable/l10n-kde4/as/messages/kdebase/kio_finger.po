@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:06+0530\n"
+"PO-Revision-Date: 2011-07-19 13:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,17 +19,19 @@ msgstr ""
 #: kio_finger.cpp:153
 msgid "Could not find the Perl program on your system, please install."
 msgstr ""
+"Perl প্ৰগ্ৰাম আপোনাৰ চিস্টেমত বিচাৰি পোৱা নগল, অণুগ্ৰহ কৰি ইনস্টল কৰক।"
 
 #: kio_finger.cpp:166
 msgid "Could not find the Finger program on your system, please install."
 msgstr ""
+"Finger প্ৰগ্ৰাম আপোনাৰ চিস্টেমত পোৱা নগল, অনুগ্ৰহ কৰি ইনস্টল কৰক।"
 
 #: kio_finger.cpp:179
 msgid "kio_finger Perl script not found."
-msgstr ""
+msgstr "kio_finger Perl স্ক্ৰিপ্ট পোৱা নগল।"
 
 #: kio_finger.cpp:191
 msgid "kio_finger CSS script not found. Output will look ugly."
-msgstr ""
+msgstr "kio_finger CSS স্ক্ৰিপ্ট পোৱা নগল। আউটপুট বেয়া দেখিব।"
 
 
