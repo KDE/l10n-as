@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-11 02:36+0100\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:27+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,12 +21,15 @@ msgid ""
 "Calculates the value of :q: when :q: is made up of numbers and mathematical "
 "symbols such as +, -, /, * and ^."
 msgstr ""
+":q: -ৰ মান গণনা কৰে যেতিয়া :q: নম্বৰসমূহ আৰু অঙ্কীয় চিহ্নসমূহ যেনে +, -, /, "
+"* আৰু ^ -ৰে "
+"গঠিত।"
 
 #: qalculate_engine.cpp:71
 #, kde-format
 msgid ""
 "The exchange rates could not be updated. The following error has been "
 "reported: %1"
-msgstr ""
+msgstr "বিনিময় হাৰসমূহ আপডেইট কৰিব পৰা নগল। নিম্নলিখিত ত্ৰুটি দেখা দিছে: %1"
 
 
