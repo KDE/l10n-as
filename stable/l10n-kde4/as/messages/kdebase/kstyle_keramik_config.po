@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:01+0530\n"
+"PO-Revision-Date: 2011-07-19 16:15+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,10 +18,10 @@ msgstr ""
 
 #: keramikconf.cpp:50
 msgid "Highlight scroll bar handles"
-msgstr ""
+msgstr "স্ক্ৰল বাৰ হাতলসমূহ উজ্জ্বল কৰক"
 
 #: keramikconf.cpp:51
 msgid "Animate progress bars"
-msgstr ""
+msgstr "প্ৰগতি বাৰসমূহ জীৱন্ত কৰক"
 
 
