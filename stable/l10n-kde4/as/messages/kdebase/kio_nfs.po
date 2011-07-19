@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-13 02:10+0100\n"
-"PO-Revision-Date: 2011-07-18 21:03+0530\n"
+"PO-Revision-Date: 2011-07-19 15:26+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,22 +18,22 @@ msgstr ""
 
 #: kio_nfs.cpp:949
 msgid "An RPC error occurred."
-msgstr ""
+msgstr "এটা RPC ত্ৰুটি দেখা দিছে।"
 
 #: kio_nfs.cpp:993
 msgid "No space left on device"
-msgstr ""
+msgstr "ডিভাইচত অৱশিষ্ট স্থান নাই"
 
 #: kio_nfs.cpp:996
 msgid "Read only file system"
-msgstr ""
+msgstr "কেৱল পঢ়িব পঢ়া নথিপত্ৰপ্ৰণালী"
 
 #: kio_nfs.cpp:999
 msgid "Filename too long"
-msgstr ""
+msgstr "নথিপত্ৰনাম অতি দীঘল"
 
 #: kio_nfs.cpp:1006
 msgid "Disk quota exceeded"
-msgstr ""
+msgstr "ডিস্ক কুটাৰ সীমা পাৰ হৈ গল"
 
 
