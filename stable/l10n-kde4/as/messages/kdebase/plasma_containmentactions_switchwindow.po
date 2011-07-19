@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-04 02:12+0100\n"
-"PO-Revision-Date: 2011-07-18 20:54+0530\n"
+"PO-Revision-Date: 2011-07-19 18:19+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,30 +20,30 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, flatButton)
 #: rc.cpp:3
 msgid "Display all windows in one list"
-msgstr ""
+msgstr "সকলো উইন্ডোক এটা তালিকাত প্ৰদৰ্শন কৰক"
 
 #. i18n: file: config.ui:23
 #. i18n: ectx: property (text), widget (QRadioButton, subButton)
 #: rc.cpp:6
 msgid "Display a submenu for each desktop"
-msgstr ""
+msgstr "প্ৰতিটো ডেস্কটপৰ কাৰণে এটা উপমেনু প্ৰদৰ্শন কৰক"
 
 #. i18n: file: config.ui:30
 #. i18n: ectx: property (text), widget (QRadioButton, curButton)
 #: rc.cpp:9
 msgid "Display only the current desktop's windows"
-msgstr ""
+msgstr "কেৱল বৰ্তমান ডেস্কটপৰ উইন্ডোসমূহ প্ৰদৰ্শন কৰক"
 
 #: switch.cpp:38 switch.cpp:139
 msgid "Windows"
-msgstr ""
+msgstr "উইন্ডোসমূহ"
 
 #: switch.cpp:58
 msgid "Configure Switch Window Plugin"
-msgstr ""
+msgstr "চুইচ উইন্ডো প্লাগিন সংৰূপণ কৰক"
 
 #: switch.cpp:154 switch.cpp:168
 msgid "All Desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপ"
 
 
