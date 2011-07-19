@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:01+0530\n"
+"PO-Revision-Date: 2011-07-19 15:52+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,38 +18,38 @@ msgstr ""
 
 #: kreadconfig.cpp:54
 msgid "KReadConfig"
-msgstr ""
+msgstr "KReadConfig"
 
 #: kreadconfig.cpp:56
 msgid "Read KConfig entries - for use in shell scripts"
-msgstr ""
+msgstr "KConfig প্ৰবিষ্টিসমূহ পঢ়ক - শ্বেল স্ক্ৰিপ্টসমূহত ব্যৱহাৰৰ বাবে"
 
 #: kreadconfig.cpp:58
 msgid "(c) 2001 Red Hat, Inc."
-msgstr ""
+msgstr "(c) ২০০১ Red Hat, Inc."
 
 #: kreadconfig.cpp:59
 msgid "Bernhard Rosenkraenzer"
-msgstr ""
+msgstr "বাৰ্নহাৰ্ড ৰচেনক্ৰিন্জাৰ"
 
 #: kreadconfig.cpp:65
 msgid "Use <file> instead of global config"
-msgstr ""
+msgstr "বিশ্বব্যাপী config -ৰ পৰিৱৰ্তে <file> ব্যৱহাৰ কৰক "
 
 #: kreadconfig.cpp:66
 msgid "Group to look in. Use repeatedly for nested groups."
-msgstr ""
+msgstr "চাব লগিয়া দলটো। নেস্টেড দলসমূহৰ বাবে বাৰে বাৰে ব্যৱহাৰ কৰক।"
 
 #: kreadconfig.cpp:67
 msgid "Key to look for"
-msgstr ""
+msgstr "চাব লগিয়া চাবি"
 
 #: kreadconfig.cpp:68
 msgid "Default value"
-msgstr ""
+msgstr "অবিকল্পিত মান"
 
 #: kreadconfig.cpp:69
 msgid "Type of variable"
-msgstr ""
+msgstr "চলকৰ ধৰণ"
 
 
