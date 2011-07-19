@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:00+0530\n"
+"PO-Revision-Date: 2011-07-19 16:21+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,22 +18,22 @@ msgstr ""
 
 #: ktraderclient.cpp:30
 msgid "KTraderClient"
-msgstr ""
+msgstr "KTraderClient"
 
 #: ktraderclient.cpp:30
 msgid "A command-line tool for querying the KDE trader system"
-msgstr ""
+msgstr "KDE ব্যৱসায় প্ৰণালী প্ৰশ্ন কৰিবলে এটা কমান্ড-শাৰী সঁজুলি"
 
 #: ktraderclient.cpp:35
 msgid "A mimetype"
-msgstr ""
+msgstr "এটা mimetype"
 
 #: ktraderclient.cpp:37
 msgid "A servicetype, like KParts/ReadOnlyPart or KMyApp/Plugin"
-msgstr ""
+msgstr "এটা সেৱাধৰণ, যেনে KParts/কেৱলপঢ়াঅংশ অথবা KMyApp/প্লাগিন"
 
 #: ktraderclient.cpp:39
 msgid "A constraint expressed in the trader query language"
-msgstr ""
+msgstr "এটা বাধা ব্যৱসায়ী প্ৰশ্ন ভাষাত প্ৰকাশ কৰা হৈছে"
 
 
