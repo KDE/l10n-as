@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:51+0530\n"
+"PO-Revision-Date: 2011-07-19 20:00+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +19,10 @@ msgstr ""
 #: recentdocuments.cpp:46
 msgid "Looks for documents recently used with names matching :q:."
 msgstr ""
+":q: -ৰ হৈতে মিল খোৱা নামসমূহৰ হৈতে সেহতীয়াভাৱে ব্যৱহৃত দস্তাবেজসমূহ বিচাৰে।"
 
 #: recentdocuments.cpp:86
 msgid "Recent Document"
-msgstr ""
+msgstr "সেহতীয়া দস্তাবেজ"
 
 
