@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-16 03:19+0100\n"
-"PO-Revision-Date: 2011-07-18 20:56+0530\n"
+"PO-Revision-Date: 2011-07-19 17:39+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,29 +19,29 @@ msgstr ""
 #: icon.cpp:282
 #, kde-format
 msgid "%1 Icon Settings"
-msgstr ""
+msgstr "%1 আইকন সংহতিসমূহ"
 
 #: icon.cpp:444
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Move Here\t<shortcut>%1</shortcut>"
-msgstr ""
+msgstr "ইয়াত স্থানান্তৰ কৰক\t<shortcut>%1</shortcut> (&M)"
 
 #: icon.cpp:450
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Copy Here\t<shortcut>%1</shortcut>"
-msgstr ""
+msgstr "ইয়াত কপি কৰক\t<shortcut>%1</shortcut> (&C)"
 
 #: icon.cpp:456
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Link Here\t<shortcut>%1</shortcut>"
-msgstr ""
+msgstr "ইয়াত লিঙ্ক কৰক\t<shortcut>%1</shortcut> (&L)"
 
 #: icon.cpp:459
 msgctxt "@action:inmenu"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল কৰক"
 
 
