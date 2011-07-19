@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:54+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: placesrunner.cpp:38
 msgid "Finds file manager locations that match :q:"
-msgstr ""
+msgstr ":q: -ৰ লগত মিল খোৱা নথিপত্ৰ অৱস্থানসমূহ বিচাৰক"
 
 #: placesrunner.cpp:39 placesrunner.cpp:87
 msgid "places"
-msgstr ""
+msgstr "স্থানসমূহ"
 
 #: placesrunner.cpp:39
 msgid "Lists all file manager locations"
-msgstr ""
+msgstr "সকলো নথিপত্ৰ ব্যৱস্থাপক অৱস্থান তালিকাভুক্ত কৰক"
 
 
