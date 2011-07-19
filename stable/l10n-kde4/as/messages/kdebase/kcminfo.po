@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-13 15:26+0100\n"
-"PO-Revision-Date: 2011-07-18 21:16+0530\n"
+"PO-Revision-Date: 2011-07-19 11:50+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,45 +18,49 @@ msgstr ""
 
 #: info.cpp:40
 msgid "System Information Control Module"
-msgstr ""
+msgstr "চিস্টেম তথ্য নিয়ন্ত্ৰণ মডিউল"
 
 #: info.cpp:42
 msgid ""
 "(c) 2008 Nicolas Ternisien\n"
 "(c) 1998 - 2002 Helge Deller"
 msgstr ""
+"(c) ২০০৮ নিকোলাচ টাৰ্নিচিয়েন\n"
+"(c) ১৯৯৮ - ২০০২ হেল্গি ডেলাৰ"
 
 #: info.cpp:45
 msgid "Nicolas Ternisien"
-msgstr ""
+msgstr "নিকোলাচ টাৰ্নিচিয়েন"
 
 #: info.cpp:46
 msgid "Helge Deller"
-msgstr ""
+msgstr "হেল্গি ডেলাৰ"
 
 #: info.cpp:68
 msgid "This list displays system information on the selected category."
-msgstr ""
+msgstr "এই তালিকায় নিৰ্বাচিত বিভাগত চিস্টেম তথ্য প্ৰদৰ্শন কৰে।"
 
 #: info.cpp:84
 #, kde-format
 msgctxt "%1 is one of the modules of the kinfocenter, cpu info, os info, etc"
 msgid "No information available about %1."
-msgstr ""
+msgstr "%1 -ৰ বিষয়ে কোনো তথ্য উপলব্ধ নহয়।"
 
 #: info.cpp:115
 msgid ""
 "All the information modules return information about a certain aspect of "
 "your computer hardware or your operating system."
 msgstr ""
+"সকলো তথ্য মডিউলে আপোনাৰ কমপিউটাৰ হাৰ্ডৱেৰ অথবা আপোনাৰ অপাৰেটিং চিস্টেমৰ "
+"এটা বিশেষ পৰ্যায়ৰ বিষয়ে তথ্য ঘুৰাই দিয়ে।"
 
 #: main.cpp:57
 msgid "Interrupt"
-msgstr ""
+msgstr "বাধা"
 
 #: main.cpp:60
 msgid "I/O-Port"
-msgstr ""
+msgstr "I/O-পোৰ্ট"
 
 #: main.cpp:63
 msgid "SCSI"
@@ -64,20 +68,20 @@ msgstr "SCSI"
 
 #: main.cpp:66
 msgid "DMA-Channel"
-msgstr ""
+msgstr "DMA-চেনেল"
 
 #: main.cpp:69
 msgid "X-Server"
-msgstr ""
+msgstr "X-চাৰ্ভাৰ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
