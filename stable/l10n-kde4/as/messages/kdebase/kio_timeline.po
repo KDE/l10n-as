@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-10 02:17+0100\n"
-"PO-Revision-Date: 2011-07-18 21:03+0530\n"
+"PO-Revision-Date: 2011-07-19 15:28+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,20 +24,22 @@ msgctxt ""
 "and ask kde-i18n-doc@kde.org if you have problems understanding how to "
 "translate this"
 msgid "%B %Y"
-msgstr ""
+msgstr "%B %Y"
 
 #: kio_timeline.cpp:129
 msgid ""
 "The Nepomuk Strigi file indexing service is not running. Without it timeline "
 "results are not available."
 msgstr ""
+"Nepomuk Strigi নথিপত্ৰ সূচক সেৱা চলি থকা নাই। ইয়াৰ বাহিৰে ফলাফলসমূহ উপলব্ধ "
+"নহয়।"
 
 #: kio_timeline.cpp:135
 msgid "Today"
-msgstr ""
+msgstr "আজি"
 
 #: kio_timeline.cpp:136 kio_timeline.cpp:248
 msgid "Calendar"
-msgstr ""
+msgstr "কেলেন্ডাৰ"
 
 
