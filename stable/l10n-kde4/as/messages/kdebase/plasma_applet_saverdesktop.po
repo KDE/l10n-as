@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-09-07 02:28+0200\n"
-"PO-Revision-Date: 2011-07-18 20:55+0530\n"
+"PO-Revision-Date: 2011-07-19 17:57+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,6 @@ msgstr ""
 
 #: desktop.cpp:69
 msgid "Settings"
-msgstr ""
+msgstr "সংহতিসমূহ"
 
 
