@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-10 05:56+0200\n"
-"PO-Revision-Date: 2011-07-18 21:08+0530\n"
+"PO-Revision-Date: 2011-07-19 13:24+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,36 +18,36 @@ msgstr ""
 
 #: kgreet_classic.cpp:93
 msgid "&Username:"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰীৰ নাম (&U):"
 
 #: kgreet_classic.cpp:99
 msgid "Username:"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰীৰ নাম:"
 
 #: kgreet_classic.cpp:112
 msgid "&Password:"
-msgstr ""
+msgstr "পাছৱাৰ্ড (&P):"
 
 #: kgreet_classic.cpp:113
 msgid "Current &password:"
-msgstr ""
+msgstr "বৰ্তমান আৰু পাছৱাৰ্ড (&p):"
 
 #: kgreet_classic.cpp:126
 msgid "&New password:"
-msgstr ""
+msgstr "নতুন পাছৱাৰ্ড (&N):"
 
 #: kgreet_classic.cpp:129
 msgid "Con&firm password:"
-msgstr ""
+msgstr "পাছৱাৰ্ড সুনিশ্চিত কৰক (&f):"
 
 #: kgreet_classic.cpp:267
 #, kde-format
 msgid "Unrecognized prompt \"%1\""
-msgstr ""
+msgstr "অপৰিচিত প্ৰমপ্ট  \"%1\""
 
 #: kgreet_classic.cpp:481
 msgctxt "@item:inmenu authentication method"
 msgid "Username + password (classic)"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰী নাম + পাছৱাৰ্ড (কালজয়ী)"
 
 
