@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-04-18 03:49+0200\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:11+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,24 +19,24 @@ msgstr ""
 #: activityrunner.cpp:28
 msgctxt "KRunner keyword"
 msgid "activity"
-msgstr ""
+msgstr "কাৰ্য্য"
 
 #: activityrunner.cpp:68
 msgctxt "KRunner keyword"
 msgid "activity :q:"
-msgstr ""
+msgstr "কাৰ্য্য :q:"
 
 #: activityrunner.cpp:68
 msgid "Switches to activity :q:."
-msgstr ""
+msgstr "কাৰ্য্য :q: লে যায়।"
 
 #: activityrunner.cpp:69
 msgid "Lists all activities currently available to be run."
-msgstr ""
+msgstr "বৰ্তমানে উপলব্ধ চলিব পৰা কাৰ্য্যসমূহ তালিকাভুক্ত কৰক।"
 
 #: activityrunner.cpp:156
 #, kde-format
 msgid "Switch to \"%1\""
-msgstr ""
+msgstr "\"%1\" লে যাওক"
 
 
