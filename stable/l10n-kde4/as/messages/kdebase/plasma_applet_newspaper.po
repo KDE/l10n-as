@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-09-13 05:49+0200\n"
-"PO-Revision-Date: 2011-07-18 20:56+0530\n"
+"PO-Revision-Date: 2011-07-19 17:48+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,38 +18,38 @@ msgstr ""
 
 #: newspaper.cpp:120 newspaper.cpp:215
 msgid "Expand widgets"
-msgstr ""
+msgstr "উইগেটসমূহ প্ৰসাৰিত কৰক"
 
 #: newspaper.cpp:126 newspaper.cpp:212
 msgid "Collapse widgets"
-msgstr ""
+msgstr "উইজেটসমূহ স্খলন কৰক"
 
 #: newspaper.cpp:134
 msgid "Configure page"
-msgstr ""
+msgstr "পৃষ্ঠা সংৰূপণ কৰক"
 
 #: newspaper.cpp:147
 msgid "Lock page"
-msgstr ""
+msgstr "পৃষ্ঠা লক কৰক"
 
 #: newspaper.cpp:164
 msgid "Remove page"
-msgstr ""
+msgstr "পৃষ্ঠা আতৰাওক"
 
 #: newspaper.cpp:169
 msgid "Next activity"
-msgstr ""
+msgstr "পৰৱৰ্তী কাৰ্য্য"
 
 #: newspaper.cpp:171
 msgid "Previous activity"
-msgstr ""
+msgstr "পূৰ্বৱৰ্তী কাৰ্য্য"
 
 #: newspaper.cpp:330
 msgid "Unlock Page"
-msgstr ""
+msgstr "পৃষ্ঠা আনলক কৰক"
 
 #: newspaper.cpp:337
 msgid "Lock Page"
-msgstr ""
+msgstr "পৃষ্ঠা লক কৰক"
 
 
