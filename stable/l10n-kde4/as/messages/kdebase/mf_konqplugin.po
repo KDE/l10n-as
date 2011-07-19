@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 05:01+0200\n"
-"PO-Revision-Date: 2011-07-18 20:58+0530\n"
+"PO-Revision-Date: 2011-07-19 16:42+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,17 +18,17 @@ msgstr ""
 
 #: konqmficon.cpp:267
 msgid "Microformats"
-msgstr ""
+msgstr "সুক্ষ্মবিন্যাসসমূহ"
 
 #: konqmficon.cpp:281
 msgid "Import All Microformats"
-msgstr ""
+msgstr "সকলো সুক্ষ্মবিন্যাস ইমপোৰ্ট কৰক"
 
 #: konqmficon.cpp:303
 #, kde-format
 msgid "This site has a microformat entry"
 msgid_plural "This site has %1 microformat entries"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "এই ছাইটৰ এটা সুক্ষ্মবিন্যাস প্ৰবিষ্টি আছে"
+msgstr[1] "এই ছাইটৰ %1 সুক্ষ্মবিন্যাস প্ৰবিষ্টিসমূহ আছে"
 
 
