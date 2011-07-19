@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 21:01+0530\n"
+"PO-Revision-Date: 2011-07-19 16:10+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,39 +18,41 @@ msgstr ""
 
 #: kshellcmdexecutor.cpp:124
 msgid "Input Required:"
-msgstr ""
+msgstr "ইনপুটৰ প্ৰয়োজন:"
 
 #: kshellcmdplugin.cpp:41
 msgid "&Execute Shell Command..."
-msgstr ""
+msgstr "শ্বেল কমান্ড প্ৰেৰণ কৰক (&E)..."
 
 #: kshellcmdplugin.cpp:51
 msgid ""
 "KShellCmdPlugin::slotExecuteShellCommand: Program error, please report a bug."
 msgstr ""
+"KShellCmdPlugin::slotExecuteShellCommand: প্ৰগ্ৰাম ত্ৰুটি, অনুগ্ৰহ কৰি এটা "
+"বাগ সংবাদন কৰক।"
 
 #: kshellcmdplugin.cpp:57
 msgid "Executing shell commands works only on local directories."
-msgstr ""
+msgstr "শ্বেল কমান্ডসমূহ প্ৰেৰণ কৰা কেৱল স্থানীয় ডাইৰেকটৰিসমূহতে কাম কৰে।"
 
 #: kshellcmdplugin.cpp:76
 msgctxt "@title:window"
 msgid "Execute Shell Command"
-msgstr ""
+msgstr "শ্বেল কমান্ড প্ৰেৰণ কৰক"
 
 #: kshellcmdplugin.cpp:77
 msgid "Execute shell command in current directory:"
-msgstr ""
+msgstr "বৰ্তমান ডাইৰেকটৰিত শ্বেল কমান্ড প্ৰেৰণ কৰক:"
 
 #: kshellcmdplugin.cpp:87
 #, kde-format
 msgid "Output from command: \"%1\""
-msgstr ""
+msgstr "কমান্ডৰ পৰা আউটপুট: \"%1\""
 
 #. i18n: file: kshellcmdplugin.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:3
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 
