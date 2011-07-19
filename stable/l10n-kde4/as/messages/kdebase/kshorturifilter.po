@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-16 03:59+0200\n"
-"PO-Revision-Date: 2011-07-18 21:01+0530\n"
+"PO-Revision-Date: 2011-07-19 16:12+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,16 +19,16 @@ msgstr ""
 #: kshorturifilter.cpp:266
 #, kde-format
 msgid "<qt><b>%1</b> does not have a home folder.</qt>"
-msgstr ""
+msgstr "<qt><b>%1</b> এটা ঘৰ ফোল্ডাৰ নাই।</qt>"
 
 #: kshorturifilter.cpp:268
 #, kde-format
 msgid "<qt>There is no user called <b>%1</b>.</qt>"
-msgstr ""
+msgstr "<qt><b>%1</b> নামৰ কোনো ব্যৱহাৰকাৰী নাই।</qt>"
 
 #: kshorturifilter.cpp:520
 #, kde-format
 msgid "<qt>The file or folder <b>%1</b> does not exist.</qt>"
-msgstr ""
+msgstr "<qt> নথিপত্ৰ অথবা ফোল্ডাৰ <b>%1</b> অস্তিত্ববান নহয়। </qt>"
 
 
