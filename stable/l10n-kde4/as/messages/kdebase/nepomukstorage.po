@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-07-16 14:14+0200\n"
-"PO-Revision-Date: 2011-07-18 20:57+0530\n"
+"PO-Revision-Date: 2011-07-19 17:08+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,30 +19,30 @@ msgstr ""
 #: modelcopyjob.cpp:127
 msgctxt "@title job"
 msgid "Converting Nepomuk database"
-msgstr ""
+msgstr "Nepomuk ডাটাবেইচ পৰিৱৰ্তন কৰা"
 
 #: modelcopyjob.cpp:128
 msgid "Old backend"
-msgstr ""
+msgstr "পুৰনি পিছপ্ৰান্ত"
 
 #: modelcopyjob.cpp:129
 msgid "New backend"
-msgstr ""
+msgstr "নতুন পিছপ্ৰান্ত"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #: ontologyloader.cpp:134
 #, kde-format
 msgid "Parsing of file %1 failed (%2)"
-msgstr ""
+msgstr "নথিপত্ৰ %1 -ৰ বিশ্লেষন ব্যৰ্থ হল (%2)"
 
 #: repository.cpp:110
 msgctxt "@info - notification message"
@@ -50,6 +50,9 @@ msgid ""
 "Nepomuk Semantic Desktop needs the Virtuoso RDF server to store its data. "
 "Installing the Virtuoso Soprano plugin is mandatory for using Nepomuk."
 msgstr ""
+"Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ "
+"প্ৰয়োজন। "
+"Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso Soprano প্লাগিন ইনস্টল কৰা বাধ্যতামূলক।"
 
 #: repository.cpp:122
 msgctxt "@info - notification message"
@@ -58,6 +61,10 @@ msgid ""
 "Installing the Virtuoso server and ODBC driver is mandatory for using "
 "Nepomuk."
 msgstr ""
+"Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ "
+"প্ৰয়োজন। "
+"Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso চাৰ্ভাৰ আৰু ODBC ড্ৰাইভাৰ ইনস্টল কৰা "
+"বাধ্যতামূলক।"
 
 #: repository.cpp:257
 #, kde-format
@@ -67,11 +74,17 @@ msgid ""
 "data can thus not be accessed. For data security reasons Nepomuk will be "
 "disabled until the situation has been resolved manually."
 msgstr ""
+"Nepomuk -এ সংৰূপীত ডাটাবেইচ পিছপ্ৰান্ত '%1' পোৱা নাছিল। অস্তিত্ববান সেয়েহে "
+"অভিগম কৰিব নোৱাৰি। "
+"তথ্য সুৰক্ষা কাৰণসমূহৰ বাবে Nepomuk অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে "
+"পৰিস্থিতি হস্তচালিতভাৱে "
+"সমাধান হোৱা নাই।"
 
 #: repository.cpp:291
 msgctxt "@info - notification message"
 msgid "Converting Nepomuk data to a new backend. This might take a while."
 msgstr ""
+"Nepomuk তথ্যক এটা নতুন পিছপ্ৰান্তলে পৰিৱৰ্তন কৰা হৈ আছে। ই কিছু সময় লব পাৰে।"
 
 #: repository.cpp:304
 msgctxt "@info - notification message"
@@ -79,10 +92,13 @@ msgid ""
 "Converting Nepomuk data to the new backend failed. For data security reasons "
 "Nepomuk will be disabled until the situation has been resolved manually."
 msgstr ""
+"Nepomuk তথ্যক নতুন পিছপ্ৰান্তলে পৰিবৰ্তন কৰা ব্যৰ্থ হল। তথ্য সুৰক্ষা "
+"কাৰণসমূহৰ বাবে Nepomuk "
+"অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে পৰিস্থিতি হস্তচালিতভাৱে সমাধান হোৱা নাই।"
 
 #: repository.cpp:318
 msgctxt "@info - notification message"
 msgid "Successfully converted Nepomuk data to the new backend."
-msgstr ""
+msgstr "Nepomuk তথ্যক সফলভাৱে নতুন পিছপ্ৰান্ত লে পৰিৱৰ্তন কৰা হল।"
 
 
