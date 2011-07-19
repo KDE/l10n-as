@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-07-05 04:20+0200\n"
-"PO-Revision-Date: 2011-07-18 18:56+0530\n"
+"PO-Revision-Date: 2011-07-19 11:28+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,56 +22,57 @@ msgstr "টুলবাৰ"
 
 #: katefilebrowserconfig.cpp:75
 msgid "A&vailable actions:"
-msgstr ""
+msgstr "উপলব্ধ কাৰ্য্যসমূহ (&v):"
 
 #: katefilebrowserconfig.cpp:76
 msgid "S&elected actions:"
-msgstr ""
+msgstr "নিৰ্বাচিত কাৰ্য্যসমূহ (&e):"
 
 #: katefilebrowser.cpp:96
 msgid "Filter:"
-msgstr ""
+msgstr "পৰিস্ৰাৱক:"
 
 #: katefilebrowser.cpp:116
 msgid "Enter a name filter to limit which files are displayed."
-msgstr ""
+msgstr "কোনবোৰ নথিপত্ৰ প্ৰদৰ্শন কৰা হব সীমিত কৰিবলে এটা নথিপত্ৰ নাম সোমাওক।"
 
 #: katefilebrowser.cpp:297
 msgid "Bookmarks"
-msgstr ""
+msgstr "পত্ৰচিহ্নসমূহ"
 
 #: katefilebrowser.cpp:305
 msgid "Current Document Folder"
-msgstr ""
+msgstr "বৰ্তমান দস্তাবেজ ফোল্ডাৰ"
 
 #: katefilebrowser.cpp:313
 msgid "Options"
-msgstr ""
+msgstr "বিকল্পসমূহ"
 
 #: katefilebrowser.cpp:325
 msgid "Automatically synchronize with current document"
-msgstr ""
+msgstr "বৰ্তমান দস্তাবেজৰ লগত স্বচালিতভাৱে সংমিহলি কৰক"
 
 #: katefilebrowserplugin.cpp:37 katefilebrowserplugin.cpp:76
 #: katefilebrowserplugin.cpp:100
 msgid "Filesystem Browser"
-msgstr ""
+msgstr "নথিপত্ৰপ্ৰণালী ব্ৰাউছাৰ"
 
 #: katefilebrowserplugin.cpp:37
 msgid "Browse through the filesystem"
-msgstr ""
+msgstr "নথিপত্ৰপ্ৰণালীৰে ব্ৰাউছ কৰক"
 
 #: katefilebrowserplugin.cpp:82
 msgid "Filesystem Browser Settings"
-msgstr ""
+msgstr "নথিপত্ৰপ্ৰণালী ব্ৰাউছাৰ সংহতিসমূহ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
 
