@@ -174,5 +174,3 @@ msgstr ""
 #: rc.cpp:8
 msgid "Extra Toolbar"
 msgstr ""
-
-

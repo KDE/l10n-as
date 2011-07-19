@@ -21,8 +21,7 @@ msgid ""
 "Finds local directories and files, network locations and Internet sites with "
 "paths matching :q:."
 msgstr ""
-":q: -ৰ হৈতে মিল খোৱা পথসমূহৰেস্থানীয় ডাইৰেকটৰি আৰু নথিপত্ৰসমূহ, নেটৱাৰ্ক "
-"অৱস্থান আৰু "
+":q: -ৰ হৈতে মিল খোৱা পথসমূহৰেস্থানীয় ডাইৰেকটৰি আৰু নথিপত্ৰসমূহ, নেটৱাৰ্ক অৱস্থান আৰু "
 "ইন্টাৰনেট ছাইটসমূহ বিচাৰক।"
 
 #: locationrunner.cpp:115 locationrunner.cpp:137
@@ -39,5 +38,3 @@ msgstr "%1 লে যাওক"
 #, kde-format
 msgid "Launch with %1"
 msgstr "%1 -ৰ হৈতে লঞ্চ কৰক"
-
-

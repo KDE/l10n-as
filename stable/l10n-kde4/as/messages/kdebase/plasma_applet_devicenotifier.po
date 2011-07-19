@@ -135,5 +135,3 @@ msgstr ""
 #: rc.cpp:9
 msgid "All devices"
 msgstr ""
-
-

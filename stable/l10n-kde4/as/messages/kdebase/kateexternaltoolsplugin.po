@@ -191,5 +191,3 @@ msgstr ""
 #: rc.cpp:23
 msgid "Insert Separator"
 msgstr ""
-
-

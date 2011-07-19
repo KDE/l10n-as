@@ -35,5 +35,3 @@ msgstr "নথিপত্ৰনাম অতি দীঘল"
 #: kio_nfs.cpp:1006
 msgid "Disk quota exceeded"
 msgstr "ডিস্ক কুটাৰ সীমা পাৰ হৈ গল"
-
-

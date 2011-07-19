@@ -119,5 +119,3 @@ msgstr ""
 #: rc.cpp:39
 msgid "Shows the dashboard"
 msgstr ""
-
-

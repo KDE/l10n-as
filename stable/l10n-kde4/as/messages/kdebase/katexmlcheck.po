@@ -50,14 +50,11 @@ msgid ""
 "<b>Error:</b> Failed to execute xmllint. Please make sure that xmllint is "
 "installed. It is part of libxml2."
 msgstr ""
-"<b>ত্ৰুটি:</b> xmllint প্ৰেৰণ কৰোতে ব্যৰ্থ। অনুগ্ৰহ কৰি সুনিশ্চিত কৰক যে "
-"xmllint ইনস্টল "
-"হৈছে। ই libxml2 -ৰ এটা অংশ।"
+"<b>ত্ৰুটি:</b> xmllint প্ৰেৰণ কৰোতে ব্যৰ্থ। অনুগ্ৰহ কৰি সুনিশ্চিত কৰক যে xmllint "
+"ইনস্টল হৈছে। ই libxml2 -ৰ এটা অংশ।"
 
 #. i18n: file: ui.rc:4
 #. i18n: ectx: Menu (xml)
 #: rc.cpp:3
 msgid "&XML"
 msgstr "XML (&X)"
-
-

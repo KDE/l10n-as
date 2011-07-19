@@ -109,5 +109,3 @@ msgstr ""
 #: rc.cpp:5
 msgid "&Tools"
 msgstr ""
-
-

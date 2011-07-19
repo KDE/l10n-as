@@ -38,5 +38,3 @@ msgstr "বৰ্তমানে উপলব্ধ চলিব পৰা ক�
 #, kde-format
 msgid "Switch to \"%1\""
 msgstr "\"%1\" লে যাওক"
-
-

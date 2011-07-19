@@ -77,5 +77,3 @@ msgstr ""
 #: thumbnail.cpp:357
 msgid "Image is too big for the shared memory segment"
 msgstr ""
-
-

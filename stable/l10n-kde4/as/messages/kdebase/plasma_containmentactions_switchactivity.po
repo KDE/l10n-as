@@ -19,5 +19,3 @@ msgstr ""
 #: switch.cpp:50 switch.cpp:75
 msgid "Activities"
 msgstr "কাৰ্য্যসমূহ"
-
-

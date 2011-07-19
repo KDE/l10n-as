@@ -1156,5 +1156,3 @@ msgstr ""
 #: rc.cpp:143
 msgid "Byte size units"
 msgstr ""
-
-

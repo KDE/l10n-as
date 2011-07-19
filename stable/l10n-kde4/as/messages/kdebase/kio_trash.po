@@ -180,5 +180,3 @@ msgid ""
 "and use the restore operation again, or drag the item anywhere else to "
 "restore it."
 msgstr ""
-
-

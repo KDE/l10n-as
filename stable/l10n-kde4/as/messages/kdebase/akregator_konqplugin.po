@@ -44,5 +44,3 @@ msgstr "Akregator ফিড আইকন - DBus কল ব্যৰ্থ "
 msgctxt "@title:window"
 msgid "The DBus call addFeedToGroup failed"
 msgstr "DBus কল addFeedToGroup ব্যৰ্থ হৈছে"
-
-

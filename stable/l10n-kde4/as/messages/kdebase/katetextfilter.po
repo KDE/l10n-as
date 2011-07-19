@@ -25,9 +25,8 @@ msgid ""
 "You are not allowed to execute arbitrary external applications. If you want "
 "to be able to do this, contact your system administrator."
 msgstr ""
-"যাদৃচ্ছিক বাহিৰা অনুপ্ৰোগসমূহ প্ৰেৰণ কৰাৰ আপোনাৰ অনুমতি নাই। যদি আপুনি এনে "
-"কৰিবলে সক্ষম "
-"হব বিচাৰে, আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।"
+"যাদৃচ্ছিক বাহিৰা অনুপ্ৰোগসমূহ প্ৰেৰণ কৰাৰ আপোনাৰ অনুমতি নাই। যদি আপুনি এনে কৰিবলে "
+"সক্ষম হব বিচাৰে, আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।"
 
 #: plugin_katetextfilter.cpp:160
 msgid "Access Restrictions"
@@ -38,8 +37,7 @@ msgid ""
 "<qt><p>Usage: <code>textfilter COMMAND</code></p><p>Replace the selection "
 "with the output of the specified shell command.</p></qt>"
 msgstr ""
-"<qt><p>ব্য৺হাৰ: <code>textfilter COMMAND</code></p><p> নিৰ্বাচনক ধাৰ্য্যত "
-"শ্বেল "
+"<qt><p>ব্য৺হাৰ: <code>textfilter COMMAND</code></p><p> নিৰ্বাচনক ধাৰ্য্যত শ্বেল "
 "কমান্ডৰ আউটপুটৰে প্ৰতিস্থাপন কৰক। </p></qt>"
 
 #: plugin_katetextfilter.cpp:239
@@ -69,5 +67,3 @@ msgstr "নিৰ্বাচিত লিখনীৰে কমান্ড প
 #: rc.cpp:12
 msgid "Copy the result instead of pasting it"
 msgstr "ফলাফলক পেইস্ট কৰাৰ পৰিৱৰ্তে কপি কৰক"
-
-

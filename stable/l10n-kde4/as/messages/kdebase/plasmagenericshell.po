@@ -324,5 +324,3 @@ msgstr ""
 #: rc.cpp:20
 msgid "Mouse Plugins"
 msgstr ""
-
-

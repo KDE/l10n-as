@@ -68,5 +68,3 @@ msgstr "মূখ্য মেনু"
 #: sal.cpp:722
 msgid "Keyboard Shortcut"
 msgstr "কিবৰ্ড চৰ্টকাট"
-
-

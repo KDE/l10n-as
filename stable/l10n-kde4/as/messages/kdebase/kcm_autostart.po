@@ -145,5 +145,3 @@ msgstr ""
 #: rc.cpp:17
 msgid "Advanced"
 msgstr ""
-
-

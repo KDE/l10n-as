@@ -327,5 +327,3 @@ msgstr ""
 #: rc.cpp:83
 msgid "Use custom titlebar button &positions"
 msgstr ""
-
-

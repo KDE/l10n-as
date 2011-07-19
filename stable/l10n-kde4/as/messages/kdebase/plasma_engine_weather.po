@@ -4969,5 +4969,3 @@ msgstr ""
 msgctxt "weather forecast"
 msgid "Slight Chance Thunderstorms"
 msgstr ""
-
-

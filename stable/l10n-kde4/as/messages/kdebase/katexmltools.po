@@ -92,5 +92,3 @@ msgstr "বাতিল কৰক"
 #: rc.cpp:3
 msgid "&XML"
 msgstr ""
-
-

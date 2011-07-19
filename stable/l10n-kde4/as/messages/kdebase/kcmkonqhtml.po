@@ -1839,5 +1839,3 @@ msgid ""
 "\n"
 "</html>\n"
 msgstr ""
-
-

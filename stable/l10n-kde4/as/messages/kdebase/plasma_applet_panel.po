@@ -19,5 +19,3 @@ msgstr ""
 #: panel.cpp:160
 msgid "Panel Settings"
 msgstr "পেনেল সংহতিসমূহ"
-
-

@@ -114,5 +114,3 @@ msgstr ""
 #: layouts_menu.cpp:123
 msgid "Configure..."
 msgstr ""
-
-

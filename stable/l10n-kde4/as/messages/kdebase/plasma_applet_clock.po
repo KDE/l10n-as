@@ -55,5 +55,3 @@ msgstr "ইয়াক চেক কৰক যদি আপুনি সময়অ�
 #: rc.cpp:18
 msgid "Show &time zone"
 msgstr "সময় অঞ্চল দেখুৱাওক (&t)"
-
-

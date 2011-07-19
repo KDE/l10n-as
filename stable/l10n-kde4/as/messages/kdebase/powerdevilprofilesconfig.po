@@ -128,5 +128,3 @@ msgstr ""
 #: rc.cpp:20
 msgid "Edit Profile"
 msgstr ""
-
-

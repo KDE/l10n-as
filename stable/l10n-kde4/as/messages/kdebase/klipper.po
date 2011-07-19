@@ -617,5 +617,3 @@ msgstr ""
 #: urlgrabber.cpp:247
 msgid "&Cancel"
 msgstr ""
-
-

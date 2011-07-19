@@ -58,5 +58,3 @@ msgstr "OpenGL সক্ৰিনচেইভাৰসমূহ ব্যৱহ�
 #: random.cpp:190
 msgid "Use screen savers that manipulate the screen"
 msgstr "যি স্ক্ৰিনচেইভাৰসমূহ পৰ্দা সলনি কৰে ব্যৱহাৰ কৰক"
-
-

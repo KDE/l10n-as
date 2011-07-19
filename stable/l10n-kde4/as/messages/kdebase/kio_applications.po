@@ -27,5 +27,3 @@ msgstr "প্ৰগ্ৰামসমূহ"
 #: kio_applications.cpp:126
 msgid "Unknown application folder"
 msgstr "অজ্ঞাত অনুপ্ৰয়োগ সন্ধানকাৰী"
-
-

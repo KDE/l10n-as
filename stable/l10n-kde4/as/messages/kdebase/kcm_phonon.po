@@ -337,5 +337,3 @@ msgstr ""
 #: rc.cpp:74
 msgid "no preference for the selected device"
 msgstr ""
-
-

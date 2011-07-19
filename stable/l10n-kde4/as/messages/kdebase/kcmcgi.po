@@ -50,11 +50,9 @@ msgid ""
 "without the need to run a web server. In this control module you can "
 "configure the paths that are searched for CGI scripts."
 msgstr ""
-"<h1>CGI স্ক্ৰিপ্টসমূহ</h1> CGI KIO সেৱকে আপোনাক স্থানীয় CGI প্ৰগ্ৰামসমূহ "
-"এটা ৱেব চাৰ্ভাৰ চলোৱাৰ "
-"প্ৰয়োজনীয়তা নহোৱাকে প্ৰেৰণ কৰাৰ অনুমতি দিয়ে। এই নিয়ন্ত্ৰক মডিউলত আপুনি CGI "
-"স্ক্ৰিপটসমূহৰ বাবে "
-"সন্ধান কৰা পথসমূহ সংৰূপণ কৰিব পাৰিব।"
+"<h1>CGI স্ক্ৰিপ্টসমূহ</h1> CGI KIO সেৱকে আপোনাক স্থানীয় CGI প্ৰগ্ৰামসমূহ এটা ৱেব "
+"চাৰ্ভাৰ চলোৱাৰ প্ৰয়োজনীয়তা নহোৱাকে প্ৰেৰণ কৰাৰ অনুমতি দিয়ে। এই নিয়ন্ত্ৰক মডিউলত "
+"আপুনি CGI স্ক্ৰিপটসমূহৰ বাবে সন্ধান কৰা পথসমূহ সংৰূপণ কৰিব পাৰিব।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
@@ -65,5 +63,3 @@ msgstr "নীলমদ্যুতি গোস্বামী"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ngoswami@redhat.com"
-
-

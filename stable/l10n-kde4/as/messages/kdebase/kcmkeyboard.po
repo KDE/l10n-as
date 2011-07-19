@@ -408,5 +408,3 @@ msgstr ""
 #: rc.cpp:193
 msgid "Key click &volume:"
 msgstr ""
-
-

@@ -31,5 +31,3 @@ msgstr "এই উইজেট নীৰিক্ষন কৰক"
 #: webapplet_package.cpp:33 webapplet_package.cpp:46
 msgid "Main Script File"
 msgstr "মূখ্য স্ক্ৰিপ্ট নথিপত্ৰ"
-
-

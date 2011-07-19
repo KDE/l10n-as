@@ -28,8 +28,8 @@ msgstr "শ্বেল কমান্ড প্ৰেৰণ কৰক (&E)..."
 msgid ""
 "KShellCmdPlugin::slotExecuteShellCommand: Program error, please report a bug."
 msgstr ""
-"KShellCmdPlugin::slotExecuteShellCommand: প্ৰগ্ৰাম ত্ৰুটি, অনুগ্ৰহ কৰি এটা "
-"বাগ সংবাদন কৰক।"
+"KShellCmdPlugin::slotExecuteShellCommand: প্ৰগ্ৰাম ত্ৰুটি, অনুগ্ৰহ কৰি এটা বাগ "
+"সংবাদন কৰক।"
 
 #: kshellcmdplugin.cpp:57
 msgid "Executing shell commands works only on local directories."
@@ -54,5 +54,3 @@ msgstr "কমান্ডৰ পৰা আউটপুট: \"%1\""
 #: rc.cpp:3
 msgid "&Tools"
 msgstr "সঁজুলিসমূহ (&T)"
-
-

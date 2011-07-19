@@ -318,5 +318,3 @@ msgstr ""
 #: rc.cpp:118
 msgid "Configure Layout..."
 msgstr ""
-
-

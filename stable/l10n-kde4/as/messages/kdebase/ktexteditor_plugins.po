@@ -418,5 +418,3 @@ msgstr ""
 #: pythonencoding/python_encoding.h:69
 msgid "Save Nevertheless"
 msgstr ""
-
-

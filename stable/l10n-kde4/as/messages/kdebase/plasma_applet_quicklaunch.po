@@ -89,5 +89,3 @@ msgstr ""
 #: rc.cpp:15
 msgid "Enable popup:"
 msgstr ""
-
-

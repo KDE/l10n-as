@@ -413,5 +413,3 @@ msgstr ""
 #: rc.cpp:104
 msgid "Details"
 msgstr ""
-
-

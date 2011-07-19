@@ -87,5 +87,3 @@ msgstr "সঁজাওক (&S)"
 #: rc.cpp:15
 msgid "It is not sure, that this will take effect"
 msgstr "নিশ্চিত নহয়, যে ই ঘটিত হব"
-
-

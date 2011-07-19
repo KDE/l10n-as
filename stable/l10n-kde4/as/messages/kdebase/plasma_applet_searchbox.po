@@ -19,5 +19,3 @@ msgstr ""
 #: searchbox.cpp:72
 msgid "Enter your query here"
 msgstr "আপোনাৰ প্ৰশ্ন ইয়াত সোমাওক"
-
-

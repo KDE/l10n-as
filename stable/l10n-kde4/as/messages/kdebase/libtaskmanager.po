@@ -105,5 +105,3 @@ msgstr ""
 #: strategies/programgroupingstrategy.cpp:74
 msgid "Do not allow this program to be grouped"
 msgstr ""
-
-

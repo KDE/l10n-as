@@ -33,12 +33,9 @@ msgid ""
 "Whether use the file name only for determining the mimetype. Not used if -c "
 "is specified."
 msgstr ""
-"mimetype নিৰ্ধাৰন কৰিবলে কেৱল নথিপত্ৰ নাম ব্যৱহাৰ কৰা হব নে। ব্যৱহাৰ কৰা "
-"নহয় যদি -c "
-"দিয়া থাকে।"
+"mimetype নিৰ্ধাৰন কৰিবলে কেৱল নথিপত্ৰ নাম ব্যৱহাৰ কৰা হব নে। ব্যৱহাৰ কৰা নহয় যদি "
+"-c দিয়া থাকে।"
 
 #: kmimetypefinder.cpp:39
 msgid "The filename to test. '-' to read from stdin."
 msgstr "পৰিক্ষা কৰিবলে নথিপত্ৰনাম। stdin -ৰ পৰা পঢ়িবলে '-'।"
-
-

@@ -19,5 +19,3 @@ msgstr ""
 #: panelspacer.cpp:38
 msgid "Set Flexible Size"
 msgstr "নমনীয় আকাৰ সংহতি কৰক"
-
-

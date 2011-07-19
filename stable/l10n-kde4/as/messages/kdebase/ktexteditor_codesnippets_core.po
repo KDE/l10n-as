@@ -145,5 +145,3 @@ msgstr ""
 #: repository.cpp:433
 msgid "File could not be copied to repository"
 msgstr ""
-
-

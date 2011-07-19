@@ -73,5 +73,3 @@ msgstr "'seek' কমান্ডৰ এটা 'seconds' তৰ্কৰ প্�
 #, kde-format
 msgid "The player '%1' cannot perform the action 'seek'."
 msgstr "প্লেয়াৰ '%1' 'seek' কাৰ্য্য পৰিৱেশন কৰিবলে অক্ষম।"
-
-

@@ -41,9 +41,8 @@ msgid ""
 "An unnamed session will not be saved automatically. Do you want to create "
 "such a session?"
 msgstr ""
-"এটা বেনামী অধিবেশন স্বচালিতভাৱে সংৰক্ষণ কৰা নহব। আপুনি এনে এটা অধিবেশন "
-"সৃষ্টি কৰিব "
-"বিচাৰে নে?"
+"এটা বেনামী অধিবেশন স্বচালিতভাৱে সংৰক্ষণ কৰা নহব। আপুনি এনে এটা অধিবেশন সৃষ্টি "
+"কৰিব বিচাৰে নে?"
 
 #: katesessionapplet.cpp:181
 msgid "Create anonymous session?"
@@ -53,8 +52,7 @@ msgstr "বেনামী অধিবেশন সৃষ্টি কৰিব
 #, kde-format
 msgid "You already have a session named %1. Do you want to open that session?"
 msgstr ""
-"আপোনাৰ ইতিমধ্যে %1 নামৰ এটা অধিবেশন আছে। আপুনি সেই অধিবেশনটো খোলিব বিচাৰে "
-"নে?"
+"আপোনাৰ ইতিমধ্যে %1 নামৰ এটা অধিবেশন আছে। আপুনি সেই অধিবেশনটো খোলিব বিচাৰে নে?"
 
 #: katesessionapplet.cpp:189
 msgid "Session exists"
@@ -67,5 +65,3 @@ msgstr "অধিবেশনসমূহ"
 #: katesessionapplet.cpp:213
 msgid "Sessions to show"
 msgstr "দেখুৱাব লগিয়া অধিবেশনসমূহ"
-
-

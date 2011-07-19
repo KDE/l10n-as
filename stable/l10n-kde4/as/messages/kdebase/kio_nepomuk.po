@@ -65,5 +65,3 @@ msgstr ""
 #: resourcepagegenerator.cpp:322
 msgid "Show URIs"
 msgstr ""
-
-

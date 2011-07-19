@@ -25,5 +25,3 @@ msgstr "অবৈধ ডেস্কটপ প্ৰশ্ন: '%1'"
 #, kde-format
 msgid "Invalid SPARQL query: '%1'"
 msgstr "অবৈধ SPARQL প্ৰশ্ন: '%1'"
-
-

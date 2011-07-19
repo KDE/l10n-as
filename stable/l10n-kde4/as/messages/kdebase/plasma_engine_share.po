@@ -67,5 +67,3 @@ msgstr "সকলো প্ৰয়োজনীয় ফলন পোৱা নগ�
 #: shareservice.cpp:173
 msgid "Unknown Error"
 msgstr "অজ্ঞাত ত্ৰুটি"
-
-

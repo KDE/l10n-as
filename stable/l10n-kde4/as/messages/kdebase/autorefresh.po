@@ -78,5 +78,3 @@ msgstr "<qt>এই প্লাগিনে বৰ্তমান অংশ স�
 #: rc.cpp:3
 msgid "&Tools"
 msgstr "সঁজুলিসমূহ (&T)"
-
-

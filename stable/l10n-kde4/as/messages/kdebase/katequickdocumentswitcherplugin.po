@@ -51,5 +51,3 @@ msgstr "ngoswami@redhat.com"
 #: rc.cpp:5
 msgid "&Go"
 msgstr "জাওক (&G)"
-
-

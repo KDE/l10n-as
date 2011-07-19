@@ -87,5 +87,3 @@ msgstr ""
 #: rc.cpp:36
 msgid "&Background mode:"
 msgstr ""
-
-

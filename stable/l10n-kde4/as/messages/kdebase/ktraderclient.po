@@ -35,5 +35,3 @@ msgstr "এটা সেৱাধৰণ, যেনে KParts/কেৱলপঢ়�
 #: ktraderclient.cpp:39
 msgid "A constraint expressed in the trader query language"
 msgstr "এটা বাধা ব্যৱসায়ী প্ৰশ্ন ভাষাত প্ৰকাশ কৰা হৈছে"
-
-

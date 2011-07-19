@@ -1695,5 +1695,3 @@ msgid ""
 "dialog box, simply click on the quick help button on the window title bar, "
 "then click on the section for which you are seeking help.</p>"
 msgstr ""
-
-

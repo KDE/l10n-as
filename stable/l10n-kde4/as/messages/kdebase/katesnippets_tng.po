@@ -49,8 +49,7 @@ msgid ""
 "Add current text selection to a snippet file (click=add to on-the-go, "
 "hold=menu=more options)"
 msgstr ""
-"বৰ্তমান লিখনী নিৰ্বাচন এটা স্নিপেট নথিপত্ৰলে যোগ কৰক (ক্লিক কৰক=add to "
-"on-the-go, "
+"বৰ্তমান লিখনী নিৰ্বাচন এটা স্নিপেট নথিপত্ৰলে যোগ কৰক (ক্লিক কৰক=add to on-the-go, "
 "hold=menu=more বিকল্পসমূহ)"
 
 #: selector.cpp:45
@@ -72,13 +71,10 @@ msgid ""
 "information, please press this button longer to open the menu for manual\n"
 "destination selection"
 msgstr ""
-"উন্নয়নকাৰীৰ ত্ৰুটি ! আপোনাৰ সম্পাদক উপাদানে কিছুমান তথ্যৰ উদ্ধাৰ সমৰ্থন "
-"নকৰে\n"
+"উন্নয়নকাৰীৰ ত্ৰুটি ! আপোনাৰ সম্পাদক উপাদানে কিছুমান তথ্যৰ উদ্ধাৰ সমৰ্থন নকৰে\n"
 "হস্তচালিত লক্ষ্য নিৰ্বাচনৰ বাবে মেনু খোলিবলে এই বুটাম বেছি সময়\n"
 "দবাই ৰাখক"
 
 #: selector.cpp:250
 msgid "Should not happen, cannot add snippet to a repository"
 msgstr "এনে হব নালাগিছিল, স্নিপেটক ভঁৰালত যোগ কৰিব নোৱাৰি"
-
-

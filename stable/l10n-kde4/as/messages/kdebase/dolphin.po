@@ -2249,5 +2249,3 @@ msgstr ""
 msgctxt "@title:menu"
 msgid "Main Toolbar"
 msgstr ""
-
-

@@ -129,5 +129,3 @@ msgstr ""
 #: webviewoverlay.cpp:45
 msgid "Close"
 msgstr ""
-
-

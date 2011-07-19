@@ -262,5 +262,3 @@ msgstr ""
 #: rc.cpp:62
 msgid "Remove Provider"
 msgstr ""
-
-

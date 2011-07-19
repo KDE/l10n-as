@@ -29,8 +29,7 @@ msgstr "Nepomuk চিস্টেম সক্ৰিয় নহয়। ইয়া�
 msgid ""
 "The Nepomuk query service is not running. Unable to answer queries without "
 "it."
-msgstr ""
-"Nepomuk প্ৰশ্ন সেৱা চলি থকা নাই। ইয়াৰ বাহিৰে প্ৰশ্নৰ উত্তৰ দিবলে অক্ষম।"
+msgstr "Nepomuk প্ৰশ্ন সেৱা চলি থকা নাই। ইয়াৰ বাহিৰে প্ৰশ্নৰ উত্তৰ দিবলে অক্ষম।"
 
 #: kio_nepomuksearch.cpp:261
 msgid "Desktop Queries"
@@ -54,5 +53,3 @@ msgstr "ngoswami@redhat.com"
 #, kde-format
 msgid "Search excerpt: %1"
 msgstr "excerpt সন্ধান কৰক: %1"
-
-

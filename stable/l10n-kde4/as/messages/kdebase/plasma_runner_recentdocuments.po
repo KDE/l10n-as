@@ -24,5 +24,3 @@ msgstr ""
 #: recentdocuments.cpp:86
 msgid "Recent Document"
 msgstr "সেহতীয়া দস্তাবেজ"
-
-

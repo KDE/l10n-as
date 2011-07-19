@@ -616,5 +616,3 @@ msgstr ""
 #: view.cpp:212
 msgid "Copy Link Address"
 msgstr ""
-
-

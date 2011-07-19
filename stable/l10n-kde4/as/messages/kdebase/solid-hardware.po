@@ -129,5 +129,3 @@ msgstr ""
 #, kde-format
 msgid "Info: %1"
 msgstr ""
-
-

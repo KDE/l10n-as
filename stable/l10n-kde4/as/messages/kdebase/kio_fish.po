@@ -35,5 +35,3 @@ msgstr "SSH অনুমোদন"
 #: fish.cpp:773
 msgid "Disconnected."
 msgstr "বিচ্ছিন্নিত।"
-
-

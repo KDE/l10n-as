@@ -344,5 +344,3 @@ msgid ""
 "This shell is reserved for user's custom shell. Press \"Setup\" button to "
 "setup your favourite shell."
 msgstr ""
-
-

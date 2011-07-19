@@ -35,8 +35,7 @@ msgid ""
 "\n"
 "Please make sure you have saved all documents."
 msgstr ""
-"মই আপোনাৰ সেহতীয়া ইনস্টলৰ সকলো অনুপ্ৰয়োগ আৰু প্ৰক্ৰিয়াসমূহ সঁচাকে বন্ধ "
-"কৰিম নে?\n"
+"মই আপোনাৰ সেহতীয়া ইনস্টলৰ সকলো অনুপ্ৰয়োগ আৰু প্ৰক্ৰিয়াসমূহ সঁচাকে বন্ধ কৰিম নে?\n"
 "\n"
 "অনুগ্ৰহ কৰি সুনিশ্চিত কৰক যে আপুনি সকলো দস্তাবেজ সংৰক্ষণ কৰিছে।"
 
@@ -53,5 +52,3 @@ msgstr "নীলমদ্যুতি গোস্বামী"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ngoswami@redhat.com"
-
-

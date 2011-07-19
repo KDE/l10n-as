@@ -95,5 +95,3 @@ msgstr ""
 #: viewer/viewer.cpp:102
 msgid "nspluginviewer"
 msgstr ""
-
-

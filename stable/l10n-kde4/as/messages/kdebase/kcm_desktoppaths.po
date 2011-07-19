@@ -154,5 +154,3 @@ msgstr ""
 #: globalpaths.cpp:354
 msgid "Confirmation Required"
 msgstr ""
-
-

@@ -253,5 +253,3 @@ msgstr ""
 #: kxftconfig.cpp:500
 msgid "Full"
 msgstr ""
-
-

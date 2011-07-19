@@ -605,5 +605,3 @@ msgstr ""
 msgctxt "@action:inmenu"
 msgid "&Remote Login"
 msgstr ""
-
-

@@ -193,5 +193,3 @@ msgstr ""
 #: removebutton.cpp:52
 msgid "Remove from list"
 msgstr ""
-
-

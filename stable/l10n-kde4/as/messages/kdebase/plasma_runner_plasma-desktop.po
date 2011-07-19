@@ -30,12 +30,9 @@ msgid ""
 "Opens the Plasma desktop interactive console with a file path to a script on "
 "disk."
 msgstr ""
-"ডিস্কত থকা এটা স্ক্ৰিপ্টলে নথিপত্ৰ পথৰ হৈতে প্লাচমা ডেস্কটপ ভাৱ-বিনিময়ী "
-"কনচোল খোলে।"
+"ডিস্কত থকা এটা স্ক্ৰিপ্টলে নথিপত্ৰ পথৰ হৈতে প্লাচমা ডেস্কটপ ভাৱ-বিনিময়ী কনচোল খোলে।"
 
 #: plasma-desktop-runner.cpp:109
 msgctxt "Note this is a KRunner keyword"
 msgid "desktop console :q:"
 msgstr "ডেস্কটপ কনচোল :q:"
-
-

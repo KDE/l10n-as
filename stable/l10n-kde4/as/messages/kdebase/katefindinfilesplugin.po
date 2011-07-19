@@ -237,4 +237,3 @@ msgstr ""
 #: rc.cpp:59
 msgid "Remove"
 msgstr ""
-

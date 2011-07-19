@@ -137,5 +137,3 @@ msgstr ""
 #: sessionrunner.cpp:249
 msgid "&Start New Session"
 msgstr ""
-
-

@@ -377,5 +377,3 @@ msgstr ""
 #: rc.cpp:11
 msgid "Switch &tabs on hover:"
 msgstr ""
-
-

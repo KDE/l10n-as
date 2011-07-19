@@ -19,5 +19,3 @@ msgstr ""
 #: desktop.cpp:69
 msgid "Settings"
 msgstr "সংহতিসমূহ"
-
-

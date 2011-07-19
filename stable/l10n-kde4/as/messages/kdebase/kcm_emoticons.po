@@ -227,5 +227,3 @@ msgstr ""
 #: rc.cpp:71
 msgid "Remove Theme"
 msgstr ""
-
-

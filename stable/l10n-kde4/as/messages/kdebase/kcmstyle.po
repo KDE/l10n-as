@@ -289,5 +289,3 @@ msgstr ""
 #, kde-format
 msgid "Configure %1"
 msgstr ""
-
-

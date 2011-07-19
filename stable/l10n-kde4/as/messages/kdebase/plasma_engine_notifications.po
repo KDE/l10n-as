@@ -28,5 +28,3 @@ msgstr "অবৈধ লক্ষ্য: %1"
 #: notificationsengine.cpp:145
 msgid "Unknown Application"
 msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
-
-

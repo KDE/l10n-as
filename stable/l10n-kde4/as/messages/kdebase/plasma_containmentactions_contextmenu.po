@@ -43,5 +43,3 @@ msgstr "ৱালপেপাৰ কাৰ্য্যসমূহ"
 #: menu.cpp:274
 msgid "[Separator]"
 msgstr "[বিভাজক]"
-
-

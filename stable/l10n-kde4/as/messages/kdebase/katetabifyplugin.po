@@ -35,5 +35,3 @@ msgstr "টেবিফাই প্লাগিন"
 #: tabify.cpp:40
 msgid "TabifyPlugin"
 msgstr "টেবিফাইপ্লাগিন"
-
-

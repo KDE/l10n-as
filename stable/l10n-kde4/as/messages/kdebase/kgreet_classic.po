@@ -49,5 +49,3 @@ msgstr "অপৰিচিত প্ৰমপ্ট  \"%1\""
 msgctxt "@item:inmenu authentication method"
 msgid "Username + password (classic)"
 msgstr "ব্যৱহাৰকাৰী নাম + পাছৱাৰ্ড (কালজয়ী)"
-
-

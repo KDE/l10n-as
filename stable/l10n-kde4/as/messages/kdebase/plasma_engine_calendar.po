@@ -63,5 +63,3 @@ msgstr "অজ্ঞাত নাম"
 #: akonadi/calendar.cpp:54
 msgid "unknown@nowhere"
 msgstr "অজ্ঞাত@কতোনহয়"
-
-

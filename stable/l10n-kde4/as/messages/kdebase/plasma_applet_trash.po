@@ -42,8 +42,7 @@ msgstr[1] "%1 বস্তুবোৰ"
 #: trash.cpp:206
 msgctxt "@info"
 msgid "Do you really want to empty the trash? All items will be deleted."
-msgstr ""
-"আপুনি সঁচাকে আবৰ্জনা খালি কৰিব বিচাৰে নে? সকলো বস্তু মচি পেলোৱা হব।"
+msgstr "আপুনি সঁচাকে আবৰ্জনা খালি কৰিব বিচাৰে নে? সকলো বস্তু মচি পেলোৱা হব।"
 
 #: trash.cpp:211
 msgctxt "@action:button"
@@ -58,5 +57,3 @@ msgstr "আবৰ্জনা খালি কৰা হৈ আছে..."
 msgctxt "The trash is empty. This is not an action, but a state"
 msgid "Empty"
 msgstr "খালি"
-
-

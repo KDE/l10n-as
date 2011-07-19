@@ -119,5 +119,3 @@ msgstr ""
 #: rc.cpp:25
 msgid "&No audio output"
 msgstr ""
-
-

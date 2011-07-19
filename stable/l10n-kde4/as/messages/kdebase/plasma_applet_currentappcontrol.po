@@ -41,5 +41,3 @@ msgstr "সাধাৰন"
 #: rc.cpp:3
 msgid "Always list the applications in a menu"
 msgstr "সদায় অনুপ্ৰয়োগসমূহক মেনুত তালিকাভুক্ত কৰক"
-
-

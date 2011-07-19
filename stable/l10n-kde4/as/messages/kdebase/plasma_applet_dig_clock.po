@@ -200,5 +200,3 @@ msgstr ""
 #: rc.cpp:69
 msgid "Date format:"
 msgstr ""
-
-

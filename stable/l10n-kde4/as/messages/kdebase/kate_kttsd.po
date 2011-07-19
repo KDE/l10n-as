@@ -57,5 +57,3 @@ msgstr "সঁজুলিসমূহ (&T)"
 #: rc.cpp:8
 msgid "Main Toolbar"
 msgstr "মূখ্য টুলবাৰ"
-
-

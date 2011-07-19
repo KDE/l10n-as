@@ -1251,5 +1251,3 @@ msgstr ""
 #: rc.cpp:524
 msgid "Vertical"
 msgstr ""
-
-

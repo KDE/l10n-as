@@ -190,5 +190,3 @@ msgstr ""
 #: totalMemoryChart.cpp:47
 msgid "Used Physical Memory"
 msgstr ""
-
-

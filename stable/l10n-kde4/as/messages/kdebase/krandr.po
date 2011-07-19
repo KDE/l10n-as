@@ -528,5 +528,3 @@ msgstr ""
 #: rc.cpp:65
 msgid "Identify Outputs"
 msgstr ""
-
-

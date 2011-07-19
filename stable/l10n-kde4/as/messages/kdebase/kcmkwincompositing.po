@@ -499,5 +499,3 @@ msgstr ""
 #: rc.cpp:166
 msgid "Use OpenGL 2 Shaders"
 msgstr ""
-
-

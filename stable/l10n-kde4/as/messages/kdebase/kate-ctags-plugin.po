@@ -396,4 +396,3 @@ msgstr ""
 #: rc.cpp:50
 msgid "CTags database file"
 msgstr ""
-

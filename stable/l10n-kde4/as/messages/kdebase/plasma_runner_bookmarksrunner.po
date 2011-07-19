@@ -33,5 +33,3 @@ msgstr "সকলো ৱেব ব্ৰাউছাৰ পত্ৰচিহ্
 msgctxt "list of all konqueror bookmarks"
 msgid "bookmarks"
 msgstr "পত্ৰচিহ্নসমূহ"
-
-

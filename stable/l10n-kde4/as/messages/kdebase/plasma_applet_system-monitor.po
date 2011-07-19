@@ -165,5 +165,3 @@ msgstr ""
 #: temperature.cpp:97
 msgid "Offset"
 msgstr ""
-
-

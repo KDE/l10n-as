@@ -79,5 +79,3 @@ msgstr "ব্যৱহাৰকাৰীক সতৰ্ক কৰাৰ আগ
 #: rc.cpp:15
 msgid "Is the free space notification enabled."
 msgstr "ৰিক্ত স্থান সকিয়নী সামৰ্থবান হয় নে।"
-
-

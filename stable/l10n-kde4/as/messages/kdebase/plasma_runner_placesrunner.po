@@ -27,5 +27,3 @@ msgstr "স্থানসমূহ"
 #: placesrunner.cpp:39
 msgid "Lists all file manager locations"
 msgstr "সকলো নথিপত্ৰ ব্যৱস্থাপক অৱস্থান তালিকাভুক্ত কৰক"
-
-

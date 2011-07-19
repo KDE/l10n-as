@@ -30,5 +30,3 @@ msgid "1 RSS feed fetched"
 msgid_plural "%1 RSS feeds fetched"
 msgstr[0] "১ RSS ফিড প্ৰাপ্ত কৰা হল"
 msgstr[1] "%1 RSS ফিডসমূহ প্ৰাপ্ত কৰা হল"
-
-

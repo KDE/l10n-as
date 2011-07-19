@@ -28,5 +28,3 @@ msgstr "সামাজিক ডেস্কটপ সংৰূপ"
 #: kdeplatformdependent.cpp:207
 msgid "Open Collaboration Providers"
 msgstr "সহযোগ প্ৰদানকাৰীসমূহক খোলক"
-
-

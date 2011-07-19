@@ -30,5 +30,3 @@ msgid "This site has a microformat entry"
 msgid_plural "This site has %1 microformat entries"
 msgstr[0] "এই ছাইটৰ এটা সুক্ষ্মবিন্যাস প্ৰবিষ্টি আছে"
 msgstr[1] "এই ছাইটৰ %1 সুক্ষ্মবিন্যাস প্ৰবিষ্টিসমূহ আছে"
-
-

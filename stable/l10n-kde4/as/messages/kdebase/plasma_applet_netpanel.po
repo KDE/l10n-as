@@ -23,5 +23,3 @@ msgstr "পেনেল লক কৰক"
 #: panel.cpp:346
 msgid "Unlock Panel"
 msgstr "পেনেল আনলক কৰক"
-
-

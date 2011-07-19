@@ -21,9 +21,8 @@ msgid ""
 "Calculates the value of :q: when :q: is made up of numbers and mathematical "
 "symbols such as +, -, /, * and ^."
 msgstr ""
-":q: -ৰ মান গণনা কৰে যেতিয়া :q: নম্বৰসমূহ আৰু অঙ্কীয় চিহ্নসমূহ যেনে +, -, /, "
-"* আৰু ^ -ৰে "
-"গঠিত।"
+":q: -ৰ মান গণনা কৰে যেতিয়া :q: নম্বৰসমূহ আৰু অঙ্কীয় চিহ্নসমূহ যেনে +, -, /, * আৰু ^ "
+"-ৰে গঠিত।"
 
 #: qalculate_engine.cpp:71
 #, kde-format
@@ -31,5 +30,3 @@ msgid ""
 "The exchange rates could not be updated. The following error has been "
 "reported: %1"
 msgstr "বিনিময় হাৰসমূহ আপডেইট কৰিব পৰা নগল। নিম্নলিখিত ত্ৰুটি দেখা দিছে: %1"
-
-

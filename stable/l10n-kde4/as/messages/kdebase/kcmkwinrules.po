@@ -1342,5 +1342,3 @@ msgstr ""
 #: ruleswidget.cpp:800
 msgid "Edit Shortcut"
 msgstr ""
-
-

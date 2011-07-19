@@ -128,5 +128,3 @@ msgstr ""
 #: PowerDevilRunner.cpp:287
 msgid "Suspend to Disk"
 msgstr ""
-
-

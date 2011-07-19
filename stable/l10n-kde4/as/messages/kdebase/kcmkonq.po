@@ -22,8 +22,7 @@ msgid ""
 "file manager here."
 msgstr ""
 "<h1>Konqueror ব্যৱহাৰ</h1> আপুনি কিধৰণে Konqueror -এ এটা নথিপত্ৰ ব্যৱস্থাপক "
-"হিচাপে "
-"ব্যৱহাৰ কৰে সেয়া সংৰূপণ কৰিব পাৰিব।"
+"হিচাপে ব্যৱহাৰ কৰে সেয়া সংৰূপণ কৰিব পাৰিব।"
 
 #: behaviour.cpp:49
 msgid "Misc Options"
@@ -39,8 +38,7 @@ msgid ""
 "folder, rather than showing that folder's contents in the current window."
 msgstr ""
 "যদি এই বিকল্প চেক কৰা হয়, Konqueror -এ এটা নতুন উইন্ডো খোলিব যেতিয়া আমি এটা "
-"ফোল্ডাৰ "
-"খোলো, বৰ্তমান উইন্ডোত সেই ফোল্ডাৰৰ সমলসমূহ দেখুৱাতকে।"
+"ফোল্ডাৰ খোলো, বৰ্তমান উইন্ডোত সেই ফোল্ডাৰৰ সমলসমূহ দেখুৱাতকে।"
 
 #: behaviour.cpp:82
 msgid "Show 'Delete' me&nu entries which bypass the trashcan"
@@ -54,11 +52,9 @@ msgid ""
 "and in the file manager's menus and context menus. You can always delete "
 "files by holding the Shift key while calling 'Move to Trash'."
 msgstr ""
-"ইয়াক চেক কৰক যদি আপুনি 'মচি পেলাওক' মেনুৰ কমান্ডসমূহক ডেস্কটপ আৰু নথিপত্ৰ "
-"ব্যৱস্থাপকৰ মেনুসমূহ "
-"আৰু পৰিপ্ৰেক্ষতিত মেনুসমূহত প্ৰদৰ্শন কৰাব বিচাৰে। আপুনি 'আবৰ্জনা লে পঠাওক' "
-"কল কৰোতে Shift কি দবাই "
-"ৰাখি সদায় নথিপত্ৰসমূহক মচি পেলাব পাৰিব। "
+"ইয়াক চেক কৰক যদি আপুনি 'মচি পেলাওক' মেনুৰ কমান্ডসমূহক ডেস্কটপ আৰু নথিপত্ৰ ব্যৱস্থাপকৰ "
+"মেনুসমূহ আৰু পৰিপ্ৰেক্ষতিত মেনুসমূহত প্ৰদৰ্শন কৰাব বিচাৰে। আপুনি 'আবৰ্জনা লে পঠাওক' কল "
+"কৰোতে Shift কি দবাই ৰাখি সদায় নথিপত্ৰসমূহক মচি পেলাব পাৰিব। "
 
 #: kcustommenueditor.cpp:96
 msgctxt "@title:window"
@@ -84,5 +80,3 @@ msgstr "উপৰলে স্থানান্তৰ কৰক"
 #: kcustommenueditor.cpp:109
 msgid "Move Down"
 msgstr "তললে স্থানান্তৰ কৰক"
-
-

@@ -225,5 +225,3 @@ msgstr ""
 #: scrnsave.cpp:382
 msgid "Loading..."
 msgstr ""
-
-

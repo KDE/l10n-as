@@ -21,11 +21,9 @@ msgid ""
 "Finds files, documents and other content that matches :q: using the desktop "
 "search system."
 msgstr ""
-"ডেস্কটপ সন্ধান চিস্টেমৰে :q: -ৰ লগত মিল খোৱা নথিপত্ৰসমূহ, দস্তাবেজসমূহ আৰু "
-"অন্য সমল বিচাৰক।"
+"ডেস্কটপ সন্ধান চিস্টেমৰে :q: -ৰ লগত মিল খোৱা নথিপত্ৰসমূহ, দস্তাবেজসমূহ আৰু অন্য সমল "
+"বিচাৰক।"
 
 #: nepomuksearchrunner.cpp:160
 msgid "Open"
 msgstr "খোলক"
-
-

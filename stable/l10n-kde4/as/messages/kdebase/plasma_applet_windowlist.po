@@ -51,5 +51,3 @@ msgstr "সকলো ডেস্কটপত"
 #: WindowList.cpp:287
 msgid "No windows"
 msgstr "কোনো উইন্ডো নাই"
-
-

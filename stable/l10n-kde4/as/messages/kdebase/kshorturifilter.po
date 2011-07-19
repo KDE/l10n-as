@@ -30,5 +30,3 @@ msgstr "<qt><b>%1</b> নামৰ কোনো ব্যৱহাৰকাৰ�
 #, kde-format
 msgid "<qt>The file or folder <b>%1</b> does not exist.</qt>"
 msgstr "<qt> নথিপত্ৰ অথবা ফোল্ডাৰ <b>%1</b> অস্তিত্ববান নহয়। </qt>"
-
-

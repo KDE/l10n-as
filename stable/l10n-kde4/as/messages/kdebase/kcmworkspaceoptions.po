@@ -85,5 +85,3 @@ msgstr ""
 #: workspaceoptions.cpp:52
 msgid "Maintainer"
 msgstr ""
-
-

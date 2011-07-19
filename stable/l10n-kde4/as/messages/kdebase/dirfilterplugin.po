@@ -61,5 +61,3 @@ msgstr "অতিৰিক্ত টুলবাৰ"
 #: rc.cpp:9
 msgid "Filter Toolbar"
 msgstr "পৰিস্ৰাৱক টুলবাৰ"
-
-

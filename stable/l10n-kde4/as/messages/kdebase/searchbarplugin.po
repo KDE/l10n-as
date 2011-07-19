@@ -72,5 +72,3 @@ msgstr ""
 #: WebShortcutWidget.cpp:76
 msgid "Cancel"
 msgstr ""
-
-

@@ -43,5 +43,3 @@ msgstr "ngoswami@redhat.com"
 #: rc.cpp:5
 msgid "&File"
 msgstr "নথিপত্ৰ (&F)"
-
-

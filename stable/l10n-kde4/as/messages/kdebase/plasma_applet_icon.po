@@ -43,5 +43,3 @@ msgstr "ইয়াত লিঙ্ক কৰক\t<shortcut>%1</shortcut> (&L)"
 msgctxt "@action:inmenu"
 msgid "Cancel"
 msgstr "বাতিল কৰক"
-
-

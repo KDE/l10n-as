@@ -1533,5 +1533,3 @@ msgstr ""
 #: rc.cpp:780
 msgid "Mouse Tracking:"
 msgstr ""
-
-

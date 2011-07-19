@@ -51,5 +51,3 @@ msgstr "অবিকল্পিত মান"
 #: kreadconfig.cpp:69
 msgid "Type of variable"
 msgstr "চলকৰ ধৰণ"
-
-

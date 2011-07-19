@@ -19,5 +19,3 @@ msgstr ""
 #: servicerunner.cpp:39
 msgid "Finds applications whose name or description match :q:"
 msgstr "অনুপ্ৰয়োগসমূহ যাৰ নাম অথবা বিৱৰণ :q: -ৰ লগত মিল খায় বিচাৰক"
-
-

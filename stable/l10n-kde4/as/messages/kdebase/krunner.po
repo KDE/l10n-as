@@ -403,5 +403,3 @@ msgstr ""
 #: rc.cpp:61
 msgid "Preview"
 msgstr ""
-
-

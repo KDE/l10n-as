@@ -31,5 +31,3 @@ msgstr "কাৰ্য্য ব্যৱহাৰকাৰী দ্বাৰ�
 msgctxt "Byes per second"
 msgid "%1/s"
 msgstr "%1/s"
-
-

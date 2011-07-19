@@ -1858,5 +1858,3 @@ msgstr ""
 #: ZModemDialog.cpp:35
 msgid "&Stop"
 msgstr ""
-
-

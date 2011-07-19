@@ -653,5 +653,3 @@ msgstr ""
 #: rc.cpp:195
 msgid "Move &Up"
 msgstr ""
-
-

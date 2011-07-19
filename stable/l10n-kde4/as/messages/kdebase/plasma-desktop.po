@@ -348,5 +348,3 @@ msgstr ""
 #: activitymanager/filterbar.cpp:216
 msgid "Get New Templates..."
 msgstr ""
-
-

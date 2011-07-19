@@ -155,5 +155,3 @@ msgstr ""
 #: rc.cpp:44
 msgid "&Identify All Displays"
 msgstr ""
-
-

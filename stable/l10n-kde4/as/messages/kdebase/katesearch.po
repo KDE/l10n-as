@@ -145,5 +145,3 @@ msgstr ""
 #: rc.cpp:44
 msgid "Folder"
 msgstr ""
-
-

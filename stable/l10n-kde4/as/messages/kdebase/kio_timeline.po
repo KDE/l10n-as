@@ -31,8 +31,7 @@ msgid ""
 "The Nepomuk Strigi file indexing service is not running. Without it timeline "
 "results are not available."
 msgstr ""
-"Nepomuk Strigi নথিপত্ৰ সূচক সেৱা চলি থকা নাই। ইয়াৰ বাহিৰে ফলাফলসমূহ উপলব্ধ "
-"নহয়।"
+"Nepomuk Strigi নথিপত্ৰ সূচক সেৱা চলি থকা নাই। ইয়াৰ বাহিৰে ফলাফলসমূহ উপলব্ধ নহয়।"
 
 #: kio_timeline.cpp:135
 msgid "Today"
@@ -41,5 +40,3 @@ msgstr "আজি"
 #: kio_timeline.cpp:136 kio_timeline.cpp:248
 msgid "Calendar"
 msgstr "কেলেন্ডাৰ"
-
-

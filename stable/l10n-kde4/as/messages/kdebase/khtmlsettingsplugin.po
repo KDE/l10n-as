@@ -95,5 +95,3 @@ msgstr ""
 msgctxt "@title:window"
 msgid "Cookies Disabled"
 msgstr ""
-
-

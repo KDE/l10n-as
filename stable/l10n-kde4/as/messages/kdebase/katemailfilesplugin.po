@@ -108,5 +108,3 @@ msgstr ""
 #: rc.cpp:5
 msgid "&File"
 msgstr ""
-
-

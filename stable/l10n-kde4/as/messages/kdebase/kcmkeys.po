@@ -154,5 +154,3 @@ msgstr ""
 #: rc.cpp:27
 msgid "&Path:"
 msgstr ""
-
-

@@ -45,5 +45,3 @@ msgstr "সঁজুলিসমূহ (&T)"
 #: rc.cpp:6
 msgid "Speech Toolbar"
 msgstr "কথা টুলবাৰ"
-
-

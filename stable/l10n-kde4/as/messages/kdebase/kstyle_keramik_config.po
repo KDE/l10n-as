@@ -23,5 +23,3 @@ msgstr "স্ক্ৰল বাৰ হাতলসমূহ উজ্জ্ব
 #: keramikconf.cpp:51
 msgid "Animate progress bars"
 msgstr "প্ৰগতি বাৰসমূহ জীৱন্ত কৰক"
-
-

@@ -43,5 +43,3 @@ msgstr ""
 #: randrmonitor.cpp:127
 msgid "&Ignore"
 msgstr ""
-
-

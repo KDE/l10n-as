@@ -43,5 +43,3 @@ msgstr "ngoswami@redhat.com"
 #: rc.cpp:5
 msgid "&Tools"
 msgstr "সঁজুলিসমূহ (&T)"
-
-

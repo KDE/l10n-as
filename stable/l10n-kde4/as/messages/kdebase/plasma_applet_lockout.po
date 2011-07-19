@@ -91,5 +91,3 @@ msgstr ""
 #: rc.cpp:18
 msgid "Sleep"
 msgstr ""
-
-

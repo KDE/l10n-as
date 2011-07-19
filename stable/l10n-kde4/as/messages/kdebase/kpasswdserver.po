@@ -31,5 +31,3 @@ msgstr "পুনৰ চেষ্টা কৰক"
 #: kpasswdserver.cpp:579
 msgid "Authorization Dialog"
 msgstr "অনুমোদন ডাইলগ"
-
-

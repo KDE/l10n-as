@@ -145,5 +145,3 @@ msgstr ""
 #, kde-format
 msgid "Could not read link: %1"
 msgstr ""
-
-

@@ -50,8 +50,7 @@ msgid ""
 "Nepomuk Semantic Desktop needs the Virtuoso RDF server to store its data. "
 "Installing the Virtuoso Soprano plugin is mandatory for using Nepomuk."
 msgstr ""
-"Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ "
-"প্ৰয়োজন। "
+"Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ প্ৰয়োজন। "
 "Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso Soprano প্লাগিন ইনস্টল কৰা বাধ্যতামূলক।"
 
 #: repository.cpp:122
@@ -61,10 +60,8 @@ msgid ""
 "Installing the Virtuoso server and ODBC driver is mandatory for using "
 "Nepomuk."
 msgstr ""
-"Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ "
-"প্ৰয়োজন। "
-"Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso চাৰ্ভাৰ আৰু ODBC ড্ৰাইভাৰ ইনস্টল কৰা "
-"বাধ্যতামূলক।"
+"Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ প্ৰয়োজন। "
+"Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso চাৰ্ভাৰ আৰু ODBC ড্ৰাইভাৰ ইনস্টল কৰা বাধ্যতামূলক।"
 
 #: repository.cpp:257
 #, kde-format
@@ -74,17 +71,14 @@ msgid ""
 "data can thus not be accessed. For data security reasons Nepomuk will be "
 "disabled until the situation has been resolved manually."
 msgstr ""
-"Nepomuk -এ সংৰূপীত ডাটাবেইচ পিছপ্ৰান্ত '%1' পোৱা নাছিল। অস্তিত্ববান সেয়েহে "
-"অভিগম কৰিব নোৱাৰি। "
-"তথ্য সুৰক্ষা কাৰণসমূহৰ বাবে Nepomuk অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে "
-"পৰিস্থিতি হস্তচালিতভাৱে "
-"সমাধান হোৱা নাই।"
+"Nepomuk -এ সংৰূপীত ডাটাবেইচ পিছপ্ৰান্ত '%1' পোৱা নাছিল। অস্তিত্ববান সেয়েহে অভিগম "
+"কৰিব নোৱাৰি। তথ্য সুৰক্ষা কাৰণসমূহৰ বাবে Nepomuk অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে "
+"পৰিস্থিতি হস্তচালিতভাৱে সমাধান হোৱা নাই।"
 
 #: repository.cpp:291
 msgctxt "@info - notification message"
 msgid "Converting Nepomuk data to a new backend. This might take a while."
-msgstr ""
-"Nepomuk তথ্যক এটা নতুন পিছপ্ৰান্তলে পৰিৱৰ্তন কৰা হৈ আছে। ই কিছু সময় লব পাৰে।"
+msgstr "Nepomuk তথ্যক এটা নতুন পিছপ্ৰান্তলে পৰিৱৰ্তন কৰা হৈ আছে। ই কিছু সময় লব পাৰে।"
 
 #: repository.cpp:304
 msgctxt "@info - notification message"
@@ -92,13 +86,11 @@ msgid ""
 "Converting Nepomuk data to the new backend failed. For data security reasons "
 "Nepomuk will be disabled until the situation has been resolved manually."
 msgstr ""
-"Nepomuk তথ্যক নতুন পিছপ্ৰান্তলে পৰিবৰ্তন কৰা ব্যৰ্থ হল। তথ্য সুৰক্ষা "
-"কাৰণসমূহৰ বাবে Nepomuk "
-"অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে পৰিস্থিতি হস্তচালিতভাৱে সমাধান হোৱা নাই।"
+"Nepomuk তথ্যক নতুন পিছপ্ৰান্তলে পৰিবৰ্তন কৰা ব্যৰ্থ হল। তথ্য সুৰক্ষা কাৰণসমূহৰ বাবে "
+"Nepomuk অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে পৰিস্থিতি হস্তচালিতভাৱে সমাধান হোৱা "
+"নাই।"
 
 #: repository.cpp:318
 msgctxt "@info - notification message"
 msgid "Successfully converted Nepomuk data to the new backend."
 msgstr "Nepomuk তথ্যক সফলভাৱে নতুন পিছপ্ৰান্ত লে পৰিৱৰ্তন কৰা হল।"
-
-

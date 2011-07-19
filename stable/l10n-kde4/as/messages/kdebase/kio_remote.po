@@ -19,5 +19,3 @@ msgstr ""
 #: remoteimpl.cpp:189
 msgid "Add Network Folder"
 msgstr "নেটৱাৰ্ক ফোল্ডাৰ যোগ কৰক"
-
-

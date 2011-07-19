@@ -168,5 +168,3 @@ msgstr ""
 #: rc.cpp:23
 msgid "Current local time zone:"
 msgstr ""
-
-

@@ -51,5 +51,3 @@ msgstr "পৃষ্ঠা আনলক কৰক"
 #: newspaper.cpp:337
 msgid "Lock Page"
 msgstr "পৃষ্ঠা লক কৰক"
-
-

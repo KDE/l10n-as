@@ -325,4 +325,3 @@ msgstr ""
 #: os_current.h:110 os_current.h:121 os_current.h:131 os_current.h:141
 msgid "This system may not be completely supported yet."
 msgstr ""
-

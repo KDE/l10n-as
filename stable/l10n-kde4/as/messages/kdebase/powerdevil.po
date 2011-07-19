@@ -288,7 +288,8 @@ msgstr ""
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
 #: powerdevilcore.cpp:466
-msgid "Your battery level is critical, the computer will be halted in 30 seconds."
+msgid ""
+"Your battery level is critical, the computer will be halted in 30 seconds."
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰটো ৩০ ছেকেণ্ডত ৰখাই দিয়া হব।"
 
 #: powerdevilcore.cpp:472
@@ -298,7 +299,8 @@ msgid ""
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰটো ৩০ ছেকেণ্ডত হাইবাৰনেইট কৰা হব।"
 
 #: powerdevilcore.cpp:478
-msgid "Your battery level is critical, the computer will be suspended in 30 seconds."
+msgid ""
+"Your battery level is critical, the computer will be suspended in 30 seconds."
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰ ৩০ ছেকেণ্ডত বাতিল কৰা হব।"
 
 #: powerdevilcore.cpp:484

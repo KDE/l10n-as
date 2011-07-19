@@ -67,5 +67,3 @@ msgstr "সকলো ডেস্কটপত"
 #: kwindowlistmenu.cpp:186
 msgid "No Windows"
 msgstr "কোনো উইন্ডো নাই"
-
-
