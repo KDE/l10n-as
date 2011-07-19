@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-24 06:19+0200\n"
-"PO-Revision-Date: 2011-07-18 21:01+0530\n"
+"PO-Revision-Date: 2011-07-19 16:00+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,37 +23,40 @@ msgid ""
 "Starts a random screen saver.\n"
 "Any arguments (except -setup) are passed on to the screen saver."
 msgstr ""
+"ব্যৱহাৰ: %1 [-setup] [args]\n"
+"এটা যাদৃচ্ছিক স্ক্ৰিনচেইভাৰ আৰম্ভ কৰক।\n"
+"যিকোনো তৰ্ক (-setup -ৰ বাহিৰে) স্ক্ৰিনচেইভাৰলে প্ৰদান কৰা হয়।"
 
 #: random.cpp:52
 msgid "Start a random KDE screen saver"
-msgstr ""
+msgstr "এটা যাদৃচ্ছিক KDE স্ক্ৰিনচেইভাৰ আৰম্ভ কৰক"
 
 #: random.cpp:67
 msgid "Random screen saver"
-msgstr ""
+msgstr "যাদৃচ্ছিক স্ক্ৰিনচেইভাৰ"
 
 #: random.cpp:73
 msgid "Setup screen saver"
-msgstr ""
+msgstr "স্ক্ৰিনচেইভাৰ সংস্থাপন কৰক"
 
 #: random.cpp:75
 msgid "Run in the specified XWindow"
-msgstr ""
+msgstr "ধাৰ্য্যত XWindow চলোৱা"
 
 #: random.cpp:77
 msgid "Run in the root XWindow"
-msgstr ""
+msgstr "ৰুট XWindow -ত চলোৱা"
 
 #: random.cpp:179
 msgid "Setup Random Screen Saver"
-msgstr ""
+msgstr "যাদৃচ্ছিক স্ক্ৰিনচেইভাৰ সংস্থাপন কৰক"
 
 #: random.cpp:187
 msgid "Use OpenGL screen savers"
-msgstr ""
+msgstr "OpenGL সক্ৰিনচেইভাৰসমূহ ব্যৱহাৰ কৰক"
 
 #: random.cpp:190
 msgid "Use screen savers that manipulate the screen"
-msgstr ""
+msgstr "যি স্ক্ৰিনচেইভাৰসমূহ পৰ্দা সলনি কৰে ব্যৱহাৰ কৰক"
 
 
