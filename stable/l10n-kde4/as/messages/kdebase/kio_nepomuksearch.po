@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-11 02:35+0100\n"
-"PO-Revision-Date: 2011-07-18 21:03+0530\n"
+"PO-Revision-Date: 2011-07-19 13:12+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,40 +18,41 @@ msgstr ""
 
 #: kio_nepomuksearch.cpp:71
 msgid "Query folder"
-msgstr ""
+msgstr "প্ৰশ্ন ফোল্ডাৰ"
 
 #: kio_nepomuksearch.cpp:145
 msgid ""
 "The Nepomuk system is not activated. Unable to answer queries without it."
-msgstr ""
+msgstr "Nepomuk চিস্টেম সক্ৰিয় নহয়। ইয়াৰ বাহিৰে প্ৰশ্নৰ উত্তৰ দিবলে অক্ষম।"
 
 #: kio_nepomuksearch.cpp:151
 msgid ""
 "The Nepomuk query service is not running. Unable to answer queries without "
 "it."
 msgstr ""
+"Nepomuk প্ৰশ্ন সেৱা চলি থকা নাই। ইয়াৰ বাহিৰে প্ৰশ্নৰ উত্তৰ দিবলে অক্ষম।"
 
 #: kio_nepomuksearch.cpp:261
 msgid "Desktop Queries"
-msgstr ""
+msgstr "ডেস্কটপ প্ৰশ্নসমূহ"
 
 #: kio_nepomuksearch.cpp:406
 msgid "Saved Query"
-msgstr ""
+msgstr "সংৰক্ষীত প্ৰশ্ন"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #: searchfolder.cpp:338
 #, kde-format
 msgid "Search excerpt: %1"
-msgstr ""
+msgstr "excerpt সন্ধান কৰক: %1"
 
 
