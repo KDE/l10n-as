@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-17 04:05+0200\n"
-"PO-Revision-Date: 2011-07-18 20:59+0530\n"
+"PO-Revision-Date: 2011-07-19 16:40+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,52 +20,52 @@ msgstr ""
 #, kde-format
 msgctxt "user: ..."
 msgid "%1: TTY login"
-msgstr ""
+msgstr "%1: TTY লগিন"
 
 #: kdisplaymanager.cpp:544
 msgctxt "... location (TTY or X display)"
 msgid "Unused"
-msgstr ""
+msgstr "অব্যৱহৃত"
 
 #: kdisplaymanager.cpp:546
 msgid "X login on remote host"
-msgstr ""
+msgstr "দূৰৱৰ্তী হস্টত X লগিন"
 
 #: kdisplaymanager.cpp:547
 #, kde-format
 msgctxt "... host"
 msgid "X login on %1"
-msgstr ""
+msgstr "%1 -ত X লগিন"
 
 #: kdisplaymanager.cpp:550
 #, kde-format
 msgctxt "user: session type"
 msgid "%1: %2"
-msgstr ""
+msgstr "%1: %2"
 
 #: kdisplaymanager.cpp:565
 #, kde-format
 msgctxt "session (location)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: kwindowlistmenu.cpp:102
 msgctxt ""
 "Action that reorganizes the windows to try to have them less cluttered"
 msgid "Unclutter Windows"
-msgstr ""
+msgstr "Unclutter উইন্ডোসমূহ"
 
 #: kwindowlistmenu.cpp:104
 msgctxt "Action that reorganizes the windows so that they are in cascade"
 msgid "Cascade Windows"
-msgstr ""
+msgstr "Cascade উইন্ডোসমূহ"
 
 #: kwindowlistmenu.cpp:159
 msgid "On All Desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপত"
 
 #: kwindowlistmenu.cpp:186
 msgid "No Windows"
-msgstr ""
+msgstr "কোনো উইন্ডো নাই"
 
 
