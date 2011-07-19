@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:06+0530\n"
+"PO-Revision-Date: 2011-07-19 12:43+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,8 @@ msgid ""
 "Could not open the file, probably due to an unsupported file format.\n"
 "%1"
 msgstr ""
+"নথিপত্ৰটো খোলিব নোৱাৰি, সম্ভবত এটা অসমৰ্থিত নথিপত্ৰ বিন্যাসৰ বাবে। \n"
+"%1"
 
 #: kio_archive.cpp:461
 #, kde-format
@@ -30,5 +32,7 @@ msgid ""
 "unsupported.\n"
 "%1"
 msgstr ""
+"আৰ্কাইভ নথিপত্ৰটো খোলিব নোৱাৰি, সম্ভবত বিন্যাসটো অসমৰ্থিত হোৱা বাবে।\n"
+"%1"
 
 
