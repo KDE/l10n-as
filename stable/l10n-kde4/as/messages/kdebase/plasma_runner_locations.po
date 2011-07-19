@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-06 02:18+0100\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:47+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,20 +21,23 @@ msgid ""
 "Finds local directories and files, network locations and Internet sites with "
 "paths matching :q:."
 msgstr ""
+":q: -ৰ হৈতে মিল খোৱা পথসমূহৰেস্থানীয় ডাইৰেকটৰি আৰু নথিপত্ৰসমূহ, নেটৱাৰ্ক "
+"অৱস্থান আৰু "
+"ইন্টাৰনেট ছাইটসমূহ বিচাৰক।"
 
 #: locationrunner.cpp:115 locationrunner.cpp:137
 #, kde-format
 msgid "Open %1"
-msgstr ""
+msgstr "%1 খোলক"
 
 #: locationrunner.cpp:155 locationrunner.cpp:164
 #, kde-format
 msgid "Go to %1"
-msgstr ""
+msgstr "%1 লে যাওক"
 
 #: locationrunner.cpp:161
 #, kde-format
 msgid "Launch with %1"
-msgstr ""
+msgstr "%1 -ৰ হৈতে লঞ্চ কৰক"
 
 
