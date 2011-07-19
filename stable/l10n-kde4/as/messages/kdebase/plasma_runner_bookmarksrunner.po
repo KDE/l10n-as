@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-03 02:09+0100\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:14+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,20 +18,20 @@ msgstr ""
 
 #: bookmarksrunner.cpp:47
 msgid "Finds web browser bookmarks matching :q:."
-msgstr ""
+msgstr ":q: -ৰ লগত মিল খোৱা ৱেব ব্ৰাউছাৰ পত্ৰচিহ্নসমূহ বিচাৰে।"
 
 #: bookmarksrunner.cpp:48
 msgctxt "list of all web browser bookmarks"
 msgid "bookmarks"
-msgstr ""
+msgstr "পত্ৰচিহ্নসমূহ"
 
 #: bookmarksrunner.cpp:49
 msgid "List all web browser bookmarks"
-msgstr ""
+msgstr "সকলো ৱেব ব্ৰাউছাৰ পত্ৰচিহ্ন তালিকাভুক্ত কৰক"
 
 #: bookmarksrunner.cpp:184
 msgctxt "list of all konqueror bookmarks"
 msgid "bookmarks"
-msgstr ""
+msgstr "পত্ৰচিহ্নসমূহ"
 
 
