@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-11-11 06:13+0100\n"
-"PO-Revision-Date: 2011-07-18 20:53+0530\n"
+"PO-Revision-Date: 2011-07-19 18:34+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,15 +18,15 @@ msgstr ""
 
 #: notificationaction.cpp:30
 msgid "The notification dataEngine is not set."
-msgstr ""
+msgstr "সংকেতিক তথ্যইজ্ঞীন সংহতি কৰা হোৱা নাই।"
 
 #: notificationaction.cpp:40
 #, kde-format
 msgid "Invalid destination: %1"
-msgstr ""
+msgstr "অবৈধ লক্ষ্য: %1"
 
 #: notificationsengine.cpp:145
 msgid "Unknown Application"
-msgstr ""
+msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
 
 
