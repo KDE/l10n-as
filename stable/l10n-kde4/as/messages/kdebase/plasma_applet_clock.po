@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-13 02:10+0100\n"
-"PO-Revision-Date: 2011-07-18 20:57+0530\n"
+"PO-Revision-Date: 2011-07-19 17:34+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,42 +18,42 @@ msgstr ""
 
 #: clock.cpp:185
 msgid "Appearance"
-msgstr ""
+msgstr "ৰূপ"
 
 #. i18n: file: clockConfig.ui:22
 #. i18n: ectx: property (toolTip), widget (QCheckBox, showSecondHandCheckBox)
 #: rc.cpp:3
 msgid "Show the seconds"
-msgstr ""
+msgstr "ছেকেণ্ডসমূহ দেখুৱাওক"
 
 #. i18n: file: clockConfig.ui:25
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, showSecondHandCheckBox)
 #: rc.cpp:6
 msgid "Check this if you want to show the seconds."
-msgstr ""
+msgstr "ইয়াক চেক কৰক যদি আপুনি ছেকেণ্ডসমূহ দেখুৱাব বিচাৰে।"
 
 #. i18n: file: clockConfig.ui:28
 #. i18n: ectx: property (text), widget (QCheckBox, showSecondHandCheckBox)
 #: rc.cpp:9
 msgid "Show &seconds hand"
-msgstr ""
+msgstr "ছেকেণ্ডৰ হাত দেখুৱাওক (&s)"
 
 #. i18n: file: clockConfig.ui:35
 #. i18n: ectx: property (toolTip), widget (QCheckBox, showTimezoneStringCheckBox)
 #: rc.cpp:12
 msgid "Show the Timezone in text"
-msgstr ""
+msgstr "সময়অঞ্চল লিখনীত দেখুৱাওক"
 
 #. i18n: file: clockConfig.ui:38
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, showTimezoneStringCheckBox)
 #: rc.cpp:15
 msgid "Check this if you want to display Timezone in text."
-msgstr ""
+msgstr "ইয়াক চেক কৰক যদি আপুনি সময়অঞ্চল লিখনীত দেখাব বিচাৰে।"
 
 #. i18n: file: clockConfig.ui:41
 #. i18n: ectx: property (text), widget (QCheckBox, showTimezoneStringCheckBox)
 #: rc.cpp:18
 msgid "Show &time zone"
-msgstr ""
+msgstr "সময় অঞ্চল দেখুৱাওক (&t)"
 
 
