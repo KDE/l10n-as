@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-09-09 06:03+0200\n"
-"PO-Revision-Date: 2011-07-18 20:54+0530\n"
+"PO-Revision-Date: 2011-07-19 18:13+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,30 +18,30 @@ msgstr ""
 
 #: menu.cpp:98
 msgid "Run Command..."
-msgstr ""
+msgstr "কমান্ড চলাওক..."
 
 #: menu.cpp:102
 msgid "Lock Screen"
-msgstr ""
+msgstr "পৰ্দা লক কৰক"
 
 #: menu.cpp:106
 msgid "Leave..."
-msgstr ""
+msgstr "এৰি দিওক..."
 
 #: menu.cpp:257
 msgid "Configure Contextual Menu Plugin"
-msgstr ""
+msgstr "পৰিপ্ৰেক্ষতিত মেনু প্লাগিন সংৰূপণ কৰক"
 
 #: menu.cpp:267
 msgid "[Other Actions]"
-msgstr ""
+msgstr "[অন্য কাৰ্য্যসমূহ]"
 
 #: menu.cpp:270
 msgid "Wallpaper Actions"
-msgstr ""
+msgstr "ৱালপেপাৰ কাৰ্য্যসমূহ"
 
 #: menu.cpp:274
 msgid "[Separator]"
-msgstr ""
+msgstr "[বিভাজক]"
 
 
