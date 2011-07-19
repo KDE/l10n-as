@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-22 05:43+0200\n"
-"PO-Revision-Date: 2011-07-18 21:00+0530\n"
+"PO-Revision-Date: 2011-07-19 16:17+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,32 +19,32 @@ msgstr ""
 #: lsof.cpp:21
 msgctxt "Short for File Descriptor"
 msgid "FD"
-msgstr ""
+msgstr "FD"
 
 #. i18n: file: LsofSearchWidget.ui:28
 #. i18n: ectx: property (text), widget (KLsofWidget, klsofwidget)
 #: lsof.cpp:21 rc.cpp:6
 msgid "Type"
-msgstr ""
+msgstr "ধৰণ"
 
 #: lsof.cpp:21
 msgid "Object"
-msgstr ""
+msgstr "অবজেক্ট"
 
 #: LsofSearchWidget.cpp:36
 msgid "Renice Process"
-msgstr ""
+msgstr "Renice প্ৰক্ৰিয়া"
 
 #. i18n: file: LsofSearchWidget.ui:23
 #. i18n: ectx: property (text), widget (KLsofWidget, klsofwidget)
 #: rc.cpp:3
 msgid "Stream"
-msgstr ""
+msgstr "স্ট্ৰিম"
 
 #. i18n: file: LsofSearchWidget.ui:33
 #. i18n: ectx: property (text), widget (KLsofWidget, klsofwidget)
 #: rc.cpp:9
 msgid "Filename"
-msgstr ""
+msgstr "নথিপত্ৰপ্ৰণালী"
 
 
