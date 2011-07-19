@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:07+0530\n"
+"PO-Revision-Date: 2011-07-19 12:37+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,6 @@ msgstr ""
 #: kgreet_generic.cpp:350
 msgctxt "@item:inmenu authentication method"
 msgid "Generic"
-msgstr ""
+msgstr "বৰ্গীয়"
 
 
