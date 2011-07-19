@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-01 03:57+0200\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:08+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,44 +18,44 @@ msgstr ""
 
 #: main.cpp:28
 msgid "Trigger the installation of a remote Plasma Widget"
-msgstr ""
+msgstr "এটা দূৰৱৰ্তী প্লাচমা উইজেটৰ ইনস্টল ট্ৰিগাৰ কৰক"
 
 #: main.cpp:54
 msgid "Plasma Remote Widget Helper"
-msgstr ""
+msgstr "প্লাচমা দূৰৱৰ্তী উইজেট সহায়ক"
 
 #: main.cpp:56
 msgid "(C) 2011 Kevin Ottens"
-msgstr ""
+msgstr "(C) ২০১১ কেভিন অটেন্চ"
 
 #: main.cpp:57
 msgid "Kevin Ottens"
-msgstr ""
+msgstr "কেভিন অটেন্চ"
 
 #: main.cpp:58
 msgid "Original author"
-msgstr ""
+msgstr "প্ৰকৃত লেখক"
 
 #: main.cpp:66
 msgid "URL to the Plasma Remote Widget."
-msgstr ""
+msgstr "প্লাচমা দূৰৱৰ্তী উইজেটলে URL"
 
 #: main.cpp:73
 msgid "Syntax Error: Not enough arguments"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: পৰ্যাপ্ত তৰ্ক নাই"
 
 #: main.cpp:75
 msgid "Syntax Error: Too many arguments"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: বহু বেছি তৰ্ক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
