@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:06+0530\n"
+"PO-Revision-Date: 2011-07-19 12:40+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: kio_applications.cpp:119
 msgid "Applications"
-msgstr ""
+msgstr "অনুপ্ৰয়োগসমূহ"
 
 #: kio_applications.cpp:119
 msgid "Programs"
-msgstr ""
+msgstr "প্ৰগ্ৰামসমূহ"
 
 #: kio_applications.cpp:126
 msgid "Unknown application folder"
-msgstr ""
+msgstr "অজ্ঞাত অনুপ্ৰয়োগ সন্ধানকাৰী"
 
 
