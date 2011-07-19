@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 05:01+0200\n"
-"PO-Revision-Date: 2011-07-18 20:58+0530\n"
+"PO-Revision-Date: 2011-07-19 16:44+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,22 +18,22 @@ msgstr ""
 
 #: minitoolsplugin.cpp:50
 msgid "&Minitools"
-msgstr ""
+msgstr "Minitools (&M)"
 
 #: minitoolsplugin.cpp:120
 msgid "&Edit Minitools"
-msgstr ""
+msgstr "Minitools সম্পাদন কৰক (&E)"
 
 #. i18n: file: minitoolsplugin.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:3
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: minitoolsplugin.rc:8
 #. i18n: ectx: ToolBar (extraToolBar)
 #: rc.cpp:6
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "অতিৰিক্ত টুলবাৰ"
 
 
