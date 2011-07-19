@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:02+0530\n"
+"PO-Revision-Date: 2011-07-19 15:32+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,24 +18,27 @@ msgstr ""
 
 #: kmimetypefinder.cpp:32
 msgid "MimeType Finder"
-msgstr ""
+msgstr "MimeType সন্ধানকাৰী"
 
 #: kmimetypefinder.cpp:32
 msgid "Gives the mimetype for a given file"
-msgstr ""
+msgstr "এটা প্ৰদান কৰা নথিপত্ৰৰ বাবে mimetype দিয়ে"
 
 #: kmimetypefinder.cpp:37
 msgid "Use only the file content for determining the mimetype."
-msgstr ""
+msgstr "mimetype নিৰ্ধাৰন কৰিবলে কেৱল নথিপত্ৰ সমল ব্যৱহাৰ কৰক।"
 
 #: kmimetypefinder.cpp:38
 msgid ""
 "Whether use the file name only for determining the mimetype. Not used if -c "
 "is specified."
 msgstr ""
+"mimetype নিৰ্ধাৰন কৰিবলে কেৱল নথিপত্ৰ নাম ব্যৱহাৰ কৰা হব নে। ব্যৱহাৰ কৰা "
+"নহয় যদি -c "
+"দিয়া থাকে।"
 
 #: kmimetypefinder.cpp:39
 msgid "The filename to test. '-' to read from stdin."
-msgstr ""
+msgstr "পৰিক্ষা কৰিবলে নথিপত্ৰনাম। stdin -ৰ পৰা পঢ়িবলে '-'।"
 
 
