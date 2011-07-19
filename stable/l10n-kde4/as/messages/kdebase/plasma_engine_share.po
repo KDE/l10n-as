@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-11 02:36+0100\n"
-"PO-Revision-Date: 2011-07-18 20:53+0530\n"
+"PO-Revision-Date: 2011-07-19 19:04+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,54 +18,54 @@ msgstr ""
 
 #: share_package.cpp:31
 msgid "Executable Scripts"
-msgstr ""
+msgstr "প্ৰেৰণ কৰিব পৰা স্ক্ৰিপ্টসমূহ"
 
 #: share_package.cpp:36
 msgid "Main Script File"
-msgstr ""
+msgstr "মূখ্য স্ক্ৰিপ্ট নথিপত্ৰ"
 
 #: shareprovider.cpp:162
 msgid "Could not detect the file's mimetype"
-msgstr ""
+msgstr "নথিপত্ৰৰ mimetype ধৰা পেলাব নোৱাৰি"
 
 #: shareprovider.cpp:189
 msgid "It was not possible to read the selected file"
-msgstr ""
+msgstr "নিৰ্বাচিত নথিপত্ৰটো পঢ়া সম্ভব নাছিল"
 
 #: shareprovider.cpp:238
 msgid "Service was not available"
-msgstr ""
+msgstr "সেৱা উপলব্ধ নাছিল"
 
 #: shareprovider.cpp:265
 msgid "You must specify a URL for this service"
-msgstr ""
+msgstr "এই সেৱাৰ বাবে আপুনি এটা URL প্ৰদান কৰিব লাগিব"
 
 #: shareservice.cpp:64
 msgid "Could not find the provider with the specified destination"
-msgstr ""
+msgstr "ধাৰ্য্যত লক্ষ্যৰ হৈতে কোনো যোগানকাৰী বিচাৰি পোৱা নগল"
 
 #: shareservice.cpp:75
 msgid "Invalid path for the requested provider"
-msgstr ""
+msgstr "অনুৰোধিত যোগানকাৰীৰ বাবে অবৈধ পথ"
 
 #: shareservice.cpp:86
 msgid "Selected provider does not have a valid script file"
-msgstr ""
+msgstr "নিৰ্বাচিত যোগানকাৰীৰ এটা বৈধ স্ক্ৰিপ্ট নথিপত্ৰ নাই"
 
 #: shareservice.cpp:94
 msgid "Selected provider does not provide a supported script file"
-msgstr ""
+msgstr "নিৰ্বাচিত যোগানকাৰীয়ে এটা সমৰ্থিত স্ক্ৰিপ্ট নথিপত্ৰ প্ৰদান নকৰে"
 
 #: shareservice.cpp:117
 msgid "Error trying to execute script"
-msgstr ""
+msgstr "স্ক্ৰিপ্ট প্ৰেৰণ কৰাৰ চেষ্টা কৰোতে ত্ৰুটি"
 
 #: shareservice.cpp:125
 msgid "Could not find all required functions"
-msgstr ""
+msgstr "সকলো প্ৰয়োজনীয় ফলন পোৱা নগল"
 
 #: shareservice.cpp:173
 msgid "Unknown Error"
-msgstr ""
+msgstr "অজ্ঞাত ত্ৰুটি"
 
 
