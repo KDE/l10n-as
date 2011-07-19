@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-18 02:38+0100\n"
-"PO-Revision-Date: 2011-07-18 20:55+0530\n"
+"PO-Revision-Date: 2011-07-19 17:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,55 +18,55 @@ msgstr ""
 
 #: runnersconfig.cpp:41
 msgid "Available Features"
-msgstr ""
+msgstr "উপলব্ধ বৈশিষ্টসমূহ"
 
 #: sal.cpp:121
 msgid "Configure Search and Launch"
-msgstr ""
+msgstr "সন্ধান আৰু লঞ্চ সংৰূপণ কৰক"
 
 #: sal.cpp:133 sal.cpp:513
 msgid "Lock Page"
-msgstr ""
+msgstr "পৃষ্ঠা লক কৰক"
 
 #: sal.cpp:149
 msgid "Next activity"
-msgstr ""
+msgstr "পৰৱৰ্তী কাৰ্য্য"
 
 #: sal.cpp:151
 msgid "Previous activity"
-msgstr ""
+msgstr "পূৰ্বৱৰ্তী কাৰ্য্য"
 
 #: sal.cpp:204
 msgid "Back"
-msgstr ""
+msgstr "পিছলৈ"
 
 #: sal.cpp:216
 msgid "Search..."
-msgstr ""
+msgstr "সন্ধান কৰক..."
 
 #: sal.cpp:271
 msgid "Add applications"
-msgstr ""
+msgstr "অনুপ্ৰয়োগসমূহ যোগ কৰক"
 
 #: sal.cpp:506
 msgid "Unlock Page"
-msgstr ""
+msgstr "পৃষ্ঠা আনলক কৰক"
 
 #: sal.cpp:700
 msgctxt ""
 "Title of the page that lets the user choose the loaded krunner plugins"
 msgid "Search plugins"
-msgstr ""
+msgstr "প্লাগিনসমূহ বিচাৰক"
 
 #: sal.cpp:708
 msgctxt ""
 "Title of the page that lets the user choose what entries will be allowed in "
 "the main menu"
 msgid "Main menu"
-msgstr ""
+msgstr "মূখ্য মেনু"
 
 #: sal.cpp:722
 msgid "Keyboard Shortcut"
-msgstr ""
+msgstr "কিবৰ্ড চৰ্টকাট"
 
 
