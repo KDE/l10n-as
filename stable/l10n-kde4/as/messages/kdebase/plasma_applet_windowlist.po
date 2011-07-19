@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-09-09 06:03+0200\n"
-"PO-Revision-Date: 2011-07-18 20:54+0530\n"
+"PO-Revision-Date: 2011-07-19 18:10+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,38 +18,38 @@ msgstr ""
 
 #: WindowList.cpp:69
 msgid "Window list"
-msgstr ""
+msgstr "উইন্ডো তালিকা"
 
 #: WindowList.cpp:69
 msgid "Show list of opened windows"
-msgstr ""
+msgstr "খোলা উইন্ডোসমূহৰ তালিকা দেখুৱাওক"
 
 #: WindowList.cpp:196
 msgid "Actions"
-msgstr ""
+msgstr "কাৰ্য্যসমূহ"
 
 #: WindowList.cpp:198
 msgid "Unclutter Windows"
-msgstr ""
+msgstr "Unclutter উইন্ডোসমূহ"
 
 #: WindowList.cpp:199
 msgid "Cascade Windows"
-msgstr ""
+msgstr "Cascade উইন্ডোসমূহ"
 
 #: WindowList.cpp:248
 msgid "Desktops"
-msgstr ""
+msgstr "ডেস্কটপসমূহ"
 
 #: WindowList.cpp:258
 msgid "Current desktop"
-msgstr ""
+msgstr "বৰ্তমান ডেস্কটপ"
 
 #: WindowList.cpp:258
 msgid "On all desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপত"
 
 #: WindowList.cpp:287
 msgid "No windows"
-msgstr ""
+msgstr "কোনো উইন্ডো নাই"
 
 
