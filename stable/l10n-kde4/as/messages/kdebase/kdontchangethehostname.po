@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-07-09 04:50+0200\n"
-"PO-Revision-Date: 2011-07-18 21:08+0530\n"
+"PO-Revision-Date: 2011-07-19 13:17+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,48 +18,48 @@ msgstr ""
 
 #: khostname.cpp:72
 msgid "Error: HOME environment variable not set.\n"
-msgstr ""
+msgstr "ত্ৰটি: HOME পৰিৱেশ চলক সংহতি কৰা হোৱা নাই।\n"
 
 #: khostname.cpp:82
 msgid "Error: DISPLAY environment variable not set.\n"
-msgstr ""
+msgstr "ত্ৰুটি: DISPLAY পৰিৱেশ চলক সংহতি কৰা হোৱা নাই।\n"
 
 #: khostname.cpp:217
 msgid "KDontChangeTheHostName"
-msgstr ""
+msgstr "KDontChangeTheHostName"
 
 #: khostname.cpp:218
 msgid "Informs KDE about a change in hostname"
-msgstr ""
+msgstr "KDE -ক হস্টনামৰ এটা সলনিৰ বিষয়ে জাননী দিয়ে"
 
 #: khostname.cpp:219
 msgid "(c) 2001 Waldo Bastian"
-msgstr ""
+msgstr "(c) ২০০১ ৱাল্ডো বাস্টিয়ান"
 
 #: khostname.cpp:220
 msgid "Waldo Bastian"
-msgstr ""
+msgstr "ৱাল্ডো বাস্টিয়ান"
 
 #: khostname.cpp:220
 msgid "Author"
-msgstr ""
+msgstr "লেখক"
 
 #: khostname.cpp:223
 msgid "Old hostname"
-msgstr ""
+msgstr "পুৰনি হস্টনাম"
 
 #: khostname.cpp:224
 msgid "New hostname"
-msgstr ""
+msgstr "নতুন হস্টনাম"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
