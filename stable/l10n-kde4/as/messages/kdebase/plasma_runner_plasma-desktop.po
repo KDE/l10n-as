@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-03 06:03+0200\n"
-"PO-Revision-Date: 2011-07-18 20:52+0530\n"
+"PO-Revision-Date: 2011-07-19 19:57+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,21 +19,23 @@ msgstr ""
 #: plasma-desktop-runner.cpp:36
 msgctxt "Note this is a KRunner keyword"
 msgid "desktop console"
-msgstr ""
+msgstr "ডেস্কটপ কনচোল"
 
 #: plasma-desktop-runner.cpp:61
 msgid "Open Plasma desktop interactive console"
-msgstr ""
+msgstr "প্লাচমা ডেস্কটপ ভাৱ-বিনিময়ী কনচোল খোলক"
 
 #: plasma-desktop-runner.cpp:107 plasma-desktop-runner.cpp:110
 msgid ""
 "Opens the Plasma desktop interactive console with a file path to a script on "
 "disk."
 msgstr ""
+"ডিস্কত থকা এটা স্ক্ৰিপ্টলে নথিপত্ৰ পথৰ হৈতে প্লাচমা ডেস্কটপ ভাৱ-বিনিময়ী "
+"কনচোল খোলে।"
 
 #: plasma-desktop-runner.cpp:109
 msgctxt "Note this is a KRunner keyword"
 msgid "desktop console :q:"
-msgstr ""
+msgstr "ডেস্কটপ কনচোল :q:"
 
 
