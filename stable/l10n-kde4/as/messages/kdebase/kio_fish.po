@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-07-19 04:56+0200\n"
-"PO-Revision-Date: 2011-07-18 21:06+0530\n"
+"PO-Revision-Date: 2011-07-19 13:04+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,22 +18,22 @@ msgstr ""
 
 #: fish.cpp:299
 msgid "Connecting..."
-msgstr ""
+msgstr "সংযোগ কৰা হৈ আছে..."
 
 #: fish.cpp:607
 msgid "Initiating protocol..."
-msgstr ""
+msgstr "প্ৰটকল আৰম্ভ কৰা হৈ আছে..."
 
 #: fish.cpp:641
 msgid "Local Login"
-msgstr ""
+msgstr "স্থানীয় লগিন"
 
 #: fish.cpp:643
 msgid "SSH Authorization"
-msgstr ""
+msgstr "SSH অনুমোদন"
 
 #: fish.cpp:773
 msgid "Disconnected."
-msgstr ""
+msgstr "বিচ্ছিন্নিত।"
 
 
