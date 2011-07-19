@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-14 04:22+0200\n"
-"PO-Revision-Date: 2011-07-18 18:51+0530\n"
+"PO-Revision-Date: 2011-07-19 11:03+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,43 +22,44 @@ msgstr "পৰিস্ৰাৱক দৰ্শন কৰক (&i)"
 
 #: dirfilterplugin.cpp:141
 msgid "Allow to filter the currently displayed items by filetype."
-msgstr ""
+msgstr "বৰ্তমানে প্ৰদৰ্শীত বস্তুবোৰক নথিপত্ৰধৰণেৰে পৰিস্ৰাৱন কৰাৰ অনুমতি দিয়ক।"
 
 #: dirfilterplugin.cpp:163
 msgid "Filter Field"
-msgstr ""
+msgstr "পৰিস্ৰাৱক ক্ষেত্ৰ"
 
 #: dirfilterplugin.cpp:201
 msgid "Only Show Items of Type"
-msgstr ""
+msgstr "কেৱল ধৰণৰ বস্তুহে দেখাওক"
 
 #: dirfilterplugin.cpp:261
 msgid "Use Multiple Filters"
-msgstr ""
+msgstr "বহু পৰিস্ৰাৱক ব্যৱহাৰ কৰক"
 
 #: dirfilterplugin.cpp:267
 msgid "Show Count"
-msgstr ""
+msgstr "গণনা দেখুৱাওক"
 
 #: dirfilterplugin.cpp:272
 msgid "Reset"
-msgstr ""
+msgstr "পুনৰ সংহতি কৰক"
 
 #. i18n: file: dirfilterplugin.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:3
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: dirfilterplugin.rc:8
 #. i18n: ectx: ToolBar (extraToolBar)
 #: rc.cpp:6
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "অতিৰিক্ত টুলবাৰ"
 
 #. i18n: file: dirfilterplugin.rc:11
 #. i18n: ectx: ToolBar (locationToolBar)
 #: rc.cpp:9
 msgid "Filter Toolbar"
-msgstr ""
+msgstr "পৰিস্ৰাৱক টুলবাৰ"
+
 
