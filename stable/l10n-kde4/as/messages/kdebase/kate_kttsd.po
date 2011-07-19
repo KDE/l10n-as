@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-17 04:00+0200\n"
-"PO-Revision-Date: 2011-07-18 21:33+0530\n"
+"PO-Revision-Date: 2011-07-19 11:31+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,33 +18,33 @@ msgstr ""
 
 #: katekttsd.cpp:40
 msgid "Jovie Text-to-Speech Plugin"
-msgstr ""
+msgstr "Jovie লিখনীৰ-পৰা-কথা প্লাগিন"
 
 #: katekttsd.cpp:58
 msgid "Speak Text"
-msgstr ""
+msgstr "লিখনী কওক "
 
 #: katekttsd.cpp:93
 msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
+msgstr "Jovie লিখনীৰ-পৰা-কথা সেৱা আৰম্ভ কৰা ব্যৰ্থ হল"
 
 #: katekttsd.cpp:102
 msgid "D-Bus Call Failed"
-msgstr ""
+msgstr "D-Bus কল ব্যৰ্থ হল"
 
 #: katekttsd.cpp:103
 msgid "The D-Bus call say failed."
-msgstr ""
+msgstr "D-Bus কল say ব্যৰ্থ হল।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: ui.rc:4
 #. i18n: ectx: Menu (tools)
@@ -56,6 +56,6 @@ msgstr "সঁজুলিসমূহ (&T)"
 #. i18n: ectx: ToolBar (mainToolBar)
 #: rc.cpp:8
 msgid "Main Toolbar"
-msgstr ""
+msgstr "মূখ্য টুলবাৰ"
 
 
