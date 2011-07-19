@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-07-27 06:12+0200\n"
-"PO-Revision-Date: 2011-07-18 21:02+0530\n"
+"PO-Revision-Date: 2011-07-19 15:46+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,40 +18,40 @@ msgstr ""
 
 #: kquitapp.cpp:28
 msgid "Command-line application quitter"
-msgstr ""
+msgstr "কমান্ড-শাৰী অনুপ্ৰয়োগ অন্তকাৰী"
 
 #: kquitapp.cpp:29
 msgid "Quit a D-Bus enabled application easily"
-msgstr ""
+msgstr "এটা D-Bus সামৰ্থবান অনুপ্ৰয়োগ সহজে বন্ধ কৰক"
 
 #: kquitapp.cpp:30
 msgid "(c) 2006, Aaron Seigo"
-msgstr ""
+msgstr "(c) ২০০৬, এৰন চিগো"
 
 #: kquitapp.cpp:31
 msgid "Aaron J. Seigo"
-msgstr ""
+msgstr "এৰন জে.সিগো"
 
 #: kquitapp.cpp:31
 msgid "Current maintainer"
-msgstr ""
+msgstr "বৰ্তমান ব্যৱস্থাপক"
 
 #: kquitapp.cpp:35
 msgid "Full service name, overrides application name provided"
-msgstr ""
+msgstr "সম্পূৰ্ণ সেৱা নাম, প্ৰদান কৰা অনুপ্ৰয়োগ নাম অভাৰৰাইড কৰে"
 
 #: kquitapp.cpp:36
 msgid "Path in the D-Bus interface to use"
-msgstr ""
+msgstr "ব্যৱহাৰ কৰিব লগিয়া D-Bus আন্তঃপৃষ্টৰ পথ"
 
 #: kquitapp.cpp:37
 msgid "The name of the application to quit"
-msgstr ""
+msgstr "বন্ধ কৰিব লগিয়া অনুপ্ৰয়োগৰ নাম"
 
 #: kquitapp.cpp:64
 #, kde-format
 msgid "Application %1 could not be found using service %2 and path %3."
-msgstr ""
+msgstr "অনুপ্ৰয়োগ %1 সেৱা %2 আৰু পথ %3 ব্যৱহাৰ কৰি পাব নোৱাৰি।"
 
 #: kquitapp.cpp:70
 #, kde-format
@@ -60,15 +60,18 @@ msgid ""
 "\n"
 "     %2 : %3"
 msgstr ""
+"%1 অণুপ্ৰয়োগ বন্ধ কৰা ব্যৰ্থ হল। সংবাদন কৰা ত্ৰুটি আছিল:\n"
+"\n"
+"     %2 : %3"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
