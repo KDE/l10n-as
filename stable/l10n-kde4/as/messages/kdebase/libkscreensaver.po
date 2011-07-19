@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-24 06:19+0200\n"
-"PO-Revision-Date: 2011-07-18 20:59+0530\n"
+"PO-Revision-Date: 2011-07-19 16:35+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,28 +18,28 @@ msgstr ""
 
 #: main.cpp:133
 msgid "Setup screen saver"
-msgstr ""
+msgstr "স্ক্ৰিনচেইভাৰ সংস্থাপন কৰক"
 
 #: main.cpp:135
 msgid "Run in the specified XWindow"
-msgstr ""
+msgstr "ধাৰ্য্যত XWindow চলোৱা"
 
 #: main.cpp:137
 msgid "Run in the root XWindow"
-msgstr ""
+msgstr "ৰুট XWindow -ত চলোৱা"
 
 #: main.cpp:139
 msgid "Start screen saver in demo mode"
-msgstr ""
+msgstr "স্ক্ৰিনচেইভাৰক এটা আৰ্হি অৱস্থাত আৰম্ভ কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
