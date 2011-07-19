@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-09 04:01+0200\n"
-"PO-Revision-Date: 2011-07-18 20:58+0530\n"
+"PO-Revision-Date: 2011-07-19 16:52+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,41 +18,41 @@ msgstr ""
 
 #: main.cpp:70 main.cpp:72
 msgid "Nepomuk Service Stub"
-msgstr ""
+msgstr "Nepomuk সেৱা স্টাব"
 
 #: main.cpp:74
 msgid "(c) 2008, Sebastian Trüg"
-msgstr ""
+msgstr "(c) ২০০৮, চিবেচটিয়ান ট্ৰুগ"
 
 #: main.cpp:78
 msgid "Sebastian Trüg"
-msgstr ""
+msgstr "চিবেচটিয়ান ট্ৰুগ"
 
 #: main.cpp:78
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: main.cpp:81
 msgctxt "@info:shell"
 msgid "Service to start"
-msgstr ""
+msgstr "আৰম্ভ কৰিব লগিয়া সেৱা"
 
 #: main.cpp:93
 msgid "No service name specified"
-msgstr ""
+msgstr "কোনো সেৱা নাম ধাৰ্য্য কৰা হোৱা নাই"
 
 #: main.cpp:121
 msgid "Unknown service name:"
-msgstr ""
+msgstr "অজ্ঞাত সেৱা নাম: "
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 
