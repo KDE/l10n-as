@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-09-22 06:05+0200\n"
-"PO-Revision-Date: 2011-07-18 21:09+0530\n"
+"PO-Revision-Date: 2011-07-20 12:52+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,69 +19,70 @@ msgstr ""
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: mainpage.ui:17
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: rc.cpp:5
 msgid "Workspace Type:"
-msgstr ""
+msgstr "কৰ্মস্থান ধৰণ:"
 
 #. i18n: file: mainpage.ui:28
 #. i18n: ectx: property (text), item, widget (QComboBox, formFactor)
 #: rc.cpp:8
 msgctxt "Form factor: desktop computer"
 msgid "Desktop"
-msgstr ""
+msgstr "ডেস্কটপ"
 
 #. i18n: file: mainpage.ui:33
 #. i18n: ectx: property (text), item, widget (QComboBox, formFactor)
 #: rc.cpp:11
 msgctxt "Form factor: netbook computer"
 msgid "Netbook"
-msgstr ""
+msgstr "নেটবুক"
 
 #. i18n: file: mainpage.ui:41
 #. i18n: ectx: property (text), widget (QLabel, dashboardLabel)
 #: rc.cpp:14
 msgid "Dashboard:"
-msgstr ""
+msgstr "ডেশবৰ্ড:"
 
 #. i18n: file: mainpage.ui:52
 #. i18n: ectx: property (text), item, widget (QComboBox, dashboardMode)
 #: rc.cpp:17
 msgid "Show Desktop Widgets"
-msgstr ""
+msgstr "ডেস্কটপ উইজেটসমূহ দেখুৱাওক"
 
 #. i18n: file: mainpage.ui:57
 #. i18n: ectx: property (text), item, widget (QComboBox, dashboardMode)
 #: rc.cpp:20
 msgid "Show an Independent Widget Set"
-msgstr ""
+msgstr "এটা স্বাধীন উইজেট সংহতি দেখুৱাওক"
 
 #. i18n: file: mainpage.ui:65
 #. i18n: ectx: property (text), widget (QLabel, tooltipDelayLabel)
 #: rc.cpp:23
 msgid "Show Informational Tips:"
-msgstr ""
+msgstr "তথ্যমূলক সহায়সমূহ দেখুৱাওক:"
 
 #: workspaceoptions.cpp:48
 msgid "Global options for the Plasma Workspace"
-msgstr ""
+msgstr "প্লাচমা কৰ্মস্থানৰ বাবে বিশ্বব্যাপী বিকল্পসমূহ"
 
 #: workspaceoptions.cpp:50
 msgid "(c) 2009 Marco Martin"
-msgstr ""
+msgstr "(c) ২০০৯ মাৰ্কো মাৰ্টিন"
 
 #: workspaceoptions.cpp:52
 msgid "Marco Martin"
-msgstr ""
+msgstr "মাৰ্কো মাৰ্টিন"
 
 #: workspaceoptions.cpp:52
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
+
