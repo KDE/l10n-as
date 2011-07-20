@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-01 06:17+0200\n"
-"PO-Revision-Date: 2011-07-18 20:48+0530\n"
+"PO-Revision-Date: 2011-07-20 12:15+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,54 +19,54 @@ msgstr ""
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: uachangerplugin.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:5
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: uachangerplugin.rc:8
 #. i18n: ectx: ToolBar (extraToolBar)
 #: rc.cpp:8
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "অতিৰিক্ত টুলবাৰ"
 
 #: uachangerplugin.cpp:48
 msgid "Change Browser Identification"
-msgstr ""
+msgstr "ব্ৰাউছাৰ পৰিচয় সলনি কৰক"
 
 #: uachangerplugin.cpp:64
 msgid "Change Browser &Identification"
-msgstr ""
+msgstr "ব্ৰাউছাৰ পৰিচয় সলনি কৰক (&I)"
 
 #: uachangerplugin.cpp:135
 msgid "Other"
-msgstr ""
+msgstr "অন্য"
 
 #: uachangerplugin.cpp:166
 #, kde-format
 msgctxt "%1 = browser version (e.g. 2.0)"
 msgid "Version %1"
-msgstr ""
+msgstr "সংস্কৰণ %1"
 
 #: uachangerplugin.cpp:169
 #, kde-format
 msgctxt "%1 = browser name, %2 = browser version (e.g. Firefox, 2.0)"
 msgid "%1 %2"
-msgstr ""
+msgstr "%1 %2"
 
 #: uachangerplugin.cpp:175
 #, kde-format
 msgctxt "%1 = browser version, %2 = platform (e.g. 2.0, Windows XP)"
 msgid "Version %1 on %2"
-msgstr ""
+msgstr "%2 -ত সংস্কৰণ %1"
 
 #: uachangerplugin.cpp:178
 #, kde-format
@@ -74,20 +74,21 @@ msgctxt ""
 "%1 = browser name, %2 = browser version, %3 = platform (e.g. Firefox, 2.0, "
 "Windows XP)"
 msgid "%1 %2 on %3"
-msgstr ""
+msgstr "%3 -ত %1 %2"
 
 #: uachangerplugin.cpp:232
 msgid "Identify As"
-msgstr ""
+msgstr "চিনাক্ত কৰক"
 
 #: uachangerplugin.cpp:234
 msgid "Default Identification"
-msgstr ""
+msgstr "অবিকল্পিত পৰিচয়"
 
 #: uachangerplugin.cpp:264 uachangerplugin.cpp:267
 msgid "Apply to Entire Site"
-msgstr ""
+msgstr "সম্পূৰ্ণ ছাইটলে প্ৰয়োগ কৰক"
 
 #: uachangerplugin.cpp:269
 msgid "Configure..."
-msgstr ""
+msgstr "সংৰূপণ কৰক..."
+
