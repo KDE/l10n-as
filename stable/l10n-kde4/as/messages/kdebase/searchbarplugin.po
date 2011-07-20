@@ -27,9 +27,8 @@ msgid ""
 "Search Bar<p>Enter a search term. Click on the icon to change search mode or "
 "provider.</p>"
 msgstr ""
-"সন্ধান বাৰ<p>এটা সন্ধান সংজ্ঞা সোমাওক। সন্ধান অৱস্থা বা যোগানকাৰী সলনি "
-"কৰিবলে আইকনত ক্লিক "
-"কৰক।</p>"
+"সন্ধান বাৰ<p>এটা সন্ধান সংজ্ঞা সোমাওক। সন্ধান অৱস্থা বা যোগানকাৰী সলনি কৰিবলে "
+"আইকনত ক্লিক কৰক।</p>"
 
 #: searchbar.cpp:84
 msgid "Search Bar"
@@ -75,4 +74,3 @@ msgstr "ঠিক আছে"
 #: WebShortcutWidget.cpp:76
 msgid "Cancel"
 msgstr "বাতিল কৰক"
-

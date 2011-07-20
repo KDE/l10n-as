@@ -18,8 +18,7 @@ msgstr ""
 
 #: recentdocuments.cpp:46
 msgid "Looks for documents recently used with names matching :q:."
-msgstr ""
-":q: -ৰ হৈতে মিল খোৱা নামসমূহৰ হৈতে সেহতীয়াভাৱে ব্যৱহৃত দস্তাবেজসমূহ বিচাৰে।"
+msgstr ":q: -ৰ হৈতে মিল খোৱা নামসমূহৰ হৈতে সেহতীয়াভাৱে ব্যৱহৃত দস্তাবেজসমূহ বিচাৰে।"
 
 #: recentdocuments.cpp:86
 msgid "Recent Document"

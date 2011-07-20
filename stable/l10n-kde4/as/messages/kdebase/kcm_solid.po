@@ -97,4 +97,3 @@ msgstr "বৰ্তমানে নিৰ্বাচিত পিছপ্ৰ�
 #: rc.cpp:32
 msgid "Comment on the currently selected backend"
 msgstr "বৰ্তমানে নিৰ্বাচিত পিছপ্ৰান্তৰ উপৰত মন্তব্য"
-

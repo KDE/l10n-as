@@ -38,9 +38,8 @@ msgid ""
 "The current file has been identified as a document of type \"%1\". The meta "
 "DTD for this document type will now be loaded."
 msgstr ""
-"বৰ্তমান নথিপত্ৰক ধৰণ \"%1\" -ৰ দস্তাবেজ হিচাপে চিনাক্ত কৰা হৈছে। এই দস্তাবেজ "
-"ধৰণৰ বাবে "
-"মেটা DTD এতিয়া লোড কৰা হব।"
+"বৰ্তমান নথিপত্ৰক ধৰণ \"%1\" -ৰ দস্তাবেজ হিচাপে চিনাক্ত কৰা হৈছে। এই দস্তাবেজ ধৰণৰ "
+"বাবে মেটা DTD এতিয়া লোড কৰা হব।"
 
 #: plugin_katexmltools.cpp:415
 msgid "Loading XML Meta DTD"
@@ -64,8 +63,7 @@ msgid ""
 "Enter XML tag name and attributes (\"<\", \">\" and closing tag will be "
 "supplied):"
 msgstr ""
-"XML টেগ নাম আৰ বৈশিষ্টসমূহ সোমাওক (\"<\", \">\" আৰু বন্ধ কৰা টেগ যোগান দিয়া "
-"হব):"
+"XML টেগ নাম আৰ বৈশিষ্টসমূহ সোমাওক (\"<\", \">\" আৰু বন্ধ কৰা টেগ যোগান দিয়া হব):"
 
 #: pseudo_dtd.cpp:48
 #, kde-format
@@ -74,8 +72,7 @@ msgid ""
 "XML."
 msgstr ""
 "নথিপত্ৰ '%1' বিশ্লেষণ কৰিব নোৱাৰি। অনুগ্ৰহ কৰি নীৰিক্ষন কৰক যে নথিপত্ৰটো এটা "
-"ভালদৰে "
-"গঠিত XML।"
+"ভালদৰে গঠিত XML।"
 
 #: pseudo_dtd.cpp:56
 #, kde-format
@@ -86,12 +83,10 @@ msgid ""
 "You can produce such files with dtdparse. See the Kate Plugin documentation "
 "for more information."
 msgstr ""
-"নথিপত্ৰ '%1' আশা কৰা বিন্যাসত নাই। অনুগ্ৰহ কৰি নীৰিক্ষণ কৰক যে নথিপত্ৰটো এই "
-"ধৰণৰ:\n"
+"নথিপত্ৰ '%1' আশা কৰা বিন্যাসত নাই। অনুগ্ৰহ কৰি নীৰিক্ষণ কৰক যে নথিপত্ৰটো এই ধৰণৰ:\n"
 "-//Norman Walsh//DTD DTDParse V2.0//EN\n"
 "আপুনি এনে ধৰণৰ নথিপত্ৰ dtdparse দি উৎপাদন কৰিব পাৰিব। অধিক তথ্যৰ বাবে Kate "
-"প্লাগিন "
-"তথ্যচিত্ৰ চাওক।"
+"প্লাগিন তথ্যচিত্ৰ চাওক।"
 
 #: pseudo_dtd.cpp:71
 msgid "Analyzing meta DTD..."
@@ -106,4 +101,3 @@ msgstr "বাতিল কৰক"
 #: rc.cpp:3
 msgid "&XML"
 msgstr "XML (&X)"
-

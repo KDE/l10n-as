@@ -87,4 +87,3 @@ msgstr "দ্বিতীয় ৰঙ (&S):"
 #: rc.cpp:36
 msgid "&Background mode:"
 msgstr "পঠভূমী অৱস্থা (&B):"
-

@@ -28,6 +28,4 @@ msgstr "মবাইল অনুপ্ৰয়োগসমূহ"
 #: windowedwidgetsrunner.cpp:41
 msgid "list all Plasma widgets that can run as standalone applications"
 msgstr ""
-"সকলো প্লাচমা উইজেট যি অকলশৰীয়া অনুপ্ৰয়োগ হিচাপে চলিব পাৰে তাকে "
-"তালিকাভুক্ত কৰে"
-
+"সকলো প্লাচমা উইজেট যি অকলশৰীয়া অনুপ্ৰয়োগ হিচাপে চলিব পাৰে তাকে তালিকাভুক্ত কৰে"

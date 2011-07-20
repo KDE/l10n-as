@@ -18,8 +18,7 @@ msgstr ""
 
 #: main.cpp:28
 msgid "Shell used to load Plasma widgets as stand-alone applications."
-msgstr ""
-"প্লাচমা উইজেটসমূহক অকলশৰীয়া অনুপ্ৰয়োগ হিচাপে লোড কৰিবলে ব্যৱহৃত শ্বেল।"
+msgstr "প্লাচমা উইজেটসমূহক অকলশৰীয়া অনুপ্ৰয়োগ হিচাপে লোড কৰিবলে ব্যৱহৃত শ্বেল।"
 
 #: main.cpp:34
 msgid "Plasma Widgets shell"
@@ -55,11 +54,9 @@ msgid ""
 "or relative) to a package. If not provided, then an attempt is made to load "
 "a package from the current directory."
 msgstr ""
-"দৰ্শন কৰিব লগিয়া এপ্লেটৰ নাম; এটা প্লাগিন নাম অথবা এটা পেকেইজৰ পথ (প্ৰকৃত "
-"অথবা প্ৰাসংগিক) "
-"-লে প্ৰসংগ কৰিব পাৰে। যদি দিয়া হোৱা নাই, তেন্তে বৰ্তমান ডাইৰেকটৰিৰ পৰা "
-"পেকেইজ লোড কৰাৰ "
-"এটা চেষ্টা কৰা হয়।"
+"দৰ্শন কৰিব লগিয়া এপ্লেটৰ নাম; এটা প্লাগিন নাম অথবা এটা পেকেইজৰ পথ (প্ৰকৃত অথবা "
+"প্ৰাসংগিক) -লে প্ৰসংগ কৰিব পাৰে। যদি দিয়া হোৱা নাই, তেন্তে বৰ্তমান ডাইৰেকটৰিৰ "
+"পৰা পেকেইজ লোড কৰাৰ এটা চেষ্টা কৰা হয়।"
 
 #: main.cpp:51
 msgid "Optional arguments for the applet to add"
@@ -74,4 +71,3 @@ msgstr "নীলমদ্যুতি গোস্বামী"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ngoswami@redhat.com"
-

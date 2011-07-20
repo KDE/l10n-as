@@ -43,4 +43,3 @@ msgstr "সংৰূপণ কৰক (&f)"
 #: randrmonitor.cpp:127
 msgid "&Ignore"
 msgstr "উপেক্ষা কৰক (&I)"
-

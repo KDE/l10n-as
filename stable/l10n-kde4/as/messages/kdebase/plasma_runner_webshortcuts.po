@@ -25,4 +25,3 @@ msgstr "\"%1\" -ক প্ৰশ্ন :q: -ৰ হৈতে এটা ৱেব
 #, kde-format
 msgid "Search %1 for %2"
 msgstr "%2 -ৰ বাবে %1 -ক বিচাৰক"
-

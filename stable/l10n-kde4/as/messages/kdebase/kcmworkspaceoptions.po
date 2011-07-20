@@ -85,4 +85,3 @@ msgstr "মাৰ্কো মাৰ্টিন"
 #: workspaceoptions.cpp:52
 msgid "Maintainer"
 msgstr "ব্যৱস্থাপক"
-

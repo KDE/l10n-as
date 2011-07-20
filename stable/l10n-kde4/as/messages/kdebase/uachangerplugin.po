@@ -91,4 +91,3 @@ msgstr "সম্পূৰ্ণ ছাইটলে প্ৰয়োগ কৰক
 #: uachangerplugin.cpp:269
 msgid "Configure..."
 msgstr "সংৰূপণ কৰক..."
-

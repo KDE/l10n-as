@@ -33,9 +33,8 @@ msgid ""
 "<p>The current document has not been saved, and cannot be attached to an "
 "email message.</p><p>Do you want to save it and proceed?</p>"
 msgstr ""
-"<p> বৰ্তমান দস্তাবেজ সংৰক্ষণ কৰা হোৱা নাই, আৰু এটা ই-মেইল বাৰ্তা লে এটাছ "
-"কৰিব নোৱাৰি। "
-"</p><p>আপুনি ইয়াক সঞ্চয় কৰি আগবাঢ়িব বিচাৰে নে?</p>"
+"<p> বৰ্তমান দস্তাবেজ সংৰক্ষণ কৰা হোৱা নাই, আৰু এটা ই-মেইল বাৰ্তা লে এটাছ কৰিব "
+"নোৱাৰি। </p><p>আপুনি ইয়াক সঞ্চয় কৰি আগবাঢ়িব বিচাৰে নে?</p>"
 
 #: katemailfiles.cpp:97
 msgid "Cannot Send Unsaved File"
@@ -44,8 +43,7 @@ msgstr "অসংৰক্ষীত নথিপত্ৰ পঠাব নোৱ
 #: katemailfiles.cpp:105 katemailfiles.cpp:129
 msgid "The file could not be saved. Please check if you have write permission."
 msgstr ""
-"এই নথিপত্ৰ সঞ্চয় কৰব নোৱাৰি। অনুগ্ৰহ কৰি নীৰিক্ষণ কৰক আপোনাৰ লিখা অনুমতি আছে "
-"নে।"
+"এই নথিপত্ৰ সঞ্চয় কৰব নোৱাৰি। অনুগ্ৰহ কৰি নীৰিক্ষণ কৰক আপোনাৰ লিখা অনুমতি আছে নে।"
 
 #: katemailfiles.cpp:117
 #, kde-format
@@ -54,9 +52,8 @@ msgid ""
 "Modifications will not be available in the attachment.</p><p>Do you want to "
 "save it before sending it?</p>"
 msgstr ""
-"<p>বৰ্তমান নথিপত্ৰ:<br /><strong>%1</strong><br /> সলনি কৰা হৈছে। "
-"সলনিসমূহ এটাছমেন্টত উপলব্ধ নহয়। </p><p>আপুনি ইয়াক পঠোৱাৰ আগত সঞ্চয় কৰিব "
-"বিচাৰে নে?</p>"
+"<p>বৰ্তমান নথিপত্ৰ:<br /><strong>%1</strong><br /> সলনি কৰা হৈছে। সলনিসমূহ "
+"এটাছমেন্টত উপলব্ধ নহয়। </p><p>আপুনি ইয়াক পঠোৱাৰ আগত সঞ্চয় কৰিব বিচাৰে নে?</p>"
 
 #: katemailfiles.cpp:120
 msgid "Save Before Sending?"
@@ -84,11 +81,9 @@ msgid ""
 "select more documents to send, press <strong>Show All Documents&nbsp;&gt;&gt;"
 "</strong>.</p>"
 msgstr ""
-"<p> বৰ্তমান দস্তাবেজ ই-মেইল কৰিবলে <strong>মেইল...</strong>দবাওক।</p><p>"
-"পঠোৱাৰ "
-"বাবে অধিক দস্তাবেজসমূহ বাছিবলে, <strong>সকলো দস্তাবেজ "
-"দেখুৱাওক&nbsp;&gt;&gt;</strong> "
-"দবাওক।</p>"
+"<p> বৰ্তমান দস্তাবেজ ই-মেইল কৰিবলে <strong>মেইল...</strong>দবাওক।</p><p>পঠোৱাৰ "
+"বাবে অধিক দস্তাবেজসমূহ বাছিবলে, <strong>সকলো দস্তাবেজ দেখুৱাওক&nbsp;&gt;&gt;</"
+"strong> দবাওক।</p>"
 
 #: katemailfilesdialog.cpp:72
 msgid "Name"
@@ -121,4 +116,3 @@ msgstr "ngoswami@redhat.com"
 #: rc.cpp:5
 msgid "&File"
 msgstr "নথিপত্ৰ (&F)"
-
