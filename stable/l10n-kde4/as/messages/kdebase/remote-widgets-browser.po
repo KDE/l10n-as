@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-01 03:58+0200\n"
-"PO-Revision-Date: 2011-07-18 20:49+0530\n"
+"PO-Revision-Date: 2011-07-20 12:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,30 +18,31 @@ msgstr ""
 
 #: main.cpp:38
 msgid "Explore the Plasma Widgets shared on the network"
-msgstr ""
+msgstr "নেটৱাৰ্কত অংশীদাৰী কৰা প্লাচমা উইজেটসমূহ অন্বেষণ কৰক"
 
 #: main.cpp:43
 msgid "Plasma Remote Widgets Browser"
-msgstr ""
+msgstr "প্লাচমা দূৰৱৰ্তী উইজেটসমূহ ব্ৰাউছাৰ"
 
 #: main.cpp:45
 msgid "(c) 2011 The KDE Team"
-msgstr ""
+msgstr "(c) ২০১১ KDE দল"
 
 #: main.cpp:46
 msgid "Kevin Ottens"
-msgstr ""
+msgstr "কেভিন অটেন্চ"
 
 #: main.cpp:47
 msgid "Author"
-msgstr ""
+msgstr "লেখক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
