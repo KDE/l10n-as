@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-19 11:14+0530\n"
+"PO-Revision-Date: 2011-07-20 17:20+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -26,43 +26,43 @@ msgstr "কোনো নহয়"
 
 #: autorefresh.cpp:47
 msgid "Every 15 Seconds"
-msgstr "প্ৰতি ১৫ ছেকেণ্ডে"
+msgstr "প্ৰতি ১৫ ছেকেণ্ডত"
 
 #: autorefresh.cpp:48
 msgid "Every 30 Seconds"
-msgstr "প্ৰতি ৩০ ছেকেণ্ডে"
+msgstr "প্ৰতি ৩০ ছেকেণ্ডত"
 
 #: autorefresh.cpp:49
 msgid "Every Minute"
-msgstr "প্ৰতি মিনিট"
+msgstr "প্ৰতি মিনিটত"
 
 #: autorefresh.cpp:50
 msgid "Every 5 Minutes"
-msgstr "প্ৰতি ৫ মিনিট"
+msgstr "প্ৰতি ৫ মিনিটত"
 
 #: autorefresh.cpp:51
 msgid "Every 10 Minutes"
-msgstr "প্ৰতি ১০ মিনিট"
+msgstr "প্ৰতি ১০ মিনিটত"
 
 #: autorefresh.cpp:52
 msgid "Every 15 Minutes"
-msgstr "প্ৰতি ১৫ মিনিট"
+msgstr "প্ৰতি ১৫ মিনিটত"
 
 #: autorefresh.cpp:53
 msgid "Every 30 Minutes"
-msgstr "প্ৰতি ৩০ মিনিট"
+msgstr "প্ৰতি ৩০ মিনিটত"
 
 #: autorefresh.cpp:54
 msgid "Every 60 Minutes"
-msgstr "প্ৰতি ৬০ মিনিট"
+msgstr "প্ৰতি ৬০ মিনিটত"
 
 #: autorefresh.cpp:55
 msgid "Every 2 Hours"
-msgstr "প্ৰতি ২ ঘন্টা"
+msgstr "প্ৰতি ২ ঘন্টাত"
 
 #: autorefresh.cpp:56
 msgid "Every 6 Hours"
-msgstr "প্ৰতি ৬ ঘন্টা"
+msgstr "প্ৰতি ৬ ঘন্টাত"
 
 #: autorefresh.cpp:113
 msgctxt "@title:window"
@@ -78,3 +78,4 @@ msgstr "<qt>এই প্লাগিনে বৰ্তমান অংশ স�
 #: rc.cpp:3
 msgid "&Tools"
 msgstr "সঁজুলিসমূহ (&T)"
+
