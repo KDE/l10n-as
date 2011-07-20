@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-17 05:44+0200\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-20 11:53+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,34 +19,35 @@ msgstr ""
 #: main.cpp:28
 msgid "Shell used to load Plasma widgets as stand-alone applications."
 msgstr ""
+"প্লাচমা উইজেটসমূহক অকলশৰীয়া অনুপ্ৰয়োগ হিচাপে লোড কৰিবলে ব্যৱহৃত শ্বেল।"
 
 #: main.cpp:34
 msgid "Plasma Widgets shell"
-msgstr ""
+msgstr "প্লাচমা উইজেটসমূহ শ্বেল"
 
 #: main.cpp:36
 msgid "Copyright 2006-2009, The KDE Team"
-msgstr ""
+msgstr "স্বত্বাধিকাৰ ২০০৬-২০০৯, KDE দল"
 
 #: main.cpp:37
 msgid "Marco Martin"
-msgstr ""
+msgstr "মাৰ্কো মাৰ্টিন"
 
 #: main.cpp:38
 msgid "Author and maintainer"
-msgstr ""
+msgstr "লেখক আৰু ব্যৱস্থাপক"
 
 #: main.cpp:44
 msgid "Show window decorations around the widget"
-msgstr ""
+msgstr "উইজেটৰ কাষত উইন্ডো সুশোভন দেখুৱাওক"
 
 #: main.cpp:45
 msgid "Do not show window decorations around the widget"
-msgstr ""
+msgstr "উইজেটৰ কাষত উইন্ডো সুশোভনসমূহ নেদেখাব"
 
 #: main.cpp:47
 msgid "Display the widget fullscreen"
-msgstr ""
+msgstr "উইজেটক পূৰ্ণপৰ্দা প্ৰদৰ্শন কৰক"
 
 #: main.cpp:48
 msgid ""
@@ -54,17 +55,23 @@ msgid ""
 "or relative) to a package. If not provided, then an attempt is made to load "
 "a package from the current directory."
 msgstr ""
+"দৰ্শন কৰিব লগিয়া এপ্লেটৰ নাম; এটা প্লাগিন নাম অথবা এটা পেকেইজৰ পথ (প্ৰকৃত "
+"অথবা প্ৰাসংগিক) "
+"-লে প্ৰসংগ কৰিব পাৰে। যদি দিয়া হোৱা নাই, তেন্তে বৰ্তমান ডাইৰেকটৰিৰ পৰা "
+"পেকেইজ লোড কৰাৰ "
+"এটা চেষ্টা কৰা হয়।"
 
 #: main.cpp:51
 msgid "Optional arguments for the applet to add"
-msgstr ""
+msgstr "যোগ কৰিব লগিয়া এপ্লেটৰ বাবে বিকল্পিক তৰ্কসমূহ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
