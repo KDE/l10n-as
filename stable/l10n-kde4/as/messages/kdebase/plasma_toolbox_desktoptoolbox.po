@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-18 02:18+0100\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-20 11:10+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: desktoptoolbox.cpp:282
 msgid "Tool Box"
-msgstr ""
+msgstr "টুল বাকচ"
 
 #: desktoptoolbox.cpp:283
 #, kde-format
@@ -26,13 +26,18 @@ msgid ""
 "Click to access configuration options and controls, or to add more widgets "
 "to the %1."
 msgstr ""
+"সংৰূপ বিকল্প আৰু নিয়ন্ত্ৰণসমূহ অভিগম কৰিবলে, অথবা %1 লে অধিক উইজেট যোগ "
+"কৰিবলে ক্লিক কৰক।"
 
 #: paneltoolbox.cpp:276
 msgid "Panel Tool Box"
-msgstr ""
+msgstr "পেনেল টুল বাকচ"
 
 #: paneltoolbox.cpp:277
 msgid ""
 "Click to access size, location and hiding controls as well as to add new "
 "widgets to the panel."
 msgstr ""
+"আকাৰ, অৱস্থান আৰু লুকাই থকা নিয়ন্ত্ৰণসমূহ অভিগম কৰিবলে লগতে পেনেললে নতুন "
+"উইজেটসমূহ যোগ কৰিবলে ক্লিক কৰক।"
+
