@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-02 03:07+0100\n"
-"PO-Revision-Date: 2011-07-18 20:51+0530\n"
+"PO-Revision-Date: 2011-07-20 11:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +19,10 @@ msgstr ""
 #: webshortcutrunner.cpp:80
 #, kde-format
 msgid "Opens \"%1\" in a web browser with the query :q:."
-msgstr ""
+msgstr "\"%1\" -ক প্ৰশ্ন :q: -ৰ হৈতে এটা ৱেব ব্ৰাউছাৰত খোলে।"
 
 #: webshortcutrunner.cpp:124 webshortcutrunner.cpp:143
 #, kde-format
 msgid "Search %1 for %2"
-msgstr ""
+msgstr "%2 -ৰ বাবে %1 -ক বিচাৰক"
+
