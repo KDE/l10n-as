@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-04 02:23+0100\n"
-"PO-Revision-Date: 2011-07-18 20:49+0530\n"
+"PO-Revision-Date: 2011-07-20 12:11+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,26 +18,29 @@ msgstr ""
 
 #: devicenothingaction.cpp:28
 msgid "Do nothing"
-msgstr ""
+msgstr "একো নকৰিব"
 
 #: deviceserviceaction.cpp:63
 msgctxt "A default name for an action without proper label"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #. i18n: file: deviceactionsdialogview.ui:52
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: rc.cpp:3
 msgid "A new device has been detected.<br><b>What do you want to do?</b>"
-msgstr ""
+msgstr "এটা নতুন ডিভাইচ ধৰা পেলোৱা হৈছে।<br><b>আপুনি কি কৰিব বিচাৰে?</b>"
 
 #. i18n: file: deviceactionsdialogview.ui:73
 #. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
 #: rc.cpp:6
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: soliduiserver.cpp:151
 #, kde-format
 msgid "'%1' needs a password to be accessed. Please enter a password."
 msgstr ""
+"'%1' -ৰ অভিগম কৰিবলে এটা পাছৱাৰ্ডৰ প্ৰয়োজন। অনুগ্ৰহ কৰি এটা পাছৱাৰ্ড "
+"সোমাওক।"
+
