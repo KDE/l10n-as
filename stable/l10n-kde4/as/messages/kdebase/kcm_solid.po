@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-22 05:43+0200\n"
-"PO-Revision-Date: 2011-07-18 21:10+0530\n"
+"PO-Revision-Date: 2011-07-20 12:23+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,82 +18,83 @@ msgstr ""
 
 #: kcmsolid.cpp:45
 msgid "Solid Configuration Module"
-msgstr ""
+msgstr "কঠিন সংৰূপ মডিউল"
 
 #: kcmsolid.cpp:47
 msgid "Copyright 2006 Kevin Ottens"
-msgstr ""
+msgstr "স্বত্বাধিকাৰ ২০০৬ কেভিন অটেন্চ"
 
 #: kcmsolid.cpp:48
 msgid "Kevin Ottens"
-msgstr ""
+msgstr "কেভিন অটেন্চ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: backendchooser.ui:53
 #. i18n: ectx: property (toolTip), widget (MyQListWidget, listView)
 #: rc.cpp:5
 msgid "List of backends, in order of preference."
-msgstr ""
+msgstr "প্ৰাথমিকতাৰে, পিছপ্ৰান্তসমূহৰ তালিকা।"
 
 #. i18n: file: backendchooser.ui:56
 #. i18n: ectx: property (whatsThis), widget (MyQListWidget, listView)
 #: rc.cpp:8
 msgid "A list of the backends for a Solid function, in order of preference."
-msgstr ""
+msgstr "এটা কঠিন ফলনৰ বাবে পিছপ্ৰান্তসমূহৰ তালিকা, প্ৰাথমিকতাৰে।"
 
 #. i18n: file: backendchooser.ui:80
 #. i18n: ectx: property (toolTip), widget (QToolButton, upButton)
 #: rc.cpp:11
 msgid "Prefer the selected backend."
-msgstr ""
+msgstr "নিৰ্বাচিত পিছপ্ৰান্ত পছন্দ কৰক।"
 
 #. i18n: file: backendchooser.ui:83
 #. i18n: ectx: property (whatsThis), widget (QToolButton, upButton)
 #: rc.cpp:14
 msgid "Moves the selected backend up by one in the preference list."
-msgstr ""
+msgstr "নিৰ্বাচিত পিছপ্ৰান্তক পছন্দ তালিকাত এটা স্তৰ উপৰলৈ লৈ যায়।"
 
 #. i18n: file: backendchooser.ui:102
 #. i18n: ectx: property (toolTip), widget (QToolButton, downButton)
 #: rc.cpp:17
 msgid "No preference for the selected backend."
-msgstr ""
+msgstr "নিৰ্বাচিত পিছপ্ৰান্তৰ বাবে কোনো পছন্দ নাই।"
 
 #. i18n: file: backendchooser.ui:105
 #. i18n: ectx: property (whatsThis), widget (QToolButton, downButton)
 #: rc.cpp:20
 msgid "Moves the selected backend down by one in the preference list."
-msgstr ""
+msgstr "নিৰ্বাচিত পিছপ্ৰান্তক পছন্দ তালিকাত এটা স্তৰ তললৈ লৈ যায়।"
 
 #. i18n: file: backendchooser.ui:154
 #. i18n: ectx: property (whatsThis), widget (QLabel, iconLabel)
 #: rc.cpp:23
 msgid "Icon for the currently selected backend"
-msgstr ""
+msgstr "বৰ্তমানে নিৰ্বাচিত পিছপ্ৰান্তৰ বাবে আইকন"
 
 #. i18n: file: backendchooser.ui:182
 #. i18n: ectx: property (whatsThis), widget (QLabel, nameLabel)
 #: rc.cpp:26
 msgid "Name of the currently selected backend"
-msgstr ""
+msgstr "বৰ্তমানে নিৰ্বাচিত পিছপ্ৰান্তৰ নাম"
 
 #. i18n: file: backendchooser.ui:213
 #. i18n: ectx: property (whatsThis), widget (QLabel, versionLabel)
 #: rc.cpp:29
 msgid "Version of the currently selected backend"
-msgstr ""
+msgstr "বৰ্তমানে নিৰ্বাচিত পিছপ্ৰান্তৰ সংস্কৰণ"
 
 #. i18n: file: backendchooser.ui:247
 #. i18n: ectx: property (whatsThis), widget (QLabel, commentLabel)
 #: rc.cpp:32
 msgid "Comment on the currently selected backend"
-msgstr ""
+msgstr "বৰ্তমানে নিৰ্বাচিত পিছপ্ৰান্তৰ উপৰত মন্তব্য"
+
