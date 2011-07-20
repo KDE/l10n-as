@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-22 05:43+0200\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-20 11:44+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,70 +20,71 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QWidget, Config)
 #: rc.cpp:3
 msgid "Color"
-msgstr ""
+msgstr "ৰঙ"
 
 #. i18n: file: config.ui:21
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:6
 msgid "Solid"
-msgstr ""
+msgstr "কঠিন"
 
 #. i18n: file: config.ui:26
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:9
 msgid "Horizontal"
-msgstr ""
+msgstr "আনুভুমিক"
 
 #. i18n: file: config.ui:31
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:12
 msgid "Vertical"
-msgstr ""
+msgstr "উলম্ব"
 
 #. i18n: file: config.ui:36
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:15
 msgid "Rectangular"
-msgstr ""
+msgstr "আয়তীয়"
 
 #. i18n: file: config.ui:41
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:18
 msgid "Radial"
-msgstr ""
+msgstr "ৰেডিয়েল"
 
 #. i18n: file: config.ui:46
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:21
 msgid "Top Left Diagonal"
-msgstr ""
+msgstr "উপৰ বাঁও কৰ্ণ"
 
 #. i18n: file: config.ui:51
 #. i18n: ectx: property (text), item, widget (QComboBox, m_backgroundMode)
 #: rc.cpp:24
 msgid "Top Right Diagonal"
-msgstr ""
+msgstr "উপৰ সোঁ কৰ্ণ"
 
 #. i18n: file: config.ui:65
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: rc.cpp:27
 msgid "&First color:"
-msgstr ""
+msgstr "প্ৰথম ৰঙ (&F):"
 
 #. i18n: file: config.ui:121
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: rc.cpp:30
 msgid "&Second color:"
-msgstr ""
+msgstr "দ্বিতীয় ৰঙ (&S):"
 
 #. i18n: file: config.ui:140
 #. i18n: ectx: property (text), widget (KColorButton, m_color2)
 #: rc.cpp:33
 msgid "&Second Color:"
-msgstr ""
+msgstr "দ্বিতীয় ৰঙ (&S):"
 
 #. i18n: file: config.ui:174
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: rc.cpp:36
 msgid "&Background mode:"
-msgstr ""
+msgstr "পঠভূমী অৱস্থা (&B):"
+
