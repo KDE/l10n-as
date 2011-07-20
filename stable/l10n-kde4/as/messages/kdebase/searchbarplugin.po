@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-15 03:58+0200\n"
-"PO-Revision-Date: 2011-07-18 20:49+0530\n"
+"PO-Revision-Date: 2011-07-20 12:09+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,55 +20,59 @@ msgstr ""
 #. i18n: ectx: ToolBar (locationToolBar)
 #: rc.cpp:3
 msgid "Search Toolbar"
-msgstr ""
+msgstr "সন্ধান টুলবাৰ"
 
 #: searchbar.cpp:79
 msgid ""
 "Search Bar<p>Enter a search term. Click on the icon to change search mode or "
 "provider.</p>"
 msgstr ""
+"সন্ধান বাৰ<p>এটা সন্ধান সংজ্ঞা সোমাওক। সন্ধান অৱস্থা বা যোগানকাৰী সলনি "
+"কৰিবলে আইকনত ক্লিক "
+"কৰক।</p>"
 
 #: searchbar.cpp:84
 msgid "Search Bar"
-msgstr ""
+msgstr "সন্ধান বাৰ"
 
 #: searchbar.cpp:89
 msgid "Focus Searchbar"
-msgstr ""
+msgstr "সন্ধানবাৰত মনোযোগ দিয়ক"
 
 #: searchbar.cpp:295
 msgid "Find in This Page"
-msgstr ""
+msgstr "এই পৃষ্ঠাত বিচাৰক"
 
 #: searchbar.cpp:306
 msgid "Select Search Engines..."
-msgstr ""
+msgstr "সন্ধান ইঞ্জীনসমূহ বিচাৰক..."
 
 #: searchbar.cpp:325
 #, kde-format
 msgid "Add %1..."
-msgstr ""
+msgstr "%1 যোগ কৰক..."
 
 #: searchbar.cpp:571
 msgid "Enable Suggestion"
-msgstr ""
+msgstr "পৰামৰ্শ সামৰ্থবান কৰক"
 
 #: WebShortcutWidget.cpp:43
 msgid "Set Uri Shortcuts"
-msgstr ""
+msgstr "Uri চৰ্টকাটসমূহ সংহতি কৰক"
 
 #: WebShortcutWidget.cpp:57
 msgid "Name:"
-msgstr ""
+msgstr "নাম:"
 
 #: WebShortcutWidget.cpp:61
 msgid "Shortcuts:"
-msgstr ""
+msgstr "চৰ্টকাটসমূহ:"
 
 #: WebShortcutWidget.cpp:71
 msgid "Ok"
-msgstr ""
+msgstr "ঠিক আছে"
 
 #: WebShortcutWidget.cpp:76
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল কৰক"
+
