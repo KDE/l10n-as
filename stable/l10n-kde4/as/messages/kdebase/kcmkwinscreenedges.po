@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-12 04:11+0200\n"
-"PO-Revision-Date: 2011-07-18 21:12+0530\n"
+"PO-Revision-Date: 2011-07-21 16:09+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,49 +18,49 @@ msgstr ""
 
 #: main.cpp:175
 msgid "No Action"
-msgstr ""
+msgstr "কোনো কাৰ্য্য নহয়"
 
 #: main.cpp:176
 msgid "Show Dashboard"
-msgstr ""
+msgstr "ডেশবৰ্ড দেখুৱাওক"
 
 #: main.cpp:177
 msgid "Show Desktop"
-msgstr ""
+msgstr "ডেস্কটপ দেখুৱাওক"
 
 #: main.cpp:178
 msgid "Lock Screen"
-msgstr ""
+msgstr "পৰ্দা লক কৰক"
 
 #: main.cpp:179
 msgid "Prevent Screen Locking"
-msgstr ""
+msgstr "পৰ্দা লক কৰা প্ৰতিৰোধ কৰক"
 
 #: main.cpp:196 main.cpp:226
 msgid "All Desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপ"
 
 #: main.cpp:197 main.cpp:227
 msgid "Current Desktop"
-msgstr ""
+msgstr "বৰ্তমান ডেস্কটপ"
 
 #: main.cpp:215
 msgid "Cube"
-msgstr ""
+msgstr "ঘনক"
 
 #: main.cpp:216
 msgid "Cylinder"
-msgstr ""
+msgstr "চুঙা"
 
 #: main.cpp:217
 msgid "Sphere"
-msgstr ""
+msgstr "গোলক"
 
 #. i18n: file: main.ui:17
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: rc.cpp:3
 msgid "Active Screen Edge Actions"
-msgstr ""
+msgstr "সক্ৰিয় পৰ্দা প্ৰান্ত কাৰ্য্যসমূহ"
 
 #. i18n: file: main.ui:36
 #. i18n: ectx: property (text), widget (QLabel, label_7)
@@ -69,30 +69,33 @@ msgid ""
 "To trigger an action push your mouse cursor against the edge of the screen "
 "in the action's direction."
 msgstr ""
+"এটা কাৰ্য্য আৰম্ভ কৰিবলে কাৰ্য্যৰ দিশত আপোনাৰ মাউছ কাৰ্চাৰ পৰ্দাৰ প্ৰান্থৰ "
+"বিপৰিতে লৈ "
+"যাওক।"
 
 #. i18n: file: main.ui:52
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: rc.cpp:9
 msgid "Window Management"
-msgstr ""
+msgstr "উইন্ডো ব্যৱস্থাপনা"
 
 #. i18n: file: main.ui:61
 #. i18n: ectx: property (text), widget (QCheckBox, quickMaximizeBox)
 #: rc.cpp:12
 msgid "Maximize windows by dragging them to the top of the screen"
-msgstr ""
+msgstr "উইন্ডোসমূহক পৰ্দাৰ উপৰফালে টানি লৈ আকাৰ বৃদ্ধি কৰক"
 
 #. i18n: file: main.ui:68
 #. i18n: ectx: property (text), widget (QCheckBox, quickTileBox)
 #: rc.cpp:15
 msgid "Tile windows by dragging them to the side of the screen"
-msgstr ""
+msgstr "উইন্ডোসমূহক পৰ্দাৰ কাষলে টানি লৈ টাইল কৰক"
 
 #. i18n: file: main.ui:81
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: rc.cpp:18
 msgid "Other Settings"
-msgstr ""
+msgstr "অন্য সংহতিসমূহ"
 
 #. i18n: file: main.ui:90
 #. i18n: ectx: property (toolTip), widget (QLabel, desktopSwitchLabel)
@@ -100,31 +103,32 @@ msgstr ""
 msgid ""
 "Change desktop when the mouse cursor is pushed against the edge of the screen"
 msgstr ""
+"ডেস্কটপ সলনি কৰক যেতিয়া মাউছ কাৰ্চাৰ পৰ্দাৰ প্ৰান্তৰ বিপৰিতে ঠেলি দিয়া হয়"
 
 #. i18n: file: main.ui:93
 #. i18n: ectx: property (text), widget (QLabel, desktopSwitchLabel)
 #: rc.cpp:24
 msgid "&Switch desktop on edge:"
-msgstr ""
+msgstr "প্ৰান্তত ডেস্কটপ অদল বদল কৰক (&S)"
 
 #. i18n: file: main.ui:104
 #. i18n: ectx: property (text), item, widget (KComboBox, desktopSwitchCombo)
 #: rc.cpp:27
 msgctxt "Switch desktop on edge"
 msgid "Disabled"
-msgstr ""
+msgstr "অসামৰ্থবান কৰা আছে"
 
 #. i18n: file: main.ui:109
 #. i18n: ectx: property (text), item, widget (KComboBox, desktopSwitchCombo)
 #: rc.cpp:30
 msgid "Only When Moving Windows"
-msgstr ""
+msgstr "কেৱল উইন্ডোসমূহ স্থানান্তৰ কৰোতে"
 
 #. i18n: file: main.ui:114
 #. i18n: ectx: property (text), item, widget (KComboBox, desktopSwitchCombo)
 #: rc.cpp:33
 msgid "Always Enabled"
-msgstr ""
+msgstr "সদায় সামৰ্থবান"
 
 #. i18n: file: main.ui:122
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
@@ -133,12 +137,13 @@ msgid ""
 "Amount of time required for the mouse cursor to be pushed against the edge "
 "of the screen before the action is triggered"
 msgstr ""
+"কাৰ্য্য আৰম্ভ হোৱাৰ আগত মাউছ কাৰ্চাৰক পৰ্দাৰ প্ৰান্তত লৈ যাবলে প্ৰয়োজনীয় সময়"
 
 #. i18n: file: main.ui:125
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:39
 msgid "Activation &delay:"
-msgstr ""
+msgstr "সক্ৰিয়কৰণ আৰু পলম (&d):"
 
 #. i18n: file: main.ui:135
 #. i18n: ectx: property (suffix), widget (KIntSpinBox, activationDelaySpin)
@@ -155,9 +160,11 @@ msgid ""
 "Amount of time required after triggering an action until the next trigger "
 "can occur"
 msgstr ""
+"এটা কাৰ্য্য ট্ৰিগাৰ কৰাৰ পিছত পৰৱৰ্তী ট্ৰিগাৰ উপস্থিত হোৱা লৈকে সময়ৰ পৰিমাণ"
 
 #. i18n: file: main.ui:157
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:48
 msgid "&Reactivation delay:"
-msgstr ""
+msgstr "পুনৰসক্ৰিয়কৰণ পলম (&R):"
+
