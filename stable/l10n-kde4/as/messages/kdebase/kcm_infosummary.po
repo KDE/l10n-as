@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:15+0530\n"
+"PO-Revision-Date: 2011-07-21 13:59+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,69 +18,69 @@ msgstr ""
 
 #: infosum.cpp:33
 msgid "kcm_infosummary"
-msgstr ""
+msgstr "kcm_infosummary"
 
 #: infosum.cpp:33
 msgid "Hardware Summary Information"
-msgstr ""
+msgstr "হাৰ্ডৱেৰ সাৰাংশ তথ্য"
 
 #: infosum.cpp:35
 msgid "(c) 2010 David Hubner"
-msgstr ""
+msgstr "(c) ২০১০ ডেভিড হুবনাৰ"
 
 #: infosum.cpp:62
 msgid "OS Version"
-msgstr ""
+msgstr "OS সংস্কৰণ"
 
 #: infosum.cpp:62
 msgid "KDE SC Version"
-msgstr ""
+msgstr "KDE SC সংস্কৰণ"
 
 #: infosum.cpp:62
 msgid "Hostname"
-msgstr ""
+msgstr "হস্টনাম"
 
 #: infosum.cpp:69
 msgctxt "OS whats this"
 msgid "This shows information about your Operating System"
-msgstr ""
+msgstr "ই আপোনাৰ অপাৰেটিং চিস্টেমৰ বিষয়ে তথ্য দেখুৱায়"
 
 #: infosum.cpp:86
 msgid "Processor"
-msgstr ""
+msgstr "প্ৰচেছৰ"
 
 #: infosum.cpp:86
 msgid "Processor Number"
-msgstr ""
+msgstr "প্ৰচেছৰ নম্বৰ"
 
 #: infosum.cpp:86
 msgid "Processor Max Speed"
-msgstr ""
+msgstr "প্ৰচেছৰ সৰ্বাধিক গতী"
 
 #: infosum.cpp:92
 msgctxt "CPU whats this"
 msgid "This shows information about a specific CPU in your computer"
-msgstr ""
+msgstr "ই আপোনাৰ কমপিউটাৰৰ এটা বিশেষ CPU -ৰ বিষয়ে তথ্য দেখুৱায়"
 
 #: infosum.cpp:103
 msgid "Memory Amount"
-msgstr ""
+msgstr "মেমৰি পৰিমাণ"
 
 #: infosum.cpp:103
 msgid "Memory Used/Free"
-msgstr ""
+msgstr "মেমৰি ব্যৱহৃত/মুক্ত"
 
 #: infosum.cpp:121
 msgid "Drive Title"
-msgstr ""
+msgstr "ড্ৰাইভ শীৰ্ষক"
 
 #: infosum.cpp:121
 msgid "Storage Size"
-msgstr ""
+msgstr "সংৰক্ষণ আকাৰ"
 
 #: infosum.cpp:121
 msgid "Bus"
-msgstr ""
+msgstr "বাচ"
 
 #: infosum.cpp:129
 msgid "IDE"
@@ -88,40 +88,41 @@ msgstr "IDE"
 
 #: infosum.cpp:131
 msgid "USB"
-msgstr ""
+msgstr "USB"
 
 #: infosum.cpp:133
 msgid "IEEE1394"
-msgstr ""
+msgstr "IEEE1394"
 
 #: infosum.cpp:135
 msgid "SCSI"
-msgstr ""
+msgstr "SCSI"
 
 #: infosum.cpp:137
 msgid "SATA"
-msgstr ""
+msgstr "SATA"
 
 #: infosum.cpp:139
 msgid "Platform"
-msgstr ""
+msgstr "প্লেটফৰ্ম"
 
 #: infosum.cpp:141
 msgctxt "Unknown device"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: infosum.cpp:145
 msgctxt "Hard Drive Whats This"
 msgid "This shows information about a specific hard drive in your computer"
-msgstr ""
+msgstr "ই আপোনাৰ কমপিউটাৰৰ এটা বিশেষ হাৰ্ড ড্ৰাইভৰ বিষয়ে তথ্য দেখুৱায়"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
