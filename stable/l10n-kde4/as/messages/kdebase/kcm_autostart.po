@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-22 05:43+0200\n"
-"PO-Revision-Date: 2011-07-18 21:31+0530\n"
+"PO-Revision-Date: 2011-07-21 11:49+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,23 +18,23 @@ msgstr ""
 
 #: addscriptdialog.cpp:36
 msgid "Shell script:"
-msgstr ""
+msgstr "শ্বেল স্ক্ৰিপ্ট:"
 
 #: addscriptdialog.cpp:40
 msgid "Create as symlink"
-msgstr ""
+msgstr "symlink হিচাপে সৃষ্টি কৰক"
 
 #: advanceddialog.cpp:32
 msgid "Autostart only in KDE"
-msgstr ""
+msgstr "কেৱল KDE -ত স্বচালিতভাৱে আৰম্ভ কৰক"
 
 #: autostart.cpp:58
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #: autostart.cpp:58
 msgid "Command"
-msgstr ""
+msgstr "কমান্ড"
 
 #: autostart.cpp:58
 msgid "Status"
@@ -45,103 +45,104 @@ msgctxt ""
 "@title:column The name of the column that decides if the program is run on "
 "kde startup, on kde shutdown, etc"
 msgid "Run On"
-msgstr ""
+msgstr "-ত চলাওক"
 
 #: autostart.cpp:73
 msgid "KDE Autostart Manager"
-msgstr ""
+msgstr "KDE স্বআৰম্ভ ব্যৱস্থাপক"
 
 #: autostart.cpp:74
 msgid "KDE Autostart Manager Control Panel Module"
-msgstr ""
+msgstr "KDE স্বআৰম্ভ ব্যৱস্থাপক নিয়ন্ত্ৰণ পেনেল মডিউল"
 
 #: autostart.cpp:76
 msgid "Copyright © 2006–2010 Autostart Manager team"
-msgstr ""
+msgstr "স্বত্বাধিকাৰ ©২০০৬-২০১০ স্বআৰম্ভ ব্যৱস্থাপক দল"
 
 #: autostart.cpp:77
 msgid "Stephen Leaf"
-msgstr ""
+msgstr "স্টিফেন লিফ"
 
 #: autostart.cpp:78
 msgid "Montel Laurent"
-msgstr ""
+msgstr "মন্টেল লৰেন্ট"
 
 #: autostart.cpp:78
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: autostart.cpp:108 autostart.cpp:122
 msgctxt "The program won't be run"
 msgid "Disabled"
-msgstr ""
+msgstr "অসামৰ্থবান কৰা আছে"
 
 #: autostart.cpp:110 autostart.cpp:122 autostartitem.cpp:70
 msgctxt "The program will be run"
 msgid "Enabled"
-msgstr ""
+msgstr "সামৰ্থবান কৰা আছে"
 
 #: autostart.cpp:147
 msgid "Startup"
-msgstr ""
+msgstr "Startup"
 
 #: autostart.cpp:148
 msgid "Shutdown"
-msgstr ""
+msgstr "বন্ধ কৰক"
 
 #: autostart.cpp:149
 msgid "Pre-KDE startup"
-msgstr ""
+msgstr "পূৰ্ব-KDE startup"
 
 #: autostart.cpp:154
 msgid "Desktop File"
-msgstr ""
+msgstr "ডেস্কটপ নথিপত্ৰ"
 
 #: autostart.cpp:161
 msgid "Script File"
-msgstr ""
+msgstr "স্ক্ৰিপ্ট নথিপত্ৰ"
 
 #: autostart.cpp:390
 msgid ""
 "Only files with “.sh” extensions are allowed for setting up the environment."
-msgstr ""
+msgstr "কেৱল “.sh” প্ৰসাৰন থকা নথিপত্ৰসমূহকে পৰিৱেশ সংহতি কৰাৰ অনুমতি আছে।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: autostartconfig.ui:26
 #. i18n: ectx: property (text), widget (QPushButton, btnAddProgram)
 #: rc.cpp:5
 msgid "Add Program..."
-msgstr ""
+msgstr "প্ৰগ্ৰাম যোগ কৰক..."
 
 #. i18n: file: autostartconfig.ui:33
 #. i18n: ectx: property (text), widget (QPushButton, btnAddScript)
 #: rc.cpp:8
 msgid "Add Script..."
-msgstr ""
+msgstr "স্ক্ৰিপ্ট যোগ কৰক..."
 
 #. i18n: file: autostartconfig.ui:40
 #. i18n: ectx: property (text), widget (QPushButton, btnRemove)
 #: rc.cpp:11
 msgid "&Remove"
-msgstr ""
+msgstr "আতৰাওক (&R)"
 
 #. i18n: file: autostartconfig.ui:47
 #. i18n: ectx: property (text), widget (QPushButton, btnProperties)
 #: rc.cpp:14
 msgid "&Properties"
-msgstr ""
+msgstr "বৈশিষ্টসমূহ (&P)"
 
 #. i18n: file: autostartconfig.ui:74
 #. i18n: ectx: property (text), widget (QPushButton, btnAdvanced)
 #: rc.cpp:17
 msgid "Advanced"
-msgstr ""
+msgstr "উন্নত"
+
