@@ -69,8 +69,7 @@ msgid ""
 "To trigger an action push your mouse cursor against the edge of the screen "
 "in the action's direction."
 msgstr ""
-"এটা কাৰ্য্য আৰম্ভ কৰিবলে কাৰ্য্যৰ দিশত আপোনাৰ মাউছ কাৰ্চাৰ পৰ্দাৰ প্ৰান্থৰ "
-"বিপৰিতে লৈ "
+"এটা কাৰ্য্য আৰম্ভ কৰিবলে কাৰ্য্যৰ দিশত আপোনাৰ মাউছ কাৰ্চাৰ পৰ্দাৰ প্ৰান্থৰ বিপৰিতে লৈ "
 "যাওক।"
 
 #. i18n: file: main.ui:52
@@ -102,8 +101,7 @@ msgstr "অন্য সংহতিসমূহ"
 #: rc.cpp:21
 msgid ""
 "Change desktop when the mouse cursor is pushed against the edge of the screen"
-msgstr ""
-"ডেস্কটপ সলনি কৰক যেতিয়া মাউছ কাৰ্চাৰ পৰ্দাৰ প্ৰান্তৰ বিপৰিতে ঠেলি দিয়া হয়"
+msgstr "ডেস্কটপ সলনি কৰক যেতিয়া মাউছ কাৰ্চাৰ পৰ্দাৰ প্ৰান্তৰ বিপৰিতে ঠেলি দিয়া হয়"
 
 #. i18n: file: main.ui:93
 #. i18n: ectx: property (text), widget (QLabel, desktopSwitchLabel)
@@ -136,8 +134,7 @@ msgstr "সদায় সামৰ্থবান"
 msgid ""
 "Amount of time required for the mouse cursor to be pushed against the edge "
 "of the screen before the action is triggered"
-msgstr ""
-"কাৰ্য্য আৰম্ভ হোৱাৰ আগত মাউছ কাৰ্চাৰক পৰ্দাৰ প্ৰান্তত লৈ যাবলে প্ৰয়োজনীয় সময়"
+msgstr "কাৰ্য্য আৰম্ভ হোৱাৰ আগত মাউছ কাৰ্চাৰক পৰ্দাৰ প্ৰান্তত লৈ যাবলে প্ৰয়োজনীয় সময়"
 
 #. i18n: file: main.ui:125
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -159,12 +156,10 @@ msgstr " ms"
 msgid ""
 "Amount of time required after triggering an action until the next trigger "
 "can occur"
-msgstr ""
-"এটা কাৰ্য্য ট্ৰিগাৰ কৰাৰ পিছত পৰৱৰ্তী ট্ৰিগাৰ উপস্থিত হোৱা লৈকে সময়ৰ পৰিমাণ"
+msgstr "এটা কাৰ্য্য ট্ৰিগাৰ কৰাৰ পিছত পৰৱৰ্তী ট্ৰিগাৰ উপস্থিত হোৱা লৈকে সময়ৰ পৰিমাণ"
 
 #. i18n: file: main.ui:157
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:48
 msgid "&Reactivation delay:"
 msgstr "পুনৰসক্ৰিয়কৰণ পলম (&R):"
-

@@ -24,8 +24,7 @@ msgid ""
 "Use the \"Whats This?\" (Shift+F1) to get help on specific options."
 msgstr ""
 "<h1>পথসমূহ</h1>\n"
-"এই মডিউলে আপোনাক অনুমতি দিয়ে বাছিবলে নথিপত্ৰপ্ৰণালীৰ ক'ত আপোনাৰ ডেস্কটপত "
-"থকা "
+"এই মডিউলে আপোনাক অনুমতি দিয়ে বাছিবলে নথিপত্ৰপ্ৰণালীৰ ক'ত আপোনাৰ ডেস্কটপত থকা "
 "নথিপত্ৰসমূহ সংৰক্ষণ কৰা হ'ব।\n"
 "বিশেষ বিকল্পসমূহত সহায় প্ৰাপ্ত কৰিবলে \"এইটে কি\" (Shift+F1) ব্যৱহাৰ কৰক।"
 
@@ -39,10 +38,8 @@ msgid ""
 "change the location of this folder if you want to, and the contents will "
 "move automatically to the new location as well."
 msgstr ""
-"এই ফোল্ডাৰে আপুনবি ডেস্কটপত চোৱা সকলো নথিপত্ৰ অন্তৰ্ভুক্ত কৰে। আপুনি "
-"বিচাৰিলে এই "
-"ফোল্ডাৰৰ অৱস্থান সলনি কৰিব পাৰিব, আৰু সমলসমূহ স্বচালিতভাৱে নতুন অৱস্থানত "
-"স্থানান্তৰ "
+"এই ফোল্ডাৰে আপুনবি ডেস্কটপত চোৱা সকলো নথিপত্ৰ অন্তৰ্ভুক্ত কৰে। আপুনি বিচাৰিলে এই "
+"ফোল্ডাৰৰ অৱস্থান সলনি কৰিব পাৰিব, আৰু সমলসমূহ স্বচালিতভাৱে নতুন অৱস্থানত স্থানান্তৰ "
 "হব।"
 
 #: globalpaths.cpp:87
@@ -56,11 +53,10 @@ msgid ""
 "the location of this folder if you want to, and the contents will move "
 "automatically to the new location as well."
 msgstr ""
-"এই ফোল্ডাৰে অনুপ্ৰয়োগসমূহ অথবা অনুপ্ৰয়োগসমূহলে (চৰ্টকাটসমূহ) লিঙ্কসমূহ যি "
-"আপুনি স্বচালিতভাৱে "
-"আৰমভ হোৱা বিচাৰে যেতিয়ায় KDE আৰম্ভ হয় সেইসমূহ অন্তৰ্ভুক্ত কৰে। আপুনি "
-"বিচাৰিলে এই ফোল্ডাৰৰ অৱস্থান "
-"আপুনি সলনি কৰিব পাৰে, আৰু সমলসমূহ স্বচালিতভাৱে নতুন অৱস্থানত স্থানান্তৰ হব।"
+"এই ফোল্ডাৰে অনুপ্ৰয়োগসমূহ অথবা অনুপ্ৰয়োগসমূহলে (চৰ্টকাটসমূহ) লিঙ্কসমূহ যি আপুনি "
+"স্বচালিতভাৱে আৰমভ হোৱা বিচাৰে যেতিয়ায় KDE আৰম্ভ হয় সেইসমূহ অন্তৰ্ভুক্ত কৰে। আপুনি "
+"বিচাৰিলে এই ফোল্ডাৰৰ অৱস্থান আপুনি সলনি কৰিব পাৰে, আৰু সমলসমূহ স্বচালিতভাৱে নতুন "
+"অৱস্থানত স্থানান্তৰ হব।"
 
 #: globalpaths.cpp:94
 msgid "Documents path:"
@@ -70,8 +66,7 @@ msgstr "দস্তাবেজসমূহৰ পথ:"
 msgid ""
 "This folder will be used by default to load or save documents from or to."
 msgstr ""
-"এই ফোল্ডাৰ অবিকল্পভাৱে দস্তাবেজসমূহ লোড অথবা সঞ্চয় কৰাৰ কাৰণে ব্যৱহাৰ কৰা "
-"হব।"
+"এই ফোল্ডাৰ অবিকল্পভাৱে দস্তাবেজসমূহ লোড অথবা সঞ্চয় কৰাৰ কাৰণে ব্যৱহাৰ কৰা হব।"
 
 #: globalpaths.cpp:98
 msgid "Downloads path:"
@@ -80,8 +75,7 @@ msgstr "ডাউনলোডসমূহৰ পথ:"
 #: globalpaths.cpp:99
 msgid "This folder will be used by default to save your downloaded items."
 msgstr ""
-"আপোনাৰ ডাউনলোড কৰা বস্তুসমূহ সংৰক্ষণ কৰিবলে এই ফোল্ডাৰ অবিকল্পিতভাৱে "
-"ব্যৱহাৰ কৰা হব।"
+"আপোনাৰ ডাউনলোড কৰা বস্তুসমূহ সংৰক্ষণ কৰিবলে এই ফোল্ডাৰ অবিকল্পিতভাৱে ব্যৱহাৰ কৰা হব।"
 
 #: globalpaths.cpp:102
 msgid "Movies path:"
@@ -89,8 +83,7 @@ msgstr "চলচিত্ৰসমূহ পথ:"
 
 #: globalpaths.cpp:103
 msgid "This folder will be used by default to load or save movies from or to."
-msgstr ""
-"চলচিত্ৰসমূহ লোড অথবা সঞ্চয় কৰিবলে এই ফোল্ডাৰ অবিকল্পিতভাৱে ব্যৱহাৰ কৰা হব।"
+msgstr "চলচিত্ৰসমূহ লোড অথবা সঞ্চয় কৰিবলে এই ফোল্ডাৰ অবিকল্পিতভাৱে ব্যৱহাৰ কৰা হব।"
 
 #: globalpaths.cpp:106
 msgid "Pictures path:"
@@ -99,8 +92,7 @@ msgstr "ছবিসমূহৰ পথ:"
 #: globalpaths.cpp:107
 msgid ""
 "This folder will be used by default to load or save pictures from or to."
-msgstr ""
-"ছবিসমূহ লোড অথবা সঞ্চয় কৰিবলে এই ফোল্ডাৰ অবিকল্পিতভাৱে ব্যৱহাৰ কৰা হব।"
+msgstr "ছবিসমূহ লোড অথবা সঞ্চয় কৰিবলে এই ফোল্ডাৰ অবিকল্পিতভাৱে ব্যৱহাৰ কৰা হব।"
 
 #: globalpaths.cpp:110
 msgid "Music path:"
@@ -179,4 +171,3 @@ msgstr "স্থানান্তৰ নকৰিব"
 #: globalpaths.cpp:354
 msgid "Confirmation Required"
 msgstr "সুনিশ্চিতকৰণৰ প্ৰয়োজন"
-

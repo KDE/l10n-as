@@ -105,9 +105,8 @@ msgid ""
 "New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
 "@@ for white list):"
 msgstr ""
-"নতুন পৰিস্ৰাৱক (স্বাভাৱিক অভিব্যক্তিৰ কাৰণে ব্যৱহাৰ কৰিব পাৰি, *?[] "
-"wildcardসমূহ, বগা তালিকাৰ "
-"বাবে @@ -ৰ সৈতে উপসৰ্গ):"
+"নতুন পৰিস্ৰাৱক (স্বাভাৱিক অভিব্যক্তিৰ কাৰণে ব্যৱহাৰ কৰিব পাৰি, *?[] wildcardসমূহ, "
+"বগা তালিকাৰ বাবে @@ -ৰ সৈতে উপসৰ্গ):"
 
 #: adblockdialog.cpp:170
 msgid "Filter this item"
@@ -148,4 +147,3 @@ msgstr "সঁজুলিসমূহ (&T)"
 #: rc.cpp:6
 msgid "Extra Toolbar"
 msgstr "অতিৰিক্ত টুলবাৰ"
-

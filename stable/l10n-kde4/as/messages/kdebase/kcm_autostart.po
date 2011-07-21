@@ -145,4 +145,3 @@ msgstr "বৈশিষ্টসমূহ (&P)"
 #: rc.cpp:17
 msgid "Advanced"
 msgstr "উন্নত"
-

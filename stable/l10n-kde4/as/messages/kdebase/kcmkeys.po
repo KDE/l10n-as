@@ -53,8 +53,7 @@ msgid ""
 "Your current changes will be lost if you load another scheme before saving "
 "this one"
 msgstr ""
-"আপোনাৰ বৰ্তমান সলনিসমূহ হেৰাই যাব যদি আপুনি ইয়াক সঞ্চয় কৰাৰ আগত অন্য আঁচনি "
-"লোড কৰে"
+"আপোনাৰ বৰ্তমান সলনিসমূহ হেৰাই যাব যদি আপুনি ইয়াক সঞ্চয় কৰাৰ আগত অন্য আঁচনি লোড কৰে"
 
 #: kglobalshortcutseditor.cpp:330
 msgid "Load Shortcut Scheme"
@@ -68,8 +67,7 @@ msgstr "লোড কৰক"
 #, kde-format
 msgid "This file (%1) does not exist. You can only select local files."
 msgstr ""
-"নথিপত্ৰ (%1) -ৰ অস্তিত্ব নাই। আপুনি কেৱল স্থানীয় নথিপত্ৰসমূহ নিৰ্বাচন কৰিব "
-"পাৰিব।"
+"নথিপত্ৰ (%1) -ৰ অস্তিত্ব নাই। আপুনি কেৱল স্থানীয় নথিপত্ৰসমূহ নিৰ্বাচন কৰিব পাৰিব।"
 
 #: kglobalshortcutseditor.cpp:372 kglobalshortcutseditor.cpp:395
 #, kde-format
@@ -92,12 +90,10 @@ msgid ""
 "All global shortcuts will reregister themselves with their defaults when "
 "they are next started."
 msgstr ""
-"উপাদান '%1' বৰ্তমানে সক্ৰিয়। কেৱল বিশ্বব্যাপী চৰ্টকাটসমূহ যি বৰ্তমানে সক্ৰিয় "
-"নহয় তালিকাৰ "
-"পৰা আতৰোৱা হব।\n"
-"সকলো বিশ্বব্যাপী চৰ্টকাট সিহতক সিহতৰ চৰ্টকাটসমূহৰ লগত পূনৰ ৰেজিস্টাৰ কৰিব "
-"যেতিয়া সিহতক "
-"পৰৱৰ্তী আৰম্ভ কৰা হব।"
+"উপাদান '%1' বৰ্তমানে সক্ৰিয়। কেৱল বিশ্বব্যাপী চৰ্টকাটসমূহ যি বৰ্তমানে সক্ৰিয় নহয় "
+"তালিকাৰ পৰা আতৰোৱা হব।\n"
+"সকলো বিশ্বব্যাপী চৰ্টকাট সিহতক সিহতৰ চৰ্টকাটসমূহৰ লগত পূনৰ ৰেজিস্টাৰ কৰিব যেতিয়া "
+"সিহতক পৰৱৰ্তী আৰম্ভ কৰা হব।"
 
 #: kglobalshortcutseditor.cpp:510 kglobalshortcutseditor.cpp:520
 msgid "Remove component"
@@ -110,11 +106,9 @@ msgid ""
 "The component and shortcuts will reregister themselves with their default "
 "settings when they are next started."
 msgstr ""
-"আপুনি নিশ্চিত নে আপুনি উপাদান '%1' -ৰ বাবে ৰেজিস্টাৰ্ড চৰ্টকাটসমূহ আতৰাব "
-"বিচাৰে? "
-"উপাদান আৰু চৰ্টকাটসমূহ সিহতক সিহতৰ অবিকল্পিত সংহতিসমূহৰ লগত পুনৰ ৰেজিস্টাৰ "
-"কৰিব যেতিয়া "
-"সিহত পৰৱৰ্তী আৰম্ভ হব।"
+"আপুনি নিশ্চিত নে আপুনি উপাদান '%1' -ৰ বাবে ৰেজিস্টাৰ্ড চৰ্টকাটসমূহ আতৰাব বিচাৰে? "
+"উপাদান আৰু চৰ্টকাটসমূহ সিহতক সিহতৰ অবিকল্পিত সংহতিসমূহৰ লগত পুনৰ ৰেজিস্টাৰ কৰিব "
+"যেতিয়া সিহত পৰৱৰ্তী আৰম্ভ হব।"
 
 #. i18n: file: export_scheme_dialog.ui:17
 #. i18n: ectx: property (text), widget (QLabel, components_label)
@@ -171,4 +165,3 @@ msgstr "এটা চৰ্টকাট আঁচনি নথিপত্ৰ �
 #: rc.cpp:27
 msgid "&Path:"
 msgstr "পথ (&P):"
-
