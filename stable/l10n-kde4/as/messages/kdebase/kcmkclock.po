@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-10-03 06:14+0200\n"
-"PO-Revision-Date: 2011-07-18 21:15+0530\n"
+"PO-Revision-Date: 2011-07-21 15:06+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,8 @@ msgid ""
 "No NTP utility has been found. Install 'ntpdate' or 'rdate' command to "
 "enable automatic updating of date and time."
 msgstr ""
+"কোনো NTP সঁজুলি পোৱা নগল। তাৰিখ আৰু সময়ৰ স্বচালিত আপডেটিং সামৰ্থবান কৰিবলে "
+"'ntpdate' অথবা 'rdate' কমান্ড ইনস্টল কৰক।"
 
 #: dtime.cpp:106
 msgid ""
@@ -28,34 +30,41 @@ msgid ""
 "seconds field to change the relevant value, either using the up and down "
 "buttons to the right or by entering a new value."
 msgstr ""
+"ইয়াত আপুনি চিস্টেম সময় সলনি কৰিব পাৰিব। ঘন্টা, মিনিট অথবা ছেকেণ্ড ক্ষেত্ৰক "
+"ক্লিক কৰক "
+"প্ৰাসংগিক মান সলনি কৰিবলে, হয় সোঁফালে থকা উপৰ আৰু তল বুটাম ব্যৱহাৰ কৰি অথবা "
+"এটা "
+"নতুন মান সুমুৱাই।"
 
 #: dtime.cpp:130
 #, kde-format
 msgid "Current local time zone: %1 (%2)"
-msgstr ""
+msgstr "বৰ্তমান স্থানীয় সময় অঞ্চল: %1 (%2)"
 
 #: dtime.cpp:196
 msgid ""
 "Public Time Server (pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,"
 "north-america.pool.ntp.org,oceania.pool.ntp.org"
 msgstr ""
+"ৰাজহুৱা সময় চাৰ্ভাৰ (pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,"
+"north-america.pool.ntp.org,oceania.pool.ntp.org"
 
 #: dtime.cpp:275
 #, kde-format
 msgid "Unable to contact time server: %1."
-msgstr ""
+msgstr "সময় চাৰ্ভাৰৰ লগত সংযোগ কৰিবলে ব্যৰ্থ: %1।"
 
 #: dtime.cpp:279
 msgid "Can not set date."
-msgstr ""
+msgstr "তাৰিখ সংহতি কৰিব নোৱাৰি।"
 
 #: dtime.cpp:282
 msgid "Error setting new time zone."
-msgstr ""
+msgstr "নতুন সময় অঞ্চল সংহতি কৰোতে ত্ৰুটি।"
 
 #: dtime.cpp:283
 msgid "Time zone Error"
-msgstr ""
+msgstr "সময় অঞ্চল ত্ৰুটি"
 
 #: dtime.cpp:300
 msgid ""
@@ -66,42 +75,51 @@ msgid ""
 "feel the system time should be corrected, please contact your system "
 "administrator."
 msgstr ""
+"<h1>তাৰিখ আৰু সময়</h1> এই চিস্টেম সংহতিসমূহ মডিউল চিস্টেমত তাৰিখ আৰু সময় "
+"সংহতি "
+"কৰিবলে ব্যৱহাৰ কৰিব পাৰি। যিহেতু এই সংহতিসমূহ আপোনাক কেৱল ব্যৱহাৰকাৰী হিচাপে "
+"প্ৰভাৱ নেপেলায়, "
+"বৰং সম্পূৰ্ণ চিস্টেম, আপুনি এই সংহতিসমূহক তেতিয়ায় সলনি কৰিব পাৰিব যেতিয়া "
+"আপুনি চিস্টেম সংহতিসমূহ "
+"ৰুট হিচাপে আৰম্ভ কৰিব। যদি আপোনাট ৰুট পাছৱাৰ্ড নাই, কিন্তু এনেকুৱা ভাৱে যে "
+"চিস্টেম সময় শুদ্ধ কৰিব লাগিব, "
+"অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।"
 
 #: main.cpp:53
 msgid "kcmclock"
-msgstr ""
+msgstr "kcmclock"
 
 #: main.cpp:53
 msgid "KDE Clock Control Module"
-msgstr ""
+msgstr "KDE ঘড়ি নিয়ন্ত্ৰণ মডিউল"
 
 #: main.cpp:55
 msgid "(c) 1996 - 2001 Luca Montecchiani"
-msgstr ""
+msgstr "(c) ১৯৯৬ - ২০০১ লুকা মন্টিচিয়ানি"
 
 #: main.cpp:57
 msgid "Luca Montecchiani"
-msgstr ""
+msgstr "লুকা মন্টিচিয়ানি"
 
 #: main.cpp:57
 msgid "Original author"
-msgstr ""
+msgstr "প্ৰকৃত লেখক"
 
 #: main.cpp:58
 msgid "Paul Campbell"
-msgstr ""
+msgstr "পল কেম্পবেল"
 
 #: main.cpp:58
 msgid "Current Maintainer"
-msgstr ""
+msgstr "বৰ্তমান ব্যৱস্থাপক"
 
 #: main.cpp:59
 msgid "Benjamin Meyer"
-msgstr ""
+msgstr "বেজ্ঞামীন মেয়াৰ"
 
 #: main.cpp:59
 msgid "Added NTP support"
-msgstr ""
+msgstr "যোগ কৰা NTP সমৰ্থন"
 
 #: main.cpp:61
 msgid ""
@@ -111,60 +129,71 @@ msgid ""
 "Settings as root. If you do not have the root password, but feel the system "
 "time should be corrected, please contact your system administrator."
 msgstr ""
+"<h1>তাৰিখ & সময়</h1> এই নিয়ন্ত্ৰণ মডিউলক চিস্টেম তাৰিখ আৰু সময় সংহতি কৰিবলে "
+"ব্যৱহাৰ "
+"কৰিব পাৰি। যিহেতু এই সংহতিসমূহ কেৱল আপোনাক ব্যৱহাৰকাৰী হিচাপে প্ৰভাৱ "
+"নেপেলায়, বৰং সম্পূৰ্ণ "
+"চিস্টেম, আপুনি এই সংহতিসমূহ সলনি কৰিব পাৰিব যেতিয়া আপুনি চিস্টেম সংহতিসমূহ "
+"ৰুট হিচাপে আৰম্ভ "
+"কৰে। যদি আপোনাৰ ৰুট পাছৱাৰ্ড নাই, কিন্তু ভাবে যে চিস্টেম সময় শুদ্ধ কৰিব "
+"লাগিব, অনুগ্ৰহ কৰি আপোনাৰ "
+"চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।"
 
 #: main.cpp:98
 #, kde-format
 msgid "Unable to authenticate/execute the action: %1, %2"
-msgstr ""
+msgstr "কাৰ্য্য প্ৰমাণীকৰণ/প্ৰেৰণ কৰোতে অক্ষম: %1, %2"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: dateandtime.ui:22
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: rc.cpp:5
 msgid "Date and Time"
-msgstr ""
+msgstr "তাৰিখ আৰু সময়"
 
 #. i18n: file: dateandtime.ui:30
 #. i18n: ectx: property (text), widget (QCheckBox, setDateTimeAuto)
 #: rc.cpp:8
 msgid "Set date and time &automatically:"
-msgstr ""
+msgstr "তাৰিখ আৰু সময় স্বচালিতভাৱে সংহতি কৰক (&a):"
 
 #. i18n: file: dateandtime.ui:53
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:11
 msgid "Time server:"
-msgstr ""
+msgstr "সময় চাৰ্ভাৰ:"
 
 #. i18n: file: dateandtime.ui:83
 #. i18n: ectx: property (whatsThis), widget (KDatePicker, cal)
 #: rc.cpp:14
 msgid "Here you can change the system date's day of the month, month and year."
-msgstr ""
+msgstr "ইয়াত আপুনি চিস্টেম তাৰিখৰ মাহৰ দিন, মাহ আৰু বছৰ সলনি কৰিব পাৰিব।"
 
 #. i18n: file: dateandtime.ui:116
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
 #: rc.cpp:17
 msgid "Time Zone"
-msgstr ""
+msgstr "সময় অঞ্চল"
 
 #. i18n: file: dateandtime.ui:122
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:20
 msgid "To change the local time zone, select your area from the list below."
 msgstr ""
+"স্থানীয় সময় অঞ্চল সলনি কৰিবলে, নিম্নলিখিত তালিকাৰ পৰা আপোনাৰ স্থান বাছক।"
 
 #. i18n: file: dateandtime.ui:145
 #. i18n: ectx: property (text), widget (QLabel, m_local)
 #: rc.cpp:23
 msgid "Current local time zone:"
-msgstr ""
+msgstr "বৰ্তমান স্থানীয় সময় অঞ্চল:"
+
