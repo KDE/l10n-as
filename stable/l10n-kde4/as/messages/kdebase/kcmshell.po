@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-11 02:35+0100\n"
-"PO-Revision-Date: 2011-07-18 21:10+0530\n"
+"PO-Revision-Date: 2011-07-21 16:33+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,71 +18,71 @@ msgstr ""
 
 #: main.cpp:168
 msgid "KDE Control Module"
-msgstr ""
+msgstr "KDE নিয়ন্ত্ৰণ মডিউল"
 
 #: main.cpp:170
 msgid "A tool to start single KDE control modules"
-msgstr ""
+msgstr "একক KDE নিয়ন্ত্ৰণ মডিউলসমূহ আৰম্ভ কৰিবলে এটা সঁজুলি"
 
 #: main.cpp:172
 msgid "(c) 1999-2004, The KDE Developers"
-msgstr ""
+msgstr "(c) ১৯৯৯-২০০৪, KDE উন্নয়নকাৰীসমূহ"
 
 #: main.cpp:174
 msgid "Frans Englich"
-msgstr ""
+msgstr "ফ্ৰান্চ ইংলিছ"
 
 #: main.cpp:174
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: main.cpp:175
 msgid "Daniel Molkentin"
-msgstr ""
+msgstr "ডেনিয়েল মলকেন্টিন"
 
 #: main.cpp:176
 msgid "Matthias Hoelzer-Kluepfel"
-msgstr ""
+msgstr "মেথিয়াচ হিলজাৰ-ক্লুফেল"
 
 #: main.cpp:177
 msgid "Matthias Elter"
-msgstr ""
+msgstr "মেথিয়াচ এল্টাৰ"
 
 #: main.cpp:178
 msgid "Matthias Ettrich"
-msgstr ""
+msgstr "মেথিয়াচ ইট্ৰিক"
 
 #: main.cpp:179
 msgid "Waldo Bastian"
-msgstr ""
+msgstr "ৱাল্ডো বাস্টিয়ান"
 
 #: main.cpp:184
 msgid "List all possible modules"
-msgstr ""
+msgstr "সকলো সম্ভাব্য মডিউল তালিকাভুক্ত কৰে"
 
 #: main.cpp:185
 msgid "Configuration module to open"
-msgstr ""
+msgstr "খোলিবলে সংৰূপ মডিউল"
 
 #: main.cpp:186
 msgid "Specify a particular language"
-msgstr ""
+msgstr "এটা বিশেষ ভাষা ধাৰ্য্য কৰক"
 
 #: main.cpp:187
 msgid "Do not display main window"
-msgstr ""
+msgstr "মূখ্য উইন্ডো প্ৰদৰ্শন নকৰিব"
 
 #: main.cpp:188
 msgid "Arguments for the module"
-msgstr ""
+msgstr "মডিউলৰ বাবে তৰ্কসমূহ"
 
 #: main.cpp:201
 msgid "The following modules are available:"
-msgstr ""
+msgstr "নিম্নলিখিত মডিউলসমূহ উপলব্ধ:"
 
 #: main.cpp:220
 msgid "No description available"
-msgstr ""
+msgstr "কোনো বিৱৰণ উপলব্ধ নহয়"
 
 #: main.cpp:252
 #, kde-format
@@ -90,13 +90,17 @@ msgid ""
 "Could not find module '%1'. See kcmshell4 --list for the full list of "
 "modules."
 msgstr ""
+"মডিউল '%1' পোৱা নাযায়। মডিউলসমূহৰ সম্পূৰ্ণ তালিকাৰ বাবে kcmshell4 "
+"--list "
+"চাওক।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
