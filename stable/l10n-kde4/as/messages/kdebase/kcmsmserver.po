@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-22 05:43+0200\n"
-"PO-Revision-Date: 2011-07-18 21:10+0530\n"
+"PO-Revision-Date: 2011-07-21 17:03+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +24,19 @@ msgid ""
 "whether the computer should be automatically shut down after session exit by "
 "default."
 msgstr ""
+"<h1>অধিবেশন ব্যৱস্থাপক</h1> আপুনি অধিবেশন ব্যৱস্থাপকক ইয়াত সংৰূপণ কৰিব "
+"পাৰিব। ই "
+"বিকল্পসমূহ যেনে অধিবেশন প্ৰস্থান (লগআউট) সুনিশ্চিত কৰিব লাগে নে তাকে "
+"অন্তৰ্ভুক্ত কৰে, অধিবেশনটো "
+"লগিন কৰোতে পুনৰসংস্থাপন কৰা হব নে আৰু অবিকল্পিতভাৱে অধিবেশন প্ৰস্থানৰ পিছত "
+"স্বচালিতভাৱে বন্ধ "
+"হব নে।"
 
 #. i18n: file: smserverconfigdlg.ui:17
 #. i18n: ectx: property (title), widget (QGroupBox, topBox)
 #: rc.cpp:3
 msgid "General"
-msgstr ""
+msgstr "সাধাৰন"
 
 #. i18n: file: smserverconfigdlg.ui:23
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, confirmLogoutCheck)
@@ -38,18 +45,21 @@ msgid ""
 "Check this option if you want the session manager to display a logout "
 "confirmation dialog box."
 msgstr ""
+"এই বিকল্প চেক কৰক যদি আপুনি অধিবেশন ব্যৱস্থাপকক এটা লগআউট সুনিশ্চিত ডাইলগ "
+"বাকচ "
+"প্ৰদৰ্শন কৰাব বিচাৰে।"
 
 #. i18n: file: smserverconfigdlg.ui:26
 #. i18n: ectx: property (text), widget (QCheckBox, confirmLogoutCheck)
 #: rc.cpp:9
 msgid "Conf&irm logout"
-msgstr ""
+msgstr "লগআউট নিশ্চিত কৰক (&i)"
 
 #. i18n: file: smserverconfigdlg.ui:33
 #. i18n: ectx: property (text), widget (QCheckBox, offerShutdownCheck)
 #: rc.cpp:12
 msgid "O&ffer shutdown options"
-msgstr ""
+msgstr "বন্ধ কৰাৰ বিকল্পসমূহ প্ৰদান কৰক (&f)"
 
 #. i18n: file: smserverconfigdlg.ui:43
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, sdGroup)
@@ -58,30 +68,33 @@ msgid ""
 "Here you can choose what should happen by default when you log out. This "
 "only has meaning, if you logged in through KDM."
 msgstr ""
+"ইয়াত আপুনি বাছিব পাৰিব অবিকল্পিতভাৱে কি হব লাগে যেতিয়া আপুনি লগআউট কৰে। ইয়াৰ "
+"তেতিয়াহে "
+"অৰ্থ আছে, যেতিয়া আপুনি KDM -ৰে লগিন কৰে।"
 
 #. i18n: file: smserverconfigdlg.ui:46
 #. i18n: ectx: property (title), widget (QGroupBox, sdGroup)
 #: rc.cpp:18
 msgid "Default Leave Option"
-msgstr ""
+msgstr "অবিকল্পিত এৰা বিকল্প"
 
 #. i18n: file: smserverconfigdlg.ui:52
 #. i18n: ectx: property (text), widget (QRadioButton, logoutRadio)
 #: rc.cpp:21
 msgid "&End current session"
-msgstr ""
+msgstr "বৰ্তমান অধিবেশন অন্ত কৰক (&E)"
 
 #. i18n: file: smserverconfigdlg.ui:59
 #. i18n: ectx: property (text), widget (QRadioButton, haltRadio)
 #: rc.cpp:24
 msgid "&Turn off computer"
-msgstr ""
+msgstr "কমপিউটাৰ বন্ধ কৰক (&T)"
 
 #. i18n: file: smserverconfigdlg.ui:66
 #. i18n: ectx: property (text), widget (QRadioButton, rebootRadio)
 #: rc.cpp:27
 msgid "&Restart computer"
-msgstr ""
+msgstr "কমপিউটাৰ পুনৰাম্ভ কৰক (&R)"
 
 #. i18n: file: smserverconfigdlg.ui:80
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, loginGroup)
@@ -97,36 +110,49 @@ msgid ""
 "with an empty desktop on next start.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"<li><b>পূৰ্বৱৰ্তী অধিবেশন পুনৰস্থাপন কৰক:</b> প্ৰস্থানত চলা সকলো অনুপ্ৰয়োগ "
+"সংৰক্ষণ কৰিব আৰু "
+"পুনৰসংস্থাপন কৰিব যেতিয়া সিহত পৰৱৰ্তী আৰম্ভ হয়</li>\n"
+"<li><b>হস্তাচালিতভাৱে সংৰক্ষীত অধিবেশন পুনৰসংস্থাপন কৰক: </b> অধিবেশনক "
+"K-মেনুত \"অধিবেশন "
+"সংৰক্ষণ কৰক\" ব্যৱহাৰ কৰি যিকোনো সময়ত সংৰক্ষণ কৰাৰ অনুমতি দিয়ে। ই বুজায় যে "
+"বৰ্তমানে আৰম্ভ হোৱা "
+"অনুপ্ৰয়োগসমূহ পুনৰ প্ৰস্তুত হ'ব যেতিয়া সিহত আকৌ আৰম্ভ হয়।</li>\n"
+"<li><b>এটা ৰিক্ত অধিবেশনৰ সৈতে আৰম্ভ কৰক:</b> একো সংৰক্ষণ নকৰিব। পৰৱৰ্তী "
+"আৰম্ভত এটা ৰিক্ত "
+"ডেস্কটপৰ হৈতে আহিব।</li>\n"
+"</ul>"
 
 #. i18n: file: smserverconfigdlg.ui:83
 #. i18n: ectx: property (title), widget (QGroupBox, loginGroup)
 #: rc.cpp:37
 msgid "On Login"
-msgstr ""
+msgstr "লগিনত"
 
 #. i18n: file: smserverconfigdlg.ui:89
 #. i18n: ectx: property (text), widget (QRadioButton, previousSessionRadio)
 #: rc.cpp:40
 msgid "Restore &previous session"
-msgstr ""
+msgstr "পূৰ্বৱৰ্তী অধিবেশন পুনৰসংৰক্ষণ কৰক (&p)"
 
 #. i18n: file: smserverconfigdlg.ui:96
 #. i18n: ectx: property (text), widget (QRadioButton, savedSessionRadio)
 #: rc.cpp:43
 msgid "Restore &manually saved session"
-msgstr ""
+msgstr "হস্তচালিতভাৱে সংৰক্ষীত অধিবেশন পুনৰস্থাপন কৰক"
 
 #. i18n: file: smserverconfigdlg.ui:103
 #. i18n: ectx: property (text), widget (QRadioButton, emptySessionRadio)
 #: rc.cpp:46
 msgid "Start with an empty &session"
-msgstr ""
+msgstr "এটা ৰিক্ত অধিবেশনৰ সৈতে আৰম্ভ কৰক (&s)"
 
 #. i18n: file: smserverconfigdlg.ui:110
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: rc.cpp:49
 msgid "Applications to be e&xcluded from sessions:"
-msgstr ""
+msgstr "অনুপ্ৰয়োগসমূহ অধিবেশনসমূহৰ পৰা বাদ দিব লাগিব (&x):"
 
 #. i18n: file: smserverconfigdlg.ui:123
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, excludeLineedit)
@@ -136,3 +162,8 @@ msgid ""
 "should not be saved in sessions, and therefore will not be started when "
 "restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
 msgstr ""
+"ইয়াত আপুনি কলন বা কমা পৃথকিত অনুপ্ৰয়োগসমূহৰ তালিকা সোমাব পাৰিব যি "
+"অধিবেশনসমূহ "
+"সংৰক্ষীত হব নালাগিব, আৰু সেয়েহে এটা অধিবেশন পুনৰ সংস্থাপন কৰোতে আৰম্ভ নহব। "
+"উদাহৰনস্বৰুপে 'xterm:konsole' অথবা 'xterm,konsole'।"
+
