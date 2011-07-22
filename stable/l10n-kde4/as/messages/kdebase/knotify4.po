@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-04 02:23+0100\n"
-"PO-Revision-Date: 2011-07-18 21:02+0530\n"
+"PO-Revision-Date: 2011-07-22 19:54+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +18,12 @@ msgstr ""
 
 #: ksolidnotify.cpp:148
 msgid "Devices notification"
-msgstr ""
+msgstr "ডিভাইচ সংকেতসমূহ"
 
 #: ksolidnotify.cpp:157
 #, kde-format
 msgid "Could not mount the following device: %1"
-msgstr ""
+msgstr "নিম্নলিখিত ডিভাইচ মাউন্ট কৰিবলে ব্যৰ্থ: %1"
 
 #: ksolidnotify.cpp:167
 #, kde-format
@@ -31,6 +31,8 @@ msgid ""
 "Could not unmount the following device: %1\n"
 "One or more files on this device are open within an application "
 msgstr ""
+"নিম্নলিখিত ডিভাইচ আনমাউন্ট কৰিব নোৱাৰি: %1\n"
+"এই ডিভাইচৰ এটা বা অধিক নথিপত্ৰ এটা অনুপ্ৰয়োগৰ লগত খোলা অৱস্থাত আছে "
 
 #: ksolidnotify.cpp:172
 #, kde-format
@@ -38,7 +40,7 @@ msgctxt ""
 "The term \"remove\" here means \"physically disconnect the device from the "
 "computer\", whereas \"safely\" means \"without risk of data loss\""
 msgid "The following device can now be safely removed: %1"
-msgstr ""
+msgstr "নিম্নলিখিত ডিভাইচ এতিয়া সুৰক্ষিতভাৱে আতৰাব পাৰি: %1"
 
 #: ksolidnotify.cpp:193
 #, kde-format
@@ -46,74 +48,77 @@ msgid ""
 "Could not eject the following device: %1\n"
 "One or more files on this device are open within an application "
 msgstr ""
+"নিম্নলিখিত ডিভাইচ বাহিৰ কৰিব নোৱাৰি: %1\n"
+"এই ডিভাইচৰ এটা বা অধিক নথিপত্ৰ এটা অনুপ্ৰয়োগৰ লগত খোলা অৱস্থাত আছে "
 
 #: ksolidnotify.cpp:198
 #, kde-format
 msgid "The following device can now be safely removed: %1"
-msgstr ""
+msgstr "নিম্নলিখিত ডিভাইচ এতিয়া সুৰক্ষিতভাৱে আতৰাব পাৰি: %1"
 
 #: main.cpp:37
 msgid "KNotify"
-msgstr ""
+msgstr "KNotify"
 
 #: main.cpp:38
 msgid "KDE Notification Daemon"
-msgstr ""
+msgstr "KDE অধিসূচনা ডিমন"
 
 #: main.cpp:39
 msgid "(C) 1997-2008, KDE Developers"
-msgstr ""
+msgstr "(C) ১৯৯৭-২০০৮, KDE উন্নয়নকাৰীসমূহ"
 
 #: main.cpp:40
 msgid "Olivier Goffart"
-msgstr ""
+msgstr "অলিভিয়াৰ গফাৰ্ট"
 
 #: main.cpp:40
 msgid "Current Maintainer"
-msgstr ""
+msgstr "বৰ্তমান ব্যৱস্থাপক"
 
 #: main.cpp:41
 msgid "Carsten Pfeiffer"
-msgstr ""
+msgstr "কাৰ্চটেন ফিফাৰ"
 
 #: main.cpp:41 main.cpp:44
 msgid "Previous Maintainer"
-msgstr ""
+msgstr "পূৰ্বৱৰ্তী ব্যৱস্থাপক"
 
 #: main.cpp:42
 msgid "Christian Esken"
-msgstr ""
+msgstr "খ্ৰিষ্টিয়ান এস্কেন"
 
 #: main.cpp:43
 msgid "Stefan Westerfeld"
-msgstr ""
+msgstr "স্টিফান ওৱেস্টাৰফিল্ড"
 
 #: main.cpp:43
 msgid "Sound support"
-msgstr ""
+msgstr "শব্দ সমৰ্থন"
 
 #: main.cpp:44
 msgid "Charles Samuels"
-msgstr ""
+msgstr "চাৰ্লস চেমুৱেল্চ"
 
 #: main.cpp:45
 msgid "Allan Sandfeld Jensen"
-msgstr ""
+msgstr "এলেন সেনফিল্ড জেনছেন"
 
 #: main.cpp:45
 msgid "Porting to KDE 4"
-msgstr ""
+msgstr "KDE 4 লে পোৰ্ট কৰা হৈ আছে"
 
 #: notifybyktts.cpp:64
 msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
+msgstr "Jovie লিখনীৰ-পৰা-কথা সেৱা আৰম্ভ কৰা ব্যৰ্থ হল"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
