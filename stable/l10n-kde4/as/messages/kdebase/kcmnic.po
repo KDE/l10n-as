@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-11-20 06:25+0100\n"
-"PO-Revision-Date: 2011-07-18 20:24+0530\n"
+"PO-Revision-Date: 2011-07-22 15:05+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,111 +22,113 @@ msgstr "নাম"
 
 #: nic.cpp:99
 msgid "IP Address"
-msgstr ""
+msgstr "IP ঠিকনা"
 
 #: nic.cpp:99
 msgid "Network Mask"
-msgstr ""
+msgstr "নেটৱাৰ্ক মুখা"
 
 #: nic.cpp:99
 msgid "Type"
-msgstr ""
+msgstr "ধৰণ"
 
 #: nic.cpp:99
 msgid "State"
-msgstr ""
+msgstr "অৱস্থা"
 
 #: nic.cpp:99
 msgid "HWAddr"
-msgstr ""
+msgstr "HWAddr"
 
 #: nic.cpp:103
 msgid "&Update"
-msgstr ""
+msgstr "আপডেইট কৰক (&U)"
 
 #: nic.cpp:111
 msgid "kcminfo"
-msgstr ""
+msgstr "kcminfo"
 
 #: nic.cpp:112
 msgid "System Information Control Module"
-msgstr ""
+msgstr "চিস্টেম তথ্য নিয়ন্ত্ৰণ মডিউল"
 
 #: nic.cpp:114
 msgid "(c) 2001 - 2002 Alexander Neundorf"
-msgstr ""
+msgstr "(c) ২০০১ - ২০০২ আলেকজেন্ডাৰ নিউনডৰ্ফ"
 
 #: nic.cpp:116
 msgid "Alexander Neundorf"
-msgstr ""
+msgstr "আলেকজেন্ডাৰ নিউনডৰ্ফ"
 
 #: nic.cpp:152
 msgctxt "State of network card is connected"
 msgid "Up"
-msgstr ""
+msgstr "উপৰ"
 
 #: nic.cpp:153
 msgctxt "State of network card is disconnected"
 msgid "Down"
-msgstr ""
+msgstr "তল"
 
 #: nic.cpp:196
 msgctxt "@item:intext Mode of network card"
 msgid "Broadcast"
-msgstr ""
+msgstr "সম্প্ৰচাৰ"
 
 #: nic.cpp:198
 msgctxt "@item:intext Mode of network card"
 msgid "Point to Point"
-msgstr ""
+msgstr "বিন্দুৰ পৰা বিন্দু"
 
 #: nic.cpp:201
 msgctxt "@item:intext Mode of network card"
 msgid "Multicast"
-msgstr ""
+msgstr "মাল্টিকাস্ট"
 
 #: nic.cpp:204
 msgctxt "@item:intext Mode of network card"
 msgid "Loopback"
-msgstr ""
+msgstr "লুপবেক"
 
 #: nic.cpp:206
 msgctxt "@item:intext Mode of network card"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: nic.cpp:216
 msgctxt "Unknown network mask"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: nic.cpp:235
 msgctxt "Unknown HWaddr"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: nic.cpp:292
 msgid "Point to Point"
-msgstr ""
+msgstr "বিন্দুৰ পৰা বিন্দু"
 
 #: nic.cpp:299
 msgid "Broadcast"
-msgstr ""
+msgstr "সম্প্ৰচাৰ"
 
 #: nic.cpp:306
 msgid "Multicast"
-msgstr ""
+msgstr "মাল্টিকাস্ট"
 
 #: nic.cpp:313
 msgid "Loopback"
-msgstr ""
+msgstr "লুপবেক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
+
