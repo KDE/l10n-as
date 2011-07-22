@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 21:09+0530\n"
+"PO-Revision-Date: 2011-07-22 18:14+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,65 +18,66 @@ msgstr ""
 
 #: kdepasswd.cpp:41
 msgid "KDE passwd"
-msgstr ""
+msgstr "KDE passwd"
 
 #: kdepasswd.cpp:42
 msgid "Changes a UNIX password."
-msgstr ""
+msgstr "এটা UNIX পাছৱাৰ্ড সলনি কৰক।"
 
 #: kdepasswd.cpp:43
 msgid "Copyright (c) 2000 Geert Jansen"
-msgstr ""
+msgstr "স্বত্বাধিকাৰ (c) ২০০০ গিয়াৰ্ট জেনছেন"
 
 #: kdepasswd.cpp:44
 msgid "Geert Jansen"
-msgstr ""
+msgstr "গিয়াৰ্ট জেনছেন"
 
 #: kdepasswd.cpp:44
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: kdepasswd.cpp:51
 msgid "Change password of this user"
-msgstr ""
+msgstr "এইজন ব্যৱহাৰকাৰীৰ পাছৱাৰ্ড সলনি কৰক"
 
 #: kdepasswd.cpp:74
 msgid "You need to be root to change the password of other users."
-msgstr ""
+msgstr "আপুনি অন্য ব্যৱহাৰকাৰীসমূহৰ পাছৱাৰ্ড সলনি কৰিবলে ৰুট হ'ব লাগিব।"
 
 #: passwddlg.cpp:34 passwddlg.cpp:101
 msgctxt "@title:window"
 msgid "Change Password"
-msgstr ""
+msgstr "পাছওৱাৰ্ড সলনি কৰক"
 
 #: passwddlg.cpp:35
 msgid "Please enter your current password:"
-msgstr ""
+msgstr "আপোনাৰ বৰ্তমান পাছৱাৰ্ড সোমাওক:"
 
 #: passwddlg.cpp:55 passwddlg.cpp:179
 msgid "Conversation with 'passwd' failed."
-msgstr ""
+msgstr "'passwd' -ৰ লগত বাৰ্তালাপ ব্যৰ্থ হল।"
 
 #: passwddlg.cpp:65
 msgid "Could not find the program 'passwd'."
-msgstr ""
+msgstr "প্ৰগ্ৰাম 'passwd' বিচাৰি পোৱা নগল।"
 
 #: passwddlg.cpp:70
 msgid "Incorrect password. Please try again."
-msgstr ""
+msgstr "ভুল পাছওৱাৰ্ড। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।"
 
 #: passwddlg.cpp:74
 msgid "Internal error: illegal return value from PasswdProcess::checkCurrent."
 msgstr ""
+"অভ্যন্তৰীক ত্ৰুটি: PasswdProcess::checkCurrent -ৰ পৰা অবৈধ ঘুৰাই দিয়া মান।"
 
 #: passwddlg.cpp:103
 msgid "Please enter your new password:"
-msgstr ""
+msgstr "অনুগ্ৰহ কৰি আপোনাৰ নতুন পাছৱাৰ্ড সোমাওক:"
 
 #: passwddlg.cpp:105
 #, kde-format
 msgid "Please enter the new password for user <b>%1</b>:"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰী <b>%1</b> -ৰ বাবে অনুগ্ৰহ কৰি নতুন পাছৱাৰ্ড সোমাওক:"
 
 #: passwddlg.cpp:127
 msgid ""
@@ -84,6 +85,9 @@ msgid ""
 "problems. You can truncate the password to 8 characters, or leave it as it "
 "is."
 msgstr ""
+"আপোনাৰ পাছৱাৰ্ড ৮ আখৰতকৈ ডাঙৰ। কিছুমান চিস্টেমত, ই সমস্যা সৃষ্টি কৰিব পাৰে। "
+"আপুনি "
+"পাছৱাৰ্ডটোক ৮ আখৰলে চুটি কৰিব পাৰিব, বা ই যেনে আছে তেনেকুৱা থাকিব দিয়ক।"
 
 #: passwddlg.cpp:130
 msgid ""
@@ -91,33 +95,37 @@ msgid ""
 "problems. You can truncate the password to 8 characters, or leave it as it "
 "is."
 msgstr ""
+"পাছৱাৰ্ডটো ৮ আখৰতকৈ ডাঙৰ। কিছুমান চিস্টেমত, ই সমস্যা সৃষ্টি কৰিব পাৰে। "
+"আপুনি "
+"পাছৱাৰ্ডটোক ৮ আখৰলে চুটি কৰিব পাৰিব, বা ই যেনে আছে তেনেকুৱা থাকিব দিয়ক।"
 
 #: passwddlg.cpp:134
 msgid "Password Too Long"
-msgstr ""
+msgstr "পাছৱাৰ্ড অতি দীঘল"
 
 #: passwddlg.cpp:135
 msgid "Truncate"
-msgstr ""
+msgstr "চুটি কৰক"
 
 #: passwddlg.cpp:136
 msgid "Use as Is"
-msgstr ""
+msgstr "যেনে আছে তেনেকুৱা ব্যৱহাৰ কৰক"
 
 #: passwddlg.cpp:158
 msgid "Your password has been changed."
-msgstr ""
+msgstr "আপোনাৰ পাছৱাৰ্ড সলনি কৰা হৈছে।"
 
 #: passwddlg.cpp:168
 msgid "Your password has not been changed."
-msgstr ""
+msgstr "আপোনাৰ পাছৱাৰ্ড সলনি কৰা হোৱা নাই।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
