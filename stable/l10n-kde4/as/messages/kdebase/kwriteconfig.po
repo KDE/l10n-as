@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:59+0530\n"
+"PO-Revision-Date: 2011-07-22 20:12+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,46 +18,49 @@ msgstr ""
 
 #: kwriteconfig.cpp:35
 msgid "KWriteConfig"
-msgstr ""
+msgstr "KWriteConfig"
 
 #: kwriteconfig.cpp:37
 msgid "Write KConfig entries - for use in shell scripts"
-msgstr ""
+msgstr "KConfig প্ৰবিষ্টিসমূহ লিখক - শ্বেল স্ক্ৰিপ্টসমূহত ব্যৱহাৰৰ বাবে"
 
 #: kwriteconfig.cpp:39
 msgid "(c) 2001 Red Hat, Inc. & Luís Pedro Coelho"
-msgstr ""
+msgstr "(c) ২০০১ Red Hat, Inc. & লুই পেড্ৰো চিলহো"
 
 #: kwriteconfig.cpp:40
 msgid "Luís Pedro Coelho"
-msgstr ""
+msgstr "লুই পেড্ৰো চিলহো"
 
 #: kwriteconfig.cpp:41
 msgid "Bernhard Rosenkraenzer"
-msgstr ""
+msgstr "বাৰ্নহাৰ্ড ৰচেনক্ৰিন্জাৰ"
 
 #: kwriteconfig.cpp:41
 msgid "Wrote kreadconfig on which this is based"
-msgstr ""
+msgstr "kreadconfig লিখা হৈছিল যাৰ উপৰত ই ভিত্তিয়"
 
 #: kwriteconfig.cpp:47
 msgid "Use <file> instead of global config"
-msgstr ""
+msgstr "বিশ্বব্যাপী config -ৰ পৰিৱৰ্তে <file> ব্যৱহাৰ কৰক "
 
 #: kwriteconfig.cpp:48
 msgid "Group to look in. Use repeatedly for nested groups."
-msgstr ""
+msgstr "চাব লগিয়া দলটো। নেস্টেড দলসমূহৰ বাবে বাৰে বাৰে ব্যৱহাৰ কৰক।"
 
 #: kwriteconfig.cpp:49
 msgid "Key to look for"
-msgstr ""
+msgstr "চাব লগিয়া চাবি"
 
 #: kwriteconfig.cpp:50
 msgid ""
 "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
 "string"
 msgstr ""
+"চলকৰ ধৰণ। বুলিয়ানৰ বাবে \"bool\" ব্যৱহাৰ কৰক, অন্যথা ইয়াক স্ট্ৰিং ধৰা হ'ব"
 
 #: kwriteconfig.cpp:51
 msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgstr ""
+"লিখিব লগিয়া মানটো। বাধ্যতামূলক, এটা শ্বেলত ৰিক্তৰ বাবে '' ব্যৱহাৰ কৰক"
+
