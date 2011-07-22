@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-08-22 05:43+0200\n"
-"PO-Revision-Date: 2011-07-18 21:09+0530\n"
+"PO-Revision-Date: 2011-07-22 16:39+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,34 +18,36 @@ msgstr ""
 
 #: kcmxinerama.cpp:55
 msgid "kcmxinerama"
-msgstr ""
+msgstr "kcmxinerama"
 
 #: kcmxinerama.cpp:56
 msgid "KDE Multiple Monitor Configurator"
-msgstr ""
+msgstr "KDE বহু মনিটৰ সংৰূপক"
 
 #: kcmxinerama.cpp:58
 msgid "(c) 2002-2003 George Staikos"
-msgstr ""
+msgstr "(c)২০০২-২০০৩ জৰ্জ স্টাইকচ"
 
 #: kcmxinerama.cpp:60
 msgid "George Staikos"
-msgstr ""
+msgstr "জৰ্জ স্টাইকচ"
 
 #: kcmxinerama.cpp:63
 msgid ""
 "<h1>Multiple Monitors</h1> This module allows you to configure KDE support "
 "for multiple monitors."
 msgstr ""
+"<h1>বহু মনিটৰ</h1> এই মডিউলে আপোনাক বহু মনিটৰৰ বাবে KDE সমৰ্থন সংৰূপণ কৰাৰ "
+"অনুমতি দিয়ে।"
 
 #: kcmxinerama.cpp:87
 #, kde-format
 msgid "Display %1"
-msgstr ""
+msgstr "%1 প্ৰদৰ্শন কৰক"
 
 #: kcmxinerama.cpp:105
 msgid "Display Containing the Pointer"
-msgstr ""
+msgstr "পোইন্টাৰ অন্তৰ্ভুক্ত কৰা প্ৰদৰ্শন কৰক"
 
 #: kcmxinerama.cpp:116
 msgid ""
@@ -53,105 +55,111 @@ msgid ""
 "spread across multiple monitors. You do not appear to have this "
 "configuration.</p></qt>"
 msgstr ""
+"<qt><p>এই মডিউল কেৱল বহু মনিটৰ বিস্তাৰিত এটা ডেস্কটপ থকা চিস্টেমসমূহ "
+"সংৰূপণ কৰাৰ বাবে। "
+"আপোনাৰ এই সংৰূপ নাই যেন লাগিছে।</p></qt>"
 
 #: kcmxinerama.cpp:180
 msgid "Some settings may affect only newly started applications."
 msgstr ""
+"কিছুমান সংহতিসমূহে হয়তো কেৱল নতুনকে আৰম্ভ হোৱা অনুপ্ৰয়োগসমূহকে প্ৰভাৱ "
+"পেলাব।"
 
 #: kcmxinerama.cpp:180
 msgid "KDE Multiple Monitors"
-msgstr ""
+msgstr "KDE বহু মনিটৰসমূহ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: xineramawidget.ui:17
 #. i18n: ectx: property (title), widget (QGroupBox, ButtonGroup1)
 #: rc.cpp:5
 msgid "Multiple Monitor Support"
-msgstr ""
+msgstr "বহু মনিটৰ সমৰ্থন"
 
 #. i18n: file: xineramawidget.ui:23
 #. i18n: ectx: property (text), widget (QCheckBox, _enableXinerama)
 #: rc.cpp:8
 msgid "Enable multiple monitor virtual desktop support"
-msgstr ""
+msgstr "বহু মনিটৰ চক্ষ ডেস্কটপ সমৰ্থন সামৰ্থবান কৰক"
 
 #. i18n: file: xineramawidget.ui:33
 #. i18n: ectx: property (text), widget (QCheckBox, _enableResistance)
 #: rc.cpp:11
 msgid "Enable multiple monitor window resistance support"
-msgstr ""
+msgstr "বহু মনিটৰ উইন্ডো প্ৰতিৰোধ সমৰ্থন সামৰ্থবান কৰক"
 
 #. i18n: file: xineramawidget.ui:43
 #. i18n: ectx: property (text), widget (QCheckBox, _enablePlacement)
 #: rc.cpp:14
 msgid "Enable multiple monitor window placement support"
-msgstr ""
+msgstr "বহু মনিটৰ উইন্ডো সংস্থাপন সমৰ্থন সামৰ্থবান কৰক"
 
 #. i18n: file: xineramawidget.ui:53
 #. i18n: ectx: property (text), widget (QCheckBox, _enableMaximize)
 #: rc.cpp:17
 msgid "Enable multiple monitor window maximize support"
-msgstr ""
+msgstr "বহু মনিটৰ উইন্ডো বৃদ্ধিকৰন সমৰ্থন সামৰ্থবান কৰক"
 
 #. i18n: file: xineramawidget.ui:63
 #. i18n: ectx: property (text), widget (QCheckBox, _enableFullscreen)
 #: rc.cpp:20
 msgid "Enable multiple monitor window fullscreen support"
-msgstr ""
+msgstr "বহু মনিটৰ উইন্ডো সম্পূৰ্ণপৰ্দা সমৰ্থন সামৰ্থবান কৰক"
 
 #. i18n: file: xineramawidget.ui:92
 #. i18n: ectx: property (text), widget (QTableWidget, headTable)
 #: rc.cpp:23
 msgid "1"
-msgstr ""
+msgstr "১"
 
 #. i18n: file: xineramawidget.ui:97
 #. i18n: ectx: property (text), widget (QTableWidget, headTable)
 #: rc.cpp:26
 msgid "2"
-msgstr ""
+msgstr "২"
 
 #. i18n: file: xineramawidget.ui:102
 #. i18n: ectx: property (text), widget (QTableWidget, headTable)
 #: rc.cpp:29
 msgid "X Coordinate"
-msgstr ""
+msgstr "X অক্ষ"
 
 #. i18n: file: xineramawidget.ui:107
 #. i18n: ectx: property (text), widget (QTableWidget, headTable)
 #: rc.cpp:32
 msgid "Y Coordinate"
-msgstr ""
+msgstr "Y অক্ষ"
 
 #. i18n: file: xineramawidget.ui:112
 #. i18n: ectx: property (text), widget (QTableWidget, headTable)
 #: rc.cpp:35
 msgid "Width"
-msgstr ""
+msgstr "প্ৰস্থ"
 
 #. i18n: file: xineramawidget.ui:117
 #. i18n: ectx: property (text), widget (QTableWidget, headTable)
 #: rc.cpp:38
 msgid "Height"
-msgstr ""
+msgstr "উচ্চতা"
 
 #. i18n: file: xineramawidget.ui:133
 #. i18n: ectx: property (text), widget (QLabel, TextLabel2)
 #: rc.cpp:41
 msgid "Show unmanaged windows on:"
-msgstr ""
+msgstr "অব্যৱস্থাপিত উইন্ডোসমূহক দেখুৱাওক:"
 
 #. i18n: file: xineramawidget.ui:170
 #. i18n: ectx: property (text), widget (QPushButton, _identify)
 #: rc.cpp:44
 msgid "&Identify All Displays"
-msgstr ""
+msgstr "সকলো প্ৰদৰ্শন চিনাক্ত কৰক (&I)"
+
