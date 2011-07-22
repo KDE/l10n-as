@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:09+0530\n"
+"PO-Revision-Date: 2011-07-22 16:48+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,112 +18,113 @@ msgstr ""
 
 #: kdebugdialog.cpp:42 klistdebugdialog.cpp:36
 msgid "Debug Settings"
-msgstr ""
+msgstr "ডিবাগ সংহতিসমূহ"
 
 #: kdebugdialog.cpp:55
 msgid "Debug area:"
-msgstr ""
+msgstr "ডিবাগ স্থান:"
 
 #: kdebugdialog.cpp:73
 msgid "File"
-msgstr ""
+msgstr "নথিপত্ৰ"
 
 #: kdebugdialog.cpp:74
 msgid "Message Box"
-msgstr ""
+msgstr "বাৰ্তা বাকচ"
 
 #: kdebugdialog.cpp:75
 msgid "Shell"
-msgstr ""
+msgstr "শ্বেল"
 
 #: kdebugdialog.cpp:76
 msgid "Syslog"
-msgstr ""
+msgstr "Syslog"
 
 #: kdebugdialog.cpp:77
 msgid "None"
-msgstr ""
+msgstr "কোনো নহয়"
 
 #: kdebugdialog.cpp:82
 msgid "Information"
-msgstr ""
+msgstr "তথ্য"
 
 #: kdebugdialog.cpp:87 kdebugdialog.cpp:114 kdebugdialog.cpp:141
 #: kdebugdialog.cpp:168
 msgid "Output to:"
-msgstr ""
+msgstr "-লে আউটপুট:"
 
 #: kdebugdialog.cpp:95 kdebugdialog.cpp:122 kdebugdialog.cpp:149
 #: kdebugdialog.cpp:176
 msgid "Filename:"
-msgstr ""
+msgstr "নথিপত্ৰপ্ৰণালী:"
 
 #: kdebugdialog.cpp:109
 msgid "Warning"
-msgstr ""
+msgstr "সতৰ্কবাৰ্তা"
 
 #: kdebugdialog.cpp:136
 msgid "Error"
-msgstr ""
+msgstr "ত্ৰুটি"
 
 #: kdebugdialog.cpp:163
 msgid "Fatal Error"
-msgstr ""
+msgstr "মাৰাত্মক ত্ৰুটি"
 
 #: kdebugdialog.cpp:188
 msgid "Abort on fatal errors"
-msgstr ""
+msgstr "মাৰাত্মক ত্ৰুটিসমূহত বাদ দিব"
 
 #: kdebugdialog.cpp:192 klistdebugdialog.cpp:76
 msgid "Disable all debug output"
-msgstr ""
+msgstr "সকলো ডিবাগ আউপুট অসামৰ্থবান কৰক"
 
 #: klistdebugdialog.cpp:67
 msgid "&Select All"
-msgstr ""
+msgstr "সকলো বাছক (&S)"
 
 #: klistdebugdialog.cpp:68
 msgid "&Deselect All"
-msgstr ""
+msgstr "সকলো অনিৰ্বাচিত কৰক (&D)"
 
 #: main.cpp:98
 msgid "KDebugDialog"
-msgstr ""
+msgstr "KDebugDialog"
 
 #: main.cpp:99
 msgid "A dialog box for setting preferences for debug output"
-msgstr ""
+msgstr "ডিবাগ আউটপুটৰ বাবে পছন্দসমূহ সংহতি কৰিবলে এটা ডাইলগ বাকচ"
 
 #: main.cpp:100
 msgid "Copyright 1999-2009, David Faure <email>faure@kde.org</email>"
-msgstr ""
+msgstr "স্বত্বাধিকাৰ ১৯৯৯-২০০৯, ডেভিড ফৰ <email>faure@kde.org</email>"
 
 #: main.cpp:101
 msgid "David Faure"
-msgstr ""
+msgstr "ডেভিড ফৰ"
 
 #: main.cpp:101
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: main.cpp:106
 msgid "Show the fully-fledged dialog instead of the default list dialog"
-msgstr ""
+msgstr "অবিকল্পিত তালিকা ডাইলগৰ পৰিৱৰ্তে সম্পূৰ্ণ-বিকষিত ডাইলগ দেখুৱাওক"
 
 #: main.cpp:107
 msgid "Turn area on"
-msgstr ""
+msgstr "স্থান চলাওক "
 
 #: main.cpp:108
 msgid "Turn area off"
-msgstr ""
+msgstr "স্থান বন্ধ কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
