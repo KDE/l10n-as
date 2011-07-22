@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-17 04:00+0200\n"
-"PO-Revision-Date: 2011-07-18 21:32+0530\n"
+"PO-Revision-Date: 2011-07-22 14:57+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,23 +18,23 @@ msgstr ""
 
 #: plugin_search.cpp:43 plugin_search.cpp:93
 msgid "Search in files"
-msgstr ""
+msgstr "নথিপত্ৰসমূহত বিচাৰক"
 
 #: plugin_search.cpp:43
 msgid "Find in open files plugin"
-msgstr ""
+msgstr "নথিপত্ৰসমূহ খোলক প্লাগিনত সন্ধান কৰক"
 
 #: plugin_search.cpp:87
 msgid "Search in Files"
-msgstr ""
+msgstr "নথিপত্ৰসমূহত বিচাৰক"
 
 #: plugin_search.cpp:127
 msgid "Match case"
-msgstr ""
+msgstr "ফলা মিল খোৱাওক"
 
 #: plugin_search.cpp:131
 msgid "Regular Expression"
-msgstr ""
+msgstr "স্বাভাৱিক অভিব্যক্তি"
 
 #: plugin_search.cpp:404
 msgid "File"
@@ -42,41 +42,41 @@ msgstr "নথিপত্ৰ"
 
 #: plugin_search.cpp:404
 msgid "Line"
-msgstr ""
+msgstr "শাৰী"
 
 #: plugin_search.cpp:404
 msgid "Text"
-msgstr ""
+msgstr "লিখনী"
 
 #: plugin_search.cpp:506
 msgid "Usage: grep [pattern to search for in folder]"
-msgstr ""
+msgstr "ব্যৱহাৰ: grep [ফোল্ডাৰত বিচাৰিব লগিয়া বিন্যাস]"
 
 #: plugin_search.cpp:509
 msgid "Usage: search [pattern to search for in open files]"
-msgstr ""
+msgstr "ব্যৱহাৰ: বিচাৰক [খোলা নথিপত্ৰসমূহত বিচাৰিব লগিয়া বিন্যাস]"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: ui.rc:5
 #. i18n: ectx: Menu (edit)
 #: rc.cpp:5
 msgid "&Edit"
-msgstr ""
+msgstr "সম্পাদন কৰক (&E)"
 
 #. i18n: file: search.ui:30
 #. i18n: ectx: property (text), widget (QToolButton, optionsButton)
 #: rc.cpp:8
 msgid "Options"
-msgstr ""
+msgstr "বিকল্পসমূহ"
 
 #. i18n: file: search.ui:43
 #. i18n: ectx: property (text), widget (QToolButton, displayOptions)
@@ -84,64 +84,65 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, newTabButton)
 #: rc.cpp:11 rc.cpp:26
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. i18n: file: search.ui:59
 #. i18n: ectx: property (text), widget (KPushButton, searchButton)
 #: rc.cpp:14
 msgid "Search"
-msgstr ""
+msgstr "সন্ধান কৰক"
 
 #. i18n: file: search.ui:83
 #. i18n: ectx: property (text), item, widget (KComboBox, searchPlaceCombo)
 #: rc.cpp:17
 msgid "in Open files"
-msgstr ""
+msgstr "খোলা নথিপত্ৰসমূহত"
 
 #. i18n: file: search.ui:88
 #. i18n: ectx: property (text), item, widget (KComboBox, searchPlaceCombo)
 #: rc.cpp:20
 msgid "in Folder"
-msgstr ""
+msgstr "ফোল্ডাৰত"
 
 #. i18n: file: search.ui:109
 #. i18n: ectx: property (text), widget (KPushButton, stopButton)
 #: rc.cpp:23
 msgid "Stop"
-msgstr ""
+msgstr "বন্ধ কৰক"
 
 #. i18n: file: search.ui:160
 #. i18n: ectx: property (text), widget (QLabel, filterLabel)
 #: rc.cpp:29
 msgid "Filter"
-msgstr ""
+msgstr "পৰিস্ৰাৱক"
 
 #. i18n: file: search.ui:180
 #. i18n: ectx: property (text), item, widget (KComboBox, filterCombo)
 #: rc.cpp:32
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #. i18n: file: search.ui:208
 #. i18n: ectx: property (text), widget (QCheckBox, recursiveCheckBox)
 #: rc.cpp:35
 msgid "Recursive"
-msgstr ""
+msgstr "পুনৰায় সংঘটিত হোৱা"
 
 #. i18n: file: search.ui:218
 #. i18n: ectx: property (text), widget (QCheckBox, hiddenCheckBox)
 #: rc.cpp:38
 msgid "Include hidden"
-msgstr ""
+msgstr "লুকাই থকা অন্তৰ্ভুক্ত কৰিব"
 
 #. i18n: file: search.ui:225
 #. i18n: ectx: property (text), widget (QCheckBox, symLinkCheckBox)
 #: rc.cpp:41
 msgid "Follow symbolic links"
-msgstr ""
+msgstr "চিহ্নিয় লিঙ্কসমূহ অনুকৰন কৰক"
 
 #. i18n: file: search.ui:252
 #. i18n: ectx: property (text), widget (QLabel, folderLabel)
 #: rc.cpp:44
 msgid "Folder"
-msgstr ""
+msgstr "ফোল্ডাৰ"
+
