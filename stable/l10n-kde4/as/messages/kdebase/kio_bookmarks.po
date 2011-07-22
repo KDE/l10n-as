@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:06+0530\n"
+"PO-Revision-Date: 2011-07-22 19:28+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,49 +18,52 @@ msgstr ""
 
 #: kio_bookmarks.cpp:89
 msgid "Root"
-msgstr ""
+msgstr "ৰুট"
 
 #: kio_bookmarks.cpp:122
 msgid "Places"
-msgstr ""
+msgstr "স্থানসমূহ"
 
 #: kio_bookmarks.cpp:200
 #, kde-format
 msgid "Wrong request: %1"
-msgstr ""
+msgstr "ভুল অনুৰোধ: %1"
 
 #: kio_bookmarks.cpp:207
 msgid "My bookmarks"
-msgstr ""
+msgstr "মোৰ পত্ৰচিহ্নসমূহ"
 
 #: kio_bookmarks.cpp:209
 msgid "Xavier Vello"
-msgstr ""
+msgstr "জেভিয়াৰ ভেল্লো"
 
 #: kio_bookmarks.cpp:209
 msgid "Initial developer"
-msgstr ""
+msgstr "আৰম্ভণীৰ উন্নয়নকাৰী"
 
 #: kio_bookmarks_html.cpp:99
 msgid "There are no bookmarks to display yet."
-msgstr ""
+msgstr "প্ৰদৰ্শন কৰিবলে কোনো পত্ৰচিহ্ন নাই।"
 
 #: kio_bookmarks_html.cpp:138
 msgid ""
 "kio_bookmarks CSS file not found. Output will look ugly.\n"
 "Check your installation."
 msgstr ""
+"kio_bookmarks CSS নথিপত্ৰ পোৱা নগল। আউটপুট বেয়া দেখিব।\n"
+"আপোনাৰ ইনস্টল নীৰিক্ষণ কৰক।"
 
 #: kio_bookmarks_html.cpp:147
 msgid "My Bookmarks"
-msgstr ""
+msgstr "মোৰ পত্ৰচিহ্নসমূহ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
