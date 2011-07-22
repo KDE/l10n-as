@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 21:07+0530\n"
+"PO-Revision-Date: 2011-07-22 19:16+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,79 +19,80 @@ msgstr ""
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: khtmlsettingsplugin.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:5
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: khtmlsettingsplugin.rc:8
 #. i18n: ectx: ToolBar (extraToolBar)
 #: rc.cpp:8
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "অতিৰিক্ত টুলবাৰ"
 
 #: settingsplugin.cpp:40 settingsplugin.cpp:52
 msgid "HTML Settings"
-msgstr ""
+msgstr "HTML সংহতিসমূহ"
 
 #: settingsplugin.cpp:61
 msgid "Java&Script"
-msgstr ""
+msgstr "Java স্ক্ৰিপ্ট (&S)"
 
 #: settingsplugin.cpp:66
 msgid "&Java"
-msgstr ""
+msgstr "Java (&J)"
 
 #: settingsplugin.cpp:71
 msgid "&Cookies"
-msgstr ""
+msgstr "কুকিসমূহ (&C)"
 
 #: settingsplugin.cpp:76
 msgid "&Plugins"
-msgstr ""
+msgstr "প্লাগিনসমূহ (&P)"
 
 #: settingsplugin.cpp:81
 msgid "Autoload &Images"
-msgstr ""
+msgstr "ছবিসমূহ স্বচালিতভাৱে লোড কৰক (&I)"
 
 #: settingsplugin.cpp:88
 msgid "Enable Pro&xy"
-msgstr ""
+msgstr "প্ৰক্সি সামৰ্থবান কৰক (&x)"
 
 #: settingsplugin.cpp:93
 msgid "Enable Cac&he"
-msgstr ""
+msgstr "ক্যাশ সামৰ্থবান কৰক (&h)"
 
 #: settingsplugin.cpp:99
 msgid "Cache Po&licy"
-msgstr ""
+msgstr "ক্যাশ নীতি (&l)"
 
 #: settingsplugin.cpp:101
 msgid "&Keep Cache in Sync"
-msgstr ""
+msgstr "ক্যাশক সংমিহলিত ৰাখক (&K)"
 
 #: settingsplugin.cpp:102
 msgid "&Use Cache if Possible"
-msgstr ""
+msgstr "যদি সম্ভব ক্যাশ ব্যৱহাৰ কৰক (&U)"
 
 #: settingsplugin.cpp:103
 msgid "&Offline Browsing Mode"
-msgstr ""
+msgstr "অফলাইন ব্ৰাউছিং তথ্য (&O)"
 
 #: settingsplugin.cpp:187
 msgid ""
 "Cookies could not be enabled, because the cookie daemon could not be started."
-msgstr ""
+msgstr "কুকিসমূহ সামৰ্থবান কৰিব নোৱাৰি, কাৰণ কুকি ডিমন আৰম্ভ কৰিব নোৱাৰি।"
 
 #: settingsplugin.cpp:189
 msgctxt "@title:window"
 msgid "Cookies Disabled"
-msgstr ""
+msgstr "কুকিসমূহ অসামৰ্থবান কৰা আছে"
+
