@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-01 02:17+0100\n"
-"PO-Revision-Date: 2011-07-18 21:07+0530\n"
+"PO-Revision-Date: 2011-07-22 19:25+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,137 +19,138 @@ msgstr ""
 #: infocenter.cpp:57
 msgctxt "Main window title"
 msgid "KInfocenter"
-msgstr ""
+msgstr "KInfocenter"
 
 #: infocenter.cpp:136
 msgctxt "Information about current module located in about menu"
 msgid "About Current Information Module"
-msgstr ""
+msgstr "বৰ্তমান তথ্য মডিউলৰ বিষয়ে"
 
 #: infocenter.cpp:141
 msgctxt "Export button label"
 msgid "Export"
-msgstr ""
+msgstr "এক্সপোৰ্ট কৰক"
 
 #: infocenter.cpp:145
 msgctxt "Module help button label"
 msgid "Module Help"
-msgstr ""
+msgstr "মডিউল সহায়"
 
 #: infocenter.cpp:148
 msgctxt "Help button label"
 msgid "Help"
-msgstr ""
+msgstr "সহায়"
 
 #: infocenter.cpp:188
 msgctxt "Search Bar Click Message"
 msgid "Search"
-msgstr ""
+msgstr "সন্ধান কৰক"
 
 #: infocenter.cpp:194
 msgctxt "Kaction search label"
 msgid "Search Modules"
-msgstr ""
+msgstr "মডিউলসমূহ বিচাৰক"
 
 #: infocenter.cpp:250
 msgid "Export of the module has produced no output."
-msgstr ""
+msgstr "মডিউলৰ এক্সপোৰ্টে কোনো আউটপুট উৎপাদন কৰা নাই।"
 
 #: infocenter.cpp:261
 msgid "Unable to open file to write export information"
-msgstr ""
+msgstr "এক্সপোৰ্ট তথ্য লিখিবলে নথিপত্ৰ খোলিবলে অক্ষম"
 
 #: infocenter.cpp:266
 #, kde-format
 msgid "Export information for %1"
-msgstr ""
+msgstr "%1 -ৰ বাবে তথ্য এক্সপোৰ্ট কৰক"
 
 #: infocenter.cpp:270
 msgid "Information exported"
-msgstr ""
+msgstr "তথ্য এক্সপোৰ্ট কৰা হ'ল"
 
 #: infokcmmodel.cpp:31
 msgid "Information Modules"
-msgstr ""
+msgstr "তথ্য মডিউলসমূহ"
 
 #: kcmcontainer.cpp:117
 #, kde-format
 msgid "%1  ( %2 )"
-msgstr ""
+msgstr "%1  ( %2 )"
 
 #: main.cpp:40
 msgid "KDE Info Center"
-msgstr ""
+msgstr "KDE তথ্য কেন্দ্ৰ"
 
 #: main.cpp:41
 msgid "The KDE Info Center"
-msgstr ""
+msgstr "KDE তথ্য কেন্দ্ৰ"
 
 #: main.cpp:42
 msgid "(c) 2009-2010, The KDE SC KInfocenter Development Team"
-msgstr ""
+msgstr "(c) ২০০৯-২০১০, KDE SC KInfocenter উন্নয়ন দল"
 
 #: main.cpp:47
 msgid "David Hubner"
-msgstr ""
+msgstr "ডেভিড হুবনাৰ"
 
 #: main.cpp:47
 msgid "Current Maintainer"
-msgstr ""
+msgstr "বৰ্তমান ব্যৱস্থাপক"
 
 #: main.cpp:48
 msgid "Helge Deller"
-msgstr ""
+msgstr "হেল্গি ডেলাৰ"
 
 #: main.cpp:48
 msgid "Previous Maintainer"
-msgstr ""
+msgstr "পূৰ্বৱৰ্তী ব্যৱস্থাপক"
 
 #: main.cpp:49
 msgid "Matthias Hoelzer-Kluepfel"
-msgstr ""
+msgstr "মেথিয়াচ হিলজাৰ-ক্লুফেল"
 
 #: main.cpp:50
 msgid "Matthias Elter"
-msgstr ""
+msgstr "মেথিয়াচ এল্টাৰ"
 
 #: main.cpp:51
 msgid "Matthias Ettrich"
-msgstr ""
+msgstr "মেথিয়াচ ইট্ৰিক"
 
 #: main.cpp:52
 msgid "Waldo Bastian"
-msgstr ""
+msgstr "ৱাল্ডো বাস্টিয়ান"
 
 #: main.cpp:53
 msgid "Nicolas Ternisien"
-msgstr ""
+msgstr "নিকোলাচ টাৰ্নিচিয়েন"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: kinfocenterui.rc:16
 #. i18n: ectx: ToolBar (mainToolBar)
 #: rc.cpp:5
 msgctxt "@title:menu"
 msgid "Main Toolbar"
-msgstr ""
+msgstr "মূখ্য টুলবাৰ"
 
 #: sidepanel.cpp:99
 msgid "Clear Search"
-msgstr ""
+msgstr "সন্ধান সফা কৰক"
 
 #: sidepanel.cpp:102
 msgid "Expand All Categories"
-msgstr ""
+msgstr "সকলো বিভাগ প্ৰসাৰিত কৰক"
 
 #: sidepanel.cpp:105
 msgid "Collapse All Categories"
-msgstr ""
+msgstr "সকলো বিভাগ স্খলন কৰক"
+
