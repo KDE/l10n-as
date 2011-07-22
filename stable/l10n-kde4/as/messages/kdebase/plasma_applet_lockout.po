@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-17 05:10+0100\n"
-"PO-Revision-Date: 2011-07-18 20:56+0530\n"
+"PO-Revision-Date: 2011-07-22 20:25+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,76 +18,77 @@ msgstr ""
 
 #: lockout.cpp:299
 msgid "Do you want to suspend to RAM (sleep)?"
-msgstr ""
+msgstr "আপুনি RAM (নিদ্ৰা) -লে যাব বিচাৰে নে?"
 
 #: lockout.cpp:300 lockout.cpp:458
 msgid "Suspend"
-msgstr ""
+msgstr "বাতিল কৰক"
 
 #: lockout.cpp:320
 msgid "Do you want to suspend to disk (hibernate)?"
-msgstr ""
+msgstr "আপুনি ডিস্কলে বাতিল কৰিব বিচাৰে নে (হাইবাৰনেইট)?"
 
 #. i18n: file: lockoutConfig.ui:84
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: lockout.cpp:321 lockout.cpp:466 rc.cpp:15
 msgid "Hibernate"
-msgstr ""
+msgstr "হাইবাৰনেইট"
 
 #: lockout.cpp:370
 msgid "Please select one or more items on the list below"
-msgstr ""
+msgstr "তলত থকা তালিকাৰ পৰা এটা বা অধিক বস্তু বাছক"
 
 #. i18n: file: lockoutConfig.ui:50
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: lockout.cpp:425 lockout.cpp:434 rc.cpp:9
 msgid "Lock"
-msgstr ""
+msgstr "লক কৰক"
 
 #: lockout.cpp:425 lockout.cpp:434
 msgid "Lock the screen"
-msgstr ""
+msgstr "পৰ্দা লক কৰক"
 
 #. i18n: file: lockoutConfig.ui:67
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: lockout.cpp:442 rc.cpp:12
 msgid "Switch user"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰী অদল বদল কৰক"
 
 #: lockout.cpp:442
 msgid "Start a parallel session as a different user"
-msgstr ""
+msgstr "এজন অন্য ব্যৱহাৰকাৰী হিচাপে এটা সমান্তৰাল অধিবেশন আৰম্ভ কৰক"
 
 #: lockout.cpp:450
 msgid "Leave..."
-msgstr ""
+msgstr "এৰি দিওক..."
 
 #: lockout.cpp:450
 msgid "Logout, turn off or restart the computer"
-msgstr ""
+msgstr "কমপিউটাৰক লগআউট, বন্ধ অথবা পুনৰাম্ভ কৰক"
 
 #: lockout.cpp:458
 msgid "Sleep (suspend to RAM)"
-msgstr ""
+msgstr "নিদ্ৰাত যাওক (RAM লে বাতিল কৰক)"
 
 #: lockout.cpp:466
 msgid "Hibernate (suspend to disk)"
-msgstr ""
+msgstr "হাইবাৰনেইট কৰক (ডিস্কলে বাতিল কৰক)"
 
 #. i18n: file: lockoutConfig.ui:14
 #. i18n: ectx: property (windowTitle), widget (QWidget, lockoutConfig)
 #: rc.cpp:3
 msgid "Configure Lock/Logout"
-msgstr ""
+msgstr "লক/লগআউট সংৰূপণ কৰক"
 
 #. i18n: file: lockoutConfig.ui:20
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:6
 msgid "Leave"
-msgstr ""
+msgstr "এৰি দিওক"
 
 #. i18n: file: lockoutConfig.ui:101
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:18
 msgid "Sleep"
-msgstr ""
+msgstr "নিদ্ৰা"
+
