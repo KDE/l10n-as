@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-28 03:38+0100\n"
-"PO-Revision-Date: 2011-07-18 21:03+0530\n"
+"PO-Revision-Date: 2011-07-22 19:40+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,61 +19,62 @@ msgstr ""
 #: jpegcreator.cpp:293
 msgctxt "@option:check"
 msgid "Rotate the image automatically"
-msgstr ""
+msgstr "ছবিটোক স্বচালিতভাৱে ঘুৰাওক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #: thumbnail.cpp:123
 msgid "kio_thumbmail"
-msgstr ""
+msgstr "kio_thumbmail"
 
 #: thumbnail.cpp:187
 msgid "No MIME Type specified."
-msgstr ""
+msgstr "কোনো MIME ধৰণ ধাৰ্য্য কৰা হোৱা নাই।"
 
 #: thumbnail.cpp:196
 msgid "No or invalid size specified."
-msgstr ""
+msgstr "কোনো আকাৰ ধাৰ্য্য কৰা হোৱা নাই বা অবৈধ আকাৰ ধাৰ্য্য কৰা হৈছে।"
 
 #: thumbnail.cpp:251
 msgid "Cannot create thumbnail for directory"
-msgstr ""
+msgstr "ডাইৰেকটৰিৰ বাবে থাম্বনেইল সৃষ্টি কৰিব নোৱাৰি"
 
 #: thumbnail.cpp:263
 msgid "No plugin specified."
-msgstr ""
+msgstr "কোনো প্লাগিন ধাৰ্য্য কৰা হোৱা নাই।"
 
 #: thumbnail.cpp:269
 #, kde-format
 msgid "Cannot load ThumbCreator %1"
-msgstr ""
+msgstr "ThumbCreator %1 লোড কৰিব নোৱাৰি"
 
 #: thumbnail.cpp:278
 #, kde-format
 msgid "Cannot create thumbnail for %1"
-msgstr ""
+msgstr "%1 -ৰ বাবে থাম্বনেইল সৃষ্টি কৰিব নোৱাৰি"
 
 #: thumbnail.cpp:316
 msgid "Failed to create a thumbnail."
-msgstr ""
+msgstr "এটা থাম্বনেইল সৃষ্টি কৰিবলে ব্যৰ্থ।"
 
 #: thumbnail.cpp:328
 msgid "Could not write image."
-msgstr ""
+msgstr "ছবি লিখিব নোৱাৰি।"
 
 #: thumbnail.cpp:353
 #, kde-format
 msgid "Failed to attach to shared memory segment %1"
-msgstr ""
+msgstr "অংশীদাৰী মেমেৰি অংশ %1 লে সংলঘ্ন কৰিবলে ব্যৰ্থ"
 
 #: thumbnail.cpp:357
 msgid "Image is too big for the shared memory segment"
-msgstr ""
+msgstr "অংশীদাৰী মেমৰি অংশৰ বাবে ছবি বহুত ডাঙৰ"
+
