@@ -145,4 +145,3 @@ msgstr "চিহ্নিয় লিঙ্কসমূহ অনুকৰন ক
 #: rc.cpp:44
 msgid "Folder"
 msgstr "ফোল্ডাৰ"
-

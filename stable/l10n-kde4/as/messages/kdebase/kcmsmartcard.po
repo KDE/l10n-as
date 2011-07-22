@@ -51,13 +51,11 @@ msgid ""
 "will need to recompile the kdelibs package with libpcsclite installed."
 msgstr ""
 "\n"
-"1) KDE ডিমন, 'kded' চলি থকা নাই। আপুনি ইয়াক 'kdeinit' কমান্ড চলাই পুনৰাম্ভ "
-"কৰিব পাৰিব "
-"আৰু পিছত KDE চিস্টেম সংহতিসমূহ লোড কৰাৰ চেষ্টা কৰক চাবলে যদি এই বাৰ্তা পাৰ "
+"1) KDE ডিমন, 'kded' চলি থকা নাই। আপুনি ইয়াক 'kdeinit' কমান্ড চলাই পুনৰাম্ভ কৰিব "
+"পাৰিব আৰু পিছত KDE চিস্টেম সংহতিসমূহ লোড কৰাৰ চেষ্টা কৰক চাবলে যদি এই বাৰ্তা পাৰ "
 "হৈ গৈছে।\n"
 "\n"
-"2) আপোনাৰ খুব সম্ভব KDE লাইব্ৰেৰিসমূহত স্মাৰ্টকাৰ্ড সমৰ্থন নাই। আপুনি "
-"kdelibs পেকেইজক "
+"2) আপোনাৰ খুব সম্ভব KDE লাইব্ৰেৰিসমূহত স্মাৰ্টকাৰ্ড সমৰ্থন নাই। আপুনি kdelibs পেকেইজক "
 "libpcsclite ইনস্টল থকাকে পুনৰ কমপাইল কৰিব লাগিব।"
 
 #. i18n: file: smartcardbase.ui:31
@@ -85,8 +83,7 @@ msgid ""
 "In most cases you should have this enabled. It allows KDE to automatically "
 "detect card insertion and reader hotplug events."
 msgstr ""
-"বহু ক্ষেত্ৰত আপোনাৰ এইটো সামৰ্থবান থাকিব লাগিব। ই KDE -ক স্বচালিতভাৱে কাৰ্ড "
-"সোমোৱা "
+"বহু ক্ষেত্ৰত আপোনাৰ এইটো সামৰ্থবান থাকিব লাগিব। ই KDE -ক স্বচালিতভাৱে কাৰ্ড সোমোৱা "
 "আৰু পঢ়োঁতা হট প্লাগ ঘটনাসমূহ ধৰা পেলোৱাৰ অনুমতি দিয়ে।"
 
 #. i18n: file: smartcardbase.ui:92
@@ -94,8 +91,7 @@ msgstr ""
 #: rc.cpp:29
 msgid "Automatically &launch card manager if inserted card is unclaimed"
 msgstr ""
-"যদি সোমোৱা কাৰ্ড দাবী কৰা হোৱা নাই কাৰ্ড ব্যৱস্থাপক স্বচালিতভাৱে লঞ্চ কৰক "
-"(&l)"
+"যদি সোমোৱা কাৰ্ড দাবী কৰা হোৱা নাই কাৰ্ড ব্যৱস্থাপক স্বচালিতভাৱে লঞ্চ কৰক (&l)"
 
 #. i18n: file: smartcardbase.ui:95
 #. i18n: ectx: property (whatsThis), widget (QCheckBox)
@@ -104,9 +100,8 @@ msgid ""
 "When you insert a smartcard, KDE can automatically launch a management tool "
 "if no other application attempts to use the card."
 msgstr ""
-"আপুনি যেতিয়া এটা স্মাৰ্টকাৰ্ড সোমোৱায়, যদি অন্য কোনো অনুপ্ৰয়োগে কাৰ্ডটো "
-"ব্যৱহাৰ কৰাৰ চেষ্টা নকৰে "
-"KDE স্বচালিতভাৱে এটা ব্যৱস্থাপনা সঁজুলি লঞ্চ কৰিব।"
+"আপুনি যেতিয়া এটা স্মাৰ্টকাৰ্ড সোমোৱায়, যদি অন্য কোনো অনুপ্ৰয়োগে কাৰ্ডটো ব্যৱহাৰ কৰাৰ "
+"চেষ্টা নকৰে KDE স্বচালিতভাৱে এটা ব্যৱস্থাপনা সঁজুলি লঞ্চ কৰিব।"
 
 #. i18n: file: smartcardbase.ui:106
 #. i18n: ectx: property (text), widget (QCheckBox)
@@ -157,8 +152,7 @@ msgid ""
 "To add new readers you have to modify /etc/readers.conf file and re-start "
 "pcscd"
 msgstr ""
-"নতুন পঢ়োঁতাসমূহ যোগ কৰিবলে আপুনি /etc/readers.conf নথিপত্ৰত সলনি কৰিব লাগিব "
-"আৰু "
+"নতুন পঢ়োঁতাসমূহ যোগ কৰিবলে আপুনি /etc/readers.conf নথিপত্ৰত সলনি কৰিব লাগিব আৰু "
 "pcscd পুনৰাম্ভ কৰিব লাগিব"
 
 #: smartcard.cpp:65
@@ -215,9 +209,6 @@ msgid ""
 "smartcards. These can be used for various tasks such as storing SSL "
 "certificates and logging in to the system."
 msgstr ""
-"<h1>স্মাৰ্টকাৰ্ড</h1> এই মডিউলে আপোনাক স্মাৰ্টকাৰ্ডসমূহৰ বাবে KDE সমৰ্থন "
-"সংৰূপণ কৰাৰ "
-"অনুমতি দিয়ে। ইয়াক বহু কাৰ্য্যৰ কাৰণে ব্যৱহাৰ কৰিব পৰা যাব যেনে SSL "
-"প্ৰমাণপত্ৰসমূহ সংৰক্ষণ কৰা "
-"আৰু চিস্টেমত লগিন কৰা।"
-
+"<h1>স্মাৰ্টকাৰ্ড</h1> এই মডিউলে আপোনাক স্মাৰ্টকাৰ্ডসমূহৰ বাবে KDE সমৰ্থন সংৰূপণ কৰাৰ "
+"অনুমতি দিয়ে। ইয়াক বহু কাৰ্য্যৰ কাৰণে ব্যৱহাৰ কৰিব পৰা যাব যেনে SSL প্ৰমাণপত্ৰসমূহ "
+"সংৰক্ষণ কৰা আৰু চিস্টেমত লগিন কৰা।"

@@ -30,11 +30,10 @@ msgid ""
 "in the KDE menu a specific application is located."
 msgstr ""
 "KDE মেনু প্ৰশ্ন সঁজুলি।\n"
-"কোন মেনুত এটা বিশেষ অনুপ্ৰয়োগ দেখুৱায় হৈছে সন্ধান কৰিবলে এই সঁজুলি ব্যৱহাৰ "
-"কৰিব পাৰি।\n"
-"এটা KDE মেনুত এটা বিশেষ অনুপ্ৰয়োগ ক'ত অৱস্থিত এজন ব্যৱহাৰকাৰীক চক্ষীয়ভাৱে "
-"ইংগিত কৰিবলে "
-"--highlight বিকল্প ব্যৱহাৰ কৰিব পাৰি।"
+"কোন মেনুত এটা বিশেষ অনুপ্ৰয়োগ দেখুৱায় হৈছে সন্ধান কৰিবলে এই সঁজুলি ব্যৱহাৰ কৰিব "
+"পাৰি।\n"
+"এটা KDE মেনুত এটা বিশেষ অনুপ্ৰয়োগ ক'ত অৱস্থিত এজন ব্যৱহাৰকাৰীক চক্ষীয়ভাৱে ইংগিত "
+"কৰিবলে --highlight বিকল্প ব্যৱহাৰ কৰিব পাৰি।"
 
 #: kde-menu.cpp:111
 msgid "kde-menu"
@@ -86,17 +85,15 @@ msgstr "অৱস্থিত কৰিব লগিয়া মেনু প্�
 
 #: kde-menu.cpp:133
 msgid "You must specify an application-id such as 'kde4-konsole.desktop'"
-msgstr ""
-"আপুনি এটা অনুপ্ৰযোগ-আইডি ধাৰ্য্য কৰিব লাগিব যেনে 'kde4-konsole.desktop'"
+msgstr "আপুনি এটা অনুপ্ৰযোগ-আইডি ধাৰ্য্য কৰিব লাগিব যেনে 'kde4-konsole.desktop'"
 
 #: kde-menu.cpp:142
 msgid ""
 "You must specify at least one of --print-menu-id, --print-menu-name or --"
 "highlight"
 msgstr ""
-"আপুনি অন্তত এটা --print-menu-id, --print-menu-name অথবা --highlight "
-"ধাৰ্য্য "
-"কৰিব লাগিব"
+"আপুনি অন্তত এটা --print-menu-id, --print-menu-name অথবা --highlight ধাৰ্য্য কৰিব "
+"লাগিব"
 
 #: kde-menu.cpp:164
 #, kde-format
@@ -117,4 +114,3 @@ msgstr "নীলমদ্যুতি গোস্বামী"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ngoswami@redhat.com"
-
