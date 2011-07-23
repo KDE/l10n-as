@@ -91,4 +91,3 @@ msgstr "এৰি দিওক"
 #: rc.cpp:18
 msgid "Sleep"
 msgstr "নিদ্ৰা"
-

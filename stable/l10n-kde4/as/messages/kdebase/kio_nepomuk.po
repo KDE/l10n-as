@@ -23,15 +23,13 @@ msgid ""
 "Please insert the removable medium <resource>%1</resource> to access this "
 "file."
 msgstr ""
-"এই নথিপত্ৰ অভিগম কৰিবলে অনুগ্ৰহ কৰি আতৰাব পৰা মাধ্যম <resource>%1<"
-"/resource> "
+"এই নথিপত্ৰ অভিগম কৰিবলে অনুগ্ৰহ কৰি আতৰাব পৰা মাধ্যম <resource>%1</resource> "
 "সোমাওক।"
 
 #: kio_nepomuk.cpp:137
 msgid ""
 "Do you really want to delete the resource and all relations to and from it?"
-msgstr ""
-"আপুনি সঁচাকে সম্পদ আৰু ইয়ালে আৰু ইয়াৰ পৰা সকলো সম্পৰ্ক মচি পেলাব বিচাৰে?"
+msgstr "আপুনি সঁচাকে সম্পদ আৰু ইয়ালে আৰু ইয়াৰ পৰা সকলো সম্পৰ্ক মচি পেলাব বিচাৰে?"
 
 #: kio_nepomuk.cpp:140
 msgid "Delete Resource"
@@ -69,4 +67,3 @@ msgstr "URIসমূহ লুকাওক"
 #: resourcepagegenerator.cpp:322
 msgid "Show URIs"
 msgstr "URIসমূহ দেখুৱাওক"
-

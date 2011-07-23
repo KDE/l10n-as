@@ -67,8 +67,7 @@ msgstr "ভুল পাছওৱাৰ্ড। অনুগ্ৰহ কৰি
 
 #: passwddlg.cpp:74
 msgid "Internal error: illegal return value from PasswdProcess::checkCurrent."
-msgstr ""
-"অভ্যন্তৰীক ত্ৰুটি: PasswdProcess::checkCurrent -ৰ পৰা অবৈধ ঘুৰাই দিয়া মান।"
+msgstr "অভ্যন্তৰীক ত্ৰুটি: PasswdProcess::checkCurrent -ৰ পৰা অবৈধ ঘুৰাই দিয়া মান।"
 
 #: passwddlg.cpp:103
 msgid "Please enter your new password:"
@@ -85,8 +84,7 @@ msgid ""
 "problems. You can truncate the password to 8 characters, or leave it as it "
 "is."
 msgstr ""
-"আপোনাৰ পাছৱাৰ্ড ৮ আখৰতকৈ ডাঙৰ। কিছুমান চিস্টেমত, ই সমস্যা সৃষ্টি কৰিব পাৰে। "
-"আপুনি "
+"আপোনাৰ পাছৱাৰ্ড ৮ আখৰতকৈ ডাঙৰ। কিছুমান চিস্টেমত, ই সমস্যা সৃষ্টি কৰিব পাৰে। আপুনি "
 "পাছৱাৰ্ডটোক ৮ আখৰলে চুটি কৰিব পাৰিব, বা ই যেনে আছে তেনেকুৱা থাকিব দিয়ক।"
 
 #: passwddlg.cpp:130
@@ -95,8 +93,7 @@ msgid ""
 "problems. You can truncate the password to 8 characters, or leave it as it "
 "is."
 msgstr ""
-"পাছৱাৰ্ডটো ৮ আখৰতকৈ ডাঙৰ। কিছুমান চিস্টেমত, ই সমস্যা সৃষ্টি কৰিব পাৰে। "
-"আপুনি "
+"পাছৱাৰ্ডটো ৮ আখৰতকৈ ডাঙৰ। কিছুমান চিস্টেমত, ই সমস্যা সৃষ্টি কৰিব পাৰে। আপুনি "
 "পাছৱাৰ্ডটোক ৮ আখৰলে চুটি কৰিব পাৰিব, বা ই যেনে আছে তেনেকুৱা থাকিব দিয়ক।"
 
 #: passwddlg.cpp:134
@@ -128,4 +125,3 @@ msgstr "নীলমদ্যুতি গোস্বামী"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ngoswami@redhat.com"
-

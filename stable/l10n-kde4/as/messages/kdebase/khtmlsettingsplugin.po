@@ -95,4 +95,3 @@ msgstr "কুকিসমূহ সামৰ্থবান কৰিব নো
 msgctxt "@title:window"
 msgid "Cookies Disabled"
 msgstr "কুকিসমূহ অসামৰ্থবান কৰা আছে"
-

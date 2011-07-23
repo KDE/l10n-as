@@ -77,4 +77,3 @@ msgstr "অংশীদাৰী মেমেৰি অংশ %1 লে সং�
 #: thumbnail.cpp:357
 msgid "Image is too big for the shared memory segment"
 msgstr "অংশীদাৰী মেমৰি অংশৰ বাবে ছবি বহুত ডাঙৰ"
-

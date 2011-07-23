@@ -56,11 +56,8 @@ msgstr "চাব লগিয়া চাবি"
 msgid ""
 "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
 "string"
-msgstr ""
-"চলকৰ ধৰণ। বুলিয়ানৰ বাবে \"bool\" ব্যৱহাৰ কৰক, অন্যথা ইয়াক স্ট্ৰিং ধৰা হ'ব"
+msgstr "চলকৰ ধৰণ। বুলিয়ানৰ বাবে \"bool\" ব্যৱহাৰ কৰক, অন্যথা ইয়াক স্ট্ৰিং ধৰা হ'ব"
 
 #: kwriteconfig.cpp:51
 msgid "The value to write. Mandatory, on a shell use '' for empty"
-msgstr ""
-"লিখিব লগিয়া মানটো। বাধ্যতামূলক, এটা শ্বেলত ৰিক্তৰ বাবে '' ব্যৱহাৰ কৰক"
-
+msgstr "লিখিব লগিয়া মানটো। বাধ্যতামূলক, এটা শ্বেলত ৰিক্তৰ বাবে '' ব্যৱহাৰ কৰক"

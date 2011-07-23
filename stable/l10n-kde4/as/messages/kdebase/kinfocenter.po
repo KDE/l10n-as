@@ -153,4 +153,3 @@ msgstr "সকলো বিভাগ প্ৰসাৰিত কৰক"
 #: sidepanel.cpp:105
 msgid "Collapse All Categories"
 msgstr "সকলো বিভাগ স্খলন কৰক"
-

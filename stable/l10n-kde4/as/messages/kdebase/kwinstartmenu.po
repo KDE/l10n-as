@@ -22,9 +22,7 @@ msgstr "kwinstartmenu"
 
 #: main.cpp:43
 msgid "An application to create/update or remove Windows Start Menu entries"
-msgstr ""
-"Windows -ৰ আৰম্ভণি মেনু প্ৰবিষ্টিসমূহ সৃষ্টি/আপডেইট অথবা আতৰাবলে এটা "
-"অনুপ্ৰয়োগ"
+msgstr "Windows -ৰ আৰম্ভণি মেনু প্ৰবিষ্টিসমূহ সৃষ্টি/আপডেইট অথবা আতৰাবলে এটা অনুপ্ৰয়োগ"
 
 #: main.cpp:45
 msgid "(C) 2008-2011 Ralf Habacker"
@@ -52,8 +50,7 @@ msgstr "আৰম্ভণি মেনু প্ৰবিষ্টিসমূ�
 
 #: main.cpp:56
 msgid "use categories for start menu entries (default)"
-msgstr ""
-"আৰম্ভণি মেনু প্ৰবিষ্টিসমূহ (অবিকল্পিত) -ৰ বাবে বিভাগসমূহ ব্যৱহাৰ কৰক"
+msgstr "আৰম্ভণি মেনু প্ৰবিষ্টিসমূহ (অবিকল্পিত) -ৰ বাবে বিভাগসমূহ ব্যৱহাৰ কৰক"
 
 #: main.cpp:57
 msgid "don't use categories for start menu entries"
@@ -84,4 +81,3 @@ msgstr "নীলমদ্যুতি গোস্বামী"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ngoswami@redhat.com"
-
