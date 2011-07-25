@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-09-13 05:49+0200\n"
-"PO-Revision-Date: 2011-07-18 21:04+0530\n"
+"PO-Revision-Date: 2011-07-25 20:34+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,6 +23,9 @@ msgid ""
 "The drive is still busy.\n"
 "Wait until it is inactive and then try again."
 msgstr ""
+"ড্ৰাইভ %1 অভিগম কৰিব নোৱাৰি।\n"
+"ড্ৰাইভ এতিয়াও ব্যস্ত।\n"
+"ই নিষ্ক্ৰিয় হোৱা লৈকে অপেক্ষা কৰক আৰু পুনৰ চেষ্টা কৰক।"
 
 #: kio_floppy.cpp:202 kio_floppy.cpp:1116
 #, kde-format
@@ -30,6 +33,8 @@ msgid ""
 "Could not write to file %1.\n"
 "The disk in drive %2 is probably full."
 msgstr ""
+"নথিপত্ৰ %1 -লে লিখিব নোৱাৰি।\n"
+"ড্ৰাইভ %2 -ত থকা খুবসম্ভব ভৰ্তি হৈ আছে।"
 
 #: kio_floppy.cpp:212
 #, kde-format
@@ -37,6 +42,8 @@ msgid ""
 "Could not access %1.\n"
 "There is probably no disk in the drive %2"
 msgstr ""
+"%1 অভিগম কৰিব নোৱাৰি।\n"
+"খুবসম্ভব ড্ৰাইভ %2 -ত কোনো ডিস্ক নাই"
 
 #: kio_floppy.cpp:216
 #, kde-format
@@ -45,6 +52,10 @@ msgid ""
 "There is probably no disk in the drive %2 or you do not have enough "
 "permissions to access the drive."
 msgstr ""
+"%1 অভিগম কৰিব নোৱাৰি।\n"
+"খুবসম্ভব %2 -ত কোনো ড্ৰাইভ নাই অথবা ড্ৰাইভ অভিগম কৰিবলে আপোনাৰ "
+"পৰ্যাপ্ত "
+"অনুমতি নাই।"
 
 #: kio_floppy.cpp:220
 #, kde-format
@@ -52,6 +63,8 @@ msgid ""
 "Could not access %1.\n"
 "The drive %2 is not supported."
 msgstr ""
+"%1 অভিগম কৰিব নোৱাৰি।\n"
+"ড্ৰাইভ %2 সমৰ্থিত নহয়।"
 
 #: kio_floppy.cpp:225
 #, kde-format
@@ -61,6 +74,12 @@ msgid ""
 "and that the permissions of the device file (e.g. /dev/fd0) are set "
 "correctly (e.g. rwxrwxrwx)."
 msgstr ""
+"%1 অভিগম কৰিব নোৱাৰি।\n"
+"সুনিশ্চিত কৰক যে ড্ৰাইভ %2 -ত থকা ফ্লপি এটা DOS-ফৰমেট কৰা ফ্লপি "
+"ডিস্ক \n"
+"আৰু ডিভাইচ নথিপত্ৰৰ অনুমতিসমূহ (উদাহৰনস্বৰুপে /dev/fd0) শুদ্ধভাৱে "
+"সংহতি "
+"কৰা হৈছে (উদাহৰনস্বৰুপে rwxrwxrwx)।"
 
 #: kio_floppy.cpp:229
 #, kde-format
@@ -68,6 +87,8 @@ msgid ""
 "Could not access %1.\n"
 "The disk in drive %2 is probably not a DOS-formatted floppy disk."
 msgstr ""
+"%1 অভিগম কৰিব নোৱাৰি।\n"
+"ড্ৰাইভ %2 -ত থকা ডিস্ক খুবসম্ভব DOS-ফৰমেট কৰা ফ্লপি ডিস্ক নহয়।"
 
 #: kio_floppy.cpp:233
 #, kde-format
@@ -76,6 +97,9 @@ msgid ""
 "Could not write to %1.\n"
 "The disk in drive %2 is probably write-protected."
 msgstr ""
+"অভিগম নাকচ কৰা হৈছে।\n"
+"%1 লে লিখিব নোৱাৰি।\n"
+"ড্ৰাইভ %2 -ত থকা ডিস্ক খুব সম্ভব লিখা-সুৰক্ষিত।"
 
 #: kio_floppy.cpp:242
 #, kde-format
@@ -83,6 +107,8 @@ msgid ""
 "Could not read boot sector for %1.\n"
 "There is probably not any disk in drive %2."
 msgstr ""
+"%1 -ৰ বাবে বুট অংশ লিখিব নোৱাৰি।\n"
+"খুবসম্ভব %2 -ত কোনো ডিস্ক নাই।"
 
 #: kio_floppy.cpp:365
 #, kde-format
@@ -90,3 +116,7 @@ msgid ""
 "Could not start program \"%1\".\n"
 "Ensure that the mtools package is installed correctly on your system."
 msgstr ""
+"প্ৰগ্ৰাম \"%1\" আৰম্ভ কৰিব নোৱাৰি।\n"
+"সুনিশ্চিত কৰক যে mtools পেকেইজ আপোনাৰ চিস্টেমত সঠিকভাৱে ইনস্টল কৰা "
+"হৈছে।"
+
