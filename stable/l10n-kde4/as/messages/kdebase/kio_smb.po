@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:03+0530\n"
+"PO-Revision-Date: 2011-07-25 20:51+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: kio_smb_auth.cpp:141
 #, kde-format
 msgid "<qt>Please enter authentication information for <b>%1</b></qt>"
-msgstr ""
+msgstr "<qt>অনুগ্ৰহ কৰি <b>%1</b></qt> -ৰ বাবে প্ৰমাণীকৰণ তথ্য সোমাওক"
 
 #: kio_smb_auth.cpp:145
 #, kde-format
@@ -28,14 +28,18 @@ msgid ""
 "Server = %1\n"
 "Share = %2"
 msgstr ""
+"অনুগ্ৰহ কৰি প্ৰমাণীকৰণ তথ্য সোমাওক:\n"
+"চাৰ্ভাৰ = %1\n"
+"অংশীদাৰী = %2 "
+"-ৰ বাবে"
 
 #: kio_smb_auth.cpp:180
 msgid "libsmbclient failed to create context"
-msgstr ""
+msgstr "libsmbclient পৰিপ্ৰেক্ষতিত সৃষ্টি কৰিবলে ব্যৰ্থ "
 
 #: kio_smb_auth.cpp:208
 msgid "libsmbclient failed to initialize context"
-msgstr ""
+msgstr "libsmbclient পৰিপ্ৰক্ষতিত আৰম্ভ কৰিবলে ব্যৰ্থ"
 
 #: kio_smb_browse.cpp:69
 #, kde-format
@@ -43,40 +47,45 @@ msgid ""
 "%1:\n"
 "Unknown file type, neither directory or file."
 msgstr ""
+"%1:\n"
+"অজ্ঞাত নথিপত্ৰ ধৰণ, ডাইৰেকটৰি অথবা নথিপত্ৰ নহয়।"
 
 #: kio_smb_browse.cpp:110
 #, kde-format
 msgid "File does not exist: %1"
-msgstr ""
+msgstr "নথিপত্ৰৰ অস্তিত্ব নাই: %1"
 
 #: kio_smb_browse.cpp:222
 msgid ""
 "Unable to find any workgroups in your local network. This might be caused by "
 "an enabled firewall."
 msgstr ""
+"আপোনাৰ স্থানীয় নেটৱাৰ্কত কোনো কৰ্মদল বিচাৰি পাবলে অক্ষম। ই হয়তো এটা "
+"সামৰ্থবান ফায়াৰৱালৰ দ্বাৰা "
+"সৃষ্টিত।"
 
 #: kio_smb_browse.cpp:229
 #, kde-format
 msgid "No media in device for %1"
-msgstr ""
+msgstr "%1 -ৰ বাবে ডিভাইচত কোনো মাধ্যম নাই"
 
 #: kio_smb_browse.cpp:237
 #, kde-format
 msgid "Could not connect to host for %1"
-msgstr ""
+msgstr "%1 -ৰ বাবে হস্টৰ লগত সংযোগ কৰিবলে ব্যৰ্থ"
 
 #: kio_smb_browse.cpp:253
 #, kde-format
 msgid "Error while connecting to server responsible for %1"
-msgstr ""
+msgstr "%1 -ৰ বাবে দায়ি চাৰ্ভাৰৰ লগত সংযোগ কৰোতে ত্ৰুটি"
 
 #: kio_smb_browse.cpp:261
 msgid "Share could not be found on given server"
-msgstr ""
+msgstr "প্ৰদান কৰা চাৰ্ভাৰত অংশীদাৰী পোৱা নগল"
 
 #: kio_smb_browse.cpp:264
 msgid "BAD File descriptor"
-msgstr ""
+msgstr "BAD নথিপত্ৰ বিৱৰক"
 
 #: kio_smb_browse.cpp:271
 msgid ""
@@ -84,6 +93,11 @@ msgid ""
 "network is setup without any name conflicts between names used by Windows "
 "and by UNIX name resolution."
 msgstr ""
+"প্ৰদান কৰা নাম এটা অবিকল্প চাৰ্ভাৰলে দিব নোৱাৰি। সুনিশ্চিত কৰক যে আপোনাৰ "
+"নেটৱাৰ্ক Windows "
+"-এ ব্যৱহাৰ কৰা নামসমূহ আৰু UNIX নাম সমাধানৰ মাজত কোনো নাম দন্দ নহোৱাকৈ "
+"সংস্থাপন কৰা "
+"হৈছে।"
 
 #: kio_smb_browse.cpp:277
 msgid ""
@@ -95,17 +109,31 @@ msgid ""
 "not post it if you are unsure about that - you can send it privately to the "
 "developers if they ask for it)"
 msgstr ""
+"libsmbclient -এ এটা ত্ৰুটিৰ সংবাদ দিছে, কিন্তু সমস্যাটো কি ধাৰ্য্য কৰা নায়। "
+"ই আপোনাৰ "
+"নেটৱাৰ্কলে এটা গুৰুতৰ সমস্যা আনিব পাৰে - কিন্তু হয়তো libsmbclient -ৰ সৈতে "
+"সমস্যাৰ "
+"ইংগিত দিব পাৰে।\n"
+"যদি আপুনি আমাক সহায় কৰিব বিচাৰে, অনুগ্ৰহ কৰি নেটৱাৰ্ক আন্তঃপৃষ্টৰ এটা "
+"tcpdump প্ৰদান কৰক "
+"যেতিয়া আপুনি ব্ৰাউছ কৰিব বিচাৰে (মনত ৰাখিব যে ই ব্যক্তিগত তথ্য অন্তৰ্ভুক্ত "
+"কৰিব পাৰে, সেয়েহে ইয়াত "
+"পোস্ট নকৰিব যদি আপুনি তাৰ বিষয়ে নিশ্চিত নহয় - আপুনি ইয়াক উন্নয়নকাৰীসমূহলে "
+"ব্যক্তিগতভাৱে পঠাব পাৰিব "
+"যদি তেওলোকে বিচাৰে)"
 
 #: kio_smb_browse.cpp:288
 #, kde-format
 msgid "Unknown error condition in stat: %1"
-msgstr ""
+msgstr "পৰিসংখ্যাত অজ্ঞতা ত্ৰুটি: %1 "
 
 #: kio_smb_mount.cpp:109 kio_smb_mount.cpp:145
 msgid ""
 "\n"
 "Make sure that the samba package is installed properly on your system."
 msgstr ""
+"\n"
+"সুনিশ্চিত কৰক যে samba পেকেইজ আপোনাৰ চিস্টেম সঠিকভাৱে ইনস্টল আছে।"
 
 #: kio_smb_mount.cpp:122
 #, kde-format
@@ -113,6 +141,9 @@ msgid ""
 "Mounting of share \"%1\" from host \"%2\" by user \"%3\" failed.\n"
 "%4"
 msgstr ""
+"ব্যৱহাৰকাৰী  \"%3\"  দ্বাৰা হস্ট  \"%2\" -ৰ পৰা অংশীদাৰী  \"%1\" মাউন্ট কৰা "
+"ব্যৰ্থ হল।\n"
+"%4"
 
 #: kio_smb_mount.cpp:158
 #, kde-format
@@ -120,3 +151,6 @@ msgid ""
 "Unmounting of mountpoint \"%1\" failed.\n"
 "%2"
 msgstr ""
+"mountpoint \"%1\" -ক আনমাউন্ট কৰা ব্যৰ্থ হল।\n"
+"%2"
+
