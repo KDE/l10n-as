@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 21:06+0530\n"
+"PO-Revision-Date: 2011-07-25 20:21+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,10 +19,12 @@ msgstr ""
 #: main.cpp:44
 msgid "KIO Exec - Opens remote files, watches modifications, asks for upload"
 msgstr ""
+"KIO Exec - দূৰৱৰ্তী নথিপত্ৰসমূহ খোলে, পৰিৱৰ্তনসমূহ লক্ষ্য কৰে, আপলোডৰ "
+"বিষয়ে সোধে"
 
 #: main.cpp:52
 msgid "'command' expected.\n"
-msgstr ""
+msgstr "'command' আশা কৰা হৈছে।\n"
 
 #: main.cpp:81
 #, kde-format
@@ -30,6 +32,8 @@ msgid ""
 "The URL %1\n"
 "is malformed"
 msgstr ""
+"URL %1\n"
+"ক্ষতিগ্ৰস্থ"
 
 #: main.cpp:83
 #, kde-format
@@ -37,6 +41,8 @@ msgid ""
 "Remote URL %1\n"
 "not allowed with --tempfiles switch"
 msgstr ""
+"দূৰৱৰ্তী URL %1\n"
+"--tempfiles চুইচৰ লগত অনুমোদিত নহয়"
 
 #: main.cpp:216
 #, kde-format
@@ -46,14 +52,18 @@ msgid ""
 "has been modified.\n"
 "Do you still want to delete it?"
 msgstr ""
+"প্ৰত্যাশিত অস্থায়ী নথিপত্ৰ\n"
+"%1\n"
+"সলনি কৰা হৈছে।\n"
+"তথাপিও আপুনি ইয়াক মচি পেলাব বিচাৰে নে?"
 
 #: main.cpp:217 main.cpp:224
 msgid "File Changed"
-msgstr ""
+msgstr "নথিপত্ৰ সলনি কৰা হৈছে"
 
 #: main.cpp:217
 msgid "Do Not Delete"
-msgstr ""
+msgstr "নমচিব"
 
 #: main.cpp:223
 #, kde-format
@@ -63,65 +73,70 @@ msgid ""
 "has been modified.\n"
 "Do you want to upload the changes?"
 msgstr ""
+"নথিপত্ৰ\n"
+"%1\n"
+"সলনি কৰা হৈছে।\n"
+"আপুনি পৰিৱতৰ্নসমূহ আপলোড কৰিব বিচাৰে নে?"
 
 #: main.cpp:224
 msgid "Upload"
-msgstr ""
+msgstr "আপলোড কৰক"
 
 #: main.cpp:224
 msgid "Do Not Upload"
-msgstr ""
+msgstr "আপলোড নকৰিব"
 
 #: main.cpp:253
 msgid "KIOExec"
-msgstr ""
+msgstr "KIOExec"
 
 #: main.cpp:255
 msgid "(c) 1998-2000,2003 The KFM/Konqueror Developers"
-msgstr ""
+msgstr "(c) ১৯৯৮-২০০০,২০০৩ KFM/Konqueror উন্নয়নকাৰীসমূহ"
 
 #: main.cpp:256
 msgid "David Faure"
-msgstr ""
+msgstr "ডেভিড ফৰ"
 
 #: main.cpp:257
 msgid "Stephan Kulow"
-msgstr ""
+msgstr "স্টিফান কুলো"
 
 #: main.cpp:258
 msgid "Bernhard Rosenkraenzer"
-msgstr ""
+msgstr "বাৰ্নহাৰ্ড ৰচেনক্ৰিন্জাৰ"
 
 #: main.cpp:259
 msgid "Waldo Bastian"
-msgstr ""
+msgstr "ৱাল্ডো বাস্টিয়ান"
 
 #: main.cpp:260
 msgid "Oswald Buddenhagen"
-msgstr ""
+msgstr "অচৱাল্ড বুডেনহেগেন"
 
 #: main.cpp:265
 msgid "Treat URLs as local files and delete them afterwards"
-msgstr ""
+msgstr "URLসমূহক স্থানীয় নথিপত্ৰ হিচাপে গন্য কৰে আৰু পিছত মচি পেলায়"
 
 #: main.cpp:266
 msgid "Suggested file name for the downloaded file"
-msgstr ""
+msgstr "ডাউনলোড কৰা নথিপত্ৰৰ বাবে উপদেশিত নথিপত্ৰ নাম"
 
 #: main.cpp:267
 msgid "Command to execute"
-msgstr ""
+msgstr "প্ৰেৰণ কৰিবলে কমান্ড"
 
 #: main.cpp:268
 msgid "URL(s) or local file(s) used for 'command'"
-msgstr ""
+msgstr "'command' -ৰ বাবে ব্যৱহাৰ কৰা URL(সমূহ) অথবা স্থানীয় নথিপত্ৰ(সমূহ)"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
