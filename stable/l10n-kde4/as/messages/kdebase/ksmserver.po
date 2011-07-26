@@ -21,8 +21,7 @@ msgid ""
 "The reliable KDE session manager that talks the standard X11R6 \n"
 "session management protocol (XSMP)."
 msgstr ""
-"বিশ্বাসযোগ্য KDE অধিবেশন ব্যৱস্থাপক যি প্ৰামাণিক X11R6 অধিবেশন ব্যৱস্থাপনা "
-"প্ৰটকল\n"
+"বিশ্বাসযোগ্য KDE অধিবেশন ব্যৱস্থাপক যি প্ৰামাণিক X11R6 অধিবেশন ব্যৱস্থাপনা প্ৰটকল\n"
 "(XSMP) -ক চলায়।"
 
 #: main.cpp:233
@@ -145,4 +144,3 @@ msgid "Restarting computer in 1 second."
 msgid_plural "Restarting computer in %1 seconds."
 msgstr[0] "১ ছেকেণ্ডত কমপিউটাৰ পুনৰাম্ভ কৰা হ'ব।"
 msgstr[1] "%1 ছেকেণ্ডত কমপিউটাৰ পুনৰাম্ভ কৰা হ'ব।"
-

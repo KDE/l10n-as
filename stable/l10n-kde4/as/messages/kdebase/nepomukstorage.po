@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-16 14:14+0200\n"
+"POT-Creation-Date: 2011-07-26 15:16+0200\n"
 "PO-Revision-Date: 2011-07-19 17:08+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -28,16 +28,6 @@ msgstr "পুৰনি পিছপ্ৰান্ত"
 #: modelcopyjob.cpp:129
 msgid "New backend"
 msgstr "নতুন পিছপ্ৰান্ত"
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "নীলমদ্যুতি গোস্বামী"
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "ngoswami@redhat.com"
 
 #: ontologyloader.cpp:134
 #, kde-format
@@ -94,3 +84,13 @@ msgstr ""
 msgctxt "@info - notification message"
 msgid "Successfully converted Nepomuk data to the new backend."
 msgstr "Nepomuk তথ্যক সফলভাৱে নতুন পিছপ্ৰান্ত লে পৰিৱৰ্তন কৰা হল।"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "নীলমদ্যুতি গোস্বামী"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ngoswami@redhat.com"
