@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-04-24 03:53+0200\n"
-"PO-Revision-Date: 2011-07-18 20:59+0530\n"
+"PO-Revision-Date: 2011-07-27 21:40+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,99 +18,103 @@ msgstr ""
 
 #: kcm_add_layout_dialog.cpp:54
 msgid "Any language"
-msgstr ""
+msgstr "যিকোনো ভাষা"
 
 #: kcm_add_layout_dialog.cpp:134 kcm_view_models.cpp:308
 msgctxt "variant"
 msgid "Default"
-msgstr ""
+msgstr "অবিকল্পিত"
 
 #: kcm_keyboard.cpp:53
 msgid "KDE Keyboard Control Module"
-msgstr ""
+msgstr "KDE কিবৰ্ড নিয়ন্ত্ৰণ মডিউল"
 
 #: kcm_keyboard.cpp:55
 msgid "(c) 2010 Andriy Rysin"
-msgstr ""
+msgstr "(c) ২০১০ এন্ড্ৰি ৰাইচিন"
 
 #: kcm_keyboard.cpp:58
 msgid ""
 "<h1>Keyboard</h1> This control module can be used to configure keyboard "
 "parameters and layouts."
 msgstr ""
+"<h1>কিবৰ্ড</h1> এই নিয়ন্ত্ৰণ মডিউলক কিবৰ্ড প্ৰাচল আৰু বিন্যাসসমূহ "
+"সংৰূপণ কৰাৰ কাৰণে "
+"ব্যৱহাৰ কৰিব পাৰি।"
 
 #: kcm_keyboard_widget.cpp:201
 msgctxt "unknown keyboard model vendor"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: kcm_keyboard_widget.cpp:203
 #, kde-format
 msgctxt "vendor | keyboard model"
 msgid "%1 | %2"
-msgstr ""
+msgstr "%1 | %2"
 
 #: kcm_keyboard_widget.cpp:213
 #, kde-format
 msgid "Only up to %1 keyboard layout is supported"
 msgid_plural "Only up to %1 keyboard layouts are supported"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "কেৱল %1 কিবৰ্ড বিন্যাস সমৰ্থিত"
+msgstr[1] "কেৱল %1 কিবৰ্ড বিন্যাসসমূহ সমৰ্থিত"
 
 #: kcm_keyboard_widget.cpp:561
 msgctxt "no shortcuts defined"
 msgid "None"
-msgstr ""
+msgstr "কোনো নহয়"
 
 #: kcm_keyboard_widget.cpp:577
 #, kde-format
 msgid "%1 shortcut"
 msgid_plural "%1 shortcuts"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 চৰ্টকাট"
+msgstr[1] "%1 চৰ্টকাটসমূহ"
 
 #: kcm_view_models.cpp:225
 msgctxt "layout map name"
 msgid "Map"
-msgstr ""
+msgstr "মানচিত্ৰ"
 
 #: kcm_view_models.cpp:225
 msgid "Layout"
-msgstr ""
+msgstr "বিন্যাস"
 
 #: kcm_view_models.cpp:225
 msgid "Variant"
-msgstr ""
+msgstr "অপৰ"
 
 #: kcm_view_models.cpp:225
 msgid "Label"
-msgstr ""
+msgstr "লেবেল"
 
 #: kcm_view_models.cpp:225
 msgid "Shortcut"
-msgstr ""
+msgstr "চৰ্টকাট"
 
 #: keyboard_applet.cpp:52
 msgid "XKB extension failed to initialize"
-msgstr ""
+msgstr "XKB প্ৰসাৰন আৰম্ভ হবলে ব্যৰ্থ"
 
 #: layout_tray_icon.cpp:46 layout_tray_icon.cpp:47
 msgctxt "tooltip title"
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "কিবৰ্ড বিন্যাস"
 
 #: flags.cpp:132
 #, kde-format
 msgctxt "short layout label - full layout name"
 msgid "%1 - %2"
-msgstr ""
+msgstr "%1 - %2"
 
 #: flags.cpp:140
 #, kde-format
 msgctxt "layout - variant"
 msgid "%1 - %2"
-msgstr ""
+msgstr "%1 - %2"
 
 #: layouts_menu.cpp:123
 msgid "Configure..."
-msgstr ""
+msgstr "সংৰূপণ কৰক..."
+
