@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-04-29 03:54+0200\n"
-"PO-Revision-Date: 2011-07-18 20:59+0530\n"
+"PO-Revision-Date: 2011-07-27 21:46+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,79 +19,80 @@ msgstr ""
 #: kcommondecoration.cpp:291
 #, kde-format
 msgid "<center><b>%1</b></center>"
-msgstr ""
+msgstr "<center><b>%1</b></center>"
 
 #: kcommondecoration.cpp:381
 msgid "Menu"
-msgstr ""
+msgstr "মেনু"
 
 #: kcommondecoration.cpp:397 kcommondecoration.cpp:607
 msgid "Not on all desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপত নহয়"
 
 #: kcommondecoration.cpp:397 kcommondecoration.cpp:608
 msgid "On all desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপত"
 
 #: kcommondecoration.cpp:412
 msgid "Help"
-msgstr ""
+msgstr "সহায়"
 
 #: kcommondecoration.cpp:425
 msgid "Minimize"
-msgstr ""
+msgstr "সৰু কৰক"
 
 #: kcommondecoration.cpp:440 kcommondecoration.cpp:595
 msgid "Restore"
-msgstr ""
+msgstr "পুনৰ সংৰক্ষণ কৰক"
 
 #: kcommondecoration.cpp:440 kcommondecoration.cpp:594
 msgid "Maximize"
-msgstr ""
+msgstr "ডাঙৰ কৰক"
 
 #: kcommondecoration.cpp:455
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ কৰক"
 
 #: kcommondecoration.cpp:469 kcommondecoration.cpp:648
 msgid "Do not keep above others"
-msgstr ""
+msgstr "আনৰ উপৰত নাৰাখিব"
 
 #: kcommondecoration.cpp:469 kcommondecoration.cpp:648
 #: kcommondecoration.cpp:669
 msgid "Keep above others"
-msgstr ""
+msgstr "আনৰ উপৰত ৰাখক"
 
 #: kcommondecoration.cpp:485 kcommondecoration.cpp:663
 msgid "Do not keep below others"
-msgstr ""
+msgstr "আনৰ তলত নাৰাখিব"
 
 #: kcommondecoration.cpp:485 kcommondecoration.cpp:654
 #: kcommondecoration.cpp:663
 msgid "Keep below others"
-msgstr ""
+msgstr "আনৰ তলত ৰাখক"
 
 #: kcommondecoration.cpp:501 kcommondecoration.cpp:619
 msgid "Unshade"
-msgstr ""
+msgstr "ছায়া আতৰাওক"
 
 #: kcommondecoration.cpp:501 kcommondecoration.cpp:620
 msgid "Shade"
-msgstr ""
+msgstr "ছায়া"
 
 #: kdecoration_plugins_p.cpp:109
 msgid "Loading of window decoration plugin library disabled in configuration."
-msgstr ""
+msgstr "উইন্ডো সজোৱা প্লাগিন লাইব্ৰেৰি লোড হোৱাটো সংৰূপত অসামৰ্থবান কৰা আছে।"
 
 #: kdecoration_plugins_p.cpp:129
 msgid "No window decoration plugin library was found."
-msgstr ""
+msgstr "কোনো উইন্ডো সজোৱা প্লাগিন লাইব্ৰেৰি পোৱা নগল।"
 
 #: kdecoration_plugins_p.cpp:154
 msgid "The default decoration plugin is corrupt and could not be loaded."
-msgstr ""
+msgstr "অবিকল্পিত সজোৱা প্লাগিন ক্ষতিগ্ৰস্থ আৰু লোড কৰিব নোৱাৰি।"
 
 #: kdecoration_plugins_p.cpp:166 kdecoration_plugins_p.cpp:171
 #, kde-format
 msgid "The library %1 is not a KWin plugin."
-msgstr ""
+msgstr "লাইব্ৰেৰি %1 এটা KWin প্লাগিন।"
+
