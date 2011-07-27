@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-26 02:45+0100\n"
-"PO-Revision-Date: 2011-07-18 20:58+0530\n"
+"PO-Revision-Date: 2011-07-27 21:53+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,90 +18,91 @@ msgstr ""
 
 #: taskactions.cpp:119
 msgid "Mi&nimize"
-msgstr ""
+msgstr "সৰু কৰক (&n)"
 
 #: taskactions.cpp:130
 msgid "Ma&ximize"
-msgstr ""
+msgstr "ডাঙৰ কৰক (&x)"
 
 #: taskactions.cpp:140
 msgid "&Shade"
-msgstr ""
+msgstr "ছায়া (&S)"
 
 #: taskactions.cpp:151
 msgid "Re&size"
-msgstr ""
+msgstr "পুনৰ আকাৰ দিয়ক (&s)"
 
 #: taskactions.cpp:160
 msgid "&Move"
-msgstr ""
+msgstr "স্থানান্তৰ কৰক (&M)"
 
 #: taskactions.cpp:169
 msgid "&Close"
-msgstr ""
+msgstr "বন্ধ কৰক (&C)"
 
 #: taskactions.cpp:202
 msgid "Move &To Current Desktop"
-msgstr ""
+msgstr "বৰ্তমান ডেস্কটপলে স্থানান্তৰ কৰক (&T)"
 
 #: taskactions.cpp:223
 msgid "&All Desktops"
-msgstr ""
+msgstr "সকলো ডেস্কটপ (&A)"
 
 #: taskactions.cpp:245
 msgid "Move To &Desktop"
-msgstr ""
+msgstr "ডেস্কটপলে স্থানান্তৰ কৰক (&D)"
 
 #: taskactions.cpp:258
 msgid "Keep &Above Others"
-msgstr ""
+msgstr "আনৰ উপৰত ৰাখক (&A)"
 
 #: taskactions.cpp:268
 msgid "Keep &Below Others"
-msgstr ""
+msgstr "আনৰ তলত ৰাখক (&B)"
 
 #: taskactions.cpp:278
 msgid "&Fullscreen"
-msgstr ""
+msgstr "সম্পূৰ্ণ পৰ্দা (&F)"
 
 #: taskactions.cpp:288
 msgid "Ad&vanced"
-msgstr ""
+msgstr "উন্নত (&v)"
 
 #: taskactions.cpp:312
 msgid "&Leave Group"
-msgstr ""
+msgstr "দল এৰক (&L)"
 
 #: taskactions.cpp:330
 msgid "Remove This Launcher"
-msgstr ""
+msgstr "এই লঞ্চাৰ আতৰাওক"
 
 #: taskactions.cpp:352
 #, kde-format
 msgid "&Show A Launcher For %1 When It Is Not Running"
-msgstr ""
+msgstr "%1 -ৰ বাবে এটা লঞ্চাৰ দেখুৱাওক যেতিয়া ই চলি থকা নাই (&S)"
 
 #: taskactions.cpp:388
 msgid "&Edit Group"
-msgstr ""
+msgstr "দল সম্পাদনা কৰক (&E)"
 
 #: task.cpp:232
 msgctxt "marks that a task has been modified"
 msgid "modified"
-msgstr ""
+msgstr "সলনি কৰা"
 
 #: strategies/manualgroupingstrategy.cpp:78
 msgid "Leave Group"
-msgstr ""
+msgstr "দল এৰক"
 
 #: strategies/manualgroupingstrategy.cpp:85
 msgid "Remove Group"
-msgstr ""
+msgstr "দল আতৰাওক"
 
 #: strategies/programgroupingstrategy.cpp:72
 msgid "Allow this program to be grouped"
-msgstr ""
+msgstr "এই প্ৰগ্ৰামৰ দল বনোৱাৰ অনুমতি দিয়ক"
 
 #: strategies/programgroupingstrategy.cpp:74
 msgid "Do not allow this program to be grouped"
-msgstr ""
+msgstr "এই প্ৰগ্ৰামৰ দল বনোৱা অনুমতি নিদিব"
+
