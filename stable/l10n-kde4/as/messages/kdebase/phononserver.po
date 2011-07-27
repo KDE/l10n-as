@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-11 04:11+0200\n"
-"PO-Revision-Date: 2011-07-18 20:57+0530\n"
+"PO-Revision-Date: 2011-07-27 22:22+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,29 +18,32 @@ msgstr ""
 
 #: deviceaccess.cpp:67
 msgid "Invalid Driver"
-msgstr ""
+msgstr "অবৈধ ড্ৰাইভাৰ"
 
 #: deviceaccess.cpp:69
 msgid "ALSA"
-msgstr ""
+msgstr "ALSA"
 
 #: deviceaccess.cpp:71
 msgid "OSS"
-msgstr ""
+msgstr "OSS"
 
 #: deviceaccess.cpp:73
 msgid "Jack"
-msgstr ""
+msgstr "জেক"
 
 #: deviceaccess.cpp:75
 msgid "Video 4 Linux"
-msgstr ""
+msgstr "ভিডিঅ' ৪ Linux"
 
 #: deviceinfo.cpp:95
 msgid ""
 "<html>This device is currently not available (either it is unplugged or the "
 "driver is not loaded).</html>"
 msgstr ""
+"<html>এই ডিভাইচ বৰ্তমানে উপলব্ধ নহয় (হয় ই আনপ্লাগ অৱস্থাত আছে বা ড্ৰাইভাৰ "
+"লোড "
+"কৰা হোৱা নাই )।</html>"
 
 #: deviceinfo.cpp:103
 #, kde-format
@@ -48,7 +51,7 @@ msgctxt ""
 "The first argument is name of the driver/sound subsystem. The second "
 "argument is the device identifier"
 msgid "<li>%1: %2</li>"
-msgstr ""
+msgstr "<li>%1: %2</li>"
 
 #: deviceinfo.cpp:108
 #, kde-format
@@ -56,59 +59,65 @@ msgid ""
 "<html>This will try the following devices and use the first that works: <ol>%"
 "1</ol></html>"
 msgstr ""
+"<html>ই নিম্নলিখিত ডিভাইচসমূহ চেষ্টা কৰিব আৰু কামত অহা প্ৰথমটো ব্যৱহাৰ কৰিব: "
+"<ol>%"
+"1</ol></html>"
 
 #: phononserver.cpp:228
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: phononserver.cpp:239
 #, kde-format
 msgctxt "%1 is the sound card name, %2 is the description in case it exists"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: phononserver.cpp:739
 #, kde-format
 msgid "Output: %1"
-msgstr ""
+msgstr "আউটপুট: %1"
 
 #: phononserver.cpp:739
 #, kde-format
 msgid "Capture: %1"
-msgstr ""
+msgstr "কৰগত: %1"
 
 #: phononserver.cpp:744
 #, kde-format
 msgid "Video: %1"
-msgstr ""
+msgstr "ভিডিঅ': %1"
 
 #: phononserver.cpp:1126
 msgid "Removed Sound Devices"
-msgstr ""
+msgstr "আতৰোৱা শব্দ ডিভাইচসমূহ"
 
 #: phononserver.cpp:1126
 msgid "Removed Video Devices"
-msgstr ""
+msgstr "আতৰোৱা ভিডিঅ' ডিভাইচসমূহ"
 
 #: phononserver.cpp:1132
 msgid "Forget about the sound devices."
-msgstr ""
+msgstr "শব্দ ডিভাইচসমূহৰ বিষয়ে পাহৰি যাওক।"
 
 #: phononserver.cpp:1132
 msgid "Forget about the video devices"
-msgstr ""
+msgstr "ভিডিঅ' ডিভাইচসমূহৰ বিষয়ে পাহৰি যাওক"
 
 #: phononserver.cpp:1136
 msgctxt ""
 "short string for a button, it opens the Phonon page of System Settings"
 msgid "Manage Devices"
-msgstr ""
+msgstr "ডিভাইচসমূহ ব্যৱস্থাপনা কৰক"
 
 #: phononserver.cpp:1138
 msgid ""
 "Open the System Settings page for device configuration where you can "
 "manually remove disconnected devices from the cache."
 msgstr ""
+"ডিভাইচ সংৰূপৰ বাবে চিস্টেম সংহতিসমূহ পৃষ্ঠা খোলক যত আপুনি ক্যাশৰ পৰা "
+"বিচ্ছিন্নিত ডিভাইচসমূহ "
+"হস্তচালিতভাৱে আতৰাব পাৰিব।"
 
 #: phononserver.cpp:1145
 #, kde-format
@@ -118,7 +127,12 @@ msgid ""
 "p><p>This is the list of devices KDE thinks can be removed:<ul><li>%1</li></"
 "ul></p></html>"
 msgstr ""
+"<html><p>KDE ধৰা পেলাইছে যে এটা বা অধিক অভ্যন্তৰীক ডিভাইচসমূহ আতৰোৱা হৈছে।</ "
+"p><p><b>আপুনি KDE -ক চিৰকালৰ বাবে এই ডিভাইচসমূহ পাহৰি যাব বিচাৰে নে?</b></ "
+"p><p>ই ডিভাইচসমূহৰ তালিকা যি KDE -এ ভাৱে আতৰাব পাৰি:<ul><li>%1</li></"
+"ul></p></html>"
 
 #: phononserver.cpp:1150
 msgid "Do not ask again for these devices"
-msgstr ""
+msgstr "এই ডিভাইচসমূহৰ বাবে আকৌ নুশুদিব"
+
