@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-12 04:10+0200\n"
-"PO-Revision-Date: 2011-07-18 20:58+0530\n"
+"PO-Revision-Date: 2011-07-27 21:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,54 +18,55 @@ msgstr ""
 
 #: main.cpp:32
 msgid "Nepomuk Controller"
-msgstr ""
+msgstr "Nepomuk নিয়ন্ত্ৰক"
 
 #: main.cpp:34
 msgid "A small tool to monitor and control Nepomuk file indexing"
-msgstr ""
+msgstr "Nepomuk নথিপত্ৰ সূচনাক মনিটৰ আৰু নিয়ন্ত্ৰণ কৰিবলে এটা সৰু সঁজুলি"
 
 #: main.cpp:36
 msgid "(c) 2008-2011, Sebastian Trüg"
-msgstr ""
+msgstr "(c) ২০০৮-২০১১, চিবেচটিয়ান ট্ৰুগ"
 
 #: main.cpp:39
 msgid "Sebastian Trüg"
-msgstr ""
+msgstr "চিবেচটিয়ান ট্ৰুগ"
 
 #: main.cpp:39
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: systray.cpp:46
 msgid "Nepomuk File Indexing"
-msgstr ""
+msgstr "Nepomuk নথিপত্ৰ সূচনা"
 
 #: systray.cpp:51 systray.cpp:52
 msgid "Suspend File Indexing"
-msgstr ""
+msgstr "নথিপত্ৰ সূচনা বাতিল কৰক"
 
 #: systray.cpp:53
 msgid "Suspend or resume the file indexer manually"
-msgstr ""
+msgstr "নথিপত্ৰ সূচকক হস্তচালিতভাৱে বাতিল কৰক বা চলাওক"
 
 #: systray.cpp:58
 msgid "Configure File Indexing"
-msgstr ""
+msgstr "নথিপত্ৰ সূচনা সংৰূপণ কৰক"
 
 #: systray.cpp:118
 msgid "Nepomuk File Indexing Service not running"
-msgstr ""
+msgstr "Nepomuk নথিপত্ৰ সূচনা সেৱা চলি থকা নাই"
 
 #: systray.cpp:121
 msgid "Search Service"
-msgstr ""
+msgstr "সেৱা সন্ধান কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
