@@ -95,4 +95,3 @@ msgstr "%1 অনুৰোধ কৰা হৈ আছে"
 #: viewer/viewer.cpp:102
 msgid "nspluginviewer"
 msgstr "nspluginviewer"
-

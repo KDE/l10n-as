@@ -38,8 +38,7 @@ msgid ""
 "<h1>Keyboard</h1> This control module can be used to configure keyboard "
 "parameters and layouts."
 msgstr ""
-"<h1>কিবৰ্ড</h1> এই নিয়ন্ত্ৰণ মডিউলক কিবৰ্ড প্ৰাচল আৰু বিন্যাসসমূহ "
-"সংৰূপণ কৰাৰ কাৰণে "
+"<h1>কিবৰ্ড</h1> এই নিয়ন্ত্ৰণ মডিউলক কিবৰ্ড প্ৰাচল আৰু বিন্যাসসমূহ সংৰূপণ কৰাৰ কাৰণে "
 "ব্যৱহাৰ কৰিব পাৰি।"
 
 #: kcm_keyboard_widget.cpp:201
@@ -117,4 +116,3 @@ msgstr "%1 - %2"
 #: layouts_menu.cpp:123
 msgid "Configure..."
 msgstr "সংৰূপণ কৰক..."
-

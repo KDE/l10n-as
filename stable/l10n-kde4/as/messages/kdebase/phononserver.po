@@ -41,9 +41,8 @@ msgid ""
 "<html>This device is currently not available (either it is unplugged or the "
 "driver is not loaded).</html>"
 msgstr ""
-"<html>এই ডিভাইচ বৰ্তমানে উপলব্ধ নহয় (হয় ই আনপ্লাগ অৱস্থাত আছে বা ড্ৰাইভাৰ "
-"লোড "
-"কৰা হোৱা নাই )।</html>"
+"<html>এই ডিভাইচ বৰ্তমানে উপলব্ধ নহয় (হয় ই আনপ্লাগ অৱস্থাত আছে বা ড্ৰাইভাৰ লোড কৰা "
+"হোৱা নাই )।</html>"
 
 #: deviceinfo.cpp:103
 #, kde-format
@@ -59,8 +58,7 @@ msgid ""
 "<html>This will try the following devices and use the first that works: <ol>%"
 "1</ol></html>"
 msgstr ""
-"<html>ই নিম্নলিখিত ডিভাইচসমূহ চেষ্টা কৰিব আৰু কামত অহা প্ৰথমটো ব্যৱহাৰ কৰিব: "
-"<ol>%"
+"<html>ই নিম্নলিখিত ডিভাইচসমূহ চেষ্টা কৰিব আৰু কামত অহা প্ৰথমটো ব্যৱহাৰ কৰিব: <ol>%"
 "1</ol></html>"
 
 #: phononserver.cpp:228
@@ -115,9 +113,8 @@ msgid ""
 "Open the System Settings page for device configuration where you can "
 "manually remove disconnected devices from the cache."
 msgstr ""
-"ডিভাইচ সংৰূপৰ বাবে চিস্টেম সংহতিসমূহ পৃষ্ঠা খোলক যত আপুনি ক্যাশৰ পৰা "
-"বিচ্ছিন্নিত ডিভাইচসমূহ "
-"হস্তচালিতভাৱে আতৰাব পাৰিব।"
+"ডিভাইচ সংৰূপৰ বাবে চিস্টেম সংহতিসমূহ পৃষ্ঠা খোলক যত আপুনি ক্যাশৰ পৰা বিচ্ছিন্নিত "
+"ডিভাইচসমূহ হস্তচালিতভাৱে আতৰাব পাৰিব।"
 
 #: phononserver.cpp:1145
 #, kde-format
@@ -129,10 +126,9 @@ msgid ""
 msgstr ""
 "<html><p>KDE ধৰা পেলাইছে যে এটা বা অধিক অভ্যন্তৰীক ডিভাইচসমূহ আতৰোৱা হৈছে।</ "
 "p><p><b>আপুনি KDE -ক চিৰকালৰ বাবে এই ডিভাইচসমূহ পাহৰি যাব বিচাৰে নে?</b></ "
-"p><p>ই ডিভাইচসমূহৰ তালিকা যি KDE -এ ভাৱে আতৰাব পাৰি:<ul><li>%1</li></"
-"ul></p></html>"
+"p><p>ই ডিভাইচসমূহৰ তালিকা যি KDE -এ ভাৱে আতৰাব পাৰি:<ul><li>%1</li></ul></p></"
+"html>"
 
 #: phononserver.cpp:1150
 msgid "Do not ask again for these devices"
 msgstr "এই ডিভাইচসমূহৰ বাবে আকৌ নুশুদিব"
-
