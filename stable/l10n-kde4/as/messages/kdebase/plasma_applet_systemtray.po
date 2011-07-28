@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-31 04:15+0200\n"
-"PO-Revision-Date: 2011-07-18 20:55+0530\n"
+"PO-Revision-Date: 2011-07-28 20:46+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,102 +18,103 @@ msgstr ""
 
 #: ui/applet.cpp:469
 msgid "Display"
-msgstr ""
+msgstr "প্ৰদৰ্শন কৰক"
 
 #: ui/applet.cpp:471
 msgid "Choose which information to show"
-msgstr ""
+msgstr "কোন তথ্য দেখুৱা হ'ব বাছক"
 
 #: ui/applet.cpp:472
 msgid "Entries"
-msgstr ""
+msgstr "প্ৰবিষ্টিসমূহ"
 
 #: ui/applet.cpp:532
 msgctxt "Item will be automatically shown or hidden from the systray"
 msgid "Auto"
-msgstr ""
+msgstr "স্বচালিত"
 
 #: ui/applet.cpp:533
 msgctxt "Item is never visible in the systray"
 msgid "Hidden"
-msgstr ""
+msgstr "লুকাই থকা"
 
 #: ui/applet.cpp:534
 msgctxt "Item is always visible in the systray"
 msgid "Always Visible"
-msgstr ""
+msgstr "সদায় দৃশ্যমান"
 
 #: ui/applet.cpp:574
 msgctxt "Categories of items in the systemtray that will be shown or hidden"
 msgid "Shown Item Categories"
-msgstr ""
+msgstr "বস্তু বিভাগসমূহ দেখুৱাওক"
 
 #: ui/applet.cpp:577
 msgctxt "Systemtray items that describe the status of a generic application"
 msgid "Application status"
-msgstr ""
+msgstr "অনুপ্ৰয়োগ অৱস্থা"
 
 #: ui/applet.cpp:587
 msgctxt "Items communication related, such as chat or email clients"
 msgid "Communications"
-msgstr ""
+msgstr "যোগাযোগসমূহ"
 
 #: ui/applet.cpp:597
 msgctxt "Items about the status of the system, such as a filesystem indexer"
 msgid "System services"
-msgstr ""
+msgstr "চিস্টেম সেৱাসমূহ"
 
 #: ui/applet.cpp:607
 msgctxt "Items about hardware, such as battery or volume control"
 msgid "Hardware control"
-msgstr ""
+msgstr "হাৰ্ডৱেৰ নিয়ন্ত্ৰণ"
 
 #: ui/applet.cpp:617
 msgctxt "Other uncategorized systemtray items"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "বিভিন্ন"
 
 #: ui/applet.cpp:636
 msgctxt ""
 "Extra items to be manually added in the systray, such as little Plasma "
 "widgets"
 msgid "Extra Items"
-msgstr ""
+msgstr "অতিৰিক্ত বস্তুবোৰ"
 
 #: ui/taskarea.cpp:495
 msgid "Hide icons"
-msgstr ""
+msgstr "আইকনসমূহ লুকাওক"
 
 #: ui/taskarea.cpp:497
 msgid "Show hidden icons"
-msgstr ""
+msgstr "লুকাই থকা আইকনসমূহ দেখুৱাওক"
 
 #. i18n: file: ui/autohide.ui:39
 #. i18n: ectx: property (text), widget (QTreeWidget, icons)
 #: rc.cpp:3
 msgid "Item"
-msgstr ""
+msgstr "বস্তু"
 
 #. i18n: file: ui/autohide.ui:44
 #. i18n: ectx: property (text), widget (QTreeWidget, icons)
 #: rc.cpp:6
 msgid "Visibility"
-msgstr ""
+msgstr "দৃশ্যমানতা"
 
 #. i18n: file: ui/autohide.ui:49
 #. i18n: ectx: property (text), widget (QTreeWidget, icons)
 #: rc.cpp:9
 msgid "Keyboard Shortcut"
-msgstr ""
+msgstr "কিবৰ্ড চৰ্টকাট"
 
 #. i18n: file: ui/visibleitems.ui:26
 #. i18n: ectx: property (text), widget (QLabel, unlockLabel)
 #: rc.cpp:12
 msgid "Widgets are currently locked, disabling some options."
-msgstr ""
+msgstr "উইজেটসমূহ বৰ্তমান লক কৰা আছে, কিছুমান বিকল্প অসামৰ্থবান কৰি।"
 
 #. i18n: file: ui/visibleitems.ui:54
 #. i18n: ectx: property (text), widget (QPushButton, unlockButton)
 #: rc.cpp:15
 msgid "Unlock Widgets"
-msgstr ""
+msgstr "উইজেটসমূহ আনলক কৰক"
+
