@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-06-08 04:01+0200\n"
-"PO-Revision-Date: 2011-07-18 20:55+0530\n"
+"PO-Revision-Date: 2011-07-28 20:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,136 +20,137 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: rc.cpp:3
 msgid "Appearance"
-msgstr ""
+msgstr "ৰূপ"
 
 #. i18n: file: tasksConfig.ui:36
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: rc.cpp:6
 msgid "Force row settings"
-msgstr ""
+msgstr "শাৰী সংহতিসমূহ বাধ্য কৰক"
 
 #. i18n: file: tasksConfig.ui:56
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: rc.cpp:9
 msgid "Show tooltips"
-msgstr ""
+msgstr "টুলটিপসমূহ দেখুৱাওক"
 
 #. i18n: file: tasksConfig.ui:76
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: rc.cpp:12
 msgid "Highlight windows"
-msgstr ""
+msgstr "উইন্ডোসমূহ উজ্জ্বল কৰক"
 
 #. i18n: file: tasksConfig.ui:96
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: rc.cpp:15
 msgid "Maximum rows:"
-msgstr ""
+msgstr "সৰ্বাধিক শাৰীসমূহ:"
 
 #. i18n: file: tasksConfig.ui:148
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: rc.cpp:18
 msgid "Grouping and Sorting"
-msgstr ""
+msgstr "দলীকৰণ আৰু সজোৱা"
 
 #. i18n: file: tasksConfig.ui:155
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:21
 msgid "Grouping:"
-msgstr ""
+msgstr "দলীকৰণ:"
 
 #. i18n: file: tasksConfig.ui:195
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: rc.cpp:24
 msgid "Only when the taskbar is full"
-msgstr ""
+msgstr "কেৱল তেতিয়া যেতিয়া কাৰ্য্যবাৰ সম্পূৰ্ণ"
 
 #. i18n: file: tasksConfig.ui:221
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:27
 msgid "Sorting:"
-msgstr ""
+msgstr "সজোৱা:"
 
 #. i18n: file: tasksConfig.ui:273
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:30
 msgid "Filters"
-msgstr ""
+msgstr "পৰিস্ৰাৱকসমূহ"
 
 #. i18n: file: tasksConfig.ui:280
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: rc.cpp:33
 msgid "Only show tasks from the current screen"
-msgstr ""
+msgstr "কেৱল বৰ্তমান পৰ্দাৰ পৰা কাৰ্য্যসমূহ দেখুৱাওক"
 
 #. i18n: file: tasksConfig.ui:300
 #. i18n: ectx: property (text), widget (QLabel, label_12)
 #: rc.cpp:36
 msgid "Only show tasks from the current desktop"
-msgstr ""
+msgstr "কেৱল বৰ্তমান ডেস্কটপৰ পৰা কাৰ্য্যসমূহ দেখুৱাওক"
 
 #. i18n: file: tasksConfig.ui:320
 #. i18n: ectx: property (text), widget (QLabel, label_14)
 #: rc.cpp:39
 msgid "Only show tasks from the current activity"
-msgstr ""
+msgstr "কেৱল বৰ্তমান কাৰ্য্যৰ পৰা কাৰ্য্যসমূহ দেখুৱাওক"
 
 #. i18n: file: tasksConfig.ui:340
 #. i18n: ectx: property (text), widget (QLabel, label_13)
 #: rc.cpp:42
 msgid "Only show tasks that are minimized"
-msgstr ""
+msgstr "কেৱল সৰু থকা কাৰ্য্যবোৰ দেখুৱাওক"
 
 #: taskgroupitem.cpp:300 windowtaskitem.cpp:231
 #, kde-format
 msgctxt "Which virtual desktop a window is currently on"
 msgid "On %1"
-msgstr ""
+msgstr "%1 -ত"
 
 #: taskgroupitem.cpp:422
 msgid "Collapse Group"
-msgstr ""
+msgstr "দল স্খলন কৰক"
 
 #: taskgroupitem.cpp:425
 msgid "Expand Group"
-msgstr ""
+msgstr "দল প্ৰসাৰিত কৰক"
 
 #: taskgroupitem.cpp:986
 msgid "Edit Group"
-msgstr ""
+msgstr "দল সম্পাদন কৰক"
 
 #: taskgroupitem.cpp:987
 msgid "New Group Name: "
-msgstr ""
+msgstr "নতুন দল নাম: "
 
 #: tasks.cpp:351
 msgid "General"
-msgstr ""
+msgstr "সাধাৰন"
 
 #: tasks.cpp:361
 msgid "Do Not Group"
-msgstr ""
+msgstr "দলীকৰণ নকৰিব"
 
 #: tasks.cpp:362 tasks.cpp:386
 msgid "Manually"
-msgstr ""
+msgstr "হস্তচালিতভাৱে"
 
 #: tasks.cpp:363
 msgid "By Program Name"
-msgstr ""
+msgstr "প্ৰগ্ৰামৰ নামৰে"
 
 #: tasks.cpp:385
 msgid "Do Not Sort"
-msgstr ""
+msgstr "নসজাব"
 
 #: tasks.cpp:387
 msgid "Alphabetically"
-msgstr ""
+msgstr "বৰ্ণমালাভাৱে"
 
 #: tasks.cpp:388
 msgid "By Desktop"
-msgstr ""
+msgstr "ডেস্কটপৰে"
 
 #: windowtaskitem.cpp:335
 msgid "Collapse Parent Group"
-msgstr ""
+msgstr "উপধায়ক দল স্খলন কৰক"
+
