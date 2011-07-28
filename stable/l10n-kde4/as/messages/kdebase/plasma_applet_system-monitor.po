@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-03-13 03:31+0100\n"
-"PO-Revision-Date: 2011-07-18 20:55+0530\n"
+"PO-Revision-Date: 2011-07-28 20:41+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,103 +18,103 @@ msgstr ""
 
 #: cpu.cpp:47 cpu.cpp:131 hwinfo.cpp:139
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: cpu.cpp:91
 msgid "total"
-msgstr ""
+msgstr "সৰ্বমুঠ"
 
 #: cpu.cpp:149 net.cpp:156 ram.cpp:155 temperature.cpp:119
 msgctxt "second"
 msgid " s"
-msgstr ""
+msgstr " s"
 
 #: cpu.cpp:150
 msgid "CPUs"
-msgstr ""
+msgstr "CPUসমূহ"
 
 #: hdd.cpp:49
 msgid "Disk Space"
-msgstr ""
+msgstr "ডিস্ক স্থান"
 
 #: hdd.cpp:85
 msgid "Mount Point"
-msgstr ""
+msgstr "মাউন্ট বিন্দু"
 
 #: hdd.cpp:86 temperature.cpp:96
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #: hdd.cpp:110
 msgid " minute"
 msgid_plural " minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] " মিনিট"
+msgstr[1] " মিনিটসমূহ"
 
 #: hdd.cpp:112
 msgid "Partitions"
-msgstr ""
+msgstr "বিভাজনসমূহ"
 
 #: hdd.cpp:164
 msgctxt "the root filesystem"
 msgid "root"
-msgstr ""
+msgstr "ৰুট"
 
 #: hdd.cpp:170
 msgid "Unknown filesystem"
-msgstr ""
+msgstr "অজ্ঞাত নথিপত্ৰপ্ৰণালী"
 
 #: hdd.cpp:185
 #, kde-format
 msgctxt "hard disk label (not mounted or accessible)"
 msgid "%1 (not accessible)"
-msgstr ""
+msgstr "%1 (অভিগম কৰিব নোৱাৰি)"
 
 #: hdd.cpp:298
 msgid "File System"
-msgstr ""
+msgstr "নথিপত্ৰ প্ৰণালী"
 
 #: hdd.cpp:299
 msgid "Raid"
-msgstr ""
+msgstr "Raid"
 
 #: hwinfo.cpp:57 hwinfo.cpp:156
 msgid "Hardware Info"
-msgstr ""
+msgstr "হাৰ্ডৱেৰ তথ্য"
 
 #: hwinfo.cpp:68
 msgid "Getting hardware information..."
-msgstr ""
+msgstr "হাৰ্ডৱেৰ তথ্য প্ৰাপ্ত কৰা হৈছে..."
 
 #: hwinfo.cpp:141
 msgid "GPU"
-msgstr ""
+msgstr "GPU"
 
 #: hwinfo.cpp:143
 msgid "Audio"
-msgstr ""
+msgstr "অডিঅ'"
 
 #: hwinfo.cpp:146 net.cpp:46
 msgid "Network"
-msgstr ""
+msgstr "নেটৱাৰ্ক"
 
 #: net.cpp:139
 msgid "Network Interface"
-msgstr ""
+msgstr "নেটৱাৰ্ক আন্তঃপৃষ্ট"
 
 #: net.cpp:157
 msgid "Interfaces"
-msgstr ""
+msgstr "আন্তঃপৃষ্টসমূহ"
 
 #: ram.cpp:48 ram.cpp:136 ram.cpp:156
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #. i18n: file: cpu-config.ui:23
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:3
 msgid "&CPUs:"
-msgstr ""
+msgstr "CPUসমূহ (&C):"
 
 #. i18n: file: cpu-config.ui:48
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -128,40 +128,41 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:6 rc.cpp:12 rc.cpp:18 rc.cpp:24 rc.cpp:30
 msgid "Update &interval:"
-msgstr ""
+msgstr "অন্তৰাল আপডেইট কৰক (&i):"
 
 #. i18n: file: hdd-config.ui:23
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:9
 msgid "Hard &disks:"
-msgstr ""
+msgstr "হাৰ্ড ডিস্কসমূহ (&d):"
 
 #. i18n: file: net-config.ui:23
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:15
 msgid "&Network interfaces:"
-msgstr ""
+msgstr "নেটৱাৰ্ক আন্তঃপৃষ্টসমূহ (&N):"
 
 #. i18n: file: ram-config.ui:23
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:21
 msgid "&Memory:"
-msgstr ""
+msgstr "মেমৰি (&M):"
 
 #. i18n: file: temperature-config.ui:20
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:27
 msgid "&Available temperatures:"
-msgstr ""
+msgstr "উপলব্ধ তাপমানসমূহ (&A):"
 
 #: temperature.cpp:57 temperature.cpp:121
 msgid "Temperature"
-msgstr ""
+msgstr "তাপমান"
 
 #: temperature.cpp:95
 msgid "Sensor"
-msgstr ""
+msgstr "সংবেদক"
 
 #: temperature.cpp:97
 msgid "Offset"
-msgstr ""
+msgstr "অফচেট"
+
