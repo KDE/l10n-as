@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:09+0200\n"
-"PO-Revision-Date: 2011-07-18 20:57+0530\n"
+"PO-Revision-Date: 2011-07-28 19:52+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,33 +18,35 @@ msgstr ""
 
 #: deviceitem.cpp:292
 msgid "Click to eject this disc."
-msgstr ""
+msgstr "এই ডিস্ক উলাবলে ক্লিক কৰক।"
 
 #: deviceitem.cpp:295
 msgid "Click to safely remove this device."
-msgstr ""
+msgstr "এই ডিভাইচ সফলভাৱে আতৰাবলে ক্লিক কৰক।"
 
 #: deviceitem.cpp:297
 msgid "Click to unmount this device."
-msgstr ""
+msgstr "এই ডিভাইচ আনমাউন্ট কৰিবলে ক্লিক কৰক।"
 
 #: deviceitem.cpp:301
 msgid ""
 "It is currently <b>not safe</b> to remove this device: applications may be "
 "accessing it. Click the eject button to safely remove this device."
 msgstr ""
+"বৰ্তমানে এই ডিভাইচ আতৰোৱা <b>সুৰক্ষিত নহয়</b>: অনুপ্ৰয়োগসমূহে ইয়াক অভিগম কৰি "
+"থাকিব পাৰে। এই ডিভাইচক সফলভাৱে আতৰাবলে উলাওক বুটাম ক্লিক কৰক।"
 
 #: deviceitem.cpp:303
 msgid "This device is currently accessible."
-msgstr ""
+msgstr "এই ডিভাইচ বৰ্তমানে অভিগম কৰিব পাৰি।"
 
 #: deviceitem.cpp:306
 msgid "Click to access this device from other applications."
-msgstr ""
+msgstr "এই ডিভাইচক অন্য অনুপ্ৰয়োগসমূহৰ পৰা অভিগম কৰিবলে ক্লিক কৰক।"
 
 #: deviceitem.cpp:309
 msgid "It is currently safe to remove this device."
-msgstr ""
+msgstr "এই ডিভাইচক বৰ্তমানে আতৰোৱা সুৰক্ষিত।"
 
 #: deviceitem.cpp:311
 msgid ""
@@ -52,86 +54,90 @@ msgid ""
 "accessing other volumes on this device. Click the eject button on these "
 "other volumes to safely remove this device."
 msgstr ""
+"বৰ্তমানে এই ডিভাইচক আতৰোৱা <b>সুৰক্ষিত নহয়</b>: অনুপ্ৰয়োগসমূহে এই ডিভাইচত "
+"অন্য আয়তনসমূহ অভিগম কৰি থাকিব পাৰে। এই ডিভাইচক সুৰক্ষিতভাৱে আতৰাবলে এই অন্য "
+"আয়তনসমূহত উলাওক বুটাম ক্লিক কৰক।"
 
 #: deviceitem.cpp:314
 msgid "This device is currently not accessible."
-msgstr ""
+msgstr "এই ডিভাইচ বৰ্তমানে অভিগম কৰিব নোৱাৰি।"
 
 #: deviceitem.cpp:407
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
-msgstr ""
+msgstr "%1 মুক্ত"
 
 #: deviceitem.cpp:461
 msgctxt ""
 "Accessing is a less technical word for Mounting; translation should be short "
 "and mean 'Currently mounting this device'"
 msgid "Accessing..."
-msgstr ""
+msgstr "অভিগম কৰা হৈ আছে..."
 
 #: deviceitem.cpp:464
 msgctxt ""
 "Removing is a less technical word for Unmounting; translation shoud be short "
 "and mean 'Currently unmounting this device'"
 msgid "Removing..."
-msgstr ""
+msgstr "আতৰোৱা হৈ আছে..."
 
 #: devicenotifier.cpp:102
 #, kde-format
 msgid "1 action for this device"
 msgid_plural "%1 actions for this device"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "এই ডিভাইচৰ বাবে ১ কাৰ্য্য"
+msgstr[1] "এই ডিভাইচৰ বাবে %1 কাৰ্য্যসমূহ"
 
 #: devicenotifier.cpp:334
 msgid "No devices available."
-msgstr ""
+msgstr "কোনো ডিভাইচ উপলব্ধ নহয়।"
 
 #: devicenotifier.cpp:338
 msgid "Most recent device"
-msgstr ""
+msgstr "সকলোতকৈ সেহতীয়া ডিভাইচ"
 
 #: devicenotifier.cpp:468
 msgid "Display"
-msgstr ""
+msgstr "প্ৰদৰ্শন কৰক"
 
 #: devicenotifier.cpp:471
 msgid "Automounting"
-msgstr ""
+msgstr "স্বচালিতভাৱে মাউন্ট কৰোৱা"
 
 #: notifierdialog.cpp:69
 msgid "Show hidden devices"
-msgstr ""
+msgstr "লুকাই থকা ডিভাইচসমূহ দেখুৱাওক"
 
 #: notifierdialog.cpp:973
 #, kde-format
 msgctxt "Hide a device"
 msgid "Hide %1"
-msgstr ""
+msgstr "%1 -ক লুকাওক"
 
 #: notifierdialog.cpp:1037
 msgid "Available Devices"
-msgstr ""
+msgstr "উপলব্ধ ডিভাইচসমূহ"
 
 #: notifierdialog.cpp:1039
 msgid "No Devices Available"
-msgstr ""
+msgstr "কোনো ডিভাইচ উপলব্ধ নহয়"
 
 #. i18n: file: configurationpage.ui:17
 #. i18n: ectx: property (text), widget (QRadioButton, removableDevices)
 #: rc.cpp:3
 msgid "Removable devices only"
-msgstr ""
+msgstr "কেৱল আতৰাব পৰা ডিভাইচসমূহ"
 
 #. i18n: file: configurationpage.ui:24
 #. i18n: ectx: property (text), widget (QRadioButton, nonRemovableDevices)
 #: rc.cpp:6
 msgid "Non-removable devices only"
-msgstr ""
+msgstr "কেৱল আতৰাব নোৱাৰা ডিভাইচসমূহ"
 
 #. i18n: file: configurationpage.ui:44
 #. i18n: ectx: property (text), widget (QRadioButton, allDevices)
 #: rc.cpp:9
 msgid "All devices"
-msgstr ""
+msgstr "সকলো ডিভাইচ"
+
