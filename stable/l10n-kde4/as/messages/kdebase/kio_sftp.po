@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-07-05 04:22+0200\n"
-"PO-Revision-Date: 2011-07-18 21:03+0530\n"
+"PO-Revision-Date: 2011-07-28 14:50+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,56 +18,56 @@ msgstr ""
 
 #: kio_sftp.cpp:200 kio_sftp.cpp:204 kio_sftp.cpp:668
 msgid "SFTP Login"
-msgstr ""
+msgstr "SFTP লগিন"
 
 #: kio_sftp.cpp:216
 msgid "Use the username input field to answer this question."
-msgstr ""
+msgstr "এই প্ৰশ্নৰ উত্তৰ দিবলে ব্যৱহাৰকাৰী ইনপুট ক্ষেত্ৰ ব্যৱহাৰ কৰক।"
 
 #: kio_sftp.cpp:405
 msgid "Could not allocate callbacks"
-msgstr ""
+msgstr "কলবেকসমূহ আবন্টন কৰিব নোৱাৰি"
 
 #: kio_sftp.cpp:468
 #, kde-format
 msgid "Opening SFTP connection to host %1:%2"
-msgstr ""
+msgstr "হস্ট %1 লে SFTP সংযোগ খোলা হৈ আছে:%2"
 
 #: kio_sftp.cpp:472
 msgid "No hostname specified."
-msgstr ""
+msgstr "হস্টনাম ধাৰ্য্য কৰা হোৱা নাই।"
 
 #: kio_sftp.cpp:502
 msgid "Could not create a new SSH session."
-msgstr ""
+msgstr "এটা নতুন SSH অধিৱেশন সৃষ্টি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:511 kio_sftp.cpp:516
 msgid "Could not set a timeout."
-msgstr ""
+msgstr "এটা সময়অন্ত সংহতি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:523 kio_sftp.cpp:529
 msgid "Could not set compression."
-msgstr ""
+msgstr "সংকোচন সংহতি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:536
 msgid "Could not set host."
-msgstr ""
+msgstr "হস্ট সংহতি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:543
 msgid "Could not set port."
-msgstr ""
+msgstr "পোৰ্ট সংহতি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:552
 msgid "Could not set username."
-msgstr ""
+msgstr "ব্যৱহাৰকাৰীনাম সংহতি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:561
 msgid "Could not set log verbosity."
-msgstr ""
+msgstr "লগ ভাৰ্বোচিটি সংহতি কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:569
 msgid "Could not parse the config file."
-msgstr ""
+msgstr "সংৰূপ নথিপত্ৰ বিশ্লেষণ কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:604
 #, kde-format
@@ -78,6 +78,12 @@ msgid ""
 "Please contact your system administrator.\n"
 "%1"
 msgstr ""
+"এই চাৰ্ভাৰৰ বাবে হস্ট চাবি পোৱা নগল, কিন্তু অন্য ধৰণৰ চাবি অস্তিত্ববান।\n"
+"এজন আক্ৰমণকাৰীয়ে ক্লাএন্টক বিভ্ৰান্ত কৰিবলে যে চাবি অস্তিত্ববান নহয় "
+"অবিকল্পিত "
+"চাৰ্ভাৰ চাবি সলনি কৰিব পাৰে।\n"
+"অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।\n"
+"%1"
 
 #: kio_sftp.cpp:615
 #, kde-format
@@ -90,10 +96,18 @@ msgid ""
 "Please contact your system administrator.\n"
 "%3"
 msgstr ""
+"চাৰ্ভাৰ %1 -ৰ বাবে হস্ট চাবি সলনি হৈছে।\n"
+"ই হয় এয়া বুজাই আছে যে DNS SPOOFING চলি আছে অথবা হস্টৰ IP ঠিকনা আৰু ইয়াৰ হস্ট "
+"চাবি "
+"একে সময়তে সলনি হৈছে। \n"
+"দূৰৱৰ্তী হস্টৰ দ্বাৰা পঠোৱা চাবিৰ ফিন্গাৰপ্ৰিন্ট হ'ল: \n"
+" %2\n"
+"অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।\n"
+"%3"
 
 #: kio_sftp.cpp:628
 msgid "Warning: Cannot verify host's identity."
-msgstr ""
+msgstr "সতৰ্কবাৰ্তা: হস্টৰ পৰিচয় সতাসত্য নিৰূপণ কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:629
 #, kde-format
@@ -102,37 +116,42 @@ msgid ""
 "The key fingerprint is: %2\n"
 "Are you sure you want to continue connecting?"
 msgstr ""
+"হস্ট %1 -ৰ শুদ্ধতা সংস্থাপন কৰিব নোৱাৰি।\n"
+"চাবি ফিন্গাৰপ্ৰিন্ট হ'ল: %2\n"
+"আপুনি নিশ্চিত নে আপুনি সংযোগ কৰা চলাই থাকিব বিচাৰে?"
 
 #: kio_sftp.cpp:660 kio_sftp.cpp:680 kio_sftp.cpp:694 kio_sftp.cpp:736
 msgid "Authentication failed."
-msgstr ""
+msgstr "প্ৰমাণীকৰণ ব্যৰ্থ।"
 
 #: kio_sftp.cpp:669
 msgid "Please enter your username and password."
-msgstr ""
+msgstr "অনুগ্ৰহ কৰি আপোনাৰ ব্যৱহাৰকাৰীনাম আৰু পাছৱাৰ্ড সোমাওক।"
 
 #: kio_sftp.cpp:671
 msgid "site:"
-msgstr ""
+msgstr "ছাইট:"
 
 #: kio_sftp.cpp:711
 msgid "Incorrect username or password"
-msgstr ""
+msgstr "ভুল ব্যৱহাৰকাৰীনাম অথবা পাছৱাৰ্ড"
 
 #: kio_sftp.cpp:749
 msgid ""
 "Unable to request the SFTP subsystem. Make sure SFTP is enabled on the "
 "server."
 msgstr ""
+"SFTP উপপ্ৰণালী অনুৰোধ কৰিবলে ব্যৰ্থ। সুনিশ্চিত কৰক যে SFTP চাৰ্ভাৰত "
+"সামৰ্থবান কৰা আছে।"
 
 #: kio_sftp.cpp:757
 msgid "Could not initialize the SFTP session."
-msgstr ""
+msgstr "SFTP অধিবেশন আৰম্ভ কৰিব নোৱাৰি।"
 
 #: kio_sftp.cpp:762
 #, kde-format
 msgid "Successfully connected to %1"
-msgstr ""
+msgstr "%1 -লে সফলভাৱে সংযোগ কৰা হ'ল"
 
 #: kio_sftp.cpp:1283
 #, kde-format
@@ -140,8 +159,12 @@ msgid ""
 "Could not change permissions for\n"
 "%1"
 msgstr ""
+"%1 -ৰ বাবে অনুমতিসমূহ সলনি কৰিব\n"
+"নোৱাৰি"
 
 #: kio_sftp.cpp:1456
 #, kde-format
 msgid "Could not read link: %1"
-msgstr ""
+msgstr "লিঙ্ক পঢ়িব নোৱাৰি: %1 "
+
+
