@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-02-17 05:10+0100\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-28 22:22+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,72 +18,73 @@ msgstr ""
 
 #: main.cpp:31
 msgid "Viewer for Plasma wallpapers"
-msgstr ""
+msgstr "প্লাচমা ৱালপেপাৰসমূহৰ বাবে দৰ্শক"
 
 #: main.cpp:54
 msgid "No description available"
-msgstr ""
+msgstr "কোনো বিৱৰণ উপলব্ধ নাই"
 
 #: main.cpp:76
 msgid "No wallpaper plugins installed."
-msgstr ""
+msgstr "কোনো ৱালপেপাৰ প্লাগিন ইনস্টল নাই। "
 
 #: main.cpp:80
 msgid "Installed wallpaper plugins:"
-msgstr ""
+msgstr "ইনস্টল থকা ৱালপেপাৰ প্লাগিন:"
 
 #: main.cpp:89
 #, kde-format
 msgid "Modes: %1"
-msgstr ""
+msgstr "অৱস্থাসমূহ: %1"
 
 #: main.cpp:96
 msgid "Plasma Wallpaper Viewer"
-msgstr ""
+msgstr "প্লাচমা ৱালপেপাৰ দৰ্শক"
 
 #: main.cpp:98
 msgid "(c) 2009, Aaron J. Seigo"
-msgstr ""
+msgstr "(c) ২০০৯, এৰন জে.সিগো"
 
 #: main.cpp:99
 msgid "Aaron J. Seigo"
-msgstr ""
+msgstr "এৰন জে.সিগো"
 
 #: main.cpp:100
 msgid "Author and maintainer"
-msgstr ""
+msgstr "লেখক আৰু ব্যৱস্থাপক"
 
 #: main.cpp:107
 msgid "The desired height in pixels"
-msgstr ""
+msgstr "বিচৰা উচ্চতা পিক্সেলসমূহত"
 
 #: main.cpp:109
 msgid "The desired width in pixels"
-msgstr ""
+msgstr "বিচৰা প্ৰস্থ পিক্সেলসমূহত"
 
 #: main.cpp:111
 msgid "The wallpaper plugin to use"
-msgstr ""
+msgstr "ব্যৱহাৰ কৰিব লগিয়া ৱালপেপাৰ প্লাগিন"
 
 #: main.cpp:113
 msgid "The mode to put the wallpaper in"
-msgstr ""
+msgstr "ৱালপেপাৰক ৰাখিব লগিয়া অৱস্থা"
 
 #: main.cpp:114
 msgid "List all the known wallpapers and their modes"
-msgstr ""
+msgstr "সকলো জ্ঞাত ৱালপেপাৰ আৰু সিহতৰ অৱস্থাসমূহ তালিকাভুক্ত কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #: wallpaperwidget.cpp:237
 #, kde-format
 msgid "Configure %1 Wallpaper"
-msgstr ""
+msgstr "%1 ৱালপেপাৰ সংৰূপণ কৰক"
+
