@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-02 03:49+0200\n"
-"PO-Revision-Date: 2011-07-18 20:55+0530\n"
+"PO-Revision-Date: 2011-07-28 20:34+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,74 +18,75 @@ msgstr ""
 
 #: launchergrid.cpp:401 popuplauncherlist.cpp:345
 msgid "Multiple items"
-msgstr ""
+msgstr "বহু বস্তু"
 
 #: launchergrid.cpp:497 popuplauncherlist.cpp:441
 msgid "Quicklaunch"
-msgstr ""
+msgstr "Quicklaunch"
 
 #: launchergrid.cpp:498 popuplauncherlist.cpp:442
 msgid "Add launchers by Drag and Drop or by using the context menu."
-msgstr ""
+msgstr "লঞ্চাৰসমূহক ড্ৰেগ আৰু ড্ৰপ অথবা পৰিপ্ৰেক্ষতিত মেনু ব্যৱহাৰ কৰি যোগ কৰক।"
 
 #. i18n: file: quicklaunchConfig.ui:20
 #. i18n: ectx: property (text), widget (QLabel, autoSectionCountEnabledLabel)
 #: quicklaunch.cpp:148 rc.cpp:6
 msgid "Determine number of rows automatically:"
-msgstr ""
+msgstr "শাৰীসমূহৰ সংখ্যা নিৰ্ধাৰন কৰক:"
 
 #. i18n: file: quicklaunchConfig.ui:53
 #. i18n: ectx: property (text), widget (QLabel, sectionCountLabel)
 #: quicklaunch.cpp:150 rc.cpp:9
 msgid "Number of rows:"
-msgstr ""
+msgstr "শাৰীৰ সংখ্যা:"
 
 #: quicklaunch.cpp:160
 msgid "Determine number of columns automatically:"
-msgstr ""
+msgstr "স্তম্ভসমূহৰ সংখ্যা স্বচালিতভাৱে নিৰ্ধাৰন কৰক:"
 
 #: quicklaunch.cpp:162
 msgid "Number of columns:"
-msgstr ""
+msgstr "স্তম্ভসমূহৰ সংখ্যা:"
 
 #: quicklaunch.cpp:178
 msgid "General"
-msgstr ""
+msgstr "সাধাৰন"
 
 #: quicklaunch.cpp:732
 msgid "Add Launcher..."
-msgstr ""
+msgstr "লঞ্চাৰ যোগ কৰক..."
 
 #: quicklaunch.cpp:735
 msgid "Edit Launcher..."
-msgstr ""
+msgstr "লঞ্চাৰ সম্পাদন কৰক..."
 
 #: quicklaunch.cpp:738
 msgid "Remove Launcher"
-msgstr ""
+msgstr "লঞ্চাৰ আতৰাওক"
 
 #: quicklaunch.cpp:799
 msgid "Show hidden icons"
-msgstr ""
+msgstr "লুকাই থকা আইকনসমূহ দেখুৱাওক"
 
 #: quicklaunch.cpp:799
 msgid "Hide icons"
-msgstr ""
+msgstr "আইকনসমূহ লুকাওক"
 
 #. i18n: file: quicklaunchConfig.ui:14
 #. i18n: ectx: property (windowTitle), widget (QWidget, quicklaunchConfig)
 #: rc.cpp:3
 msgid "Configure Quicklaunch"
-msgstr ""
+msgstr "Quicklaunch সংৰূপণ কৰক"
 
 #. i18n: file: quicklaunchConfig.ui:79
 #. i18n: ectx: property (text), widget (QLabel, launcherNamesVisibleLabel)
 #: rc.cpp:12
 msgid "Show launcher names:"
-msgstr ""
+msgstr "লঞ্চাৰ নামসমূহ দেখুৱাওক:"
 
 #. i18n: file: quicklaunchConfig.ui:99
 #. i18n: ectx: property (text), widget (QLabel, popupEnabledLabel)
 #: rc.cpp:15
 msgid "Enable popup:"
-msgstr ""
+msgstr "পপআপ সামৰ্থবান কৰক:"
+
