@@ -22,8 +22,7 @@ msgstr "বিশ্বব্যদপী শক্তি ব্যৱস্থ�
 
 #: GeneralPage.cpp:55
 msgid "A global power management configurator for KDE Power Management System"
-msgstr ""
-"KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ বাবে এটা বিশ্বব্যাপী শক্তি ব্যৱস্থাপনা সংৰূপক"
+msgstr "KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ বাবে এটা বিশ্বব্যাপী শক্তি ব্যৱস্থাপনা সংৰূপক"
 
 #: GeneralPage.cpp:56
 msgid "(c), 2010 Dario Freddi"
@@ -34,9 +33,8 @@ msgid ""
 "From this module, you can configure the main Power Management daemon, assign "
 "profiles to states, and do some advanced fine tuning on battery handling"
 msgstr ""
-"এই মডিউলৰ পৰা, আপুনি মূখ্য শক্তি ব্যৱস্থাপনা ডিমন সংৰূপণ কৰিব পাৰিব, "
-"আলেখ্যসমূহক অৱস্থাসমূহলে "
-"ধাৰ্য্য কৰক, আৰু বেটাৰি ব্যৱস্থাপনাত কিছুমান উন্নত মশৃন টিউনিং কৰক"
+"এই মডিউলৰ পৰা, আপুনি মূখ্য শক্তি ব্যৱস্থাপনা ডিমন সংৰূপণ কৰিব পাৰিব, আলেখ্যসমূহক "
+"অৱস্থাসমূহলে ধাৰ্য্য কৰক, আৰু বেটাৰি ব্যৱস্থাপনাত কিছুমান উন্নত মশৃন টিউনিং কৰক"
 
 #: GeneralPage.cpp:60
 msgid "Dario Freddi"
@@ -240,4 +238,3 @@ msgstr "মাৰাত্মক বেটাৰি স্তৰ"
 #: rc.cpp:83
 msgid "Battery will be considered critical when it reaches this level"
 msgstr "বেটাৰিক মাৰাত্মক স্তৰত ধৰা হ'ব যেতিয়া ই এই স্তৰ পাব"
-

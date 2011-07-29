@@ -126,9 +126,8 @@ msgid ""
 "Click on this button and the KDE standard color dialog will show. You can "
 "then choose the new color you want for your clock."
 msgstr ""
-"এই বুটামত ক্লিক কৰক আৰু KDE প্ৰামাণিক ৰঙ ডাইলগ দেখা যাব। আপুনি তেতিয়া "
-"নিজৰ "
-"ঘড়ীৰ বাবে নতুন ৰঙ বাছিব পাৰিব।"
+"এই বুটামত ক্লিক কৰক আৰু KDE প্ৰামাণিক ৰঙ ডাইলগ দেখা যাব। আপুনি তেতিয়া নিজৰ ঘড়ীৰ "
+"বাবে নতুন ৰঙ বাছিব পাৰিব।"
 
 #. i18n: file: clockConfig.ui:161
 #. i18n: ectx: property (text), widget (QLabel, label_9)
@@ -155,9 +154,8 @@ msgid ""
 "Click on this button and the KDE standard color dialog will show. You can "
 "then choose the new color you want for the text shadow for your clock."
 msgstr ""
-"এই বুটামত ক্লিক কৰক আৰু KDE প্ৰামাণিক ৰঙ ডাইলগ দেখা যাব। আপুনি তেতিয়া "
-"নিজৰ "
-"ঘড়ীৰ লিখনী ছায়াৰ বাবে নতুন ৰঙ বাছিব পাৰিব।"
+"এই বুটামত ক্লিক কৰক আৰু KDE প্ৰামাণিক ৰঙ ডাইলগ দেখা যাব। আপুনি তেতিয়া নিজৰ ঘড়ীৰ "
+"লিখনী ছায়াৰ বাবে নতুন ৰঙ বাছিব পাৰিব।"
 
 #. i18n: file: clockConfig.ui:257
 #. i18n: ectx: property (text), widget (QLabel, label_7)
@@ -206,4 +204,3 @@ msgstr "ইয়াক চেক কৰক যদি আপুনি ছেকে�
 #: rc.cpp:69
 msgid "Date format:"
 msgstr "তাৰিখ বিন্যাস:"
-

@@ -180,4 +180,3 @@ msgstr "নতুন স্নিপেট নথিপত্ৰ সৃষ্ট
 #: snippeteditornewdialog.cpp:30
 msgid "Create"
 msgstr "সৃষ্টি কৰক"
-

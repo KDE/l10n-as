@@ -89,8 +89,7 @@ msgid ""
 "Change the color of the frame that it may be visible when the wallpaper is "
 "centered or scaled with the same proportions."
 msgstr ""
-"ফ্ৰেইমৰ ৰঙ সলনি কৰক যি দৃশ্যমান হ'ব পাৰে যেতিয়া ৱেলপেপাৰ একে সমানুপাতিকৰ "
-"হৈতে "
+"ফ্ৰেইমৰ ৰঙ সলনি কৰক যি দৃশ্যমান হ'ব পাৰে যেতিয়া ৱেলপেপাৰ একে সমানুপাতিকৰ হৈতে "
 "কেন্দ্ৰীত বা স্কেইল্ড।"
 
 #. i18n: file: imageconfig.ui:160
@@ -178,8 +177,8 @@ msgstr "মৈ ডাউনলোড কৰা ৱেলপেপাৰসমূ
 msgid ""
 "Use wallpapers I have downloaded with \"Get New Wallpapers...\" in slideshow"
 msgstr ""
-"মৈ  \"নতুন ৱেলপেপাৰসমূহ প্ৰাপ্ত কৰক...\"  হৈতে ডাউনলোড কৰা ৱালপেপাৰসমূহ "
-"স্লাইডশ্বত ব্যৱহাৰ কৰক"
+"মৈ  \"নতুন ৱেলপেপাৰসমূহ প্ৰাপ্ত কৰক...\"  হৈতে ডাউনলোড কৰা ৱালপেপাৰসমূহ স্লাইডশ্বত "
+"ব্যৱহাৰ কৰক"
 
 #. i18n: file: slideshowconfig.ui:220
 #. i18n: ectx: property (text), widget (QLabel, label_7)
@@ -208,4 +207,3 @@ msgstr "নতুন ৱালপেপাৰসমূহ ডাউনলোড 
 #: removebutton.cpp:52
 msgid "Remove from list"
 msgstr "তালিকাৰ পৰা আতৰাওক"
-

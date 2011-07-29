@@ -129,4 +129,3 @@ msgstr "এই সময়ত সংৰক্ষণ নকৰিব"
 #: webviewoverlay.cpp:45
 msgid "Close"
 msgstr "বন্ধ কৰক"
-

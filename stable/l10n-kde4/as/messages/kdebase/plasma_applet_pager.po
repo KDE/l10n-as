@@ -119,4 +119,3 @@ msgstr "ডেস্কটপ দেখুৱাওক"
 #: rc.cpp:39
 msgid "Shows the dashboard"
 msgstr "ডেশবৰ্ড দেখায়"
-

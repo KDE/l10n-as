@@ -54,8 +54,7 @@ msgstr "ডিভাইচ"
 #: solidrunner.cpp:51
 msgid "Lists all devices and allows them to be mounted, unmounted or ejected."
 msgstr ""
-"সকলো ডিভাইচ তালিকাভুক্ত কৰে আৰু সিহতক মাউন্ট, আনমাউন্ট অথবা উলিওৱাৰ অনুমতি "
-"দিয়ে।"
+"সকলো ডিভাইচ তালিকাভুক্ত কৰে আৰু সিহতক মাউন্ট, আনমাউন্ট অথবা উলিওৱাৰ অনুমতি দিয়ে।"
 
 #: solidrunner.cpp:52 solidrunner.cpp:145
 msgctxt "Note this is a KRunner keyword"
@@ -65,8 +64,7 @@ msgstr "মাউন্ট কৰক"
 #: solidrunner.cpp:53
 msgid "Lists all devices which can be mounted, and allows them to be mounted."
 msgstr ""
-"মাউন্ট কৰিব পৰা সকলো ডিভাইচ তালিকাভুক্ত কৰে, আৰু সিহতক মাউন্ট কৰাৰ অনুমতি "
-"দিয়ে।"
+"মাউন্ট কৰিব পৰা সকলো ডিভাইচ তালিকাভুক্ত কৰে, আৰু সিহতক মাউন্ট কৰাৰ অনুমতি দিয়ে।"
 
 #: solidrunner.cpp:54 solidrunner.cpp:158
 msgctxt "Note this is a KRunner keyword"
@@ -78,8 +76,7 @@ msgid ""
 "Lists all encrypted devices which can be unlocked, and allows them to be "
 "unlocked."
 msgstr ""
-"সকলো ডিভাইচ যাক আনলক কৰিব পাৰি তালিকাভুক্ত কৰে, আৰু সিহতক আনলক কৰাৰ অনুমতি "
-"দিয়ে।"
+"সকলো ডিভাইচ যাক আনলক কৰিব পাৰি তালিকাভুক্ত কৰে, আৰু সিহতক আনলক কৰাৰ অনুমতি দিয়ে।"
 
 #: solidrunner.cpp:56 solidrunner.cpp:149
 msgctxt "Note this is a KRunner keyword"
@@ -90,8 +87,7 @@ msgstr "আনমাউন্ট কৰক"
 msgid ""
 "Lists all devices which can be unmounted, and allows them to be unmounted."
 msgstr ""
-"আনমাউন্ট কৰিব পৰা সকলো ডিভাইচ তালিকাভুক্ত কৰক, আৰু সিহতক আনমাউন্ট কৰাৰ "
-"অনুমতি দিয়ে।"
+"আনমাউন্ট কৰিব পৰা সকলো ডিভাইচ তালিকাভুক্ত কৰক, আৰু সিহতক আনমাউন্ট কৰাৰ অনুমতি দিয়ে।"
 
 #: solidrunner.cpp:58 solidrunner.cpp:163
 msgctxt "Note this is a KRunner keyword"
@@ -103,8 +99,7 @@ msgid ""
 "Lists all encrypted devices which can be locked, and allows them to be "
 "locked."
 msgstr ""
-"সকলো ডিভাইচ যাক লক কৰিব পাৰি তালিকাভুক্ত কৰে, আৰু সিহতক লক কৰাৰ অনুমতি "
-"দিয়ে।"
+"সকলো ডিভাইচ যাক লক কৰিব পাৰি তালিকাভুক্ত কৰে, আৰু সিহতক লক কৰাৰ অনুমতি দিয়ে।"
 
 #: solidrunner.cpp:61 solidrunner.cpp:153
 msgctxt "Note this is a KRunner keyword"
@@ -115,5 +110,3 @@ msgstr "উলিৱাওক"
 msgid "Lists all devices which can be ejected, and allows them to be ejected."
 msgstr ""
 "উলিৱাব কৰিব পৰা সকলো ডিভাইচ তালিকাভুক্ত কৰে, আৰু সিহতক উলিওৱাৰ অনুমতি দিয়ে।"
-
-

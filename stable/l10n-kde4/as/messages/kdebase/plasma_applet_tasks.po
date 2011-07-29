@@ -153,4 +153,3 @@ msgstr "ডেস্কটপৰে"
 #: windowtaskitem.cpp:335
 msgid "Collapse Parent Group"
 msgstr "উপধায়ক দল স্খলন কৰক"
-

@@ -117,4 +117,3 @@ msgstr "উইজেটসমূহ বৰ্তমান লক কৰা আ�
 #: rc.cpp:15
 msgid "Unlock Widgets"
 msgstr "উইজেটসমূহ আনলক কৰক"
-

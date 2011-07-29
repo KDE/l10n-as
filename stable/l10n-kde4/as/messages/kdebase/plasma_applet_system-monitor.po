@@ -165,4 +165,3 @@ msgstr "সংবেদক"
 #: temperature.cpp:97
 msgid "Offset"
 msgstr "অফচেট"
-

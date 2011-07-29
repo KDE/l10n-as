@@ -100,4 +100,3 @@ msgstr "নাম"
 msgctxt "@label"
 msgid "Exposure Time"
 msgstr "উদঙা সময়"
-

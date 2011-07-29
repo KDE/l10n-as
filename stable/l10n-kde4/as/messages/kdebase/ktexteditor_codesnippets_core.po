@@ -42,10 +42,8 @@ msgid ""
 "a suitable filename could not be generated for storing a clone of the file "
 "within your personal data directory."
 msgstr ""
-"আপুনি আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত নথকা এটা তথ্য নথিপত্ৰ সম্পাদন কৰিছে, "
-"কিন্তু  "
-"নথিপত্ৰৰ এটা ক্লৌনক আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত সংৰক্ষণ কৰিবলে এটা "
-"যোগ্য "
+"আপুনি আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত নথকা এটা তথ্য নথিপত্ৰ সম্পাদন কৰিছে, কিন্তু  "
+"নথিপত্ৰৰ এটা ক্লৌনক আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত সংৰক্ষণ কৰিবলে এটা যোগ্য "
 "নথিপত্ৰ নাম সৃজন কৰিব পৰা নগল। "
 
 #: completionmodel.cpp:556
@@ -54,11 +52,9 @@ msgid ""
 "such, a renamed clone of the original data file has been created within your "
 "personal data directory."
 msgstr ""
-"আপুনি আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত অৱস্থিত নথকা এটা তথ্য নথিপত্ৰ সম্পাদন "
-"কৰিছে; "
-"এতেকে, আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত প্ৰকৃত তথ্য নথিপত্ৰৰ এটা পুনৰ "
-"নামাকৰন কৰা ক্লৌন সৃষ্টি "
-"কৰা হৈছে।"
+"আপুনি আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত অৱস্থিত নথকা এটা তথ্য নথিপত্ৰ সম্পাদন কৰিছে; "
+"এতেকে, আপোনাৰ ব্যক্তিগত তথ্য ডাইৰেকটৰিত প্ৰকৃত তথ্য নথিপত্ৰৰ এটা পুনৰ নামাকৰন কৰা "
+"ক্লৌন সৃষ্টি কৰা হৈছে।"
 
 #: completionmodel.cpp:562 completionmodel.cpp:599
 #, kde-format
@@ -70,8 +66,7 @@ msgid ""
 "It was not possible to create a unique file name for the given snippet "
 "collection name"
 msgstr ""
-"প্ৰদান কৰা স্নিপেট সংগ্ৰহ নামৰ কাৰণে এটা অবিকল্প নথিপত্ৰ নাম সৃষ্টি কৰা "
-"সম্ভব নাছিল"
+"প্ৰদান কৰা স্নিপেট সংগ্ৰহ নামৰ কাৰণে এটা অবিকল্প নথিপত্ৰ নাম সৃষ্টি কৰা সম্ভব নাছিল"
 
 #: completionmodel.cpp:751
 msgid "New Snippet"
@@ -127,8 +122,7 @@ msgid ""
 "Do you really want to delete the file '%1' from the repository? This action "
 "is irreversible."
 msgstr ""
-"আপুনি সঁচাকে নথিপত্ৰ '%1' -ক ভঁৰালৰ পৰা আতৰাব বিচাৰে নে? এই কাৰ্য্য ঘুৰাব "
-"নোৱাৰি।"
+"আপুনি সঁচাকে নথিপত্ৰ '%1' -ক ভঁৰালৰ পৰা আতৰাব বিচাৰে নে? এই কাৰ্য্য ঘুৰাব নোৱাৰি।"
 
 #: repository.cpp:357
 msgid "Deleting snippet file"
@@ -140,8 +134,7 @@ msgid ""
 "Editor application for file '%1' with mimetype 'application/x-ktesnippets' "
 "could not be started"
 msgstr ""
-"mimetype 'application/x-ktesnippets' -ৰ নথিপত্ৰ  '%1' -ৰ বাবে সম্পাদক "
-"অনুপ্ৰয়োগ "
+"mimetype 'application/x-ktesnippets' -ৰ নথিপত্ৰ  '%1' -ৰ বাবে সম্পাদক অনুপ্ৰয়োগ "
 "আৰম্ভ কৰিব পৰা নগল"
 
 #: repository.cpp:394 repository.cpp:401 repository.cpp:557 repository.cpp:585
@@ -149,8 +142,7 @@ msgid ""
 "Editor application for new file with mimetype 'application/x-ktesnippets' "
 "could not be started"
 msgstr ""
-"mimetype 'application/x-ktesnippets' -ৰ হৈতে নতুন নথিপত্ৰৰ বাবে সম্পাদক "
-"অনুপ্ৰয়োগ "
+"mimetype 'application/x-ktesnippets' -ৰ হৈতে নতুন নথিপত্ৰৰ বাবে সম্পাদক অনুপ্ৰয়োগ "
 "আৰম্ভ কৰিব পৰা নগল"
 
 #: repository.cpp:409
@@ -159,8 +151,7 @@ msgstr "কোনো নথিপত্ৰ ধাৰ্য্য কৰা হ�
 
 #: repository.cpp:423
 msgid "It was not possible to create a unique file name for the imported file"
-msgstr ""
-"ইমপোৰ্ট কৰা নথিপত্ৰৰ বাবে এটা অবিকল্প নথিপত্ৰ নাম সৃষ্টি কৰা সম্ভব নাছিল"
+msgstr "ইমপোৰ্ট কৰা নথিপত্ৰৰ বাবে এটা অবিকল্প নথিপত্ৰ নাম সৃষ্টি কৰা সম্ভব নাছিল"
 
 #: repository.cpp:426
 msgid "Imported file has been renamed because of a name conflict"
@@ -169,4 +160,3 @@ msgstr "ইমপোৰ্ট কৰা নথিপত্ৰৰ এটা ন�
 #: repository.cpp:433
 msgid "File could not be copied to repository"
 msgstr "নথিপত্ৰক ভঁৰাললে কপি কৰিব পৰা নগল"
-

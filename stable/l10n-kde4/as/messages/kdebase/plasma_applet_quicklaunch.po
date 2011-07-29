@@ -89,4 +89,3 @@ msgstr "লঞ্চাৰ নামসমূহ দেখুৱাওক:"
 #: rc.cpp:15
 msgid "Enable popup:"
 msgstr "পপআপ সামৰ্থবান কৰক:"
-

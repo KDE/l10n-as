@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-10 02:18+0100\n"
+"POT-Creation-Date: 2011-07-28 14:07+0200\n"
 "PO-Revision-Date: 2011-07-29 13:13+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -65,9 +65,8 @@ msgid ""
 "Lists system suspend (e.g. sleep, hibernate) options and allows them to be "
 "activated"
 msgstr ""
-"চিস্টেম বাতিল তালিকাভুক্ত কৰে (উদাহৰনস্বৰুপে নিদ্ৰা, হাইবাৰনেইট) বিকল্পসমূহ "
-"আৰু সিহতক সক্ৰিয় "
-"হোৱাৰ অনুমতি দিয়ে"
+"চিস্টেম বাতিল তালিকাভুক্ত কৰে (উদাহৰনস্বৰুপে নিদ্ৰা, হাইবাৰনেইট) বিকল্পসমূহ আৰু সিহতক "
+"সক্ৰিয় হোৱাৰ অনুমতি দিয়ে"
 
 #: PowerDevilRunner.cpp:84
 msgid "Suspends the system to RAM"
@@ -83,10 +82,8 @@ msgid ""
 "Lists screen brightness options or sets it to the brightness defined by :q:; "
 "e.g. screen brightness 50 would dim the screen to 50% maximum brightness"
 msgstr ""
-"পৰ্দা উজ্জ্বতা বিকল্পসমূহ জ্বলায় অথবা ইয়াক :q:; ৰে বিৱৰিত উজ্জ্বলতা সংহতি "
-"কৰে "
-"উদাহৰনস্বৰুপে পৰ্দা উজ্জ্বতা ৫০ -এ পৰ্দাক ৫০% সৰ্বাধিক উজ্জ্বতালে অনুজ্জ্বল "
-"কৰিব"
+"পৰ্দা উজ্জ্বতা বিকল্পসমূহ জ্বলায় অথবা ইয়াক :q:; ৰে বিৱৰিত উজ্জ্বলতা সংহতি কৰে "
+"উদাহৰনস্বৰুপে পৰ্দা উজ্জ্বতা ৫০ -এ পৰ্দাক ৫০% সৰ্বাধিক উজ্জ্বতালে অনুজ্জ্বল কৰিব"
 
 #: PowerDevilRunner.cpp:188
 #, kde-format
@@ -132,7 +129,6 @@ msgstr "পৰ্দক বন্ধ কৰক"
 msgid "Suspend to RAM"
 msgstr "RAM লে বাতিল কৰক"
 
-#: PowerDevilRunner.cpp:287
+#: PowerDevilRunner.cpp:288
 msgid "Suspend to Disk"
 msgstr "ডিস্কলে বাতিল কৰক"
-

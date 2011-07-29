@@ -38,9 +38,7 @@ msgstr "লেখক আৰু ব্যৱস্থাপক"
 
 #: main.cpp:58
 msgid "Starts as a normal application instead of as the primary user interface"
-msgstr ""
-"প্ৰাথমিক ব্যৱহাৰকাৰী আন্তঃপৃষ্টৰ পৰিৱৰ্তে এটা সাধাৰন অনুপ্ৰয়োগ হিচাপে আৰম্ভ "
-"কৰে"
+msgstr "প্ৰাথমিক ব্যৱহাৰকাৰী আন্তঃপৃষ্টৰ পৰিৱৰ্তে এটা সাধাৰন অনুপ্ৰয়োগ হিচাপে আৰম্ভ কৰে"
 
 #: main.cpp:59
 msgid "Use OpenGL to draw the main screen"
@@ -91,6 +89,4 @@ msgid ""
 "widgetById requires a name of a widget or a widget object, with the row and "
 "column coordinates"
 msgstr ""
-"widgetById -ৰ শাৰী আৰু স্তম্ভ অক্ষসমূহৰ হৈতে, এটা উইজেট অথবা উইজেট নামৰ "
-"প্ৰয়োজন"
-
+"widgetById -ৰ শাৰী আৰু স্তম্ভ অক্ষসমূহৰ হৈতে, এটা উইজেট অথবা উইজেট নামৰ প্ৰয়োজন"

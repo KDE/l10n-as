@@ -147,4 +147,3 @@ msgstr "চাৰ্জ তথ্য দেখুৱাওক (&i)"
 #: rc.cpp:9
 msgid "Show the state for &each battery present"
 msgstr "উপলব্ধ প্ৰতিটো বেটাৰিৰ বাবে অৱস্থা দেখুৱাওক (&e)"
-

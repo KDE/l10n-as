@@ -91,4 +91,3 @@ msgstr "অজ্ঞাত"
 #: networkengine.cpp:226
 msgid "Encryption"
 msgstr "ইনক্ৰিপষণ"
-

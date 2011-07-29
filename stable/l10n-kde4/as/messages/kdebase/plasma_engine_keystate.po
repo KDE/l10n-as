@@ -88,4 +88,3 @@ msgstr "লেচ্ড"
 #: keystate.cpp:60 keystate.cpp:112 keystate.cpp:129
 msgid "Locked"
 msgstr "লক কৰা আছে"
-
