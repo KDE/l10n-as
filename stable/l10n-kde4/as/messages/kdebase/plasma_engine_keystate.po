@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:54+0530\n"
+"PO-Revision-Date: 2011-07-29 12:17+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,73 +18,74 @@ msgstr ""
 
 #: keystate.cpp:29
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 #: keystate.cpp:30
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #: keystate.cpp:31
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #: keystate.cpp:32
 msgid "Meta"
-msgstr ""
+msgstr "মেটা"
 
 #: keystate.cpp:33
 msgid "Super"
-msgstr ""
+msgstr "উত্তম"
 
 #: keystate.cpp:34
 msgid "Hyper"
-msgstr ""
+msgstr "চঞ্চল"
 
 #: keystate.cpp:35
 msgid "AltGr"
-msgstr ""
+msgstr "AltGr"
 
 #: keystate.cpp:36
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 #: keystate.cpp:37
 msgid "Caps Lock"
-msgstr ""
+msgstr "Caps Lock"
 
 #: keystate.cpp:38
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 #: keystate.cpp:40
 msgid "Left Button"
-msgstr ""
+msgstr "বাঁও বুটাম"
 
 #: keystate.cpp:41
 msgid "Right Button"
-msgstr ""
+msgstr "সোঁ বুটাম"
 
 #: keystate.cpp:42
 msgid "Middle Button"
-msgstr ""
+msgstr "মাজৰ বুটাম"
 
 #: keystate.cpp:43
 msgid "First X Button"
-msgstr ""
+msgstr "প্ৰথম X বুটাম"
 
 #: keystate.cpp:44
 msgid "Second X Button"
-msgstr ""
+msgstr "দ্বিতীয় X বুটাম"
 
 #: keystate.cpp:58 keystate.cpp:69 keystate.cpp:98 keystate.cpp:119
 #: keystate.cpp:127
 msgid "Pressed"
-msgstr ""
+msgstr "দবোৱা আছে"
 
 #: keystate.cpp:59 keystate.cpp:105 keystate.cpp:128
 msgid "Latched"
-msgstr ""
+msgstr "লেচ্ড"
 
 #: keystate.cpp:60 keystate.cpp:112 keystate.cpp:129
 msgid "Locked"
-msgstr ""
+msgstr "লক কৰা আছে"
+
