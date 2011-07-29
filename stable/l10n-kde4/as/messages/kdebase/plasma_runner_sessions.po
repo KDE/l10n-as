@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-11 02:36+0100\n"
-"PO-Revision-Date: 2011-07-18 20:51+0530\n"
+"PO-Revision-Date: 2011-07-29 15:03+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,105 +19,107 @@ msgstr ""
 #: sessionrunner.cpp:41 sessionrunner.cpp:73
 msgctxt "log out command"
 msgid "logout"
-msgstr ""
+msgstr "লগআউট কৰক"
 
 #: sessionrunner.cpp:42
 msgid "Logs out, exiting the current desktop session"
-msgstr ""
+msgstr "লগ আউট কৰে, বৰ্তমান ডেস্কটপ অধিবেশন প্ৰস্থান কৰি"
 
 #: sessionrunner.cpp:43 sessionrunner.cpp:91
 msgctxt "shutdown computer command"
 msgid "shutdown"
-msgstr ""
+msgstr "বন্ধ কৰক"
 
 #: sessionrunner.cpp:44
 msgid "Turns off the computer"
-msgstr ""
+msgstr "কমপিউটাৰ বন্ধ কৰে"
 
 #: sessionrunner.cpp:45 sessionrunner.cpp:99
 msgctxt "lock screen command"
 msgid "lock"
-msgstr ""
+msgstr "লক কৰক"
 
 #: sessionrunner.cpp:46
 msgid "Locks the current sessions and starts the screen saver"
-msgstr ""
+msgstr "বৰ্তমান অধিবেশনসমূহ লক কৰি স্ক্ৰিনছেইভাৰ আৰম্ভ কৰে"
 
 #: sessionrunner.cpp:48 sessionrunner.cpp:82
 msgctxt "restart computer command"
 msgid "restart"
-msgstr ""
+msgstr "পুনৰাম্ভ কৰক"
 
 #: sessionrunner.cpp:48
 msgid "Reboots the computer"
-msgstr ""
+msgstr "কমপিউটাৰ পুনৰাম্ভ কৰে"
 
 #: sessionrunner.cpp:49 sessionrunner.cpp:83
 msgctxt "restart computer command"
 msgid "reboot"
-msgstr ""
+msgstr "পুনৰাম্ভ কৰক"
 
 #: sessionrunner.cpp:52
 msgctxt "switch user command"
 msgid "switch"
-msgstr ""
+msgstr "চুইচ কৰক"
 
 #: sessionrunner.cpp:53
 msgctxt "switch user command"
 msgid "switch :q:"
-msgstr ""
+msgstr ":q: চুইচ কৰক"
 
 #: sessionrunner.cpp:54
 msgid ""
 "Switches to the active session for the user :q:, or lists all active "
 "sessions if :q: is not provided"
 msgstr ""
+"ব্যৱহাৰকাৰী :q: -ৰ বাবে সক্ৰিয় অধিবেশনলে যায়, অথবা সকলো সক্ৰিয় অধিবেশনসমূহ "
+"তালিকাভুক্ত কৰে যদি :q: প্ৰদান কৰা হোৱা নাই"
 
 #: sessionrunner.cpp:57 sessionrunner.cpp:143
 msgid "switch user"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰী অদল বদল কৰক"
 
 #: sessionrunner.cpp:58
 msgid "Starts a new session as a different user"
-msgstr ""
+msgstr "এজন ভিন্ন ব্যৱহাৰকাৰী হিচাপে এটা নতুন অধিবেশন আৰম্ভ কৰে"
 
 #: sessionrunner.cpp:59 sessionrunner.cpp:144
 msgid "new session"
-msgstr ""
+msgstr "নতুন অধিবেশন"
 
 #: sessionrunner.cpp:63
 msgid "Lists all sessions"
-msgstr ""
+msgstr "সকলো অধিবেশন তালিকাভুক্ত কৰে"
 
 #: sessionrunner.cpp:74
 msgid "log out"
-msgstr ""
+msgstr "লগ আউট কৰক"
 
 #: sessionrunner.cpp:76
 msgctxt "log out command"
 msgid "Logout"
-msgstr ""
+msgstr "লগআউট কৰক"
 
 #: sessionrunner.cpp:85
 msgid "Restart the computer"
-msgstr ""
+msgstr "কমপিউটাৰ পুনৰাম্ভ কৰক"
 
 #: sessionrunner.cpp:93
 msgid "Shutdown the computer"
-msgstr ""
+msgstr "কমপিউটাৰ বন্ধ কৰক"
 
 #: sessionrunner.cpp:101
 msgid "Lock the screen"
-msgstr ""
+msgstr "পৰ্দা লক কৰক"
 
 #: sessionrunner.cpp:126
 msgctxt "User sessions"
 msgid "sessions"
-msgstr ""
+msgstr "অধিবেশনসমূহ"
 
 #: sessionrunner.cpp:153
 msgid "New Session"
-msgstr ""
+msgstr "নতুন অধিবেশন"
 
 #: sessionrunner.cpp:237
 #, kde-format
@@ -129,11 +131,22 @@ msgid ""
 "Ctrl, Alt and the appropriate F-key at the same time. Additionally, the KDE "
 "Panel and Desktop menus have actions for switching between sessions.</p>"
 msgstr ""
+"<p>আপুনি অন্য এটা ডেস্কটপ অধিবেশন খোলিবলে বাছিচে।<br />বৰ্তমান অধিবেশন "
+"লুকোৱা হ'ব আৰু এটা "
+"নতুন লগিন পৰ্দা প্ৰদৰ্শন কৰা হ'ব।<br /> প্ৰতি অধিবেশনলে এটা F-কি ধাৰ্য্য কৰা "
+"হয়; F%1 সাধাৰনত প্ৰথম "
+"অধিবেশনলে ধাৰ্য্য কৰা হয়, F%2 দ্বিতীয় অধিবেশনলে আৰু তেনেকুৱায়। আপুনি "
+"অধিবেশনসমূহৰ মাজত অদল বদল "
+"কৰিব পাৰিব একে সময়তে Ctrl, Alt আৰু সঠিক F-কি দবাই। অতিৰিক্তভাৱে, KDE পেনেল "
+"আৰু ডেস্কটপ মেনুসমূহৰ "
+"অধিবেশনসমূহৰ মাজত অদল বদল কৰিবলে কাৰ্য্যসমূহ আছে।</p>"
 
 #: sessionrunner.cpp:248
 msgid "Warning - New Session"
-msgstr ""
+msgstr "সতৰ্কবাৰ্তা - নতুন অধিবেশন"
 
 #: sessionrunner.cpp:249
 msgid "&Start New Session"
-msgstr ""
+msgstr "নতুন অধিবেশন আৰম্ভ কৰক (&S)"
+
+
