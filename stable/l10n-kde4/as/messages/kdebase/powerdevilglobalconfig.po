@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-12-10 02:18+0100\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-29 17:44+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,91 +18,95 @@ msgstr ""
 
 #: GeneralPage.cpp:54
 msgid "Global Power Management Configuration"
-msgstr ""
+msgstr "বিশ্বব্যদপী শক্তি ব্যৱস্থাপনা সংৰূপ"
 
 #: GeneralPage.cpp:55
 msgid "A global power management configurator for KDE Power Management System"
 msgstr ""
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ বাবে এটা বিশ্বব্যাপী শক্তি ব্যৱস্থাপনা সংৰূপক"
 
 #: GeneralPage.cpp:56
 msgid "(c), 2010 Dario Freddi"
-msgstr ""
+msgstr "(c), ২০১০ ডাৰিঅ' ফ্ৰেডি"
 
 #: GeneralPage.cpp:57
 msgid ""
 "From this module, you can configure the main Power Management daemon, assign "
 "profiles to states, and do some advanced fine tuning on battery handling"
 msgstr ""
+"এই মডিউলৰ পৰা, আপুনি মূখ্য শক্তি ব্যৱস্থাপনা ডিমন সংৰূপণ কৰিব পাৰিব, "
+"আলেখ্যসমূহক অৱস্থাসমূহলে "
+"ধাৰ্য্য কৰক, আৰু বেটাৰি ব্যৱস্থাপনাত কিছুমান উন্নত মশৃন টিউনিং কৰক"
 
 #: GeneralPage.cpp:60
 msgid "Dario Freddi"
-msgstr ""
+msgstr "ডাৰিঅ' ফ্ৰেডি"
 
 #: GeneralPage.cpp:60
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: GeneralPage.cpp:101
 msgid "Do nothing"
-msgstr ""
+msgstr "একো নকৰিব"
 
 #: GeneralPage.cpp:103
 msgid "Sleep"
-msgstr ""
+msgstr "নিদ্ৰা"
 
 #: GeneralPage.cpp:106
 msgid "Hibernate"
-msgstr ""
+msgstr "হাইবাৰনেইট"
 
 #: GeneralPage.cpp:108
 msgid "Shutdown"
-msgstr ""
+msgstr "বন্ধ কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: generalPage.ui:21
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: rc.cpp:5
 msgid "Settings and Profile"
-msgstr ""
+msgstr "সংহতিসমূহ আৰু আলেখ্য"
 
 #. i18n: file: generalPage.ui:51
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:8
 msgid "<b>Events</b>"
-msgstr ""
+msgstr "<b>ঘটনাসমূহ</b>"
 
 #. i18n: file: generalPage.ui:65
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: rc.cpp:11
 msgid "Lock screen on resume"
-msgstr ""
+msgstr "পুনৰ চলাওতে পৰ্দা লক কৰিব"
 
 #. i18n: file: generalPage.ui:78
 #. i18n: ectx: property (toolTip), widget (QCheckBox, lockScreenOnResume)
 #: rc.cpp:14
 msgid "Locks screen when waking up from suspension"
-msgstr ""
+msgstr "বাতিল কৰাৰ পৰা আকৌ ঘুৰি আহোতে পৰ্দা লক কৰে"
 
 #. i18n: file: generalPage.ui:84
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, lockScreenOnResume)
 #: rc.cpp:17
 msgid "You will be asked for a password when resuming from sleep state"
-msgstr ""
+msgstr "নিদ্ৰা অৱস্থাৰ পৰা ঘুৰি আহোতে আপোনাক এটা পাছৱাৰ্ড বিচৰা হ'ব"
 
 #. i18n: file: generalPage.ui:108
 #. i18n: ectx: property (text), widget (QPushButton, notificationsButton)
 #: rc.cpp:20
 msgid "Configure Notifications..."
-msgstr ""
+msgstr "সংকেতসমূহ সংৰূপণ কৰক..."
 
 #. i18n: file: generalPage.ui:157
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -119,66 +123,76 @@ msgid ""
 "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
 "weight:600;\">Profile Assignment</span></p></body></html>"
 msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">আলেখ্য ধাৰ্য্যকৰন</span></p></body></html>"
 
 #. i18n: file: generalPage.ui:171
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: rc.cpp:30
 msgid "When AC Adaptor is plugged in"
-msgstr ""
+msgstr "যেতিয়া AC এডাপ্টাৰ প্লাগ ইন কৰা থাকে"
 
 #. i18n: file: generalPage.ui:191
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: rc.cpp:33
 msgid "When AC Adaptor is unplugged"
-msgstr ""
+msgstr "যেতিয়া AC এডাপ্টাৰ আনপ্লাগ থাকে"
 
 #. i18n: file: generalPage.ui:211
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: rc.cpp:36
 msgid "When battery is at low level"
-msgstr ""
+msgstr "যেতিয়া বেটাৰি নিম্ন স্তৰত থাকে"
 
 #. i18n: file: generalPage.ui:231
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: rc.cpp:39
 msgid "When battery is at warning level"
-msgstr ""
+msgstr "যেতিয়া বেটাৰি সতৰ্ক কৰাৰ স্তৰত থাকে"
 
 #. i18n: file: generalPage.ui:267
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
 #: rc.cpp:42
 msgid "Advanced Battery Settings"
-msgstr ""
+msgstr "উন্নত বেটাৰি সংহতিসমূহ"
 
 #. i18n: file: generalPage.ui:275
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
 #: rc.cpp:45
 msgid "When battery remaining is critical"
-msgstr ""
+msgstr "যেতিয়া অৱশিষ্ট বেটাৰি মাৰাত্মক"
 
 #. i18n: file: generalPage.ui:332
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: rc.cpp:48
 msgid "Battery Levels"
-msgstr ""
+msgstr "বেটাৰি স্তৰসমূহ"
 
 #. i18n: file: generalPage.ui:341
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: rc.cpp:51
 msgid "Battery is at low level at"
-msgstr ""
+msgstr "বেটাৰি নিম্ন স্তৰৰ আছে"
 
 #. i18n: file: generalPage.ui:357
 #. i18n: ectx: property (toolTip), widget (KIntSpinBox, lowSpin)
 #: rc.cpp:54
 msgid "Low battery level"
-msgstr ""
+msgstr "নিম্ন বেটাৰি স্তৰ"
 
 #. i18n: file: generalPage.ui:360
 #. i18n: ectx: property (whatsThis), widget (KIntSpinBox, lowSpin)
 #: rc.cpp:57
 msgid "Battery will be considered low when it reaches this level"
-msgstr ""
+msgstr "বেটাৰি নিম্ন বুলি ধৰা হ'ব যেতিয়া ই এই স্তৰ পাব "
 
 #. i18n: file: generalPage.ui:363
 #. i18n: ectx: property (suffix), widget (KIntSpinBox, lowSpin)
@@ -189,40 +203,41 @@ msgstr ""
 #: rc.cpp:61 rc.cpp:74 rc.cpp:87
 #, no-c-format
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #. i18n: file: generalPage.ui:373
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:64
 msgid "Battery is at warning level at"
-msgstr ""
+msgstr "বেটাৰি সতৰ্ক কৰা স্তৰত থাকিব"
 
 #. i18n: file: generalPage.ui:389
 #. i18n: ectx: property (toolTip), widget (KIntSpinBox, warningSpin)
 #: rc.cpp:67
 msgid "Warning battery level"
-msgstr ""
+msgstr "সতৰ্ক কৰা বেটাৰি স্তৰ"
 
 #. i18n: file: generalPage.ui:392
 #. i18n: ectx: property (whatsThis), widget (KIntSpinBox, warningSpin)
 #: rc.cpp:70
 msgid "Battery will be considered at warning level when it reaches this level"
-msgstr ""
+msgstr "বেটাৰিক সতৰ্ক কৰা স্তৰত ধৰা হ'ব যেতিয়া ই এই স্তৰ পাই যাব"
 
 #. i18n: file: generalPage.ui:405
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: rc.cpp:77
 msgid "Battery is at critical level at"
-msgstr ""
+msgstr "বেটাৰি মাৰাত্মক স্তৰত আছে"
 
 #. i18n: file: generalPage.ui:421
 #. i18n: ectx: property (toolTip), widget (KIntSpinBox, criticalSpin)
 #: rc.cpp:80
 msgid "Critical battery level"
-msgstr ""
+msgstr "মাৰাত্মক বেটাৰি স্তৰ"
 
 #. i18n: file: generalPage.ui:424
 #. i18n: ectx: property (whatsThis), widget (KIntSpinBox, criticalSpin)
 #: rc.cpp:83
 msgid "Battery will be considered critical when it reaches this level"
-msgstr ""
+msgstr "বেটাৰিক মাৰাত্মক স্তৰত ধৰা হ'ব যেতিয়া ই এই স্তৰ পাব"
+
