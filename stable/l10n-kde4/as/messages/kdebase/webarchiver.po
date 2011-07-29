@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 20:48+0530\n"
+"PO-Revision-Date: 2011-07-29 19:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,20 +19,20 @@ msgstr ""
 #: archivedialog.cpp:161
 msgctxt "@title:window"
 msgid "Web Archiver"
-msgstr ""
+msgstr "ৱেব আৰ্কাইভাৰ"
 
 #: archivedialog.cpp:171
 msgid "Status"
-msgstr ""
+msgstr "অৱস্থা"
 
 #: archivedialog.cpp:172
 msgid "Url"
-msgstr ""
+msgstr "Url"
 
 #: archivedialog.cpp:240
 msgctxt "@title:window"
 msgid "Unable to Open Web-Archive"
-msgstr ""
+msgstr "ৱেব আৰ্কাইভ খোলিবলে অক্ষম"
 
 #: archivedialog.cpp:241
 #, kde-format
@@ -41,44 +41,47 @@ msgid ""
 " %1 \n"
 " for writing."
 msgstr ""
+"%1 লিখনীৰ\n"
+"বাবে\n"
+"খোলিবলে অক্ষম।"
 
 #: archivedialog.cpp:372
 msgid "Downloading"
-msgstr ""
+msgstr "ডাউনলোড কৰা হৈ আছে"
 
 #: archivedialog.cpp:393
 msgid "Error"
-msgstr ""
+msgstr "ত্ৰুটি"
 
 #: archivedialog.cpp:393
 msgid "Ok"
-msgstr ""
+msgstr "ঠিক আছে"
 
 #: archivedialog.cpp:421
 #, kde-format
 msgid "I/O error occurred while writing to web archive file %1."
-msgstr ""
+msgstr "ৱেব আৰ্কাইভ নথিপত্ৰ %1 লে লিখতে I/O ত্ৰুটি।"
 
 #: plugin_webarchiver.cpp:58
 msgid "Archive &Web Page..."
-msgstr ""
+msgstr "আৰ্কাইভ আৰু ৱেব পৃষ্ঠা (&W)..."
 
 #: plugin_webarchiver.cpp:77
 msgid "Untitled"
-msgstr ""
+msgstr "শীৰ্ষকবিহিন"
 
 #: plugin_webarchiver.cpp:94
 msgid "*.war *.tgz|Web Archives"
-msgstr ""
+msgstr "*.war *.tgz|ৱেব আৰ্কাইভসমূহ"
 
 #: plugin_webarchiver.cpp:95
 msgid "Save Page as Web-Archive"
-msgstr ""
+msgstr "পৃষ্ঠাক ৱেব-আৰ্কাইভ হিচাপে সঞ্চয় কৰক"
 
 #: plugin_webarchiver.cpp:100
 msgctxt "@title:window"
 msgid "Invalid URL"
-msgstr ""
+msgstr "অবৈধ URL"
 
 #: plugin_webarchiver.cpp:101
 #, kde-format
@@ -87,11 +90,14 @@ msgid ""
 "%1\n"
 "is not valid."
 msgstr ""
+"URL\n"
+"%1\n"
+"বৈধ নহয়।"
 
 #: plugin_webarchiver.cpp:115
 msgctxt "@title:window"
 msgid "File Exists"
-msgstr ""
+msgstr "নথিপত্ৰৰ অস্তিত্ব আছে"
 
 #: plugin_webarchiver.cpp:116
 #, kde-format
@@ -99,61 +105,64 @@ msgid ""
 "Do you really want to overwrite:\n"
 "%1?"
 msgstr ""
+"আপুনি সঁচাকে অভাৰৰাইট কৰিব বিচাৰে:\n"
+"%1?"
 
 #: plugin_webarchiver.cpp:117
 msgid "Overwrite"
-msgstr ""
+msgstr "অভাৰৰাইট কৰক"
 
 #. i18n: file: plugin_webarchiver.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:3
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: plugin_webarchiver.rc:8
 #. i18n: ectx: ToolBar (extraToolBar)
 #: rc.cpp:6
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "অতিৰিক্ত টুলবাৰ"
 
 #. i18n: file: archiveviewbase.ui:13
 #. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
 #: rc.cpp:9
 msgid "Web Archiver"
-msgstr ""
+msgstr "ৱেব আৰ্কাইভাৰ"
 
 #. i18n: file: archiveviewbase.ui:39
 #. i18n: ectx: property (text), widget (QLabel, targetLabel)
 #: rc.cpp:12
 msgid "Local File"
-msgstr ""
+msgstr "স্থানীয় নথিপত্ৰ"
 
 #. i18n: file: archiveviewbase.ui:55
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
 #: rc.cpp:15
 msgid "To:"
-msgstr ""
+msgstr "লে:"
 
 #. i18n: file: archiveviewbase.ui:65
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: rc.cpp:18
 msgid "Archiving:"
-msgstr ""
+msgstr "আৰ্কাইভ কৰা হৈ আছে:"
 
 #. i18n: file: archiveviewbase.ui:81
 #. i18n: ectx: property (text), widget (QLabel, urlLabel)
 #: rc.cpp:21
 msgid "Original URL"
-msgstr ""
+msgstr "প্ৰকৃত URL"
 
 #. i18n: file: archiveviewbase.ui:109
 #. i18n: ectx: property (text), widget (QTreeWidget, progressView)
 #: rc.cpp:24
 msgid "1"
-msgstr ""
+msgstr "১"
 
 #. i18n: file: archiveviewbase.ui:114
 #. i18n: ectx: property (text), widget (QTreeWidget, progressView)
 #: rc.cpp:27
 msgid "2"
-msgstr ""
+msgstr "২"
+
