@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:51+0530\n"
+"PO-Revision-Date: 2011-07-29 16:00+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,6 +23,11 @@ msgid ""
 "keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
 "above and keep below."
 msgstr ""
+"উইন্ডোসমূহ যাৰ নাম, উইন্ডো ক্লাচ অথবা উইন্ডো ভূমিকা :q: -ৰ লগত মিল খায় তাকে "
+"বিচাৰে। "
+"নিম্নলিখিত যিকোনো এটা কিশব্দ ব্যৱহাৰ কৰি উইন্ডোসমূহ হৈতে ভাৱবিনিময় কৰা "
+"সম্ভব: সক্ৰিয় কৰক, "
+"বন্ধ কৰক, সৰু কৰক, ডাঙৰ কৰক, সম্পূৰ্ণ পৰ্দা, ছায়া, উপৰত ৰাখক আৰু তলত ৰাখক।"
 
 #: windowsrunner.cpp:43
 msgid ""
@@ -30,15 +35,20 @@ msgid ""
 "the windows by using one of the following keywords: activate, close, min"
 "(imize), max(imize), fullscreen, shade, keep above and keep below."
 msgstr ""
+"ডেস্কটপত কোনবোৰ উইন্ডো :q: নামৰে আছে সেয়া বিচাৰে। নিম্নলিখিত যিকোনো এটা "
+"কিশব্দ ব্যৱহাৰ "
+"কৰি উইন্ডোসমূহৰ হৈতে ভাৱবিনিমা কৰা সম্ভব: সক্ৰিয় কৰক, বন্ধ কৰক, সৰু কৰক, "
+"ডাঙৰ কৰক, "
+"সম্পূৰ্ণ পৰ্দা, ছায়া, উপৰত ৰাখক আৰু তলত ৰাখক।"
 
 #: windowsrunner.cpp:46
 msgid "Switch to desktop named :q:"
-msgstr ""
+msgstr ":q: নামৰ ডেস্কটপলে যাওক"
 
 #: windowsrunner.cpp:47 windowsrunner.cpp:163
 msgctxt "Note this is a KRunner keyword"
 msgid "window"
-msgstr ""
+msgstr "উইন্ডো"
 
 #: windowsrunner.cpp:48
 msgid ""
@@ -48,122 +58,130 @@ msgid ""
 "keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
 "above and keep below."
 msgstr ""
+"সকলো উইন্ডো তালিকাভুক্ত কৰে সিহতক সক্ৰিয় কৰাৰ অনুমতি দিয়ে। নাম=, ক্লাচ=, "
+"ভূমিকা=, আৰু "
+"ডেস্কটপ= -ৰ হৈতে তালিকাটো এই প্ৰতিৰোধসমূহ মিল খোৱা উইন্ডোসমূহলে সৰু কৰিব "
+"পাৰি। নিনম্নলিখিত "
+"যিকোনো এটা কিশব্দ ব্যৱহাৰ কৰি উইন্ডোসমূহৰ হৈতে ভাৱবিনিময় কৰা সম্ভব: সক্ৰিয় "
+"কৰক, বন্ধ কৰক, "
+"সৰু কৰক, ডাঙৰ কৰক, সম্পূৰ্ণ পৰ্দা, ছায়া, উপৰত ৰাখক আৰু তলত ৰাখক।"
 
 #: windowsrunner.cpp:53 windowsrunner.cpp:179 windowsrunner.cpp:241
 msgctxt "Note this is a KRunner keyword"
 msgid "desktop"
-msgstr ""
+msgstr "ডেস্কটপ"
 
 #: windowsrunner.cpp:54
 msgid "Lists all other desktops and allows to switch to them."
-msgstr ""
+msgstr "অন্য সকলো ডেস্কটপ তালিকাভুক্ত কৰে আৰু সিহতলে যাবলে অনুমতি দিয়ে।"
 
 #: windowsrunner.cpp:129 windowsrunner.cpp:131
 msgctxt "Note this is a KRunner keyword"
 msgid "activate"
-msgstr ""
+msgstr "সক্ৰিয় কৰক"
 
 #: windowsrunner.cpp:132 windowsrunner.cpp:134
 msgctxt "Note this is a KRunner keyword"
 msgid "close"
-msgstr ""
+msgstr "বন্ধ কৰক"
 
 #: windowsrunner.cpp:135 windowsrunner.cpp:137
 msgctxt "Note this is a KRunner keyword"
 msgid "min"
-msgstr ""
+msgstr "min"
 
 #: windowsrunner.cpp:138 windowsrunner.cpp:140
 msgctxt "Note this is a KRunner keyword"
 msgid "minimize"
-msgstr ""
+msgstr "সৰু কৰক"
 
 #: windowsrunner.cpp:141 windowsrunner.cpp:143
 msgctxt "Note this is a KRunner keyword"
 msgid "max"
-msgstr ""
+msgstr "max"
 
 #: windowsrunner.cpp:144 windowsrunner.cpp:146
 msgctxt "Note this is a KRunner keyword"
 msgid "maximize"
-msgstr ""
+msgstr "ডাঙৰ কৰক"
 
 #: windowsrunner.cpp:147 windowsrunner.cpp:149
 msgctxt "Note this is a KRunner keyword"
 msgid "fullscreen"
-msgstr ""
+msgstr "সম্পূৰ্ণ পৰ্দা"
 
 #: windowsrunner.cpp:150 windowsrunner.cpp:152
 msgctxt "Note this is a KRunner keyword"
 msgid "shade"
-msgstr ""
+msgstr "ছায়া"
 
 #: windowsrunner.cpp:153 windowsrunner.cpp:155
 msgctxt "Note this is a KRunner keyword"
 msgid "keep above"
-msgstr ""
+msgstr "উপৰত ৰাখক"
 
 #: windowsrunner.cpp:156 windowsrunner.cpp:158
 msgctxt "Note this is a KRunner keyword"
 msgid "keep below"
-msgstr ""
+msgstr "তলত ৰাখক"
 
 #: windowsrunner.cpp:173
 msgctxt "Note this is a KRunner keyword"
 msgid "name"
-msgstr ""
+msgstr "নাম"
 
 #: windowsrunner.cpp:175
 msgctxt "Note this is a KRunner keyword"
 msgid "class"
-msgstr ""
+msgstr "ক্লাচ"
 
 #: windowsrunner.cpp:177
 msgctxt "Note this is a KRunner keyword"
 msgid "role"
-msgstr ""
+msgstr "ভূমিকা"
 
 #: windowsrunner.cpp:393
 #, kde-format
 msgid "Switch to desktop %1"
-msgstr ""
+msgstr "ডেস্কটপ %1 লে লৈ যাওক"
 
 #: windowsrunner.cpp:417
 #, kde-format
 msgid "Close running window on %1"
-msgstr ""
+msgstr "%1 -ত চলি থকা উইন্ডো বন্ধ কৰক"
 
 #: windowsrunner.cpp:420
 #, kde-format
 msgid "(Un)minimize running window on %1"
-msgstr ""
+msgstr "%1 -ত চলি থকা উইন্ডো ডাঙৰ কৰক"
 
 #: windowsrunner.cpp:423
 #, kde-format
 msgid "Maximize/restore running window on %1"
-msgstr ""
+msgstr "%1 -ত চলি থকা উইন্ডো ডাঙৰ/পুনৰ সংৰক্ষণ কৰক"
 
 #: windowsrunner.cpp:426
 #, kde-format
 msgid "Toggle fullscreen for running window on %1"
-msgstr ""
+msgstr "%1 -ত উইন্ডো চলাবলে সম্পূৰ্ণ পৰ্দা অদল বদল কৰক"
 
 #: windowsrunner.cpp:429
 #, kde-format
 msgid "(Un)shade running window on %1"
-msgstr ""
+msgstr "%1 -ত উইন্ডো চলোৱা অছায়া কৰক"
 
 #: windowsrunner.cpp:432
 #, kde-format
 msgid "Toggle keep above for running window on %1"
-msgstr ""
+msgstr "%1 -ত উইন্ডো চলোৱাৰ বাবে উপৰত ৰখা অদল বদল কৰক"
 
 #: windowsrunner.cpp:435
 #, kde-format
 msgid "Toggle keep below running window on %1"
-msgstr ""
+msgstr "%1 -ত উইন্ডো চলাই তলত ৰখা অদল বদল কৰক"
 
 #: windowsrunner.cpp:439
 #, kde-format
 msgid "Activate running window on %1"
-msgstr ""
+msgstr "%1 -ত চলি থকা উইন্ডো সক্ৰিয় কৰক"
+
