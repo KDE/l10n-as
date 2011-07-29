@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-16 04:58+0200\n"
-"PO-Revision-Date: 2011-07-18 20:49+0530\n"
+"PO-Revision-Date: 2011-07-29 19:34+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,46 +18,50 @@ msgstr ""
 
 #: solid-network.cpp:53
 msgid "solid-network"
-msgstr ""
+msgstr "কঠিন-নেটৱাৰ্ক"
 
 #: solid-network.cpp:55
 msgid ""
 "KDE tool for querying and controlling your network interfaces from the "
 "command line"
 msgstr ""
+"কমান্ড শাৰীৰ পৰা আপোনাৰ নেটৱাৰ্ক আন্তঃপৃষ্টসমূহ প্ৰশ্ন আৰু নিয়ন্ত্ৰণ কৰিবলে "
+"KDE সঁজুলি"
 
 #: solid-network.cpp:365
 msgid "Syntax Error: Not enough arguments"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: পৰ্যাপ্ত তৰ্ক নাই"
 
 #: solid-network.cpp:371
 msgid "Syntax Error: Too many arguments"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: বহু বেছি তৰ্ক"
 
 #: solid-network.cpp:383
 msgid "Show available commands by domains"
-msgstr ""
+msgstr "উপলব্ধ কমান্ডসমূহ ডমেইনৰে দেখুৱাওক"
 
 #: solid-network.cpp:385
 msgid "Command (see --commands)"
-msgstr ""
+msgstr "কমান্ড (--commands চাওক)"
 
 #: solid-network.cpp:387
 msgid "Arguments for command"
-msgstr ""
+msgstr "কমান্ডৰ বাবে তৰ্ক"
 
 #: solid-network.cpp:399
 msgid "Syntax:"
-msgstr ""
+msgstr "বাক্যবিন্যাস:"
 
 #: solid-network.cpp:402
 msgid "             # List the network devices present.\n"
-msgstr ""
+msgstr "             # উপলব্ধ নেটৱাৰ্ক ডিভাইচসমূহ তালিকাভুক্ত কৰক।\n"
 
 #: solid-network.cpp:405
 msgid ""
 "             # List the networks known to the device specified by 'uni'.\n"
 msgstr ""
+"             #  'uni' -ৰে ধাৰ্য্যত ডিভাইচলে জ্ঞাত নেটৱাৰ্কসমূহ তালিকাভুক্ত "
+"কৰক।\n"
 
 #: solid-network.cpp:408
 msgid ""
@@ -74,10 +78,22 @@ msgid ""
 "             # properties of the network on 'device-uni' that 'network-uni' "
 "refers to.\n"
 msgstr ""
+"             # নেটৱাৰ্কিং বৈশিষ্টসমূহ সক্ৰিয় আছে নে প্ৰশ্ন কৰক।\n"
+"             # - যদি 'status' বিকল্প দিয়া আছে, চিস্টেমৰ\n"
+"             # বাবে নেটৱাৰ্কিং সামৰ্থবান আছে নে ঘুৰাওক\n"
+"             # - যদি 'wireless' বিকল্প দিয়া আছে, চিস্টেমৰ বাবে\n"
+"             # বেতাঁৰ সামৰ্থবান আছে নে ঘুৰাওক\n"
+"             # - যদি 'wireless-hardware' বিকল্প দিয়া আছে,\n"
+"             #  বেতাঁৰ হাৰ্ডৱেৰ সামৰ্থবান আছে নে ঘুৰাওক\n"
+"             # - যদি  'interface' বিকল্প দিয়া আছে, 'uni' -এ প্ৰসংগ কৰা\n"
+"             # নেটৱাৰ্ক আন্তঃপৃষ্টৰ বৈশিষ্টসমূহ প্ৰিন্ট কৰক।\n"
+"             # - যদি 'network' বিকল্প দিয়া আছে, 'device-uni' -ত \n"
+"             # 'network-uni'  -এ প্ৰসংগ কৰা বৈশিষ্টসমূহ"
+"প্ৰিনট কৰক।\n"
 
 #: solid-network.cpp:421 solid-network.cpp:424
 msgid "             # Enable or disable networking on this system.\n"
-msgstr ""
+msgstr "             # এই চিস্টেমত নেটৱাৰ্কিং সামৰ্থবান বা অসামৰ্থবান কৰক।\n"
 
 #: solid-network.cpp:427
 msgid ""
@@ -90,81 +106,91 @@ msgid ""
 "             # wpapsk wpa|wpa2 tkip|ccmp-aes password\n"
 "             # wpaeap UNIMPLEMENTED IN SOLIDSHELL\n"
 msgstr ""
+"             # 'device-uni' -ত  'network-uni' নেটৱাৰ্ক সক্ৰিয় কৰক।\n"
+"             # বিকল্পভাৱে, WEP128 ব্যৱহাৰ কৰক, মুক্ত-চিস্টেম ইনক্ৰিপষণ hex "
+"কি "
+"'key' -ৰ হৈতে। (কঠিনভাৱে কোড কৰা)\n"
+"             # যত 'authentication'  ইয়াৰ যিকোনো এটা :\n"
+"             # wep hex64|ascii64|hex128|ascii128|passphrase64|passphrase128 "
+"'key' [মুক্ত|অংশীদাৰী]\n"
+"             # wpapsk wpa|wpa2 tkip|ccmp-aes পাছৱাৰ্ড\n"
+"             # wpaeap UNIMPLEMENTED IN SOLIDSHELL\n"
 
 #: solid-network.cpp:477 solid-network.cpp:497 solid-network.cpp:516
 #, kde-format
 msgid "Syntax Error: Unknown option '%1'"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: অজ্ঞাত বিকল্প '%1'"
 
 #: solid-network.cpp:527
 msgid "Not implemented"
-msgstr ""
+msgstr "প্ৰণয়ন কৰা হোৱা নাই"
 
 #: solid-network.cpp:578
 #, kde-format
 msgid "Unrecognised WEP type '%1'"
-msgstr ""
+msgstr "অপৰিচিত WEP ধৰণ '%1'"
 
 #: solid-network.cpp:594
 #, kde-format
 msgid "Unrecognised WEP method '%1'"
-msgstr ""
+msgstr "অপৰিচিত WEP পদ্ধতি '%1'"
 
 #: solid-network.cpp:611
 #, kde-format
 msgid "Unrecognised WPA version '%1'"
-msgstr ""
+msgstr "অপৰিচিত WPA সংস্কৰণ '%1'"
 
 #: solid-network.cpp:622
 #, kde-format
 msgid "Unrecognised WPA encryption protocol '%1'"
-msgstr ""
+msgstr "অপৰিচিত WPA ইনক্ৰিপষণ প্ৰটকল '%1'"
 
 #: solid-network.cpp:633
 #, kde-format
 msgid "Unimplemented auth scheme '%1'"
-msgstr ""
+msgstr "অপ্ৰণয়ীত প্ৰমাণীকৰণ আঁচনি '%1'"
 
 #: solid-network.cpp:650
 #, kde-format
 msgid "Syntax Error: Unknown object '%1'"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: অজ্ঞাত অবজেক্ট '%1'"
 
 #: solid-network.cpp:666
 #, kde-format
 msgid "Syntax Error: Unknown command '%1'"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: অজ্ঞাত কমান্ড '%1'"
 
 #: solid-network.cpp:675
 msgid "networking: is enabled"
-msgstr ""
+msgstr "নেটৱাৰ্কিং: সামৰ্থবান হয়"
 
 #: solid-network.cpp:677
 msgid "networking: is not enabled"
-msgstr ""
+msgstr "নেটৱাৰ্কিং: সামৰ্থবান নহয়"
 
 #: solid-network.cpp:684
 msgid "wireless: is enabled"
-msgstr ""
+msgstr "বেতাঁৰ: সামৰ্থবান হয়"
 
 #: solid-network.cpp:686
 msgid "wireless: is not enabled"
-msgstr ""
+msgstr "বেতাঁৰ: সামৰ্থবান নহয়"
 
 #: solid-network.cpp:693
 msgid "wireless hardware: is enabled"
-msgstr ""
+msgstr "বেতাঁৰ হাৰ্ডৱেৰ: সামৰ্থবান হয়"
 
 #: solid-network.cpp:695
 msgid "wireless hardware: is not enabled"
-msgstr ""
+msgstr "বেতাঁৰ হাৰ্ডৱেৰ: সামৰ্থবান নহয়"
 
 #: solid-network.cpp:804
 #, kde-format
 msgid "Progress: %1%"
-msgstr ""
+msgstr "প্ৰগতি: %1%"
 
 #: solid-network.cpp:809
 #, kde-format
 msgid "Info: %1"
-msgstr ""
+msgstr "তথ্য: %1"
+
