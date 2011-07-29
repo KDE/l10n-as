@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-11-10 06:10+0100\n"
-"PO-Revision-Date: 2011-07-18 20:49+0530\n"
+"PO-Revision-Date: 2011-07-29 18:45+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,35 +18,35 @@ msgstr ""
 
 #: solid-hardware.cpp:44
 msgid "solid-hardware"
-msgstr ""
+msgstr "কঠিন-হাৰ্ডৱেৰ"
 
 #: solid-hardware.cpp:46
 msgid "KDE tool for querying your hardware from the command line"
-msgstr ""
+msgstr "আপোনাৰ হাৰ্ডৱেৰক কমান্ড শাৰীৰ পৰা প্ৰশ্ন কৰিবলে KDE সঁজুলি"
 
 #: solid-hardware.cpp:178
 msgid "Syntax Error: Not enough arguments"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: পৰ্যাপ্ত তৰ্ক নাই"
 
 #: solid-hardware.cpp:183
 msgid "Syntax Error: Too many arguments"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: বহু বেছি তৰ্ক"
 
 #: solid-hardware.cpp:194
 msgid "Show available commands"
-msgstr ""
+msgstr "উপলব্ধ কমান্ডসমূহ দেখুৱাওক"
 
 #: solid-hardware.cpp:196
 msgid "Command (see --commands)"
-msgstr ""
+msgstr "কমান্ড (--commands চাওক)"
 
 #: solid-hardware.cpp:198
 msgid "Arguments for command"
-msgstr ""
+msgstr "কমান্ডৰ বাবে তৰ্ক"
 
 #: solid-hardware.cpp:210
 msgid "Syntax:"
-msgstr ""
+msgstr "বাক্যবিন্যাস:"
 
 #: solid-hardware.cpp:213
 msgid ""
@@ -61,12 +61,26 @@ msgid ""
 "             # neutral fashion,\n"
 "             # - Otherwise only device UDIs are listed.\n"
 msgstr ""
+"             # চিস্টেমত উপলব্ধ হাৰ্ডৱেৰ তালিকাভুক্ত কৰক।\n"
+"             # - যদি 'nonportableinfo' বিকল্প ধাৰ্য্য কৰা আছে, ডিভাইচ\n"
+"             # বৈশিষ্টসমূহ তালিকাভুক্ত কৰা হয় (সাৱধান হ'ব, এই ক্ষেত্ৰত "
+"বৈশিষ্ট "
+"নামসমূহ\n"
+"             # পিছপ্ৰান্তৰ উপৰত নিৰ্ভৰশীল),\n"
+"             # - যদি 'details' বিকল্প ধাৰ্য্য কৰা আছে, ডিভাইচ "
+"আন্তঃপৃষ্টসমূহ\n"
+"             # আৰু আনুষংগিক বৈশিষ্টসমূহ প্লেটফৰ্ম\n"
+"             # নিৰপেক্ষ ধৰণত তালিকাভুক্ত কৰা হ'ব,\n"
+"             # - নগলে কেৱল ডিভাইচ UDIসমূহ তালিকাভুক্ত কৰা হয়।\n"
 
 #: solid-hardware.cpp:223
 msgid ""
 "             # Display all the interfaces and properties of the device\n"
 "             # corresponding to 'udi' in a platform neutral fashion.\n"
 msgstr ""
+"             # ডিভাইচৰ সকলো 'udi'  -লে আনুষংগিক আন্তঃপৃষ্ট আৰু "
+"বৈশিষ্টসমূহ\n"
+"             # এটা প্লেটফৰ্ম নিৰপেক্ষ ধৰণত প্ৰদৰ্শন কৰক।\n"
 
 #: solid-hardware.cpp:227
 msgid ""
@@ -75,6 +89,10 @@ msgid ""
 "             # (be careful, in this case property names are backend "
 "dependent).\n"
 msgstr ""
+"             # 'udi' লে আনুষংগিক ডিভাইচৰ সকলো বৈশিষ্ট প্ৰদৰ্শন কৰক "
+"\n"
+"             # (সাৱধান হ'ব, এই ক্ষেত্ৰত বৈশিষ্ট নামসমূহ পিছপ্ৰান্ত "
+"নিৰ্ভৰশীল)।\n"
 
 #: solid-hardware.cpp:231
 msgid ""
@@ -84,48 +102,55 @@ msgid ""
 "             # branch of the corresponding device,\n"
 "             # - Otherwise the search is done on all the devices.\n"
 msgstr ""
+"             # 'predicate' লে আনুষংগিক UDI ডিভাইচসমূহ তালিকাভুক্ত কৰক।\n"
+"             # - যদি 'parentUdi' ধাৰ্য্যত থাকে, সন্ধান আনুষংগিক"
+"ডিভাইচৰ\n"
+"             # শাখালে সীমিত থাকে,\n"
+"             # - নহলে সন্ধান সকলো ডিভাইচত কৰা হয়।\n"
 
 #: solid-hardware.cpp:237
 msgid ""
 "             # If applicable, mount the device corresponding to 'udi'.\n"
 msgstr ""
+"             # যদি প্ৰযোজ্য, 'udi' লে আনুষংগিকভাৱে ডিভাইচ মাউন্ট কৰক।\n"
 
 #: solid-hardware.cpp:240
 msgid ""
 "             # If applicable, unmount the device corresponding to 'udi'.\n"
-msgstr ""
+msgstr "             # যদি প্ৰযোজ্য, 'udi' লে আনুষংগিক ডিভাইচ মাউন্ট কৰক।\n"
 
 #: solid-hardware.cpp:243
 msgid ""
 "             # If applicable, eject the device corresponding to 'udi'.\n"
-msgstr ""
+msgstr "             # যদি প্ৰযোজ্য, 'udi' লে আনুষংগিকভাৱে ডিভাইচ উলিৱাওক।\n"
 
 #: solid-hardware.cpp:314
 #, kde-format
 msgid "Syntax Error: Unknown command '%1'"
-msgstr ""
+msgstr "বাক্যবিন্যাস ত্ৰুটি: অজ্ঞাত কমান্ড '%1'"
 
 #: solid-hardware.cpp:384
 #, kde-format
 msgid "Error: %1 does not have the interface StorageAccess."
-msgstr ""
+msgstr "ত্ৰুটি: %1 -ৰ আন্তঃপৃষ্ট সংৰক্ষণঅভিগম নাই।"
 
 #: solid-hardware.cpp:389
 #, kde-format
 msgid "Error: %1 does not have the interface OpticalDrive."
-msgstr ""
+msgstr "ত্ৰুটি: %1 -ৰ আন্তঃপৃষ্ট আলোকীড্ৰাইভ।"
 
 #: solid-hardware.cpp:422
 #, kde-format
 msgid "Error: %1"
-msgstr ""
+msgstr "ত্ৰুটি: %1"
 
 #: solid-hardware.cpp:442
 #, kde-format
 msgid "Progress: %1%"
-msgstr ""
+msgstr "প্ৰগতি: %1%"
 
 #: solid-hardware.cpp:448
 #, kde-format
 msgid "Info: %1"
-msgstr ""
+msgstr "তথ্য: %1"
+
