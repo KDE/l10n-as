@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:53+0530\n"
+"PO-Revision-Date: 2011-07-29 12:38+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,76 +18,77 @@ msgstr ""
 
 #: networkengine.cpp:72 networkengine.cpp:82 networkengine.cpp:118
 msgid "UNI"
-msgstr ""
+msgstr "UNI"
 
 #: networkengine.cpp:92
 msgid "Wireless"
-msgstr ""
+msgstr "বেতাঁৰ"
 
 #: networkengine.cpp:104
 msgid "Available networks"
-msgstr ""
+msgstr "উপলব্ধ নেটৱাৰ্কসমূহ"
 
 #: networkengine.cpp:115 networkengine.cpp:123 networkengine.cpp:126
 #: networkengine.cpp:129 networkengine.cpp:132 networkengine.cpp:135
 #: networkengine.cpp:138 networkengine.cpp:141 networkengine.cpp:144
 #: networkengine.cpp:147
 msgid "ConnectionState"
-msgstr ""
+msgstr "সংযোগঅৱস্থা"
 
 #: networkengine.cpp:115
 msgid "Activated"
-msgstr ""
+msgstr "সক্ৰিয় কৰা আছে"
 
 #: networkengine.cpp:160 networkengine.cpp:162
 msgid "Broadcast"
-msgstr ""
+msgstr "সম্প্ৰচাৰ"
 
 #: networkengine.cpp:168 networkengine.cpp:174
 msgid "Gateway"
-msgstr ""
+msgstr "গেইটৱে"
 
 #: networkengine.cpp:169 networkengine.cpp:175
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: networkengine.cpp:170 networkengine.cpp:176
 msgid "Subnet mask"
-msgstr ""
+msgstr "চাবনেট মুখা"
 
 #: networkengine.cpp:191 networkengine.cpp:199
 msgid "Link quality"
-msgstr ""
+msgstr "লিঙ্ক বৈশিষ্ট"
 
 #: networkengine.cpp:192 networkengine.cpp:200
 msgid "Frequency"
-msgstr ""
+msgstr "কম্পনাংক"
 
 #: networkengine.cpp:193 networkengine.cpp:201
 msgid "ESSID"
-msgstr ""
+msgstr "ESSID"
 
 #: networkengine.cpp:194 networkengine.cpp:202
 msgid "Bitrate"
-msgstr ""
+msgstr "বিটহাৰ"
 
 #: networkengine.cpp:195 networkengine.cpp:198
 msgid "Accesspoint"
-msgstr ""
+msgstr "অভিগমবিন্দু"
 
 #: networkengine.cpp:198
 msgid "None"
-msgstr ""
+msgstr "কোনো নহয়"
 
 #: networkengine.cpp:207 networkengine.cpp:210 networkengine.cpp:213
 #: networkengine.cpp:216 networkengine.cpp:219 networkengine.cpp:222
 msgid "Mode"
-msgstr ""
+msgstr "অৱস্থা"
 
 #: networkengine.cpp:222
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: networkengine.cpp:226
 msgid "Encryption"
-msgstr ""
+msgstr "ইনক্ৰিপষণ"
+
