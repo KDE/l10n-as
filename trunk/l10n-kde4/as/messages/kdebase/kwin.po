@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-28 04:03+0200\n"
+"POT-Creation-Date: 2011-07-29 04:01+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: activation.cpp:704
+#: activation.cpp:701
 #, kde-format
 msgid "Window '%1' demands attention."
 msgstr "সংযোগক্ষেত্ৰ '%1' ৰ পৰা চেতাৱনী প্ৰাপ্ত হৈছে ।"
@@ -368,72 +368,6 @@ msgstr "সাৰ্বজনীন শৰ্ট বাট ৰোধ কৰা �
 msgid "Suspend Compositing"
 msgstr ""
 
-#: kwinbindings.cpp:192
-msgid "Tiling"
-msgstr ""
-
-#: kwinbindings.cpp:193
-msgid "Enable/Disable Tiling"
-msgstr ""
-
-#: kwinbindings.cpp:194
-msgid "Toggle Floating"
-msgstr ""
-
-#: kwinbindings.cpp:196
-#, fuzzy
-#| msgid "Switch to Desktop 1"
-msgid "Switch Focus Left"
-msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
-
-#: kwinbindings.cpp:197
-msgid "Switch Focus Right"
-msgstr ""
-
-#: kwinbindings.cpp:198
-#, fuzzy
-#| msgid "Switch One Desktop Up"
-msgid "Switch Focus Up"
-msgstr "উপৰৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
-
-#: kwinbindings.cpp:199
-#, fuzzy
-#| msgid "Switch One Desktop Down"
-msgid "Switch Focus Down"
-msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
-
-#: kwinbindings.cpp:200
-#, fuzzy
-#| msgid "Move Window"
-msgid "Move Window Left"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#: kwinbindings.cpp:201
-#, fuzzy
-#| msgid "Move Window"
-msgid "Move Window Right"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#: kwinbindings.cpp:202
-#, fuzzy
-#| msgid "Move Window"
-msgid "Move Window Up"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#: kwinbindings.cpp:203
-#, fuzzy
-#| msgid "Move Window"
-msgid "Move Window Down"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#: kwinbindings.cpp:204
-msgid "Next Layout"
-msgstr ""
-
-#: kwinbindings.cpp:205
-msgid "Previous Layout"
-msgstr ""
-
 #: main.cpp:182
 msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
@@ -528,16 +462,6 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
 
-#: tiling.cpp:73
-#, fuzzy
-#| msgid "Disabled"
-msgid "Tiling Disabled"
-msgstr "নিষ্ক্ৰিয় কৰক"
-
-#: tiling.cpp:77
-msgid "Tiling Enabled"
-msgstr ""
-
 #: tilinglayoutfactory.cpp:43
 #, kde-format
 msgid "Layout changed to %1"
@@ -560,128 +484,128 @@ msgctxt "Floating layout, windows aren't tiled at all"
 msgid "Floating"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
 
-#: useractions.cpp:78
+#: useractions.cpp:81
 msgid "Keep &Above Others"
 msgstr "সকলো সংযোগক্ষেত্ৰৰ ওপৰত স্থাপন (&A)"
 
-#: useractions.cpp:86
+#: useractions.cpp:89
 msgid "Keep &Below Others"
 msgstr "সকল সংযোগক্ষেত্ৰৰ তলত স্থাপন (&B)"
 
-#: useractions.cpp:94
+#: useractions.cpp:97
 msgid "&Fullscreen"
 msgstr "সম্পূৰ্ণ পৰ্দ্দাত প্ৰদৰ্শন (&F)"
 
-#: useractions.cpp:102
+#: useractions.cpp:105
 msgid "&No Border"
 msgstr "প্ৰান্ত নোহোৱা (&N)"
 
-#: useractions.cpp:109
+#: useractions.cpp:112
 msgid "Window &Shortcut..."
 msgstr "সংযোগক্ষেত্ৰৰ শ'ৰ্ট কাট... (&S)"
 
-#: useractions.cpp:116
+#: useractions.cpp:119
 msgid "&Special Window Settings..."
 msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ্ট্য...(&S)"
 
-#: useractions.cpp:120
+#: useractions.cpp:123
 #, fuzzy
 #| msgid "&Special Application Settings..."
 msgid "S&pecial Application Settings..."
 msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ বৈশিষ্ট্য...(&S)"
 
-#: useractions.cpp:140
+#: useractions.cpp:143
 msgid "&Opacity"
 msgstr "গভিৰতা (&O)"
 
-#: useractions.cpp:143
+#: useractions.cpp:146
 msgid "&Move"
 msgstr "লৰাওক (&M)"
 
-#: useractions.cpp:150
+#: useractions.cpp:153
 msgid "Re&size"
 msgstr "মাপ পৰিবৰ্তন (&s)"
 
-#: useractions.cpp:156
+#: useractions.cpp:159
 msgid "Mi&nimize"
 msgstr "সৰু কৰক (&n)"
 
-#: useractions.cpp:162
+#: useractions.cpp:165
 msgid "Ma&ximize"
 msgstr "ডাঙৰ কৰক (&x)"
 
-#: useractions.cpp:169
+#: useractions.cpp:172
 msgid "Sh&ade"
 msgstr "ছায়াবৃত (&a)"
 
-#: useractions.cpp:180
+#: useractions.cpp:183
 msgid "Remove &From Group"
 msgstr ""
 
-#: useractions.cpp:186
+#: useractions.cpp:189
 msgid "Close Entire &Group"
 msgstr ""
 
-#: useractions.cpp:197
+#: useractions.cpp:200
 #, fuzzy
 #| msgid "Close Window"
 msgctxt "When in tiling mode, toggle's the window's floating/tiled state"
 msgid "&Float Window"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
 
-#: useractions.cpp:212
+#: useractions.cpp:217
 msgid "Ad&vanced"
 msgstr "উন্নত (&v)"
 
-#: useractions.cpp:218
+#: useractions.cpp:223
 msgid "Configur&e Window Behavior..."
 msgstr "সংযোগক্ষেত্ৰৰ আচৰণ বিন্যাস কৰক...(&e)"
 
-#: useractions.cpp:224
+#: useractions.cpp:229
 msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
-#: useractions.cpp:340
+#: useractions.cpp:346
 #, fuzzy
 #| msgid "Switch to Screen 0"
 msgid "Switch to Window Tab"
 msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
 
-#: useractions.cpp:374
+#: useractions.cpp:380
 #, fuzzy
 #| msgid "Left"
 msgid "To the Left"
 msgstr "বাওঁফালে"
 
-#: useractions.cpp:376
+#: useractions.cpp:382
 #, fuzzy
 #| msgid "Right"
 msgid "To the Right"
 msgstr "সোঁফালে"
 
-#: useractions.cpp:403
+#: useractions.cpp:409
 #, fuzzy
 #| msgid "Move Window"
 msgid "Move Window to Group"
 msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
-#: useractions.cpp:444
+#: useractions.cpp:450
 msgid "To &Desktop"
 msgstr "চিহ্নিত ডেষ্কট'পলৈ স্থানান্তৰ (&D)"
 
-#: useractions.cpp:467
+#: useractions.cpp:473
 msgid "Ac&tivities"
 msgstr ""
 
-#: useractions.cpp:480
+#: useractions.cpp:486
 msgid "&All Desktops"
 msgstr "সকলো ডেষ্কট'পলৈ (&A)"
 
-#: useractions.cpp:514
+#: useractions.cpp:520
 msgid "&All Activities"
 msgstr ""
 
-#: useractions.cpp:613
+#: useractions.cpp:624
 #, kde-format
 msgid "Activate Window (%1)"
 msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
@@ -698,12 +622,12 @@ msgctxt "keyboard shortcut '%1' is used by action '%2' in application '%3'"
 msgid "<b>%1</b> is used by %2 in %3"
 msgstr ""
 
-#: workspace.cpp:1086 workspace.cpp:1108
+#: workspace.cpp:1091 workspace.cpp:1113
 #, kde-format
 msgid "Desktop %1"
 msgstr "ডেস্কট'প %1"
 
-#: workspace.cpp:1857
+#: workspace.cpp:1866
 #, kde-format
 msgid ""
 "You have selected to show a window without its border.\n"
@@ -712,7 +636,7 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 
-#: workspace.cpp:1869
+#: workspace.cpp:1878
 #, kde-format
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"
@@ -821,6 +745,46 @@ msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন ক�
 #: tabbox/tabbox.cpp:348
 msgid "Walk Through Desktop List (Reverse)"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#, fuzzy
+#~| msgid "Switch to Desktop 1"
+#~ msgid "Switch Focus Left"
+#~ msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
+
+#, fuzzy
+#~| msgid "Switch One Desktop Up"
+#~ msgid "Switch Focus Up"
+#~ msgstr "উপৰৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#, fuzzy
+#~| msgid "Switch One Desktop Down"
+#~ msgid "Switch Focus Down"
+#~ msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
+
+#, fuzzy
+#~| msgid "Move Window"
+#~ msgid "Move Window Left"
+#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+
+#, fuzzy
+#~| msgid "Move Window"
+#~ msgid "Move Window Right"
+#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+
+#, fuzzy
+#~| msgid "Move Window"
+#~ msgid "Move Window Up"
+#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+
+#, fuzzy
+#~| msgid "Move Window"
+#~ msgid "Move Window Down"
+#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
+
+#, fuzzy
+#~| msgid "Disabled"
+#~ msgid "Tiling Disabled"
+#~ msgstr "নিষ্ক্ৰিয় কৰক"
 
 #~ msgid "Mouse Emulation"
 #~ msgstr "মাউছ এমুলেছন"
