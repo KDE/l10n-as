@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-03 04:52+0200\n"
-"PO-Revision-Date: 2011-07-18 20:01+0530\n"
+"PO-Revision-Date: 2011-07-29 17:59+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,109 +24,110 @@ msgstr "স্বাভাৱিক"
 #: process.cpp:38 process.cpp:48
 msgctxt "Process Niceness"
 msgid "Very low priority"
-msgstr ""
+msgstr "অতি নিম্ন প্ৰাথমিকতা"
 
 #: process.cpp:39 process.cpp:49
 msgctxt "Process Niceness"
 msgid "Low priority"
-msgstr ""
+msgstr "নিম্ন প্ৰাথমিকতা"
 
 #: process.cpp:40 process.cpp:50
 msgctxt "Process Niceness"
 msgid "Very high priority"
-msgstr ""
+msgstr "অতি উচ্চ প্ৰাথমিকতা"
 
 #: process.cpp:41 process.cpp:51
 msgctxt "Process Niceness"
 msgid "High priority"
-msgstr ""
+msgstr "উচ্চ প্ৰাথমিকতা"
 
 #: process.cpp:58
 msgctxt "Priority Class"
 msgid "None"
-msgstr ""
+msgstr "কোনো নহয়"
 
 #: process.cpp:59
 msgctxt "Priority Class"
 msgid "Real Time"
-msgstr ""
+msgstr "প্ৰকৃত সময়"
 
 #: process.cpp:60
 msgctxt "Priority Class"
 msgid "Best Effort"
-msgstr ""
+msgstr "উত্তম চেষ্টা"
 
 #: process.cpp:61
 msgctxt "Priority Class"
 msgid "Idle"
-msgstr ""
+msgstr "অলস"
 
 #: process.cpp:62
 msgctxt "Priority Class"
 msgid "Unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: process.cpp:68
 msgctxt "process status"
 msgid "running"
-msgstr ""
+msgstr "চলি আছে"
 
 #: process.cpp:69
 msgctxt "process status"
 msgid "sleeping"
-msgstr ""
+msgstr "শুই আছে"
 
 #: process.cpp:70
 msgctxt "process status"
 msgid "disk sleep"
-msgstr ""
+msgstr "ডিস্ক নিদ্ৰা"
 
 #: process.cpp:71
 msgctxt "process status"
 msgid "zombie"
-msgstr ""
+msgstr "জম্বি"
 
 #: process.cpp:72
 msgctxt "process status"
 msgid "stopped"
-msgstr ""
+msgstr "বন্ধ কৰা হ'ল"
 
 #: process.cpp:73
 msgctxt "process status"
 msgid "paging"
-msgstr ""
+msgstr "পৃষ্ঠাকৰণ"
 
 #: process.cpp:74
 msgctxt "process status"
 msgid "finished"
-msgstr ""
+msgstr "সমাপ্ত কৰা হ'ল"
 
 #: process.cpp:75
 msgctxt "process status"
 msgid "unknown"
-msgstr ""
+msgstr "অজ্ঞাত"
 
 #: process.cpp:81
 msgctxt "Scheduler"
 msgid "FIFO"
-msgstr ""
+msgstr "FIFO"
 
 #: process.cpp:82
 msgctxt "Scheduler"
 msgid "Round Robin"
-msgstr ""
+msgstr "Round Robin"
 
 #: process.cpp:83
 msgctxt "Scheduler"
 msgid "Interactive"
-msgstr ""
+msgstr "ভাৱ-বিনিময়ী"
 
 #: process.cpp:84
 msgctxt "Scheduler"
 msgid "Batch"
-msgstr ""
+msgstr "চাম"
 
 #: process.cpp:85
 msgctxt "Scheduler"
 msgid "Idle"
-msgstr ""
+msgstr "অলস"
+
