@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-05-12 04:54+0200\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-29 16:37+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,48 +18,49 @@ msgstr ""
 
 #: main.cpp:49
 msgid "Run Plasma widgets in their own window"
-msgstr ""
+msgstr "প্লাচমা উইন্ডোসমূহক সিহতৰ নিজৰ উইন্ডোত চলাওক"
 
 #: main.cpp:100
 msgid "No description available"
-msgstr ""
+msgstr "কোনো বিৱৰণ উপলব্ধ নাই"
 
 #: main.cpp:117
 msgid "Plasma Widget Viewer"
-msgstr ""
+msgstr "প্লাচমা উইজেট দৰ্শক"
 
 #: main.cpp:119
 msgid "2007-2008, Frerich Raabe"
-msgstr ""
+msgstr "২০০৭-২০০৮, ফ্ৰেৰিক ৰাবে"
 
 #: main.cpp:121
 msgid "Frerich Raabe"
-msgstr ""
+msgstr "ফ্ৰেৰিক ৰাবে"
 
 #: main.cpp:122
 msgid "Original author"
-msgstr ""
+msgstr "প্ৰকৃত লেখক"
 
 #: main.cpp:129
 msgid "Name of the containment plugin"
-msgstr ""
+msgstr "অন্তৰ্ভুক্ত প্লাগিনৰ নাম"
 
 #: main.cpp:131
 msgctxt "Do not translate horizontal, vertical, mediacenter nor planar"
 msgid "The formfactor to use (horizontal, vertical, mediacenter or planar)"
 msgstr ""
+"ব্যৱহাৰ কৰিব লগিয়া ফৰ্মফেক্টৰ (আনুভূমিক, উলম্ব, মাধ্যমকেন্দ্ৰ অথবা প্লেনাৰ)"
 
 #: main.cpp:132
 msgid "Displays a list of known applets"
-msgstr ""
+msgstr "জ্ঞাত এপ্লেটসমূহৰ এটা তালিকা প্ৰদৰ্শন কৰে"
 
 #: main.cpp:133
 msgid "Displays a list of known wallpapers"
-msgstr ""
+msgstr "জ্ঞাত ৱালপেপাৰসমূহৰ এটা তালিকা প্ৰদৰ্শন কৰে"
 
 #: main.cpp:134
 msgid "Displays a list of known containments"
-msgstr ""
+msgstr "জ্ঞাত অন্তৰ্ভুক্তসমূহৰ এটা তালিকা প্ৰদৰ্শন কৰে"
 
 #: main.cpp:136
 msgctxt ""
@@ -68,31 +69,38 @@ msgid ""
 "The location constraint to start the Containment with (floating, desktop, "
 "fullscreen, top, bottom, left, right)"
 msgstr ""
+"অন্তৰ্ভুক্ত আৰম্ভ কৰিবলে অৱস্থান বাধা (উপঙি থকা, ডেস্কটপ, সম্পূৰ্ণপৰ্দা, "
+"উপৰ, তল, বাঁও, সোঁ)"
 
 #: main.cpp:138
 msgid "The size in KB to set the pixmap cache to"
-msgstr ""
+msgstr "পিক্সমেপ ক্যাশ সংহতি কৰিবলে KB -ত আকাৰ"
 
 #: main.cpp:140
 msgid ""
 "Takes a screenshot of the widget and saves it the working directory as "
 "<pluginname>.png"
 msgstr ""
+"উইজেটৰ স্ক্ৰিনশ্বট লয় আৰু কাম কৰি থকা ডাইৰেকটৰিত <pluginname>.png হিচাপে "
+"সঞ্চয় কৰে"
 
 #: main.cpp:141
 msgid ""
 "Takes a screenshot of each widget and saves it the working directory as "
 "<pluginname>.png"
 msgstr ""
+"প্ৰতিটো উইজেটৰ এটা স্ক্ৰিনশ্বট লয় আৰু ইয়াক কাম কৰি থকা ডাইৰেকটৰিত <"
+"pluginname>.png "
+"হিচাপে সঞ্চয় কৰে"
 
 #: main.cpp:143
 msgid "Desktop SVG theme to use"
-msgstr ""
+msgstr "ব্যৱহাৰ কৰিব লগিয়া ডেস্কটপ SVG থীম"
 
 #: main.cpp:145
 msgid ""
 "Name of the wallpaper plugin. Requires a containment plugin to be specified."
-msgstr ""
+msgstr "ৱালপেপাৰ প্লাগিনৰ নাম। এটা অন্তৰ্ভুক্ত প্লাগিন ধাৰ্য্য কৰাৰ প্ৰয়োজন।"
 
 #: main.cpp:146
 msgid ""
@@ -100,21 +108,27 @@ msgid ""
 "or relative) to a package. If not provided, then an attempt is made to load "
 "a package from the current directory."
 msgstr ""
+"দৰ্শন কৰিব লগিয়া এপ্লেটৰ নাম; এটা প্লাগিন নাম অথবা এটা পেকেইজৰ পথ (প্ৰকৃত "
+"অথবা প্ৰাসংগিক) "
+"-লে প্ৰসংগ কৰিব পাৰে। যদি দিয়া হোৱা নাই, তেন্তে বৰ্তমান ডাইৰেকটৰিৰ পৰা "
+"পেকেইজ লোড কৰাৰ "
+"এটা চেষ্টা কৰা হয়।"
 
 #: main.cpp:149
 msgid "Optional arguments of the applet to add"
-msgstr ""
+msgstr "যোগ কৰিব লগিয়া এপ্লেটৰ বিকল্পিক তৰ্কসমূহ"
 
 #: main.cpp:150
 msgid "List zeroconf announced remote widgets"
-msgstr ""
+msgstr "zeroconf দ্বাৰা ঘোষণা কৰা দূৰৱৰ্তী উইজেটসমূহ তালিকাভুক্ত কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
+
