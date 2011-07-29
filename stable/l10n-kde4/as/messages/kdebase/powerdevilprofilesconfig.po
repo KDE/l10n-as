@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-01-17 02:23+0100\n"
-"PO-Revision-Date: 2011-07-18 20:50+0530\n"
+"PO-Revision-Date: 2011-07-29 17:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,53 +18,57 @@ msgstr ""
 
 #: EditPage.cpp:69
 msgid "Power Profiles Configuration"
-msgstr ""
+msgstr "শক্তি আলেখ্যসমূহ সংৰূপণ"
 
 #: EditPage.cpp:70
 msgid "A profile configurator for KDE Power Management System"
 msgstr ""
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ বাবে এটা বিশ্বব্যাপী শক্তি ব্যৱস্থাপনা সংৰূপক"
 
 #: EditPage.cpp:71
 msgid "(c), 2010 Dario Freddi"
-msgstr ""
+msgstr "(c), ২০১০ ডাৰিঅ' ফ্ৰেডি"
 
 #: EditPage.cpp:72
 msgid ""
 "From this module, you can manage KDE Power Management System's power "
 "profiles, by tweaking existing ones or creating new ones."
 msgstr ""
+"এই মডিউলৰ পৰা, আপুনি KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ শক্তি আলেখ্যসমূহ "
+"ব্যৱস্থাপনা কৰিব পাৰিব, "
+"স্থায়ীসমূহক পকোৱাই অথবা নতুন সৃষ্টি কৰি।"
 
 #: EditPage.cpp:75
 msgid "Dario Freddi"
-msgstr ""
+msgstr "ডাৰিঅ' ফ্ৰেডি"
 
 #: EditPage.cpp:75
 msgid "Maintainer"
-msgstr ""
+msgstr "ব্যৱস্থাপক"
 
 #: EditPage.cpp:402
 msgid "Please enter a name for the new profile:"
-msgstr ""
+msgstr "অনুগ্ৰহ কৰি নতুন আলেখ্যৰ বাবে এটা নাম সোমাওক:"
 
 #: EditPage.cpp:404 EditPage.cpp:407 EditPage.cpp:460 EditPage.cpp:463
 msgid "The name for the new profile"
-msgstr ""
+msgstr "নতুন আলেখ্যৰ বাবে নাম"
 
 #: EditPage.cpp:405 EditPage.cpp:408 EditPage.cpp:461 EditPage.cpp:464
 msgid "Enter here the name for the profile you are creating"
-msgstr ""
+msgstr "আপুনি সৃষ্টি কৰি থকা আলেখ্যৰ বাবে ইয়াত নাম সোমাওক"
 
 #: EditPage.cpp:458
 msgid "Please enter a name for this profile:"
-msgstr ""
+msgstr "এই আলেখ্যৰ বাবে অনুগ্ৰহ কৰি এটা নাম সোমাওক:"
 
 #: EditPage.cpp:489
 msgid "Import Power Management Profiles"
-msgstr ""
+msgstr "শক্তি ব্যৱস্থাপনা আলেখ্যসমূহ ইমপোৰ্ট কৰক"
 
 #: EditPage.cpp:517
 msgid "Export Power Management Profiles"
-msgstr ""
+msgstr "শক্তি ব্যৱস্থাপনা আলেখ্যসমূহ এক্সপোৰ্ট কৰক"
 
 #: EditPage.cpp:535
 msgid ""
@@ -72,59 +76,67 @@ msgid ""
 "based on your computer's capabilities. This will also erase all existing "
 "profiles. Are you sure you want to continue?"
 msgstr ""
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেমে আপোনাৰ কমপিউটাৰৰ ক্ষমতাৰ উপৰত ভিত্তি কৰি "
+"অবিকল্পিত আলেখ্যসমূহৰ "
+"এটা সংহতি সৃজন কৰিব। ই লগতে সকলো অস্তিত্ববান আলেখ্য মচি পেলাব। আপুনি "
+"নিশ্চিত নে আপুনি আগবাঢ়িব "
+"বিচাৰে?"
 
 #. i18n: file: profileEditPage.ui:81
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
 #: EditPage.cpp:538 rc.cpp:17
 msgid "Restore Default Profiles"
-msgstr ""
+msgstr "অবিকল্পিত আলেখ্যসমূহ পুনৰ সংৰক্ষণ কৰক"
 
 #: EditPage.cpp:570
 msgid ""
 "The current profile has not been saved.\n"
 "Do you want to save it?"
 msgstr ""
+"বৰ্তমান আলেখ্য সঞ্চয় কৰা হোৱা নাই।\n"
+"আপুনি ইয়াক সঞ্চয় কৰিব বিচাৰে নে?"
 
 #: EditPage.cpp:571
 msgid "Save Profile"
-msgstr ""
+msgstr "আলেখ্য সঞ্চয় কৰক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: profileEditPage.ui:61
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
 #: rc.cpp:5
 msgid "New Profile"
-msgstr ""
+msgstr "নতুন আলেখ্য"
 
 #. i18n: file: profileEditPage.ui:66
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
 #: rc.cpp:8
 msgid "Delete Profile"
-msgstr ""
+msgstr "আলেখ্য মচি দিয়ক"
 
 #. i18n: file: profileEditPage.ui:71
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
 #: rc.cpp:11
 msgid "Import Profiles"
-msgstr ""
+msgstr "আলেখ্যসমূহ ইমপোৰ্ট কৰক"
 
 #. i18n: file: profileEditPage.ui:76
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
 #: rc.cpp:14
 msgid "Export Profiles"
-msgstr ""
+msgstr "আলেখ্যসমূহ এক্সপোৰ্ট কৰক"
 
 #. i18n: file: profileEditPage.ui:86
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
 #: rc.cpp:20
 msgid "Edit Profile"
-msgstr ""
+msgstr "আলেখ্য সম্পাদন কৰক"
+
