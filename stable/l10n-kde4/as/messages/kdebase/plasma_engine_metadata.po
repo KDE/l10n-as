@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2010-07-16 05:03+0200\n"
-"PO-Revision-Date: 2011-07-18 20:53+0530\n"
+"PO-Revision-Date: 2011-07-29 12:33+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,84 +19,85 @@ msgstr ""
 #: metadata_engine.cpp:70 metadata_engine.cpp:122
 msgctxt "@label"
 msgid "Size"
-msgstr ""
+msgstr "আকাৰ"
 
 #: metadata_engine.cpp:73 metadata_engine.cpp:116
 msgctxt "@label"
 msgid "Source Modified"
-msgstr ""
+msgstr "উৎস সলনি কৰা হ'ল"
 
 #: metadata_engine.cpp:112
 msgctxt "@label"
 msgid "Model"
-msgstr ""
+msgstr "আৰ্হি"
 
 #: metadata_engine.cpp:113
 msgctxt "@label"
 msgid "Focal Length"
-msgstr ""
+msgstr "ফকেল দৈৰ্ঘ"
 
 #: metadata_engine.cpp:114
 msgctxt "@label"
 msgid "Mime Type"
-msgstr ""
+msgstr "Mime Type"
 
 #: metadata_engine.cpp:115
 msgctxt "@label"
 msgid "Manufacturer"
-msgstr ""
+msgstr "উৎপাদক"
 
 #: metadata_engine.cpp:117
 msgctxt "@label"
 msgid "Orientation"
-msgstr ""
+msgstr "দিশ"
 
 #: metadata_engine.cpp:118
 msgctxt "@label"
 msgid "Flash Used"
-msgstr ""
+msgstr "ব্যৱহাৰ কৰা ফ্লেশ"
 
 #: metadata_engine.cpp:119
 msgctxt "@label"
 msgid "Height"
-msgstr ""
+msgstr "উচ্চতা"
 
 #: metadata_engine.cpp:120
 msgctxt "@label"
 msgid "Width"
-msgstr ""
+msgstr "প্ৰস্থ"
 
 #: metadata_engine.cpp:121
 msgctxt "@label"
 msgid "Url"
-msgstr ""
+msgstr "Url"
 
 #: metadata_engine.cpp:123
 msgctxt "@label"
 msgid "Aperture"
-msgstr ""
+msgstr "বিন্ধা"
 
 #: metadata_engine.cpp:124
 msgctxt "@label"
 msgid "Metering Mode"
-msgstr ""
+msgstr "মিটাৰিং অৱস্থা"
 
 #: metadata_engine.cpp:125
 msgctxt "@label"
 msgid "35mm Equivalent"
-msgstr ""
+msgstr "35mm সমতূল্য"
 
 #: metadata_engine.cpp:126
 msgctxt "@label"
 msgid "File Extension"
-msgstr ""
+msgstr "নথিপত্ৰ প্ৰসাৰন"
 
 #: metadata_engine.cpp:127
 msgctxt "@label"
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #: metadata_engine.cpp:128
 msgctxt "@label"
 msgid "Exposure Time"
-msgstr ""
+msgstr "উদঙা সময়"
+
