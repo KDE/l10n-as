@@ -165,4 +165,3 @@ msgstr "১"
 #: rc.cpp:27
 msgid "2"
 msgstr "২"
-

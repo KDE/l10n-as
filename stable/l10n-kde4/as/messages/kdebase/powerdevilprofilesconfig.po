@@ -22,8 +22,7 @@ msgstr "শক্তি আলেখ্যসমূহ সংৰূপণ"
 
 #: EditPage.cpp:70
 msgid "A profile configurator for KDE Power Management System"
-msgstr ""
-"KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ বাবে এটা বিশ্বব্যাপী শক্তি ব্যৱস্থাপনা সংৰূপক"
+msgstr "KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ বাবে এটা বিশ্বব্যাপী শক্তি ব্যৱস্থাপনা সংৰূপক"
 
 #: EditPage.cpp:71
 msgid "(c), 2010 Dario Freddi"
@@ -34,9 +33,8 @@ msgid ""
 "From this module, you can manage KDE Power Management System's power "
 "profiles, by tweaking existing ones or creating new ones."
 msgstr ""
-"এই মডিউলৰ পৰা, আপুনি KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ শক্তি আলেখ্যসমূহ "
-"ব্যৱস্থাপনা কৰিব পাৰিব, "
-"স্থায়ীসমূহক পকোৱাই অথবা নতুন সৃষ্টি কৰি।"
+"এই মডিউলৰ পৰা, আপুনি KDE শক্তি ব্যৱস্থাপনা চিস্টেমৰ শক্তি আলেখ্যসমূহ ব্যৱস্থাপনা কৰিব "
+"পাৰিব, স্থায়ীসমূহক পকোৱাই অথবা নতুন সৃষ্টি কৰি।"
 
 #: EditPage.cpp:75
 msgid "Dario Freddi"
@@ -76,11 +74,9 @@ msgid ""
 "based on your computer's capabilities. This will also erase all existing "
 "profiles. Are you sure you want to continue?"
 msgstr ""
-"KDE শক্তি ব্যৱস্থাপনা চিস্টেমে আপোনাৰ কমপিউটাৰৰ ক্ষমতাৰ উপৰত ভিত্তি কৰি "
-"অবিকল্পিত আলেখ্যসমূহৰ "
-"এটা সংহতি সৃজন কৰিব। ই লগতে সকলো অস্তিত্ববান আলেখ্য মচি পেলাব। আপুনি "
-"নিশ্চিত নে আপুনি আগবাঢ়িব "
-"বিচাৰে?"
+"KDE শক্তি ব্যৱস্থাপনা চিস্টেমে আপোনাৰ কমপিউটাৰৰ ক্ষমতাৰ উপৰত ভিত্তি কৰি অবিকল্পিত "
+"আলেখ্যসমূহৰ এটা সংহতি সৃজন কৰিব। ই লগতে সকলো অস্তিত্ববান আলেখ্য মচি পেলাব। আপুনি "
+"নিশ্চিত নে আপুনি আগবাঢ়িব বিচাৰে?"
 
 #. i18n: file: profileEditPage.ui:81
 #. i18n: ectx: property (text), widget (QWidget, scrollAreaWidgetContents)
@@ -139,4 +135,3 @@ msgstr "আলেখ্যসমূহ এক্সপোৰ্ট কৰক"
 #: rc.cpp:20
 msgid "Edit Profile"
 msgstr "আলেখ্য সম্পাদন কৰক"
-

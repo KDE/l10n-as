@@ -25,8 +25,7 @@ msgid ""
 "KDE tool for querying and controlling your network interfaces from the "
 "command line"
 msgstr ""
-"কমান্ড শাৰীৰ পৰা আপোনাৰ নেটৱাৰ্ক আন্তঃপৃষ্টসমূহ প্ৰশ্ন আৰু নিয়ন্ত্ৰণ কৰিবলে "
-"KDE সঁজুলি"
+"কমান্ড শাৰীৰ পৰা আপোনাৰ নেটৱাৰ্ক আন্তঃপৃষ্টসমূহ প্ৰশ্ন আৰু নিয়ন্ত্ৰণ কৰিবলে KDE সঁজুলি"
 
 #: solid-network.cpp:365
 msgid "Syntax Error: Not enough arguments"
@@ -60,8 +59,7 @@ msgstr "             # উপলব্ধ নেটৱাৰ্ক ডিভা�
 msgid ""
 "             # List the networks known to the device specified by 'uni'.\n"
 msgstr ""
-"             #  'uni' -ৰে ধাৰ্য্যত ডিভাইচলে জ্ঞাত নেটৱাৰ্কসমূহ তালিকাভুক্ত "
-"কৰক।\n"
+"             #  'uni' -ৰে ধাৰ্য্যত ডিভাইচলে জ্ঞাত নেটৱাৰ্কসমূহ তালিকাভুক্ত কৰক।\n"
 
 #: solid-network.cpp:408
 msgid ""
@@ -88,8 +86,7 @@ msgstr ""
 "             # - যদি  'interface' বিকল্প দিয়া আছে, 'uni' -এ প্ৰসংগ কৰা\n"
 "             # নেটৱাৰ্ক আন্তঃপৃষ্টৰ বৈশিষ্টসমূহ প্ৰিন্ট কৰক।\n"
 "             # - যদি 'network' বিকল্প দিয়া আছে, 'device-uni' -ত \n"
-"             # 'network-uni'  -এ প্ৰসংগ কৰা বৈশিষ্টসমূহ"
-"প্ৰিনট কৰক।\n"
+"             # 'network-uni'  -এ প্ৰসংগ কৰা বৈশিষ্টসমূহপ্ৰিনট কৰক।\n"
 
 #: solid-network.cpp:421 solid-network.cpp:424
 msgid "             # Enable or disable networking on this system.\n"
@@ -107,8 +104,7 @@ msgid ""
 "             # wpaeap UNIMPLEMENTED IN SOLIDSHELL\n"
 msgstr ""
 "             # 'device-uni' -ত  'network-uni' নেটৱাৰ্ক সক্ৰিয় কৰক।\n"
-"             # বিকল্পভাৱে, WEP128 ব্যৱহাৰ কৰক, মুক্ত-চিস্টেম ইনক্ৰিপষণ hex "
-"কি "
+"             # বিকল্পভাৱে, WEP128 ব্যৱহাৰ কৰক, মুক্ত-চিস্টেম ইনক্ৰিপষণ hex কি "
 "'key' -ৰ হৈতে। (কঠিনভাৱে কোড কৰা)\n"
 "             # যত 'authentication'  ইয়াৰ যিকোনো এটা :\n"
 "             # wep hex64|ascii64|hex128|ascii128|passphrase64|passphrase128 "
@@ -193,4 +189,3 @@ msgstr "প্ৰগতি: %1%"
 #, kde-format
 msgid "Info: %1"
 msgstr "তথ্য: %1"
-
