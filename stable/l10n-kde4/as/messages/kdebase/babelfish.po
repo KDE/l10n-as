@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2011-05-10 04:06+0200\n"
-"PO-Revision-Date: 2011-07-18 21:35+0530\n"
+"PO-Revision-Date: 2011-08-01 12:52+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,65 +18,65 @@ msgstr ""
 
 #: plugin_babelfish.cpp:54
 msgid "Translate Web Page"
-msgstr ""
+msgstr "ৱেবপৃষ্ঠা অনুবাদ কৰক"
 
 #: plugin_babelfish.cpp:65
 msgid "Translate Web &Page"
-msgstr ""
+msgstr "ৱেবপৃষ্ঠা অনুবাদ কৰক (&P)"
 
 #: plugin_babelfish.cpp:101
 msgid "&English To"
-msgstr ""
+msgstr "ইংৰাজীৰ পৰা (&E)"
 
 #: plugin_babelfish.cpp:104
 msgid "&French To"
-msgstr ""
+msgstr "ফৰাচীৰ পৰা (&F)"
 
 #: plugin_babelfish.cpp:107
 msgid "&German To"
-msgstr ""
+msgstr "জাৰ্মানৰ পৰা (&G)"
 
 #: plugin_babelfish.cpp:110
 msgid "&Greek To"
-msgstr ""
+msgstr "গ্ৰীকৰ পৰা (&G)"
 
 #: plugin_babelfish.cpp:113
 msgid "&Spanish To"
-msgstr ""
+msgstr "স্পেনিচৰ পৰা (&S)"
 
 #: plugin_babelfish.cpp:116
 msgid "&Portuguese To"
-msgstr ""
+msgstr "পৰ্তুগীচৰ পৰা (&P)"
 
 #: plugin_babelfish.cpp:119
 msgid "&Italian To"
-msgstr ""
+msgstr "ইতালীয়ৰ পৰা (&I)"
 
 #: plugin_babelfish.cpp:122
 msgid "&Dutch To"
-msgstr ""
+msgstr "ওলন্দাজৰ পৰা (&D)"
 
 #: plugin_babelfish.cpp:125
 msgid "&Russian To"
-msgstr ""
+msgstr "ৰাছিয়ানৰ পৰা (&R)"
 
 #: plugin_babelfish.cpp:141
 msgid "&Chinese (Simplified)"
-msgstr ""
+msgstr "চীনা (সৰলীকৃত) -ৰ পৰা (&C)"
 
 #: plugin_babelfish.cpp:142
 msgid "Chinese (&Traditional)"
-msgstr ""
+msgstr "চীনা (পৰম্পৰাগত) -ৰ পৰা (&T)"
 
 #: plugin_babelfish.cpp:143 plugin_babelfish.cpp:156
 msgid "&Dutch"
-msgstr ""
+msgstr "ওলন্দাজ (&D)"
 
 #: plugin_babelfish.cpp:144 plugin_babelfish.cpp:165 plugin_babelfish.cpp:167
 #: plugin_babelfish.cpp:169 plugin_babelfish.cpp:171 plugin_babelfish.cpp:173
 #: plugin_babelfish.cpp:175 plugin_babelfish.cpp:177
 msgid "&French"
-msgstr ""
+msgstr "ফৰাচী (&F)"
 
 #: plugin_babelfish.cpp:145 plugin_babelfish.cpp:158
 msgid "&German"
@@ -84,93 +84,96 @@ msgstr "জাৰ্মান (&G)"
 
 #: plugin_babelfish.cpp:146 plugin_babelfish.cpp:159
 msgid "&Greek"
-msgstr ""
+msgstr "গ্ৰীক (&G)"
 
 #: plugin_babelfish.cpp:147 plugin_babelfish.cpp:160
 msgid "&Italian"
-msgstr ""
+msgstr "ইতালীয় (&I)"
 
 #: plugin_babelfish.cpp:148
 msgid "&Japanese"
-msgstr ""
+msgstr "জাপানী (&J)"
 
 #: plugin_babelfish.cpp:149
 msgid "&Korean"
-msgstr ""
+msgstr "কোৰিয়ান (&K)"
 
 #: plugin_babelfish.cpp:150
 msgid "&Norwegian"
-msgstr ""
+msgstr "নৰৱেইয়ান (&N)"
 
 #: plugin_babelfish.cpp:151 plugin_babelfish.cpp:161
 msgid "&Portuguese"
-msgstr ""
+msgstr "পৰ্তুগীচ (&P)"
 
 #: plugin_babelfish.cpp:152 plugin_babelfish.cpp:163
 msgid "&Russian"
-msgstr ""
+msgstr "ৰাছিয়ান (&R)"
 
 #: plugin_babelfish.cpp:153 plugin_babelfish.cpp:162
 msgid "&Spanish"
-msgstr ""
+msgstr "স্পেনিচ (&S)"
 
 #: plugin_babelfish.cpp:154
 msgid "T&hai"
-msgstr ""
+msgstr "থাই (&h)"
 
 #: plugin_babelfish.cpp:155
 msgid "&Arabic"
-msgstr ""
+msgstr "আৰবী (&A)"
 
 #: plugin_babelfish.cpp:157 plugin_babelfish.cpp:164 plugin_babelfish.cpp:166
 #: plugin_babelfish.cpp:168 plugin_babelfish.cpp:170 plugin_babelfish.cpp:172
 #: plugin_babelfish.cpp:174 plugin_babelfish.cpp:176
 msgid "&English"
-msgstr ""
+msgstr "ইংৰাজী (&E)"
 
 #: plugin_babelfish.cpp:199
 msgid "&Chinese (Simplified) to English"
-msgstr ""
+msgstr "চীনা (সৰলীকৃত) -ৰ পৰা ইংৰাজীলৈ (&C)"
 
 #: plugin_babelfish.cpp:200
 msgid "Chinese (&Traditional) to English"
-msgstr ""
+msgstr "চীনা (পৰম্পৰাগত) -ৰ পৰা ইংগাৰাজীলৈ (&T)"
 
 #: plugin_babelfish.cpp:209
 msgid "&Japanese to English"
-msgstr ""
+msgstr "জাপানীৰ পৰা ইংৰাজীলৈ (&J)"
 
 #: plugin_babelfish.cpp:210
 msgid "&Korean to English"
-msgstr ""
+msgstr "কৰিয়ানৰ পৰা ইংৰাজীলৈ (&K)"
 
 #: plugin_babelfish.cpp:291
 msgctxt "@title:window"
 msgid "Malformed URL"
-msgstr ""
+msgstr "ক্ষতিগ্ৰস্থ URL"
 
 #: plugin_babelfish.cpp:292
 msgid "The URL you entered is not valid, please correct it and try again."
 msgstr ""
+"আপুনি সোমোৱা URL বৈধ নহয়, অনুগ্ৰহ কৰি ইয়াক শুদ্ধ কৰক আৰু পুনৰ চেষ্টা "
+"কৰক।"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "নীলমদ্যুতি গোস্বামী"
 
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "ngoswami@redhat.com"
 
 #. i18n: file: plugin_babelfish.rc:4
 #. i18n: ectx: Menu (tools)
 #: rc.cpp:5
 msgid "&Tools"
-msgstr ""
+msgstr "সঁজুলিসমূহ (&T)"
 
 #. i18n: file: plugin_babelfish.rc:8
 #. i18n: ectx: ToolBar (extraToolBar)
 #: rc.cpp:8
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "অতিৰিক্ত টুলবাৰ"
+
