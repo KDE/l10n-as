@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:47+0200\n"
+"POT-Creation-Date: 2011-08-04 13:54+0200\n"
 "PO-Revision-Date: 2011-07-28 20:46+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -17,75 +17,75 @@ msgstr ""
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: ui/applet.cpp:469
+#: ui/applet.cpp:451
 msgid "Display"
 msgstr "প্ৰদৰ্শন কৰক"
 
-#: ui/applet.cpp:471
+#: ui/applet.cpp:453
 msgid "Choose which information to show"
 msgstr "কোন তথ্য দেখুৱা হ'ব বাছক"
 
-#: ui/applet.cpp:472
+#: ui/applet.cpp:454
 msgid "Entries"
 msgstr "প্ৰবিষ্টিসমূহ"
 
-#: ui/applet.cpp:532
+#: ui/applet.cpp:514
 msgctxt "Item will be automatically shown or hidden from the systray"
 msgid "Auto"
 msgstr "স্বচালিত"
 
-#: ui/applet.cpp:533
+#: ui/applet.cpp:515
 msgctxt "Item is never visible in the systray"
 msgid "Hidden"
 msgstr "লুকাই থকা"
 
-#: ui/applet.cpp:534
+#: ui/applet.cpp:516
 msgctxt "Item is always visible in the systray"
 msgid "Always Visible"
 msgstr "সদায় দৃশ্যমান"
 
-#: ui/applet.cpp:574
+#: ui/applet.cpp:556
 msgctxt "Categories of items in the systemtray that will be shown or hidden"
 msgid "Shown Item Categories"
 msgstr "বস্তু বিভাগসমূহ দেখুৱাওক"
 
-#: ui/applet.cpp:577
+#: ui/applet.cpp:559
 msgctxt "Systemtray items that describe the status of a generic application"
 msgid "Application status"
 msgstr "অনুপ্ৰয়োগ অৱস্থা"
 
-#: ui/applet.cpp:587
+#: ui/applet.cpp:569
 msgctxt "Items communication related, such as chat or email clients"
 msgid "Communications"
 msgstr "যোগাযোগসমূহ"
 
-#: ui/applet.cpp:597
+#: ui/applet.cpp:579
 msgctxt "Items about the status of the system, such as a filesystem indexer"
 msgid "System services"
 msgstr "চিস্টেম সেৱাসমূহ"
 
-#: ui/applet.cpp:607
+#: ui/applet.cpp:589
 msgctxt "Items about hardware, such as battery or volume control"
 msgid "Hardware control"
 msgstr "হাৰ্ডৱেৰ নিয়ন্ত্ৰণ"
 
-#: ui/applet.cpp:617
+#: ui/applet.cpp:599
 msgctxt "Other uncategorized systemtray items"
 msgid "Miscellaneous"
 msgstr "বিভিন্ন"
 
-#: ui/applet.cpp:636
+#: ui/applet.cpp:618
 msgctxt ""
 "Extra items to be manually added in the systray, such as little Plasma "
 "widgets"
 msgid "Extra Items"
 msgstr "অতিৰিক্ত বস্তুবোৰ"
 
-#: ui/taskarea.cpp:495
+#: ui/taskarea.cpp:514
 msgid "Hide icons"
 msgstr "আইকনসমূহ লুকাওক"
 
-#: ui/taskarea.cpp:497
+#: ui/taskarea.cpp:516
 msgid "Show hidden icons"
 msgstr "লুকাই থকা আইকনসমূহ দেখুৱাওক"
 
