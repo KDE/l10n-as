@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-08-18 10:19+0200\n"
 "PO-Revision-Date: 2011-07-18 20:18+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -462,14 +462,14 @@ msgstr "পৰৱৰ্তী বিন্যাস"
 msgid "Previous Layout"
 msgstr "পূৰ্বৱৰ্তী বিন্যাস"
 
-#: main.cpp:178
+#: main.cpp:179
 msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
 "started.\n"
 msgstr ""
 "kwin: সম্ভৱতঃ এটা উইন্ডো ব্যৱস্থাপক বৰ্তমানে চলি আছে । kwin আৰম্ভ কৰা নহল। ।\n"
 
-#: main.cpp:206
+#: main.cpp:207
 msgid ""
 "KWin is unstable.\n"
 "It seems to have crashed several times in a row.\n"
@@ -479,7 +479,7 @@ msgstr ""
 "একাধিক বাৰ বিপৰ্যস্ত হৈছে ।\n"
 "আপুনি কোনো পৃথক উইন্ডো ব্যৱস্থাপক নিৰ্ব্বাচন কৰিব পাৰে:"
 
-#: main.cpp:263
+#: main.cpp:264
 msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using --"
 "replace)\n"
@@ -487,55 +487,55 @@ msgstr ""
 "kwin: ব্যৱস্থাপক ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক উইন্ডো ব্যৱস্থাপক বৰ্তমানে চলি আছে "
 "নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
-#: main.cpp:394
+#: main.cpp:395
 msgid "KDE window manager"
 msgstr "KDE উইন্ডো ব্যৱস্থাপক"
 
-#: main.cpp:452 killer/killer.cpp:40
+#: main.cpp:455 killer/killer.cpp:40
 msgid "KWin"
 msgstr "KWin"
 
-#: main.cpp:456
+#: main.cpp:459
 msgid "(c) 1999-2008, The KDE Developers"
 msgstr "(c) ১৯৯৯-২০০৮,  KDE উন্নয়নকাৰীসমূহ"
 
-#: main.cpp:457
+#: main.cpp:460
 msgid "Matthias Ettrich"
 msgstr "মেথিয়াছ এট্ৰিক"
 
-#: main.cpp:458
+#: main.cpp:461
 msgid "Cristian Tibirna"
 msgstr "ক্ৰিস্টিয়ান টিবিৰনা"
 
-#: main.cpp:459
+#: main.cpp:462
 msgid "Daniel M. Duley"
 msgstr "ডেনিয়েল.এম.ডুলে"
 
-#: main.cpp:460
+#: main.cpp:463
 msgid "Luboš Luňák"
 msgstr "লুবোচ লুনাক"
 
-#: main.cpp:461
+#: main.cpp:464
 msgid "Martin Gräßlin"
 msgstr "মাৰ্টিন গ্ৰেবলিন"
 
-#: main.cpp:461
+#: main.cpp:464
 msgid "Maintainer"
 msgstr "পৰিচালক"
 
-#: main.cpp:466
+#: main.cpp:469
 msgid "Disable configuration options"
 msgstr "বিন্যাসৰ বিকল্প নিষ্ক্ৰিয় কৰক"
 
-#: main.cpp:467
+#: main.cpp:470
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr "ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত উইন্ডো ব্যৱস্থাপকক প্ৰতিস্থাপন কৰক"
 
-#: main.cpp:468
+#: main.cpp:471
 msgid "Indicate that KWin has recently crashed n times"
 msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰক"
 
-#: main.cpp:469
+#: main.cpp:472
 msgid "Load the script testing dialog"
 msgstr "স্ক্ৰিপ্ট পৰিক্ষা কৰা ডাইলগ লোড কৰক"
 

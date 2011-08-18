@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-16 18:39+0200\n"
+"POT-Creation-Date: 2011-08-18 10:23+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1591,7 +1591,7 @@ msgstr "বিৱৰণ:"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:223
 #. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
-#: rc.cpp:844 knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:105
+#: rc.cpp:844 knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:104
 #, fuzzy
 #| msgid "Changelog"
 msgid "Changelog:"
@@ -12548,42 +12548,6 @@ msgstr[1] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হ
 msgid "Installing"
 msgstr "সংস্থাপন কৰক"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:91
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "Details for %1"
-msgstr "মন্তব্য"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:111
-#, fuzzy
-#| msgid "Homepage"
-msgctxt "A link to the description of this Get Hot New Stuff item"
-msgid "Homepage"
-msgstr "হোম পৃষ্ঠা"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:114
-#, fuzzy
-#| msgid "HTML documentation"
-msgctxt ""
-"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
-msgid "Make a donation"
-msgstr "HTML নথিপত্ৰ"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:118
-#, kde-format
-msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
-msgid "Knowledgebase (no entries)"
-msgid_plural "Knowledgebase (%1 entries)"
-msgstr[0] ""
-msgstr[1] ""
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:121
-#, fuzzy
-#| msgid "Open in New &Window"
-msgctxt "Tooltip for a link in a dialog"
-msgid "Opens in a browser window"
-msgstr "নতুন সংযোগক্ষেত্ৰত খোলা হ'ব (&W)"
-
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:100
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:259
 #, fuzzy, kde-format
@@ -12635,6 +12599,42 @@ msgstr "উন্নয়ন কৰক"
 #| msgid "Install"
 msgid "Install Again"
 msgstr "সংস্থাপন কৰক"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:90
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "Details for %1"
+msgstr "মন্তব্য"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:110
+#, fuzzy
+#| msgid "Homepage"
+msgctxt "A link to the description of this Get Hot New Stuff item"
+msgid "Homepage"
+msgstr "হোম পৃষ্ঠা"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:113
+#, fuzzy
+#| msgid "HTML documentation"
+msgctxt ""
+"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+msgid "Make a donation"
+msgstr "HTML নথিপত্ৰ"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:117
+#, kde-format
+msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
+msgid "Knowledgebase (no entries)"
+msgid_plural "Knowledgebase (%1 entries)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:120
+#, fuzzy
+#| msgid "Open in New &Window"
+msgctxt "Tooltip for a link in a dialog"
+msgid "Opens in a browser window"
+msgstr "নতুন সংযোগক্ষেত্ৰত খোলা হ'ব (&W)"
 
 #: knotify/config/knotifyconfigwidget.cpp:107
 msgid "Configure Notifications"
