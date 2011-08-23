@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 06:04+0000\n"
+"POT-Creation-Date: 2011-08-23 15:08+0000\n"
 "PO-Revision-Date: 2011-07-11 18:43+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -142,12 +142,12 @@ msgctxt "Name"
 msgid "Change Password"
 msgstr "পাছৱাৰ্ড সলনি কৰক"
 
-#: keditbookmarks/keditbookmarks.desktop:6
+#: keditbookmarks/keditbookmarks.desktop:5
 msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "পত্ৰচিহ্নৰ সম্পাদক"
 
-#: keditbookmarks/keditbookmarks.desktop:71
+#: keditbookmarks/keditbookmarks.desktop:70
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr "পত্ৰচিহ্ন সংঘঠক আৰু সম্পাদক"
