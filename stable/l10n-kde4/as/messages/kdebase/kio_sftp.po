@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-08-26 10:27+0200\n"
 "PO-Revision-Date: 2011-07-28 14:50+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kio_sftp.cpp:200 kio_sftp.cpp:204 kio_sftp.cpp:668
+#: kio_sftp.cpp:200 kio_sftp.cpp:204 kio_sftp.cpp:667
 msgid "SFTP Login"
 msgstr "SFTP লগিন"
 
@@ -29,48 +29,48 @@ msgstr "এই প্ৰশ্নৰ উত্তৰ দিবলে ব্য�
 msgid "Could not allocate callbacks"
 msgstr "কলবেকসমূহ আবন্টন কৰিব নোৱাৰি"
 
-#: kio_sftp.cpp:468
+#: kio_sftp.cpp:465
 #, kde-format
 msgid "Opening SFTP connection to host %1:%2"
 msgstr "হস্ট %1 লে SFTP সংযোগ খোলা হৈ আছে:%2"
 
-#: kio_sftp.cpp:472
+#: kio_sftp.cpp:469
 msgid "No hostname specified."
 msgstr "হস্টনাম ধাৰ্য্য কৰা হোৱা নাই।"
 
-#: kio_sftp.cpp:502
+#: kio_sftp.cpp:501
 msgid "Could not create a new SSH session."
 msgstr "এটা নতুন SSH অধিৱেশন সৃষ্টি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:511 kio_sftp.cpp:516
+#: kio_sftp.cpp:510 kio_sftp.cpp:515
 msgid "Could not set a timeout."
 msgstr "এটা সময়অন্ত সংহতি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:523 kio_sftp.cpp:529
+#: kio_sftp.cpp:522 kio_sftp.cpp:528
 msgid "Could not set compression."
 msgstr "সংকোচন সংহতি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:536
+#: kio_sftp.cpp:535
 msgid "Could not set host."
 msgstr "হস্ট সংহতি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:543
+#: kio_sftp.cpp:542
 msgid "Could not set port."
 msgstr "পোৰ্ট সংহতি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:552
+#: kio_sftp.cpp:551
 msgid "Could not set username."
 msgstr "ব্যৱহাৰকাৰীনাম সংহতি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:561
+#: kio_sftp.cpp:560
 msgid "Could not set log verbosity."
 msgstr "লগ ভাৰ্বোচিটি সংহতি কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:569
+#: kio_sftp.cpp:568
 msgid "Could not parse the config file."
 msgstr "সংৰূপ নথিপত্ৰ বিশ্লেষণ কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:604
+#: kio_sftp.cpp:603
 #, kde-format
 msgid ""
 "The host key for this server was not found, but another type of key exists.\n"
@@ -85,7 +85,7 @@ msgstr ""
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।\n"
 "%1"
 
-#: kio_sftp.cpp:615
+#: kio_sftp.cpp:614
 #, kde-format
 msgid ""
 "The host key for the server %1 has changed.\n"
@@ -104,11 +104,11 @@ msgstr ""
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম প্ৰশাসকক যোগাযোগ কৰক।\n"
 "%3"
 
-#: kio_sftp.cpp:628
+#: kio_sftp.cpp:627
 msgid "Warning: Cannot verify host's identity."
 msgstr "সতৰ্কবাৰ্তা: হস্টৰ পৰিচয় সতাসত্য নিৰূপণ কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:629
+#: kio_sftp.cpp:628
 #, kde-format
 msgid ""
 "The authenticity of host %1 cannot be established.\n"
@@ -119,23 +119,23 @@ msgstr ""
 "চাবি ফিন্গাৰপ্ৰিন্ট হ'ল: %2\n"
 "আপুনি নিশ্চিত নে আপুনি সংযোগ কৰা চলাই থাকিব বিচাৰে?"
 
-#: kio_sftp.cpp:660 kio_sftp.cpp:680 kio_sftp.cpp:694 kio_sftp.cpp:736
+#: kio_sftp.cpp:659 kio_sftp.cpp:679 kio_sftp.cpp:693 kio_sftp.cpp:739
 msgid "Authentication failed."
 msgstr "প্ৰমাণীকৰণ ব্যৰ্থ।"
 
-#: kio_sftp.cpp:669
+#: kio_sftp.cpp:668
 msgid "Please enter your username and password."
 msgstr "অনুগ্ৰহ কৰি আপোনাৰ ব্যৱহাৰকাৰীনাম আৰু পাছৱাৰ্ড সোমাওক।"
 
-#: kio_sftp.cpp:671
+#: kio_sftp.cpp:670
 msgid "site:"
 msgstr "ছাইট:"
 
-#: kio_sftp.cpp:711
+#: kio_sftp.cpp:710
 msgid "Incorrect username or password"
 msgstr "ভুল ব্যৱহাৰকাৰীনাম অথবা পাছৱাৰ্ড"
 
-#: kio_sftp.cpp:749
+#: kio_sftp.cpp:752
 msgid ""
 "Unable to request the SFTP subsystem. Make sure SFTP is enabled on the "
 "server."
@@ -143,16 +143,16 @@ msgstr ""
 "SFTP উপপ্ৰণালী অনুৰোধ কৰিবলে ব্যৰ্থ। সুনিশ্চিত কৰক যে SFTP চাৰ্ভাৰত সামৰ্থবান কৰা "
 "আছে।"
 
-#: kio_sftp.cpp:757
+#: kio_sftp.cpp:760
 msgid "Could not initialize the SFTP session."
 msgstr "SFTP অধিবেশন আৰম্ভ কৰিব নোৱাৰি।"
 
-#: kio_sftp.cpp:762
+#: kio_sftp.cpp:765
 #, kde-format
 msgid "Successfully connected to %1"
 msgstr "%1 -লে সফলভাৱে সংযোগ কৰা হ'ল"
 
-#: kio_sftp.cpp:1283
+#: kio_sftp.cpp:1291
 #, kde-format
 msgid ""
 "Could not change permissions for\n"
@@ -161,7 +161,7 @@ msgstr ""
 "%1 -ৰ বাবে অনুমতিসমূহ সলনি কৰিব\n"
 "নোৱাৰি"
 
-#: kio_sftp.cpp:1456
+#: kio_sftp.cpp:1464
 #, kde-format
 msgid "Could not read link: %1"
 msgstr "লিঙ্ক পঢ়িব নোৱাৰি: %1 "
