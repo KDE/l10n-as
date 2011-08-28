@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:47+0200\n"
+"POT-Creation-Date: 2011-08-28 10:46+0200\n"
 "PO-Revision-Date: 2011-07-28 20:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -101,25 +101,31 @@ msgstr "কেৱল বৰ্তমান কাৰ্য্যৰ পৰা �
 msgid "Only show tasks that are minimized"
 msgstr "কেৱল সৰু থকা কাৰ্য্যবোৰ দেখুৱাওক"
 
-#: taskgroupitem.cpp:300 windowtaskitem.cpp:231
+#: taskgroupitem.cpp:296
+#, kde-format
+msgctxt "@title:group Name of a group of windows"
+msgid "%1"
+msgstr ""
+
+#: taskgroupitem.cpp:301 windowtaskitem.cpp:231
 #, kde-format
 msgctxt "Which virtual desktop a window is currently on"
 msgid "On %1"
 msgstr "%1 -ত"
 
-#: taskgroupitem.cpp:422
+#: taskgroupitem.cpp:423
 msgid "Collapse Group"
 msgstr "দল স্খলন কৰক"
 
-#: taskgroupitem.cpp:425
+#: taskgroupitem.cpp:426
 msgid "Expand Group"
 msgstr "দল প্ৰসাৰিত কৰক"
 
-#: taskgroupitem.cpp:986
+#: taskgroupitem.cpp:987
 msgid "Edit Group"
 msgstr "দল সম্পাদন কৰক"
 
-#: taskgroupitem.cpp:987
+#: taskgroupitem.cpp:988
 msgid "New Group Name: "
 msgstr "নতুন দল নাম: "
 
