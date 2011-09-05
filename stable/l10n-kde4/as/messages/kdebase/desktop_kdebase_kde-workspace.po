@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-04 08:54+0000\n"
+"POT-Creation-Date: 2011-09-05 08:43+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5540,7 +5540,7 @@ msgctxt "Name"
 msgid "Fake NetworkManager 0.9"
 msgstr ""
 
-#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:26
+#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:27
 msgctxt "Comment"
 msgid ""
 "Fake backend to allow kdelibs to read NetworkManager daemon 0.9's status"
