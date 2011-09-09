@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-18 02:45+0000\n"
+"POT-Creation-Date: 2011-09-09 02:45+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Shell"
 msgstr "শ্বেল"
 
-#: data/profiles/Shell.profile:91
+#: data/profiles/Shell.profile:3
 msgctxt "Comment"
 msgid "Konsole default profile"
 msgstr "Konsole ৰ অবিকল্পিত পাৰ্শ্বৰূপ"
@@ -29,7 +29,7 @@ msgctxt "Name"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: desktop/konsole.desktop:102
+#: desktop/konsole.desktop:11
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
@@ -44,52 +44,52 @@ msgctxt "Comment"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: desktop/konsole.notifyrc:95
+#: desktop/konsole.notifyrc:6
 msgctxt "Name"
 msgid "Bell in Visible Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:176
+#: desktop/konsole.notifyrc:7
 msgctxt "Comment"
 msgid "Bell emitted within a visible session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:263
+#: desktop/konsole.notifyrc:11
 msgctxt "Name"
 msgid "Bell in Non-Visible Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:343
+#: desktop/konsole.notifyrc:12
 msgctxt "Comment"
 msgid "Bell emitted within a non-visible session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:431
+#: desktop/konsole.notifyrc:17
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:510
+#: desktop/konsole.notifyrc:18
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:597
+#: desktop/konsole.notifyrc:23
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:676
+#: desktop/konsole.notifyrc:24
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:762
+#: desktop/konsole.notifyrc:28
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr ""
 
-#: desktop/konsole.notifyrc:844
+#: desktop/konsole.notifyrc:29
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr ""
