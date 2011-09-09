@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:47+0200\n"
+"POT-Creation-Date: 2011-09-09 11:37+0200\n"
 "PO-Revision-Date: 2011-07-18 20:53+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -16,6 +16,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: backgrounddialog.cpp:211
+msgid "Desktop Settings"
+msgstr ""
+
+#: backgrounddialog.cpp:216
+msgid "View"
+msgstr ""
+
+#: backgrounddialog.cpp:224
+msgid ""
+"This picture of a monitor contains a preview of what the current settings "
+"will look like on your desktop."
+msgstr ""
+
+#: backgrounddialog.cpp:246
+msgid "Mouse Actions"
+msgstr ""
 
 #: mouseinputbutton.cpp:33
 msgid "Set Trigger..."
@@ -99,10 +117,6 @@ msgstr ""
 msgid "Configure Plugin"
 msgstr ""
 
-#: scripting/layouttemplatepackagestructure.cpp:30
-msgid "Main Script File"
-msgstr ""
-
 #: scripting/containment.cpp:171
 msgid "widgetById requires an id"
 msgstr ""
@@ -125,6 +139,10 @@ msgstr ""
 
 #: scripting/i18n.cpp:97
 msgid "i18ncp() takes at least three arguments"
+msgstr ""
+
+#: scripting/layouttemplatepackagestructure.cpp:30
+msgid "Main Script File"
 msgstr ""
 
 #: scripting/scriptengine.cpp:77 scripting/scriptengine.cpp:193
@@ -152,6 +170,35 @@ msgid ""
 "\n"
 "Backtrace:\n"
 "%3"
+msgstr ""
+
+#: widgetsexplorer/appletsfiltering.cpp:55
+msgid "Categories"
+msgstr ""
+
+#: widgetsexplorer/appletsfiltering.cpp:161
+msgid "Enter Search Term"
+msgstr ""
+
+#: widgetsexplorer/appletsfiltering.cpp:166
+#: widgetsexplorer/appletsfiltering.cpp:168
+msgid "Get New Widgets..."
+msgstr ""
+
+#: widgetsexplorer/appletsfiltering.cpp:309
+msgid "Download New Plasma Widgets"
+msgstr ""
+
+#: widgetsexplorer/appletsfiltering.cpp:321
+#, kde-format
+msgctxt ""
+"%1 is a type of widgets, as defined by e.g. some plasma-packagestructure-*."
+"desktop files"
+msgid "Download New %1"
+msgstr ""
+
+#: widgetsexplorer/appletsfiltering.cpp:331
+msgid "Install Widget From Local File..."
 msgstr ""
 
 #: widgetsexplorer/applettooltip.cpp:124
@@ -217,6 +264,10 @@ msgstr ""
 msgid "Installing the package %1 failed."
 msgstr ""
 
+#: widgetsexplorer/plasmaappletitemmodel.cpp:194
+msgid "Containments"
+msgstr ""
+
 #: widgetsexplorer/widgetexplorer.cpp:115
 msgid "All Widgets"
 msgstr ""
@@ -227,57 +278,6 @@ msgstr ""
 
 #: widgetsexplorer/widgetexplorer.cpp:123
 msgid "Categories:"
-msgstr ""
-
-#: widgetsexplorer/appletsfiltering.cpp:55
-msgid "Categories"
-msgstr ""
-
-#: widgetsexplorer/appletsfiltering.cpp:161
-msgid "Enter Search Term"
-msgstr ""
-
-#: widgetsexplorer/appletsfiltering.cpp:166
-#: widgetsexplorer/appletsfiltering.cpp:168
-msgid "Get New Widgets..."
-msgstr ""
-
-#: widgetsexplorer/appletsfiltering.cpp:309
-msgid "Download New Plasma Widgets"
-msgstr ""
-
-#: widgetsexplorer/appletsfiltering.cpp:321
-#, kde-format
-msgctxt ""
-"%1 is a type of widgets, as defined by e.g. some plasma-packagestructure-*."
-"desktop files"
-msgid "Download New %1"
-msgstr ""
-
-#: widgetsexplorer/appletsfiltering.cpp:331
-msgid "Install Widget From Local File..."
-msgstr ""
-
-#: widgetsexplorer/plasmaappletitemmodel.cpp:194
-msgid "Containments"
-msgstr ""
-
-#: backgrounddialog.cpp:211
-msgid "Desktop Settings"
-msgstr ""
-
-#: backgrounddialog.cpp:216
-msgid "View"
-msgstr ""
-
-#: backgrounddialog.cpp:224
-msgid ""
-"This picture of a monitor contains a preview of what the current settings "
-"will look like on your desktop."
-msgstr ""
-
-#: backgrounddialog.cpp:246
-msgid "Mouse Actions"
 msgstr ""
 
 #: rc.cpp:1

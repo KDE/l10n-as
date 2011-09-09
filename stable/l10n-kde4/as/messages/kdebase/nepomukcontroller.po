@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-09-09 11:35+0200\n"
 "PO-Revision-Date: 2011-07-27 21:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -16,6 +16,26 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: main.cpp:32
+msgid "Nepomuk Controller"
+msgstr "Nepomuk নিয়ন্ত্ৰক"
+
+#: main.cpp:34
+msgid "A small tool to monitor and control Nepomuk file indexing"
+msgstr "Nepomuk নথিপত্ৰ সূচনাক মনিটৰ আৰু নিয়ন্ত্ৰণ কৰিবলে এটা সৰু সঁজুলি"
+
+#: main.cpp:36
+msgid "(c) 2008-2011, Sebastian Trüg"
+msgstr "(c) ২০০৮-২০১১, চিবেচটিয়ান ট্ৰুগ"
+
+#: main.cpp:39
+msgid "Sebastian Trüg"
+msgstr "চিবেচটিয়ান ট্ৰুগ"
+
+#: main.cpp:39
+msgid "Maintainer"
+msgstr "ব্যৱস্থাপক"
 
 #: systray.cpp:46
 msgid "Nepomuk File Indexing"
@@ -40,26 +60,6 @@ msgstr "Nepomuk নথিপত্ৰ সূচনা সেৱা চলি থ
 #: systray.cpp:121
 msgid "Search Service"
 msgstr "সেৱা সন্ধান কৰক"
-
-#: main.cpp:32
-msgid "Nepomuk Controller"
-msgstr "Nepomuk নিয়ন্ত্ৰক"
-
-#: main.cpp:34
-msgid "A small tool to monitor and control Nepomuk file indexing"
-msgstr "Nepomuk নথিপত্ৰ সূচনাক মনিটৰ আৰু নিয়ন্ত্ৰণ কৰিবলে এটা সৰু সঁজুলি"
-
-#: main.cpp:36
-msgid "(c) 2008-2011, Sebastian Trüg"
-msgstr "(c) ২০০৮-২০১১, চিবেচটিয়ান ট্ৰুগ"
-
-#: main.cpp:39
-msgid "Sebastian Trüg"
-msgstr "চিবেচটিয়ান ট্ৰুগ"
-
-#: main.cpp:39
-msgid "Maintainer"
-msgstr "ব্যৱস্থাপক"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"

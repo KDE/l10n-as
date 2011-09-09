@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-09-09 11:35+0200\n"
 "PO-Revision-Date: 2011-07-28 15:13+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -133,17 +133,36 @@ msgstr ""
 "কৰিব, প্ৰথমতে। যদি দিয়া ইয়াক আপোনাক সতৰ্ক কৰিবলে ধাৰ্য্য কৰা হয়, ই স্বচালিতভাৱে "
 "নথিপত্ৰসমূহ মচি পেলোৱাৰ পৰিৱৰ্তে এয়া কৰিব।</para>"
 
-#: kio_trash_win.cpp:228 kio_trash.cpp:140
+#: kio_trash.cpp:92 kio_trash.cpp:155 kio_trash.cpp:307 kio_trash.cpp:339
+#: kio_trash.cpp:505 kio_trash.cpp:517
+#, kde-format
+msgid "Malformed URL %1"
+msgstr "ক্ষতিগ্ৰস্থ URL %1"
+
+#: kio_trash.cpp:111
+#, kde-format
+msgid ""
+"The directory %1 does not exist anymore, so it is not possible to restore "
+"this item to its original location. You can either recreate that directory "
+"and use the restore operation again, or drag the item anywhere else to "
+"restore it."
+msgstr ""
+"ডাইৰেকটৰি %1 এতিয়া আৰু অস্তিত্ববান নহয়, সেয়েহে এই বস্তুক ইয়াৰ প্ৰকৃত স্থানলে পুনৰ "
+"সংৰক্ষণ কৰাটো সম্ভব নহয়। আপুনি সেই ডাইৰেকটৰি হয় পুনৰ সৃষ্টি কৰিব পাৰিব আৰু পুনৰ "
+"সংৰক্ষণ কাৰ্য্য আকো ব্যৱহাৰ কৰিব পাৰিব, অথবা বস্তুটোক অন্য কবাত ড্ৰেগ কৰিব পাৰিব "
+"ইয়াক পুনৰ সংৰক্ষণ কৰিবলে।"
+
+#: kio_trash.cpp:140 kio_trash_win.cpp:228
 msgid "This file is already in the trash bin."
 msgstr "এই নথিপত্ৰ ইতিমধ্যৈ আবৰ্জনা টেমাত আছে।"
+
+#: kio_trash.cpp:228 kio_trash_win.cpp:252
+msgid "Internal error in copyOrMove, should never happen"
+msgstr "কপি অথবা স্থানান্তৰত অভ্যন্তৰীক ত্ৰুটি, কেতিয়াও হ'ব নালাগিব"
 
 #: kio_trash_win.cpp:241
 msgid "not supported"
 msgstr "সমৰ্থিত নহয়"
-
-#: kio_trash_win.cpp:252 kio_trash.cpp:228
-msgid "Internal error in copyOrMove, should never happen"
-msgstr "কপি অথবা স্থানান্তৰত অভ্যন্তৰীক ত্ৰুটি, কেতিয়াও হ'ব নালাগিব"
 
 #: ktrash.cpp:32
 msgid "ktrash"
@@ -182,22 +201,3 @@ msgstr ""
 #: trashimpl.cpp:1136
 msgid "The file is too large to be trashed."
 msgstr "নথিপত্ৰটো আবৰ্জনা কৰিবৰ বাবে অতি ডাঙৰ।"
-
-#: kio_trash.cpp:92 kio_trash.cpp:155 kio_trash.cpp:307 kio_trash.cpp:339
-#: kio_trash.cpp:505 kio_trash.cpp:517
-#, kde-format
-msgid "Malformed URL %1"
-msgstr "ক্ষতিগ্ৰস্থ URL %1"
-
-#: kio_trash.cpp:111
-#, kde-format
-msgid ""
-"The directory %1 does not exist anymore, so it is not possible to restore "
-"this item to its original location. You can either recreate that directory "
-"and use the restore operation again, or drag the item anywhere else to "
-"restore it."
-msgstr ""
-"ডাইৰেকটৰি %1 এতিয়া আৰু অস্তিত্ববান নহয়, সেয়েহে এই বস্তুক ইয়াৰ প্ৰকৃত স্থানলে পুনৰ "
-"সংৰক্ষণ কৰাটো সম্ভব নহয়। আপুনি সেই ডাইৰেকটৰি হয় পুনৰ সৃষ্টি কৰিব পাৰিব আৰু পুনৰ "
-"সংৰক্ষণ কাৰ্য্য আকো ব্যৱহাৰ কৰিব পাৰিব, অথবা বস্তুটোক অন্য কবাত ড্ৰেগ কৰিব পাৰিব "
-"ইয়াক পুনৰ সংৰক্ষণ কৰিবলে।"
