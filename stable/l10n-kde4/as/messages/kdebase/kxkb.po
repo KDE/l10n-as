@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-09-24 11:30+0200\n"
 "PO-Revision-Date: 2011-07-27 21:40+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -42,30 +42,30 @@ msgstr ""
 "<h1>কিবৰ্ড</h1> এই নিয়ন্ত্ৰণ মডিউলক কিবৰ্ড প্ৰাচল আৰু বিন্যাসসমূহ সংৰূপণ কৰাৰ কাৰণে "
 "ব্যৱহাৰ কৰিব পাৰি।"
 
-#: kcm_keyboard_widget.cpp:201
+#: kcm_keyboard_widget.cpp:202
 msgctxt "unknown keyboard model vendor"
 msgid "Unknown"
 msgstr "অজ্ঞাত"
 
-#: kcm_keyboard_widget.cpp:203
+#: kcm_keyboard_widget.cpp:204
 #, kde-format
 msgctxt "vendor | keyboard model"
 msgid "%1 | %2"
 msgstr "%1 | %2"
 
-#: kcm_keyboard_widget.cpp:213
+#: kcm_keyboard_widget.cpp:214
 #, kde-format
 msgid "Only up to %1 keyboard layout is supported"
 msgid_plural "Only up to %1 keyboard layouts are supported"
 msgstr[0] "কেৱল %1 কিবৰ্ড বিন্যাস সমৰ্থিত"
 msgstr[1] "কেৱল %1 কিবৰ্ড বিন্যাসসমূহ সমৰ্থিত"
 
-#: kcm_keyboard_widget.cpp:561
+#: kcm_keyboard_widget.cpp:562
 msgctxt "no shortcuts defined"
 msgid "None"
 msgstr "কোনো নহয়"
 
-#: kcm_keyboard_widget.cpp:577
+#: kcm_keyboard_widget.cpp:578
 #, kde-format
 msgid "%1 shortcut"
 msgid_plural "%1 shortcuts"
