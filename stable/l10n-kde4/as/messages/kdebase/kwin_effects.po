@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-09-27 18:22+0200\n"
 "PO-Revision-Date: 2011-07-18 20:59+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -33,18 +33,6 @@ msgid_plural " milliseconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: cube/cube.cpp:216 cube/cube_config.cpp:60
-msgid "Desktop Cube"
-msgstr ""
-
-#: cube/cube.cpp:220 cube/cube_config.cpp:64
-msgid "Desktop Cylinder"
-msgstr ""
-
-#: cube/cube.cpp:224 cube/cube_config.cpp:68
-msgid "Desktop Sphere"
-msgstr ""
-
 #: cube/cube_config.cpp:50
 msgctxt "@title:tab Basic Settings"
 msgid "Basic"
@@ -53,6 +41,18 @@ msgstr ""
 #: cube/cube_config.cpp:51
 msgctxt "@title:tab Advanced Settings"
 msgid "Advanced"
+msgstr ""
+
+#: cube/cube_config.cpp:60 cube/cube.cpp:216
+msgid "Desktop Cube"
+msgstr ""
+
+#: cube/cube_config.cpp:64 cube/cube.cpp:220
+msgid "Desktop Cylinder"
+msgstr ""
+
+#: cube/cube_config.cpp:68 cube/cube.cpp:224
+msgid "Desktop Sphere"
 msgstr ""
 
 #: desktopgrid/desktopgrid.cpp:72 desktopgrid/desktopgrid_config.cpp:57
