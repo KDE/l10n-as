@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-09 11:35+0200\n"
+"POT-Creation-Date: 2011-09-30 11:25+0200\n"
 "PO-Revision-Date: 2011-07-19 17:08+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -35,7 +35,7 @@ msgstr "নতুন পিছপ্ৰান্ত"
 msgid "Parsing of file %1 failed (%2)"
 msgstr "নথিপত্ৰ %1 -ৰ বিশ্লেষন ব্যৰ্থ হল (%2)"
 
-#: repository.cpp:111
+#: repository.cpp:120
 msgctxt "@info - notification message"
 msgid ""
 "Nepomuk Semantic Desktop needs the Virtuoso RDF server to store its data. "
@@ -44,7 +44,7 @@ msgstr ""
 "Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ প্ৰয়োজন। "
 "Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso Soprano প্লাগিন ইনস্টল কৰা বাধ্যতামূলক।"
 
-#: repository.cpp:123
+#: repository.cpp:132
 msgctxt "@info - notification message"
 msgid ""
 "Nepomuk Semantic Desktop needs the Virtuoso RDF server to store its data. "
@@ -54,7 +54,7 @@ msgstr ""
 "Nepomuk চিমান্টিক ডেস্কটপৰ তথ্য সংৰক্ষণ কৰিবলে Virtuoso RDF চাৰ্ভাৰৰ প্ৰয়োজন। "
 "Nepomuk ব্যৱহাৰ কৰিবলে Virtuoso চাৰ্ভাৰ আৰু ODBC ড্ৰাইভাৰ ইনস্টল কৰা বাধ্যতামূলক।"
 
-#: repository.cpp:264
+#: repository.cpp:273
 #, kde-format
 msgctxt "@info - notification message"
 msgid ""
@@ -66,12 +66,12 @@ msgstr ""
 "কৰিব নোৱাৰি। তথ্য সুৰক্ষা কাৰণসমূহৰ বাবে Nepomuk অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে "
 "পৰিস্থিতি হস্তচালিতভাৱে সমাধান হোৱা নাই।"
 
-#: repository.cpp:298
+#: repository.cpp:307
 msgctxt "@info - notification message"
 msgid "Converting Nepomuk data to a new backend. This might take a while."
 msgstr "Nepomuk তথ্যক এটা নতুন পিছপ্ৰান্তলে পৰিৱৰ্তন কৰা হৈ আছে। ই কিছু সময় লব পাৰে।"
 
-#: repository.cpp:311
+#: repository.cpp:320
 msgctxt "@info - notification message"
 msgid ""
 "Converting Nepomuk data to the new backend failed. For data security reasons "
@@ -81,7 +81,7 @@ msgstr ""
 "Nepomuk অসামৰ্থবান কৰি ৰখা হব যেতিয়ালৈকে পৰিস্থিতি হস্তচালিতভাৱে সমাধান হোৱা "
 "নাই।"
 
-#: repository.cpp:325
+#: repository.cpp:334
 msgctxt "@info - notification message"
 msgid "Successfully converted Nepomuk data to the new backend."
 msgstr "Nepomuk তথ্যক সফলভাৱে নতুন পিছপ্ৰান্ত লে পৰিৱৰ্তন কৰা হল।"
