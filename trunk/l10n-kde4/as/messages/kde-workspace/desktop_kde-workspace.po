@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-10 02:13+0000\n"
+"POT-Creation-Date: 2011-10-01 02:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5175,19 +5175,6 @@ msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
 
-#: powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:6
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Name"
-msgid "Disable Desktop Effects"
-msgstr "ডেস্কট'প"
-
-#: powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:59
-msgctxt "Comment"
-msgid "Temporary disables KWin's desktop effects"
-msgstr ""
-
 #: powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:7
 msgctxt "Name"
 msgid "Button events handling"
@@ -5267,12 +5254,12 @@ msgctxt "Description"
 msgid "System policies prevent you from getting the brightness level."
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:161
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:162
 msgctxt "Name"
 msgid "Set brightness"
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:212
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:213
 msgctxt "Description"
 msgid "System policies prevent you from setting the brightness level."
 msgstr ""
@@ -6157,6 +6144,13 @@ msgstr "Dolphin প্ৰদৰ্শন"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Disable Desktop Effects"
+#~ msgstr "ডেস্কট'প"
 
 #, fuzzy
 #~| msgctxt "Name"
