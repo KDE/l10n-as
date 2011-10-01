@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:47+0200\n"
+"POT-Creation-Date: 2011-10-01 12:09+0200\n"
 "PO-Revision-Date: 2011-07-18 20:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -236,7 +236,7 @@ msgctxt "Name of a power profile"
 msgid "Aggressive powersave"
 msgstr "আক্ৰমণাত্মক powersave"
 
-#: powerdevilcore.cpp:325
+#: powerdevilcore.cpp:332
 #, kde-format
 msgid ""
 "The profile \"%1\" has been selected, but it does not exist.\n"
@@ -245,7 +245,7 @@ msgstr ""
 "আলেখ্য \"%1\" বাছা হৈছে, কিন্তু ই অস্তিত্ববান নহয়।\n"
 "অনুগ্ৰহ কৰি আপোনাৰ PowerDevil সংৰূপ নীৰিক্ষন কৰক।"
 
-#: powerdevilcore.cpp:338
+#: powerdevilcore.cpp:345
 #, kde-format
 msgid ""
 "The profile \"%1\" tried to activate %2, a non existent action. This is "
@@ -254,7 +254,7 @@ msgstr ""
 "আলেখ্য  \"%1\" -এ %2 সক্ৰিয় কৰাৰ চেষ্টা কৰিছিল, এটা অস্তিত্বহিন কাৰ্য্য। ই সাধাৰনত "
 "এটা ইনস্টল সমস্যা বা এটা সংৰূপ সমস্যাৰ বাবে।"
 
-#: powerdevilcore.cpp:380
+#: powerdevilcore.cpp:387
 msgid ""
 "Could not connect to battery interface.\n"
 "Please check your system configuration"
@@ -262,22 +262,22 @@ msgstr ""
 "বেটাৰি আন্তঃপৃষ্টৰ লগত সংযোগ কৰিব নোৱাৰি।\n"
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
-#: powerdevilcore.cpp:428
+#: powerdevilcore.cpp:435
 msgid ""
 "The power adaptor has been plugged in – all pending suspend actions have "
 "been canceled."
 msgstr ""
 "শক্তি এডাপ্টাৰ প্লাগ-ইন কৰা হৈছে - সকলো অনিশ্চিত বাতিল কাৰ্য্যসমূহ বাতিল কৰা হৈছে।"
 
-#: powerdevilcore.cpp:430
+#: powerdevilcore.cpp:437
 msgid "The power adaptor has been plugged in."
 msgstr "শক্তি এডাপ্টাৰ প্লাগিন কৰা হৈছে।"
 
-#: powerdevilcore.cpp:433
+#: powerdevilcore.cpp:440
 msgid "The power adaptor has been unplugged."
 msgstr "শক্তি এডাপ্টাৰ আনপ্লাগ কৰা হৈছে।"
 
-#: powerdevilcore.cpp:439
+#: powerdevilcore.cpp:446
 #, kde-format
 msgid ""
 "KDE Power Management System could not be initialized. The backend reported "
@@ -288,31 +288,31 @@ msgstr ""
 "দিছে: %1\n"
 "অনুগ্ৰহ কৰি আপোনাৰ চিস্টেম সংৰূপ নীৰিক্ষন কৰক"
 
-#: powerdevilcore.cpp:466
+#: powerdevilcore.cpp:473
 msgid ""
 "Your battery level is critical, the computer will be halted in 30 seconds."
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰটো ৩০ ছেকেণ্ডত ৰখাই দিয়া হব।"
 
-#: powerdevilcore.cpp:472
+#: powerdevilcore.cpp:479
 msgid ""
 "Your battery level is critical, the computer will be hibernated in 30 "
 "seconds."
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰটো ৩০ ছেকেণ্ডত হাইবাৰনেইট কৰা হব।"
 
-#: powerdevilcore.cpp:478
+#: powerdevilcore.cpp:485
 msgid ""
 "Your battery level is critical, the computer will be suspended in 30 seconds."
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক, কমপিউটাৰ ৩০ ছেকেণ্ডত বাতিল কৰা হব।"
 
-#: powerdevilcore.cpp:484
+#: powerdevilcore.cpp:491
 msgid "Your battery level is critical: save your work as soon as possible."
 msgstr "আপোনাৰ বেটাৰি স্তৰ মাৰাত্মক: আপোনাৰ কাম যিমান সোনকালে পাৰে সঞ্চয় কৰক।"
 
-#: powerdevilcore.cpp:490
+#: powerdevilcore.cpp:497
 msgid "Your battery has reached the warning level."
 msgstr "আপোনাৰ বেটাৰি সতৰ্ক স্তৰ পাই গৈছে।"
 
-#: powerdevilcore.cpp:495
+#: powerdevilcore.cpp:502
 msgid "Your battery has reached a low level."
 msgstr "আপোনাৰ বেটাৰি এটা তলৰ স্তৰত আহি গৈছে।"
 
