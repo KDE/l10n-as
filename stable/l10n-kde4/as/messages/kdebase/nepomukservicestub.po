@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-10-04 17:17+0200\n"
 "PO-Revision-Date: 2011-07-19 16:52+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -17,32 +17,32 @@ msgstr ""
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: main.cpp:70 main.cpp:72
+#: main.cpp:73 main.cpp:75
 msgid "Nepomuk Service Stub"
 msgstr "Nepomuk সেৱা স্টাব"
 
-#: main.cpp:74
+#: main.cpp:77
 msgid "(c) 2008, Sebastian Trüg"
 msgstr "(c) ২০০৮, চিবেচটিয়ান ট্ৰুগ"
 
-#: main.cpp:78
+#: main.cpp:81
 msgid "Sebastian Trüg"
 msgstr "চিবেচটিয়ান ট্ৰুগ"
 
-#: main.cpp:78
+#: main.cpp:81
 msgid "Maintainer"
 msgstr "ব্যৱস্থাপক"
 
-#: main.cpp:81
+#: main.cpp:84
 msgctxt "@info:shell"
 msgid "Service to start"
 msgstr "আৰম্ভ কৰিব লগিয়া সেৱা"
 
-#: main.cpp:93
+#: main.cpp:96
 msgid "No service name specified"
 msgstr "কোনো সেৱা নাম ধাৰ্য্য কৰা হোৱা নাই"
 
-#: main.cpp:121
+#: main.cpp:124
 msgid "Unknown service name:"
 msgstr "অজ্ঞাত সেৱা নাম: "
 

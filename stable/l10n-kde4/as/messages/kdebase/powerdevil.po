@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-01 12:09+0200\n"
+"POT-Creation-Date: 2011-10-04 17:20+0200\n"
 "PO-Revision-Date: 2011-07-18 20:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -109,7 +109,7 @@ msgstr "পৰ্দা লক কৰা হৈ আছে"
 msgid "Switch off after"
 msgstr "পিছত চুইচ অফ কৰক"
 
-#: backends/upower/upowersuspendjob.cpp:76
+#: backends/upower/upowersuspendjob.cpp:74
 msgid "Unsupported suspend method"
 msgstr "অসমৰ্থিত বাতিল পদ্ধতি"
 
