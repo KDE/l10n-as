@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-10-12 10:16+0200\n"
 "PO-Revision-Date: 2011-07-27 22:07+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -89,29 +89,29 @@ msgstr "সূচনা কৰিব লগিয়া নথিপত্ৰৰ UR
 msgid "Remove all indexed data of the URL provided"
 msgstr "প্ৰদান কৰা URL সকলো সূচিত তথ্য আতৰাওক"
 
-#: strigiservice.cpp:158
+#: strigiservice.cpp:172
 msgctxt "@info:status"
 msgid "File indexer is suspended"
 msgstr "নথিপত্ৰ সূচকক বাতিল কৰা হৈছে"
 
-#: strigiservice.cpp:164
+#: strigiservice.cpp:178
 msgctxt "@info:status"
 msgid "Strigi is currently indexing files"
 msgstr "Strigi -এ বৰ্তমানে নথিপত্ৰসমূহ সূচনা কৰি আছে"
 
-#: strigiservice.cpp:168
+#: strigiservice.cpp:182
 #, kde-format
 msgctxt "@info:status"
 msgid "Strigi is currently indexing files in folder %1"
 msgstr "Strigi -এ বৰ্তমানে নথিপত্ৰসমূহ ফোল্ডাৰ %1 -ত সূচনা কৰি আছে"
 
-#: strigiservice.cpp:170
+#: strigiservice.cpp:184
 #, kde-format
 msgctxt "@info:status"
 msgid "Strigi is currently indexing files in folder %1 (%2)"
 msgstr "Strigi -এ বৰ্তমানে নথিপত্ৰসমূহ ফোল্ডাৰ %1 (%2) -ত সূচনা কৰি আছে"
 
-#: strigiservice.cpp:174
+#: strigiservice.cpp:188
 msgctxt "@info:status"
 msgid "File indexer is idle"
 msgstr "নথিপত্ৰ সূচক অলস অৱস্থাত আছে"
