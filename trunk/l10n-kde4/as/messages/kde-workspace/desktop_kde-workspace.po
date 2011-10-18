@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-02 02:57+0000\n"
+"POT-Creation-Date: 2011-10-18 06:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5285,33 +5285,52 @@ msgctxt "Comment"
 msgid "Battery, Display and CPU power management and notification"
 msgstr ""
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:13
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:14
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Contact Manager"
+msgctxt "Name"
+msgid "Activity settings"
+msgstr "পৰিচয়ৰ পৰিচালক"
+
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:16
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure file manager settings"
+msgctxt "Comment"
+msgid "Configure per-activity Power Management settings"
+msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
+
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:14
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Settings"
 msgctxt "Name"
-msgid "Global settings"
+msgid "Advanced settings"
 msgstr "বৈশিষ্ট্য"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:67
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:16
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
 msgctxt "Comment"
-msgid "Configure global Power Management settings"
+msgid "Configure advanced Power Management settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:13
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Science"
 msgctxt "Name"
-msgid "Power Profiles"
-msgstr ""
+msgid "Energy Saving Settings"
+msgstr "বিজ্ঞান"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:66
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:16
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
 msgctxt "Comment"
-msgid "Configure Power Management Profiles"
+msgid "Configure Energy Saving Settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
 #: powerdevil/powerdevil.notifyrc:2
@@ -6146,6 +6165,13 @@ msgid "The KDE 4 icon view style"
 msgstr ""
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure Power Management Profiles"
+#~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
+
+#, fuzzy
 #~| msgctxt "Name"
 #~| msgid "Desktop"
 #~ msgctxt "Name"
@@ -6217,13 +6243,6 @@ msgstr ""
 #~ msgctxt "Name|Random file browsing settings."
 #~ msgid "General"
 #~ msgstr "সাধাৰণ"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure file manager settings"
-#~ msgctxt "Comment"
-#~ msgid "Configure general file manager settings"
-#~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
 #, fuzzy
 #~| msgctxt "Name"
