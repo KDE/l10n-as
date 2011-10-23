@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:47+0200\n"
+"POT-Creation-Date: 2011-10-23 10:59+0200\n"
 "PO-Revision-Date: 2011-07-19 19:43+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -29,20 +29,20 @@ msgstr "উলোটা CPU ব্যৱহাৰ"
 msgid "nothing"
 msgstr "একো নহয়"
 
-#: killrunner_config.cpp:60 killrunner_config.cpp:86 killrunner.cpp:60
+#: killrunner_config.cpp:60 killrunner_config.cpp:86 killrunner.cpp:61
 msgid "kill"
 msgstr "kill"
 
-#: killrunner.cpp:66
+#: killrunner.cpp:67
 msgid "Terminate running applications whose names match the query."
 msgstr "চলি থকা অনুপ্ৰয়োগসমূহ যি প্ৰশ্ন মিল খায় তাক অন্ত কৰক।"
 
-#: killrunner.cpp:139
+#: killrunner.cpp:140
 #, kde-format
 msgid "Terminate %1"
 msgstr "%1 অন্ত কৰক"
 
-#: killrunner.cpp:140
+#: killrunner.cpp:141
 #, kde-format
 msgid ""
 "Process ID: %1\n"
@@ -51,11 +51,11 @@ msgstr ""
 "প্ৰক্ৰিয়া ID: %1\n"
 "ব্যৱহাৰকাৰী হিচাপে চলোৱা হৈ আছে: %2"
 
-#: killrunner.cpp:197
+#: killrunner.cpp:205
 msgid "Send SIGTERM"
 msgstr "SIGTERM পঠাওক"
 
-#: killrunner.cpp:198
+#: killrunner.cpp:206
 msgid "Send SIGKILL"
 msgstr "SIGKILL পঠাওক"
 
