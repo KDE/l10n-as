@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-09 11:35+0200\n"
+"POT-Creation-Date: 2011-10-27 11:11+0200\n"
 "PO-Revision-Date: 2011-07-27 21:56+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -53,11 +53,11 @@ msgstr "নথিপত্ৰ সূচকক হস্তচালিতভা�
 msgid "Configure File Indexing"
 msgstr "নথিপত্ৰ সূচনা সংৰূপণ কৰক"
 
-#: systray.cpp:118
+#: systray.cpp:135
 msgid "Nepomuk File Indexing Service not running"
 msgstr "Nepomuk নথিপত্ৰ সূচনা সেৱা চলি থকা নাই"
 
-#: systray.cpp:121
+#: systray.cpp:138
 msgid "Search Service"
 msgstr "সেৱা সন্ধান কৰক"
 
