@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-02 04:14+0100\n"
+"POT-Creation-Date: 2011-11-11 04:39+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -691,7 +691,7 @@ msgstr ""
 msgid "&Terminate Application %1"
 msgstr ""
 
-#: tabbox/clientmodel.cpp:61
+#: tabbox/clientmodel.cpp:62
 msgid "*** No Windows ***"
 msgstr "*** সংযোগক্ষেত্ৰ অনুপস্থিত ***"
 
