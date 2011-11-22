@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:45+0200\n"
+"POT-Creation-Date: 2011-11-22 18:10+0100\n"
 "PO-Revision-Date: 2011-07-19 11:03+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -17,31 +17,31 @@ msgstr ""
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: dirfilterplugin.cpp:137
+#: dirfilterplugin.cpp:140
 msgid "View F&ilter"
 msgstr "পৰিস্ৰাৱক দৰ্শন কৰক (&i)"
 
-#: dirfilterplugin.cpp:141
+#: dirfilterplugin.cpp:144
 msgid "Allow to filter the currently displayed items by filetype."
 msgstr "বৰ্তমানে প্ৰদৰ্শীত বস্তুবোৰক নথিপত্ৰধৰণেৰে পৰিস্ৰাৱন কৰাৰ অনুমতি দিয়ক।"
 
-#: dirfilterplugin.cpp:163
+#: dirfilterplugin.cpp:166
 msgid "Filter Field"
 msgstr "পৰিস্ৰাৱক ক্ষেত্ৰ"
 
-#: dirfilterplugin.cpp:201
+#: dirfilterplugin.cpp:204
 msgid "Only Show Items of Type"
 msgstr "কেৱল ধৰণৰ বস্তুহে দেখাওক"
 
-#: dirfilterplugin.cpp:261
+#: dirfilterplugin.cpp:264
 msgid "Use Multiple Filters"
 msgstr "বহু পৰিস্ৰাৱক ব্যৱহাৰ কৰক"
 
-#: dirfilterplugin.cpp:267
+#: dirfilterplugin.cpp:270
 msgid "Show Count"
 msgstr "গণনা দেখুৱাওক"
 
-#: dirfilterplugin.cpp:272
+#: dirfilterplugin.cpp:275
 msgid "Reset"
 msgstr "পুনৰ সংহতি কৰক"
 
