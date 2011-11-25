@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-04 11:28+0100\n"
+"POT-Creation-Date: 2011-11-25 11:18+0100\n"
 "PO-Revision-Date: 2011-07-18 20:18+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 "ডেস্কটপ প্ৰভাৱসমূহ অন্য অনুপ্ৰয়োগ দ্বাৰা বাতিল কৰা হৈছে। <br/> আপুনি '%1' শৰ্টকাট "
 "ব্যৱহাৰ কৰি চলাই থাকিব পাৰিব।"
 
-#: composite.cpp:561
+#: composite.cpp:562
 msgid ""
 "Desktop effects were too slow and have been suspended.\n"
 "You can disable functionality checks in System Settings (on the Advanced tab "
@@ -42,7 +42,7 @@ msgstr ""
 "আপুনি চিস্টেম সংহতিসমূহত কাৰ্যকৰীতা নীৰিক্ষণ অসামৰ্থবান কৰিব পাৰিব (ডেস্কটপ "
 "প্ৰভাৱসমূহৰ উন্নত টেবত)।"
 
-#: composite.cpp:564
+#: composite.cpp:565
 #, kde-format
 msgid ""
 "Desktop effects were too slow and have been suspended.\n"
