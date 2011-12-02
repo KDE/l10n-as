@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-01 11:40+0100\n"
+"POT-Creation-Date: 2011-12-02 12:03+0100\n"
 "PO-Revision-Date: 2011-07-19 15:34+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -29,6 +29,6 @@ msgstr "প্ৰমাণীকৰণ"
 msgid "Retry"
 msgstr "পুনৰ চেষ্টা কৰক"
 
-#: kpasswdserver.cpp:587
+#: kpasswdserver.cpp:591
 msgid "Authorization Dialog"
 msgstr "অনুমোদন ডাইলগ"
