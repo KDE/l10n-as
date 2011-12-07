@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-06 18:38+0100\n"
+"POT-Creation-Date: 2011-12-07 10:55+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13092,7 +13092,7 @@ msgstr[1] ""
 msgid "Search Plugins"
 msgstr "প্লাগ-ইন অনুসন্ধান"
 
-#: kutils/kpluginselector.cpp:769 kutils/kpluginselector.cpp:798
+#: kutils/kpluginselector.cpp:767 kutils/kpluginselector.cpp:796
 #, fuzzy, kde-format
 #| msgid "About %1"
 msgctxt "Used only for plugins"
