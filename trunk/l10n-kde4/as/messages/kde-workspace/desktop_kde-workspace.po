@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-08 03:18+0000\n"
+"POT-Creation-Date: 2011-12-09 03:29+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6469,12 +6469,12 @@ msgctxt "X-KDE-Keywords"
 msgid "System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/classic/settings-classic-view.desktop:15
+#: systemsettings/classic/settings-classic-view.desktop:18
 msgctxt "Name"
 msgid "Classic Tree View"
 msgstr ""
 
-#: systemsettings/classic/settings-classic-view.desktop:83
+#: systemsettings/classic/settings-classic-view.desktop:86
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
 msgstr ""
@@ -6495,7 +6495,7 @@ msgctxt "Name"
 msgid "System Settings View"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/icons/settings-icon-view.desktop:15
+#: systemsettings/icons/settings-icon-view.desktop:18
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Dolphin View"
@@ -6503,7 +6503,7 @@ msgctxt "Name"
 msgid "Icon View"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: systemsettings/icons/settings-icon-view.desktop:91
+#: systemsettings/icons/settings-icon-view.desktop:94
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
