@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-09 11:08+0100\n"
+"POT-Creation-Date: 2011-12-10 10:51+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5498,18 +5498,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: kdeui/actions/krecentfilesaction.cpp:80
-#, fuzzy
-#| msgid "No entries"
-msgid "No Entries"
-msgstr "কোনো নিবেশ উপস্থিত নাই"
-
-#: kdeui/actions/krecentfilesaction.cpp:84
-#, fuzzy
-#| msgid "Clear input"
-msgid "Clear List"
-msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
-
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
@@ -5580,6 +5568,18 @@ msgstr ""
 #: kdeui/actions/kaction.cpp:126
 msgid "Ambiguous shortcut detected"
 msgstr ""
+
+#: kdeui/actions/krecentfilesaction.cpp:81
+#, fuzzy
+#| msgid "No entries"
+msgid "No Entries"
+msgstr "কোনো নিবেশ উপস্থিত নাই"
+
+#: kdeui/actions/krecentfilesaction.cpp:85
+#, fuzzy
+#| msgid "Clear input"
+msgid "Clear List"
+msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
