@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-04 17:20+0200\n"
+"POT-Creation-Date: 2011-12-18 11:41+0100\n"
 "PO-Revision-Date: 2011-07-18 20:02+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -17,11 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#: actions/bundled/brightnesscontrolconfig.cpp:63
-msgctxt "Brightness level, label for the slider"
-msgid "Level"
-msgstr "স্তৰ"
 
 #: actions/bundled/dimdisplayconfig.cpp:63
 #: actions/bundled/disabledesktopeffectsconfig.cpp:69
@@ -104,6 +99,11 @@ msgstr "স্ক্ৰিপ্ট চলাওক"
 #: actions/bundled/suspendsession.cpp:114
 msgid "The screen is being locked"
 msgstr "পৰ্দা লক কৰা হৈ আছে"
+
+#: actions/bundled/brightnesscontrolconfig.cpp:63
+msgctxt "Brightness level, label for the slider"
+msgid "Level"
+msgstr "স্তৰ"
 
 #: actions/dpms/powerdevildpmsactionconfig.cpp:60
 msgid "Switch off after"
