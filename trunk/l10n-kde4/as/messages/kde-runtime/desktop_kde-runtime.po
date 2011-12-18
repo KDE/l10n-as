@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-16 03:36+0000\n"
+"POT-Creation-Date: 2011-12-18 04:20+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1151,7 +1151,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/beolingus.desktop:67
+#: kurifilter-plugins/ikws/searchproviders/beolingus.desktop:68
 msgctxt "Query"
 msgid ""
 "http://dict.tu-chemnitz.de/dings.cgi?"
@@ -5600,7 +5600,7 @@ msgctxt "Name"
 msgid "File Indexer Service"
 msgstr "অভ্যন্তৰীণ পৰিসেবা"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.desktop:38
+#: nepomuk/services/fileindexer/nepomukfileindexer.desktop:39
 msgctxt "Comment"
 msgid "Nepomuk Service which indexes files on the desktop"
 msgstr ""
@@ -5894,7 +5894,7 @@ msgctxt "Name"
 msgid "Declarative widget"
 msgstr ""
 
-#: plasma/scriptengines/javascript/data/plasma-scriptengine-applet-declarative.desktop:53
+#: plasma/scriptengines/javascript/data/plasma-scriptengine-applet-declarative.desktop:54
 msgctxt "Comment"
 msgid "Native Plasma widget written in QML and JavaScript"
 msgstr ""
@@ -5990,7 +5990,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr "USB যন্ত্ৰ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:28
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:31
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -5998,7 +5998,7 @@ msgctxt "Name"
 msgid "Removable Devices"
 msgstr "USB যন্ত্ৰ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:95
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:98
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
