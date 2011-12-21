@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-03 07:46+0200\n"
+"POT-Creation-Date: 2011-12-21 11:33+0100\n"
 "PO-Revision-Date: 2011-07-18 21:31+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -16,10 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 1.0\n"
-
-#: componentchooserbrowser.cpp:103
-msgid "Select preferred Web browser application:"
-msgstr ""
 
 #: componentchooser.cpp:135
 msgid "Unknown"
@@ -40,6 +36,10 @@ msgstr ""
 msgid ""
 "Choose from the list below which component should be used by default for the "
 "%1 service."
+msgstr ""
+
+#: componentchooserbrowser.cpp:103
+msgid "Select preferred Web browser application:"
 msgstr ""
 
 #: componentchooseremail.cpp:77
