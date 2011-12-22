@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-21 11:32+0100\n"
+"POT-Creation-Date: 2011-12-22 13:25+0100\n"
 "PO-Revision-Date: 2011-07-19 11:28+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -16,6 +16,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: katefilebrowserconfig.cpp:73
+msgid "Toolbar"
+msgstr "টুলবাৰ"
+
+#: katefilebrowserconfig.cpp:75
+msgid "A&vailable actions:"
+msgstr "উপলব্ধ কাৰ্য্যসমূহ (&v):"
+
+#: katefilebrowserconfig.cpp:76
+msgid "S&elected actions:"
+msgstr "নিৰ্বাচিত কাৰ্য্যসমূহ (&e):"
 
 #: katefilebrowser.cpp:96
 msgid "Filter:"
@@ -40,18 +52,6 @@ msgstr "বিকল্পসমূহ"
 #: katefilebrowser.cpp:325
 msgid "Automatically synchronize with current document"
 msgstr "বৰ্তমান দস্তাবেজৰ লগত স্বচালিতভাৱে সংমিহলি কৰক"
-
-#: katefilebrowserconfig.cpp:73
-msgid "Toolbar"
-msgstr "টুলবাৰ"
-
-#: katefilebrowserconfig.cpp:75
-msgid "A&vailable actions:"
-msgstr "উপলব্ধ কাৰ্য্যসমূহ (&v):"
-
-#: katefilebrowserconfig.cpp:76
-msgid "S&elected actions:"
-msgstr "নিৰ্বাচিত কাৰ্য্যসমূহ (&e):"
 
 #: katefilebrowserplugin.cpp:37 katefilebrowserplugin.cpp:76
 #: katefilebrowserplugin.cpp:100

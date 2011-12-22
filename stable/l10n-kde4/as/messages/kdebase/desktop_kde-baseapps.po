@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-21 10:44+0000\n"
+"POT-Creation-Date: 2011-12-22 12:38+0000\n"
 "PO-Revision-Date: 2011-07-11 18:43+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -349,10 +349,10 @@ msgid "Enables the use of bookmarklets"
 msgstr "পত্ৰচিহ্নসমূহৰ ব্যৱহাৰ সামৰ্থবান কৰে"
 
 #: konq-plugins/quickprint/text-ada-print.desktop:7
-#: konq-plugins/quickprint/text-c++-print.desktop:7
 #: konq-plugins/quickprint/text-c++h-print.desktop:7
-#: konq-plugins/quickprint/text-c-print.desktop:7
 #: konq-plugins/quickprint/text-ch-print.desktop:7
+#: konq-plugins/quickprint/text-c-print.desktop:7
+#: konq-plugins/quickprint/text-c++-print.desktop:7
 #: konq-plugins/quickprint/text-css-print.desktop:7
 #: konq-plugins/quickprint/text-diff-print.desktop:7
 #: konq-plugins/quickprint/text-html-print.desktop:7
@@ -437,6 +437,11 @@ msgctxt "Name"
 msgid "Web Archives"
 msgstr "ৱেব আৰ্কাইভসমূহ"
 
+#: konqueror/about/konq_aboutpage.desktop:3
+msgctxt "Name"
+msgid "About-Page for Konqueror"
+msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
+
 #: konqueror/Home.desktop:7
 msgctxt "Name"
 msgid "Home"
@@ -446,11 +451,6 @@ msgstr "ঘৰ"
 msgctxt "GenericName"
 msgid "Personal Files"
 msgstr "ব্যক্তিগত নথিপত্ৰসমূহ"
-
-#: konqueror/about/konq_aboutpage.desktop:3
-msgctxt "Name"
-msgid "About-Page for Konqueror"
-msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
 
 #: konqueror/kfmclient.desktop:10 konqueror/kfmclient_dir.desktop:10
 #: konqueror/kfmclient_html.desktop:9 konqueror/kfmclient_war.desktop:9
@@ -755,8 +755,8 @@ msgid "Configure the way Konqueror reports itself"
 msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ সংৰূপণ কৰক"
 
 #: konqueror/settings/konq/fileappearance.desktop:11
-#: konqueror/settings/konq/webappearance.desktop:12
 #: konqueror/settings/konqhtml/khtml_appearance.desktop:13
+#: konqueror/settings/konq/webappearance.desktop:12
 msgctxt "Name"
 msgid "Appearance"
 msgstr "চেহেৰা"
@@ -953,15 +953,15 @@ msgctxt "Name"
 msgid "KDE Official FTP"
 msgstr "KDE কতৃত্বসম্পন্ন FTP"
 
-#: konqueror/sidebar/trees/init/remote/web/.directory:2
-msgctxt "Name"
-msgid "Web Sites"
-msgstr "ৱেব ছাইটসমূহ"
-
 #: konqueror/sidebar/trees/init/remote/web/apps_web.desktop:4
 msgctxt "Name"
 msgid "KDE Applications"
 msgstr "KDE অনুপ্ৰয়োগসমূহ"
+
+#: konqueror/sidebar/trees/init/remote/web/.directory:2
+msgctxt "Name"
+msgid "Web Sites"
+msgstr "ৱেব ছাইটসমূহ"
 
 #: konqueror/sidebar/trees/init/remote/web/dot_web.desktop:4
 msgctxt "Name"
@@ -998,6 +998,31 @@ msgctxt "Name"
 msgid "Web SideBar Module"
 msgstr "ৱেব ছাইডবাৰ মডিউল"
 
+#: lib/konq/directory_bookmarkbar.desktop:3
+msgctxt "Name"
+msgid "Bookmark Toolbar"
+msgstr "পত্ৰচিহ্ন টুলবাৰ"
+
+#: lib/konq/favicons/favicons.desktop:3
+msgctxt "Name"
+msgid "Favicons"
+msgstr "Favicons"
+
+#: lib/konq/favicons/favicons.desktop:80
+msgctxt "Comment"
+msgid "Stores website icons"
+msgstr "ৱেবছাইট আইকন সমূহ সঞ্চয় কৰে"
+
+#: lib/konq/konqdndpopupmenuplugin.desktop:4
+msgctxt "Comment"
+msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
+msgstr "Konqueror প'প-আপ মেনুৰ কাৰণে প্লাগিন ড্ৰেগ-আৰু-ড্ৰপ কৰক।"
+
+#: lib/konq/konqpopupmenuplugin.desktop:4
+msgctxt "Comment"
+msgid "Plugin for the Konqueror Popup Menu"
+msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগিন"
+
 #: lib/konq/Templates/CDROM-Device.desktop:10
 #: lib/konq/Templates/CDWRITER-Device.desktop:10
 #: lib/konq/Templates/DVDROM-Device.desktop:10
@@ -1030,16 +1055,6 @@ msgstr "HTML নথিপত্ৰ..."
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
-
-#: lib/konq/Templates/TextFile.desktop:2
-msgctxt "Name"
-msgid "Text File..."
-msgstr "লিখনী নথিপত্ৰ..."
-
-#: lib/konq/Templates/TextFile.desktop:92
-msgctxt "Comment"
-msgid "Enter text filename:"
-msgstr "লিখনী নথিপত্ৰৰ নাম দিয়ক:"
 
 #: lib/konq/Templates/linkCAMERA.desktop:2
 msgctxt "Name"
@@ -1161,30 +1176,15 @@ msgctxt "Comment"
 msgid "New ZIP Device"
 msgstr "নতুন ZIP ডিভাইচ"
 
-#: lib/konq/directory_bookmarkbar.desktop:3
+#: lib/konq/Templates/TextFile.desktop:2
 msgctxt "Name"
-msgid "Bookmark Toolbar"
-msgstr "পত্ৰচিহ্ন টুলবাৰ"
+msgid "Text File..."
+msgstr "লিখনী নথিপত্ৰ..."
 
-#: lib/konq/favicons/favicons.desktop:3
-msgctxt "Name"
-msgid "Favicons"
-msgstr "Favicons"
-
-#: lib/konq/favicons/favicons.desktop:80
+#: lib/konq/Templates/TextFile.desktop:92
 msgctxt "Comment"
-msgid "Stores website icons"
-msgstr "ৱেবছাইট আইকন সমূহ সঞ্চয় কৰে"
-
-#: lib/konq/konqdndpopupmenuplugin.desktop:4
-msgctxt "Comment"
-msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
-msgstr "Konqueror প'প-আপ মেনুৰ কাৰণে প্লাগিন ড্ৰেগ-আৰু-ড্ৰপ কৰক।"
-
-#: lib/konq/konqpopupmenuplugin.desktop:4
-msgctxt "Comment"
-msgid "Plugin for the Konqueror Popup Menu"
-msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগিন"
+msgid "Enter text filename:"
+msgstr "লিখনী নথিপত্ৰৰ নাম দিয়ক:"
 
 #: nsplugins/khtml_plugins.desktop:14
 msgctxt "Name"
