@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-21 04:16+0000\n"
+"POT-Creation-Date: 2011-12-22 04:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -33,6 +33,11 @@ msgstr "Konsole"
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
+
+#: desktop/konsolehere.desktop:8
+msgctxt "Name"
+msgid "Open Terminal Here"
+msgstr ""
 
 #: desktop/konsole.notifyrc:3
 msgctxt "Comment"
@@ -87,11 +92,6 @@ msgstr ""
 #: desktop/konsole.notifyrc:844
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
-msgstr ""
-
-#: desktop/konsolehere.desktop:8
-msgctxt "Name"
-msgid "Open Terminal Here"
 msgstr ""
 
 #: desktop/konsolepart.desktop:13 desktop/terminalemulator.desktop:5
