@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-22 04:42+0100\n"
+"POT-Creation-Date: 2011-12-23 04:52+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1585,7 +1585,7 @@ msgstr "পুনঃ তোলক"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:207
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: rc.cpp:841 khtml/khtml_part.cpp:1851
+#: rc.cpp:841 khtml/khtml_part.cpp:1855
 msgid "Description:"
 msgstr "বিৱৰণ:"
 
@@ -3414,7 +3414,7 @@ msgstr "KDE অনুপ্ৰয়োগ"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:495 khtml/khtml_part.cpp:4815
+#: kdecore/kernel/kcmdlineargs.cpp:495 khtml/khtml_part.cpp:4819
 msgid "KDE"
 msgstr "KDE"
 
@@ -10472,8 +10472,8 @@ msgstr "ছবি মূদ্ৰণ কৰা হ'ব"
 msgid "Print header"
 msgstr "হেডাৰ মূদ্ৰণ কৰা হ'ব"
 
-#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3712 khtml/khtml_part.cpp:3941
-#: khtml/khtml_part.cpp:4362 kparts/browserrun.cpp:426
+#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3716 khtml/khtml_part.cpp:3945
+#: khtml/khtml_part.cpp:4366 kparts/browserrun.cpp:426
 msgid "Save As"
 msgstr "নতুন ৰূপে সংৰক্ষণ"
 
@@ -10483,132 +10483,6 @@ msgstr "নতুন ৰূপে সংৰক্ষণ"
 #| msgid "Relative"
 msgid "Inactive"
 msgstr "আপেক্ষিক"
-
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr "TestRegressionGui"
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
-
-#: khtml/testkhtml.cpp:39
-msgid "URL to open"
-msgstr "প্ৰদৰ্শনৰ উদ্দেশ্যে URL"
-
-#: khtml/testkhtml.cpp:41
-msgid "Testkhtml"
-msgstr "Testkhtml"
-
-#: khtml/testkhtml.cpp:42
-msgid "a basic web browser using the KHTML library"
-msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
-
-#: khtml/khtml_settings.cpp:235
-msgid "Accept"
-msgstr "গ্ৰহণ কৰা হ'ব"
-
-#: khtml/khtml_settings.cpp:236
-msgid "Reject"
-msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
-
-#: khtml/khtml_settings.cpp:916
-msgid "Filter error"
-msgstr "ফিল্টাৰ সংক্ৰান্ত ত্ৰুটি"
-
-#: khtml/test_regression.cpp:619
-msgid "Directory containing tests, basedir and output directories."
-msgstr "tests, basedir আৰু output পঞ্জিকা ধাৰণকৰা পঞ্জিকা ।"
-
-#: khtml/test_regression.cpp:621
-msgid "Do not suppress debug output"
-msgstr "ডিবাগৰ পৰা প্ৰাপ্ত ফলাফল লুকুৱা ন'হ'ব"
-
-#: khtml/test_regression.cpp:623
-msgid "Regenerate baseline (instead of checking)"
-msgstr "baseline পুনঃ সৃষ্টি কৰক (পৰীক্ষা নকৰি)"
-
-#: khtml/test_regression.cpp:625
-msgid "Do not show the window while running tests"
-msgstr "পৰীক্ষা চলা সময়ত সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা ন'হ'ব"
-
-#: khtml/test_regression.cpp:627
-msgid "Only run a single test. Multiple options allowed."
-msgstr "অকল এটা পৰীক্ষা কৰা হ'ব । একাধিক বিকল্প প্ৰয়োগ কৰা যাব ।"
-
-#: khtml/test_regression.cpp:628
-msgid "Only run .js tests"
-msgstr "অকল .js পৰীক্ষা কৰা হ'ব ।"
-
-#: khtml/test_regression.cpp:629
-msgid "Only run .html tests"
-msgstr "অকল .html পৰীক্ষা কৰা হ'ব ।"
-
-#: khtml/test_regression.cpp:632
-msgid "Put output in &lt;directory&gt; instead of &lt;base_dir&gt;/output"
-msgstr ""
-
-#: khtml/test_regression.cpp:634
-msgid "Use &lt;directory&gt; as reference instead of &lt;base_dir&gt;/baseline"
-msgstr ""
-
-#: khtml/test_regression.cpp:635
-msgid ""
-"Directory containing tests, basedir and output directories. Only regarded if "
-"-b is not specified."
-msgstr ""
-
-#: khtml/test_regression.cpp:636
-msgid ""
-"Relative path to testcase, or directory of testcases to be run (equivalent "
-"to -t)."
-msgstr ""
-
-#: khtml/test_regression.cpp:638
-msgid "TestRegression"
-msgstr "TestRegression"
-
-#: khtml/test_regression.cpp:639
-msgid "Regression tester for khtml"
-msgstr "khtml ৰ কাৰণে Regression tester"
-
-#: khtml/test_regression_gui_window.cpp:76
-msgid "Available Tests: 0"
-msgstr "উপলব্ধ পৰীক্ষা: 0"
-
-#: khtml/test_regression_gui_window.cpp:181
-msgid "Please choose a valid 'khtmltests/regression/' directory."
-msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtmltests/regression/' পঞ্জিকা চিনাক্ত কৰক ।"
-
-#: khtml/test_regression_gui_window.cpp:250
-msgid "Please choose a valid 'khtml/' build directory."
-msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtml/' বিল্ড পঞ্জিকা চিনাক্ত কৰক ।"
-
-#: khtml/test_regression_gui_window.cpp:532
-#, kde-format
-msgid "Available Tests: %1 (ignored: %2)"
-msgstr "উপলব্ধ পৰীক্ষা: %1 (উপেক্ষিত: %2)"
-
-#: khtml/test_regression_gui_window.cpp:563
-#: khtml/ecma/debugger/debugwindow.cpp:192
-msgid "Continue"
-msgstr "আগবাঢ়ক"
-
-#: khtml/test_regression_gui_window.cpp:632
-msgid "Cannot find testregression executable."
-msgstr "testregression executable পোৱা নাযায় ।"
-
-#: khtml/test_regression_gui_window.cpp:1102
-msgid "Run test..."
-msgstr "পৰীক্ষণ আৰম্ভ কৰা হ'ব..."
-
-#: khtml/test_regression_gui_window.cpp:1104
-msgid "Add to ignores..."
-msgstr "অগ্ৰাহ্যৰ তালিকাত যোগ কৰা হ'ব..."
-
-#: khtml/test_regression_gui_window.cpp:1105
-msgid "Remove from ignores..."
-msgstr "অগ্ৰাহ্যৰ তালিকাৰ পৰা আঁতৰুৱা হ'ব..."
 
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
@@ -10622,7 +10496,7 @@ msgstr "আলেখ্যন সংক্ৰান্ত তথ্য চাও
 msgid "Save &Background Image As..."
 msgstr "নতুন নামেৰে পটভুমিৰ ছবি সংৰক্ষণ কৰক...(&B)"
 
-#: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4023
+#: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4027
 msgid "SSL"
 msgstr "SSL"
 
@@ -10749,81 +10623,81 @@ msgstr "<qt><b>ভূল</b>: নোড %1: %2</qt>"
 msgid "Display Images on Page"
 msgstr "পৃষ্ঠাত প্ৰতিমূৰ্তি দেখুৱাওক"
 
-#: khtml/khtml_part.cpp:1822
+#: khtml/khtml_part.cpp:1826
 #, kde-format
 msgid "Error: %1 - %2"
 msgstr "ত্ৰুটি: %1 - %2"
 
-#: khtml/khtml_part.cpp:1827
+#: khtml/khtml_part.cpp:1831
 msgid "The requested operation could not be completed"
 msgstr "অনুৰোধ কৰা কাৰ্য্য সম্পন্ন কৰা নাযায়"
 
-#: khtml/khtml_part.cpp:1833
+#: khtml/khtml_part.cpp:1837
 msgid "Technical Reason: "
 msgstr "প্ৰযুক্তিগত কাৰণ: "
 
-#: khtml/khtml_part.cpp:1839
+#: khtml/khtml_part.cpp:1843
 msgid "Details of the Request:"
 msgstr "অনুৰোধৰ বিৱৰণ:"
 
-#: khtml/khtml_part.cpp:1841
+#: khtml/khtml_part.cpp:1845
 #, kde-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1844
+#: khtml/khtml_part.cpp:1848
 #, kde-format
 msgid "Protocol: %1"
 msgstr "আচাৰ বিধি: %1"
 
-#: khtml/khtml_part.cpp:1847
+#: khtml/khtml_part.cpp:1851
 #, kde-format
 msgid "Date and Time: %1"
 msgstr "তাৰিখ আৰু সময়: %1"
 
-#: khtml/khtml_part.cpp:1849
+#: khtml/khtml_part.cpp:1853
 #, kde-format
 msgid "Additional Information: %1"
 msgstr "অতিৰিক্ত তথ্য: %1"
 
-#: khtml/khtml_part.cpp:1857
+#: khtml/khtml_part.cpp:1861
 msgid "Possible Causes:"
 msgstr "সম্ভাব্য কাৰণ:"
 
-#: khtml/khtml_part.cpp:1864
+#: khtml/khtml_part.cpp:1868
 msgid "Possible Solutions:"
 msgstr "সম্ভাব্য সমাধান:"
 
-#: khtml/khtml_part.cpp:2282
+#: khtml/khtml_part.cpp:2286
 msgid "Page loaded."
 msgstr "পৃষ্ঠা তুলি লোৱা হৈছে"
 
-#: khtml/khtml_part.cpp:2284
+#: khtml/khtml_part.cpp:2288
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 ছবি তুলি লোৱা হৈছে, সৰ্বমোঠ %2 ৰ ।"
 msgstr[1] "%1 ছবি তুলি লোৱা হৈছে, সৰ্বমোঠ %2 ৰ ।"
 
-#: khtml/khtml_part.cpp:2459
+#: khtml/khtml_part.cpp:2463
 msgid "Automatic Detection"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: khtml/khtml_part.cpp:3521 khtml/khtml_part.cpp:3608
-#: khtml/khtml_part.cpp:3619
+#: khtml/khtml_part.cpp:3525 khtml/khtml_part.cpp:3612
+#: khtml/khtml_part.cpp:3623
 msgid " (In new window)"
 msgstr " (নতুন সংযোগক্ষেত্ৰত)"
 
-#: khtml/khtml_part.cpp:3560
+#: khtml/khtml_part.cpp:3564
 msgid "Symbolic Link"
 msgstr "সাঙ্কেতিক সংযোগ"
 
-#: khtml/khtml_part.cpp:3562
+#: khtml/khtml_part.cpp:3566
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3582
+#: khtml/khtml_part.cpp:3586
 #, fuzzy, kde-format
 #| msgid "%2 (%1 bytes)"
 msgid "%2 (%1 byte)"
@@ -10831,52 +10705,52 @@ msgid_plural "%2 (%1 bytes)"
 msgstr[0] "%2 (%1 bytes)"
 msgstr[1] "%2 (%1 bytes)"
 
-#: khtml/khtml_part.cpp:3586
+#: khtml/khtml_part.cpp:3590
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3621
+#: khtml/khtml_part.cpp:3625
 msgid " (In other frame)"
 msgstr " (পৃথক ফ্ৰেমেত)"
 
-#: khtml/khtml_part.cpp:3626
+#: khtml/khtml_part.cpp:3630
 msgid "Email to: "
 msgstr "ঈ-মেইল প্ৰাপক: "
 
-#: khtml/khtml_part.cpp:3632
+#: khtml/khtml_part.cpp:3636
 msgid " - Subject: "
 msgstr " - বিষয়: "
 
-#: khtml/khtml_part.cpp:3634
+#: khtml/khtml_part.cpp:3638
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3636
+#: khtml/khtml_part.cpp:3640
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3717
+#: khtml/khtml_part.cpp:3721
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
 "the link?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:3718
+#: khtml/khtml_part.cpp:3722
 msgid "Follow"
 msgstr "অনুসৰণ কৰক"
 
-#: khtml/khtml_part.cpp:3819
+#: khtml/khtml_part.cpp:3823
 msgid "Frame Information"
 msgstr "ফ্ৰেম সংক্ৰান্ত তথ্য"
 
-#: khtml/khtml_part.cpp:3825
+#: khtml/khtml_part.cpp:3829
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Properties]</a>"
 
-#: khtml/khtml_part.cpp:3851
+#: khtml/khtml_part.cpp:3855
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Turkish"
@@ -10884,39 +10758,39 @@ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "তুৰ্কি"
 
-#: khtml/khtml_part.cpp:3854
+#: khtml/khtml_part.cpp:3858
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr ""
 
-#: khtml/khtml_part.cpp:3858
+#: khtml/khtml_part.cpp:3862
 #, fuzzy
 #| msgid "Start"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "আৰম্ভ"
 
-#: khtml/khtml_part.cpp:3929
+#: khtml/khtml_part.cpp:3933
 msgid "Save Background Image As"
 msgstr "নতুন ৰূপে পটভূমিৰ ছবি সংৰক্ষণ কৰক"
 
-#: khtml/khtml_part.cpp:4021
+#: khtml/khtml_part.cpp:4025
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4040
+#: khtml/khtml_part.cpp:4044
 msgid "Save Frame As"
 msgstr "নতুন ৰূপে ফ্ৰেম সংৰক্ষণ"
 
-#: khtml/khtml_part.cpp:4084
+#: khtml/khtml_part.cpp:4088
 msgid "&Find in Frame..."
 msgstr "ফ্ৰেমত অনুসন্ধান কৰক...(&F)"
 
-#: khtml/khtml_part.cpp:4086 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4090 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "অনুসন্ধান...(&F)"
 
-#: khtml/khtml_part.cpp:4703
+#: khtml/khtml_part.cpp:4707
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10924,16 +10798,16 @@ msgid ""
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4706 khtml/khtml_part.cpp:4715
-#: khtml/khtml_part.cpp:4739
+#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4719
+#: khtml/khtml_part.cpp:4743
 msgid "Network Transmission"
 msgstr "নে'টৱৰ্ক পৰিবহন"
 
-#: khtml/khtml_part.cpp:4706 khtml/khtml_part.cpp:4716
+#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4720
 msgid "&Send Unencrypted"
 msgstr "এনক্ৰিপশন নোহোৱাকে প্ৰেৰিত হ'ব (&S)"
 
-#: khtml/khtml_part.cpp:4713
+#: khtml/khtml_part.cpp:4717
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -10942,7 +10816,7 @@ msgstr ""
 "সতৰ্কবাৰ্তা: আপোনাৰ তথ্য এনক্ৰিপশন নোহোৱাকে নে'টৱৰ্কত প্ৰেৰণ কৰা হ'ব ।\n"
 "আপুনি আগবাঢ়িবলৈ ইচ্ছুক নে ?"
 
-#: khtml/khtml_part.cpp:4737
+#: khtml/khtml_part.cpp:4741
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -10950,98 +10824,224 @@ msgstr ""
 "বৰ্তমান ছাইটৰ দ্বাৰা ঈ-মেইলৰ মাধ্যমে তথ্য জমা কৰাৰ প্ৰচেষ্টা কৰা হৈছে ।\n"
 "আগবাঢ়িব খোজে নেকি ?"
 
-#: khtml/khtml_part.cpp:4740
+#: khtml/khtml_part.cpp:4744
 msgid "&Send Email"
 msgstr "ঈ-মেইল কৰক (&S)"
 
-#: khtml/khtml_part.cpp:4761
+#: khtml/khtml_part.cpp:4765
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4762 khtml/khtmlview.cpp:2800 khtml/khtmlview.cpp:2842
+#: khtml/khtml_part.cpp:4766 khtml/khtmlview.cpp:2800 khtml/khtmlview.cpp:2842
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: khtml/khtml_part.cpp:4815
+#: khtml/khtml_part.cpp:4819
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5886
+#: khtml/khtml_part.cpp:5890
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6798
+#: khtml/khtml_part.cpp:6802
 msgid "Security Warning"
 msgstr "নিৰাপত্তা সংক্ৰান্ত সতৰ্কবাৰ্তা"
 
-#: khtml/khtml_part.cpp:6807
+#: khtml/khtml_part.cpp:6811
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 "<qt>অৱিশ্বস্ত পৃষ্ঠা দ্বাৰা<br /><b>%1</b><br /> ৰ ব্যৱহাৰ প্ৰতিৰোধ কৰা হৈছে ।</qt>"
 
-#: khtml/khtml_part.cpp:6808 khtml/java/kjavaappletserver.cpp:794
+#: khtml/khtml_part.cpp:6812 khtml/java/kjavaappletserver.cpp:794
 msgid "Security Alert"
 msgstr "নিৰাপত্তা সংক্ৰান্ত সূচনা"
 
-#: khtml/khtml_part.cpp:7156
+#: khtml/khtml_part.cpp:7160
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7216
+#: khtml/khtml_part.cpp:7220
 msgid "&Close Wallet"
 msgstr "Wallet বন্ধ কৰক (&C)"
 
-#: khtml/khtml_part.cpp:7219
+#: khtml/khtml_part.cpp:7223
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7224
+#: khtml/khtml_part.cpp:7228
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7329
+#: khtml/khtml_part.cpp:7333
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ডিবাগাৰ (&D)"
 
-#: khtml/khtml_part.cpp:7361
+#: khtml/khtml_part.cpp:7365
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7367
+#: khtml/khtml_part.cpp:7371
 msgid "Popup Window Blocked"
 msgstr "পপ-আপ সংযোগক্ষেত্ৰ ৰোধ কৰা হৈছে"
 
-#: khtml/khtml_part.cpp:7367
+#: khtml/khtml_part.cpp:7371
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7380
+#: khtml/khtml_part.cpp:7384
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "অৱৰুদ্ধ পপ-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা হ'ব (&S)"
 msgstr[1] "অৱৰুদ্ধ %1 পপ-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা হ'ব (&S)"
 
-#: khtml/khtml_part.cpp:7381
+#: khtml/khtml_part.cpp:7385
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7383
+#: khtml/khtml_part.cpp:7387
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript ৰ নতুন সংযোগক্ষেত্ৰ সংক্ৰান্ত নিয়মনীতি বিন্যাস কৰক...&C"
+
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr "TestRegressionGui"
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
+
+#: khtml/testkhtml.cpp:39
+msgid "URL to open"
+msgstr "প্ৰদৰ্শনৰ উদ্দেশ্যে URL"
+
+#: khtml/testkhtml.cpp:41
+msgid "Testkhtml"
+msgstr "Testkhtml"
+
+#: khtml/testkhtml.cpp:42
+msgid "a basic web browser using the KHTML library"
+msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
+
+#: khtml/khtml_settings.cpp:235
+msgid "Accept"
+msgstr "গ্ৰহণ কৰা হ'ব"
+
+#: khtml/khtml_settings.cpp:236
+msgid "Reject"
+msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
+
+#: khtml/khtml_settings.cpp:916
+msgid "Filter error"
+msgstr "ফিল্টাৰ সংক্ৰান্ত ত্ৰুটি"
+
+#: khtml/test_regression.cpp:619
+msgid "Directory containing tests, basedir and output directories."
+msgstr "tests, basedir আৰু output পঞ্জিকা ধাৰণকৰা পঞ্জিকা ।"
+
+#: khtml/test_regression.cpp:621
+msgid "Do not suppress debug output"
+msgstr "ডিবাগৰ পৰা প্ৰাপ্ত ফলাফল লুকুৱা ন'হ'ব"
+
+#: khtml/test_regression.cpp:623
+msgid "Regenerate baseline (instead of checking)"
+msgstr "baseline পুনঃ সৃষ্টি কৰক (পৰীক্ষা নকৰি)"
+
+#: khtml/test_regression.cpp:625
+msgid "Do not show the window while running tests"
+msgstr "পৰীক্ষা চলা সময়ত সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা ন'হ'ব"
+
+#: khtml/test_regression.cpp:627
+msgid "Only run a single test. Multiple options allowed."
+msgstr "অকল এটা পৰীক্ষা কৰা হ'ব । একাধিক বিকল্প প্ৰয়োগ কৰা যাব ।"
+
+#: khtml/test_regression.cpp:628
+msgid "Only run .js tests"
+msgstr "অকল .js পৰীক্ষা কৰা হ'ব ।"
+
+#: khtml/test_regression.cpp:629
+msgid "Only run .html tests"
+msgstr "অকল .html পৰীক্ষা কৰা হ'ব ।"
+
+#: khtml/test_regression.cpp:632
+msgid "Put output in &lt;directory&gt; instead of &lt;base_dir&gt;/output"
+msgstr ""
+
+#: khtml/test_regression.cpp:634
+msgid "Use &lt;directory&gt; as reference instead of &lt;base_dir&gt;/baseline"
+msgstr ""
+
+#: khtml/test_regression.cpp:635
+msgid ""
+"Directory containing tests, basedir and output directories. Only regarded if "
+"-b is not specified."
+msgstr ""
+
+#: khtml/test_regression.cpp:636
+msgid ""
+"Relative path to testcase, or directory of testcases to be run (equivalent "
+"to -t)."
+msgstr ""
+
+#: khtml/test_regression.cpp:638
+msgid "TestRegression"
+msgstr "TestRegression"
+
+#: khtml/test_regression.cpp:639
+msgid "Regression tester for khtml"
+msgstr "khtml ৰ কাৰণে Regression tester"
+
+#: khtml/test_regression_gui_window.cpp:76
+msgid "Available Tests: 0"
+msgstr "উপলব্ধ পৰীক্ষা: 0"
+
+#: khtml/test_regression_gui_window.cpp:181
+msgid "Please choose a valid 'khtmltests/regression/' directory."
+msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtmltests/regression/' পঞ্জিকা চিনাক্ত কৰক ।"
+
+#: khtml/test_regression_gui_window.cpp:250
+msgid "Please choose a valid 'khtml/' build directory."
+msgstr "অনুগ্ৰহ কৰি এটা বৈধ 'khtml/' বিল্ড পঞ্জিকা চিনাক্ত কৰক ।"
+
+#: khtml/test_regression_gui_window.cpp:532
+#, kde-format
+msgid "Available Tests: %1 (ignored: %2)"
+msgstr "উপলব্ধ পৰীক্ষা: %1 (উপেক্ষিত: %2)"
+
+#: khtml/test_regression_gui_window.cpp:563
+#: khtml/ecma/debugger/debugwindow.cpp:192
+msgid "Continue"
+msgstr "আগবাঢ়ক"
+
+#: khtml/test_regression_gui_window.cpp:632
+msgid "Cannot find testregression executable."
+msgstr "testregression executable পোৱা নাযায় ।"
+
+#: khtml/test_regression_gui_window.cpp:1102
+msgid "Run test..."
+msgstr "পৰীক্ষণ আৰম্ভ কৰা হ'ব..."
+
+#: khtml/test_regression_gui_window.cpp:1104
+msgid "Add to ignores..."
+msgstr "অগ্ৰাহ্যৰ তালিকাত যোগ কৰা হ'ব..."
+
+#: khtml/test_regression_gui_window.cpp:1105
+msgid "Remove from ignores..."
+msgstr "অগ্ৰাহ্যৰ তালিকাৰ পৰা আঁতৰুৱা হ'ব..."
 
 #: khtml/khtmlview.cpp:1842
 msgid "Access Keys activated"

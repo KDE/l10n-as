@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-22 04:19+0000\n"
+"POT-Creation-Date: 2011-12-23 04:28+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2617,7 +2617,7 @@ msgctxt "Name"
 msgid "Dashboard"
 msgstr ""
 
-#: kwin/effects/dashboard/dashboard.desktop:77
+#: kwin/effects/dashboard/dashboard.desktop:78
 msgctxt "Comment"
 msgid "Desaturate the desktop when displaying the Plasma dashboard"
 msgstr ""
@@ -5166,7 +5166,7 @@ msgctxt "Name"
 msgid "MacOS Dashboard Widgets"
 msgstr ""
 
-#: plasma/generic/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:72
+#: plasma/generic/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:73
 msgctxt "Comment"
 msgid "MacOS dashboard widget"
 msgstr ""
@@ -5181,7 +5181,7 @@ msgctxt "Comment"
 msgid "HTML widget"
 msgstr ""
 
-#: plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:76
+#: plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:77
 msgctxt "Comment"
 msgid "MacOS X dashboard widget"
 msgstr ""

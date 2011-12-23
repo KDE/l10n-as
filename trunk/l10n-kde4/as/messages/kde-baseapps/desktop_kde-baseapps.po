@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-22 04:19+0000\n"
+"POT-Creation-Date: 2011-12-23 04:27+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr "Compiz"
 
-#: dolphin/src/dolphinpart.desktop:224
+#: dolphin/src/dolphinpart.desktop:225
 msgctxt "Name"
 msgid "Details"
 msgstr "বিৱৰণ"
@@ -192,7 +192,7 @@ msgctxt "X-KDE-Keywords"
 msgid "password;email;name;organization;realname;login image;face; echo mode;"
 msgstr ""
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:124
+#: kdepasswd/kcm/kcm_useraccount.desktop:125
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
@@ -648,7 +648,7 @@ msgctxt "Comment"
 msgid "Configure enhanced browsing"
 msgstr "উন্নতভাবে চৰণ কৰা বিন্যাস কৰক"
 
-#: konqueror/settings/ebrowsing/ebrowsing.desktop:197
+#: konqueror/settings/ebrowsing/ebrowsing.desktop:198
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Enhanced Browsing,Browsing,WWW,Internet,Internet Filters,Network,Search "
