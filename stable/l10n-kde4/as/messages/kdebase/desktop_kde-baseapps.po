@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-22 12:38+0000\n"
+"POT-Creation-Date: 2011-12-29 13:01+0000\n"
 "PO-Revision-Date: 2011-07-11 18:43+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
@@ -162,7 +162,7 @@ msgctxt "Name"
 msgid "Adblock"
 msgstr "Adblock"
 
-#: konq-plugins/adblock/plugin_adblock.desktop:58
+#: konq-plugins/adblock/plugin_adblock.desktop:59
 msgctxt "Comment"
 msgid "Show all blockable html elements"
 msgstr "সকলো প্ৰতিৰোধ কৰিব পৰা html উপাদানসমূহ"
@@ -192,7 +192,7 @@ msgctxt "Name"
 msgid "Auto Refresh"
 msgstr "স্বচালিত সতেজ"
 
-#: konq-plugins/autorefresh/autorefresh.desktop:67
+#: konq-plugins/autorefresh/autorefresh.desktop:68
 msgctxt "Comment"
 msgid "Auto Refresh plugin"
 msgstr "প্লাগিনক স্বচালিভাৱে সতেজ কৰক"
