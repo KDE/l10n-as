@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-29 13:02+0000\n"
+"POT-Creation-Date: 2012-01-09 09:23+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -847,7 +847,7 @@ msgctxt "Name"
 msgid "KDE Plasma Workspace"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: kdm/kfrontend/sessions/kde-plasma.desktop.cmake:46
+#: kdm/kfrontend/sessions/kde-plasma.desktop.cmake:47
 msgctxt "Comment"
 msgid "The desktop made by KDE"
 msgstr ""
@@ -857,7 +857,7 @@ msgctxt "Name"
 msgid "KDE Plasma Workspace (failsafe session)"
 msgstr ""
 
-#: kdm/kfrontend/sessions/kde-plasma-safe.desktop.cmake:46
+#: kdm/kfrontend/sessions/kde-plasma-safe.desktop.cmake:47
 msgctxt "Comment"
 msgid "The desktop made by KDE (failsafe session)"
 msgstr ""
@@ -5573,7 +5573,7 @@ msgctxt "Name"
 msgid "Fake NetworkManager 0.9"
 msgstr ""
 
-#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:38
+#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:39
 msgctxt "Comment"
 msgid ""
 "Fake backend to allow kdelibs to read NetworkManager daemon 0.9's status"
