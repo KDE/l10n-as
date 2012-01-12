@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-10 16:39+0000\n"
+"POT-Creation-Date: 2012-01-12 09:34+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -58,7 +58,7 @@ msgctxt "Name"
 msgid "Application dashboard"
 msgstr "অনুপ্ৰয়োগ"
 
-#: desktoptheme/appdashboard/metadata.desktop:53
+#: desktoptheme/appdashboard/metadata.desktop:54
 msgctxt "Comment"
 msgid "Intended as Application dashboard default"
 msgstr ""
@@ -5449,7 +5449,7 @@ msgctxt "Name"
 msgid "Nepomuk File Indexing Controller"
 msgstr ""
 
-#: nepomuk/controller/nepomukcontroller.desktop:50
+#: nepomuk/controller/nepomukcontroller.desktop:51
 msgctxt "Comment"
 msgid "System tray icon to control the behaviour of the Nepomuk file indexer"
 msgstr ""
@@ -5529,7 +5529,7 @@ msgctxt "Comment"
 msgid "Nepomuk file watch service"
 msgstr "USB যন্ত্ৰ"
 
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:55
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:56
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -5537,7 +5537,7 @@ msgctxt "Name"
 msgid "New Removable Device"
 msgstr "USB যন্ত্ৰ"
 
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:105
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:107
 msgctxt "Comment"
 msgid "A new unknown removable device has been mounted"
 msgstr ""
@@ -5842,7 +5842,7 @@ msgctxt "Name"
 msgid "KDE Shutdown"
 msgstr ""
 
-#: platforms/win/kwinshutdown/kwinshutdown.desktop:53
+#: platforms/win/kwinshutdown/kwinshutdown.desktop:54
 msgctxt "Comment"
 msgid "kill running KDE applications and processes"
 msgstr ""
