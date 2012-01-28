@@ -1,0 +1,429 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amitakhya Phukan <অমিতাক্ষ ফুকন>, 2009.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwrite\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2011-08-02 05:15+0200\n"
+"PO-Revision-Date: 2011-06-01 18:21+0000\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: kwriteapp.cpp:37 kwritemain.cpp:474
+msgid ""
+"A KDE text-editor component could not be found.\n"
+"Please check your KDE installation."
+msgstr ""
+"এটা KDE লিখনী-সম্পাদক উপাদান পোৱা নগল।\n"
+"অনুগ্ৰহ কৰি আপোনাৰ KDE ইনস্টল নীৰিক্ষণ কৰক।"
+
+#: kwriteapp.cpp:145
+#, kde-format
+msgid ""
+"The file '%1' could not be opened: it is not a normal file, it is a folder."
+msgstr ""
+"'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
+
+#: kwritemain.cpp:138
+msgid "Use this command to close the current document"
+msgstr "বৰ্ত্তমান দস্তাবেজ বন্ধ কৰিবলে এই কমান্ড ব্যৱহাৰ কৰক"
+
+#: kwritemain.cpp:142
+msgid "Use this command to create a new document"
+msgstr "এটা নতুন আলেখ্যন সৃষ্টি কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
+
+#: kwritemain.cpp:144
+msgid "Use this command to open an existing document for editing"
+msgstr "বৰ্ত্তমানৰ একন আলেখ্যন সম্পাদন কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
+
+#: kwritemain.cpp:148
+msgid ""
+"This lists files which you have opened recently, and allows you to easily "
+"open them again."
+msgstr ""
+"ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো সহজতে "
+"খোলাৰ অনুমতি দিয়ে।"
+
+#: kwritemain.cpp:152
+msgid "&New Window"
+msgstr "নতুন সংযোগক্ষেত্ৰ (&W)"
+
+#: kwritemain.cpp:154
+msgid "Create another view containing the current document"
+msgstr "বৰ্ত্তমানৰ আলেখ্যন থকা অন্য এটা প্ৰদৰ্শন সৃষ্টি কৰক"
+
+#: kwritemain.cpp:157
+msgid "Close the current document view"
+msgstr "বৰ্ত্তমানৰ আলেখ্যনৰ প্ৰদৰ্শন বন্ধ কৰক"
+
+#: kwritemain.cpp:164
+msgid "Use this command to show or hide the view's statusbar"
+msgstr "প্ৰদৰ্শনৰ অৱস্থাৰ বাৰ দেখুৱাবলৈ বা লুকাবলৈ এই আদেশ ব্যৱহাৰ কৰক"
+
+#: kwritemain.cpp:166
+msgid "Sho&w Path"
+msgstr "পথ দেখুৱাওক (&w)"
+
+#: kwritemain.cpp:169
+msgid "Show the complete document path in the window caption"
+msgstr "সংযোগক্ষেত্ৰৰ কেপ্‌ছনত আলেখ্যনৰ সম্পূৰ্ণ পথ দেখুৱাওক"
+
+#: kwritemain.cpp:172
+msgid "Configure the application's keyboard shortcut assignments."
+msgstr "অনুপ্ৰয়োগৰ কিবৰ্ড চৰ্টকাট কাৰ্য্যসমূহ সংৰূপণ কৰক।"
+
+#: kwritemain.cpp:176
+msgid "Configure which items should appear in the toolbar(s)."
+msgstr "কোনবোৰ বস্তু টুলবাৰ(সমূহ)ত আহিব লাগিব সংৰূপণ কৰক।"
+
+#: kwritemain.cpp:179
+msgid "&About Editor Component"
+msgstr "&About সম্পাদক উপাদান"
+
+#: kwritemain.cpp:188 kwritemain.cpp:539
+#, kde-format
+msgctxt "@info:status Statusbar label for cursor line and column position"
+msgid " Line: %1 Col: %2 "
+msgstr " Line: %1 Col: %2 "
+
+#: kwritemain.cpp:199
+msgid " INS "
+msgstr " INS "
+
+#: kwritemain.cpp:203 kwritemain.cpp:546
+msgctxt "@info:status Statusbar label for line selection mode"
+msgid " LINE "
+msgstr " LINE "
+
+#: kwritemain.cpp:255
+msgid "Open File"
+msgstr "ফাইল খোলক"
+
+#: kwritemain.cpp:270
+msgid ""
+"The file given could not be read; check whether it exists or is readable for "
+"the current user."
+msgstr ""
+"প্ৰদান কৰা নথিপত্ৰ পঢ়িব নোৱাৰি; ইয়াৰ অস্তিত্ব আছে নে বৰ্তমান ব্যৱহাৰকাৰীৰ কাৰণে "
+"পঢ়াযোগ্য নীৰিক্ষণ কৰি চাওক।"
+
+#: kwritemain.cpp:545
+msgctxt "@info:status Statusbar label for block selection mode"
+msgid " BLOCK "
+msgstr " BLOCK "
+
+#: kwritemain.cpp:590
+msgid "Untitled"
+msgstr "শিৰোনাম নোহোৱা"
+
+#: kwritemain.cpp:627
+msgid "KWrite"
+msgstr "KWrite"
+
+#: kwritemain.cpp:629
+msgid "KWrite - Text Editor"
+msgstr "KWrite - লিখনী সম্পাদক"
+
+#: kwritemain.cpp:630
+msgid "(c) 2000-2010 The Kate Authors"
+msgstr "(c) ২০০০-২০১০  Kate লিখকসমূহ"
+
+#: kwritemain.cpp:631
+msgid "Christoph Cullmann"
+msgstr "Christoph Cullmann"
+
+#: kwritemain.cpp:631
+msgid "Maintainer"
+msgstr "পৰিচালক"
+
+#: kwritemain.cpp:632
+msgid "Anders Lund"
+msgstr "Anders Lund"
+
+#: kwritemain.cpp:632 kwritemain.cpp:633 kwritemain.cpp:634 kwritemain.cpp:640
+msgid "Core Developer"
+msgstr "মূল বিকাশক"
+
+#: kwritemain.cpp:633
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kwritemain.cpp:634
+msgid "Hamish Rodda"
+msgstr "Hamish Rodda"
+
+#: kwritemain.cpp:635
+msgid "Dominik Haumann"
+msgstr "Dominik Haumann"
+
+#: kwritemain.cpp:635
+msgid "Developer & Highlight wizard"
+msgstr "বিকাশক & আলোকপাতৰ ৱিজাৰ্ড"
+
+#: kwritemain.cpp:636
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+#: kwritemain.cpp:636
+msgid "The cool buffersystem"
+msgstr "The cool buffersystem"
+
+#: kwritemain.cpp:637
+msgid "Charles Samuels"
+msgstr "Charles Samuels"
+
+#: kwritemain.cpp:637
+msgid "The Editing Commands"
+msgstr "সম্পাদনৰ আদেশ"
+
+#: kwritemain.cpp:638
+msgid "Matt Newell"
+msgstr "Matt Newell"
+
+#: kwritemain.cpp:638
+msgctxt ""
+"Credit text for someone that did testing and some other similar things"
+msgid "Testing, ..."
+msgstr "পৰীক্ষা কৰা, ..."
+
+#: kwritemain.cpp:639
+msgid "Michael Bartl"
+msgstr "Michael Bartl"
+
+#: kwritemain.cpp:639
+msgid "Former Core Developer"
+msgstr "আগৰ মূল বিকাশক"
+
+#: kwritemain.cpp:640
+msgid "Michael McCallum"
+msgstr "Michael McCallum"
+
+#: kwritemain.cpp:641
+msgid "Jochen Wilhemly"
+msgstr "Jochen Wilhemly"
+
+#: kwritemain.cpp:641
+msgid "KWrite Author"
+msgstr "KWrite লেখক"
+
+#: kwritemain.cpp:642
+msgid "Michael Koch"
+msgstr "Michael Koch"
+
+#: kwritemain.cpp:642
+msgid "KWrite port to KParts"
+msgstr "KParts লৈ KWrite ক প'ৰ্ট কৰা"
+
+#: kwritemain.cpp:643
+msgid "Christian Gebauer"
+msgstr "Christian Gebauer"
+
+#: kwritemain.cpp:644
+msgid "Simon Hausmann"
+msgstr "Simon Hausmann"
+
+#: kwritemain.cpp:645
+msgid "Glen Parker"
+msgstr "Glen Parker"
+
+#: kwritemain.cpp:645
+msgid "KWrite Undo History, Kspell integration"
+msgstr "KWrite Undo History, Kspell integration"
+
+#: kwritemain.cpp:646
+msgid "Scott Manson"
+msgstr "Scott Manson"
+
+#: kwritemain.cpp:646
+msgid "KWrite XML Syntax highlighting support"
+msgstr "KWrite XML Syntax highlighting ৰ সমৰ্থন"
+
+#: kwritemain.cpp:647
+msgid "John Firebaugh"
+msgstr "John Firebaugh"
+
+#: kwritemain.cpp:647
+msgid "Patches and more"
+msgstr "Patches আৰু তাৰ অধিক"
+
+#: kwritemain.cpp:649
+msgid "Matteo Merli"
+msgstr "Matteo Merli"
+
+#: kwritemain.cpp:649
+msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
+msgstr "RPM Spec-Files, Perl, Diff আৰু তাৰ অধিকৰ বাবে আলোকপাত কৰা"
+
+#: kwritemain.cpp:650
+msgid "Rocky Scaletta"
+msgstr "Rocky Scaletta"
+
+#: kwritemain.cpp:650
+msgid "Highlighting for VHDL"
+msgstr "VHDL ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:651
+msgid "Yury Lebedev"
+msgstr "Yury Lebedev"
+
+#: kwritemain.cpp:651
+msgid "Highlighting for SQL"
+msgstr "SQL ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:652
+msgid "Chris Ross"
+msgstr "Chris Ross"
+
+#: kwritemain.cpp:652
+msgid "Highlighting for Ferite"
+msgstr "Ferite ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:653
+msgid "Nick Roux"
+msgstr "Nick Roux"
+
+#: kwritemain.cpp:653
+msgid "Highlighting for ILERPG"
+msgstr "ILERPG ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:654
+msgid "Carsten Niehaus"
+msgstr "Carsten Niehaus"
+
+#: kwritemain.cpp:654
+msgid "Highlighting for LaTeX"
+msgstr "LaTeX ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:655
+msgid "Per Wigren"
+msgstr "Per Wigren"
+
+#: kwritemain.cpp:655
+msgid "Highlighting for Makefiles, Python"
+msgstr "Makefiles, Python ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:656
+msgid "Jan Fritz"
+msgstr "Jan Fritz"
+
+#: kwritemain.cpp:656
+msgid "Highlighting for Python"
+msgstr "Python ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:657
+msgid "Daniel Naber"
+msgstr "Daniel Naber"
+
+#: kwritemain.cpp:658
+msgid "Roland Pabel"
+msgstr "Roland Pabel"
+
+#: kwritemain.cpp:658
+msgid "Highlighting for Scheme"
+msgstr "Scheme ৰ কাৰণে আলোকপাত কৰা"
+
+#: kwritemain.cpp:659
+msgid "Cristi Dumitrescu"
+msgstr "Cristi Dumitrescu"
+
+#: kwritemain.cpp:659
+msgid "PHP Keyword/Datatype list"
+msgstr "PHP Keyword/Datatype তালিকা"
+
+#: kwritemain.cpp:660
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#: kwritemain.cpp:660
+msgctxt "Credit text for someone that helped a lot"
+msgid "Very nice help"
+msgstr "বৰ সুন্দৰ সহায়"
+
+#: kwritemain.cpp:661
+msgid "All people who have contributed and I have forgotten to mention"
+msgstr "যি সকলে অংশ লৈছে আৰু যাৰ নাম মই ল'বলৈ পাহৰিলো"
+
+#: kwritemain.cpp:669
+msgid "Read the contents of stdin"
+msgstr "stdin ৰ বিষয়বস্তু পঢ়ক"
+
+#: kwritemain.cpp:670
+msgid "Set encoding for the file to open"
+msgstr "খুলিব লগা নথিপত্ৰৰ এঙ্কোডিং প্ৰতিষ্ঠা কৰক"
+
+#: kwritemain.cpp:671
+msgid "Navigate to this line"
+msgstr "এই শাৰীলৈ যাওক"
+
+#: kwritemain.cpp:672
+msgid "Navigate to this column"
+msgstr "এই স্তম্ভলৈ যাওক"
+
+#: kwritemain.cpp:673
+msgid "Document to open"
+msgstr "খুলিব লগা আলেখ্যন"
+
+#: kwritemain.cpp:687
+msgid "Choose Editor Component"
+msgstr "সম্পাদকৰ অংশ বাচি লওক"
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "অমিতাক্ষ ফুকন"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aphukan@fedoraproject.org"
+
+#. i18n: file: kwriteui.rc:5
+#. i18n: ectx: Menu (file)
+#: rc.cpp:5
+msgid "&File"
+msgstr "নথিপত্ৰ (&F)"
+
+#. i18n: file: kwriteui.rc:27
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:8
+msgid "&Edit"
+msgstr "সম্পাদন (&E)"
+
+#. i18n: file: kwriteui.rc:39
+#. i18n: ectx: Menu (view)
+#: rc.cpp:11
+msgid "&View"
+msgstr "চাওক (&V)"
+
+#. i18n: file: kwriteui.rc:45
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:14
+msgid "&Tools"
+msgstr "সৰঞ্জাম (&T)"
+
+#. i18n: file: kwriteui.rc:51
+#. i18n: ectx: Menu (settings)
+#: rc.cpp:17
+msgid "&Settings"
+msgstr "পছন্দ (&S)"
+
+#. i18n: file: kwriteui.rc:62
+#. i18n: ectx: Menu (help)
+#: rc.cpp:20
+msgid "&Help"
+msgstr "সহায় (&H)"
+
+#. i18n: file: kwriteui.rc:67
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:23
+msgid "Main Toolbar"
+msgstr "প্ৰধান টুল-বাৰ"
