@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-29 05:30+0000\n"
+"POT-Creation-Date: 2012-01-30 05:37+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr "Compiz"
 
-#: dolphin/src/dolphinpart.desktop:229
+#: dolphin/src/dolphinpart.desktop:237
 msgctxt "Name"
 msgid "Details"
 msgstr "বিৱৰণ"
@@ -192,7 +192,7 @@ msgctxt "X-KDE-Keywords"
 msgid "password;email;name;organization;realname;login image;face; echo mode;"
 msgstr ""
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:129
+#: kdepasswd/kcm/kcm_useraccount.desktop:137
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
@@ -228,7 +228,7 @@ msgctxt "Name"
 msgid "Adblock"
 msgstr "Clock"
 
-#: konq-plugins/adblock/plugin_adblock.desktop:58
+#: konq-plugins/adblock/plugin_adblock.desktop:59
 msgctxt "Comment"
 msgid "Show all blockable html elements"
 msgstr ""
@@ -264,7 +264,7 @@ msgctxt "Name"
 msgid "Auto Refresh"
 msgstr "X Refresh"
 
-#: konq-plugins/autorefresh/autorefresh.desktop:67
+#: konq-plugins/autorefresh/autorefresh.desktop:68
 msgctxt "Comment"
 msgid "Auto Refresh plugin"
 msgstr ""
@@ -354,7 +354,7 @@ msgctxt "Name"
 msgid "TIFF"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:271
+#: konq-plugins/imagerotation/imageconverter.desktop:272
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "SGI"
