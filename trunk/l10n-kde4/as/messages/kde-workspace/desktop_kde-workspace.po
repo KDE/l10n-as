@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-31 08:53+0000\n"
+"POT-Creation-Date: 2012-02-01 04:17+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -196,7 +196,7 @@ msgid ""
 "KDE."
 msgstr ""
 
-#: kcontrol/autostart/autostart.desktop:107
+#: kcontrol/autostart/autostart.desktop:109
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -228,7 +228,7 @@ msgctxt "Comment"
 msgid "Change the colors used in applications"
 msgstr ""
 
-#: kcontrol/colors/colors.desktop:111
+#: kcontrol/colors/colors.desktop:113
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -248,7 +248,7 @@ msgctxt "Comment"
 msgid "Configure date and time settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcontrol/dateandtime/clock.desktop:112
+#: kcontrol/dateandtime/clock.desktop:114
 msgctxt "X-KDE-Keywords"
 msgid ""
 "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
@@ -483,12 +483,12 @@ msgctxt "Name"
 msgid "Font Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:54
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:55
 msgctxt "Comment"
 msgid "Install, manage, and preview fonts"
 msgstr ""
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:138
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:139
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -3285,12 +3285,12 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr ""
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:17
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:19
 msgctxt "Name"
 msgid "KWin Scripts"
 msgstr ""
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:21
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:25
 msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
@@ -3998,7 +3998,7 @@ msgctxt "Name|plasma containment"
 msgid "Default Desktop"
 msgstr "ডেস্কট'প"
 
-#: plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:7
+#: plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:9
 msgctxt "Comment"
 msgid "A clean and simple layout"
 msgstr ""
@@ -5558,7 +5558,7 @@ msgctxt "Name"
 msgid "Activity settings"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:52
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:53
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5566,7 +5566,7 @@ msgctxt "Comment"
 msgid "Configure per-activity Power Management settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:87
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:89
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -5581,7 +5581,7 @@ msgctxt "Name"
 msgid "Advanced settings"
 msgstr "বৈশিষ্ট্য"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:52
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:53
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5589,8 +5589,8 @@ msgctxt "Comment"
 msgid "Configure advanced Power Management settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:87
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:85
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:89
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -5605,7 +5605,7 @@ msgctxt "Name"
 msgid "Energy Saving Settings"
 msgstr "বিজ্ঞান"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:50
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:51
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -6251,7 +6251,7 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/app/kdesystemsettings.desktop:48
+#: systemsettings/app/kdesystemsettings.desktop:49
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Log Viewer"
@@ -6443,12 +6443,12 @@ msgctxt "X-KDE-Keywords"
 msgid "System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/classic/settings-classic-view.desktop:45
+#: systemsettings/classic/settings-classic-view.desktop:46
 msgctxt "Name"
 msgid "Classic Tree View"
 msgstr ""
 
-#: systemsettings/classic/settings-classic-view.desktop:113
+#: systemsettings/classic/settings-classic-view.desktop:114
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
 msgstr ""
@@ -6469,7 +6469,7 @@ msgctxt "Name"
 msgid "System Settings View"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/icons/settings-icon-view.desktop:45
+#: systemsettings/icons/settings-icon-view.desktop:46
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Dolphin View"
@@ -6477,7 +6477,7 @@ msgctxt "Name"
 msgid "Icon View"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: systemsettings/icons/settings-icon-view.desktop:122
+#: systemsettings/icons/settings-icon-view.desktop:123
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
