@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-06 03:59+0000\n"
+"POT-Creation-Date: 2012-02-08 04:24+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -196,7 +196,7 @@ msgid ""
 "KDE."
 msgstr ""
 
-#: kcontrol/autostart/autostart.desktop:111
+#: kcontrol/autostart/autostart.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -228,7 +228,7 @@ msgctxt "Comment"
 msgid "Change the colors used in applications"
 msgstr ""
 
-#: kcontrol/colors/colors.desktop:115
+#: kcontrol/colors/colors.desktop:116
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -248,7 +248,7 @@ msgctxt "Comment"
 msgid "Configure date and time settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcontrol/dateandtime/clock.desktop:116
+#: kcontrol/dateandtime/clock.desktop:117
 msgctxt "X-KDE-Keywords"
 msgid ""
 "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
@@ -2287,6 +2287,29 @@ msgctxt "X-KDE-Keywords"
 msgid "ksmserver,session,logout,confirmation,save,restore"
 msgstr ""
 
+#: ksmserver/themes/contour/metadata.desktop:3
+msgctxt "Name"
+msgid "Contour"
+msgstr ""
+
+#: ksmserver/themes/contour/metadata.desktop:4
+msgctxt "Comment"
+msgid "Plasma Active theme"
+msgstr ""
+
+#: ksmserver/themes/default/metadata.desktop:3
+msgctxt "Name"
+msgid "Default"
+msgstr "অবিকল্পিত"
+
+#: ksmserver/themes/default/metadata.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Default Plasma Desktop theme"
+msgstr "ডেস্কট'প"
+
 #: ksplash/kcm/ksplashthememgr.desktop:15
 msgctxt "Name"
 msgid "Splash Screen"
@@ -3285,12 +3308,12 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr ""
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:20
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:21
 msgctxt "Name"
 msgid "KWin Scripts"
 msgstr ""
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:27
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:29
 msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
@@ -3998,7 +4021,7 @@ msgctxt "Name|plasma containment"
 msgid "Default Desktop"
 msgstr "ডেস্কট'প"
 
-#: plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:10
+#: plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:11
 msgctxt "Comment"
 msgid "A clean and simple layout"
 msgstr ""
@@ -4244,6 +4267,16 @@ msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষ�
 #: plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:63
 msgctxt "Comment"
 msgid "A CPU usage monitor"
+msgstr ""
+
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
+msgctxt "Name"
+msgid "Hard Disk Activity Monitor"
+msgstr ""
+
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:5
+msgctxt "Comment"
+msgid "A hard disk activity monitor"
 msgstr ""
 
 #: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:3
@@ -8910,10 +8943,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Europe, Central"
 #~ msgstr "ইউৰোপ, মধ্য"
-
-#~ msgctxt "Name"
-#~ msgid "Default"
-#~ msgstr "অবিকল্পিত"
 
 #~ msgctxt "Name"
 #~ msgid "Central African Republic"
