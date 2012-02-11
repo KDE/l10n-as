@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-10 04:03+0000\n"
+"POT-Creation-Date: 2012-02-11 04:14+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4262,7 +4262,7 @@ msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:10
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:5
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
@@ -4272,7 +4272,7 @@ msgctxt "Name"
 msgid "Hard Disk Space Usage"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:63
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:4
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
 msgstr ""
