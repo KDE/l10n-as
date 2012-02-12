@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-10 04:32+0100\n"
+"POT-Creation-Date: 2012-02-12 04:18+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -531,7 +531,7 @@ msgid "Sh&ade"
 msgstr "ছায়াবৃত (&a)"
 
 #: useractions.cpp:164
-msgid "Remove &From Group"
+msgid "&Untab"
 msgstr ""
 
 #: useractions.cpp:170
@@ -557,47 +557,43 @@ msgstr "সংযোগক্ষেত্ৰৰ আচৰণ বিন্যা�
 msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
-#: useractions.cpp:326
+#: useractions.cpp:338
+msgctxt "Switch to tab -> Previous"
+msgid "Previous"
+msgstr ""
+
+#: useractions.cpp:339
+msgctxt "Switch to tab -> Next"
+msgid "Next"
+msgstr ""
+
+#: useractions.cpp:383
 #, fuzzy
 #| msgid "Switch to Screen 0"
-msgid "Switch to Window Tab"
+msgid "Switch to Tab"
 msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
 
-#: useractions.cpp:360
-#, fuzzy
-#| msgid "Left"
-msgid "To the Left"
-msgstr "বাওঁফালে"
+#: useractions.cpp:395
+msgid "Tab behind..."
+msgstr ""
 
-#: useractions.cpp:362
-#, fuzzy
-#| msgid "Right"
-msgid "To the Right"
-msgstr "সোঁফালে"
-
-#: useractions.cpp:389
-#, fuzzy
-#| msgid "Move Window"
-msgid "Move Window to Group"
-msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#: useractions.cpp:430
+#: useractions.cpp:421
 msgid "To &Desktop"
 msgstr "চিহ্নিত ডেষ্কট'পলৈ স্থানান্তৰ (&D)"
 
-#: useractions.cpp:453
+#: useractions.cpp:444
 msgid "Ac&tivities"
 msgstr ""
 
-#: useractions.cpp:466
+#: useractions.cpp:457
 msgid "&All Desktops"
 msgstr "সকলো ডেষ্কট'পলৈ (&A)"
 
-#: useractions.cpp:500
+#: useractions.cpp:491
 msgid "&All Activities"
 msgstr ""
 
-#: useractions.cpp:604
+#: useractions.cpp:595
 #, kde-format
 msgid "Activate Window (%1)"
 msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
@@ -614,12 +610,12 @@ msgctxt "keyboard shortcut '%1' is used by action '%2' in application '%3'"
 msgid "<b>%1</b> is used by %2 in %3"
 msgstr ""
 
-#: workspace.cpp:1076 workspace.cpp:1108
+#: workspace.cpp:1075 workspace.cpp:1107
 #, kde-format
 msgid "Desktop %1"
 msgstr "ডেস্কট'প %1"
 
-#: workspace.cpp:1882
+#: workspace.cpp:1881
 #, kde-format
 msgid ""
 "You have selected to show a window without its border.\n"
@@ -628,7 +624,7 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 
-#: workspace.cpp:1894
+#: workspace.cpp:1893
 #, kde-format
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"
@@ -737,6 +733,21 @@ msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন ক�
 #: tabbox/tabbox.cpp:378
 msgid "Walk Through Desktop List (Reverse)"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#, fuzzy
+#~| msgid "Left"
+#~ msgid "To the Left"
+#~ msgstr "বাওঁফালে"
+
+#, fuzzy
+#~| msgid "Right"
+#~ msgid "To the Right"
+#~ msgstr "সোঁফালে"
+
+#, fuzzy
+#~| msgid "Move Window"
+#~ msgid "Move Window to Group"
+#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #~ msgid "&Opacity"
 #~ msgstr "গভিৰতা (&O)"
