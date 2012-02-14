@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-13 04:01+0000\n"
+"POT-Creation-Date: 2012-02-14 08:17+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -428,17 +428,17 @@ msgctxt "Comment"
 msgid "View and switch between active keyboard layouts"
 msgstr ""
 
-#: kcontrol/keys/keys.desktop:15
+#: kcontrol/keys/keys.desktop:14
 msgctxt "Name"
 msgid "Global Keyboard Shortcuts"
 msgstr ""
 
-#: kcontrol/keys/keys.desktop:95
+#: kcontrol/keys/keys.desktop:94
 msgctxt "Comment"
 msgid "Configuration of keybindings"
 msgstr ""
 
-#: kcontrol/keys/keys.desktop:187
+#: kcontrol/keys/keys.desktop:186
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -1751,7 +1751,7 @@ msgctxt "Name"
 msgid "PrintScreen"
 msgstr "PrintScreen"
 
-#: khotkeys/kcm_hotkeys/khotkeys.desktop:12
+#: khotkeys/kcm_hotkeys/khotkeys.desktop:11
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Web Shortcuts"
@@ -1759,7 +1759,7 @@ msgctxt "Name"
 msgid "Custom Shortcuts"
 msgstr "ৱেবৰ চমু পথ"
 
-#: khotkeys/kcm_hotkeys/khotkeys.desktop:72
+#: khotkeys/kcm_hotkeys/khotkeys.desktop:71
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -1767,7 +1767,7 @@ msgctxt "Comment"
 msgid "Configure Input Actions settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: khotkeys/kcm_hotkeys/khotkeys.desktop:140
+#: khotkeys/kcm_hotkeys/khotkeys.desktop:139
 msgctxt "X-KDE-Keywords"
 msgid ""
 "global,keyboard shortcuts,hot keys,hotkeys,KHotKeys,input actions,mouse "
