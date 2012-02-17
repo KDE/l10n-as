@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-15 03:51+0000\n"
+"POT-Creation-Date: 2012-02-17 03:34+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -196,7 +196,7 @@ msgid ""
 "KDE."
 msgstr ""
 
-#: kcontrol/autostart/autostart.desktop:112
+#: kcontrol/autostart/autostart.desktop:113
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -228,7 +228,7 @@ msgctxt "Comment"
 msgid "Change the colors used in applications"
 msgstr ""
 
-#: kcontrol/colors/colors.desktop:116
+#: kcontrol/colors/colors.desktop:117
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -248,7 +248,7 @@ msgctxt "Comment"
 msgid "Configure date and time settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcontrol/dateandtime/clock.desktop:117
+#: kcontrol/dateandtime/clock.desktop:118
 msgctxt "X-KDE-Keywords"
 msgid ""
 "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
@@ -3288,12 +3288,12 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr ""
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:21
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:22
 msgctxt "Name"
 msgid "KWin Scripts"
 msgstr ""
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:29
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:31
 msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
@@ -3771,6 +3771,102 @@ msgctxt "Comment"
 msgid "Tiling Layout has been changed"
 msgstr ""
 
+#: kwin/tabbox/kwinwindowswitcher.desktop:5
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Comment"
+msgid "KWin Window Switcher Layout"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: kwin/tabbox/qml/clients/big_icons/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icons"
+msgctxt "Name"
+msgid "Large Icons"
+msgstr "আইকন"
+
+#: kwin/tabbox/qml/clients/big_icons/metadata.desktop:3
+msgctxt "Comment"
+msgid "A window switcher layout using large icons to represent the window"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/compact/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Compiz"
+msgctxt "Name"
+msgid "Compact"
+msgstr "Compiz"
+
+#: kwin/tabbox/qml/clients/compact/metadata.desktop:3
+msgctxt "Comment"
+msgid "A compact window switcher layout"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/informative/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Information"
+msgctxt "Name"
+msgid "Informative"
+msgstr "তথ্য"
+
+#: kwin/tabbox/qml/clients/informative/metadata.desktop:3
+msgctxt "Comment"
+msgid "An informative window switcher layout including desktop name"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/small_icons/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icons"
+msgctxt "Name"
+msgid "Small Icons"
+msgstr "আইকন"
+
+#: kwin/tabbox/qml/clients/small_icons/metadata.desktop:3
+msgctxt "Comment"
+msgid "A window switcher layout using small icons to represent the window"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/text/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Text Icons"
+msgstr "ডেস্কট'প"
+
+#: kwin/tabbox/qml/clients/text/metadata.desktop:3
+msgctxt "Comment"
+msgid "A window switcher layout only showing window captions"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/thumbnails/metadata.desktop:2
+msgctxt "Name"
+msgid "Thumbnails"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/thumbnails/metadata.desktop:3
+msgctxt "Comment"
+msgid "A window switcher layout using live thumbnails"
+msgstr ""
+
+#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "Window Strip"
+msgstr "MS Windows 9x"
+
+#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:3
+msgctxt "Comment"
+msgid "Window switcher layout for Plasma Active"
+msgstr ""
+
 #: kwrited/kwrited-autostart.desktop:2
 msgctxt "Name"
 msgid "KDE Write Daemon"
@@ -4001,7 +4097,7 @@ msgctxt "Name|plasma containment"
 msgid "Default Desktop"
 msgstr "ডেস্কট'প"
 
-#: plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:11
+#: plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:12
 msgctxt "Comment"
 msgid "A clean and simple layout"
 msgstr ""
@@ -4267,7 +4363,7 @@ msgctxt "Name"
 msgid "Hard Disk Space Usage"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:10
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:11
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
 msgstr ""
@@ -6567,10 +6663,6 @@ msgstr ""
 #~ msgstr "Dolphin প্ৰদৰ্শন"
 
 #~ msgctxt "Name"
-#~ msgid "Icons"
-#~ msgstr "আইকন"
-
-#~ msgctxt "Name"
 #~ msgid "Details"
 #~ msgstr "বিৱৰণ"
 
@@ -7535,20 +7627,12 @@ msgstr ""
 #~ msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #~ msgctxt "Name"
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
-
-#~ msgctxt "Name"
 #~ msgid "Metacity (GNOME)"
 #~ msgstr "Metacity (GNOME)"
 
 #~ msgctxt "Name"
 #~ msgid "Emoticons"
 #~ msgstr "ভাব-প্ৰতীক"
-
-#~ msgctxt "Name"
-#~ msgid "Information"
-#~ msgstr "তথ্য"
 
 #~ msgctxt "Name"
 #~ msgid "Spell Checker"
