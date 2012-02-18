@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-17 10:55+0100\n"
+"POT-Creation-Date: 2012-02-18 12:23+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13107,7 +13107,7 @@ msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr ""
 
-#: nepomuk/query/queryparser.cpp:539
+#: nepomuk/query/queryparser.cpp:544
 #, fuzzy
 #| msgid "Esfand"
 msgctxt ""
@@ -13118,7 +13118,7 @@ msgctxt ""
 msgid "and"
 msgstr "Esfand"
 
-#: nepomuk/query/queryparser.cpp:548
+#: nepomuk/query/queryparser.cpp:553
 #, fuzzy
 #| msgctxt "Mordad short"
 #| msgid "Mor"
