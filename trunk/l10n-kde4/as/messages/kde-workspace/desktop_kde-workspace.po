@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-19 03:24+0000\n"
+"POT-Creation-Date: 2012-02-22 04:01+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3774,6 +3774,21 @@ msgstr ""
 #: kwin/scripting/kwinscript.desktop:5
 msgctxt "Comment"
 msgid "KWin Script"
+msgstr ""
+
+#: kwin/scripts/videowall/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Video Player"
+msgctxt "Name"
+msgid "Video Wall"
+msgstr "Video Player"
+
+#: kwin/scripts/videowall/metadata.desktop:3
+msgctxt "Comment"
+msgid ""
+"Spans fullscreen video player over all attached screens to create a Video "
+"Wall"
 msgstr ""
 
 #: kwin/tabbox/kwinwindowswitcher.desktop:5
@@ -12180,10 +12195,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "MP3 Info"
 #~ msgstr "MP3 Info"
-
-#~ msgctxt "GenericName"
-#~ msgid "Video Player"
-#~ msgstr "Video Player"
 
 #~ msgctxt "Name"
 #~ msgid "MPlayer"
