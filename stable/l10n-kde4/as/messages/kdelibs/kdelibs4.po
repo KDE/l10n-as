@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-23 11:32+0100\n"
+"POT-Creation-Date: 2012-02-24 11:23+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11566,9 +11566,18 @@ msgstr ""
 "'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
 "%2"
 
+#: kinit/klauncher_main.cpp:62
+msgid ""
+"klauncher: This program is not supposed to be started manually.\n"
+"klauncher: It is started automatically by kdeinit4.\n"
+msgstr ""
+"klauncher: এই প্ৰোগ্ৰাম ব্যৱহাৰকৰোঁতা দ্বাৰা আৰম্ভ কৰা সম্ভৱ নহয় ।\n"
+"klauncher: kdeinit4 দ্বাৰা এটি স্বয়ংক্ৰিয় ৰূপে আৰম্ভ কৰা হয় ।\n"
+
 #: kinit/klauncher.cpp:564
-#, kde-format
-msgid "KDEInit could not launch '%1'."
+#, fuzzy, kde-format
+#| msgid "KDEInit could not launch '%1'."
+msgid "KDEInit could not launch '%1'"
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
 #: kinit/klauncher.cpp:745 kinit/klauncher.cpp:774 kinit/klauncher.cpp:789
@@ -11600,14 +11609,6 @@ msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
-
-#: kinit/klauncher_main.cpp:62
-msgid ""
-"klauncher: This program is not supposed to be started manually.\n"
-"klauncher: It is started automatically by kdeinit4.\n"
-msgstr ""
-"klauncher: এই প্ৰোগ্ৰাম ব্যৱহাৰকৰোঁতা দ্বাৰা আৰম্ভ কৰা সম্ভৱ নহয় ।\n"
-"klauncher: kdeinit4 দ্বাৰা এটি স্বয়ংক্ৰিয় ৰূপে আৰম্ভ কৰা হয় ।\n"
 
 #: kjs/object.cpp:554
 msgid "Evaluation error"
