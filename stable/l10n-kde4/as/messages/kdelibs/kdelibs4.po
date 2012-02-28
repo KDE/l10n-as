@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-24 11:23+0100\n"
+"POT-Creation-Date: 2012-02-28 17:39+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7880,12 +7880,6 @@ msgstr ""
 msgid "Conflict With Registered Global Shortcut"
 msgstr "নিবন্ধিত সাৰ্বজনীন চমু পথৰ সৈতে দ্বন্দ্ব"
 
-#: kdeui/sonnet/configdialog.cpp:51
-#, fuzzy
-#| msgid "Send Confirmation"
-msgid "Spell Checking Configuration"
-msgstr "নিশ্চিতি বাৰ্তা প্ৰেৰণ কৰক"
-
 #: kdeui/sonnet/dialog.cpp:103 kdeui/sonnet/dialog.cpp:224
 #: kdeui/sonnet/dialog.cpp:445
 msgctxt "@title:window"
@@ -7915,6 +7909,12 @@ msgstr "বানান পৰীক্ষণ বাতিল কৰা হৈ�
 #: kdeui/sonnet/dialog.cpp:441 kdeui/sonnet/dialog.cpp:445
 msgid "Spell check complete."
 msgstr "বানান পৰীক্ষণ সমাপ্ত ।"
+
+#: kdeui/sonnet/configdialog.cpp:51
+#, fuzzy
+#| msgid "Send Confirmation"
+msgid "Spell Checking Configuration"
+msgstr "নিশ্চিতি বাৰ্তা প্ৰেৰণ কৰক"
 
 #: kdeui/util/kcompletion.cpp:693
 msgid ""
@@ -9687,6 +9687,34 @@ msgstr "অসমৰ্থিত চাবি"
 msgid "without name"
 msgstr "নাম নোহোৱা"
 
+#: kdeui/widgets/ktextedit.cpp:527
+#, fuzzy
+#| msgid "Speak custom text"
+msgid "Speak Text"
+msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr ""
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "No suggestions for %1"
+msgstr "মন্তব্য"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "উপেক্ষা কৰক"
+
+#: kdeui/widgets/ktextedit.cpp:643
+msgid "Add to Dictionary"
+msgstr "অভিধানত যোগ কৰক"
+
+#: kdeui/widgets/ktextedit.cpp:788
+msgid "Nothing to spell check."
+msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
+
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "ছবি সংক্ৰান্ত কাৰ্য্য"
@@ -9887,34 +9915,6 @@ msgstr ""
 #: kdeui/widgets/ksqueezedtextlabel.cpp:165
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
-
-#: kdeui/widgets/ktextedit.cpp:527
-#, fuzzy
-#| msgid "Speak custom text"
-msgid "Speak Text"
-msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
-
-#: kdeui/widgets/ktextedit.cpp:542
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:631
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "No suggestions for %1"
-msgstr "মন্তব্য"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Ignore"
-msgstr "উপেক্ষা কৰক"
-
-#: kdeui/widgets/ktextedit.cpp:643
-msgid "Add to Dictionary"
-msgstr "অভিধানত যোগ কৰক"
-
-#: kdeui/widgets/ktextedit.cpp:788
-msgid "Nothing to spell check."
-msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
 #: kdeui/widgets/ktimecombobox.cpp:259
 msgctxt "@info"
