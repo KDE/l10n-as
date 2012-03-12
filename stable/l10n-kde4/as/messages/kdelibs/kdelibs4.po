@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-01 11:26+0100\n"
+"POT-Creation-Date: 2012-03-12 11:15+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10353,6 +10353,14 @@ msgstr "ছবি - %1x%2 পিক্সেল"
 msgid "Done."
 msgstr "সমাপ্ত ।"
 
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr "TestRegressionGui"
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
+
 #: khtml/khtml_ext.cpp:418
 msgid "&Copy Text"
 msgstr "লিপি নকল কৰক (&C)"
@@ -10507,14 +10515,6 @@ msgstr ""
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "আখৰৰ অবিকল্পিত মাপ (১০০%)"
-
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr "TestRegressionGui"
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr "khtml ৰিগ্ৰেশন পৰীক্ষণ ব্যৱস্থাৰ GUI"
 
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
@@ -10949,11 +10949,11 @@ msgstr ""
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript ৰ নতুন সংযোগক্ষেত্ৰ সংক্ৰান্ত নিয়মনীতি বিন্যাস কৰক...&C"
 
-#: khtml/khtml_settings.cpp:235
+#: khtml/khtml_settings.cpp:235 kparts/htmlextension.cpp:117
 msgid "Accept"
 msgstr "গ্ৰহণ কৰা হ'ব"
 
-#: khtml/khtml_settings.cpp:236
+#: khtml/khtml_settings.cpp:236 kparts/htmlextension.cpp:119
 msgid "Reject"
 msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
 
