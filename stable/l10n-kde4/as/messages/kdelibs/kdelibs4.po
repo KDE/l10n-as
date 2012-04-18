@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-12 12:14+0200\n"
+"POT-Creation-Date: 2012-04-18 11:32+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13699,7 +13699,7 @@ msgstr "-unnamed-"
 msgid "No service matching the requirements was found"
 msgstr "অনুৰোধিত বৈশিষ্ট্যৰ বাবে উপযুক্ত সেৱা পোৱা নাযায়"
 
-#: kdecore/services/kservice.h:555
+#: kdecore/services/kservice.h:561
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
