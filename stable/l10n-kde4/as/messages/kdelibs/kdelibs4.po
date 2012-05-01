@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-23 12:02+0200\n"
+"POT-Creation-Date: 2012-05-01 19:10+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6466,7 +6466,7 @@ msgstr "অন্যান্য যোগদানকাৰী:"
 msgid "Visit contributor's homepage"
 msgstr "হোম পৃষ্ঠা"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:126
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:127
 #, fuzzy, kde-format
 #| msgid "Other Contributors:"
 msgctxt "Action to send an email to a contributor"
@@ -6475,8 +6475,8 @@ msgid ""
 "%1"
 msgstr "অন্যান্য যোগদানকাৰী:"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:131
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:168
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:133
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:170
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -6484,15 +6484,15 @@ msgid ""
 "%1"
 msgstr "হোম পৃষ্ঠা"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:138
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:172
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:140
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:174
 #, kde-format
 msgid ""
 "Visit contributor's profile on %1\n"
 "%2"
 msgstr ""
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:160
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:162
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -6500,7 +6500,7 @@ msgid ""
 "%1"
 msgstr "হোম পৃষ্ঠা"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:164
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:166
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -6508,7 +6508,7 @@ msgid ""
 "%1"
 msgstr "হোম পৃষ্ঠা"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:266
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:268
 #, fuzzy, kde-format
 #| msgctxt "@application/plain"
 #| msgid "%1"
@@ -10953,15 +10953,7 @@ msgstr ""
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript ৰ নতুন সংযোগক্ষেত্ৰ সংক্ৰান্ত নিয়মনীতি বিন্যাস কৰক...&C"
 
-#: khtml/khtml_settings.cpp:238 kparts/htmlextension.cpp:117
-msgid "Accept"
-msgstr "গ্ৰহণ কৰা হ'ব"
-
-#: khtml/khtml_settings.cpp:239 kparts/htmlextension.cpp:119
-msgid "Reject"
-msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
-
-#: khtml/khtml_settings.cpp:923
+#: khtml/khtml_settings.cpp:888
 msgid "Filter error"
 msgstr "ফিল্টাৰ সংক্ৰান্ত ত্ৰুটি"
 
@@ -12764,6 +12756,14 @@ msgstr ""
 #: kparts/part.cpp:823
 msgid "Close Document"
 msgstr "আলেখ্যন বন্ধ কৰক"
+
+#: kparts/htmlextension.cpp:117
+msgid "Accept"
+msgstr "গ্ৰহণ কৰা হ'ব"
+
+#: kparts/htmlextension.cpp:119
+msgid "Reject"
+msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
 
 #: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
