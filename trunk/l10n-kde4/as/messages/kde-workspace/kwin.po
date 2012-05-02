@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-01 06:56+0200\n"
+"POT-Creation-Date: 2012-05-02 04:33+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "Window '%1' demands attention."
 msgstr "সংযোগক্ষেত্ৰ '%1' ৰ পৰা চেতাৱনী প্ৰাপ্ত হৈছে ।"
 
-#: composite.cpp:286
+#: composite.cpp:290
 #, kde-format
 msgid ""
 "Desktop effects have been suspended by another application.<br/>You can "
@@ -50,321 +50,321 @@ msgstr "GLX/OpenGL নাই আৰু অকল OpenGL সমৰ্থন ব�
 msgid "GLX/OpenGL and XRender/XFixes are not available."
 msgstr "GLX/OpenGL আৰু XRender/XFixes নাই ।"
 
-#: kwinbindings.cpp:58
+#: kwinbindings.cpp:48
 msgid "System"
 msgstr "ব্যৱস্থাপ্ৰণালী"
 
-#: kwinbindings.cpp:61
+#: kwinbindings.cpp:51
 msgid "Navigation"
 msgstr "পৰিদৰ্শন"
 
-#: kwinbindings.cpp:62
+#: kwinbindings.cpp:52
 #, fuzzy
 #| msgid "Walk Through Windows"
 msgid "Walk Through Window Tabs"
 msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
 
-#: kwinbindings.cpp:63
+#: kwinbindings.cpp:53
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Window Tabs (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: kwinbindings.cpp:64
+#: kwinbindings.cpp:54
 msgid "Remove Window From Group"
 msgstr ""
 
-#: kwinbindings.cpp:67
+#: kwinbindings.cpp:57
 msgid "Windows"
 msgstr "সংযোগক্ষেত্ৰ"
 
-#: kwinbindings.cpp:68
+#: kwinbindings.cpp:58
 msgid "Window Operations Menu"
 msgstr "সংযোগক্ষেত্ৰ পৰিচালনাৰ তালিকা"
 
-#: kwinbindings.cpp:70
+#: kwinbindings.cpp:60
 msgid "Close Window"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰক"
 
-#: kwinbindings.cpp:72
+#: kwinbindings.cpp:62
 msgid "Maximize Window"
 msgstr "সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
-#: kwinbindings.cpp:74
+#: kwinbindings.cpp:64
 msgid "Maximize Window Vertically"
 msgstr "উলম্ব দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
-#: kwinbindings.cpp:76
+#: kwinbindings.cpp:66
 msgid "Maximize Window Horizontally"
 msgstr "অনুভূমিক দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
-#: kwinbindings.cpp:78
+#: kwinbindings.cpp:68
 msgid "Minimize Window"
 msgstr "সংযোগক্ষেত্ৰ সৰু কৰক"
 
-#: kwinbindings.cpp:80
+#: kwinbindings.cpp:70
 msgid "Shade Window"
 msgstr "ছায়াবৃত সংযোগক্ষেত্ৰ"
 
-#: kwinbindings.cpp:82
+#: kwinbindings.cpp:72
 msgid "Move Window"
 msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
-#: kwinbindings.cpp:84
+#: kwinbindings.cpp:74
 msgid "Resize Window"
 msgstr "সংযোগক্ষেত্ৰৰ মাপ পৰিবৰ্তন"
 
-#: kwinbindings.cpp:86
+#: kwinbindings.cpp:76
 msgid "Raise Window"
 msgstr "সংযোগক্ষেত্ৰ উঠাওক"
 
-#: kwinbindings.cpp:88
+#: kwinbindings.cpp:78
 msgid "Lower Window"
 msgstr "সংযোগক্ষেত্ৰ নমাওক"
 
-#: kwinbindings.cpp:90
+#: kwinbindings.cpp:80
 msgid "Toggle Window Raise/Lower"
 msgstr ""
 
-#: kwinbindings.cpp:92
+#: kwinbindings.cpp:82
 msgid "Make Window Fullscreen"
 msgstr "সম্পূৰ্ণ পৰ্দ্দাত সংযোগক্ষেত্ৰ প্ৰদৰ্শন"
 
-#: kwinbindings.cpp:94
+#: kwinbindings.cpp:84
 msgid "Hide Window Border"
 msgstr "সংযোগক্ষেত্ৰৰ প্ৰান্ত লুকাওক কৰক"
 
-#: kwinbindings.cpp:96
+#: kwinbindings.cpp:86
 msgid "Keep Window Above Others"
 msgstr "সকলো সংযোগক্ষেত্ৰৰ শীৰ্ষত এই সংযোগক্ষেত্ৰ স্থাপন কৰক"
 
-#: kwinbindings.cpp:98
+#: kwinbindings.cpp:88
 msgid "Keep Window Below Others"
 msgstr "অন্য সংযোগক্ষেত্ৰৰ তলত এই সংযোগক্ষেত্ৰ স্থাপন কৰক"
 
-#: kwinbindings.cpp:100
+#: kwinbindings.cpp:90
 msgid "Activate Window Demanding Attention"
 msgstr ""
 
-#: kwinbindings.cpp:102
+#: kwinbindings.cpp:92
 msgid "Setup Window Shortcut"
 msgstr "সংযোগক্ষেত্ৰৰ শৰ্ট কাট নিৰ্ধাৰণ কৰক"
 
-#: kwinbindings.cpp:104
+#: kwinbindings.cpp:94
 msgid "Pack Window to the Right"
 msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:106
+#: kwinbindings.cpp:96
 msgid "Pack Window to the Left"
 msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:108
+#: kwinbindings.cpp:98
 msgid "Pack Window Up"
 msgstr "ওপৰত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:110
+#: kwinbindings.cpp:100
 msgid "Pack Window Down"
 msgstr "তলত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:112
+#: kwinbindings.cpp:102
 msgid "Pack Grow Window Horizontally"
 msgstr ""
 
-#: kwinbindings.cpp:114
+#: kwinbindings.cpp:104
 msgid "Pack Grow Window Vertically"
 msgstr ""
 
-#: kwinbindings.cpp:116
+#: kwinbindings.cpp:106
 msgid "Pack Shrink Window Horizontally"
 msgstr ""
 
-#: kwinbindings.cpp:118
+#: kwinbindings.cpp:108
 msgid "Pack Shrink Window Vertically"
 msgstr ""
 
-#: kwinbindings.cpp:120
+#: kwinbindings.cpp:110
 #, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Left"
 msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:122
+#: kwinbindings.cpp:112
 #, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Right"
 msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:124
+#: kwinbindings.cpp:114
 #, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Top Left"
 msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:126
+#: kwinbindings.cpp:116
 #, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Quick Tile Window to the Bottom Left"
 msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:128
+#: kwinbindings.cpp:118
 #, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Top Right"
 msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:130
+#: kwinbindings.cpp:120
 #, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Quick Tile Window to the Bottom Right"
 msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:132
+#: kwinbindings.cpp:122
 #, fuzzy
 #| msgid "Switch to Screen 0"
 msgid "Switch to Window Above"
 msgstr "পৰ্দ্দা ০ লৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:134
+#: kwinbindings.cpp:124
 #, fuzzy
 #| msgid "Switch to Previous Desktop"
 msgid "Switch to Window Below"
 msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:136
+#: kwinbindings.cpp:126
 #, fuzzy
 #| msgid "Pack Window to the Right"
 msgid "Switch to Window to the Right"
 msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:138
+#: kwinbindings.cpp:128
 #, fuzzy
 #| msgid "Pack Window to the Left"
 msgid "Switch to Window to the Left"
 msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
 
-#: kwinbindings.cpp:140
+#: kwinbindings.cpp:130
 msgid "Increase Opacity of Active Window by 5 %"
 msgstr ""
 
-#: kwinbindings.cpp:142
+#: kwinbindings.cpp:132
 msgid "Decrease Opacity of Active Window by 5 %"
 msgstr ""
 
-#: kwinbindings.cpp:146
+#: kwinbindings.cpp:136
 msgid "Window & Desktop"
 msgstr "সংযোগক্ষেত্ৰ & ডেষ্কট'প"
 
-#: kwinbindings.cpp:147
+#: kwinbindings.cpp:137
 msgid "Keep Window on All Desktops"
 msgstr "সকলো ডেষ্কট'পত সংযোগক্ষেত্ৰ প্ৰদৰ্শিত হ'ব"
 
-#: kwinbindings.cpp:151
+#: kwinbindings.cpp:141
 #, fuzzy, kde-format
 #| msgid "Window to Desktop 1"
 msgid "Window to Desktop %1"
 msgstr "ডেষ্কট'প ১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:153
+#: kwinbindings.cpp:143
 msgid "Window to Next Desktop"
 msgstr "পৰবৰ্তি ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:154
+#: kwinbindings.cpp:144
 msgid "Window to Previous Desktop"
 msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:155
+#: kwinbindings.cpp:145
 msgid "Window One Desktop to the Right"
 msgstr "সোঁফালৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:156
+#: kwinbindings.cpp:146
 msgid "Window One Desktop to the Left"
 msgstr "বাওঁফালৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:157
+#: kwinbindings.cpp:147
 msgid "Window One Desktop Up"
 msgstr "ওপৰৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:158
+#: kwinbindings.cpp:148
 msgid "Window One Desktop Down"
 msgstr "তলৰ ডেষ্কট'পলৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:161
+#: kwinbindings.cpp:151
 #, fuzzy, kde-format
 #| msgid "Window to Screen 1"
 msgid "Window to Screen %1"
 msgstr "পৰ্দ্দা ১ লৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:163
+#: kwinbindings.cpp:153
 msgid "Window to Next Screen"
 msgstr "পৰবৰ্তী পৰ্দ্দালৈ সংযোগক্ষেত্ৰ স্থানান্তৰ কৰক"
 
-#: kwinbindings.cpp:164
+#: kwinbindings.cpp:154
 #, fuzzy
 #| msgid "Show Desktop Grid"
 msgid "Show Desktop"
 msgstr "Desktop Grid দেখুৱাওক"
 
-#: kwinbindings.cpp:167
+#: kwinbindings.cpp:157
 msgid "Desktop Switching"
 msgstr "ডেষ্কট'প পৰিবৰ্তন"
 
-#: kwinbindings.cpp:173
+#: kwinbindings.cpp:163
 #, fuzzy, kde-format
 #| msgid "Switch to Desktop 1"
 msgid "Switch to Desktop %1"
 msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:176
+#: kwinbindings.cpp:166
 msgid "Switch to Next Desktop"
 msgstr "পৰবৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:177
+#: kwinbindings.cpp:167
 msgid "Switch to Previous Desktop"
 msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:178
+#: kwinbindings.cpp:168
 msgid "Switch One Desktop to the Right"
 msgstr "সোঁফালৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:179
+#: kwinbindings.cpp:169
 msgid "Switch One Desktop to the Left"
 msgstr "বাওঁফালৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:180
+#: kwinbindings.cpp:170
 msgid "Switch One Desktop Up"
 msgstr "উপৰৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:181
+#: kwinbindings.cpp:171
 msgid "Switch One Desktop Down"
 msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:184
+#: kwinbindings.cpp:174
 #, fuzzy, kde-format
 #| msgid "Switch to Screen 1"
 msgid "Switch to Screen %1"
 msgstr "পৰ্দ্দা ১ লৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:187
+#: kwinbindings.cpp:177
 msgid "Switch to Next Screen"
 msgstr "পৰবৰ্তী পৰ্দ্দালৈ পৰিবৰ্তন কৰক"
 
-#: kwinbindings.cpp:190
+#: kwinbindings.cpp:180
 msgid "Miscellaneous"
 msgstr "বিবিধ"
 
-#: kwinbindings.cpp:191
+#: kwinbindings.cpp:181
 msgid "Kill Window"
 msgstr "সংযোগক্ষেত্ৰ Kill কৰক"
 
-#: kwinbindings.cpp:192
+#: kwinbindings.cpp:182
 msgid "Block Global Shortcuts"
 msgstr "সাৰ্বজনীন শৰ্ট বাট ৰোধ কৰা হ'ব"
 
-#: kwinbindings.cpp:193
+#: kwinbindings.cpp:183
 msgid "Suspend Compositing"
 msgstr ""
 
-#: kwinbindings.cpp:194
+#: kwinbindings.cpp:184
 msgid "Invert Screen Colors"
 msgstr ""
 
