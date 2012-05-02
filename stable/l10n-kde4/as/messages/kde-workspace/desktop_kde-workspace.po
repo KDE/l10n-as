@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-19 10:41+0000\n"
+"POT-Creation-Date: 2012-05-02 10:06+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -467,12 +467,12 @@ msgctxt "Name"
 msgid "Font Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:56
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:57
 msgctxt "Comment"
 msgid "Install, manage, and preview fonts"
 msgstr ""
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:140
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -991,7 +991,7 @@ msgctxt "Name"
 msgid "KDE Plasma Workspace"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: kdm/kfrontend/sessions/kde-plasma.desktop.cmake:49
+#: kdm/kfrontend/sessions/kde-plasma.desktop.cmake:50
 msgctxt "Comment"
 msgid "The desktop made by KDE"
 msgstr ""
@@ -1001,7 +1001,7 @@ msgctxt "Name"
 msgid "KDE Plasma Workspace (failsafe session)"
 msgstr ""
 
-#: kdm/kfrontend/sessions/kde-plasma-safe.desktop.cmake:48
+#: kdm/kfrontend/sessions/kde-plasma-safe.desktop.cmake:49
 msgctxt "Comment"
 msgid "The desktop made by KDE (failsafe session)"
 msgstr ""
@@ -5589,7 +5589,7 @@ msgctxt "Name"
 msgid "Activity settings"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:54
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:55
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5597,7 +5597,7 @@ msgctxt "Comment"
 msgid "Configure per-activity Power Management settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:91
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:92
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -5612,7 +5612,7 @@ msgctxt "Name"
 msgid "Advanced settings"
 msgstr "বৈশিষ্ট্য"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:54
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:55
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5620,8 +5620,8 @@ msgctxt "Comment"
 msgid "Configure advanced Power Management settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:91
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:89
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:93
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -5636,7 +5636,7 @@ msgctxt "Name"
 msgid "Energy Saving Settings"
 msgstr "বিজ্ঞান"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:52
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:53
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5840,7 +5840,7 @@ msgctxt "Name"
 msgid "Fake NetworkManager 0.9"
 msgstr ""
 
-#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:44
+#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:45
 msgctxt "Comment"
 msgid ""
 "Fake backend to allow kdelibs to read NetworkManager daemon 0.9's status"
@@ -6282,7 +6282,7 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/app/kdesystemsettings.desktop:50
+#: systemsettings/app/kdesystemsettings.desktop:51
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Log Viewer"
@@ -6474,12 +6474,12 @@ msgctxt "X-KDE-Keywords"
 msgid "System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/classic/settings-classic-view.desktop:47
+#: systemsettings/classic/settings-classic-view.desktop:48
 msgctxt "Name"
 msgid "Classic Tree View"
 msgstr ""
 
-#: systemsettings/classic/settings-classic-view.desktop:115
+#: systemsettings/classic/settings-classic-view.desktop:116
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
 msgstr ""
@@ -6500,7 +6500,7 @@ msgctxt "Name"
 msgid "System Settings View"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/icons/settings-icon-view.desktop:47
+#: systemsettings/icons/settings-icon-view.desktop:48
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Dolphin View"
@@ -6508,7 +6508,7 @@ msgctxt "Name"
 msgid "Icon View"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: systemsettings/icons/settings-icon-view.desktop:124
+#: systemsettings/icons/settings-icon-view.desktop:125
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
