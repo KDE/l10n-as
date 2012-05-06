@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-20 10:03+0000\n"
+"POT-Creation-Date: 2012-05-06 10:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5994,7 +5994,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr "USB যন্ত্ৰ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:60
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:61
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -6002,7 +6002,7 @@ msgctxt "Name"
 msgid "Removable Devices"
 msgstr "USB যন্ত্ৰ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:129
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:130
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
