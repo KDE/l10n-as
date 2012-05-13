@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-08 18:30+0200\n"
+"POT-Creation-Date: 2012-05-13 12:27+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6598,7 +6598,7 @@ msgid "Warning"
 msgstr "সতৰ্কবাণী"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:818 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:819 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "ত্ৰুটি"
@@ -9564,7 +9564,7 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:941
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:942
 msgid "Clear &History"
 msgstr "পূৰ্ববৰ্তী তথ্য আঁতৰাওঁক (&H)"
 
@@ -11455,28 +11455,28 @@ msgstr "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgid "No handler found for %1."
 msgstr "%1 ৰ বাবে হেন্ডলাৰ পোৱা নাযায় ।"
 
-#: khtml/rendering/render_form.cpp:797
+#: khtml/rendering/render_form.cpp:798
 msgid "New Web Shortcut"
 msgstr "নতুন ৱেব চমু পথ"
 
-#: khtml/rendering/render_form.cpp:818
+#: khtml/rendering/render_form.cpp:819
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 ক ইতিমধ্যে %2 লৈ বিতৰণ কৰা হৈছে"
 
-#: khtml/rendering/render_form.cpp:863
+#: khtml/rendering/render_form.cpp:864
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:865
+#: khtml/rendering/render_form.cpp:866
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:870
+#: khtml/rendering/render_form.cpp:871
 msgid "UR&I shortcuts:"
 msgstr "URI চমু পথ (&I)"
 
-#: khtml/rendering/render_form.cpp:956
+#: khtml/rendering/render_form.cpp:957
 msgid "Create Web Shortcut"
 msgstr "ৱেব চমু পথ নিৰ্মাণ কৰক"
 
