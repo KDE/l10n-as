@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-26 14:13+0200\n"
+"POT-Creation-Date: 2012-06-02 11:46+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6113,6 +6113,51 @@ msgstr "প্ৰতিমূৰ্তিৰ প্ৰান্ত নিৰ্�
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "মন পছন্দ ক্ষেত্ৰ নিৰ্ব্বাচন কৰিবলৈ প্ৰতিমূৰ্তিত টিপি তাক টানক ।"
 
+#: kdeui/dialogs/kshortcutsdialog.cpp:67
+msgid ""
+"The current shortcut scheme is modified. Save before switching to the new "
+"one?"
+msgstr ""
+
+#: kdeui/dialogs/kshortcutsdialog.cpp:122
+msgid "Configure Shortcuts"
+msgstr "চমুপথ বিন্যাস কৰক"
+
+#: kdeui/dialogs/kshortcutsdialog.cpp:124 kdeui/util/kkeyserver_x11.cpp:113
+msgid "Print"
+msgstr "মূদ্ৰণ কৰক"
+
+#: kdeui/dialogs/kshortcutsdialog.cpp:129
+msgid "Reset to Defaults"
+msgstr "অবিকল্পিত মান পুনঃ স্থাপন কৰা হ'ব"
+
+#: kdeui/dialogs/ktip.cpp:230
+msgid "Tip of the Day"
+msgstr "আজিৰ উপদেশ"
+
+#: kdeui/dialogs/ktip.cpp:249
+msgid "Did you know...?\n"
+msgstr "আপুনি জানে নে...?\n"
+
+#: kdeui/dialogs/ktip.cpp:301
+msgid "&Show tips on startup"
+msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
+
+#: kdeui/dialogs/ktip.cpp:309
+msgctxt "Opposite to Previous"
+msgid "&Next"
+msgstr "পৰবৰ্তী (&N)"
+
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "বিন্যাস কৰক"
+
+#: kdeui/dialogs/kshortcutseditoritem.cpp:45
+#, kde-format
+msgctxt "@item:intable Action name in shortcuts configuration"
+msgid "%1"
+msgstr "%1"
+
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:41
 msgid "Shortcut Schemes"
 msgstr "চমু পথ আঁচনি"
@@ -6171,51 +6216,6 @@ msgstr "এই স্থানলৈ ৰপ্তানি কৰক"
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:171
 msgid "Could not export shortcuts scheme because the location is invalid."
 msgstr ""
-
-#: kdeui/dialogs/kshortcutsdialog.cpp:67
-msgid ""
-"The current shortcut scheme is modified. Save before switching to the new "
-"one?"
-msgstr ""
-
-#: kdeui/dialogs/kshortcutsdialog.cpp:122
-msgid "Configure Shortcuts"
-msgstr "চমুপথ বিন্যাস কৰক"
-
-#: kdeui/dialogs/kshortcutsdialog.cpp:124 kdeui/util/kkeyserver_x11.cpp:113
-msgid "Print"
-msgstr "মূদ্ৰণ কৰক"
-
-#: kdeui/dialogs/kshortcutsdialog.cpp:129
-msgid "Reset to Defaults"
-msgstr "অবিকল্পিত মান পুনঃ স্থাপন কৰা হ'ব"
-
-#: kdeui/dialogs/ktip.cpp:230
-msgid "Tip of the Day"
-msgstr "আজিৰ উপদেশ"
-
-#: kdeui/dialogs/ktip.cpp:249
-msgid "Did you know...?\n"
-msgstr "আপুনি জানে নে...?\n"
-
-#: kdeui/dialogs/ktip.cpp:301
-msgid "&Show tips on startup"
-msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
-
-#: kdeui/dialogs/ktip.cpp:309
-msgctxt "Opposite to Previous"
-msgid "&Next"
-msgstr "পৰবৰ্তী (&N)"
-
-#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "বিন্যাস কৰক"
-
-#: kdeui/dialogs/kshortcutseditoritem.cpp:45
-#, kde-format
-msgctxt "@item:intable Action name in shortcuts configuration"
-msgid "%1"
-msgstr "%1"
 
 #: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:205
 #, fuzzy, kde-format
