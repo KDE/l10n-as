@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-10 12:22+0200\n"
+"POT-Creation-Date: 2012-06-12 18:48+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5829,8 +5829,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2814
-#: khtml/khtmlview.cpp:2847 khtml/html/html_formimpl.cpp:1845
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2807
+#: khtml/khtmlview.cpp:2840 khtml/html/html_formimpl.cpp:1845
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
@@ -10890,7 +10890,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4766 khtml/khtmlview.cpp:2800 khtml/khtmlview.cpp:2842
+#: khtml/khtml_part.cpp:4766 khtml/khtmlview.cpp:2793 khtml/khtmlview.cpp:2835
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
 msgid "Submit"
 msgstr "জমা কৰক"
