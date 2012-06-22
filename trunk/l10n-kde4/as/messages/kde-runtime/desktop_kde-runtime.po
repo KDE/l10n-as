@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-19 09:37+0000\n"
+"POT-Creation-Date: 2012-06-22 04:00+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -647,7 +647,7 @@ msgctxt "Name"
 msgid "Recent Document Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:44
+#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:45
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
 msgstr ""
@@ -5782,7 +5782,7 @@ msgctxt "Name"
 msgid "KDED Windows Start Menu Module"
 msgstr ""
 
-#: platforms/win/kwinstartmenu/winstartmenu.desktop:81
+#: platforms/win/kwinstartmenu/winstartmenu.desktop:82
 msgctxt "Comment"
 msgid "Shortcut icon support"
 msgstr "চমুপথৰ আইকণৰ সমৰ্থন"
