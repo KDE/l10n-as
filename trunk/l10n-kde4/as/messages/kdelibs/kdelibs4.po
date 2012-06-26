@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-15 04:37+0200\n"
+"POT-Creation-Date: 2012-06-26 07:39+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1585,7 +1585,7 @@ msgstr "পুনঃ তোলক"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:207
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: rc.cpp:841 khtml/khtml_part.cpp:1855
+#: rc.cpp:841 khtml/khtml_part.cpp:1869
 msgid "Description:"
 msgstr "বিৱৰণ:"
 
@@ -3508,7 +3508,7 @@ msgstr "KDE অনুপ্ৰয়োগ"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4819
+#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4833
 msgid "KDE"
 msgstr "KDE"
 
@@ -5029,54 +5029,6 @@ msgstr "অজ্ঞাত ত্ৰুটি"
 msgid "Operation not supported"
 msgstr "কাৰ্য্য সমৰ্থিত নহয়"
 
-#: kdecore/network/netsupp.cpp:891 kdecore/network/k3resolver.cpp:545
-msgid "no error"
-msgstr "ত্ৰুটি নোহোৱা"
-
-#: kdecore/network/netsupp.cpp:892
-msgid "address family for nodename not supported"
-msgstr "nodename ৰ ক্ষেত্ৰত চিহ্নিত ঠিকনা সংকলন সমৰ্থিত নহয়"
-
-#: kdecore/network/netsupp.cpp:893 kdecore/network/k3resolver.cpp:547
-msgid "temporary failure in name resolution"
-msgstr "নাম মীমাংসা কৰিবলৈ সাময়িক বিপৰ্যয়"
-
-#: kdecore/network/netsupp.cpp:894
-msgid "invalid value for 'ai_flags'"
-msgstr "'ai_flags' ৰ মান বৈধ নহয়"
-
-#: kdecore/network/netsupp.cpp:895 kdecore/network/k3resolver.cpp:548
-msgid "non-recoverable failure in name resolution"
-msgstr "নাম মীমাংসা কৰিবলৈ স্থায়ী বিপৰ্যয়"
-
-#: kdecore/network/netsupp.cpp:896
-msgid "'ai_family' not supported"
-msgstr "'ai_family' সমৰ্থিত নহয়"
-
-#: kdecore/network/netsupp.cpp:897 kdecore/network/k3resolver.cpp:550
-msgid "memory allocation failure"
-msgstr "স্মৃতিশক্তি বিতৰণ কৰিবলৈ বিফল"
-
-#: kdecore/network/netsupp.cpp:898
-msgid "no address associated with nodename"
-msgstr "nodename ৰ সৈতে কোনো ঠিকনা যুক্ত নহয়"
-
-#: kdecore/network/netsupp.cpp:899 kdecore/network/k3resolver.cpp:551
-msgid "name or service not known"
-msgstr "নাম বা সেৱা অজ্ঞাত"
-
-#: kdecore/network/netsupp.cpp:900
-msgid "servname not supported for ai_socktype"
-msgstr "ai_socktype ৰ বাবে servname সমৰ্থিত নহয়"
-
-#: kdecore/network/netsupp.cpp:901
-msgid "'ai_socktype' not supported"
-msgstr "'ai_socktype' সমৰ্থিত নহয়"
-
-#: kdecore/network/netsupp.cpp:902
-msgid "system error"
-msgstr "ব্যৱস্থাপ্ৰণালীৰ ত্ৰুটি"
-
 #: kdecore/network/k3socks.cpp:137
 msgid "NEC SOCKS client"
 msgstr "NEC SOCKS গ্ৰাহক"
@@ -5090,13 +5042,33 @@ msgstr "Dante SOCKS গ্ৰাহক"
 msgid "Timed out trying to connect to remote host"
 msgstr "দূৰবৰ্তী গৃহস্থৰ সৈতে সংযোগ স্থাপন কৰিবলৈ সময়সীমা পাৰ হ'ল"
 
+#: kdecore/network/k3resolver.cpp:545 kdecore/network/netsupp.cpp:894
+msgid "no error"
+msgstr "ত্ৰুটি নোহোৱা"
+
 #: kdecore/network/k3resolver.cpp:546
 msgid "requested family not supported for this host name"
 msgstr "চিহ্নিত hostname ৰ বাবে অনুৰোধ কৰা সংকলনৰ নাম সমৰ্থিত নহয়"
 
+#: kdecore/network/k3resolver.cpp:547 kdecore/network/netsupp.cpp:896
+msgid "temporary failure in name resolution"
+msgstr "নাম মীমাংসা কৰিবলৈ সাময়িক বিপৰ্যয়"
+
+#: kdecore/network/k3resolver.cpp:548 kdecore/network/netsupp.cpp:898
+msgid "non-recoverable failure in name resolution"
+msgstr "নাম মীমাংসা কৰিবলৈ স্থায়ী বিপৰ্যয়"
+
 #: kdecore/network/k3resolver.cpp:549
 msgid "invalid flags"
 msgstr "অবৈধ ফ্লেগ"
+
+#: kdecore/network/k3resolver.cpp:550 kdecore/network/netsupp.cpp:900
+msgid "memory allocation failure"
+msgstr "স্মৃতিশক্তি বিতৰণ কৰিবলৈ বিফল"
+
+#: kdecore/network/k3resolver.cpp:551 kdecore/network/netsupp.cpp:902
+msgid "name or service not known"
+msgstr "নাম বা সেৱা অজ্ঞাত"
 
 #: kdecore/network/k3resolver.cpp:552
 msgid "requested family not supported"
@@ -5200,6 +5172,34 @@ msgstr ""
 msgctxt "SSL error"
 msgid "Unknown error"
 msgstr "অজ্ঞাত ত্ৰুটি"
+
+#: kdecore/network/netsupp.cpp:895
+msgid "address family for nodename not supported"
+msgstr "nodename ৰ ক্ষেত্ৰত চিহ্নিত ঠিকনা সংকলন সমৰ্থিত নহয়"
+
+#: kdecore/network/netsupp.cpp:897
+msgid "invalid value for 'ai_flags'"
+msgstr "'ai_flags' ৰ মান বৈধ নহয়"
+
+#: kdecore/network/netsupp.cpp:899
+msgid "'ai_family' not supported"
+msgstr "'ai_family' সমৰ্থিত নহয়"
+
+#: kdecore/network/netsupp.cpp:901
+msgid "no address associated with nodename"
+msgstr "nodename ৰ সৈতে কোনো ঠিকনা যুক্ত নহয়"
+
+#: kdecore/network/netsupp.cpp:903
+msgid "servname not supported for ai_socktype"
+msgstr "ai_socktype ৰ বাবে servname সমৰ্থিত নহয়"
+
+#: kdecore/network/netsupp.cpp:904
+msgid "'ai_socktype' not supported"
+msgstr "'ai_socktype' সমৰ্থিত নহয়"
+
+#: kdecore/network/netsupp.cpp:905
+msgid "system error"
+msgstr "ব্যৱস্থাপ্ৰণালীৰ ত্ৰুটি"
 
 #: kdecore/services/kmimetyperepository.cpp:611
 #, kde-format
@@ -5502,18 +5502,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: kdeui/actions/kaction.cpp:122
-#, kde-format
-msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
-"from the 'Settings' menu to solve the ambiguity.\n"
-"No action will be triggered."
-msgstr ""
-
-#: kdeui/actions/kaction.cpp:126
-msgid "Ambiguous shortcut detected"
-msgstr ""
-
 #: kdeui/actions/krecentfilesaction.cpp:81
 #, fuzzy
 #| msgid "No entries"
@@ -5525,44 +5513,6 @@ msgstr "কোনো নিবেশ উপস্থিত নাই"
 #| msgid "Clear input"
 msgid "Clear List"
 msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
-
-#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
-msgctxt "go back"
-msgid "&Back"
-msgstr "পূৰ্ববৰ্তী (&B)"
-
-#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
-msgctxt "go forward"
-msgid "&Forward"
-msgstr "পৰবৰ্তী পদক্ষেপ (&F)"
-
-#: kdeui/actions/kstandardaction.cpp:105
-msgctxt "home page"
-msgid "&Home"
-msgstr "প্ৰথম পৃষ্ঠা (&H)"
-
-#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
-msgctxt "show help"
-msgid "&Help"
-msgstr "সহায় (&H)"
-
-#: kdeui/actions/kstandardaction.cpp:521 kdeui/actions/kstandardaction_p.h:98
-msgid "Show &Menubar"
-msgstr "তালিকাৰ বাৰ প্ৰদৰ্শন (&M)"
-
-#: kdeui/actions/kstandardaction.cpp:527
-msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
-msgstr ""
-
-#: kdeui/actions/kstandardaction.cpp:544 kdeui/actions/kstandardaction_p.h:100
-msgid "Show St&atusbar"
-msgstr "অৱস্থাৰ বাৰ প্ৰদৰ্শন (&a)"
-
-#: kdeui/actions/kstandardaction.cpp:547
-msgid ""
-"Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
-"window used for status information.</p>"
-msgstr ""
 
 #: kdeui/actions/ktogglefullscreenaction.cpp:48
 #, fuzzy
@@ -5602,6 +5552,56 @@ msgstr "সম্পূৰ্ণ পৰ্দ্দাত প্ৰদৰ্শ�
 #: kdeui/actions/ktogglefullscreenaction.cpp:55
 msgctxt "@info:tooltip"
 msgid "Display the window in full screen"
+msgstr ""
+
+#: kdeui/actions/kaction.cpp:122
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguity.\n"
+"No action will be triggered."
+msgstr ""
+
+#: kdeui/actions/kaction.cpp:126
+msgid "Ambiguous shortcut detected"
+msgstr ""
+
+#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
+msgctxt "go back"
+msgid "&Back"
+msgstr "পূৰ্ববৰ্তী (&B)"
+
+#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
+msgctxt "go forward"
+msgid "&Forward"
+msgstr "পৰবৰ্তী পদক্ষেপ (&F)"
+
+#: kdeui/actions/kstandardaction.cpp:105
+msgctxt "home page"
+msgid "&Home"
+msgstr "প্ৰথম পৃষ্ঠা (&H)"
+
+#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
+msgctxt "show help"
+msgid "&Help"
+msgstr "সহায় (&H)"
+
+#: kdeui/actions/kstandardaction.cpp:521 kdeui/actions/kstandardaction_p.h:98
+msgid "Show &Menubar"
+msgstr "তালিকাৰ বাৰ প্ৰদৰ্শন (&M)"
+
+#: kdeui/actions/kstandardaction.cpp:527
+msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
+msgstr ""
+
+#: kdeui/actions/kstandardaction.cpp:544 kdeui/actions/kstandardaction_p.h:100
+msgid "Show St&atusbar"
+msgstr "অৱস্থাৰ বাৰ প্ৰদৰ্শন (&a)"
+
+#: kdeui/actions/kstandardaction.cpp:547
+msgid ""
+"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+"bottom of the window used for status information."
 msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
@@ -6068,6 +6068,10 @@ msgstr "প্ৰতিমূৰ্তিৰ প্ৰান্ত নিৰ্�
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "মন পছন্দ ক্ষেত্ৰ নিৰ্ব্বাচন কৰিবলৈ প্ৰতিমূৰ্তিত টিপি তাক টানক ।"
 
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "বিন্যাস কৰক"
+
 #: kdeui/dialogs/kshortcutsdialog.cpp:67
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
@@ -6102,10 +6106,6 @@ msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰ
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "পৰবৰ্তী (&N)"
-
-#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "বিন্যাস কৰক"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, kde-format
@@ -6476,7 +6476,7 @@ msgid "Warning"
 msgstr "সতৰ্কবাণী"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:872 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:870 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "ত্ৰুটি"
@@ -6527,8 +6527,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2807
-#: khtml/khtmlview.cpp:2840 khtml/html/html_formimpl.cpp:1845
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2811
+#: khtml/khtmlview.cpp:2844 khtml/html/html_formimpl.cpp:1845
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
@@ -7045,6 +7045,44 @@ msgctxt "Numeric IDs of scripts for font previews"
 msgid "1"
 msgstr "1"
 
+#: kdeui/fonts/kfontdialog.cpp:75
+msgid "Select Font"
+msgstr "আখৰ নিৰ্ব্বাচন কৰক"
+
+#: kdeui/fonts/kfontrequester.cpp:110
+msgid "Choose..."
+msgstr "নিৰ্ব্বাচন কৰক..."
+
+#: kdeui/fonts/kfontrequester.cpp:215
+msgid "Click to select a font"
+msgstr "আখৰ নিৰ্ব্বাচনৰ বাবে টিপক"
+
+#: kdeui/fonts/kfontrequester.cpp:222
+msgid "Preview of the selected font"
+msgstr "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শন"
+
+#: kdeui/fonts/kfontrequester.cpp:223
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
+"এইটো পৰিবৰ্তন কৰা যাব ।"
+
+#: kdeui/fonts/kfontrequester.cpp:228
+#, kde-format
+msgid "Preview of the \"%1\" font"
+msgstr "\"%1\" আখৰৰ প্ৰদৰ্শিত পূৰ্বৰূপ"
+
+#: kdeui/fonts/kfontrequester.cpp:229
+#, kde-format
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো পৰিবৰ্তন "
+"কৰা যাব ।"
+
 #: kdeui/fonts/kfontchooser.cpp:162
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font to be used."
@@ -7123,12 +7161,18 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "ব্যৱহাৰযোগ্য আখৰৰ বিন্যাস ইয়াত নিৰ্ব্বাচন কৰা যাব ।"
 
-#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:639
+#: kdeui/fonts/kfontchooser.cpp:295 kdeui/fonts/kfontchooser.cpp:623
+#: kdeui/fonts/kfontchooser.cpp:640
+msgctxt "@item font"
+msgid "Regular"
+msgstr "স্বাভাবিক"
+
+#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:644
 msgctxt "@item font"
 msgid "Italic"
 msgstr "ইটালিক"
 
-#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:640
+#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:645
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "অব্লিক"
@@ -7187,49 +7231,11 @@ msgstr "প্ৰকৃত আখৰ"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:625
+#: kdeui/fonts/kfontchooser.cpp:630
 #, kde-format
 msgctxt "@item Font style"
 msgid "%1"
 msgstr "%1"
-
-#: kdeui/fonts/kfontdialog.cpp:75
-msgid "Select Font"
-msgstr "আখৰ নিৰ্ব্বাচন কৰক"
-
-#: kdeui/fonts/kfontrequester.cpp:110
-msgid "Choose..."
-msgstr "নিৰ্ব্বাচন কৰক..."
-
-#: kdeui/fonts/kfontrequester.cpp:215
-msgid "Click to select a font"
-msgstr "আখৰ নিৰ্ব্বাচনৰ বাবে টিপক"
-
-#: kdeui/fonts/kfontrequester.cpp:222
-msgid "Preview of the selected font"
-msgstr "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শন"
-
-#: kdeui/fonts/kfontrequester.cpp:223
-msgid ""
-"This is a preview of the selected font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
-"এইটো পৰিবৰ্তন কৰা যাব ।"
-
-#: kdeui/fonts/kfontrequester.cpp:228
-#, kde-format
-msgid "Preview of the \"%1\" font"
-msgstr "\"%1\" আখৰৰ প্ৰদৰ্শিত পূৰ্বৰূপ"
-
-#: kdeui/fonts/kfontrequester.cpp:229
-#, kde-format
-msgid ""
-"This is a preview of the \"%1\" font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো পৰিবৰ্তন "
-"কৰা যাব ।"
 
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
 #: nepomuk/utils/searchwidget.cpp:142
@@ -9464,6 +9470,66 @@ msgstr "বিভাজক, অনুচ্ছেদ"
 msgid "Separator, Space"
 msgstr "বিভাজক, শূণ্যস্থান"
 
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#. i18n: Placeholder text in text edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter message").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
+msgid "1"
+msgstr "১"
+
+#: kdeui/widgets/klineedit.cpp:296
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "লিপি পৰিষ্কাৰ কৰক"
+
+#: kdeui/widgets/klineedit.cpp:1216
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "ৰং নিৰ্ব্বাচন কৰক"
+
+#: kdeui/widgets/klineedit.cpp:1223
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "শূণ্য"
+
+#: kdeui/widgets/klineedit.cpp:1224
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "হস্তচালিতভাবে"
+
+#: kdeui/widgets/klineedit.cpp:1225
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "স্বয়ংক্ৰিয়"
+
+#: kdeui/widgets/klineedit.cpp:1226
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr "ড্ৰপ-ডাউন তালিকা"
+
+#: kdeui/widgets/klineedit.cpp:1227
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
+
+#: kdeui/widgets/klineedit.cpp:1228
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr "ড্ৰপ-ডাউন তালিকা && স্বয়ংক্ৰিয়"
+
+#: kdeui/widgets/klineedit.cpp:1259
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "অবিকল্পিত মান"
+
 #: kdeui/widgets/ktoolbar.cpp:292
 #, fuzzy
 #| msgid "Show help"
@@ -9622,7 +9688,7 @@ msgstr "ওপৰত স্থানান্তৰ (&U)"
 msgid "Move &Down"
 msgstr "তলত স্থানান্তৰ (&D)"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:995
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:993
 msgid "Clear &History"
 msgstr "পূৰ্ববৰ্তী তথ্য আঁতৰাওঁক (&H)"
 
@@ -9758,66 +9824,6 @@ msgstr ""
 #| msgid "Do you want to reload KDE configuration?"
 msgid "You are not allowed to save the configuration"
 msgstr "KDE বিন্যাস পুনঃ তুলি লোৱা হ'ব নেকি ?"
-
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#. i18n: Placeholder text in text edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter message").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
-msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
-msgid "1"
-msgstr "১"
-
-#: kdeui/widgets/klineedit.cpp:296
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "লিপি পৰিষ্কাৰ কৰক"
-
-#: kdeui/widgets/klineedit.cpp:1213
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "ৰং নিৰ্ব্বাচন কৰক"
-
-#: kdeui/widgets/klineedit.cpp:1220
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "শূণ্য"
-
-#: kdeui/widgets/klineedit.cpp:1221
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "হস্তচালিতভাবে"
-
-#: kdeui/widgets/klineedit.cpp:1222
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "স্বয়ংক্ৰিয়"
-
-#: kdeui/widgets/klineedit.cpp:1223
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr "ড্ৰপ-ডাউন তালিকা"
-
-#: kdeui/widgets/klineedit.cpp:1224
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
-
-#: kdeui/widgets/klineedit.cpp:1225
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr "ড্ৰপ-ডাউন তালিকা && স্বয়ংক্ৰিয়"
-
-#: kdeui/widgets/klineedit.cpp:1256
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "অবিকল্পিত মান"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -10338,8 +10344,8 @@ msgstr "ছবি মূদ্ৰণ কৰা হ'ব"
 msgid "Print header"
 msgstr "হেডাৰ মূদ্ৰণ কৰা হ'ব"
 
-#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3716 khtml/khtml_part.cpp:3945
-#: khtml/khtml_part.cpp:4366 kparts/browserrun.cpp:426
+#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
+#: khtml/khtml_part.cpp:4380 kparts/browserrun.cpp:426
 msgid "Save As"
 msgstr "নতুন ৰূপে সংৰক্ষণ"
 
@@ -10350,232 +10356,232 @@ msgstr "নতুন ৰূপে সংৰক্ষণ"
 msgid "Inactive"
 msgstr "আপেক্ষিক"
 
-#: khtml/khtml_part.cpp:251
+#: khtml/khtml_part.cpp:252
 msgid "View Do&cument Source"
 msgstr "আলেখ্যনৰ উৎস চাওক (&c)"
 
-#: khtml/khtml_part.cpp:258 khtml/khtml_ext.cpp:509
+#: khtml/khtml_part.cpp:259 khtml/khtml_ext.cpp:509
 msgid "View Frame Source"
 msgstr "ফ্ৰেমৰ উৎস চাওক"
 
-#: khtml/khtml_part.cpp:265
+#: khtml/khtml_part.cpp:266
 msgid "View Document Information"
 msgstr "আলেখ্যন সংক্ৰান্ত তথ্য চাওক"
 
-#: khtml/khtml_part.cpp:272
+#: khtml/khtml_part.cpp:273
 msgid "Save &Background Image As..."
 msgstr "নতুন নামেৰে পটভুমিৰ ছবি সংৰক্ষণ কৰক...(&B)"
 
-#: khtml/khtml_part.cpp:281 khtml/khtml_ext.cpp:504
+#: khtml/khtml_part.cpp:282 khtml/khtml_ext.cpp:504
 msgid "Save &Frame As..."
 msgstr "নতুন ৰূপত ফ্ৰেম সংৰক্ষণ (&F)..."
 
-#: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4027
+#: khtml/khtml_part.cpp:294 khtml/khtml_part.cpp:4041
 msgid "SSL"
 msgstr "SSL"
 
-#: khtml/khtml_part.cpp:297
+#: khtml/khtml_part.cpp:298
 msgid "Print Rendering Tree to STDOUT"
 msgstr ""
 
-#: khtml/khtml_part.cpp:301
+#: khtml/khtml_part.cpp:302
 msgid "Print DOM Tree to STDOUT"
 msgstr ""
 
-#: khtml/khtml_part.cpp:305
+#: khtml/khtml_part.cpp:306
 msgid "Print frame tree to STDOUT"
 msgstr ""
 
-#: khtml/khtml_part.cpp:309
+#: khtml/khtml_part.cpp:310
 msgid "Stop Animated Images"
 msgstr "এনিমেছনৰ ছবি বন্ধ কৰা হ'ব"
 
-#: khtml/khtml_part.cpp:313
+#: khtml/khtml_part.cpp:314
 msgid "Set &Encoding"
 msgstr "এনকোডিং নিৰ্ধাৰণ কৰক (&E)"
 
-#: khtml/khtml_part.cpp:352
+#: khtml/khtml_part.cpp:353
 msgid "Use S&tylesheet"
 msgstr "স্টাইল-শিট ব্যৱহাৰ কৰা হ'ব (&t)"
 
-#: khtml/khtml_part.cpp:357
+#: khtml/khtml_part.cpp:358
 msgid "Enlarge Font"
 msgstr "আখৰৰ মাপ বৃদ্ধি কৰা হ'ব"
 
-#: khtml/khtml_part.cpp:360
+#: khtml/khtml_part.cpp:361
 msgid ""
 "<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click and "
 "hold down the mouse button for a menu with all available font sizes.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:364
+#: khtml/khtml_part.cpp:365
 msgid "Shrink Font"
 msgstr "আখৰৰ মাপ হ্ৰাস কৰা হ'ব"
 
-#: khtml/khtml_part.cpp:367
+#: khtml/khtml_part.cpp:368
 msgid ""
 "<qt>Shrink Font<br /><br />Make the font in this window smaller. Click and "
 "hold down the mouse button for a menu with all available font sizes.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:382
+#: khtml/khtml_part.cpp:383
 msgid ""
 "<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
 "displayed page.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:386
+#: khtml/khtml_part.cpp:387
 msgid ""
 "<qt>Find next<br /><br />Find the next occurrence of the text that you have "
 "found using the <b>Find Text</b> function.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:392
+#: khtml/khtml_part.cpp:393
 msgid ""
 "<qt>Find previous<br /><br />Find the previous occurrence of the text that "
 "you have found using the <b>Find Text</b> function.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:397
+#: khtml/khtml_part.cpp:398
 msgid "Find Text as You Type"
 msgstr ""
 
-#: khtml/khtml_part.cpp:400
+#: khtml/khtml_part.cpp:401
 msgid ""
 "This shortcut shows the find bar, for finding text in the displayed page. It "
 "cancels the effect of \"Find Links as You Type\", which sets the \"Find "
 "links only\" option."
 msgstr ""
 
-#: khtml/khtml_part.cpp:403
+#: khtml/khtml_part.cpp:404
 msgid "Find Links as You Type"
 msgstr ""
 
-#: khtml/khtml_part.cpp:409
+#: khtml/khtml_part.cpp:410
 msgid ""
 "This shortcut shows the find bar, and sets the option \"Find links only\"."
 msgstr ""
 
-#: khtml/khtml_part.cpp:421 khtml/khtml_ext.cpp:498
+#: khtml/khtml_part.cpp:422 khtml/khtml_ext.cpp:498
 msgid "Print Frame..."
 msgstr "ফ্ৰেম মূদ্ৰণ কৰক..."
 
-#: khtml/khtml_part.cpp:425
+#: khtml/khtml_part.cpp:426
 msgid ""
 "<qt>Print Frame<br /><br />Some pages have several frames. To print only a "
 "single frame, click on it and then use this function.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:439
+#: khtml/khtml_part.cpp:440
 msgid "Toggle Caret Mode"
 msgstr ""
 
-#: khtml/khtml_part.cpp:700
+#: khtml/khtml_part.cpp:714
 #, kde-format
 msgid "The fake user-agent '%1' is in use."
 msgstr ""
 
-#: khtml/khtml_part.cpp:1197
+#: khtml/khtml_part.cpp:1211
 msgid "This web page contains coding errors."
 msgstr ""
 
-#: khtml/khtml_part.cpp:1239
+#: khtml/khtml_part.cpp:1253
 msgid "&Hide Errors"
 msgstr ""
 
-#: khtml/khtml_part.cpp:1240
+#: khtml/khtml_part.cpp:1254
 msgid "&Disable Error Reporting"
 msgstr ""
 
-#: khtml/khtml_part.cpp:1284
+#: khtml/khtml_part.cpp:1298
 #, kde-format
 msgid "<qt><b>Error</b>: %1: %2</qt>"
 msgstr "<qt><b>ভূল</b>: %1: %2</qt>"
 
-#: khtml/khtml_part.cpp:1333
+#: khtml/khtml_part.cpp:1347
 #, kde-format
 msgid "<qt><b>Error</b>: node %1: %2</qt>"
 msgstr "<qt><b>ভূল</b>: নোড %1: %2</qt>"
 
-#: khtml/khtml_part.cpp:1449
+#: khtml/khtml_part.cpp:1463
 msgid "Display Images on Page"
 msgstr "পৃষ্ঠাত প্ৰতিমূৰ্তি দেখুৱাওক"
 
-#: khtml/khtml_part.cpp:1826
+#: khtml/khtml_part.cpp:1840
 #, kde-format
 msgid "Error: %1 - %2"
 msgstr "ত্ৰুটি: %1 - %2"
 
-#: khtml/khtml_part.cpp:1831
+#: khtml/khtml_part.cpp:1845
 msgid "The requested operation could not be completed"
 msgstr "অনুৰোধ কৰা কাৰ্য্য সম্পন্ন কৰা নাযায়"
 
-#: khtml/khtml_part.cpp:1837
+#: khtml/khtml_part.cpp:1851
 msgid "Technical Reason: "
 msgstr "প্ৰযুক্তিগত কাৰণ: "
 
-#: khtml/khtml_part.cpp:1843
+#: khtml/khtml_part.cpp:1857
 msgid "Details of the Request:"
 msgstr "অনুৰোধৰ বিৱৰণ:"
 
-#: khtml/khtml_part.cpp:1845
+#: khtml/khtml_part.cpp:1859
 #, kde-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1848
+#: khtml/khtml_part.cpp:1862
 #, kde-format
 msgid "Protocol: %1"
 msgstr "আচাৰ বিধি: %1"
 
-#: khtml/khtml_part.cpp:1851
+#: khtml/khtml_part.cpp:1865
 #, kde-format
 msgid "Date and Time: %1"
 msgstr "তাৰিখ আৰু সময়: %1"
 
-#: khtml/khtml_part.cpp:1853
+#: khtml/khtml_part.cpp:1867
 #, kde-format
 msgid "Additional Information: %1"
 msgstr "অতিৰিক্ত তথ্য: %1"
 
-#: khtml/khtml_part.cpp:1861
+#: khtml/khtml_part.cpp:1875
 msgid "Possible Causes:"
 msgstr "সম্ভাব্য কাৰণ:"
 
-#: khtml/khtml_part.cpp:1868
+#: khtml/khtml_part.cpp:1882
 msgid "Possible Solutions:"
 msgstr "সম্ভাব্য সমাধান:"
 
-#: khtml/khtml_part.cpp:2286
+#: khtml/khtml_part.cpp:2300
 msgid "Page loaded."
 msgstr "পৃষ্ঠা তুলি লোৱা হৈছে"
 
-#: khtml/khtml_part.cpp:2288
+#: khtml/khtml_part.cpp:2302
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 ছবি তুলি লোৱা হৈছে, সৰ্বমোঠ %2 ৰ ।"
 msgstr[1] "%1 ছবি তুলি লোৱা হৈছে, সৰ্বমোঠ %2 ৰ ।"
 
-#: khtml/khtml_part.cpp:2463
+#: khtml/khtml_part.cpp:2477
 msgid "Automatic Detection"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: khtml/khtml_part.cpp:3525 khtml/khtml_part.cpp:3612
-#: khtml/khtml_part.cpp:3623
+#: khtml/khtml_part.cpp:3539 khtml/khtml_part.cpp:3626
+#: khtml/khtml_part.cpp:3637
 msgid " (In new window)"
 msgstr " (নতুন সংযোগক্ষেত্ৰত)"
 
-#: khtml/khtml_part.cpp:3564
+#: khtml/khtml_part.cpp:3578
 msgid "Symbolic Link"
 msgstr "সাঙ্কেতিক সংযোগ"
 
-#: khtml/khtml_part.cpp:3566
+#: khtml/khtml_part.cpp:3580
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3586
+#: khtml/khtml_part.cpp:3600
 #, fuzzy, kde-format
 #| msgid "%2 (%1 bytes)"
 msgid "%2 (%1 byte)"
@@ -10583,52 +10589,52 @@ msgid_plural "%2 (%1 bytes)"
 msgstr[0] "%2 (%1 bytes)"
 msgstr[1] "%2 (%1 bytes)"
 
-#: khtml/khtml_part.cpp:3590
+#: khtml/khtml_part.cpp:3604
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3625
+#: khtml/khtml_part.cpp:3639
 msgid " (In other frame)"
 msgstr " (পৃথক ফ্ৰেমেত)"
 
-#: khtml/khtml_part.cpp:3630
+#: khtml/khtml_part.cpp:3644
 msgid "Email to: "
 msgstr "ঈ-মেইল প্ৰাপক: "
 
-#: khtml/khtml_part.cpp:3636
+#: khtml/khtml_part.cpp:3650
 msgid " - Subject: "
 msgstr " - বিষয়: "
 
-#: khtml/khtml_part.cpp:3638
+#: khtml/khtml_part.cpp:3652
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3640
+#: khtml/khtml_part.cpp:3654
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3721
+#: khtml/khtml_part.cpp:3735
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
 "the link?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:3722
+#: khtml/khtml_part.cpp:3736
 msgid "Follow"
 msgstr "অনুসৰণ কৰক"
 
-#: khtml/khtml_part.cpp:3823
+#: khtml/khtml_part.cpp:3837
 msgid "Frame Information"
 msgstr "ফ্ৰেম সংক্ৰান্ত তথ্য"
 
-#: khtml/khtml_part.cpp:3829
+#: khtml/khtml_part.cpp:3843
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Properties]</a>"
 
-#: khtml/khtml_part.cpp:3855
+#: khtml/khtml_part.cpp:3869
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Turkish"
@@ -10636,39 +10642,39 @@ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "তুৰ্কি"
 
-#: khtml/khtml_part.cpp:3858
+#: khtml/khtml_part.cpp:3872
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr ""
 
-#: khtml/khtml_part.cpp:3862
+#: khtml/khtml_part.cpp:3876
 #, fuzzy
 #| msgid "Start"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "আৰম্ভ"
 
-#: khtml/khtml_part.cpp:3933
+#: khtml/khtml_part.cpp:3947
 msgid "Save Background Image As"
 msgstr "নতুন ৰূপে পটভূমিৰ ছবি সংৰক্ষণ কৰক"
 
-#: khtml/khtml_part.cpp:4025
+#: khtml/khtml_part.cpp:4039
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4044
+#: khtml/khtml_part.cpp:4058
 msgid "Save Frame As"
 msgstr "নতুন ৰূপে ফ্ৰেম সংৰক্ষণ"
 
-#: khtml/khtml_part.cpp:4088
+#: khtml/khtml_part.cpp:4102
 msgid "&Find in Frame..."
 msgstr "ফ্ৰেমত অনুসন্ধান কৰক...(&F)"
 
-#: khtml/khtml_part.cpp:4090 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4104 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "অনুসন্ধান...(&F)"
 
-#: khtml/khtml_part.cpp:4707
+#: khtml/khtml_part.cpp:4721
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10676,16 +10682,16 @@ msgid ""
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4719
-#: khtml/khtml_part.cpp:4743
+#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4733
+#: khtml/khtml_part.cpp:4757
 msgid "Network Transmission"
 msgstr "নে'টৱৰ্ক পৰিবহন"
 
-#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4720
+#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4734
 msgid "&Send Unencrypted"
 msgstr "এনক্ৰিপশন নোহোৱাকে প্ৰেৰিত হ'ব (&S)"
 
-#: khtml/khtml_part.cpp:4717
+#: khtml/khtml_part.cpp:4731
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -10694,7 +10700,7 @@ msgstr ""
 "সতৰ্কবাৰ্তা: আপোনাৰ তথ্য এনক্ৰিপশন নোহোৱাকে নে'টৱৰ্কত প্ৰেৰণ কৰা হ'ব ।\n"
 "আপুনি আগবাঢ়িবলৈ ইচ্ছুক নে ?"
 
-#: khtml/khtml_part.cpp:4741
+#: khtml/khtml_part.cpp:4755
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -10702,96 +10708,96 @@ msgstr ""
 "বৰ্তমান ছাইটৰ দ্বাৰা ঈ-মেইলৰ মাধ্যমে তথ্য জমা কৰাৰ প্ৰচেষ্টা কৰা হৈছে ।\n"
 "আগবাঢ়িব খোজে নেকি ?"
 
-#: khtml/khtml_part.cpp:4744
+#: khtml/khtml_part.cpp:4758
 msgid "&Send Email"
 msgstr "ঈ-মেইল কৰক (&S)"
 
-#: khtml/khtml_part.cpp:4765
+#: khtml/khtml_part.cpp:4779
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4766 khtml/khtmlview.cpp:2793 khtml/khtmlview.cpp:2835
+#: khtml/khtml_part.cpp:4780 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: khtml/khtml_part.cpp:4819
+#: khtml/khtml_part.cpp:4833
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5890
+#: khtml/khtml_part.cpp:5904
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6802
+#: khtml/khtml_part.cpp:6816
 msgid "Security Warning"
 msgstr "নিৰাপত্তা সংক্ৰান্ত সতৰ্কবাৰ্তা"
 
-#: khtml/khtml_part.cpp:6811
+#: khtml/khtml_part.cpp:6825
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 "<qt>অৱিশ্বস্ত পৃষ্ঠা দ্বাৰা<br /><b>%1</b><br /> ৰ ব্যৱহাৰ প্ৰতিৰোধ কৰা হৈছে ।</qt>"
 
-#: khtml/khtml_part.cpp:6812 khtml/java/kjavaappletserver.cpp:794
+#: khtml/khtml_part.cpp:6826 khtml/java/kjavaappletserver.cpp:794
 msgid "Security Alert"
 msgstr "নিৰাপত্তা সংক্ৰান্ত সূচনা"
 
-#: khtml/khtml_part.cpp:7160
+#: khtml/khtml_part.cpp:7174
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7220
+#: khtml/khtml_part.cpp:7234
 msgid "&Close Wallet"
 msgstr "Wallet বন্ধ কৰক (&C)"
 
-#: khtml/khtml_part.cpp:7223
+#: khtml/khtml_part.cpp:7237
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7228
+#: khtml/khtml_part.cpp:7242
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7333
+#: khtml/khtml_part.cpp:7347
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ডিবাগাৰ (&D)"
 
-#: khtml/khtml_part.cpp:7365
+#: khtml/khtml_part.cpp:7379
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7371
+#: khtml/khtml_part.cpp:7385
 msgid "Popup Window Blocked"
 msgstr "পপ-আপ সংযোগক্ষেত্ৰ ৰোধ কৰা হৈছে"
 
-#: khtml/khtml_part.cpp:7371
+#: khtml/khtml_part.cpp:7385
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7384
+#: khtml/khtml_part.cpp:7398
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "অৱৰুদ্ধ পপ-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা হ'ব (&S)"
 msgstr[1] "অৱৰুদ্ধ %1 পপ-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা হ'ব (&S)"
 
-#: khtml/khtml_part.cpp:7385
+#: khtml/khtml_part.cpp:7399
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7387
+#: khtml/khtml_part.cpp:7401
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript ৰ নতুন সংযোগক্ষেত্ৰ সংক্ৰান্ত নিয়মনীতি বিন্যাস কৰক...&C"
 
@@ -11076,7 +11082,7 @@ msgstr ""
 msgid "Default Font Size (100%)"
 msgstr "আখৰৰ অবিকল্পিত মাপ (১০০%)"
 
-#: khtml/khtmlview.cpp:1842
+#: khtml/khtmlview.cpp:1846
 msgid "Access Keys activated"
 msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
 
@@ -11105,79 +11111,79 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "স্ক্ৰিপ্ট খোলক"
 
-#: khtml/ecma/kjs_window.cpp:1650 khtml/ecma/kjs_html.cpp:2162
+#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1660
 msgid "Confirmation: JavaScript Popup"
 msgstr "নিশ্চায়ন: JavaScript পপ-আপ"
 
-#: khtml/ecma/kjs_window.cpp:1653
-msgid ""
-"This site is requesting to open up a new browser window via JavaScript.\n"
-"Do you want to allow this?"
-msgstr ""
-
-#: khtml/ecma/kjs_window.cpp:1656
-#, kde-format
-msgid ""
-"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
-"JavaScript.<br />Do you want to allow this?</qt>"
-msgstr ""
-
-#: khtml/ecma/kjs_window.cpp:1658 khtml/ecma/kjs_html.cpp:2169
-msgid "Allow"
-msgstr "অনুমতি প্ৰদান কৰা হ'ব"
-
-#: khtml/ecma/kjs_window.cpp:1658 khtml/ecma/kjs_html.cpp:2169
-msgid "Do Not Allow"
-msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
-
-#: khtml/ecma/kjs_window.cpp:1971
-msgid "Close window?"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰা হ'ব নেকি ?"
-
-#: khtml/ecma/kjs_window.cpp:1971
-msgid "Confirmation Required"
-msgstr "নিশ্চিত কৰা আৱশ্যক"
-
-#: khtml/ecma/kjs_window.cpp:2874
-#, kde-format
-msgid ""
-"Do you want a bookmark pointing to the location \"%1\" to be added to your "
-"collection?"
-msgstr ""
-
-#: khtml/ecma/kjs_window.cpp:2877
-#, kde-format
-msgid ""
-"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
-"added to your collection?"
-msgstr ""
-
-#: khtml/ecma/kjs_window.cpp:2885
-msgid "JavaScript Attempted Bookmark Insert"
-msgstr "JavaScript দ্বাৰা পত্ৰচিহ্ন যোগ কৰাৰ প্ৰচেষ্টা কৰা হৈছে"
-
-#: khtml/ecma/kjs_window.cpp:2889
-msgid "Insert"
-msgstr "সন্নিবেশ কৰক"
-
-#: khtml/ecma/kjs_window.cpp:2889
-msgid "Disallow"
-msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
-
-#: khtml/ecma/kjs_html.cpp:2164
+#: khtml/ecma/kjs_html.cpp:2168
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2167
+#: khtml/ecma/kjs_html.cpp:2171
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
 "browser window via JavaScript.<br />Do you want to allow the form to be "
 "submitted?</qt>"
 msgstr ""
+
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+msgid "Allow"
+msgstr "অনুমতি প্ৰদান কৰা হ'ব"
+
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+msgid "Do Not Allow"
+msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
+
+#: khtml/ecma/kjs_window.cpp:1663
+msgid ""
+"This site is requesting to open up a new browser window via JavaScript.\n"
+"Do you want to allow this?"
+msgstr ""
+
+#: khtml/ecma/kjs_window.cpp:1666
+#, kde-format
+msgid ""
+"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
+"JavaScript.<br />Do you want to allow this?</qt>"
+msgstr ""
+
+#: khtml/ecma/kjs_window.cpp:1981
+msgid "Close window?"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰা হ'ব নেকি ?"
+
+#: khtml/ecma/kjs_window.cpp:1981
+msgid "Confirmation Required"
+msgstr "নিশ্চিত কৰা আৱশ্যক"
+
+#: khtml/ecma/kjs_window.cpp:2884
+#, kde-format
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" to be added to your "
+"collection?"
+msgstr ""
+
+#: khtml/ecma/kjs_window.cpp:2887
+#, kde-format
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
+"added to your collection?"
+msgstr ""
+
+#: khtml/ecma/kjs_window.cpp:2895
+msgid "JavaScript Attempted Bookmark Insert"
+msgstr "JavaScript দ্বাৰা পত্ৰচিহ্ন যোগ কৰাৰ প্ৰচেষ্টা কৰা হৈছে"
+
+#: khtml/ecma/kjs_window.cpp:2899
+msgid "Insert"
+msgstr "সন্নিবেশ কৰক"
+
+#: khtml/ecma/kjs_window.cpp:2899
+msgid "Disallow"
+msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
 #: khtml/ecma/debugger/consoledock.cpp:220
 msgid "Console"
@@ -11472,28 +11478,28 @@ msgstr "%1 ৰ বাবে হেন্ডলাৰ পোৱা নাযা�
 msgid "Play"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:851
+#: khtml/rendering/render_form.cpp:849
 msgid "New Web Shortcut"
 msgstr "নতুন ৱেব চমু পথ"
 
-#: khtml/rendering/render_form.cpp:872
+#: khtml/rendering/render_form.cpp:870
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 ক ইতিমধ্যে %2 লৈ বিতৰণ কৰা হৈছে"
 
-#: khtml/rendering/render_form.cpp:917
+#: khtml/rendering/render_form.cpp:915
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:919
+#: khtml/rendering/render_form.cpp:917
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:924
+#: khtml/rendering/render_form.cpp:922
 msgid "UR&I shortcuts:"
 msgstr "URI চমু পথ (&I)"
 
-#: khtml/rendering/render_form.cpp:1010
+#: khtml/rendering/render_form.cpp:1008
 msgid "Create Web Shortcut"
 msgstr "ৱেব চমু পথ নিৰ্মাণ কৰক"
 
@@ -14113,10 +14119,6 @@ msgstr "am"
 #: kdecore/date/kdatetime.cpp:2991
 msgid "pm"
 msgstr "pm"
-
-#~ msgctxt "@item font"
-#~ msgid "Regular"
-#~ msgstr "স্বাভাবিক"
 
 #~ msgid "What's &This"
 #~ msgstr "এইটো কি (&T)"
