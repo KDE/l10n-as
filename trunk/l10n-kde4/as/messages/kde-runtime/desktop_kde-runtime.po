@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-18 03:20+0000\n"
+"POT-Creation-Date: 2012-07-20 03:33+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -647,7 +647,7 @@ msgctxt "Name"
 msgid "Recent Document Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:50
+#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:52
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
 msgstr ""
