@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-22 05:10+0200\n"
+"POT-Creation-Date: 2012-07-27 04:25+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2835,15 +2835,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "বানানত অত্যাধিক পৰিমাণে ত্ৰুটি । টাইপ-কৰাৰ-সময়ত-বানান-পৰীক্ষণ নিষ্ক্ৰিয় কৰা হৈছে ।"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:491
 msgid "Check Spelling..."
 msgstr "বানান পৰীক্ষণ..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:494
 msgid "Auto Spell Check"
 msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:498
 msgid "Allow Tabulations"
 msgstr ""
 
@@ -9530,31 +9530,31 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: kdeui/widgets/ktextedit.cpp:527
+#: kdeui/widgets/ktextedit.cpp:525
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
 
-#: kdeui/widgets/ktextedit.cpp:542
+#: kdeui/widgets/ktextedit.cpp:540
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:631
+#: kdeui/widgets/ktextedit.cpp:629
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:642
+#: kdeui/widgets/ktextedit.cpp:640
 msgid "Ignore"
 msgstr "উপেক্ষা কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:643
+#: kdeui/widgets/ktextedit.cpp:641
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:788
+#: kdeui/widgets/ktextedit.cpp:786
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 

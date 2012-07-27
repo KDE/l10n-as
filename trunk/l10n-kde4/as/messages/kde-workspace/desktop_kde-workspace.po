@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-25 11:24+0000\n"
+"POT-Creation-Date: 2012-07-27 03:21+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2277,7 +2277,7 @@ msgctxt "Name"
 msgid "Contour"
 msgstr ""
 
-#: ksmserver/themes/contour/metadata.desktop:32
+#: ksmserver/themes/contour/metadata.desktop:33
 msgctxt "Comment"
 msgid "Plasma Active theme"
 msgstr ""
@@ -3779,17 +3779,17 @@ msgctxt "Name"
 msgid "Window Fullscreen Set"
 msgstr "MS Windows 9x"
 
-#: kwin/kwin.notifyrc:7498
+#: kwin/kwin.notifyrc:7499
 msgctxt "Comment"
 msgid "A window has been set to fullscreen"
 msgstr ""
 
-#: kwin/kwin.notifyrc:7531
+#: kwin/kwin.notifyrc:7533
 msgctxt "Name"
 msgid "Window Fullscreen Restored"
 msgstr ""
 
-#: kwin/kwin.notifyrc:7560
+#: kwin/kwin.notifyrc:7563
 msgctxt "Comment"
 msgid "A window has been restored from fullscreen"
 msgstr ""
@@ -3807,7 +3807,7 @@ msgctxt "Name"
 msgid "Desktop Change OSD"
 msgstr "ডেস্কট'প"
 
-#: kwin/scripts/desktopchangeosd/metadata.desktop:31
+#: kwin/scripts/desktopchangeosd/metadata.desktop:32
 msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
@@ -3817,7 +3817,7 @@ msgctxt "Name"
 msgid "Synchronize Skip Switcher with Taskbar"
 msgstr ""
 
-#: kwin/scripts/synchronizeskipswitcher/metadata.desktop:27
+#: kwin/scripts/synchronizeskipswitcher/metadata.desktop:29
 msgctxt "Comment"
 msgid ""
 "Hides all windows marked as Skip Taskbar to be also excluded from window "
@@ -3917,7 +3917,7 @@ msgctxt "Name"
 msgid "Text Icons"
 msgstr "ডেস্কট'প"
 
-#: kwin/tabbox/qml/clients/text/metadata.desktop:31
+#: kwin/tabbox/qml/clients/text/metadata.desktop:32
 msgctxt "Comment"
 msgid "A window switcher layout only showing window captions"
 msgstr ""
@@ -3940,7 +3940,7 @@ msgctxt "Name"
 msgid "Window Strip"
 msgstr "MS Windows 9x"
 
-#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:29
+#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:30
 msgctxt "Comment"
 msgid "Window switcher layout for Plasma Active"
 msgstr ""
@@ -4444,7 +4444,7 @@ msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:34
+#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:35
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
@@ -4796,7 +4796,7 @@ msgctxt "Name"
 msgid "MPRIS2"
 msgstr ""
 
-#: plasma/generic/dataengines/mpris2/plasma-dataengine-mpris2.desktop:31
+#: plasma/generic/dataengines/mpris2/plasma-dataengine-mpris2.desktop:32
 msgctxt "Comment"
 msgid "Provides information from and control over media players via MPRIS2"
 msgstr ""
