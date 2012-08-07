@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-03 06:01+0200\n"
+"POT-Creation-Date: 2012-08-07 08:18+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4978,7 +4978,7 @@ msgid "Connection timed out"
 msgstr "সংযোগৰ সময়সীমা পাৰ হৈছে"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:560
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:538
 msgid "Unknown error"
 msgstr "অজ্ঞাত ত্ৰুটি"
 
@@ -5600,8 +5600,8 @@ msgstr "অৱস্থাৰ বাৰ প্ৰদৰ্শন (&a)"
 
 #: kdeui/actions/kstandardaction.cpp:547
 msgid ""
-"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-"bottom of the window used for status information."
+"Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
+"window used for status information.</p>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
@@ -7161,18 +7161,12 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "ব্যৱহাৰযোগ্য আখৰৰ বিন্যাস ইয়াত নিৰ্ব্বাচন কৰা যাব ।"
 
-#: kdeui/fonts/kfontchooser.cpp:295 kdeui/fonts/kfontchooser.cpp:623
-#: kdeui/fonts/kfontchooser.cpp:640
-msgctxt "@item font"
-msgid "Regular"
-msgstr "স্বাভাবিক"
-
-#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:644
+#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:639
 msgctxt "@item font"
 msgid "Italic"
 msgstr "ইটালিক"
 
-#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:645
+#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:640
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "অব্লিক"
@@ -7231,7 +7225,7 @@ msgstr "প্ৰকৃত আখৰ"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:630
+#: kdeui/fonts/kfontchooser.cpp:625
 #, kde-format
 msgctxt "@item Font style"
 msgid "%1"
@@ -9470,114 +9464,6 @@ msgstr "বিভাজক, অনুচ্ছেদ"
 msgid "Separator, Space"
 msgstr "বিভাজক, শূণ্যস্থান"
 
-#: kdeui/widgets/ktoolbar.cpp:292
-#, fuzzy
-#| msgid "Show help"
-msgctxt "@title:menu"
-msgid "Show Text"
-msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
-
-#: kdeui/widgets/ktoolbar.cpp:295
-#, fuzzy
-#| msgid "Toolbar Menu"
-msgctxt "@title:menu"
-msgid "Toolbar Settings"
-msgstr "টুল-বাৰ তালিকা"
-
-#: kdeui/widgets/ktoolbar.cpp:297
-#, fuzzy
-#| msgid "Orientation"
-msgctxt "Toolbar orientation"
-msgid "Orientation"
-msgstr "দিশ"
-
-#: kdeui/widgets/ktoolbar.cpp:299
-msgctxt "toolbar position string"
-msgid "Top"
-msgstr "ওপৰত"
-
-#: kdeui/widgets/ktoolbar.cpp:301
-msgctxt "toolbar position string"
-msgid "Left"
-msgstr "বাওঁফালে"
-
-#: kdeui/widgets/ktoolbar.cpp:302
-msgctxt "toolbar position string"
-msgid "Right"
-msgstr "সোঁফালে"
-
-#: kdeui/widgets/ktoolbar.cpp:303
-msgctxt "toolbar position string"
-msgid "Bottom"
-msgstr "তলত"
-
-#: kdeui/widgets/ktoolbar.cpp:311
-msgid "Text Position"
-msgstr "লিপিৰ অৱস্থান"
-
-#: kdeui/widgets/ktoolbar.cpp:313
-msgid "Icons Only"
-msgstr "অকল আইকন"
-
-#: kdeui/widgets/ktoolbar.cpp:314
-msgid "Text Only"
-msgstr "অকল লিপি"
-
-#: kdeui/widgets/ktoolbar.cpp:315
-msgid "Text Alongside Icons"
-msgstr "আইকনৰ ওচৰত লিপি"
-
-#: kdeui/widgets/ktoolbar.cpp:316
-msgid "Text Under Icons"
-msgstr "আইকনৰ তলত লিপি"
-
-#: kdeui/widgets/ktoolbar.cpp:324
-msgid "Icon Size"
-msgstr "আইকনৰ মাপ"
-
-#: kdeui/widgets/ktoolbar.cpp:326
-msgctxt "@item:inmenu Icon size"
-msgid "Default"
-msgstr "অবিকল্পিত মান"
-
-#: kdeui/widgets/ktoolbar.cpp:343 kdeui/widgets/ktoolbar.cpp:363
-#, kde-format
-msgid "Small (%1x%2)"
-msgstr "সৰু (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:345 kdeui/widgets/ktoolbar.cpp:365
-#, kde-format
-msgid "Medium (%1x%2)"
-msgstr "মধ্যম (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:347 kdeui/widgets/ktoolbar.cpp:367
-#, kde-format
-msgid "Large (%1x%2)"
-msgstr "ডাঙৰ (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:349 kdeui/widgets/ktoolbar.cpp:369
-#, kde-format
-msgid "Huge (%1x%2)"
-msgstr "বৃহৎ (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:389
-#, fuzzy
-#| msgid "Lock Toolbars"
-msgid "Lock Toolbar Positions"
-msgstr "টুল-বাৰ লক কৰা হ'ব"
-
-#: kdeui/widgets/ktoolbar.cpp:1326
-#, kde-format
-msgctxt "@action:intoolbar Text label of toolbar button"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/widgets/ktoolbar.cpp:1327
-#, kde-format
-msgctxt "@info:tooltip Tooltip of toolbar button"
-msgid "%1"
-msgstr "%1"
-
 #. i18n: Placeholder text in text edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
 #. (e.g. "Enter message").
@@ -9673,6 +9559,51 @@ msgstr "ওপৰত স্থানান্তৰ (&U)"
 #: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
 msgid "Move &Down"
 msgstr "তলত স্থানান্তৰ (&D)"
+
+#: kdeui/widgets/klineedit.cpp:296
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "লিপি পৰিষ্কাৰ কৰক"
+
+#: kdeui/widgets/klineedit.cpp:1213
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "ৰং নিৰ্ব্বাচন কৰক"
+
+#: kdeui/widgets/klineedit.cpp:1220
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "শূণ্য"
+
+#: kdeui/widgets/klineedit.cpp:1221
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "হস্তচালিতভাবে"
+
+#: kdeui/widgets/klineedit.cpp:1222
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "স্বয়ংক্ৰিয়"
+
+#: kdeui/widgets/klineedit.cpp:1223
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr "ড্ৰপ-ডাউন তালিকা"
+
+#: kdeui/widgets/klineedit.cpp:1224
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
+
+#: kdeui/widgets/klineedit.cpp:1225
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr "ড্ৰপ-ডাউন তালিকা && স্বয়ংক্ৰিয়"
+
+#: kdeui/widgets/klineedit.cpp:1256
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "অবিকল্পিত মান"
 
 #: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:993
 msgid "Clear &History"
@@ -9811,51 +9742,6 @@ msgstr ""
 msgid "You are not allowed to save the configuration"
 msgstr "KDE বিন্যাস পুনঃ তুলি লোৱা হ'ব নেকি ?"
 
-#: kdeui/widgets/klineedit.cpp:296
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "লিপি পৰিষ্কাৰ কৰক"
-
-#: kdeui/widgets/klineedit.cpp:1216
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "ৰং নিৰ্ব্বাচন কৰক"
-
-#: kdeui/widgets/klineedit.cpp:1223
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "শূণ্য"
-
-#: kdeui/widgets/klineedit.cpp:1224
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "হস্তচালিতভাবে"
-
-#: kdeui/widgets/klineedit.cpp:1225
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "স্বয়ংক্ৰিয়"
-
-#: kdeui/widgets/klineedit.cpp:1226
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr "ড্ৰপ-ডাউন তালিকা"
-
-#: kdeui/widgets/klineedit.cpp:1227
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
-
-#: kdeui/widgets/klineedit.cpp:1228
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr "ড্ৰপ-ডাউন তালিকা && স্বয়ংক্ৰিয়"
-
-#: kdeui/widgets/klineedit.cpp:1259
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "অবিকল্পিত মান"
-
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "ছবি সংক্ৰান্ত কাৰ্য্য"
@@ -9867,6 +9753,113 @@ msgstr "সোঁফালে ঘোৰাওক (&R)"
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:205
 msgid "Rotate &Counterclockwise"
 msgstr "বাওঁফালে ঘোৰাওক (&C)"
+
+#: kdeui/widgets/ktoolbar.cpp:292
+#, fuzzy
+#| msgid "Show help"
+msgctxt "@title:menu"
+msgid "Show Text"
+msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
+
+#: kdeui/widgets/ktoolbar.cpp:295
+#, fuzzy
+#| msgid "Toolbar Menu"
+msgctxt "@title:menu"
+msgid "Toolbar Settings"
+msgstr "টুল-বাৰ তালিকা"
+
+#: kdeui/widgets/ktoolbar.cpp:297
+#, fuzzy
+#| msgid "Orientation"
+msgid "Orientation"
+msgstr "দিশ"
+
+#: kdeui/widgets/ktoolbar.cpp:299
+msgctxt "toolbar position string"
+msgid "Top"
+msgstr "ওপৰত"
+
+#: kdeui/widgets/ktoolbar.cpp:301
+msgctxt "toolbar position string"
+msgid "Left"
+msgstr "বাওঁফালে"
+
+#: kdeui/widgets/ktoolbar.cpp:302
+msgctxt "toolbar position string"
+msgid "Right"
+msgstr "সোঁফালে"
+
+#: kdeui/widgets/ktoolbar.cpp:303
+msgctxt "toolbar position string"
+msgid "Bottom"
+msgstr "তলত"
+
+#: kdeui/widgets/ktoolbar.cpp:311
+msgid "Text Position"
+msgstr "লিপিৰ অৱস্থান"
+
+#: kdeui/widgets/ktoolbar.cpp:313
+msgid "Icons Only"
+msgstr "অকল আইকন"
+
+#: kdeui/widgets/ktoolbar.cpp:314
+msgid "Text Only"
+msgstr "অকল লিপি"
+
+#: kdeui/widgets/ktoolbar.cpp:315
+msgid "Text Alongside Icons"
+msgstr "আইকনৰ ওচৰত লিপি"
+
+#: kdeui/widgets/ktoolbar.cpp:316
+msgid "Text Under Icons"
+msgstr "আইকনৰ তলত লিপি"
+
+#: kdeui/widgets/ktoolbar.cpp:324
+msgid "Icon Size"
+msgstr "আইকনৰ মাপ"
+
+#: kdeui/widgets/ktoolbar.cpp:326
+msgctxt "@item:inmenu Icon size"
+msgid "Default"
+msgstr "অবিকল্পিত মান"
+
+#: kdeui/widgets/ktoolbar.cpp:343 kdeui/widgets/ktoolbar.cpp:363
+#, kde-format
+msgid "Small (%1x%2)"
+msgstr "সৰু (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:345 kdeui/widgets/ktoolbar.cpp:365
+#, kde-format
+msgid "Medium (%1x%2)"
+msgstr "মধ্যম (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:347 kdeui/widgets/ktoolbar.cpp:367
+#, kde-format
+msgid "Large (%1x%2)"
+msgstr "ডাঙৰ (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:349 kdeui/widgets/ktoolbar.cpp:369
+#, kde-format
+msgid "Huge (%1x%2)"
+msgstr "বৃহৎ (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:389
+#, fuzzy
+#| msgid "Lock Toolbars"
+msgid "Lock Toolbar Positions"
+msgstr "টুল-বাৰ লক কৰা হ'ব"
+
+#: kdeui/widgets/ktoolbar.cpp:1326
+#, kde-format
+msgctxt "@action:intoolbar Text label of toolbar button"
+msgid "%1"
+msgstr "%1"
+
+#: kdeui/widgets/ktoolbar.cpp:1327
+#, kde-format
+msgctxt "@info:tooltip Tooltip of toolbar button"
+msgid "%1"
+msgstr "%1"
 
 #: kdeui/widgets/krichtextwidget.cpp:232
 msgctxt "@action"
@@ -13109,15 +13102,15 @@ msgstr "সামগ্ৰী নিৰ্ব্বাচন কৰক"
 msgid "Enable component"
 msgstr "অংশ সক্ৰিয়া কৰক"
 
-#: nepomuk/core/resource.cpp:554
+#: nepomuk/core/resource.cpp:532
 msgid "Success"
 msgstr "সফল"
 
-#: nepomuk/core/resource.cpp:556
+#: nepomuk/core/resource.cpp:534
 msgid "Communication error"
 msgstr "যোগাযোগ সংক্ৰান্ত ত্ৰুটি"
 
-#: nepomuk/core/resource.cpp:558
+#: nepomuk/core/resource.cpp:536
 msgid "Invalid type in Database"
 msgstr "তথ্যভঁৰালত অবৈধ ধৰণ"
 
@@ -14122,6 +14115,10 @@ msgstr "am"
 #: kdecore/date/kdatetime.cpp:2991
 msgid "pm"
 msgstr "pm"
+
+#~ msgctxt "@item font"
+#~ msgid "Regular"
+#~ msgstr "স্বাভাবিক"
 
 #~ msgid "What's &This"
 #~ msgstr "এইটো কি (&T)"
