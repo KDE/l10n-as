@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-18 04:13+0200\n"
+"POT-Creation-Date: 2012-08-19 04:35+0200\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -162,20 +162,20 @@ msgid "Hamish Rodda"
 msgstr "Hamish Rodda"
 
 #: kwritemain.cpp:635
-msgid "Developer & Highlight wizard"
-msgstr "বিকাশক & আলোকপাতৰ ৱিজাৰ্ড"
-
-#: kwritemain.cpp:635
 msgid "Dominik Haumann"
 msgstr "Dominik Haumann"
 
-#: kwritemain.cpp:636
-msgid "The cool buffersystem"
-msgstr "The cool buffersystem"
+#: kwritemain.cpp:635
+msgid "Developer & Highlight wizard"
+msgstr "বিকাশক & আলোকপাতৰ ৱিজাৰ্ড"
 
 #: kwritemain.cpp:636
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
+
+#: kwritemain.cpp:636
+msgid "The cool buffersystem"
+msgstr "The cool buffersystem"
 
 #: kwritemain.cpp:637
 msgid "Charles Samuels"
@@ -196,12 +196,12 @@ msgid "Testing, ..."
 msgstr "পৰীক্ষা কৰা, ..."
 
 #: kwritemain.cpp:639
-msgid "Former Core Developer"
-msgstr "আগৰ মূল বিকাশক"
-
-#: kwritemain.cpp:639
 msgid "Michael Bartl"
 msgstr "Michael Bartl"
+
+#: kwritemain.cpp:639
+msgid "Former Core Developer"
+msgstr "আগৰ মূল বিকাশক"
 
 #: kwritemain.cpp:640
 msgid "Michael McCallum"
@@ -216,12 +216,12 @@ msgid "KWrite Author"
 msgstr "KWrite লেখক"
 
 #: kwritemain.cpp:642
-msgid "KWrite port to KParts"
-msgstr "KParts লৈ KWrite ক প'ৰ্ট কৰা"
-
-#: kwritemain.cpp:642
 msgid "Michael Koch"
 msgstr "Michael Koch"
+
+#: kwritemain.cpp:642
+msgid "KWrite port to KParts"
+msgstr "KParts লৈ KWrite ক প'ৰ্ট কৰা"
 
 #: kwritemain.cpp:643
 msgid "Christian Gebauer"
@@ -240,12 +240,12 @@ msgid "KWrite Undo History, Kspell integration"
 msgstr "KWrite Undo History, Kspell integration"
 
 #: kwritemain.cpp:646
-msgid "KWrite XML Syntax highlighting support"
-msgstr "KWrite XML Syntax highlighting ৰ সমৰ্থন"
-
-#: kwritemain.cpp:646
 msgid "Scott Manson"
 msgstr "Scott Manson"
+
+#: kwritemain.cpp:646
+msgid "KWrite XML Syntax highlighting support"
+msgstr "KWrite XML Syntax highlighting ৰ সমৰ্থন"
 
 #: kwritemain.cpp:647
 msgid "John Firebaugh"
@@ -256,28 +256,28 @@ msgid "Patches and more"
 msgstr "Patches আৰু তাৰ অধিক"
 
 #: kwritemain.cpp:649
-msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
-msgstr "RPM Spec-Files, Perl, Diff আৰু তাৰ অধিকৰ বাবে আলোকপাত কৰা"
-
-#: kwritemain.cpp:649
 msgid "Matteo Merli"
 msgstr "Matteo Merli"
 
-#: kwritemain.cpp:650
-msgid "Highlighting for VHDL"
-msgstr "VHDL ৰ কাৰণে আলোকপাত কৰা"
+#: kwritemain.cpp:649
+msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
+msgstr "RPM Spec-Files, Perl, Diff আৰু তাৰ অধিকৰ বাবে আলোকপাত কৰা"
 
 #: kwritemain.cpp:650
 msgid "Rocky Scaletta"
 msgstr "Rocky Scaletta"
 
-#: kwritemain.cpp:651
-msgid "Highlighting for SQL"
-msgstr "SQL ৰ কাৰণে আলোকপাত কৰা"
+#: kwritemain.cpp:650
+msgid "Highlighting for VHDL"
+msgstr "VHDL ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:651
 msgid "Yury Lebedev"
 msgstr "Yury Lebedev"
+
+#: kwritemain.cpp:651
+msgid "Highlighting for SQL"
+msgstr "SQL ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:652
 msgid "Chris Ross"
@@ -288,12 +288,12 @@ msgid "Highlighting for Ferite"
 msgstr "Ferite ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:653
-msgid "Highlighting for ILERPG"
-msgstr "ILERPG ৰ কাৰণে আলোকপাত কৰা"
-
-#: kwritemain.cpp:653
 msgid "Nick Roux"
 msgstr "Nick Roux"
+
+#: kwritemain.cpp:653
+msgid "Highlighting for ILERPG"
+msgstr "ILERPG ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:654
 msgid "Carsten Niehaus"
@@ -304,32 +304,32 @@ msgid "Highlighting for LaTeX"
 msgstr "LaTeX ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:655
-msgid "Highlighting for Makefiles, Python"
-msgstr "Makefiles, Python ৰ কাৰণে আলোকপাত কৰা"
-
-#: kwritemain.cpp:655
 msgid "Per Wigren"
 msgstr "Per Wigren"
 
-#: kwritemain.cpp:656
-msgid "Highlighting for Python"
-msgstr "Python ৰ কাৰণে আলোকপাত কৰা"
+#: kwritemain.cpp:655
+msgid "Highlighting for Makefiles, Python"
+msgstr "Makefiles, Python ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:656
 msgid "Jan Fritz"
 msgstr "Jan Fritz"
+
+#: kwritemain.cpp:656
+msgid "Highlighting for Python"
+msgstr "Python ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:657
 msgid "Daniel Naber"
 msgstr "Daniel Naber"
 
 #: kwritemain.cpp:658
-msgid "Highlighting for Scheme"
-msgstr "Scheme ৰ কাৰণে আলোকপাত কৰা"
-
-#: kwritemain.cpp:658
 msgid "Roland Pabel"
 msgstr "Roland Pabel"
+
+#: kwritemain.cpp:658
+msgid "Highlighting for Scheme"
+msgstr "Scheme ৰ কাৰণে আলোকপাত কৰা"
 
 #: kwritemain.cpp:659
 msgid "Cristi Dumitrescu"
