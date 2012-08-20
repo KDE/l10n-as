@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-19 05:50+0200\n"
+"POT-Creation-Date: 2012-08-20 05:32+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "অমিতাক্ষ ফুকন"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aphukan@fedoraproject.org"
 
 #: activation.cpp:735
 #, kde-format
@@ -49,6 +57,64 @@ msgstr "GLX/OpenGL নাই আৰু অকল OpenGL সমৰ্থন ব�
 #: compositingprefs.cpp:106
 msgid "GLX/OpenGL and XRender/XFixes are not available."
 msgstr "GLX/OpenGL আৰু XRender/XFixes নাই ।"
+
+#: killer/killer.cpp:42 main.cpp:489
+msgid "KWin"
+msgstr "KWin"
+
+#: killer/killer.cpp:43
+msgid "KWin helper utility"
+msgstr "KWin সহায়ক সামগ্ৰী"
+
+#: killer/killer.cpp:46
+msgid "PID of the application to terminate"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনুপ্ৰয়োগৰ PID"
+
+#: killer/killer.cpp:47
+msgid "Hostname on which the application is running"
+msgstr "অনুপ্ৰয়োগ চালনকাৰী যন্ত্ৰৰ গৃহস্থৰ নাম"
+
+#: killer/killer.cpp:48
+msgid "Caption of the window to be terminated"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত সংযোগক্ষেত্ৰৰ শিৰোনাম"
+
+#: killer/killer.cpp:49
+msgid "Name of the application to be terminated"
+msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনুপ্ৰয়োগৰ নাম"
+
+#: killer/killer.cpp:50
+msgid "ID of resource belonging to the application"
+msgstr "অনুপ্ৰয়োগৰ সম্পদৰ ID"
+
+#: killer/killer.cpp:51
+msgid "Time of user action causing termination"
+msgstr ""
+
+#: killer/killer.cpp:68
+msgid "This helper utility is not supposed to be called directly."
+msgstr "সহায়ক সামগ্ৰীক পোনেপোনে মাতিব নালাগে ।"
+
+#: killer/killer.cpp:75
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>Window with title \"<b>%2</b>\" is not responding. This window belongs "
+#| "to application <b>%1</b> (PID=%3, hostname=%4).</p><p>Do you wish to "
+#| "terminate this application? (All unsaved data in this application will be "
+#| "lost.)</p>"
+msgid ""
+"<p>The window \"<b>%2</b>\" is not responding. It belongs to the application "
+"<b>%1</b> (Process ID = %3, hostname = %4).</p><p>Do you wish to terminate "
+"the application process <em>including <b>all</b> of its child windows</em>?"
+"<br /><b>Any unsaved data will be lost.</b></p>"
+msgstr ""
+"<p>\"<b>%2</b>\" শিৰোনাম থকা সংযোগক্ষেত্ৰৰ পৰা কোনো প্ৰতিক্ৰিয়া হোৱা নাই  । এই "
+"সংযোগক্ষেত্ৰৰ গৰাকী <b>%1</b> অনুপ্ৰয়োগ (PID=%3, গৃহস্থ নাম=%4) ।</p><p>এই অনুপ্ৰয়োগ "
+"বন্ধ কৰিব নে ? (ইয়াৰ ফলত, অনুপ্ৰয়োগত উপস্থিত সকলো অসংৰক্ষিত তথ্য হেৰাব ।)</p>"
+
+#: killer/killer.cpp:81
+#, kde-format
+msgid "&Terminate Application %1"
+msgstr ""
 
 #: kwinbindings.cpp:48
 msgid "System"
@@ -398,10 +464,6 @@ msgstr ""
 msgid "KDE window manager"
 msgstr "KDE সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা"
 
-#: main.cpp:489 killer/killer.cpp:42
-msgid "KWin"
-msgstr "KWin"
-
 #: main.cpp:493
 msgid "(c) 1999-2008, The KDE Developers"
 msgstr "(c) 1999-2008, The KDE Developers"
@@ -448,15 +510,72 @@ msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হ�
 msgid "KWin: "
 msgstr "KWin: "
 
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "অমিতাক্ষ ফুকন"
+#: tabbox/tabbox.cpp:329
+#, fuzzy
+#| msgid "Show Desktop Grid"
+msgctxt "Special entry in alt+tab list for minimizing all windows"
+msgid "Show Desktop"
+msgstr "Desktop Grid দেখুৱাওক"
 
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "aphukan@fedoraproject.org"
+#: tabbox/tabbox.cpp:474
+msgid "Walk Through Windows"
+msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
+
+#: tabbox/tabbox.cpp:475
+msgid "Walk Through Windows (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:476
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows Alternative"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:477
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows Alternative (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:478
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:479
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:480
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application Alternative"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:481
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application Alternative (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:482
+msgid "Walk Through Desktops"
+msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
+
+#: tabbox/tabbox.cpp:483
+msgid "Walk Through Desktops (Reverse)"
+msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:484
+msgid "Walk Through Desktop List"
+msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
+
+#: tabbox/tabbox.cpp:485
+msgid "Walk Through Desktop List (Reverse)"
+msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: useractions.cpp:86
 msgid "&Move"
@@ -644,127 +763,6 @@ msgid ""
 "paste bin service\n"
 "like http://paste.kde.org instead of pasting into support threads.\n"
 msgstr ""
-
-#: killer/killer.cpp:43
-msgid "KWin helper utility"
-msgstr "KWin সহায়ক সামগ্ৰী"
-
-#: killer/killer.cpp:46
-msgid "PID of the application to terminate"
-msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনুপ্ৰয়োগৰ PID"
-
-#: killer/killer.cpp:47
-msgid "Hostname on which the application is running"
-msgstr "অনুপ্ৰয়োগ চালনকাৰী যন্ত্ৰৰ গৃহস্থৰ নাম"
-
-#: killer/killer.cpp:48
-msgid "Caption of the window to be terminated"
-msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত সংযোগক্ষেত্ৰৰ শিৰোনাম"
-
-#: killer/killer.cpp:49
-msgid "Name of the application to be terminated"
-msgstr "বন্ধ কৰাৰ বাবে চিহ্নিত অনুপ্ৰয়োগৰ নাম"
-
-#: killer/killer.cpp:50
-msgid "ID of resource belonging to the application"
-msgstr "অনুপ্ৰয়োগৰ সম্পদৰ ID"
-
-#: killer/killer.cpp:51
-msgid "Time of user action causing termination"
-msgstr ""
-
-#: killer/killer.cpp:68
-msgid "This helper utility is not supposed to be called directly."
-msgstr "সহায়ক সামগ্ৰীক পোনেপোনে মাতিব নালাগে ।"
-
-#: killer/killer.cpp:75
-#, fuzzy, kde-format
-#| msgid ""
-#| "<p>Window with title \"<b>%2</b>\" is not responding. This window belongs "
-#| "to application <b>%1</b> (PID=%3, hostname=%4).</p><p>Do you wish to "
-#| "terminate this application? (All unsaved data in this application will be "
-#| "lost.)</p>"
-msgid ""
-"<p>The window \"<b>%2</b>\" is not responding. It belongs to the application "
-"<b>%1</b> (Process ID = %3, hostname = %4).</p><p>Do you wish to terminate "
-"the application process <em>including <b>all</b> of its child windows</em>?"
-"<br /><b>Any unsaved data will be lost.</b></p>"
-msgstr ""
-"<p>\"<b>%2</b>\" শিৰোনাম থকা সংযোগক্ষেত্ৰৰ পৰা কোনো প্ৰতিক্ৰিয়া হোৱা নাই  । এই "
-"সংযোগক্ষেত্ৰৰ গৰাকী <b>%1</b> অনুপ্ৰয়োগ (PID=%3, গৃহস্থ নাম=%4) ।</p><p>এই অনুপ্ৰয়োগ "
-"বন্ধ কৰিব নে ? (ইয়াৰ ফলত, অনুপ্ৰয়োগত উপস্থিত সকলো অসংৰক্ষিত তথ্য হেৰাব ।)</p>"
-
-#: killer/killer.cpp:81
-#, kde-format
-msgid "&Terminate Application %1"
-msgstr ""
-
-#: tabbox/tabbox.cpp:329
-#, fuzzy
-#| msgid "Show Desktop Grid"
-msgctxt "Special entry in alt+tab list for minimizing all windows"
-msgid "Show Desktop"
-msgstr "Desktop Grid দেখুৱাওক"
-
-#: tabbox/tabbox.cpp:474
-msgid "Walk Through Windows"
-msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
-
-#: tabbox/tabbox.cpp:475
-msgid "Walk Through Windows (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:476
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows Alternative"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:477
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows Alternative (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:478
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:479
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:480
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application Alternative"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:481
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application Alternative (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:482
-msgid "Walk Through Desktops"
-msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
-
-#: tabbox/tabbox.cpp:483
-msgid "Walk Through Desktops (Reverse)"
-msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:484
-msgid "Walk Through Desktop List"
-msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
-
-#: tabbox/tabbox.cpp:485
-msgid "Walk Through Desktop List (Reverse)"
-msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #, fuzzy
 #~| msgid "Close Window"
