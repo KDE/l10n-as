@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-24 04:57+0200\n"
+"POT-Creation-Date: 2012-08-25 06:15+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -899,15 +899,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "বানানত অত্যাধিক পৰিমাণে ত্ৰুটি । টাইপ-কৰাৰ-সময়ত-বানান-পৰীক্ষণ নিষ্ক্ৰিয় কৰা হৈছে ।"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:491
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
 msgid "Check Spelling..."
 msgstr "বানান পৰীক্ষণ..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:494
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
 msgid "Auto Spell Check"
 msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:498
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:501
 msgid "Allow Tabulations"
 msgstr ""
 
@@ -8703,7 +8703,7 @@ msgstr "নাম নোহোৱা"
 #. (e.g. "Enter search pattern").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:80
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "১"
@@ -8964,31 +8964,31 @@ msgstr ""
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
 
-#: kdeui/widgets/ktextedit.cpp:525
+#: kdeui/widgets/ktextedit.cpp:529
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
 
-#: kdeui/widgets/ktextedit.cpp:540
+#: kdeui/widgets/ktextedit.cpp:544
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:629
+#: kdeui/widgets/ktextedit.cpp:633
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:640
+#: kdeui/widgets/ktextedit.cpp:644
 msgid "Ignore"
 msgstr "উপেক্ষা কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:641
+#: kdeui/widgets/ktextedit.cpp:645
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:786
+#: kdeui/widgets/ktextedit.cpp:790
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
