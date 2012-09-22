@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-21 03:51+0000\n"
+"POT-Creation-Date: 2012-09-22 04:06+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2160,67 +2160,6 @@ msgctxt "Name"
 msgid "Command Runner"
 msgstr ""
 
-#: krunner/lock/kscreenlocker.notifyrc:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
-msgctxt "Comment"
-msgid "Screen Saver"
-msgstr "বিজ্ঞান"
-
-#: krunner/lock/kscreenlocker.notifyrc:67
-msgctxt "Name"
-msgid "Screen saver started"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:134
-msgctxt "Comment"
-msgid "The screen saver has been started"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:203
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
-msgctxt "Name"
-msgid "Screen locked"
-msgstr "বিজ্ঞান"
-
-#: krunner/lock/kscreenlocker.notifyrc:270
-msgctxt "Comment"
-msgid "The screen has been locked"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:340
-msgctxt "Name"
-msgid "Screen saver exited"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:406
-msgctxt "Comment"
-msgid "The screen saver has finished"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:475
-msgctxt "Name"
-msgid "Screen unlocked"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:542
-msgctxt "Comment"
-msgid "The screen has been unlocked"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:610
-msgctxt "Name"
-msgid "Screen unlock failed"
-msgstr ""
-
-#: krunner/lock/kscreenlocker.notifyrc:677
-msgctxt "Comment"
-msgid "Failed attempt to unlock the screen"
-msgstr ""
-
 #: kscreensaver/kblank_screensaver/kblank.desktop:7
 msgctxt "Name"
 msgid "Blank Screen"
@@ -2270,6 +2209,79 @@ msgstr ""
 #: ksmserver/kcm/kcmsmserver.desktop:167
 msgctxt "X-KDE-Keywords"
 msgid "ksmserver,session,logout,confirmation,save,restore"
+msgstr ""
+
+#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:2
+msgctxt "Name"
+msgid "Password dialog"
+msgstr ""
+
+#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:3
+msgctxt "Comment"
+msgid ""
+"Screen locker that provides a password dialog and an interface to switch the "
+"current user"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Science"
+msgctxt "Comment"
+msgid "Screen Saver"
+msgstr "বিজ্ঞান"
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:67
+msgctxt "Name"
+msgid "Screen saver started"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:134
+msgctxt "Comment"
+msgid "The screen saver has been started"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:203
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Science"
+msgctxt "Name"
+msgid "Screen locked"
+msgstr "বিজ্ঞান"
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:270
+msgctxt "Comment"
+msgid "The screen has been locked"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:340
+msgctxt "Name"
+msgid "Screen saver exited"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:406
+msgctxt "Comment"
+msgid "The screen saver has finished"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:475
+msgctxt "Name"
+msgid "Screen unlocked"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:542
+msgctxt "Comment"
+msgid "The screen has been unlocked"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:610
+msgctxt "Name"
+msgid "Screen unlock failed"
+msgstr ""
+
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:677
+msgctxt "Comment"
+msgid "Failed attempt to unlock the screen"
 msgstr ""
 
 #: ksmserver/themes/contour/metadata.desktop:3
@@ -4383,12 +4395,12 @@ msgctxt "Keywords"
 msgid "Lock, Logout, Sleep, Hibernate, Switch User"
 msgstr ""
 
-#: plasma/generic/applets/notifications/plasma-applet-notifications.desktop:2
+#: plasma/generic/applets/notifications/metadata.desktop:3
 msgctxt "Name"
 msgid "Notifications"
 msgstr ""
 
-#: plasma/generic/applets/notifications/plasma-applet-notifications.desktop:88
+#: plasma/generic/applets/notifications/metadata.desktop:4
 msgctxt "Comment"
 msgid "Display notifications and jobs"
 msgstr ""
