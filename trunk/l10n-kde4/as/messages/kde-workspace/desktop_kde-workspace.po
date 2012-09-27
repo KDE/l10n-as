@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-25 09:19+0000\n"
+"POT-Creation-Date: 2012-09-27 03:38+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -196,7 +196,7 @@ msgid ""
 "KDE."
 msgstr ""
 
-#: kcontrol/autostart/autostart.desktop:141
+#: kcontrol/autostart/autostart.desktop:138
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -248,7 +248,7 @@ msgctxt "Comment"
 msgid "Configure date and time settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcontrol/dateandtime/clock.desktop:147
+#: kcontrol/dateandtime/clock.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
 "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
@@ -558,18 +558,24 @@ msgid ""
 msgstr ""
 
 #: kcontrol/screensaver/screensaver.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Science"
 msgctxt "Name"
-msgid "Screen Saver"
-msgstr ""
+msgid "Screen Locker"
+msgstr "বিজ্ঞান"
 
-#: kcontrol/screensaver/screensaver.desktop:106
+#: kcontrol/screensaver/screensaver.desktop:16
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Science"
 msgctxt "Comment"
-msgid "Screen Saver Settings"
-msgstr ""
+msgid "Screen Locker Settings"
+msgstr "বিজ্ঞান"
 
-#: kcontrol/screensaver/screensaver.desktop:199
+#: kcontrol/screensaver/screensaver.desktop:18
 msgctxt "X-KDE-Keywords"
-msgid "screensavers,Priority"
+msgid "screensavers,Priority,locking,security"
 msgstr ""
 
 #: kcontrol/smartcard/smartcard.desktop:15
@@ -2216,7 +2222,7 @@ msgctxt "Name"
 msgid "Password dialog"
 msgstr ""
 
-#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:10
+#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:12
 msgctxt "Comment"
 msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
