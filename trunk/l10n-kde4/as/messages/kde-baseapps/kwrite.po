@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-25 04:13+0200\n"
+"POT-Creation-Date: 2012-11-02 04:00+0100\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -26,7 +26,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
 
-#: kwriteapp.cpp:37 kwritemain.cpp:493
+#: kwriteapp.cpp:37 kwritemain.cpp:496
 msgid ""
 "A KDE text-editor component could not be found.\n"
 "Please check your KDE installation."
@@ -34,26 +34,26 @@ msgstr ""
 "এটা KDE লিখনী-সম্পাদক উপাদান পোৱা নগল।\n"
 "অনুগ্ৰহ কৰি আপোনাৰ KDE ইনস্টল নীৰিক্ষণ কৰক।"
 
-#: kwriteapp.cpp:148
+#: kwriteapp.cpp:145
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
 msgstr ""
 "'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
 
-#: kwritemain.cpp:146
+#: kwritemain.cpp:149
 msgid "Use this command to close the current document"
 msgstr "বৰ্ত্তমান দস্তাবেজ বন্ধ কৰিবলে এই কমান্ড ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:150
+#: kwritemain.cpp:153
 msgid "Use this command to create a new document"
 msgstr "এটা নতুন আলেখ্যন সৃষ্টি কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:152
+#: kwritemain.cpp:155
 msgid "Use this command to open an existing document for editing"
 msgstr "বৰ্ত্তমানৰ একন আলেখ্যন সম্পাদন কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:156
+#: kwritemain.cpp:159
 msgid ""
 "This lists files which you have opened recently, and allows you to easily "
 "open them again."
@@ -61,62 +61,62 @@ msgstr ""
 "ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো সহজতে "
 "খোলাৰ অনুমতি দিয়ে।"
 
-#: kwritemain.cpp:160
+#: kwritemain.cpp:163
 msgid "&New Window"
 msgstr "নতুন সংযোগক্ষেত্ৰ (&W)"
 
-#: kwritemain.cpp:162
+#: kwritemain.cpp:165
 msgid "Create another view containing the current document"
 msgstr "বৰ্ত্তমানৰ আলেখ্যন থকা অন্য এটা প্ৰদৰ্শন সৃষ্টি কৰক"
 
-#: kwritemain.cpp:165
+#: kwritemain.cpp:168
 msgid "Close the current document view"
 msgstr "বৰ্ত্তমানৰ আলেখ্যনৰ প্ৰদৰ্শন বন্ধ কৰক"
 
-#: kwritemain.cpp:172
+#: kwritemain.cpp:175
 msgid "Use this command to show or hide the view's statusbar"
 msgstr "প্ৰদৰ্শনৰ অৱস্থাৰ বাৰ দেখুৱাবলৈ বা লুকাবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:174
+#: kwritemain.cpp:177
 msgid "Sho&w Path"
 msgstr "পথ দেখুৱাওক (&w)"
 
-#: kwritemain.cpp:177
+#: kwritemain.cpp:180
 msgid "Show the complete document path in the window caption"
 msgstr "সংযোগক্ষেত্ৰৰ কেপ্‌ছনত আলেখ্যনৰ সম্পূৰ্ণ পথ দেখুৱাওক"
 
-#: kwritemain.cpp:180
+#: kwritemain.cpp:183
 msgid "Configure the application's keyboard shortcut assignments."
 msgstr "অনুপ্ৰয়োগৰ কিবৰ্ড চৰ্টকাট কাৰ্য্যসমূহ সংৰূপণ কৰক।"
 
-#: kwritemain.cpp:184
+#: kwritemain.cpp:187
 msgid "Configure which items should appear in the toolbar(s)."
 msgstr "কোনবোৰ বস্তু টুলবাৰ(সমূহ)ত আহিব লাগিব সংৰূপণ কৰক।"
 
-#: kwritemain.cpp:187
+#: kwritemain.cpp:190
 msgid "&About Editor Component"
 msgstr "&About সম্পাদক উপাদান"
 
-#: kwritemain.cpp:196 kwritemain.cpp:558
+#: kwritemain.cpp:199 kwritemain.cpp:558
 #, kde-format
 msgctxt "@info:status Statusbar label for cursor line and column position"
 msgid " Line: %1 Col: %2 "
 msgstr " Line: %1 Col: %2 "
 
-#: kwritemain.cpp:207
+#: kwritemain.cpp:210
 msgid " INS "
 msgstr " INS "
 
-#: kwritemain.cpp:211 kwritemain.cpp:565
+#: kwritemain.cpp:214 kwritemain.cpp:565
 msgctxt "@info:status Statusbar label for line selection mode"
 msgid " LINE "
 msgstr " LINE "
 
-#: kwritemain.cpp:269
+#: kwritemain.cpp:272
 msgid "Open File"
 msgstr "ফাইল খোলক"
 
-#: kwritemain.cpp:284
+#: kwritemain.cpp:287
 msgid ""
 "The file given could not be read; check whether it exists or is readable for "
 "the current user."
@@ -384,10 +384,6 @@ msgstr "এই স্তম্ভলৈ যাওক"
 msgid "Document to open"
 msgstr "খুলিব লগা আলেখ্যন"
 
-#: kwritemain.cpp:710
-msgid "Choose Editor Component"
-msgstr "সম্পাদকৰ অংশ বাচি লওক"
-
 #. i18n: ectx: Menu (file)
 #: kwriteui.rc:5
 msgid "&File"
@@ -422,3 +418,6 @@ msgstr "সহায় (&H)"
 #: kwriteui.rc:67
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
+
+#~ msgid "Choose Editor Component"
+#~ msgstr "সম্পাদকৰ অংশ বাচি লওক"
