@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-30 06:33+0000\n"
+"POT-Creation-Date: 2012-11-09 02:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5561,13 +5561,16 @@ msgid "Desktop Search"
 msgstr ""
 
 #: nepomuk/kcm/kcm_nepomuk.desktop:93
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Fetchmail Configuration"
 msgctxt "Comment"
-msgid "Nepomuk/Strigi Server Configuration"
-msgstr ""
+msgid "Nepomuk Server Configuration"
+msgstr "Fetchmail ৰ বিন্যাস"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:177
+#: nepomuk/kcm/kcm_nepomuk.desktop:94
 msgctxt "X-KDE-Keywords"
-msgid "Nepomuk,Strigi,Metadata"
+msgid "Nepomuk,Metadata"
 msgstr ""
 
 #: nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:8
@@ -8941,10 +8944,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Fetchmailconf"
 #~ msgstr "Fetchmailconf"
-
-#~ msgctxt "GenericName"
-#~ msgid "Fetchmail Configuration"
-#~ msgstr "Fetchmail ৰ বিন্যাস"
 
 #~ msgctxt "Name"
 #~ msgid "Gabber"
