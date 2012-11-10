@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-08 02:13+0000\n"
+"POT-Creation-Date: 2012-11-10 02:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -619,6 +619,29 @@ msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
 "shortcuts"
+msgstr ""
+
+#: kcontrol/style/kcmstyle.notifyrc:3
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Calendar Manager"
+msgctxt "Name"
+msgid "Menubar manager"
+msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
+
+#: kcontrol/style/kcmstyle.notifyrc:4
+msgctxt "Comment"
+msgid "Menubar exporter"
+msgstr ""
+
+#: kcontrol/style/kcmstyle.notifyrc:7
+msgctxt "Name"
+msgid "Menubar changed"
+msgstr ""
+
+#: kcontrol/style/kcmstyle.notifyrc:8
+msgctxt "Comment"
+msgid "Settings changes will take effect only on application restart"
 msgstr ""
 
 #: kcontrol/style/style.desktop:15
@@ -12548,10 +12571,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Plan"
 #~ msgstr "Plan"
-
-#~ msgctxt "GenericName"
-#~ msgid "Calendar Manager"
-#~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
 #~ msgctxt "GenericName"
 #~ msgid "Bibliographic Database"
