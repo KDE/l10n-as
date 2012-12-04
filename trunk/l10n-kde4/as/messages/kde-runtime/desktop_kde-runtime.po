@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-12-01 02:29+0000\n"
+"POT-Creation-Date: 2012-12-04 04:33+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -336,7 +336,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
 msgstr ""
 
-#: kglobalaccel/kglobalaccel.desktop:11
+#: kglobalaccel/kglobalaccel.desktop:10
 msgctxt "Name"
 msgid "KDED Global Shortcuts Server"
 msgstr ""

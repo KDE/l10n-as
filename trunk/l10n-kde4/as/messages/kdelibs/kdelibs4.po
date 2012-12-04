@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-08 02:52+0100\n"
+"POT-Creation-Date: 2012-12-04 03:40+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11961,7 +11961,7 @@ msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেক�
 #: knewstuff/knewstuff3/core/installation.cpp:488
 #, fuzzy
 #| msgid "Download"
-msgid "Download File:"
+msgid "Download File"
 msgstr "ডাউন্‌লোড কৰা হ'ব"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:241
