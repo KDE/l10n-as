@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-05 11:39+0000\n"
+"POT-Creation-Date: 2012-12-11 04:30+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr "Compiz"
 
-#: dolphin/src/dolphinpart.desktop:246
+#: dolphin/src/dolphinpart.desktop:247
 msgctxt "Name"
 msgid "Details"
 msgstr "বিৱৰণ"
@@ -192,7 +192,7 @@ msgctxt "X-KDE-Keywords"
 msgid "password;email;name;organization;realname;login image;face; echo mode;"
 msgstr ""
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:144
+#: kdepasswd/kcm/kcm_useraccount.desktop:145
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
@@ -210,7 +210,7 @@ msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
 
-#: keditbookmarks/keditbookmarks.desktop:69
+#: keditbookmarks/keditbookmarks.desktop:70
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr ""
@@ -602,7 +602,7 @@ msgctxt "Name"
 msgid "Konqueror Browser Preloader"
 msgstr "KDED Konqueror Preloader Module"
 
-#: konqueror/preloader/konqy_preloader.desktop:67
+#: konqueror/preloader/konqy_preloader.desktop:68
 msgctxt "Comment"
 msgid "Reduces Konqueror startup time"
 msgstr "Konqueror আৰম্ভণিৰ সময় কম কৰে"
