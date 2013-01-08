@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-05 02:38+0000\n"
+"POT-Creation-Date: 2013-01-08 11:58+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -773,6 +773,30 @@ msgctxt "Name"
 msgid "UADescription (Google Chrome 1.0 on Windows XP)"
 msgstr "UADescription (Mozilla 1.7 on Windows XP)"
 
+#: konqueror/settings/kio/uasproviders/chrome22oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+msgctxt "Name"
+msgid "UADescription (Google Chrome 22.0)"
+msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#: konqueror/settings/kio/uasproviders/chrome23oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+msgctxt "Name"
+msgid "UADescription (Google Chrome 23.0)"
+msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#: konqueror/settings/kio/uasproviders/chrome24oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+msgctxt "Name"
+msgid "UADescription (Google Chrome 24.0)"
+msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
 #: konqueror/settings/kio/uasproviders/chrome50oncurrent.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -780,6 +804,22 @@ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 5.0)"
 msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#: konqueror/settings/kio/uasproviders/firefox15oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Firefox 1.5 on current)"
+msgctxt "Name"
+msgid "UADescription (Firefox 15 on current)"
+msgstr "UADescription (Firefox 1.5 on current)"
+
+#: konqueror/settings/kio/uasproviders/firefox16oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Firefox 2.0 on current)"
+msgctxt "Name"
+msgid "UADescription (Firefox 16 on current)"
+msgstr "UADescription (Firefox 2.0 on current)"
 
 #: konqueror/settings/kio/uasproviders/firefox20oncurrent.desktop:2
 msgctxt "Name"
@@ -840,6 +880,22 @@ msgctxt "Name"
 msgid "UADescription (IE 7.0 on Win XP)"
 msgstr "UADescription (IE 6.0 on Win XP)"
 
+#: konqueror/settings/kio/uasproviders/ie80onwinnt60.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (IE 6.0 on Win XP)"
+msgctxt "Name"
+msgid "UADescription (IE 8.0 on Windows Vista)"
+msgstr "UADescription (IE 6.0 on Win XP)"
+
+#: konqueror/settings/kio/uasproviders/ie90onwinnt71.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (IE 6.0 on Win XP)"
+msgctxt "Name"
+msgid "UADescription (IE 9.0 on Windows Seven)"
+msgstr "UADescription (IE 6.0 on Win XP)"
+
 #: konqueror/settings/kio/uasproviders/lynxoncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Lynx 2.8.3)"
@@ -869,6 +925,22 @@ msgstr "UADescription (Netscape 7.1 on current)"
 msgctxt "Name"
 msgid "UADescription (Netscape 7.1 on XP)"
 msgstr "UADescription (Netscape 7.1 on XP)"
+
+#: konqueror/settings/kio/uasproviders/op1162oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Opera 9.00 on current)"
+msgctxt "Name"
+msgid "UADescription (Opera 11.62 on current)"
+msgstr "UADescription (Opera 9.00 on current)"
+
+#: konqueror/settings/kio/uasproviders/op1202oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Opera 9.00 on current)"
+msgctxt "Name"
+msgid "UADescription (Opera 12.02 on current)"
+msgstr "UADescription (Opera 9.00 on current)"
 
 #: konqueror/settings/kio/uasproviders/op403onwinnt4.desktop:2
 msgctxt "Name"
@@ -920,6 +992,22 @@ msgstr "UADescription (Safari 1.2 on MacOS X)"
 #| msgid "UADescription (Safari 2.0 on MacOS X)"
 msgctxt "Name"
 msgid "UADescription (Safari 4.0 on MacOS X)"
+msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#: konqueror/settings/kio/uasproviders/safari517.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Safari 2.0 on MacOS X)"
+msgctxt "Name"
+msgid "UADescription (Safari 5.1.7 on MacOS X)"
+msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#: konqueror/settings/kio/uasproviders/safari60.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Safari 2.0 on MacOS X)"
+msgctxt "Name"
+msgid "UADescription (Safari 6.0 on MacOS X)"
 msgstr "UADescription (Safari 2.0 on MacOS X)"
 
 #: konqueror/settings/kio/uasproviders/w3moncurrent.desktop:2
@@ -8173,7 +8261,3 @@ msgstr "ফোল্ডাৰৰ বিষয়বস্তু দেখুৱা�
 #~ msgctxt "Comment"
 #~ msgid "Remote Encoding Plugin for Konqueror"
 #~ msgstr "Konqueror ৰ কাৰণে Remote Encoding Plugin"
-
-#~ msgctxt "Name"
-#~ msgid "UADescription (Firefox 1.5 on current)"
-#~ msgstr "UADescription (Firefox 1.5 on current)"
