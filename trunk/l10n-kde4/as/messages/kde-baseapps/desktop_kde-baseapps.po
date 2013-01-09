@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-08 11:58+0000\n"
+"POT-Creation-Date: 2013-01-09 03:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr "Compiz"
 
-#: dolphin/src/dolphinpart.desktop:248
+#: dolphin/src/dolphinpart.desktop:249
 msgctxt "Name"
 msgid "Details"
 msgstr "বিৱৰণ"
@@ -55,7 +55,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:72
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:73
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -63,7 +63,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:152
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:154
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "General"
@@ -71,7 +71,7 @@ msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:224
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:227
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -79,10 +79,10 @@ msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:294
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:295
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:245
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:292
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:298
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:298
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:247
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:296
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "File Manager"
@@ -98,7 +98,7 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:73
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:74
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -106,7 +106,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:152
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:154
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Navigation Panel"
@@ -114,7 +114,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "পৰিদৰ্শনৰ পেনেল"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:225
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:227
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -130,14 +130,14 @@ msgctxt "Name"
 msgid "Dolphin Services"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:82
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:83
 #: konqueror/sidebar/default_entries/services.desktop:4
 #: konqueror/sidebar/trees/init/services/.directory:3
 msgctxt "Name"
 msgid "Services"
 msgstr "সেৱা"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:175
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:176
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -153,7 +153,7 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:72
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:73
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -161,7 +161,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:150
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:152
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Views"
@@ -169,7 +169,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "প্ৰদৰ্শন ব্যৱস্থা"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:221
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:224
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -192,7 +192,7 @@ msgctxt "X-KDE-Keywords"
 msgid "password;email;name;organization;realname;login image;face; echo mode;"
 msgstr ""
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:146
+#: kdepasswd/kcm/kcm_useraccount.desktop:147
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
@@ -210,7 +210,7 @@ msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
 
-#: keditbookmarks/keditbookmarks.desktop:70
+#: keditbookmarks/keditbookmarks.desktop:71
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr ""
@@ -228,7 +228,7 @@ msgctxt "Name"
 msgid "Adblock"
 msgstr "Clock"
 
-#: konq-plugins/adblock/plugin_adblock.desktop:60
+#: konq-plugins/adblock/plugin_adblock.desktop:61
 msgctxt "Comment"
 msgid "Show all blockable html elements"
 msgstr ""
@@ -241,7 +241,7 @@ msgctxt "Name"
 msgid "Konqueror Feed Icon"
 msgstr "Konqueror"
 
-#: konq-plugins/akregator/akregator_konqfeedicon.desktop:62
+#: konq-plugins/akregator/akregator_konqfeedicon.desktop:63
 msgctxt "Comment"
 msgid "Displays an icon in the status bar if the page contains a feed"
 msgstr ""
@@ -277,7 +277,7 @@ msgctxt "Name"
 msgid "Translate"
 msgstr "LEO-Translate"
 
-#: konq-plugins/babelfish/plugin_babelfish.desktop:75
+#: konq-plugins/babelfish/plugin_babelfish.desktop:76
 msgctxt "Comment"
 msgid "Language translation for the current page using Babelfish"
 msgstr ""
