@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-12 02:51+0000\n"
+"POT-Creation-Date: 2013-01-21 02:58+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -192,7 +192,7 @@ msgctxt "X-KDE-Keywords"
 msgid "password;email;name;organization;realname;login image;face; echo mode;"
 msgstr ""
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:147
+#: kdepasswd/kcm/kcm_useraccount.desktop:148
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
@@ -1521,7 +1521,7 @@ msgctxt "Name"
 msgid "Basic link to file or directory..."
 msgstr ""
 
-#: lib/konq/Templates/linkPath.desktop:69
+#: lib/konq/Templates/linkPath.desktop:70
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr ""
