@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-20 02:42+0000\n"
+"POT-Creation-Date: 2013-01-22 04:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -696,10 +696,10 @@ msgstr "ডেস্কট'প"
 #: kioslave/thumbnail/directorythumbnail.desktop:3
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "Open Directory"
+#| msgid "Folder"
 msgctxt "Name"
-msgid "Directories"
-msgstr "মুক্ত পঞ্জিকা"
+msgid "Folders"
+msgstr "ফোল্ডাৰ"
 
 #: kioslave/thumbnail/djvuthumbnail.desktop:3
 msgctxt "Name"
@@ -5850,6 +5850,13 @@ msgstr ""
 
 #, fuzzy
 #~| msgctxt "Name"
+#~| msgid "Open Directory"
+#~ msgctxt "Name"
+#~ msgid "Directories"
+#~ msgstr "মুক্ত পঞ্জিকা"
+
+#, fuzzy
+#~| msgctxt "Name"
 #~| msgid "Xine"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Xine"
@@ -6647,10 +6654,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Test"
 #~ msgstr "পৰীক্ষা কৰক"
-
-#~ msgctxt "Name"
-#~ msgid "Folder"
-#~ msgstr "ফোল্ডাৰ"
 
 #~ msgctxt "Name"
 #~ msgid "FTP Archives"
