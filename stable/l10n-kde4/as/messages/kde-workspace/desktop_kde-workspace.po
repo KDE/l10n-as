@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-23 09:21+0000\n"
+"POT-Creation-Date: 2013-01-24 11:38+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2614,12 +2614,12 @@ msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
-#: ktouchpadenabler/ktouchpadenabler.desktop:8
+#: ktouchpadenabler/ktouchpadenabler.desktop:9
 msgctxt "Name"
 msgid "KDE TouchPad Enabler Daemon"
 msgstr ""
 
-#: ktouchpadenabler/ktouchpadenabler.desktop:47
+#: ktouchpadenabler/ktouchpadenabler.desktop:48
 msgctxt "Comment"
 msgid "Toggles the enable status of the TouchPad"
 msgstr ""
@@ -4018,7 +4018,7 @@ msgctxt "Name"
 msgid "Window Strip"
 msgstr "MS Windows 9x"
 
-#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:40
+#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:41
 msgctxt "Comment"
 msgid "Window switcher layout for Plasma Active"
 msgstr ""
