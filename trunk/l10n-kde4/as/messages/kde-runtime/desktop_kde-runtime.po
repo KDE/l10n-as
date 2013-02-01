@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-29 06:23+0000\n"
+"POT-Creation-Date: 2013-02-01 03:10+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -647,7 +647,7 @@ msgctxt "Name"
 msgid "Recent Document Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:63
+#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:64
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
 msgstr ""
@@ -5568,7 +5568,7 @@ msgctxt "Comment"
 msgid "Nepomuk Server Configuration"
 msgstr "Fetchmail ৰ বিন্যাস"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:132
+#: nepomuk/kcm/kcm_nepomuk.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid "Nepomuk,Metadata"
 msgstr ""
