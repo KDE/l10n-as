@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-01 03:46+0100\n"
+"POT-Creation-Date: 2013-02-08 03:27+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -30,7 +30,7 @@ msgstr "aphukan@fedoraproject.org"
 msgid "Window '%1' demands attention."
 msgstr "সংযোগক্ষেত্ৰ '%1' ৰ পৰা চেতাৱনী প্ৰাপ্ত হৈছে ।"
 
-#: composite.cpp:401
+#: composite.cpp:397
 #, kde-format
 msgid ""
 "Desktop effects have been suspended by another application.<br/>You can "
@@ -844,7 +844,7 @@ msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰ�
 msgid "Switch to Desktop %1"
 msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
 
-#: workspace.cpp:1963
+#: workspace.cpp:1964
 msgctxt "Introductory text shown in the support information."
 msgid ""
 "KWin Support Information:\n"
