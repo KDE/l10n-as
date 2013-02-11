@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-11 03:39+0100\n"
+"POT-Creation-Date: 2013-01-21 03:10+0100\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -384,26 +384,40 @@ msgstr "এই স্তম্ভলৈ যাওক"
 msgid "Document to open"
 msgstr "খুলিব লগা আলেখ্যন"
 
-#~ msgid "&File"
-#~ msgstr "নথিপত্ৰ (&F)"
+#. i18n: ectx: Menu (file)
+#: kwriteui.rc:5
+msgid "&File"
+msgstr "নথিপত্ৰ (&F)"
 
-#~ msgid "&Edit"
-#~ msgstr "সম্পাদন (&E)"
+#. i18n: ectx: Menu (edit)
+#: kwriteui.rc:27
+msgid "&Edit"
+msgstr "সম্পাদন (&E)"
 
-#~ msgid "&View"
-#~ msgstr "চাওক (&V)"
+#. i18n: ectx: Menu (view)
+#: kwriteui.rc:39
+msgid "&View"
+msgstr "চাওক (&V)"
 
-#~ msgid "&Tools"
-#~ msgstr "সৰঞ্জাম (&T)"
+#. i18n: ectx: Menu (tools)
+#: kwriteui.rc:45
+msgid "&Tools"
+msgstr "সৰঞ্জাম (&T)"
 
-#~ msgid "&Settings"
-#~ msgstr "পছন্দ (&S)"
+#. i18n: ectx: Menu (settings)
+#: kwriteui.rc:51
+msgid "&Settings"
+msgstr "পছন্দ (&S)"
 
-#~ msgid "&Help"
-#~ msgstr "সহায় (&H)"
+#. i18n: ectx: Menu (help)
+#: kwriteui.rc:62
+msgid "&Help"
+msgstr "সহায় (&H)"
 
-#~ msgid "Main Toolbar"
-#~ msgstr "প্ৰধান টুল-বাৰ"
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kwriteui.rc:67
+msgid "Main Toolbar"
+msgstr "প্ৰধান টুল-বাৰ"
 
 #~ msgid "Choose Editor Component"
 #~ msgstr "সম্পাদকৰ অংশ বাচি লওক"
