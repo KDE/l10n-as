@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-15 17:46+0100\n"
+"POT-Creation-Date: 2013-02-13 11:13+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -732,7 +732,7 @@ msgstr "পৰ্দ্দা ১ লৈ সংযোগক্ষেত্ৰ �
 msgid "&All Activities"
 msgstr ""
 
-#: useractions.cpp:902
+#: useractions.cpp:904
 #, kde-format
 msgid "Activate Window (%1)"
 msgstr "সংযোগক্ষেত্ৰ সক্ৰিয় কৰক (%1)"
