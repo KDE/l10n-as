@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-19 03:24+0100\n"
+"POT-Creation-Date: 2013-02-15 03:55+0100\n"
 "PO-Revision-Date: 2009-01-15 15:43+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -115,7 +115,8 @@ msgstr ""
 msgid "Switch off after"
 msgstr ""
 
-#: backends/upower/upowersuspendjob.cpp:76
+#: backends/upower/login1suspendjob.cpp:80
+#: backends/upower/upowersuspendjob.cpp:75
 msgid "Unsupported suspend method"
 msgstr ""
 
