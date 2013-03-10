@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-03-05 18:41+0100\n"
+"POT-Creation-Date: 2013-03-10 10:37+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5187,7 +5187,7 @@ msgid "Warning"
 msgstr "সতৰ্কবাণী"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:872 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:870 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "ত্ৰুটি"
@@ -8567,7 +8567,7 @@ msgstr "তলত স্থানান্তৰ (&D)"
 msgid "&Help"
 msgstr "সহায় (&H)"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:995
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:993
 msgid "Clear &History"
 msgstr "পূৰ্ববৰ্তী তথ্য আঁতৰাওঁক (&H)"
 
@@ -10438,28 +10438,28 @@ msgstr ""
 msgid "Pause"
 msgstr "স্থগিত"
 
-#: khtml/rendering/render_form.cpp:851
+#: khtml/rendering/render_form.cpp:849
 msgid "New Web Shortcut"
 msgstr "নতুন ৱেব চমু পথ"
 
-#: khtml/rendering/render_form.cpp:872
+#: khtml/rendering/render_form.cpp:870
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 ক ইতিমধ্যে %2 লৈ বিতৰণ কৰা হৈছে"
 
-#: khtml/rendering/render_form.cpp:917
+#: khtml/rendering/render_form.cpp:915
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:919
+#: khtml/rendering/render_form.cpp:917
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:924
+#: khtml/rendering/render_form.cpp:922
 msgid "UR&I shortcuts:"
 msgstr "URI চমু পথ (&I)"
 
-#: khtml/rendering/render_form.cpp:1010
+#: khtml/rendering/render_form.cpp:1008
 msgid "Create Web Shortcut"
 msgstr "ৱেব চমু পথ নিৰ্মাণ কৰক"
 
