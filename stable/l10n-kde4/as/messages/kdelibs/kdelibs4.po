@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-03-15 11:59+0100\n"
+"POT-Creation-Date: 2013-03-27 10:13+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -976,7 +976,7 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:814
+#: kdecore/config/kconfig.cpp:815
 msgid "Please contact your system administrator."
 msgstr "অনুগ্ৰহ কৰি ব্যৱস্থাপ্ৰণালী প্ৰশাসকৰ সৈতে যোগাযোগ কৰক ।"
 
