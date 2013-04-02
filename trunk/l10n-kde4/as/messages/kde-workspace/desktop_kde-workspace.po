@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-01 02:23+0000\n"
+"POT-Creation-Date: 2013-04-02 05:38+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5376,26 +5376,6 @@ msgstr "MS Windows 9x"
 #: plasma/generic/runners/windows/plasma-runner-windows.desktop:73
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
-msgstr ""
-
-#: plasma/generic/scriptengines/google_gadgets/plasma-packagestructure-googlegadgets.desktop:2
-msgctxt "Name"
-msgid "Google Gadgets"
-msgstr ""
-
-#: plasma/generic/scriptengines/google_gadgets/plasma-packagestructure-googlegadgets.desktop:78
-msgctxt "Comment"
-msgid "Google Desktop Gadget"
-msgstr ""
-
-#: plasma/generic/scriptengines/google_gadgets/plasma-scriptengine-googlegadgets.desktop:2
-msgctxt "Name"
-msgid "GoogleGadgets"
-msgstr ""
-
-#: plasma/generic/scriptengines/google_gadgets/plasma-scriptengine-googlegadgets.desktop:78
-msgctxt "Comment"
-msgid "Google Desktop Gadgets"
 msgstr ""
 
 #: plasma/generic/scriptengines/python/plasma-scriptengine-applet-python.desktop:2
