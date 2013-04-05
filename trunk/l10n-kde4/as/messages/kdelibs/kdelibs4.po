@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-04 03:59+0200\n"
+"POT-Creation-Date: 2013-04-05 03:27+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7185,11 +7185,11 @@ msgstr "প্ৰতিস্থাপন (&O)"
 msgid "Redo"
 msgstr "পুনৰাবৃত্তি"
 
-#: kdeui/widgets/kactionselector.cpp:100
+#: kdeui/widgets/kactionselector.cpp:101
 msgid "&Available:"
 msgstr "উপলব্ধ: (&A)"
 
-#: kdeui/widgets/kactionselector.cpp:117
+#: kdeui/widgets/kactionselector.cpp:118
 msgid "&Selected:"
 msgstr "নিৰ্বাচিত: (&S)"
 
