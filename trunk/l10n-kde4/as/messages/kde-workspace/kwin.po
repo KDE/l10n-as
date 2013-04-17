@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-16 05:27+0200\n"
+"POT-Creation-Date: 2013-04-17 03:47+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -523,7 +523,7 @@ msgstr ""
 msgid "Indicate that KWin has recently crashed n times"
 msgstr "KWin এ n সংখ্যক বাৰ বিপৰ্যস্ত হোৱাৰ ইঙ্গিত প্ৰদৰ্শন কৰা হ'ব"
 
-#: scene_opengl.cpp:486
+#: scene_opengl.cpp:481
 #, kde-format
 msgid ""
 "<h1>OpenGL desktop effects not possible</h1>Your system cannot perform "
@@ -533,7 +533,7 @@ msgid ""
 "%2 "
 msgstr ""
 
-#: scene_opengl.cpp:493
+#: scene_opengl.cpp:488
 msgid ""
 "The demanded resolution exceeds the GL_MAX_VIEWPORT_DIMS limitation of your "
 "GPU and is therefore not compatible with the OpenGL compositor.<br>XRender "
@@ -541,7 +541,7 @@ msgid ""
 "by the hardware limitations that restrict the OpenGL viewport size."
 msgstr ""
 
-#: scene_opengl.cpp:518
+#: scene_opengl.cpp:513
 #, kde-format
 msgid ""
 "<h1>OpenGL desktop effects might be unusable</h1>OpenGL Desktop Effects at "
@@ -550,7 +550,7 @@ msgid ""
 "compositing, switch to the XRender backend or lower the resolution to %1x%1."
 msgstr ""
 
-#: scene_opengl.cpp:524
+#: scene_opengl.cpp:519
 msgid ""
 "The demanded resolution exceeds the GL_MAX_TEXTURE_SIZE limitation of your "
 "GPU, thus windows of that size cannot be assigned to textures and will be "
@@ -559,70 +559,70 @@ msgid ""
 "software rendering in this case."
 msgstr ""
 
-#: tabbox/tabbox.cpp:365
+#: tabbox/tabbox.cpp:370
 #, fuzzy
 #| msgid "Show Desktop Grid"
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr "Desktop Grid দেখুৱাওক"
 
-#: tabbox/tabbox.cpp:520
+#: tabbox/tabbox.cpp:525
 msgid "Walk Through Windows"
 msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:521
-msgid "Walk Through Windows (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:522
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows Alternative"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:523
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows Alternative (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:524
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
-#: tabbox/tabbox.cpp:525
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application (Reverse)"
-msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
-
 #: tabbox/tabbox.cpp:526
-#, fuzzy
-#| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application Alternative"
+msgid "Walk Through Windows (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: tabbox/tabbox.cpp:527
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
-msgid "Walk Through Windows of Current Application Alternative (Reverse)"
+msgid "Walk Through Windows Alternative"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
 #: tabbox/tabbox.cpp:528
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows Alternative (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:529
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:530
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:531
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application Alternative"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:532
+#, fuzzy
+#| msgid "Walk Through Windows (Reverse)"
+msgid "Walk Through Windows of Current Application Alternative (Reverse)"
+msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
+
+#: tabbox/tabbox.cpp:533
 msgid "Walk Through Desktops"
 msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:529
+#: tabbox/tabbox.cpp:534
 msgid "Walk Through Desktops (Reverse)"
 msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:530
+#: tabbox/tabbox.cpp:535
 msgid "Walk Through Desktop List"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:531
+#: tabbox/tabbox.cpp:536
 msgid "Walk Through Desktop List (Reverse)"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
