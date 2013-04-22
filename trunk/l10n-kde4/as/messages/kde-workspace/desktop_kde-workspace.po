@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-21 02:24+0000\n"
+"POT-Creation-Date: 2013-04-22 02:04+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5697,7 +5697,7 @@ msgctxt "Name"
 msgid "Screen Brightness"
 msgstr "বিজ্ঞান"
 
-#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:64
+#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:7
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -5710,7 +5710,7 @@ msgctxt "Name"
 msgid "Dim Screen"
 msgstr "PrintScreen"
 
-#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:63
+#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:7
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
