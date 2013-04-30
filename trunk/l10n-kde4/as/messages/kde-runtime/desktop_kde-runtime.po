@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-25 02:34+0000\n"
+"POT-Creation-Date: 2013-04-30 05:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -223,7 +223,7 @@ msgstr "ভাব-প্ৰতীক"
 
 #: kcontrol/emoticons/emoticons.desktop:98
 msgctxt "Comment"
-msgid "Emoticons Themes Manager"
+msgid "Choose Emoticon Theme"
 msgstr ""
 
 #: kcontrol/emoticons/emoticons.desktop:182

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-26 02:09+0000\n"
+"POT-Creation-Date: 2013-04-30 05:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2336,7 +2336,7 @@ msgctxt "Name"
 msgid "Contour"
 msgstr ""
 
-#: ksmserver/themes/contour/metadata.desktop:44
+#: ksmserver/themes/contour/metadata.desktop:45
 msgctxt "Comment"
 msgid "Plasma Active theme"
 msgstr ""
@@ -2346,7 +2346,7 @@ msgctxt "Name"
 msgid "Default"
 msgstr "অবিকল্পিত"
 
-#: ksmserver/themes/default/metadata.desktop:91
+#: ksmserver/themes/default/metadata.desktop:92
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -2937,7 +2937,7 @@ msgctxt "Name"
 msgid "Mouse Click Animation"
 msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
 
-#: kwin/effects/mouseclick/mouseclick.desktop:43
+#: kwin/effects/mouseclick/mouseclick.desktop:44
 msgctxt "Comment"
 msgid ""
 "Creates an animation whenever a mouse button is clicked. This is useful for "
@@ -3257,9 +3257,12 @@ msgid "Actions"
 msgstr ""
 
 #: kwin/kcmkwin/kwinoptions/kwinactions.desktop:103
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
 msgctxt "Comment"
-msgid "Configure keyboard and mouse settings"
-msgstr ""
+msgid "Configure mouse actions on windows"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #: kwin/kcmkwin/kwinoptions/kwinactions.desktop:191
 msgctxt "X-KDE-Keywords"
@@ -3617,7 +3620,7 @@ msgctxt "Name"
 msgid "Previews"
 msgstr "নথিপত্ৰৰ পূৰ্ব প্ৰদৰ্শন"
 
-#: kwin/tabbox/qml/desktops/previews/metadata.desktop:3
+#: kwin/tabbox/qml/desktops/previews/metadata.desktop:12
 msgctxt "Comment"
 msgid "A desktop switcher layout with previews of the desktops"
 msgstr ""
@@ -5440,7 +5443,7 @@ msgctxt "Name"
 msgid "Activity Settings"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:59
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:60
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5448,7 +5451,7 @@ msgctxt "Comment"
 msgid "Configure per-activity Power Management"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:103
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:105
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -5463,7 +5466,7 @@ msgctxt "Name"
 msgid "Advanced Settings"
 msgstr "বৈশিষ্ট্য"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:59
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:60
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5471,7 +5474,7 @@ msgctxt "Comment"
 msgid "Configure Advanced Power Management Settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:105
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:106
 #: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid ""
