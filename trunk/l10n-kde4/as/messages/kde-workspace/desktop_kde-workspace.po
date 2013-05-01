@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-30 05:39+0000\n"
+"POT-Creation-Date: 2013-05-01 02:40+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3264,7 +3264,7 @@ msgctxt "Comment"
 msgid "Configure mouse actions on windows"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:191
+#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:105
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -3620,7 +3620,7 @@ msgctxt "Name"
 msgid "Previews"
 msgstr "নথিপত্ৰৰ পূৰ্ব প্ৰদৰ্শন"
 
-#: kwin/tabbox/qml/desktops/previews/metadata.desktop:12
+#: kwin/tabbox/qml/desktops/previews/metadata.desktop:19
 msgctxt "Comment"
 msgid "A desktop switcher layout with previews of the desktops"
 msgstr ""
@@ -4548,7 +4548,7 @@ msgctxt "Name"
 msgid "paste.kde.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:22
+#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:23
 msgctxt "Comment"
 msgid "Allows text to be shared using the kde.org service"
 msgstr ""
@@ -5287,7 +5287,7 @@ msgctxt "Name"
 msgid "Screen Brightness"
 msgstr "বিজ্ঞান"
 
-#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:19
+#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:24
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -5300,7 +5300,7 @@ msgctxt "Name"
 msgid "Dim Screen"
 msgstr "PrintScreen"
 
-#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:18
+#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:24
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
@@ -5409,7 +5409,7 @@ msgctxt "Name"
 msgid "Get syspath"
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:304
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:309
 msgctxt "Description"
 msgid "System policies prevent you from getting the syspath"
 msgstr ""
