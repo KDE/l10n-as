@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-16 05:02+0200\n"
+"POT-Creation-Date: 2013-05-05 03:33+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1507,7 +1507,7 @@ msgstr "KDE অনুপ্ৰয়োগ"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:497 khtml/khtml_part.cpp:4833
+#: kdecore/kernel/kcmdlineargs.cpp:497 khtml/khtml_part.cpp:4838
 msgid "KDE"
 msgstr "KDE"
 
@@ -9513,7 +9513,7 @@ msgstr[0] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 msgstr[1] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
-#: khtml/khtml_part.cpp:4780 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
+#: khtml/khtml_part.cpp:4785 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
 msgid "Submit"
 msgstr "জমা কৰক"
 
@@ -9521,7 +9521,7 @@ msgstr "জমা কৰক"
 msgid "Key Generator"
 msgstr "চাবি নিৰ্মাণ ব্যৱস্থা"
 
-#: khtml/html/html_objectimpl.cpp:608
+#: khtml/html/html_objectimpl.cpp:602
 #, kde-format
 msgid ""
 "No plugin found for '%1'.\n"
@@ -9530,15 +9530,15 @@ msgstr ""
 "'%1' ৰ বাবে প্লাগ-ইন পোৱা নাযায় ।\n"
 "%2ৰ পৰা ডাউনলোড কৰা হ'ব নেকি ?"
 
-#: khtml/html/html_objectimpl.cpp:609
+#: khtml/html/html_objectimpl.cpp:603
 msgid "Missing Plugin"
 msgstr "অনুপস্থিত প্লাগ-ইন"
 
-#: khtml/html/html_objectimpl.cpp:609
+#: khtml/html/html_objectimpl.cpp:603
 msgid "Download"
 msgstr "ডাউন্‌লোড কৰা হ'ব"
 
-#: khtml/html/html_objectimpl.cpp:609
+#: khtml/html/html_objectimpl.cpp:603
 msgid "Do Not Download"
 msgstr "ডাউন্‌লোড কৰা ন'হ'ব"
 
@@ -9633,7 +9633,7 @@ msgstr "স্বাক্ষৰকাৰী (অনুমোদন: %1)"
 msgid "Certificate (validation: %1)"
 msgstr "প্ৰমাণপত্ৰ (অনুমোদন: %1)"
 
-#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6833
+#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6838
 msgid "Security Alert"
 msgstr "নিৰাপত্তা সংক্ৰান্ত সূচনা"
 
@@ -10189,7 +10189,7 @@ msgstr "নতুন ৰূপে ফ্ৰেম সংৰক্ষণ"
 msgid "&Find in Frame..."
 msgstr "ফ্ৰেমত অনুসন্ধান কৰক...(&F)"
 
-#: khtml/khtml_part.cpp:4721
+#: khtml/khtml_part.cpp:4726
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10197,16 +10197,16 @@ msgid ""
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4733
-#: khtml/khtml_part.cpp:4757
+#: khtml/khtml_part.cpp:4729 khtml/khtml_part.cpp:4738
+#: khtml/khtml_part.cpp:4762
 msgid "Network Transmission"
 msgstr "নে'টৱৰ্ক পৰিবহন"
 
-#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4734
+#: khtml/khtml_part.cpp:4729 khtml/khtml_part.cpp:4739
 msgid "&Send Unencrypted"
 msgstr "এনক্ৰিপশন নোহোৱাকে প্ৰেৰিত হ'ব (&S)"
 
-#: khtml/khtml_part.cpp:4731
+#: khtml/khtml_part.cpp:4736
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -10215,7 +10215,7 @@ msgstr ""
 "সতৰ্কবাৰ্তা: আপোনাৰ তথ্য এনক্ৰিপশন নোহোৱাকে নে'টৱৰ্কত প্ৰেৰণ কৰা হ'ব ।\n"
 "আপুনি আগবাঢ়িবলৈ ইচ্ছুক নে ?"
 
-#: khtml/khtml_part.cpp:4755
+#: khtml/khtml_part.cpp:4760
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -10223,87 +10223,87 @@ msgstr ""
 "বৰ্তমান ছাইটৰ দ্বাৰা ঈ-মেইলৰ মাধ্যমে তথ্য জমা কৰাৰ প্ৰচেষ্টা কৰা হৈছে ।\n"
 "আগবাঢ়িব খোজে নেকি ?"
 
-#: khtml/khtml_part.cpp:4758
+#: khtml/khtml_part.cpp:4763
 msgid "&Send Email"
 msgstr "ঈ-মেইল কৰক (&S)"
 
-#: khtml/khtml_part.cpp:4779
+#: khtml/khtml_part.cpp:4784
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4833
+#: khtml/khtml_part.cpp:4838
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5911
+#: khtml/khtml_part.cpp:5916
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6823
+#: khtml/khtml_part.cpp:6828
 msgid "Security Warning"
 msgstr "নিৰাপত্তা সংক্ৰান্ত সতৰ্কবাৰ্তা"
 
-#: khtml/khtml_part.cpp:6832
+#: khtml/khtml_part.cpp:6837
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 "<qt>অৱিশ্বস্ত পৃষ্ঠা দ্বাৰা<br /><b>%1</b><br /> ৰ ব্যৱহাৰ প্ৰতিৰোধ কৰা হৈছে ।</qt>"
 
-#: khtml/khtml_part.cpp:7181
+#: khtml/khtml_part.cpp:7186
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7241
+#: khtml/khtml_part.cpp:7246
 msgid "&Close Wallet"
 msgstr "Wallet বন্ধ কৰক (&C)"
 
-#: khtml/khtml_part.cpp:7244
+#: khtml/khtml_part.cpp:7249
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7249
+#: khtml/khtml_part.cpp:7254
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7354
+#: khtml/khtml_part.cpp:7359
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ডিবাগাৰ (&D)"
 
-#: khtml/khtml_part.cpp:7386
+#: khtml/khtml_part.cpp:7391
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7392
+#: khtml/khtml_part.cpp:7397
 msgid "Popup Window Blocked"
 msgstr "পপ-আপ সংযোগক্ষেত্ৰ ৰোধ কৰা হৈছে"
 
-#: khtml/khtml_part.cpp:7392
+#: khtml/khtml_part.cpp:7397
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7405
+#: khtml/khtml_part.cpp:7410
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "অৱৰুদ্ধ পপ-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা হ'ব (&S)"
 msgstr[1] "অৱৰুদ্ধ %1 পপ-আপ সংযোগক্ষেত্ৰ প্ৰদৰ্শন কৰা হ'ব (&S)"
 
-#: khtml/khtml_part.cpp:7406
+#: khtml/khtml_part.cpp:7411
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7408
+#: khtml/khtml_part.cpp:7413
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript ৰ নতুন সংযোগক্ষেত্ৰ সংক্ৰান্ত নিয়মনীতি বিন্যাস কৰক...&C"
 
