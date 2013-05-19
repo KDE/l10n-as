@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-13 10:20+0200\n"
+"POT-Creation-Date: 2013-05-19 11:09+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1007,7 +1007,9 @@ msgid "Insufficient permissions in target directory."
 msgstr "লক্ষ্য পঞ্জিকা ব্যৱহাৰৰ বাবে পৰ্যাপ্ত অনুমতি নাই ।"
 
 #: kdecore/io/ksavefile.cpp:129
-msgid "Unable to open temporary file."
+#, fuzzy, kde-format
+#| msgid "Unable to open temporary file."
+msgid "Unable to open temporary file. Error was: %1."
 msgstr "অস্থায়ী নথিপত্ৰ খোলোঁতে ব্যৰ্থ ।"
 
 #: kdecore/io/ksavefile.cpp:237
