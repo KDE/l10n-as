@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-13 03:30+0200\n"
+"POT-Creation-Date: 2013-05-20 03:40+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1007,7 +1007,9 @@ msgid "Insufficient permissions in target directory."
 msgstr "লক্ষ্য পঞ্জিকা ব্যৱহাৰৰ বাবে পৰ্যাপ্ত অনুমতি নাই ।"
 
 #: kdecore/io/ksavefile.cpp:129
-msgid "Unable to open temporary file."
+#, fuzzy, kde-format
+#| msgid "Unable to open temporary file."
+msgid "Unable to open temporary file. Error was: %1."
 msgstr "অস্থায়ী নথিপত্ৰ খোলোঁতে ব্যৰ্থ ।"
 
 #: kdecore/io/ksavefile.cpp:237
@@ -3297,7 +3299,7 @@ msgstr "'ai_socktype' সমৰ্থিত নহয়"
 msgid "system error"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ ত্ৰুটি"
 
-#: kdecore/services/kmimetyperepository.cpp:611
+#: kdecore/services/kmimetyperepository.cpp:612
 #, kde-format
 msgid "Could not find mime type <resource>%2</resource>"
 msgid_plural ""
@@ -3308,7 +3310,7 @@ msgstr[1] ""
 "মাইম টাইপ পোৱা নাযায়:\n"
 "<resource>%2</resource>"
 
-#: kdecore/services/kmimetyperepository.cpp:629
+#: kdecore/services/kmimetyperepository.cpp:630
 msgid ""
 "No mime types installed. Check that shared-mime-info is installed, and that "
 "XDG_DATA_DIRS is not set, or includes /usr/share."
