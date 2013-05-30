@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-24 01:47+0000\n"
+"POT-Creation-Date: 2013-05-26 01:48+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5616,15 +5616,15 @@ msgstr ""
 
 #: phonon/kcm/kcm_phonon.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "GPhoto"
+#| msgctxt "GenericName"
+#| msgid "Audio and Video IDE"
 msgctxt "Name"
-msgid "Phonon"
-msgstr "GPhoto"
+msgid "Audio and Video Settings"
+msgstr "অ'ডিঅ' আৰু ভিডিঅ' IDE"
 
 #: phonon/kcm/kcm_phonon.desktop:81
 msgctxt "Comment"
-msgid "Sound and Video Configuration"
+msgid "Settings for the Phonon multimedia framework"
 msgstr ""
 
 #: phonon/kcm/kcm_phonon.desktop:159
@@ -5874,6 +5874,13 @@ msgstr ""
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "GPhoto"
+#~ msgctxt "Name"
+#~ msgid "Phonon"
+#~ msgstr "GPhoto"
 
 #~ msgctxt "Query"
 #~ msgid "http://www.chemie.de/tools/acronym.php3?language=e&acronym=\\\\{@}"
@@ -8333,13 +8340,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Processor information"
 #~ msgstr "সংসাধকৰ তথ্য"
-
-#, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Audio and Video IDE"
-#~ msgctxt "Name"
-#~ msgid "Audio and Video"
-#~ msgstr "অ'ডিঅ' আৰু ভিডিঅ' IDE"
 
 #~ msgctxt "Name"
 #~ msgid "Alexa"
