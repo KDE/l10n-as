@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-06-18 01:52+0000\n"
+"POT-Creation-Date: 2013-06-21 01:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -919,7 +919,7 @@ msgstr ""
 
 #: knotify/kde.notifyrc:1518
 msgctxt "Comment"
-msgid "KDE is starting up"
+msgid "A new session is starting"
 msgstr ""
 
 #: knotify/kde.notifyrc:1608
@@ -929,7 +929,7 @@ msgstr ""
 
 #: knotify/kde.notifyrc:1695
 msgctxt "Comment"
-msgid "KDE is exiting"
+msgid "Session is exiting"
 msgstr ""
 
 #: knotify/kde.notifyrc:1785
