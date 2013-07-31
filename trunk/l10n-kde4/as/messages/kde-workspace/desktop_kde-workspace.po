@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-07-28 01:56+0000\n"
+"POT-Creation-Date: 2013-07-31 01:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2845,7 +2845,7 @@ msgctxt "Name"
 msgid "Kscreen"
 msgstr ""
 
-#: kwin/effects/kscreen/kscreen.desktop:34
+#: kwin/effects/kscreen/kscreen.desktop:35
 msgctxt "Comment"
 msgid "Helper Effect for KScreen"
 msgstr ""
@@ -2995,7 +2995,7 @@ msgctxt "Name"
 msgid "Screen Edge"
 msgstr "বিজ্ঞান"
 
-#: kwin/effects/screenedge/screenedgeeffect.desktop:38
+#: kwin/effects/screenedge/screenedgeeffect.desktop:39
 msgctxt "Comment"
 msgid "Highlights a screen edge when approaching"
 msgstr ""
@@ -3263,7 +3263,7 @@ msgctxt "Comment"
 msgid "Configure mouse actions on windows"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:135
+#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:136
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -3441,7 +3441,7 @@ msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "চিত্ৰাঙ্কন"
 
-#: kwin/kwin.notifyrc:229
+#: kwin/kwin.notifyrc:230
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
@@ -3622,7 +3622,7 @@ msgctxt "Name"
 msgid "Previews"
 msgstr "নথিপত্ৰৰ পূৰ্ব প্ৰদৰ্শন"
 
-#: kwin/tabbox/qml/desktops/previews/metadata.desktop:35
+#: kwin/tabbox/qml/desktops/previews/metadata.desktop:36
 msgctxt "Comment"
 msgid "A desktop switcher layout with previews of the desktops"
 msgstr ""
@@ -4532,7 +4532,7 @@ msgctxt "Name"
 msgid "im9.eu"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/im9/metadata.desktop:34
+#: plasma/generic/dataengines/share/backends/im9/metadata.desktop:35
 msgctxt "Comment"
 msgid "Allows images to be shared using the im9.eu service"
 msgstr ""
@@ -4562,7 +4562,7 @@ msgctxt "Name"
 msgid "paste.kde.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:36
+#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:37
 msgctxt "Comment"
 msgid "Allows text to be shared using the kde.org service"
 msgstr ""
@@ -5059,12 +5059,12 @@ msgctxt "Comment"
 msgid "A single image"
 msgstr ""
 
-#: plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:212
+#: plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:213
 msgctxt "Name"
 msgid "Slideshow"
 msgstr ""
 
-#: plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:288
+#: plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:289
 msgctxt "Comment"
 msgid "Cycles through a set of images"
 msgstr ""
@@ -5316,7 +5316,7 @@ msgctxt "Name"
 msgid "Screen Brightness"
 msgstr "বিজ্ঞান"
 
-#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:38
+#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:39
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -5329,7 +5329,7 @@ msgctxt "Name"
 msgid "Dim Screen"
 msgstr "PrintScreen"
 
-#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:38
+#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:39
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
@@ -5349,7 +5349,7 @@ msgctxt "Name"
 msgid "Keyboard Backlight"
 msgstr ""
 
-#: powerdevil/daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:43
+#: powerdevil/daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:44
 msgctxt "Comment"
 msgid "Basic Controls for the keyboard backlight brightness"
 msgstr ""
@@ -5438,7 +5438,7 @@ msgctxt "Name"
 msgid "Get syspath"
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:324
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:325
 msgctxt "Description"
 msgid "System policies prevent you from getting the syspath"
 msgstr ""
@@ -6077,7 +6077,7 @@ msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
 
-#: systemsettings/app/kdesystemsettings.desktop:9
+#: systemsettings/app/kdesystemsettings.desktop:8
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Log Viewer"
@@ -6085,7 +6085,7 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: systemsettings/app/kdesystemsettings.desktop:60
+#: systemsettings/app/kdesystemsettings.desktop:59
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Log Viewer"
