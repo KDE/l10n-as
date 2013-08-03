@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-07-29 05:15+0000\n"
+"POT-Creation-Date: 2013-08-03 05:17+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11380,7 +11380,7 @@ msgid "View Comments"
 msgstr "মন্তব্য প্ৰদৰ্শন কৰা হ'ব"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
-#: knewstuff/knewstuff3/core/engine.cpp:463
+#: knewstuff/knewstuff3/core/engine.cpp:486
 #, kde-format
 msgid "Re: %1"
 msgstr "পুনৰাবৃত্তি: %1"
@@ -11886,7 +11886,7 @@ msgid "Error initializing provider."
 msgstr ""
 
 #: knewstuff/knewstuff3/core/engine.cpp:221
-#: knewstuff/knewstuff3/core/engine.cpp:501
+#: knewstuff/knewstuff3/core/engine.cpp:524
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
@@ -11901,7 +11901,7 @@ msgstr ""
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:503
+#: knewstuff/knewstuff3/core/engine.cpp:526
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -11909,7 +11909,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 msgstr[1] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 
-#: knewstuff/knewstuff3/core/engine.cpp:505
+#: knewstuff/knewstuff3/core/engine.cpp:528
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:335
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:129
 #, fuzzy
