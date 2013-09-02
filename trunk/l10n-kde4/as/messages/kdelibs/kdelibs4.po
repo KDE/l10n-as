@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-08-03 01:35+0000\n"
+"POT-Creation-Date: 2013-09-02 01:38+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -5042,7 +5042,7 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "টুল-বাৰৰ অবিকল্পিত মান ৰি-সেট কৰা হ'ব"
 
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/html/html_formimpl.cpp:1845
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/html/html_formimpl.cpp:1837
 #: khtml/khtmlview.cpp:2811 khtml/khtmlview.cpp:2844
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
@@ -9476,7 +9476,7 @@ msgstr "সন্নিবেশ কৰক"
 msgid "Disallow"
 msgstr "অনুমতি প্ৰদান কৰা ন'হ'ব"
 
-#: khtml/html/html_formimpl.cpp:422
+#: khtml/html/html_formimpl.cpp:417
 msgid ""
 "The following files will not be uploaded because they could not be found.\n"
 "Do you want to continue?"
@@ -9484,15 +9484,15 @@ msgstr ""
 "নিম্নলিখিত নথিপত্ৰসমূহ চিনাক্ত নোহোৱাৰ ফলত আপলোড কৰা সম্ভৱ নহয় ।\n"
 "আপুনি আগবাঢ়িবলৈ ইচ্ছুক নে ?"
 
-#: khtml/html/html_formimpl.cpp:426
+#: khtml/html/html_formimpl.cpp:421
 msgid "Submit Confirmation"
 msgstr "দৃঢ় কৰা জমা কৰক"
 
-#: khtml/html/html_formimpl.cpp:426
+#: khtml/html/html_formimpl.cpp:421
 msgid "&Submit Anyway"
 msgstr "তথাপিও জমা কৰা হ'ব (&S)"
 
-#: khtml/html/html_formimpl.cpp:437
+#: khtml/html/html_formimpl.cpp:432
 msgid ""
 "You are about to transfer the following files from your local computer to "
 "the Internet.\n"
@@ -9502,11 +9502,11 @@ msgstr ""
 "কৰিবলৈ লৈছে ।\n"
 "আপুনি নিশ্চিত নে ?"
 
-#: khtml/html/html_formimpl.cpp:441
+#: khtml/html/html_formimpl.cpp:436
 msgid "Send Confirmation"
 msgstr "নিশ্চিতি বাৰ্তা প্ৰেৰণ কৰক"
 
-#: khtml/html/html_formimpl.cpp:441
+#: khtml/html/html_formimpl.cpp:436
 #, fuzzy
 #| msgid "&Send Files"
 msgid "&Send File"
@@ -9514,12 +9514,12 @@ msgid_plural "&Send Files"
 msgstr[0] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 msgstr[1] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 
-#: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
+#: khtml/html/html_formimpl.cpp:1633 khtml/html/html_formimpl.cpp:1845
 #: khtml/khtml_part.cpp:4787 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: khtml/html/html_formimpl.cpp:2717
+#: khtml/html/html_formimpl.cpp:2709
 msgid "Key Generator"
 msgstr "চাবি নিৰ্মাণ ব্যৱস্থা"
 
