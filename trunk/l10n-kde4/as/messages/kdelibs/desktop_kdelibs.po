@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-07-19 01:51+0000\n"
+"POT-Creation-Date: 2013-09-09 02:00+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1237,27 +1237,27 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "অবৈধ নিয়ুক্তকৰ স্ক্ৰিপ্ট"
 
-#: kio/misc/kpac/proxyscout.notifyrc:158
+#: kio/misc/kpac/proxyscout.notifyrc:159
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ডাউন্‌লোড কৰা নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট অবৈধ"
 
-#: kio/misc/kpac/proxyscout.notifyrc:254
+#: kio/misc/kpac/proxyscout.notifyrc:255
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "স্ক্ৰিপ্ট ডাউন্‌লোড কৰোঁতে ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:341
+#: kio/misc/kpac/proxyscout.notifyrc:343
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট ডাউন্‌লোড কৰিব পৰা ন'গ'ল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:437
+#: kio/misc/kpac/proxyscout.notifyrc:440
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "স্ক্ৰিপ্টৰ পৰীক্ষাত ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:522
+#: kio/misc/kpac/proxyscout.notifyrc:526
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট চলাওঁতে ভুল"
