@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: display\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:37+0200\n"
+"POT-Creation-Date: 2013-09-28 01:42+0000\n"
 "PO-Revision-Date: 2009-01-05 15:12+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -17,26 +17,26 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: display.cpp:44
+#: display.cpp:43
 msgid "Size && Orientation"
 msgstr "আকাৰ && দিশ"
 
-#: display.cpp:45
+#: display.cpp:44
 msgid "Graphics Adaptor"
 msgstr "Graphics এডাপ্টৰ"
 
-#: display.cpp:46
+#: display.cpp:45
 msgid "3D Options"
 msgstr "3D বিকল্প"
 
-#: display.cpp:47
+#: display.cpp:46
 msgid "Monitor Gamma"
 msgstr "Monitor Gamma"
 
-#: display.cpp:49
+#: display.cpp:48
 msgid "Multiple Monitors"
 msgstr "একাধিক মনিটৰ"
 
-#: display.cpp:50
+#: display.cpp:49
 msgid "Power Control"
 msgstr "শক্তিৰ নিয়ন্ত্ৰণ"
