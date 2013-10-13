@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-10-09 01:40+0000\n"
+"POT-Creation-Date: 2013-10-13 01:42+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -899,15 +899,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "বানানত অত্যাধিক পৰিমাণে ত্ৰুটি । টাইপ-কৰাৰ-সময়ত-বানান-পৰীক্ষণ নিষ্ক্ৰিয় কৰা হৈছে ।"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:545
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:544
 msgid "Check Spelling..."
 msgstr "বানান পৰীক্ষণ..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:548
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:547
 msgid "Auto Spell Check"
 msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:553
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:552
 msgid "Allow Tabulations"
 msgstr ""
 
@@ -8967,31 +8967,31 @@ msgstr ""
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
 
-#: kdeui/widgets/ktextedit.cpp:161
+#: kdeui/widgets/ktextedit.cpp:160
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
-#: kdeui/widgets/ktextedit.cpp:581
+#: kdeui/widgets/ktextedit.cpp:580
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
 
-#: kdeui/widgets/ktextedit.cpp:596
+#: kdeui/widgets/ktextedit.cpp:595
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:680
+#: kdeui/widgets/ktextedit.cpp:679
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:692
+#: kdeui/widgets/ktextedit.cpp:691
 msgid "Ignore"
 msgstr "উপেক্ষা কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:693
+#: kdeui/widgets/ktextedit.cpp:692
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
