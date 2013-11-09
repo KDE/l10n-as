@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-04 01:53+0000\n"
+"POT-Creation-Date: 2013-11-09 01:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3435,6 +3435,19 @@ msgctxt "Comment"
 msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
 msgstr ""
 
+#: kwin/tabbox/qml/clients/sidebar/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "History Sidebar"
+msgctxt "Name"
+msgid "Sidebar"
+msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
+
+#: kwin/tabbox/qml/clients/sidebar/metadata.desktop:3
+msgctxt "Comment"
+msgid "A window switcher with live thumbnails on the screen side"
+msgstr ""
+
 #: kwin/tabbox/qml/clients/small_icons/metadata.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -5150,6 +5163,52 @@ msgctxt "Name"
 msgid "Net toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
+#: plasma/qmlpackages/blank/metadata.desktop:2
+msgctxt "Comment"
+msgid "Blank desktop view furniture"
+msgstr ""
+
+#: plasma/qmlpackages/blank/metadata.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Blank Desktop"
+msgstr "ডেস্কট'প"
+
+#: plasma/qmlpackages/desktop/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Desktop Magnifier"
+msgctxt "Comment"
+msgid "Desktop view furniture"
+msgstr "ডেষ্কট'প বৰ্দ্ধক"
+
+#: plasma/qmlpackages/desktop/metadata.desktop:15
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Desktop"
+msgstr "ডেস্কট'প"
+
+#: plasma/qmlpackages/lookandfeel/metadata.desktop:2
+msgctxt "Comment"
+msgid "Desktop Design Language"
+msgstr ""
+
+#: plasma/qmlpackages/lookandfeel/metadata.desktop:13
+msgctxt "Keywords"
+msgid ""
+"Desktop, Workspace, Appearance, Look and Feel, Logout, Lock, Suspend, "
+"Shutdown, Hibernate,"
+msgstr ""
+
+#: plasma/qmlpackages/lookandfeel/metadata.desktop:23
+msgctxt "Name"
+msgid "Look and Feel"
+msgstr ""
+
 #: plasma/screensaver/containments/screensaver/plasma-containment-saverdesktop.desktop:2
 msgctxt "Name"
 msgid "SaverDesktop"
@@ -6276,13 +6335,6 @@ msgstr ""
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop"
-#~ msgctxt "Name|plasma containment"
-#~ msgid "Desktop"
-#~ msgstr "ডেস্কট'প"
-
-#, fuzzy
 #~| msgctxt "Comment"
 #~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
@@ -6994,13 +7046,6 @@ msgstr ""
 #~| msgid "History Sidebar"
 #~ msgctxt "Name"
 #~ msgid "History SideBar Module"
-#~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "History Sidebar"
-#~ msgctxt "Name"
-#~ msgid "Sidebar"
 #~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
 #, fuzzy
@@ -12246,10 +12291,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "X Magnifier"
 #~ msgstr "X Magnifier"
-
-#~ msgctxt "GenericName"
-#~ msgid "Desktop Magnifier"
-#~ msgstr "ডেষ্কট'প বৰ্দ্ধক"
 
 #~ msgctxt "GenericName"
 #~ msgid "Refresh Screen"
