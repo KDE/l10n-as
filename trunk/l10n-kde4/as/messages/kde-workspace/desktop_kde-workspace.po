@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-30 01:51+0000\n"
+"POT-Creation-Date: 2013-12-01 01:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3784,12 +3784,12 @@ msgctxt "Name"
 msgid "Battery & Brightness"
 msgstr "বিজ্ঞান"
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:11
+#: plasma/generic/applets/batterymonitor/metadata.desktop:13
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:85
+#: plasma/generic/applets/batterymonitor/metadata.desktop:87
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -3845,6 +3845,22 @@ msgstr ""
 msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr ""
+
+#: plasma/generic/applets/mediacontroller/metadata.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Multimedia Player"
+msgctxt "Name"
+msgid "Media Player"
+msgstr "Multimedia Player"
+
+#: plasma/generic/applets/mediacontroller/metadata.desktop:3
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Multimedia Player"
+msgctxt "Comment"
+msgid "Media Player Controls"
+msgstr "Multimedia Player"
 
 #: plasma/generic/applets/notifications/metadata.desktop:3
 msgctxt "Name"
@@ -11823,10 +11839,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Xine"
 #~ msgstr "Xine"
-
-#~ msgctxt "GenericName"
-#~ msgid "Multimedia Player"
-#~ msgstr "Multimedia Player"
 
 #~ msgctxt "Name"
 #~ msgid "XMMS"
