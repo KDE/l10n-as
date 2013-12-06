@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-04 01:50+0000\n"
+"POT-Creation-Date: 2013-12-06 01:59+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3616,6 +3616,11 @@ msgstr ""
 #: plasma/desktop/applets/pager/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Pager"
+msgstr ""
+
+#: plasma/desktop/applets/pager/package/metadata.desktop:84
+msgctxt "Comment"
+msgid "Switch between virtual desktops"
 msgstr ""
 
 #: plasma/desktop/applets/showActivityManager/package/metadata.desktop:2
