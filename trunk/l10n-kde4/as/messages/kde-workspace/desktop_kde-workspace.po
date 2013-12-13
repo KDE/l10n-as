@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-11 01:49+0000\n"
+"POT-Creation-Date: 2013-12-13 02:02+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -3466,7 +3466,7 @@ msgstr ""
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Name"
-msgid "Text Icons"
+msgid "Text Only"
 msgstr "ডেস্কট'প"
 
 #: kwin/tabbox/qml/clients/text/metadata.desktop:45
@@ -3482,19 +3482,6 @@ msgstr ""
 #: kwin/tabbox/qml/clients/thumbnails/metadata.desktop:45
 msgctxt "Comment"
 msgid "A window switcher layout using live thumbnails"
-msgstr ""
-
-#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
-msgctxt "Name"
-msgid "Window Strip"
-msgstr "MS Windows 9x"
-
-#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:43
-msgctxt "Comment"
-msgid "Window switcher layout for Plasma Active"
 msgstr ""
 
 #: kwin/tabbox/qml/desktops/informative/metadata.desktop:47
@@ -6006,6 +5993,13 @@ msgstr "Dolphin প্ৰদৰ্শন"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name"
+#~ msgid "Window Strip"
+#~ msgstr "MS Windows 9x"
 
 #, fuzzy
 #~| msgctxt "Name"
