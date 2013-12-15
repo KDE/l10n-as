@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-13 02:02+0000\n"
+"POT-Creation-Date: 2013-12-15 01:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -438,6 +438,19 @@ msgctxt "Name"
 msgid "Application Manuals"
 msgstr ""
 
+#: khelpcenter/plugins/browsercontrolmodules.desktop:2
+msgctxt "Name"
+msgid "Browser Settings Modules"
+msgstr ""
+
+#: khelpcenter/plugins/filemanagercontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Manager - Super User Mode"
+msgctxt "Name"
+msgid "Filemanager Settings Modules"
+msgstr "File Manager - Super User Mode"
+
 #: khelpcenter/plugins/fundamentals.desktop:4
 #, fuzzy
 #| msgctxt "Name"
@@ -452,9 +465,12 @@ msgid "Browse Info Pages"
 msgstr ""
 
 #: khelpcenter/plugins/kcontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Log Viewer"
 msgctxt "Name"
-msgid "Control Center Modules"
-msgstr ""
+msgid "System Settings Modules"
+msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
 #: khelpcenter/plugins/kicmodules.desktop:2
 msgctxt "Name"
@@ -464,6 +480,11 @@ msgstr ""
 #: khelpcenter/plugins/kioslaves.desktop:2
 msgctxt "Name"
 msgid "Kioslaves"
+msgstr ""
+
+#: khelpcenter/plugins/konquerorcontrolmodules.desktop:2
+msgctxt "Name"
+msgid "Konqueror Settings Modules"
 msgstr ""
 
 #: khelpcenter/plugins/Manpages/.directory:2
@@ -528,6 +549,14 @@ msgstr ""
 msgctxt "Name"
 msgid "Online Help"
 msgstr "Dolphin প্ৰদৰ্শন"
+
+#: khelpcenter/plugins/othercontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Log Viewer"
+msgctxt "Name"
+msgid "Other Settings Modules"
+msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
 #: khelpcenter/plugins/plasma.desktop:4
 msgctxt "Name"
@@ -6428,10 +6457,6 @@ msgstr ""
 #~ msgstr "KDE File Manager & Web Browser"
 
 #~ msgctxt "Name"
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "File Manager - Super User Mode"
-
-#~ msgctxt "Name"
 #~ msgid "Text-to-Speech"
 #~ msgstr "Text-to-Speech"
 
@@ -8248,13 +8273,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "System Settings External Application"
 #~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Log Viewer"
-#~ msgctxt "Name"
-#~ msgid "System Settings View"
-#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
 #, fuzzy
 #~| msgctxt "Name"
