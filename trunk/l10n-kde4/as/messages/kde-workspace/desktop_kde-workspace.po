@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-12 01:56+0000\n"
+"POT-Creation-Date: 2014-01-13 01:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2761,7 +2761,7 @@ msgctxt "Name"
 msgid "Text Only"
 msgstr "ডেস্কট'প"
 
-#: kwin/tabbox/qml/clients/text/metadata.desktop:23
+#: kwin/tabbox/qml/clients/text/metadata.desktop:24
 msgctxt "Comment"
 msgid "A window switcher layout only showing window captions"
 msgstr ""
@@ -3068,12 +3068,12 @@ msgctxt "Name"
 msgid "Battery & Brightness"
 msgstr "বিজ্ঞান"
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:25
+#: plasma/generic/applets/batterymonitor/metadata.desktop:26
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:99
+#: plasma/generic/applets/batterymonitor/metadata.desktop:100
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -3082,9 +3082,9 @@ msgid "Power Management;Battery;System;Energy;"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #: plasma/generic/applets/calendar/metadata.desktop:3
-#: plasma/generic/applets/digital-clock/metadata.desktop:3
+#: plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:2
 msgctxt "Name"
-msgid "Digital Clock"
+msgid "Calendar"
 msgstr ""
 
 #: plasma/generic/applets/devicenotifier/package/metadata.desktop:2
@@ -3104,6 +3104,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Open with File Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: plasma/generic/applets/digital-clock/metadata.desktop:3
+msgctxt "Name"
+msgid "Digital Clock"
+msgstr ""
 
 #: plasma/generic/applets/icon/package/metadata.desktop:2
 msgctxt "Name"
@@ -3423,11 +3428,6 @@ msgstr "বিভাজনৰ তথ্য"
 #: plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:71
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
-msgstr ""
-
-#: plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:2
-msgctxt "Name"
-msgid "Calendar"
 msgstr ""
 
 #: plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:80
