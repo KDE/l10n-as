@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-25 01:31+0000\n"
+"POT-Creation-Date: 2014-01-29 01:34+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6894,7 +6894,7 @@ msgstr "বানান পৰীক্ষণ সমাপ্ত ।"
 msgid "Autocorrect"
 msgstr "স্বয়ং সংশোধন"
 
-#: kdeui/util/kcompletion.cpp:693
+#: kdeui/util/kcompletion.cpp:696
 msgid ""
 "You reached the end of the list\n"
 "of matching items.\n"
@@ -6902,13 +6902,13 @@ msgstr ""
 "আপুনি মিল থকা বস্তুৰ তালিকাৰ\n"
 "অন্ত পালেগৈ ।\n"
 
-#: kdeui/util/kcompletion.cpp:699
+#: kdeui/util/kcompletion.cpp:702
 msgid ""
 "The completion is ambiguous, more than one\n"
 "match is available.\n"
 msgstr ""
 
-#: kdeui/util/kcompletion.cpp:705
+#: kdeui/util/kcompletion.cpp:708
 msgid "There is no matching item available.\n"
 msgstr "কোনো মিল থকা বস্তু পোৱা নগল ।\n"
 
