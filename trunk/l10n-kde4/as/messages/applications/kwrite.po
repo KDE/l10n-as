@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-02 01:25+0000\n"
+"POT-Creation-Date: 2014-02-12 01:24+0000\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -26,7 +26,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
 
-#: kwriteapp.cpp:37 kwritemain.cpp:497
+#: kwriteapp.cpp:37 kwritemain.cpp:531
 msgid ""
 "A KDE text-editor component could not be found.\n"
 "Please check your KDE installation."
@@ -41,19 +41,19 @@ msgid ""
 msgstr ""
 "'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
 
-#: kwritemain.cpp:149
+#: kwritemain.cpp:151
 msgid "Use this command to close the current document"
 msgstr "বৰ্ত্তমান দস্তাবেজ বন্ধ কৰিবলে এই কমান্ড ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:153
+#: kwritemain.cpp:155
 msgid "Use this command to create a new document"
 msgstr "এটা নতুন আলেখ্যন সৃষ্টি কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:155
+#: kwritemain.cpp:157
 msgid "Use this command to open an existing document for editing"
 msgstr "বৰ্ত্তমানৰ একন আলেখ্যন সম্পাদন কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:159
+#: kwritemain.cpp:161
 msgid ""
 "This lists files which you have opened recently, and allows you to easily "
 "open them again."
@@ -61,62 +61,62 @@ msgstr ""
 "ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো সহজতে "
 "খোলাৰ অনুমতি দিয়ে।"
 
-#: kwritemain.cpp:163
+#: kwritemain.cpp:165
 msgid "&New Window"
 msgstr "নতুন সংযোগক্ষেত্ৰ (&W)"
 
-#: kwritemain.cpp:165
+#: kwritemain.cpp:167
 msgid "Create another view containing the current document"
 msgstr "বৰ্ত্তমানৰ আলেখ্যন থকা অন্য এটা প্ৰদৰ্শন সৃষ্টি কৰক"
 
-#: kwritemain.cpp:168
+#: kwritemain.cpp:170
 msgid "Close the current document view"
 msgstr "বৰ্ত্তমানৰ আলেখ্যনৰ প্ৰদৰ্শন বন্ধ কৰক"
 
-#: kwritemain.cpp:175
+#: kwritemain.cpp:179
 msgid "Use this command to show or hide the view's statusbar"
 msgstr "প্ৰদৰ্শনৰ অৱস্থাৰ বাৰ দেখুৱাবলৈ বা লুকাবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwritemain.cpp:177
+#: kwritemain.cpp:181
 msgid "Sho&w Path"
 msgstr "পথ দেখুৱাওক (&w)"
 
-#: kwritemain.cpp:180
+#: kwritemain.cpp:184
 msgid "Show the complete document path in the window caption"
 msgstr "সংযোগক্ষেত্ৰৰ কেপ্‌ছনত আলেখ্যনৰ সম্পূৰ্ণ পথ দেখুৱাওক"
 
-#: kwritemain.cpp:183
+#: kwritemain.cpp:187
 msgid "Configure the application's keyboard shortcut assignments."
 msgstr "অনুপ্ৰয়োগৰ কিবৰ্ড চৰ্টকাট কাৰ্য্যসমূহ সংৰূপণ কৰক।"
 
-#: kwritemain.cpp:187
+#: kwritemain.cpp:191
 msgid "Configure which items should appear in the toolbar(s)."
 msgstr "কোনবোৰ বস্তু টুলবাৰ(সমূহ)ত আহিব লাগিব সংৰূপণ কৰক।"
 
-#: kwritemain.cpp:190
+#: kwritemain.cpp:194
 msgid "&About Editor Component"
 msgstr "&About সম্পাদক উপাদান"
 
-#: kwritemain.cpp:199 kwritemain.cpp:559
+#: kwritemain.cpp:203 kwritemain.cpp:593
 #, kde-format
 msgctxt "@info:status Statusbar label for cursor line and column position"
 msgid " Line: %1 Col: %2 "
 msgstr " Line: %1 Col: %2 "
 
-#: kwritemain.cpp:210 kwritemain.cpp:566
+#: kwritemain.cpp:214 kwritemain.cpp:600
 msgctxt "@info:status Statusbar label for line selection mode"
 msgid " LINE "
 msgstr " LINE "
 
-#: kwritemain.cpp:214
+#: kwritemain.cpp:218
 msgid " INS "
 msgstr " INS "
 
-#: kwritemain.cpp:270
+#: kwritemain.cpp:274
 msgid "Open File"
 msgstr "ফাইল খোলক"
 
-#: kwritemain.cpp:285
+#: kwritemain.cpp:289
 msgid ""
 "The file given could not be read; check whether it exists or is readable for "
 "the current user."
@@ -124,273 +124,283 @@ msgstr ""
 "প্ৰদান কৰা নথিপত্ৰ পঢ়িব নোৱাৰি; ইয়াৰ অস্তিত্ব আছে নে বৰ্তমান ব্যৱহাৰকাৰীৰ কাৰণে "
 "পঢ়াযোগ্য নীৰিক্ষণ কৰি চাওক।"
 
-#: kwritemain.cpp:565
+#: kwritemain.cpp:328
+#, kde-format
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+
+#: kwritemain.cpp:330
+msgid "Hide menu bar"
+msgstr ""
+
+#: kwritemain.cpp:599
 msgctxt "@info:status Statusbar label for block selection mode"
 msgid " BLOCK "
 msgstr " BLOCK "
 
-#: kwritemain.cpp:611
+#: kwritemain.cpp:645
 msgid " [read only]"
 msgstr ""
 
-#: kwritemain.cpp:614
+#: kwritemain.cpp:648
 msgid "Untitled"
 msgstr "শিৰোনাম নোহোৱা"
 
-#: kwritemain.cpp:651
+#: kwritemain.cpp:685
 msgid "KWrite"
 msgstr "KWrite"
 
-#: kwritemain.cpp:653
+#: kwritemain.cpp:687
 msgid "KWrite - Text Editor"
 msgstr "KWrite - লিখনী সম্পাদক"
 
-#: kwritemain.cpp:654
+#: kwritemain.cpp:688
 #, fuzzy
 #| msgid "(c) 2000-2010 The Kate Authors"
 msgid "(c) 2000-2013 The Kate Authors"
 msgstr "(c) ২০০০-২০১০  Kate লিখকসমূহ"
 
-#: kwritemain.cpp:655
+#: kwritemain.cpp:689
 msgid "Christoph Cullmann"
 msgstr "Christoph Cullmann"
 
-#: kwritemain.cpp:655
+#: kwritemain.cpp:689
 msgid "Maintainer"
 msgstr "পৰিচালক"
 
-#: kwritemain.cpp:656
+#: kwritemain.cpp:690
 msgid "Anders Lund"
 msgstr "Anders Lund"
 
-#: kwritemain.cpp:656 kwritemain.cpp:657 kwritemain.cpp:658 kwritemain.cpp:664
+#: kwritemain.cpp:690 kwritemain.cpp:691 kwritemain.cpp:692 kwritemain.cpp:698
 msgid "Core Developer"
 msgstr "মূল বিকাশক"
 
-#: kwritemain.cpp:657
+#: kwritemain.cpp:691
 msgid "Joseph Wenninger"
 msgstr "Joseph Wenninger"
 
-#: kwritemain.cpp:658
+#: kwritemain.cpp:692
 msgid "Hamish Rodda"
 msgstr "Hamish Rodda"
 
-#: kwritemain.cpp:659
+#: kwritemain.cpp:693
 msgid "Dominik Haumann"
 msgstr "Dominik Haumann"
 
-#: kwritemain.cpp:659
+#: kwritemain.cpp:693
 msgid "Developer & Highlight wizard"
 msgstr "বিকাশক & আলোকপাতৰ ৱিজাৰ্ড"
 
-#: kwritemain.cpp:660
+#: kwritemain.cpp:694
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
 
-#: kwritemain.cpp:660
+#: kwritemain.cpp:694
 msgid "The cool buffersystem"
 msgstr "The cool buffersystem"
 
-#: kwritemain.cpp:661
+#: kwritemain.cpp:695
 msgid "Charles Samuels"
 msgstr "Charles Samuels"
 
-#: kwritemain.cpp:661
+#: kwritemain.cpp:695
 msgid "The Editing Commands"
 msgstr "সম্পাদনৰ আদেশ"
 
-#: kwritemain.cpp:662
+#: kwritemain.cpp:696
 msgid "Matt Newell"
 msgstr "Matt Newell"
 
-#: kwritemain.cpp:662
+#: kwritemain.cpp:696
 msgctxt ""
 "Credit text for someone that did testing and some other similar things"
 msgid "Testing, ..."
 msgstr "পৰীক্ষা কৰা, ..."
 
-#: kwritemain.cpp:663
+#: kwritemain.cpp:697
 msgid "Michael Bartl"
 msgstr "Michael Bartl"
 
-#: kwritemain.cpp:663
+#: kwritemain.cpp:697
 msgid "Former Core Developer"
 msgstr "আগৰ মূল বিকাশক"
 
-#: kwritemain.cpp:664
+#: kwritemain.cpp:698
 msgid "Michael McCallum"
 msgstr "Michael McCallum"
 
-#: kwritemain.cpp:665
+#: kwritemain.cpp:699
 msgid "Jochen Wilhemly"
 msgstr "Jochen Wilhemly"
 
-#: kwritemain.cpp:665
+#: kwritemain.cpp:699
 msgid "KWrite Author"
 msgstr "KWrite লেখক"
 
-#: kwritemain.cpp:666
+#: kwritemain.cpp:700
 msgid "Michael Koch"
 msgstr "Michael Koch"
 
-#: kwritemain.cpp:666
+#: kwritemain.cpp:700
 msgid "KWrite port to KParts"
 msgstr "KParts লৈ KWrite ক প'ৰ্ট কৰা"
 
-#: kwritemain.cpp:667
+#: kwritemain.cpp:701
 msgid "Christian Gebauer"
 msgstr "Christian Gebauer"
 
-#: kwritemain.cpp:668
+#: kwritemain.cpp:702
 msgid "Simon Hausmann"
 msgstr "Simon Hausmann"
 
-#: kwritemain.cpp:669
+#: kwritemain.cpp:703
 msgid "Glen Parker"
 msgstr "Glen Parker"
 
-#: kwritemain.cpp:669
+#: kwritemain.cpp:703
 msgid "KWrite Undo History, Kspell integration"
 msgstr "KWrite Undo History, Kspell integration"
 
-#: kwritemain.cpp:670
+#: kwritemain.cpp:704
 msgid "Scott Manson"
 msgstr "Scott Manson"
 
-#: kwritemain.cpp:670
+#: kwritemain.cpp:704
 msgid "KWrite XML Syntax highlighting support"
 msgstr "KWrite XML Syntax highlighting ৰ সমৰ্থন"
 
-#: kwritemain.cpp:671
+#: kwritemain.cpp:705
 msgid "John Firebaugh"
 msgstr "John Firebaugh"
 
-#: kwritemain.cpp:671
+#: kwritemain.cpp:705
 msgid "Patches and more"
 msgstr "Patches আৰু তাৰ অধিক"
 
-#: kwritemain.cpp:672
+#: kwritemain.cpp:706
 msgid "Gerald Senarclens de Grancy"
 msgstr ""
 
-#: kwritemain.cpp:672
+#: kwritemain.cpp:706
 msgid "QA and Scripting"
 msgstr ""
 
-#: kwritemain.cpp:674
+#: kwritemain.cpp:708
 msgid "Matteo Merli"
 msgstr "Matteo Merli"
 
-#: kwritemain.cpp:674
+#: kwritemain.cpp:708
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr "RPM Spec-Files, Perl, Diff আৰু তাৰ অধিকৰ বাবে আলোকপাত কৰা"
 
-#: kwritemain.cpp:675
+#: kwritemain.cpp:709
 msgid "Rocky Scaletta"
 msgstr "Rocky Scaletta"
 
-#: kwritemain.cpp:675
+#: kwritemain.cpp:709
 msgid "Highlighting for VHDL"
 msgstr "VHDL ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:676
+#: kwritemain.cpp:710
 msgid "Yury Lebedev"
 msgstr "Yury Lebedev"
 
-#: kwritemain.cpp:676
+#: kwritemain.cpp:710
 msgid "Highlighting for SQL"
 msgstr "SQL ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:677
+#: kwritemain.cpp:711
 msgid "Chris Ross"
 msgstr "Chris Ross"
 
-#: kwritemain.cpp:677
+#: kwritemain.cpp:711
 msgid "Highlighting for Ferite"
 msgstr "Ferite ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:678
+#: kwritemain.cpp:712
 msgid "Nick Roux"
 msgstr "Nick Roux"
 
-#: kwritemain.cpp:678
+#: kwritemain.cpp:712
 msgid "Highlighting for ILERPG"
 msgstr "ILERPG ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:679
+#: kwritemain.cpp:713
 msgid "Carsten Niehaus"
 msgstr "Carsten Niehaus"
 
-#: kwritemain.cpp:679
+#: kwritemain.cpp:713
 msgid "Highlighting for LaTeX"
 msgstr "LaTeX ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:680
+#: kwritemain.cpp:714
 msgid "Per Wigren"
 msgstr "Per Wigren"
 
-#: kwritemain.cpp:680
+#: kwritemain.cpp:714
 msgid "Highlighting for Makefiles, Python"
 msgstr "Makefiles, Python ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:681
+#: kwritemain.cpp:715
 msgid "Jan Fritz"
 msgstr "Jan Fritz"
 
-#: kwritemain.cpp:681
+#: kwritemain.cpp:715
 msgid "Highlighting for Python"
 msgstr "Python ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:682
+#: kwritemain.cpp:716
 msgid "Daniel Naber"
 msgstr "Daniel Naber"
 
-#: kwritemain.cpp:683
+#: kwritemain.cpp:717
 msgid "Roland Pabel"
 msgstr "Roland Pabel"
 
-#: kwritemain.cpp:683
+#: kwritemain.cpp:717
 msgid "Highlighting for Scheme"
 msgstr "Scheme ৰ কাৰণে আলোকপাত কৰা"
 
-#: kwritemain.cpp:684
+#: kwritemain.cpp:718
 msgid "Cristi Dumitrescu"
 msgstr "Cristi Dumitrescu"
 
-#: kwritemain.cpp:684
+#: kwritemain.cpp:718
 msgid "PHP Keyword/Datatype list"
 msgstr "PHP Keyword/Datatype তালিকা"
 
-#: kwritemain.cpp:685
+#: kwritemain.cpp:719
 msgid "Carsten Pfeiffer"
 msgstr "Carsten Pfeiffer"
 
-#: kwritemain.cpp:685
+#: kwritemain.cpp:719
 msgctxt "Credit text for someone that helped a lot"
 msgid "Very nice help"
 msgstr "বৰ সুন্দৰ সহায়"
 
-#: kwritemain.cpp:686
+#: kwritemain.cpp:720
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "যি সকলে অংশ লৈছে আৰু যাৰ নাম মই ল'বলৈ পাহৰিলো"
 
-#: kwritemain.cpp:694
+#: kwritemain.cpp:728
 msgid "Read the contents of stdin"
 msgstr "stdin ৰ বিষয়বস্তু পঢ়ক"
 
-#: kwritemain.cpp:695
+#: kwritemain.cpp:729
 msgid "Set encoding for the file to open"
 msgstr "খুলিব লগা নথিপত্ৰৰ এঙ্কোডিং প্ৰতিষ্ঠা কৰক"
 
-#: kwritemain.cpp:696
+#: kwritemain.cpp:730
 msgid "Navigate to this line"
 msgstr "এই শাৰীলৈ যাওক"
 
-#: kwritemain.cpp:697
+#: kwritemain.cpp:731
 msgid "Navigate to this column"
 msgstr "এই স্তম্ভলৈ যাওক"
 
-#: kwritemain.cpp:698
+#: kwritemain.cpp:732
 msgid "Document to open"
 msgstr "খুলিব লগা আলেখ্যন"
 
