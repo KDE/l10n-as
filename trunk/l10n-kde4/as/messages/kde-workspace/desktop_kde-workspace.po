@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-21 02:24+0000\n"
+"POT-Creation-Date: 2014-03-22 02:04+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -628,7 +628,7 @@ msgctxt "Name"
 msgid "Wayland"
 msgstr "থাইলেন্ড"
 
-#: kinfocenter/Modules/info/wayland.desktop:36
+#: kinfocenter/Modules/info/wayland.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Information about available protocols"
@@ -636,7 +636,7 @@ msgctxt "Comment"
 msgid "Information about the Wayland Compositor"
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
-#: kinfocenter/Modules/info/wayland.desktop:61
+#: kinfocenter/Modules/info/wayland.desktop:63
 msgctxt "X-KDE-Keywords"
 msgid "Wayland,Compositor,Display,System Information"
 msgstr ""
@@ -3083,12 +3083,12 @@ msgctxt "Comment"
 msgid "Media Player Controls"
 msgstr "Multimedia Player"
 
-#: plasma-workspace/applets/notifications/metadata.desktop:3
+#: plasma-workspace/applets/notifications/package/metadata.desktop:3
 msgctxt "Name"
 msgid "Notifications"
 msgstr ""
 
-#: plasma-workspace/applets/notifications/metadata.desktop:89
+#: plasma-workspace/applets/notifications/package/metadata.desktop:89
 msgctxt "Comment"
 msgid "Display notifications and jobs"
 msgstr ""
