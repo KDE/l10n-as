@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 01:57+0000\n"
+"POT-Creation-Date: 2014-04-02 01:41+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -17,6 +17,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 0.2\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "অমিতাক্ষ ফুকন"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aphukan@fedoraproject.org"
+
+#: console/main.cpp:100
+#, fuzzy
+#| msgid "Kross"
+msgctxt "application name"
+msgid "Kross"
+msgstr "Kross"
+
+#: console/main.cpp:102
+#, fuzzy
+#| msgid "KDE application to run Kross scripts."
+msgctxt "application description"
+msgid "Command-line utility to run Kross scripts."
+msgstr "Kross স্ক্ৰিপ্ট সঞ্চালনৰ বাবে KDE অনুপ্ৰয়োগ ।"
+
+#: console/main.cpp:104
+#, fuzzy
+#| msgid "(C) 2006 Sebastian Sauer"
+msgctxt "@info:credit"
+msgid "Copyright 2006 Sebastian Sauer"
+msgstr "(C) 2006 Sebastian Sauer"
+
+#: console/main.cpp:108
+#, fuzzy
+#| msgid "Sebastian Sauer"
+msgctxt "@info:credit"
+msgid "Sebastian Sauer"
+msgstr "Sebastian Sauer"
+
+#: console/main.cpp:109
+#, fuzzy
+#| msgid "Author"
+msgctxt "@info:credit"
+msgid "Author"
+msgstr "লেখক"
+
+#: console/main.cpp:119
+#, fuzzy
+#| msgid "Description"
+msgctxt "@info:shell command-line argument"
+msgid "The script to run."
+msgstr "বিৱৰণ"
 
 #: core/action.cpp:474
 #, kde-format
@@ -133,14 +183,6 @@ msgctxt "@title:group Script properties"
 msgid "General"
 msgstr "সাধাৰণ"
 
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "অমিতাক্ষ ফুকন"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "aphukan@fedoraproject.org"
-
 #~ msgid "Name"
 #~ msgstr "নাম"
 
@@ -248,9 +290,6 @@ msgstr "সাধাৰণ"
 
 #~ msgid "&License Agreement"
 #~ msgstr "প্ৰমাণপত্ৰ সংক্ৰান্ত চুক্তিপত্ৰ (&L)"
-
-#~ msgid "Author"
-#~ msgstr "লেখক"
 
 #~ msgid "Email"
 #~ msgstr "ঈ-মেইল"
@@ -3753,9 +3792,6 @@ msgstr "সাধাৰণ"
 
 #~ msgid "Shortcuts"
 #~ msgstr "চমু পথ"
-
-#~ msgid "Description"
-#~ msgstr "বিৱৰণ"
 
 #~ msgctxt "@item:intable Action name in shortcuts configuration"
 #~ msgid "%1"
@@ -8369,20 +8405,8 @@ msgstr "সাধাৰণ"
 #~ msgid "Error opening PTY"
 #~ msgstr "PTY খোলোঁতে সমস্যা"
 
-#~ msgid "Kross"
-#~ msgstr "Kross"
-
-#~ msgid "KDE application to run Kross scripts."
-#~ msgstr "Kross স্ক্ৰিপ্ট সঞ্চালনৰ বাবে KDE অনুপ্ৰয়োগ ।"
-
-#~ msgid "(C) 2006 Sebastian Sauer"
-#~ msgstr "(C) 2006 Sebastian Sauer"
-
 #~ msgid "Run Kross scripts."
 #~ msgstr "Kross স্ক্ৰিপ্ট সঞ্চালন কৰা হ'ব ।"
-
-#~ msgid "Sebastian Sauer"
-#~ msgstr "Sebastian Sauer"
 
 #~ msgid "Scriptfile"
 #~ msgstr "Scriptfile"
