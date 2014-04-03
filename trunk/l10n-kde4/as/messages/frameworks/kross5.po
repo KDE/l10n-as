@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -107,6 +107,11 @@ msgstr "Ruby ইন্টাৰপ্ৰেটাৰৰ ক্ষেত্ৰত
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "বাতিল"
+
+#: qts/values_p.h:75
+#, kde-format
+msgid "No such function \"%1\""
+msgstr "আপেক্ষক \"%1\" অনুপস্থি"
 
 #: ui/actioncollectionview.cpp:175
 msgid "Name:"
@@ -8410,9 +8415,6 @@ msgstr "সাধাৰণ"
 
 #~ msgid "Scriptfile"
 #~ msgstr "Scriptfile"
-
-#~ msgid "No such function \"%1\""
-#~ msgstr "আপেক্ষক \"%1\" অনুপস্থি"
 
 #~ msgid "The module %1 could not be found."
 #~ msgstr "অংশ %1 পোৱা নাযায় ।"

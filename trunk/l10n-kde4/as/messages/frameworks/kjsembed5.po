@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 01:56+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -69,6 +69,11 @@ msgstr "অস্থায়ী নথিপত্ৰ নিৰ্মাণ কৰ
 #, kde-format
 msgid "%1 is not a function and cannot be called."
 msgstr "%1 আপেক্ষক নহয় আৰু এইটো কল (call) কৰা সম্ভব নহয় ।"
+
+#: kjsembed/object_binding.h:214 kjsembed/qobject_binding.cpp:789
+#, kde-format
+msgid "%1 is not an Object type"
+msgstr "%1 কোনো অৱজেক্টৰ ধৰণ নহয়"
 
 #: kjsembed/qaction_binding.cpp:57
 msgid "Action takes 2 args."
@@ -161,11 +166,6 @@ msgstr "'%1' মেথডক কৰা কল বিফল, %2: %3 তৰ্ক 
 #, kde-format
 msgid "Call to '%1' failed."
 msgstr "'%1' লৈ কৰা কল বিফল হৈছে ।"
-
-#: kjsembed/qobject_binding.cpp:789
-#, kde-format
-msgid "%1 is not an Object type"
-msgstr "%1 কোনো অৱজেক্টৰ ধৰণ নহয়"
 
 #: kjsembed/qobject_binding.cpp:793
 msgid "Could not construct value"
