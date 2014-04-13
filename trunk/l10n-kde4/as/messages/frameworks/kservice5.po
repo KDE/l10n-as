@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-06 01:53+0000\n"
+"POT-Creation-Date: 2014-04-13 01:46+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -200,22 +200,6 @@ msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰি
 msgid "No service implementing %1"
 msgstr ""
 
-#: plugin/kpluginloader.cpp:53
-#, fuzzy, kde-format
-#| msgid ""
-#| "Could not find 'kdemain' in '%1'.\n"
-#| "%2"
-msgid "Could not find plugin '%1' for application '%2'"
-msgstr ""
-"'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
-"%2"
-
-#: plugin/kpluginloader.cpp:224
-#, fuzzy, kde-format
-#| msgid "The library %1 does not offer a KDE 4 compatible factory."
-msgid "The library %1 does not offer a KPluginFactory."
-msgstr "%1 লাইব্ৰেৰি দ্বাৰা, KDE 4 ৰ সৈতে সুসংগত কলঘৰ উপলব্ধ কৰা নহয় ।"
-
 #: services/kservice.cpp:1028
 msgid "The provided service is not valid"
 msgstr ""
@@ -229,6 +213,20 @@ msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
 "'%1' সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা নহয় বা .desktop নথিপত্ৰত Library চাবি "
 "অনুপস্থিত ।"
+
+#, fuzzy
+#~| msgid ""
+#~| "Could not find 'kdemain' in '%1'.\n"
+#~| "%2"
+#~ msgid "Could not find plugin '%1' for application '%2'"
+#~ msgstr ""
+#~ "'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
+#~ "%2"
+
+#, fuzzy
+#~| msgid "The library %1 does not offer a KDE 4 compatible factory."
+#~ msgid "The library %1 does not offer a KPluginFactory."
+#~ msgstr "%1 লাইব্ৰেৰি দ্বাৰা, KDE 4 ৰ সৈতে সুসংগত কলঘৰ উপলব্ধ কৰা নহয় ।"
 
 #~ msgid "Name"
 #~ msgstr "নাম"
