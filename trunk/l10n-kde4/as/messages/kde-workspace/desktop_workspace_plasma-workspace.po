@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-14 02:14+0000\n"
+"POT-Creation-Date: 2014-04-21 02:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -952,7 +952,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
-#: kioslave/remote/kdedmodule/remotedirnotify.desktop:23
+#: kioslave/remote/kdedmodule/remotedirnotify.desktop:24
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -1418,7 +1418,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr "ডেস্কট'প"
 
-#: menu/desktop/kde-utilities-desktop.directory:28
+#: menu/desktop/kde-utilities-desktop.directory:29
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1434,7 +1434,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: menu/desktop/kde-utilities.directory:28
+#: menu/desktop/kde-utilities.directory:29
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Contact Manager"
@@ -1447,7 +1447,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "নথিপত্ৰ"
 
-#: menu/desktop/kde-utilities-file.directory:27
+#: menu/desktop/kde-utilities-file.directory:28
 msgctxt "Comment"
 msgid "File"
 msgstr "নথিপত্ৰ"
@@ -1480,7 +1480,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: menu/desktop/kde-utilities-xutils.directory:25
+#: menu/desktop/kde-utilities-xutils.directory:26
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X Window Utilities"
@@ -1506,12 +1506,12 @@ msgctxt "Name"
 msgid "Application"
 msgstr "অনুপ্ৰয়োগ"
 
-#: phonon/platform_kde/phonon.notifyrc:93
+#: phonon/platform_kde/phonon.notifyrc:94
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:154
+#: phonon/platform_kde/phonon.notifyrc:155
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
