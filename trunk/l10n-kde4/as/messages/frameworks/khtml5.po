@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-30 01:52+0000\n"
+"POT-Creation-Date: 2014-04-24 01:34+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1242,7 +1242,7 @@ msgstr "ছবি মূদ্ৰণ কৰা হ'ব"
 msgid "Print header"
 msgstr "হেডাৰ মূদ্ৰণ কৰা হ'ব"
 
-#: khtml_settings.cpp:892
+#: khtml_settings.cpp:906
 msgid "Filter error"
 msgstr "ফিল্টাৰ সংক্ৰান্ত ত্ৰুটি"
 
