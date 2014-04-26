@@ -1020,27 +1020,27 @@ msgstr ""
 #: src/l10n/ad/entry.desktop:2
 msgctxt "Name"
 msgid "Andorra"
-msgstr ""
+msgstr "এণ্ডোৰা"
 
 #: src/l10n/ae/entry.desktop:2
 msgctxt "Name"
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "সংযুক্ত আৰব আমিৰছাহী"
 
 #: src/l10n/af/entry.desktop:2
 msgctxt "Name"
 msgid "Afghanistan"
-msgstr ""
+msgstr "আফগানিস্তান"
 
 #: src/l10n/ag/entry.desktop:2
 msgctxt "Name"
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "এন্টিগুয়া আৰু বাৰবুডা"
 
 #: src/l10n/ai/entry.desktop:2
 msgctxt "Name"
 msgid "Anguilla"
-msgstr ""
+msgstr "এঙ্গিলা"
 
 #: src/l10n/al/entry.desktop:2
 #, fuzzy
@@ -1061,7 +1061,7 @@ msgstr "আৰ্মেনিয়ান"
 #: src/l10n/an/entry.desktop:2
 msgctxt "Name"
 msgid "Netherlands Antilles"
-msgstr ""
+msgstr "নেদাৰ্লেন্ডছ এন্টিলিছ"
 
 #: src/l10n/ao/entry.desktop:2
 #, fuzzy
@@ -1074,7 +1074,7 @@ msgstr "মঙ্গোলীয়"
 #: src/l10n/ar/entry.desktop:2
 msgctxt "Name"
 msgid "Argentina"
-msgstr ""
+msgstr "আৰ্জেনটিনা"
 
 #: src/l10n/as/entry.desktop:2
 #, fuzzy
@@ -1087,7 +1087,7 @@ msgstr "আমেৰিকান ইংৰাজী"
 #: src/l10n/at/entry.desktop:2
 msgctxt "Name"
 msgid "Austria"
-msgstr ""
+msgstr "অস্ট্ৰিয়া"
 
 #: src/l10n/au/entry.desktop:2
 #, fuzzy
@@ -1108,7 +1108,7 @@ msgstr "য'ৰুবা"
 #: src/l10n/ax/entry.desktop:2
 msgctxt "Name"
 msgid "Åland Islands"
-msgstr ""
+msgstr "এলেন্ড দ্বীপপুঞ্জ"
 
 #: src/l10n/az/entry.desktop:2
 #, fuzzy
@@ -1121,27 +1121,27 @@ msgstr "আজাৰ্বাইজানী"
 #: src/l10n/ba/entry.desktop:2
 msgctxt "Name"
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "ব'ছনিয়া আৰু হাৰ্জগোভিনা"
 
 #: src/l10n/bb/entry.desktop:2
 msgctxt "Name"
 msgid "Barbados"
-msgstr ""
+msgstr "বাৰ্বাডোছ"
 
 #: src/l10n/bd/entry.desktop:2
 msgctxt "Name"
 msgid "Bangladesh"
-msgstr ""
+msgstr "বাংলাদেশ"
 
 #: src/l10n/be/entry.desktop:2
 msgctxt "Name"
 msgid "Belgium"
-msgstr ""
+msgstr "বেলজিয়াম"
 
 #: src/l10n/bf/entry.desktop:2
 msgctxt "Name"
 msgid "Burkina Faso"
-msgstr ""
+msgstr "বুৰ্কিনা ফাছো"
 
 #: src/l10n/bg/entry.desktop:2
 #, fuzzy
@@ -1154,7 +1154,7 @@ msgstr "বুলগেৰীয়"
 #: src/l10n/bh/entry.desktop:2
 msgctxt "Name"
 msgid "Bahrain"
-msgstr ""
+msgstr "বাহৰেইন"
 
 #: src/l10n/bi/entry.desktop:2
 #, fuzzy
@@ -1167,7 +1167,7 @@ msgstr "ৰান্ডী"
 #: src/l10n/bj/entry.desktop:2
 msgctxt "Name"
 msgid "Benin"
-msgstr ""
+msgstr "বেনিন"
 
 #: src/l10n/bl/entry.desktop:2
 msgctxt "Name"
@@ -1177,32 +1177,32 @@ msgstr ""
 #: src/l10n/bm/entry.desktop:2
 msgctxt "Name"
 msgid "Bermuda"
-msgstr ""
+msgstr "বাৰ্মুডা"
 
 #: src/l10n/bn/entry.desktop:3
 msgctxt "Name"
 msgid "Brunei Darussalam"
-msgstr ""
+msgstr "ব্ৰুনেই দাৰুছালাম"
 
 #: src/l10n/bo/entry.desktop:2
 msgctxt "Name"
 msgid "Bolivia"
-msgstr ""
+msgstr "বোলিভিয়া"
 
 #: src/l10n/br/entry.desktop:2
 msgctxt "Name"
 msgid "Brazil"
-msgstr ""
+msgstr "ব্ৰাজিল"
 
 #: src/l10n/bs/entry.desktop:2
 msgctxt "Name"
 msgid "Bahamas"
-msgstr ""
+msgstr "বাহামাছ"
 
 #: src/l10n/bt/entry.desktop:3
 msgctxt "Name"
 msgid "Bhutan"
-msgstr ""
+msgstr "ভুটান"
 
 #: src/l10n/bw/entry.desktop:2
 #, fuzzy
@@ -1223,7 +1223,7 @@ msgstr "বেলাৰুচীয়"
 #: src/l10n/bz/entry.desktop:2
 msgctxt "Name"
 msgid "Belize"
-msgstr ""
+msgstr "বেলিজে"
 
 #: src/l10n/ca/entry.desktop:5
 #, fuzzy
@@ -1236,22 +1236,22 @@ msgstr "কন্নড়"
 #: src/l10n/caribbean.desktop:2
 msgctxt "Name"
 msgid "Caribbean"
-msgstr ""
+msgstr "কেৰেবিয়ান"
 
 #: src/l10n/cc/entry.desktop:2
 msgctxt "Name"
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "কোকোছ (কিলিং) দ্বীপ"
 
 #: src/l10n/cd/entry.desktop:2
 msgctxt "Name"
 msgid "Congo, The Democratic Republic of the"
-msgstr ""
+msgstr "কঙ্গো, প্ৰজাতন্ত্ৰ"
 
 #: src/l10n/centralafrica.desktop:2
 msgctxt "Name"
 msgid "Africa, Central"
-msgstr ""
+msgstr "আফ্ৰিকা, মধ্য"
 
 #: src/l10n/centralamerica.desktop:2
 #, fuzzy
@@ -1264,52 +1264,52 @@ msgstr "আমেৰিকান ইংৰাজী"
 #: src/l10n/centralasia.desktop:2
 msgctxt "Name"
 msgid "Asia, Central"
-msgstr ""
+msgstr "এছিয়া, মধ্য"
 
 #: src/l10n/centraleurope.desktop:2
 msgctxt "Name"
 msgid "Europe, Central"
-msgstr ""
+msgstr "ইউৰোপ, মধ্য"
 
 #: src/l10n/C/entry.desktop:2
 msgctxt "Name"
 msgid "Default"
-msgstr ""
+msgstr "অবিকল্পিত"
 
 #: src/l10n/cf/entry.desktop:2
 msgctxt "Name"
 msgid "Central African Republic"
-msgstr ""
+msgstr "মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ"
 
 #: src/l10n/cg/entry.desktop:2
 msgctxt "Name"
 msgid "Congo"
-msgstr ""
+msgstr "কঙ্গো"
 
 #: src/l10n/ch/entry.desktop:2
 msgctxt "Name"
 msgid "Switzerland"
-msgstr ""
+msgstr "চুইৎজাৰলেন্ড"
 
 #: src/l10n/ci/entry.desktop:2
 msgctxt "Name"
 msgid "Cote d'ivoire"
-msgstr ""
+msgstr "আইভৰি কোস্ট"
 
 #: src/l10n/ck/entry.desktop:2
 msgctxt "Name"
 msgid "Cook islands"
-msgstr ""
+msgstr "কুক দ্বীপপুঞ্জ"
 
 #: src/l10n/cl/entry.desktop:2
 msgctxt "Name"
 msgid "Chile"
-msgstr ""
+msgstr "চিলি"
 
 #: src/l10n/cm/entry.desktop:2
 msgctxt "Name"
 msgid "Cameroon"
-msgstr ""
+msgstr "কেমেৰুণ"
 
 #: src/l10n/cn/entry.desktop:3
 #, fuzzy
@@ -1322,37 +1322,37 @@ msgstr "চীনা"
 #: src/l10n/co/entry.desktop:2
 msgctxt "Name"
 msgid "Colombia"
-msgstr ""
+msgstr "কোলোম্বিয়া"
 
 #: src/l10n/cr/entry.desktop:2
 msgctxt "Name"
 msgid "Costa Rica"
-msgstr ""
+msgstr "কোস্টা ৰিকা"
 
 #: src/l10n/cu/entry.desktop:2
 msgctxt "Name"
 msgid "Cuba"
-msgstr ""
+msgstr "কিউবা"
 
 #: src/l10n/cv/entry.desktop:2
 msgctxt "Name"
 msgid "Cape Verde"
-msgstr ""
+msgstr "কেপ ভাৰ্ডি"
 
 #: src/l10n/cx/entry.desktop:2
 msgctxt "Name"
 msgid "Christmas Island"
-msgstr ""
+msgstr "ক্ৰিস্টমাছ দ্বীপপুঞ্জ"
 
 #: src/l10n/cy/entry.desktop:2
 msgctxt "Name"
 msgid "Cyprus"
-msgstr ""
+msgstr "ছাইপ্ৰাছ"
 
 #: src/l10n/cz/entry.desktop:2
 msgctxt "Name"
 msgid "Czech Republic"
-msgstr ""
+msgstr "চেক প্ৰজাতন্ত্ৰ"
 
 #: src/l10n/de/entry.desktop:2
 #, fuzzy
@@ -1365,47 +1365,47 @@ msgstr "জাৰ্মান"
 #: src/l10n/dj/entry.desktop:2
 msgctxt "Name"
 msgid "Djibouti"
-msgstr ""
+msgstr "জিবুতি"
 
 #: src/l10n/dk/entry.desktop:3
 msgctxt "Name"
 msgid "Denmark"
-msgstr ""
+msgstr "ডেনমাৰ্ক"
 
 #: src/l10n/dm/entry.desktop:2
 msgctxt "Name"
 msgid "Dominica"
-msgstr ""
+msgstr "ডোমিনিকা"
 
 #: src/l10n/do/entry.desktop:2
 msgctxt "Name"
 msgid "Dominican Republic"
-msgstr ""
+msgstr "ডোমিনিকান প্ৰজান্ত্ৰ"
 
 #: src/l10n/dz/entry.desktop:2
 msgctxt "Name"
 msgid "Algeria"
-msgstr ""
+msgstr "এলজিৰিয়া"
 
 #: src/l10n/eastafrica.desktop:2
 msgctxt "Name"
 msgid "Africa, Eastern"
-msgstr ""
+msgstr "আফ্ৰিকা, পূৰ্ব"
 
 #: src/l10n/eastasia.desktop:2
 msgctxt "Name"
 msgid "Asia, East"
-msgstr ""
+msgstr "এছিয়া, পূৰ্ব"
 
 #: src/l10n/easteurope.desktop:2
 msgctxt "Name"
 msgid "Europe, Eastern"
-msgstr ""
+msgstr "ইউৰোপ, পূৰ্ব"
 
 #: src/l10n/ec/entry.desktop:2
 msgctxt "Name"
 msgid "Ecuador"
-msgstr ""
+msgstr "ইকুয়েডোৰ"
 
 #: src/l10n/ee/entry.desktop:2
 #, fuzzy
@@ -1418,32 +1418,32 @@ msgstr "এস্টোনিয়ান"
 #: src/l10n/eg/entry.desktop:2
 msgctxt "Name"
 msgid "Egypt"
-msgstr ""
+msgstr "মিশ্ৰ"
 
 #: src/l10n/eh/entry.desktop:2
 msgctxt "Name"
 msgid "Western Sahara"
-msgstr ""
+msgstr "পশ্চীম ছাহাৰা"
 
 #: src/l10n/er/entry.desktop:2
 msgctxt "Name"
 msgid "Eritrea"
-msgstr ""
+msgstr "এৰিট্ৰিয়া"
 
 #: src/l10n/es/entry.desktop:2
 msgctxt "Name"
 msgid "Spain"
-msgstr ""
+msgstr "স্পেন"
 
 #: src/l10n/et/entry.desktop:2
 msgctxt "Name"
 msgid "Ethiopia"
-msgstr ""
+msgstr "ইথিওপিয়া"
 
 #: src/l10n/fi/entry.desktop:3
 msgctxt "Name"
 msgid "Finland"
-msgstr ""
+msgstr "ফিনলেন্ড"
 
 #: src/l10n/fj/entry.desktop:2
 #, fuzzy
@@ -1456,12 +1456,12 @@ msgstr "ফিজিয়ান"
 #: src/l10n/fk/entry.desktop:2
 msgctxt "Name"
 msgid "Falkland Islands (Malvinas)"
-msgstr ""
+msgstr "ফল্কলেন্ড দ্বীপপুঞ্জ (মালভিনাছ)"
 
 #: src/l10n/fm/entry.desktop:2
 msgctxt "Name"
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "মাইক্ৰোনেছিয়া যুক্তৰাজ্য"
 
 #: src/l10n/fo/entry.desktop:2
 #, fuzzy
@@ -1474,22 +1474,22 @@ msgstr "ফাৰোইছ"
 #: src/l10n/fr/entry.desktop:3
 msgctxt "Name"
 msgid "France"
-msgstr ""
+msgstr "ফ্ৰাঞ্চ"
 
 #: src/l10n/ga/entry.desktop:2
 msgctxt "Name"
 msgid "Gabon"
-msgstr ""
+msgstr "গেবন"
 
 #: src/l10n/gb/entry.desktop:2
 msgctxt "Name"
 msgid "United Kingdom"
-msgstr ""
+msgstr "সংযুক্ত ৰাজ্য"
 
 #: src/l10n/gd/entry.desktop:2
 msgctxt "Name"
 msgid "Grenada"
-msgstr ""
+msgstr "গ্ৰেনাডা"
 
 #: src/l10n/ge/entry.desktop:2
 #, fuzzy
@@ -1508,44 +1508,47 @@ msgid "French Guiana"
 msgstr "ফৰাচী"
 
 #: src/l10n/gg/entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Germany"
 msgctxt "Name"
 msgid "Guernsey"
-msgstr ""
+msgstr "জাৰ্মানি"
 
 #: src/l10n/gh/entry.desktop:2
 msgctxt "Name"
 msgid "Ghana"
-msgstr ""
+msgstr "ঘানা"
 
 #: src/l10n/gi/entry.desktop:2
 msgctxt "Name"
 msgid "Gibraltar"
-msgstr ""
+msgstr "জিব্ৰাল্টাৰ"
 
 #: src/l10n/gl/entry.desktop:2
 msgctxt "Name"
 msgid "Greenland"
-msgstr ""
+msgstr "গ্ৰিনল্যান্ড"
 
 #: src/l10n/gm/entry.desktop:2
 msgctxt "Name"
 msgid "Gambia"
-msgstr ""
+msgstr "গাম্বিয়া"
 
 #: src/l10n/gn/entry.desktop:2
 msgctxt "Name"
 msgid "Guinea"
-msgstr ""
+msgstr "গিনি"
 
 #: src/l10n/gp/entry.desktop:2
 msgctxt "Name"
 msgid "Guadeloupe"
-msgstr ""
+msgstr "গুয়াডেল্যুপ"
 
 #: src/l10n/gq/entry.desktop:2
 msgctxt "Name"
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "ইকুয়েটোৰিয়াল গিনি"
 
 #: src/l10n/gr/entry.desktop:2
 #, fuzzy
@@ -1558,32 +1561,32 @@ msgstr "গ্ৰীক"
 #: src/l10n/gt/entry.desktop:2
 msgctxt "Name"
 msgid "Guatemala"
-msgstr ""
+msgstr "গুয়াতেমালা"
 
 #: src/l10n/gu/entry.desktop:2
 msgctxt "Name"
 msgid "Guam"
-msgstr ""
+msgstr "গুয়াম"
 
 #: src/l10n/gw/entry.desktop:2
 msgctxt "Name"
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "গিনি-বিছাউ"
 
 #: src/l10n/gy/entry.desktop:2
 msgctxt "Name"
 msgid "Guyana"
-msgstr ""
+msgstr "গায়ানা"
 
 #: src/l10n/hk/entry.desktop:2
 msgctxt "Name"
 msgid "Hong Kong SAR(China)"
-msgstr ""
+msgstr "হং কং SAR(চীন)"
 
 #: src/l10n/hn/entry.desktop:2
 msgctxt "Name"
 msgid "Honduras"
-msgstr ""
+msgstr "হন্ডুৰাস"
 
 #: src/l10n/hr/entry.desktop:2
 #, fuzzy
@@ -1596,7 +1599,7 @@ msgstr "ক্ৰোয়েচিয়ান"
 #: src/l10n/ht/entry.desktop:2
 msgctxt "Name"
 msgid "Haiti"
-msgstr ""
+msgstr "হাইতি"
 
 #: src/l10n/hu/entry.desktop:2
 #, fuzzy
@@ -1625,7 +1628,7 @@ msgstr "আইচ্‌লেন্ডিক"
 #: src/l10n/il/entry.desktop:3
 msgctxt "Name"
 msgid "Israel"
-msgstr ""
+msgstr "ইজৰাইল"
 
 #: src/l10n/im/entry.desktop:2
 msgctxt "Name"
@@ -1635,17 +1638,17 @@ msgstr ""
 #: src/l10n/in/entry.desktop:2
 msgctxt "Name"
 msgid "India"
-msgstr ""
+msgstr "ভাৰত"
 
 #: src/l10n/iq/entry.desktop:2
 msgctxt "Name"
 msgid "Iraq"
-msgstr ""
+msgstr "ইৰাক"
 
 #: src/l10n/ir/entry.desktop:2
 msgctxt "Name"
 msgid "Iran"
-msgstr ""
+msgstr "ইৰান"
 
 #: src/l10n/is/entry.desktop:2
 #, fuzzy
@@ -1671,12 +1674,12 @@ msgstr ""
 #: src/l10n/jm/entry.desktop:2
 msgctxt "Name"
 msgid "Jamaica"
-msgstr ""
+msgstr "জামাইকা"
 
 #: src/l10n/jo/entry.desktop:2
 msgctxt "Name"
 msgid "Jordan"
-msgstr ""
+msgstr "জৰ্ডান"
 
 #: src/l10n/jp/entry.desktop:2
 #, fuzzy
@@ -1689,52 +1692,52 @@ msgstr "জাপানী"
 #: src/l10n/ke/entry.desktop:2
 msgctxt "Name"
 msgid "Kenya"
-msgstr ""
+msgstr "কেনিয়া"
 
 #: src/l10n/kg/entry.desktop:2
 msgctxt "Name"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "কিৰ্গিজস্তান"
 
 #: src/l10n/kh/entry.desktop:2
 msgctxt "Name"
 msgid "Cambodia"
-msgstr ""
+msgstr "কেম্বোডিয়া"
 
 #: src/l10n/ki/entry.desktop:2
 msgctxt "Name"
 msgid "Kiribati"
-msgstr ""
+msgstr "কিৰিবাছ"
 
 #: src/l10n/km/entry.desktop:2
 msgctxt "Name"
 msgid "Comoros"
-msgstr ""
+msgstr "কোমোৰোছ"
 
 #: src/l10n/kn/entry.desktop:2
 msgctxt "Name"
 msgid "St. Kitts and Nevis"
-msgstr ""
+msgstr "ছেন্ট কিট্স আৰু নেভিছ"
 
 #: src/l10n/kp/entry.desktop:2
 msgctxt "Name"
 msgid "North Korea"
-msgstr ""
+msgstr "উত্তৰ কোৰিয়া"
 
 #: src/l10n/kr/entry.desktop:2
 msgctxt "Name"
 msgid "South Korea"
-msgstr ""
+msgstr "দক্ষিণ কোৰিয়া"
 
 #: src/l10n/kw/entry.desktop:2
 msgctxt "Name"
 msgid "Kuwait"
-msgstr ""
+msgstr "কুৱেইত"
 
 #: src/l10n/ky/entry.desktop:2
 msgctxt "Name"
 msgid "Cayman Islands"
-msgstr ""
+msgstr "কেমেন দ্বীপপুঞ্জ"
 
 #: src/l10n/kz/entry.desktop:2
 #, fuzzy
@@ -1747,37 +1750,37 @@ msgstr "কাজাখ"
 #: src/l10n/la/entry.desktop:2
 msgctxt "Name"
 msgid "Laos"
-msgstr ""
+msgstr "লাও"
 
 #: src/l10n/lb/entry.desktop:2
 msgctxt "Name"
 msgid "Lebanon"
-msgstr ""
+msgstr "লেবানন"
 
 #: src/l10n/lc/entry.desktop:2
 msgctxt "Name"
 msgid "St. Lucia"
-msgstr ""
+msgstr "ছেন্ট লুছিয়া"
 
 #: src/l10n/li/entry.desktop:2
 msgctxt "Name"
 msgid "Liechtenstein"
-msgstr ""
+msgstr "লিখতেনস্টাইন"
 
 #: src/l10n/lk/entry.desktop:2
 msgctxt "Name"
 msgid "Sri Lanka"
-msgstr ""
+msgstr "শ্ৰীলঙ্কা"
 
 #: src/l10n/lr/entry.desktop:2
 msgctxt "Name"
 msgid "Liberia"
-msgstr ""
+msgstr "লাইবেৰিয়া"
 
 #: src/l10n/ls/entry.desktop:2
 msgctxt "Name"
 msgid "Lesotho"
-msgstr ""
+msgstr "লেছোথো"
 
 #: src/l10n/lt/entry.desktop:2
 #, fuzzy
@@ -1806,17 +1809,17 @@ msgstr "লাট্‌ভিয়ান"
 #: src/l10n/ly/entry.desktop:2
 msgctxt "Name"
 msgid "Libya"
-msgstr ""
+msgstr "লাইবেৰিয়া"
 
 #: src/l10n/ma/entry.desktop:2
 msgctxt "Name"
 msgid "Morocco"
-msgstr ""
+msgstr "মৰোক্কো"
 
 #: src/l10n/mc/entry.desktop:2
 msgctxt "Name"
 msgid "Monaco"
-msgstr ""
+msgstr "মোনাকো"
 
 #: src/l10n/md/entry.desktop:2
 #, fuzzy
@@ -1829,12 +1832,15 @@ msgstr "মোল্দাভিয়ান"
 #: src/l10n/me/entry.desktop:3
 msgctxt "Name"
 msgid "Montenegro"
-msgstr ""
+msgstr "মন্টেনেগ্ৰো"
 
 #: src/l10n/mf/entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "San Marino"
 msgctxt "Name"
 msgid "Saint Martin"
-msgstr ""
+msgstr "ছান মাৰিনো"
 
 #: src/l10n/mg/entry.desktop:2
 #, fuzzy
@@ -1855,7 +1861,7 @@ msgstr "মাৰ্ছালিশ্ব"
 #: src/l10n/middleeast.desktop:2
 msgctxt "Name"
 msgid "Middle-East"
-msgstr ""
+msgstr "মধ্য-প্ৰাচ্য"
 
 #: src/l10n/mk/entry.desktop:3
 #, fuzzy
@@ -1868,12 +1874,12 @@ msgstr "মেচিডোনীয়"
 #: src/l10n/ml/entry.desktop:2
 msgctxt "Name"
 msgid "Mali"
-msgstr ""
+msgstr "মালি"
 
 #: src/l10n/mm/entry.desktop:2
 msgctxt "Name"
 msgid "Myanmar"
-msgstr ""
+msgstr "মায়ান্মাৰ"
 
 #: src/l10n/mn/entry.desktop:2
 #, fuzzy
@@ -1886,17 +1892,20 @@ msgstr "মঙ্গোলীয়"
 #: src/l10n/mo/entry.desktop:2
 msgctxt "Name"
 msgid "Macau SAR(China)"
-msgstr ""
+msgstr "মেকাউ SAR(চীন)"
 
 #: src/l10n/mp/entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marshall Islands"
 msgctxt "Name"
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "মাৰ্ছাল দ্বীপপুঞ্জ"
 
 #: src/l10n/mq/entry.desktop:2
 msgctxt "Name"
 msgid "Martinique"
-msgstr ""
+msgstr "মাৰ্টিনিক"
 
 #: src/l10n/mr/entry.desktop:2
 #, fuzzy
@@ -1909,7 +1918,7 @@ msgstr "লিথুৱেনিয়ান"
 #: src/l10n/ms/entry.desktop:2
 msgctxt "Name"
 msgid "Montserrat"
-msgstr ""
+msgstr "মন্টছেৰাত"
 
 #: src/l10n/mt/entry.desktop:3
 #, fuzzy
@@ -1922,12 +1931,12 @@ msgstr "মাল্টিছ"
 #: src/l10n/mu/entry.desktop:2
 msgctxt "Name"
 msgid "Mauritius"
-msgstr ""
+msgstr "মৰিছিয়াচ"
 
 #: src/l10n/mv/entry.desktop:2
 msgctxt "Name"
 msgid "Maldives"
-msgstr ""
+msgstr "মালডিভ্‌চ"
 
 #: src/l10n/mw/entry.desktop:2
 #, fuzzy
@@ -1940,7 +1949,7 @@ msgstr "মালায়"
 #: src/l10n/mx/entry.desktop:2
 msgctxt "Name"
 msgid "Mexico"
-msgstr ""
+msgstr "মেক্সিকো"
 
 #: src/l10n/my/entry.desktop:2
 #, fuzzy
@@ -1953,12 +1962,12 @@ msgstr "মালায়"
 #: src/l10n/mz/entry.desktop:2
 msgctxt "Name"
 msgid "Mozambique"
-msgstr ""
+msgstr "মোজাম্বিক"
 
 #: src/l10n/na/entry.desktop:2
 msgctxt "Name"
 msgid "Namibia"
-msgstr ""
+msgstr "নামিবিয়া"
 
 #: src/l10n/nc/entry.desktop:2
 #, fuzzy
@@ -1971,37 +1980,37 @@ msgstr "মেচিডোনীয়"
 #: src/l10n/ne/entry.desktop:2
 msgctxt "Name"
 msgid "Niger"
-msgstr ""
+msgstr "নাইজাৰ"
 
 #: src/l10n/nf/entry.desktop:2
 msgctxt "Name"
 msgid "Norfolk Island"
-msgstr ""
+msgstr "নৰফোল্ক দ্বীপ"
 
 #: src/l10n/ng/entry.desktop:2
 msgctxt "Name"
 msgid "Nigeria"
-msgstr ""
+msgstr "নাইজেৰিয়া"
 
 #: src/l10n/ni/entry.desktop:2
 msgctxt "Name"
 msgid "Nicaragua"
-msgstr ""
+msgstr "নিকাৰাগুৱা"
 
 #: src/l10n/nl/entry.desktop:3
 msgctxt "Name"
 msgid "Netherlands"
-msgstr ""
+msgstr "নেদাৰলেন্ড"
 
 #: src/l10n/no/entry.desktop:3
 msgctxt "Name"
 msgid "Norway"
-msgstr ""
+msgstr "ন'ৰ্ৱে"
 
 #: src/l10n/northafrica.desktop:2
 msgctxt "Name"
 msgid "Africa, Northern"
-msgstr ""
+msgstr "আফ্ৰিকা, উত্তৰ"
 
 #: src/l10n/northamerica.desktop:2
 #, fuzzy
@@ -2014,7 +2023,7 @@ msgstr "আমেৰিকান ইংৰাজী"
 #: src/l10n/northeurope.desktop:2
 msgctxt "Name"
 msgid "Europe, Northern"
-msgstr ""
+msgstr "ইউৰোপ, উত্তৰ"
 
 #: src/l10n/np/entry.desktop:2
 #, fuzzy
@@ -2027,77 +2036,77 @@ msgstr "নেপালী"
 #: src/l10n/nu/entry.desktop:2
 msgctxt "Name"
 msgid "Niue"
-msgstr ""
+msgstr "নিউ"
 
 #: src/l10n/nz/entry.desktop:3
 msgctxt "Name"
 msgid "New Zealand"
-msgstr ""
+msgstr "নিউজিলেন্ড"
 
 #: src/l10n/oceania.desktop:2
 msgctxt "Name"
 msgid "Oceania"
-msgstr ""
+msgstr "অ'ছিয়ানা"
 
 #: src/l10n/om/entry.desktop:2
 msgctxt "Name"
 msgid "Oman"
-msgstr ""
+msgstr "ওমান"
 
 #: src/l10n/pa/entry.desktop:2
 msgctxt "Name"
 msgid "Panama"
-msgstr ""
+msgstr "পানামা"
 
 #: src/l10n/pe/entry.desktop:2
 msgctxt "Name"
 msgid "Peru"
-msgstr ""
+msgstr "পেৰু"
 
 #: src/l10n/pf/entry.desktop:2
 msgctxt "Name"
 msgid "French Polynesia"
-msgstr ""
+msgstr "ফ্ৰেঞ্চ পলিনেছিয়া"
 
 #: src/l10n/pg/entry.desktop:2
 msgctxt "Name"
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "পাপুৱা নিউ গিনি"
 
 #: src/l10n/ph/entry.desktop:2
 msgctxt "Name"
 msgid "Philippines"
-msgstr ""
+msgstr "ফিলিপাইনছ"
 
 #: src/l10n/pk/entry.desktop:2
 msgctxt "Name"
 msgid "Pakistan"
-msgstr ""
+msgstr "পাকিস্তান"
 
 #: src/l10n/pl/entry.desktop:2
 msgctxt "Name"
 msgid "Poland"
-msgstr ""
+msgstr "পোলেন্ড"
 
 #: src/l10n/pm/entry.desktop:2
 msgctxt "Name"
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "চেন্ট পিয়েৰ আৰু মিকেলন"
 
 #: src/l10n/pn/entry.desktop:2
 msgctxt "Name"
 msgid "Pitcairn"
-msgstr ""
+msgstr "পিটকেয়াৰ্ন"
 
 #: src/l10n/pr/entry.desktop:2
 msgctxt "Name"
 msgid "Puerto Rico"
-msgstr ""
+msgstr "পুয়েৰ্তো ৰিকো"
 
 #: src/l10n/ps/entry.desktop:2
 msgctxt "Name"
 msgid "Palestinian Territory"
-msgstr ""
+msgstr "পেলেচটাইন অঞ্চল"
 
 #: src/l10n/pt/entry.desktop:3
 #, fuzzy
@@ -2110,12 +2119,12 @@ msgstr "প'ৰ্টুগিছ"
 #: src/l10n/pw/entry.desktop:2
 msgctxt "Name"
 msgid "Palau"
-msgstr ""
+msgstr "পালাউ"
 
 #: src/l10n/py/entry.desktop:2
 msgctxt "Name"
 msgid "Paraguay"
-msgstr ""
+msgstr "পেৰাগুৱে"
 
 #: src/l10n/qa/entry.desktop:2
 #, fuzzy
@@ -2157,27 +2166,27 @@ msgstr "ৰুচীয়"
 #: src/l10n/rw/entry.desktop:2
 msgctxt "Name"
 msgid "Rwanda"
-msgstr ""
+msgstr "ৰৱান্ডা"
 
 #: src/l10n/sa/entry.desktop:2
 msgctxt "Name"
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "চাউদি আৰব"
 
 #: src/l10n/sb/entry.desktop:2
 msgctxt "Name"
 msgid "Solomon Islands"
-msgstr ""
+msgstr "ছ'লোমান দ্বীপপুঞ্জ"
 
 #: src/l10n/sc/entry.desktop:2
 msgctxt "Name"
 msgid "Seychelles"
-msgstr ""
+msgstr "ছেচেলছ"
 
 #: src/l10n/sd/entry.desktop:2
 msgctxt "Name"
 msgid "Sudan"
-msgstr ""
+msgstr "চুদান"
 
 #: src/l10n/se/entry.desktop:2
 #, fuzzy
@@ -2190,12 +2199,12 @@ msgstr "ছুইদিশ্ব"
 #: src/l10n/sg/entry.desktop:2
 msgctxt "Name"
 msgid "Singapore"
-msgstr ""
+msgstr "ছিঙ্গাপুৰ"
 
 #: src/l10n/sh/entry.desktop:2
 msgctxt "Name"
 msgid "Saint Helena"
-msgstr ""
+msgstr "ছেন্ট হেলেনা"
 
 #: src/l10n/si/entry.desktop:2
 #, fuzzy
@@ -2216,17 +2225,17 @@ msgstr "স্লোভাক"
 #: src/l10n/sl/entry.desktop:2
 msgctxt "Name"
 msgid "Sierra Leone"
-msgstr ""
+msgstr "ছিয়াৰা লিয়োনে"
 
 #: src/l10n/sm/entry.desktop:2
 msgctxt "Name"
 msgid "San Marino"
-msgstr ""
+msgstr "ছান মাৰিনো"
 
 #: src/l10n/sn/entry.desktop:2
 msgctxt "Name"
 msgid "Senegal"
-msgstr ""
+msgstr "চেনেগাল"
 
 #: src/l10n/so/entry.desktop:2
 #, fuzzy
@@ -2255,12 +2264,12 @@ msgstr "আমেৰিকান ইংৰাজী"
 #: src/l10n/southasia.desktop:2
 msgctxt "Name"
 msgid "Asia, South"
-msgstr ""
+msgstr "এশিয়া, দক্ষিণ"
 
 #: src/l10n/southeastasia.desktop:2
 msgctxt "Name"
 msgid "Asia, South-East"
-msgstr ""
+msgstr "আমেৰিকা, দক্ষিণ-পূৰ্ব"
 
 #: src/l10n/southeurope.desktop:2
 #, fuzzy
@@ -2273,7 +2282,7 @@ msgstr "ছো'থো', ছাউদাৰ্ণ"
 #: src/l10n/sr/entry.desktop:2
 msgctxt "Name"
 msgid "Suriname"
-msgstr ""
+msgstr "চুৰিনাম"
 
 #: src/l10n/ss/entry.desktop:2
 #, fuzzy
@@ -2286,37 +2295,37 @@ msgstr "ছো'থো', ছাউদাৰ্ণ"
 #: src/l10n/st/entry.desktop:2
 msgctxt "Name"
 msgid "Sao Tome and Principe"
-msgstr ""
+msgstr "চাও টোমে আৰু প্ৰিন্সিপে"
 
 #: src/l10n/sv/entry.desktop:2
 msgctxt "Name"
 msgid "El Salvador"
-msgstr ""
+msgstr "এল ছালভাডোৰ"
 
 #: src/l10n/sy/entry.desktop:2
 msgctxt "Name"
 msgid "Syria"
-msgstr ""
+msgstr "চিৰিয়া"
 
 #: src/l10n/sz/entry.desktop:2
 msgctxt "Name"
 msgid "Swaziland"
-msgstr ""
+msgstr "ছোৱাজিলেন্ড"
 
 #: src/l10n/tc/entry.desktop:2
 msgctxt "Name"
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "টাৰ্কচ আৰু কেইকোছ দ্বীপ"
 
 #: src/l10n/td/entry.desktop:2
 msgctxt "Name"
 msgid "Chad"
-msgstr ""
+msgstr "চাড"
 
 #: src/l10n/tg/entry.desktop:2
 msgctxt "Name"
 msgid "Togo"
-msgstr ""
+msgstr "টোগো"
 
 #: src/l10n/th/entry.desktop:2
 #, fuzzy
@@ -2337,12 +2346,12 @@ msgstr "টাজিক"
 #: src/l10n/tk/entry.desktop:2
 msgctxt "Name"
 msgid "Tokelau"
-msgstr ""
+msgstr "টোকেলাউ"
 
 #: src/l10n/tl/entry.desktop:2
 msgctxt "Name"
 msgid "Timor-Leste"
-msgstr ""
+msgstr "পূৰ্ব টিমুৰ"
 
 #: src/l10n/tm/entry.desktop:2
 #, fuzzy
@@ -2355,12 +2364,12 @@ msgstr "টুৰ্কমেন"
 #: src/l10n/tn/entry.desktop:2
 msgctxt "Name"
 msgid "Tunisia"
-msgstr ""
+msgstr "টিউনিছিয়া"
 
 #: src/l10n/tp/entry.desktop:2
 msgctxt "Name"
 msgid "East Timor"
-msgstr ""
+msgstr "পূৰ্ব টিমুৰ"
 
 #: src/l10n/tr/entry.desktop:2
 #, fuzzy
@@ -2373,22 +2382,22 @@ msgstr "টুৰ্কমেন"
 #: src/l10n/tt/entry.desktop:2
 msgctxt "Name"
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "ত্ৰিনিদাদ আৰু টোবাগো"
 
 #: src/l10n/tv/entry.desktop:2
 msgctxt "Name"
 msgid "Tuvalu"
-msgstr ""
+msgstr "টুভালু"
 
 #: src/l10n/tw/entry.desktop:3
 msgctxt "Name"
 msgid "Taiwan"
-msgstr ""
+msgstr "তাইৱান"
 
 #: src/l10n/tz/entry.desktop:2
 msgctxt "Name"
 msgid "Tanzania, United Republic of"
-msgstr ""
+msgstr "তানজানিয়া যুক্তৰাষ্ট্ৰ"
 
 #: src/l10n/ua/entry.desktop:3
 #, fuzzy
@@ -2401,17 +2410,17 @@ msgstr "ইউক্ৰেনিয়ান"
 #: src/l10n/ug/entry.desktop:2
 msgctxt "Name"
 msgid "Uganda"
-msgstr ""
+msgstr "উগান্ডা"
 
 #: src/l10n/us/entry.desktop:2
 msgctxt "Name"
 msgid "United States of America"
-msgstr ""
+msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ"
 
 #: src/l10n/uy/entry.desktop:2
 msgctxt "Name"
 msgid "Uruguay"
-msgstr ""
+msgstr "উৰুগুৱে"
 
 #: src/l10n/uz/entry.desktop:2
 #, fuzzy
@@ -2424,27 +2433,27 @@ msgstr "উজ্‌বেক"
 #: src/l10n/va/entry.desktop:2
 msgctxt "Name"
 msgid "Vatican City"
-msgstr ""
+msgstr "ভেটিকান ছিটি"
 
 #: src/l10n/vc/entry.desktop:2
 msgctxt "Name"
 msgid "St. Vincent and the Grenadines"
-msgstr ""
+msgstr "ছেন্ট ভিনছেন্ট আৰু গ্ৰেনাডিনছ"
 
 #: src/l10n/ve/entry.desktop:2
 msgctxt "Name"
 msgid "Venezuela"
-msgstr ""
+msgstr "ভেনেজুৱেলা"
 
 #: src/l10n/vg/entry.desktop:2
 msgctxt "Name"
 msgid "Virgin Islands, British"
-msgstr ""
+msgstr "ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ"
 
 #: src/l10n/vi/entry.desktop:2
 msgctxt "Name"
 msgid "Virgin Islands, U.S."
-msgstr ""
+msgstr "মাৰ্কিন ভাৰ্জিন দ্বীপ"
 
 #: src/l10n/vn/entry.desktop:2
 #, fuzzy
@@ -2457,22 +2466,22 @@ msgstr "ভিয়েট্নামি"
 #: src/l10n/vu/entry.desktop:2
 msgctxt "Name"
 msgid "Vanuatu"
-msgstr ""
+msgstr "ভানুয়াটু"
 
 #: src/l10n/westafrica.desktop:2
 msgctxt "Name"
 msgid "Africa, Western"
-msgstr ""
+msgstr "আফ্ৰিকা, পশ্চিম"
 
 #: src/l10n/westeurope.desktop:2
 msgctxt "Name"
 msgid "Europe, Western"
-msgstr ""
+msgstr "ইউৰোপ, পশ্চিম"
 
 #: src/l10n/wf/entry.desktop:2
 msgctxt "Name"
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "ৱালিছ আৰু ফুটুনা"
 
 #: src/l10n/ws/entry.desktop:3
 #, fuzzy
@@ -2485,7 +2494,7 @@ msgstr "চামোৱান"
 #: src/l10n/ye/entry.desktop:2
 msgctxt "Name"
 msgid "Yemen"
-msgstr ""
+msgstr "য়েমেন"
 
 #: src/l10n/yt/entry.desktop:2
 msgctxt "Name"
@@ -2495,22 +2504,25 @@ msgstr ""
 #: src/l10n/za/entry.desktop:3
 msgctxt "Name"
 msgid "South Africa"
-msgstr ""
+msgstr "দক্ষিণ আফ্ৰিকা"
 
 #: src/l10n/zm/entry.desktop:2
 msgctxt "Name"
 msgid "Zambia"
-msgstr ""
+msgstr "জাম্বিয়া"
 
 #: src/l10n/zw/entry.desktop:2
 msgctxt "Name"
 msgid "Zimbabwe"
-msgstr ""
+msgstr "জিম্বাবুয়ে"
 
 #: src/solid-networkstatus/kded/networkstatus.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Samba Status"
 msgctxt "Name"
 msgid "Network Status"
-msgstr ""
+msgstr "Samba ৰ অৱস্থা"
 
 #: src/solid-networkstatus/kded/networkstatus.desktop:24
 msgctxt "Comment"
