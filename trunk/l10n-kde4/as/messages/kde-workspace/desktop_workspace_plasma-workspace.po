@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-24 02:04+0000\n"
+"POT-Creation-Date: 2014-04-26 02:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1064,24 +1064,6 @@ msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
 
-#: ksmserver/kcm/kcmsmserver.desktop:13
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
-msgctxt "Name"
-msgid "Session Management"
-msgstr "নথিপত্ৰৰ পৰিচালনা"
-
-#: ksmserver/kcm/kcmsmserver.desktop:78
-msgctxt "Comment"
-msgid "Configure the session manager and logout settings"
-msgstr ""
-
-#: ksmserver/kcm/kcmsmserver.desktop:168
-msgctxt "X-KDE-Keywords"
-msgid "ksmserver,session,logout,confirmation,save,restore"
-msgstr ""
-
 #: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:2
 msgctxt "Name"
 msgid "Password dialog"
@@ -1177,21 +1159,6 @@ msgstr "অবিকল্পিত"
 msgctxt "Comment"
 msgid "Default Plasma Desktop theme"
 msgstr "ডেস্কট'প"
-
-#: ksplash/kcm/ksplashthememgr.desktop:15
-msgctxt "Name"
-msgid "Splash Screen"
-msgstr ""
-
-#: ksplash/kcm/ksplashthememgr.desktop:102
-msgctxt "Comment"
-msgid "Manager for Splash Screen Themes"
-msgstr ""
-
-#: ksplash/kcm/ksplashthememgr.desktop:189
-msgctxt "X-KDE-Keywords"
-msgid "splash screen,splash theme,startup"
-msgstr ""
 
 #: ktimezoned/ktimezoned.desktop:10
 msgctxt "Name"
@@ -1718,7 +1685,7 @@ msgctxt "Name"
 msgid "KSysguard"
 msgstr ""
 
-#: systemmonitor/kded_ksysguard.desktop:12
+#: systemmonitor/kded_ksysguard.desktop:19
 msgctxt "Comment"
 msgid "Launches KSysguard on Ctrl + Escape"
 msgstr ""
@@ -1957,6 +1924,13 @@ msgstr ""
 msgctxt "Name"
 msgid "Slideshow"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
 #~| msgctxt "Name"

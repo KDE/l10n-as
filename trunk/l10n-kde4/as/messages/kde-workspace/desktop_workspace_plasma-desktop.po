@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-24 02:04+0000\n"
+"POT-Creation-Date: 2014-04-26 02:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Application Menu"
 msgstr ""
 
-#: applets/kicker/package/metadata.desktop:3
+#: applets/kicker/package/metadata.desktop:10
 msgctxt "Comment"
 msgid "A launcher based on cascading pop menus"
 msgstr ""
@@ -808,6 +808,42 @@ msgstr ""
 #: kcms/knotify/kcmnotify.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
+msgstr ""
+
+#: kcms/ksmserver/kcmsmserver.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Management"
+msgctxt "Name"
+msgid "Session Management"
+msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#: kcms/ksmserver/kcmsmserver.desktop:78
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure the session manager and logout settings"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: kcms/ksmserver/kcmsmserver.desktop:168
+msgctxt "X-KDE-Keywords"
+msgid "ksmserver,session,logout,confirmation,save,restore"
+msgstr ""
+
+#: kcms/ksplash/ksplashthememgr.desktop:15
+msgctxt "Name"
+msgid "Splash Screen"
+msgstr ""
+
+#: kcms/ksplash/ksplashthememgr.desktop:102
+msgctxt "Comment"
+msgid "Manager for Splash Screen Themes"
+msgstr ""
+
+#: kcms/ksplash/ksplashthememgr.desktop:189
+msgctxt "X-KDE-Keywords"
+msgid "splash screen,splash theme,startup"
 msgstr ""
 
 #: kcms/launch/kcmlaunch.desktop:14
