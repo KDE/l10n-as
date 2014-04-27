@@ -81,7 +81,7 @@ msgctxt "KJobTrackerFormatters|"
 msgid "%1 YiB"
 msgstr "%1 TiB"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:60
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:62
 #, fuzzy, qt-format
 #| msgid "%1 days"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -90,7 +90,7 @@ msgid_plural "%n day(s)"
 msgstr[0] "%1 days"
 msgstr[1] "%1 days"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:65
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:69
 #, fuzzy, qt-format
 #| msgid "%1 hours"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -99,7 +99,7 @@ msgid_plural "%n hour(s)"
 msgstr[0] "%1 hours"
 msgstr[1] "%1 hours"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:70
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:76
 #, fuzzy, qt-format
 #| msgid "%1 minutes"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -108,7 +108,7 @@ msgid_plural "%n minute(s)"
 msgstr[0] "%1 minutes"
 msgstr[1] "%1 minutes"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:75
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:83
 #, fuzzy, qt-format
 #| msgid "%1 seconds"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -117,7 +117,7 @@ msgid_plural "%n second(s)"
 msgstr[0] "%1 seconds"
 msgstr[1] "%1 seconds"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:96
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:104
 #, fuzzy, qt-format
 #| msgctxt ""
 #| "@item:intext days and hours. This uses the previous item:intext messages. "
@@ -128,7 +128,7 @@ msgctxt "KJobTrackerFormatters|@item:intext days and hours."
 msgid "%1 and %2"
 msgstr "%1 আৰু %2"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:100
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:108
 #, fuzzy, qt-format
 #| msgctxt ""
 #| "@item:intext days and hours. This uses the previous item:intext messages. "
@@ -139,7 +139,7 @@ msgctxt "KJobTrackerFormatters|@item:intext hours and minutes."
 msgid "%1 and %2"
 msgstr "%1 আৰু %2"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:104
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kjobtrackerformatters.cpp:112
 #, fuzzy, qt-format
 #| msgctxt ""
 #| "@item:intext days and hours. This uses the previous item:intext messages. "
@@ -180,7 +180,7 @@ msgctxt "KWidgetJobTracker|%1 is the label, we add a ':' to it"
 msgid "%1:"
 msgstr "%1"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:333
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:335
 #, fuzzy, qt-format
 #| msgid "%2 of %3 complete"
 #| msgid_plural "%2 of %3 complete"
@@ -190,8 +190,8 @@ msgid_plural "%1 of %2 complete"
 msgstr[0] "%2, সৰ্বমোঠ %3"
 msgstr[1] "%2 সমাপ্ত, সৰ্বমোঠ %3 ৰ সম্পূৰ্ণ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:351
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:364
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:355
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:372
 #, fuzzy, qt-format
 #| msgid "%2 / %1 folder"
 #| msgid_plural "%2 / %1 folders"
@@ -201,8 +201,8 @@ msgid_plural "%1 / %n folder(s)"
 msgstr[0] "%2 / %1 ফোল্ডাৰ"
 msgstr[1] "%2 / %1 folders"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:353
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:367
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:359
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:377
 #, fuzzy, qt-format
 #| msgid "%2 / %1 file"
 #| msgid_plural "%2 / %1 files"
@@ -212,14 +212,14 @@ msgid_plural "%1 / %n file(s)"
 msgstr[0] "%2 / %1 নথিপত্ৰ"
 msgstr[1] "%2 / %1 নথিপত্ৰ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:377
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:387
 #, fuzzy, qt-format
 #| msgid "%1% of %2"
 msgctxt "KWidgetJobTracker|"
 msgid "%1% of %2"
 msgstr "%1%, মূঠ %2 ৰ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:380
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:392
 #, fuzzy, qt-format
 #| msgid "%2% of 1 file"
 #| msgid_plural "%2% of %1 files"
@@ -229,21 +229,21 @@ msgid_plural "%1% of %n file(s)"
 msgstr[0] "%2%, ১ টা নথিপত্ৰৰ"
 msgstr[1] "%2%, %1 টা নথিপত্ৰৰ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:382
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:394
 #, fuzzy, qt-format
 #| msgid "%1%"
 msgctxt "KWidgetJobTracker|"
 msgid "%1%"
 msgstr "%1%"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:395
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:407
 #, fuzzy
 #| msgid "Stalled"
 msgctxt "KWidgetJobTracker|"
 msgid "Stalled"
 msgstr "স্থগিত কৰা হৈছে"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:400
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:414
 #, fuzzy, qt-format
 #| msgid "%2/s (%3 remaining)"
 #| msgid_plural "%2/s (%3 remaining)"
@@ -253,7 +253,7 @@ msgid_plural "%1/s (%2 remaining)"
 msgstr[0] "%2/s (%3 বাকি)"
 msgstr[1] "%2/s (%3 বাকি)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:403
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:417
 #, fuzzy, qt-format
 #| msgctxt "speed in bytes per second"
 #| msgid "%1/s"
@@ -261,43 +261,43 @@ msgctxt "KWidgetJobTracker|speed in bytes per second"
 msgid "%1/s"
 msgstr "%1/s"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:411
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:425
 #, fuzzy
 #| msgid "&Close"
 msgctxt "KWidgetJobTracker|"
 msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:413
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:427
 #, fuzzy
 #| msgid "Close the current window or document"
 msgctxt "KWidgetJobTracker|"
 msgid "Close the current window or document"
 msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:426
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:440
 #, fuzzy, qt-format
 #| msgid "%1/s (done)"
 msgctxt "KWidgetJobTracker|"
 msgid "%1/s (done)"
 msgstr "%1/s (কৰা হ'ল)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:433
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:447
 #, fuzzy
 #| msgid "Resume"
 msgctxt "KWidgetJobTracker|"
 msgid "&Resume"
 msgstr "পুনৰাৰম্ভ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:439
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:510
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:453
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:524
 #, fuzzy
 #| msgid "Pause"
 msgctxt "KWidgetJobTracker|"
 msgid "&Pause"
 msgstr "স্থগিত"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:463
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:477
 #, fuzzy
 #| msgctxt "The source url of a job"
 #| msgid "Source:"
@@ -305,7 +305,7 @@ msgctxt "KWidgetJobTracker|The source url of a job"
 msgid "Source:"
 msgstr "উৎস:"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:471
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:485
 #, fuzzy
 #| msgctxt "The destination url of a job"
 #| msgid "Destination:"
@@ -313,48 +313,48 @@ msgctxt "KWidgetJobTracker|The destination url of a job"
 msgid "Destination:"
 msgstr "গন্তব্য:"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:495
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:667
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:509
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:685
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to expand the dialog, to show details"
 msgstr ""
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:529
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:543
 #, fuzzy
 #| msgid "&Keep this window open after transfer is complete"
 msgctxt "KWidgetJobTracker|"
 msgid "&Keep this window open after transfer is complete"
 msgstr "তথ্য বিনিময় সমাপ্ত হোৱাৰ পিছতো এই সংযোগক্ষেত্ৰ খোলা ৰখা হ'ব (&K)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:537
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:551
 #, fuzzy
 #| msgid "Open &File"
 msgctxt "KWidgetJobTracker|"
 msgid "Open &File"
 msgstr "নথিপত্ৰ খোলক (&F)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:543
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:557
 #, fuzzy
 #| msgid "Open &Destination"
 msgctxt "KWidgetJobTracker|"
 msgid "Open &Destination"
 msgstr "গন্তব্যস্থল খোলক (&D)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:551
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:565
 #, fuzzy
 #| msgid "&Cancel"
 msgctxt "KWidgetJobTracker|"
 msgid "&Cancel"
 msgstr "বাতিল (&C)"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:559
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:573
 #, fuzzy
 #| msgid "Progress Dialog"
 msgctxt "KWidgetJobTracker|"
 msgid "Progress Dialog"
 msgstr "অগ্ৰগতিসূচক সম্বাদ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:572
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:588
 #, fuzzy, qt-format
 #| msgid "%1 folder"
 #| msgid_plural "%1 folders"
@@ -364,7 +364,7 @@ msgid_plural "%n folder(s)"
 msgstr[0] "%1 ফোল্ডাৰ"
 msgstr[1] "%1 folders"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:574
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:592
 #, fuzzy, qt-format
 #| msgid "%1 file"
 #| msgid_plural "%1 files"
@@ -374,7 +374,7 @@ msgid_plural "%n file(s)"
 msgstr[0] "%1 নথিপত্ৰ"
 msgstr[1] "%1 নথিপত্ৰ"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:660
+#: ../../home/scripty/prod/git-unstable/frameworks_kjobwidgets/src/kwidgetjobtracker.cpp:678
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
