@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-02-14 04:23+0000\n"
+"POT-Creation-Date: 2014-04-28 02:06+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -29,7 +29,7 @@ msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
 msgstr "Embeddable HTML চাব পৰা অংশ"
 
-#: src/khtml.desktop:101
+#: src/khtml.desktop:6
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
@@ -39,7 +39,7 @@ msgctxt "Comment"
 msgid "Embeddable Image Viewing Component"
 msgstr "প্ৰোথিত কৰিব পৰা প্ৰতিমূৰ্ত্তি প্ৰদৰ্শনৰ অংশ"
 
-#: src/khtmlimage.desktop:99
+#: src/khtmlimage.desktop:5
 msgctxt "Name"
 msgid "Embeddable Image Viewer"
 msgstr "প্ৰোথিত কৰিব পৰা প্ৰতিমূৰ্ত্তিৰ প্ৰদৰ্শক"
