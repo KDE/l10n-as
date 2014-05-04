@@ -1361,14 +1361,20 @@ msgid "Central African CFA Franc"
 msgstr "মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ"
 
 #: data/currency/xag.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "History Sidebar"
 msgctxt "Name"
 msgid "Silver"
-msgstr ""
+msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
 #: data/currency/xau.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Folder"
 msgctxt "Name"
 msgid "Gold"
-msgstr ""
+msgstr "ফোল্ডাৰ"
 
 #: data/currency/xcd.desktop:5
 #, fuzzy
@@ -1384,9 +1390,12 @@ msgid "West African CFA Franc"
 msgstr ""
 
 #: data/currency/xpd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Palau"
 msgctxt "Name"
 msgid "Palladium"
-msgstr ""
+msgstr "পালাউ"
 
 #: data/currency/xpf.desktop:5
 #, fuzzy
