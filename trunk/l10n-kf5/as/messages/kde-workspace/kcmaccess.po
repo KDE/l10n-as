@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:55+0000\n"
+"POT-Creation-Date: 2014-05-15 07:48+0000\n"
 "PO-Revision-Date: 2009-01-13 17:06+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -85,31 +85,31 @@ msgstr "kaccess"
 msgid "KDE Accessibility Tool"
 msgstr "KDE অভিগম্যতাৰ সৰঞ্জাম"
 
-#: kcmaccess.cpp:174
+#: kcmaccess.cpp:173
 msgid "(c) 2000, Matthias Hoelzer-Kluepfel"
 msgstr "(c) 2000, Matthias Hoelzer-Kluepfel"
 
-#: kcmaccess.cpp:176
+#: kcmaccess.cpp:175
 msgid "Matthias Hoelzer-Kluepfel"
 msgstr "Matthias Hoelzer-Kluepfel"
 
-#: kcmaccess.cpp:176
+#: kcmaccess.cpp:175
 msgid "Author"
 msgstr "লেখক"
 
-#: kcmaccess.cpp:190
+#: kcmaccess.cpp:189
 msgid "Audible Bell"
 msgstr "শুনিব পৰা ঘন্টা"
 
-#: kcmaccess.cpp:198
+#: kcmaccess.cpp:197
 msgid "Use &system bell"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&s)"
 
-#: kcmaccess.cpp:200
+#: kcmaccess.cpp:199
 msgid "Us&e customized bell"
 msgstr "স্বনির্বাচিত ঘন্টা ব্যৱহৃত হ'ব (&e)"
 
-#: kcmaccess.cpp:202
+#: kcmaccess.cpp:201
 msgid ""
 "If this option is checked, the default system bell will be used. See the "
 "\"System Bell\" control module for how to customize the system bell. "
@@ -119,7 +119,7 @@ msgstr ""
 "ব্যৱস্থাপ্ৰণালীৰ ঘন্টা স্বনিৰ্বাচিত কৰাৰ বাবে \"System Bell\" নিয়ন্ত্ৰণৰ অংশ চাওক । "
 "সাধাৰনতে, এইটো অকল এটা \"বিপ\" হয় ।"
 
-#: kcmaccess.cpp:205
+#: kcmaccess.cpp:204
 msgid ""
 "<p>Check this option if you want to use a customized bell, playing a sound "
 "file. If you do this, you will probably want to turn off the system bell.</"
@@ -131,15 +131,15 @@ msgstr ""
 "বিচাৰিব । </p><p> মন কৰিব যে পুৰণি যন্ত্ৰত ইয়াৰ কাৰণে ঘন্টা বজোৱা ঘটনা আৰু বজোৱা "
 "ঘন্টাৰ মাজত এটা \"বিলম্ব\" হ'ব পাৰে ।</p>"
 
-#: kcmaccess.cpp:213
+#: kcmaccess.cpp:212
 msgid "Sound &to play:"
 msgstr "যি ধ্বনি বজোৱা হ'ব (&t):"
 
-#: kcmaccess.cpp:217
+#: kcmaccess.cpp:216
 msgid "Browse..."
 msgstr "চৰণ কৰক..."
 
-#: kcmaccess.cpp:219
+#: kcmaccess.cpp:218
 msgid ""
 "If the option \"Use customized bell\" is enabled, you can choose a sound "
 "file here. Click \"Browse...\" to choose a sound file using the file dialog."
@@ -148,15 +148,15 @@ msgstr ""
 "নিৰ্ব্বাচন কৰিব পাৰে । নথিপত্ৰৰ সম্বাদ ব্যৱহাৰ কৰি এটা ধ্বনিৰ নথিপত্ৰ নিৰ্ব্বাচন "
 "কৰিবলৈ \"চৰণ কৰক...\" টিপক ।"
 
-#: kcmaccess.cpp:236
+#: kcmaccess.cpp:235
 msgid "Visible Bell"
 msgstr "দৃশ্যমান ঘন্টা"
 
-#: kcmaccess.cpp:244
+#: kcmaccess.cpp:243
 msgid "&Use visible bell"
 msgstr "দৃশ্যমান ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
-#: kcmaccess.cpp:246
+#: kcmaccess.cpp:245
 msgid ""
 "This option will turn on the \"visible bell\", i.e. a visible notification "
 "shown every time that normally just a bell would occur. This is especially "
@@ -166,80 +166,80 @@ msgstr ""
 "যেতিয়া সাধাৰণতে অকল এটা ঘন্টা বাজে । এইটো সাধাৰণতে শ্ৰব্যসক্তি নথকা মানুহৰ কাৰণে "
 "সুবিধাজনক ।"
 
-#: kcmaccess.cpp:253
+#: kcmaccess.cpp:252
 msgid "I&nvert screen"
 msgstr "পৰ্দ্দা ওলোটা কৰক (&n)"
 
-#: kcmaccess.cpp:257
+#: kcmaccess.cpp:256
 msgid ""
 "All screen colors will be inverted for the amount of time specified below."
 msgstr "তলত দিয়া সময়ৰ মতে পৰ্দ্দাৰ সকলো ৰং ওলোটোৱা হ'ব ।"
 
-#: kcmaccess.cpp:259
+#: kcmaccess.cpp:258
 msgid "F&lash screen"
 msgstr "F&lash screen"
 
-#: kcmaccess.cpp:261
+#: kcmaccess.cpp:260
 msgid ""
 "The screen will turn to a custom color for the amount of time specified "
 "below."
 msgstr "তলত দিয়া সময়ৰ মতে পৰ্দ্দাৰ ৰং আপুনি নিৰ্ব্বাচন কৰা ৰঙলৈ পৰিবৰ্ত্তন কৰা হ'ব ।"
 
-#: kcmaccess.cpp:267
+#: kcmaccess.cpp:266
 msgid ""
 "Click here to choose the color used for the \"flash screen\" visible bell."
 msgstr ""
 "\"flash screen\" দৃশ্যমান ঘন্টাৰ কাৰণে ব্যৱহাৰ কৰা ৰং নিৰ্ব্বাচন কৰিবলৈ ইয়াত টিপক ।"
 
-#: kcmaccess.cpp:277
+#: kcmaccess.cpp:276
 msgid "Duration:"
 msgstr "সময়কাল:"
 
-#: kcmaccess.cpp:278 kcmaccess.cpp:392 kcmaccess.cpp:432
+#: kcmaccess.cpp:277 kcmaccess.cpp:391 kcmaccess.cpp:431
 msgid " msec"
 msgstr " msec"
 
-#: kcmaccess.cpp:280
+#: kcmaccess.cpp:279
 msgid ""
 "Here you can customize the duration of the \"visible bell\" effect being "
 "shown."
 msgstr "ইয়াত আপুনি \"দৃশ্যমান ঘন্টা\"ৰ সময় নিৰ্ধাৰিত কৰিব পাৰে ।"
 
-#: kcmaccess.cpp:297
+#: kcmaccess.cpp:296
 msgid "&Bell"
 msgstr "ঘন্টা (&B)"
 
-#: kcmaccess.cpp:305
+#: kcmaccess.cpp:304
 msgid "S&ticky Keys"
 msgstr "S&ticky Keys"
 
-#: kcmaccess.cpp:313
+#: kcmaccess.cpp:312
 msgid "Use &sticky keys"
 msgstr "sticky keys ব্যৱহাৰ কৰক (&s)"
 
-#: kcmaccess.cpp:319
+#: kcmaccess.cpp:318
 msgid "&Lock sticky keys"
 msgstr "sticky keys ল'ক কৰক (&L)"
 
-#: kcmaccess.cpp:325
+#: kcmaccess.cpp:324
 msgid "Turn sticky keys off when two keys are pressed simultaneously"
 msgstr "দুটা চানি একেলগে টিপোঁতে sticky keys বন্ধ কৰক"
 
-#: kcmaccess.cpp:331
+#: kcmaccess.cpp:330
 msgid "Use system bell whenever a modifier gets latched, locked or unlocked"
 msgstr ""
 "এটা modifier ক latched, locked বা unlocked কৰাৰ সময়ত ব্যৱস্থাপ্ৰণালীৰ ঘন্টা "
 "ব্যৱহাৰ কৰা হ'ব"
 
-#: kcmaccess.cpp:334
+#: kcmaccess.cpp:333
 msgid "Locking Keys"
 msgstr "Locking Keys"
 
-#: kcmaccess.cpp:342
+#: kcmaccess.cpp:341
 msgid "Use system bell whenever a locking key gets activated or deactivated"
 msgstr "এটা locking key সক্ৰিয় বা নিষ্ক্ৰীয় হ'লেই ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক"
 
-#: kcmaccess.cpp:345
+#: kcmaccess.cpp:344
 msgid ""
 "Use KDE's system notification mechanism whenever a modifier or locking key "
 "changes its state"
@@ -247,67 +247,67 @@ msgstr ""
 "KDE ৰ ব্যৱস্থাপ্ৰণালীৰ সূচনাৰ ব্যৱস্থা ব্যৱহাৰ কৰক যেতিয়াই এটা modifier বা locking "
 "key য়ে নিজৰ অৱস্থা সলনি কৰে"
 
-#: kcmaccess.cpp:351 kcmaccess.cpp:518
+#: kcmaccess.cpp:350 kcmaccess.cpp:517
 msgid "Configure &Notifications..."
 msgstr "সূচনাবাৰ্তা বিন্যাস কৰক (&N)..."
 
-#: kcmaccess.cpp:368
+#: kcmaccess.cpp:367
 msgid "&Modifier Keys"
 msgstr "&Modifier Keys"
 
-#: kcmaccess.cpp:374
+#: kcmaccess.cpp:373
 msgid "Slo&w Keys"
 msgstr "Slo&w Keys"
 
-#: kcmaccess.cpp:382
+#: kcmaccess.cpp:381
 msgid "&Use slow keys"
 msgstr "slow keys ব্যৱহাৰ কৰক (&U)"
 
-#: kcmaccess.cpp:393
+#: kcmaccess.cpp:392
 msgid "Acceptance dela&y:"
 msgstr "Acceptance dela&y:"
 
-#: kcmaccess.cpp:399
+#: kcmaccess.cpp:398
 msgid "&Use system bell whenever a key is pressed"
 msgstr "এটা চাবি টিপোঁতে ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
-#: kcmaccess.cpp:405
+#: kcmaccess.cpp:404
 msgid "&Use system bell whenever a key is accepted"
 msgstr "এটা চাবি গ্ৰহণ কৰিলে ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
-#: kcmaccess.cpp:411
+#: kcmaccess.cpp:410
 msgid "&Use system bell whenever a key is rejected"
 msgstr "এটা চাবি অগ্ৰাহ্য কৰাৰ সময়ত ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
-#: kcmaccess.cpp:414
+#: kcmaccess.cpp:413
 msgid "Bounce Keys"
 msgstr "Bounce Keys"
 
-#: kcmaccess.cpp:422
+#: kcmaccess.cpp:421
 msgid "Use bou&nce keys"
 msgstr "bounce keys ব্যৱহাৰ কৰক (&n)"
 
-#: kcmaccess.cpp:433
+#: kcmaccess.cpp:432
 msgid "D&ebounce time:"
 msgstr "Debounce সময় (&e):"
 
-#: kcmaccess.cpp:439
+#: kcmaccess.cpp:438
 msgid "Use the system bell whenever a key is rejected"
 msgstr "এটা চাবি অগ্ৰাহ্য কৰাৰ সময়ত ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক"
 
-#: kcmaccess.cpp:457
+#: kcmaccess.cpp:456
 msgid "&Keyboard Filters"
 msgstr "চাবিৰ ফলকৰ ফিল্টাৰ (&K)"
 
-#: kcmaccess.cpp:464 kcmaccess.cpp:534
+#: kcmaccess.cpp:463 kcmaccess.cpp:533
 msgid "Activation Gestures"
 msgstr "সক্ৰিয় কৰাৰ ঈঙ্গিত"
 
-#: kcmaccess.cpp:472
+#: kcmaccess.cpp:471
 msgid "Use gestures for activating sticky keys and slow keys"
 msgstr "sticky keys আৰু slow keys সক্ৰিয় কৰিবলৈ ঈঙ্গিত ব্যৱহাৰ কৰক"
 
-#: kcmaccess.cpp:476
+#: kcmaccess.cpp:475
 msgid ""
 "Here you can activate keyboard gestures that turn on the following "
 "features: \n"
@@ -318,7 +318,7 @@ msgstr ""
 "Sticky keys: Shift চাবি ৫ বাৰ একেলগে টিপক\n"
 "Slow keys: Shift ক ৮ ছেকেণ্ডৰ কাৰণে টিপি ধৰক"
 
-#: kcmaccess.cpp:480
+#: kcmaccess.cpp:479
 #, kde-format
 msgid ""
 "Here you can activate keyboard gestures that turn on the following "
@@ -332,24 +332,24 @@ msgstr ""
 "Sticky keys: Shift চাবি ৫ বাৰ একেলগে টিপক\n"
 "Slow keys: Shift ক ৮ ছেকেণ্ডৰ কাৰণে টিপি ধৰক"
 
-#: kcmaccess.cpp:485
+#: kcmaccess.cpp:484
 msgid ""
 "Turn sticky keys and slow keys off after a certain period of inactivity."
 msgstr "কাম নোহোৱাৰ কিছু সময়ৰ পিছত sticky keys আৰু slow keys বন্ধ কৰিব ।"
 
-#: kcmaccess.cpp:492
+#: kcmaccess.cpp:491
 msgid " min"
 msgstr " min"
 
-#: kcmaccess.cpp:494
+#: kcmaccess.cpp:493
 msgid "Timeout:"
 msgstr "সময়সীমা:"
 
-#: kcmaccess.cpp:497
+#: kcmaccess.cpp:496
 msgid "Notification"
 msgstr "সূচনা"
 
-#: kcmaccess.cpp:505
+#: kcmaccess.cpp:504
 msgid ""
 "Use the system bell whenever a gesture is used to turn an accessibility "
 "feature on or off"
@@ -357,13 +357,13 @@ msgstr ""
 "এটা অভিগম্যতাৰ গুণক আৰম্ভ বা বন্ধ কৰিবলৈ ঈঙ্গিত ব্যৱহাৰ কৰিলেই ব্যৱস্থাপ্ৰণালীৰ ঘন্টা "
 "ব্যৱহাৰ কৰক "
 
-#: kcmaccess.cpp:508
+#: kcmaccess.cpp:507
 msgid ""
 "Show a confirmation dialog whenever a keyboard accessibility feature is "
 "turned on or off"
 msgstr "চাবিৰ ফলকৰ অভিগম্যতাৰ গুণ আৰম্ভ বা বন্ধ কৰিলে এটা নিশ্চয়তাৰ সম্বাদ দেখুৱাব ।"
 
-#: kcmaccess.cpp:510
+#: kcmaccess.cpp:509
 msgid ""
 "If this option is checked, KDE will show a confirmation dialog whenever a "
 "keyboard accessibility feature is turned on or off.\n"
@@ -375,7 +375,7 @@ msgstr ""
 "এইটো নিৰ্বাচন নকৰাৰ পূৰ্বে নিশ্চিত কৰক আপুনি কি কৰিছে, কাৰণ তাৰ পিছত দৃঢ় নকৰাকৈ "
 "চাবিৰ ফলকৰ পছন্দ প্ৰয়োগ কৰা হ'ব ।"
 
-#: kcmaccess.cpp:512
+#: kcmaccess.cpp:511
 msgid ""
 "Use KDE's system notification mechanism whenever a keyboard accessibility "
 "feature is turned on or off"
