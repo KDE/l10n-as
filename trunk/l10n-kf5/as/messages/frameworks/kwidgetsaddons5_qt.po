@@ -2413,7 +2413,7 @@ msgctxt "KMessageWidget|"
 msgid "Close message"
 msgstr "বাৰ্তা বন্ধ কৰা হ'ব"
 
-#: knewpassworddialog.cpp:69
+#: knewpassworddialog.cpp:73
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password strength meter gives an indication of the security of the "
@@ -2423,14 +2423,14 @@ msgid ""
 " - using numbers or symbols, such as #, as well as letters."
 msgstr ""
 
-#: knewpassworddialog.cpp:157
+#: knewpassworddialog.cpp:161
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
 msgid "Password is empty"
 msgstr "গুপ্তশব্দ ৰিক্ত"
 
-#: knewpassworddialog.cpp:163
+#: knewpassworddialog.cpp:167
 #, fuzzy, qt-format
 #| msgid "Password must be at least 1 character long"
 #| msgid_plural "Password must be at least %1 characters long"
@@ -2440,35 +2440,35 @@ msgid_plural "Password must be at least %n character(s) long"
 msgstr[0] "গুপ্তশব্দ অতি কমেও ১ টা আখৰ দীঘল হোৱা আৱশ্যক"
 msgstr[1] "গুপ্তশব্দ অতি কমেও ১ টা আখৰ দীঘল হোৱা আৱশ্যক"
 
-#: knewpassworddialog.cpp:166
+#: knewpassworddialog.cpp:170
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords match"
 msgstr "গুপ্তশব্দ মিলে"
 
-#: knewpassworddialog.cpp:167 knewpassworddialog.ui:112
+#: knewpassworddialog.cpp:171 knewpassworddialog.ui:112
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords do not match"
 msgstr "গুপ্তশব্দ অমিল"
 
-#: knewpassworddialog.cpp:222
+#: knewpassworddialog.cpp:226
 #, fuzzy
 #| msgid "You entered two different passwords. Please try again."
 msgctxt "KNewPasswordDialog|"
 msgid "You entered two different passwords. Please try again."
 msgstr "আপুনি দুটা ভিন্ন গুপ্তশব্দ লিখিছে । অনুগ্ৰহ কৰি পুনঃ চেষ্টা কৰক ।"
 
-#: knewpassworddialog.cpp:232
+#: knewpassworddialog.cpp:236
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "গুপ্তশব্দ কমযোৰ"
 
-#: knewpassworddialog.cpp:233
+#: knewpassworddialog.cpp:237
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
@@ -2501,7 +2501,7 @@ msgctxt "KNewPasswordDialog|"
 msgid "Password strength meter:"
 msgstr "গুপ্তশব্দ শক্তিৰ মাপকাঠি:"
 
-#: kpassworddialog.cpp:64
+#: kpassworddialog.cpp:65
 #, fuzzy
 #| msgid "Password"
 msgctxt "KPasswordDialog|"
