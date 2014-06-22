@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-21 08:14+0000\n"
+"POT-Creation-Date: 2014-06-22 08:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1720,7 +1720,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr "ডেস্কট'প"
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:13
+#: runners/baloo/plasma-runner-baloosearch.desktop:14
 msgctxt "Comment"
 msgid "Runner which searches through files, emails and contacts"
 msgstr ""
