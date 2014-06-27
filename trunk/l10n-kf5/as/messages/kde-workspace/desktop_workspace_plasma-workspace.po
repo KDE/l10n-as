@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-25 08:11+0000\n"
+"POT-Creation-Date: 2014-06-27 08:31+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1063,6 +1063,11 @@ msgstr ""
 #: klipper/org.kde.klipper.desktop:193
 msgctxt "Comment"
 msgid "A cut & paste history utility"
+msgstr ""
+
+#: krunner/krunner.desktop:3
+msgctxt "Name"
+msgid "KRunner"
 msgstr ""
 
 #: ksmserver/plasma_workspace.notifyrc:3
