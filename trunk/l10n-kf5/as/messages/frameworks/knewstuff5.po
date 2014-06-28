@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-27 08:28+0000\n"
+"POT-Creation-Date: 2014-06-28 08:05+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -229,7 +229,7 @@ msgstr ""
 "সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</"
 "qt>"
 
-#: downloaddialog.cpp:80 downloadwidget.cpp:197
+#: downloaddialog.cpp:80 downloadwidget.cpp:207
 msgid "Get Hot New Stuff"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক"
 
@@ -239,55 +239,55 @@ msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "%1 অতিৰিক্ত সংস্থাপক"
 
-#: downloadwidget.cpp:111
+#: downloadwidget.cpp:121
 #, fuzzy
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
 msgstr "সময়সীমা পাৰ হ'ল । অনুগ্ৰহ কৰি, ইন্টাৰ্নে'ট সংযোগ পৰীক্ষা কৰক!"
 
-#: downloadwidget.cpp:169
+#: downloadwidget.cpp:179
 #, kde-format
 msgid "Server: %1"
 msgstr "সেৱক: %1"
 
-#: downloadwidget.cpp:170
+#: downloadwidget.cpp:180
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />উপলব্ধকৰোঁতা: %1"
 
-#: downloadwidget.cpp:171
+#: downloadwidget.cpp:181
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />সংস্কৰণ: %1"
 
-#: downloadwidget.cpp:175
+#: downloadwidget.cpp:185
 msgid "Provider information"
 msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
 
-#: downloadwidget.cpp:186
+#: downloadwidget.cpp:196
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1 সংস্থাপন কৰিবলৈ ব্যৰ্থ"
 
-#: downloadwidget.cpp:187
+#: downloadwidget.cpp:197
 msgid "Get Hot New Stuff!"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক!"
 
-#: downloadwidget.cpp:239
+#: downloadwidget.cpp:249
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:241
+#: downloadwidget.cpp:251
 msgid "Details view mode"
 msgstr ""
 
-#: downloadwidget.cpp:256
+#: downloadwidget.cpp:266
 #, fuzzy
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "উপলব্ধকৰোঁতা: %1"
 
-#: downloadwidget.cpp:263
+#: downloadwidget.cpp:273
 #, fuzzy
 #| msgid "Pages"
 msgid "All Categories"
