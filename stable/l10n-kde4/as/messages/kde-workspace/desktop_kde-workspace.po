@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-25 06:03+0000\n"
+"POT-Creation-Date: 2014-06-30 06:14+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -344,7 +344,7 @@ msgctxt "Name"
 msgid "Display"
 msgstr ""
 
-#: kcontrol/hardware/display/display.desktop:100
+#: kcontrol/hardware/display/display.desktop:99
 #: systemsettings/categories/settings-display.desktop:70
 msgctxt "Comment"
 msgid "Display Settings"
