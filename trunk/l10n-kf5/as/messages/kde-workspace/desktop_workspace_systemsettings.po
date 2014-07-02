@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-01 12:12+0000\n"
+"POT-Creation-Date: 2014-07-02 08:12+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -96,7 +96,7 @@ msgid "Customize the appearance of your desktop"
 msgstr ""
 
 #: categories/old/settings-display.desktop:8
-#: categories/settings-hardware-display.desktop:8
+#: categories/settings-hardware-display.desktop:9
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -105,7 +105,7 @@ msgid "Display and Monitor"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #: categories/old/settings-display.desktop:70
-#: categories/settings-hardware-display.desktop:70
+#: categories/settings-hardware-display.desktop:71
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
@@ -211,7 +211,6 @@ msgid "System Administration"
 msgstr "SAM System-Administration"
 
 #: categories/old/settings-window-behaviour.desktop:8
-#: categories/settings-workspace-windowmanagement.desktop:9
 msgctxt "Name"
 msgid "Window Behavior"
 msgstr ""
@@ -350,6 +349,11 @@ msgstr "ৱেবৰ আচৰণ"
 #: categories/settings-workspace-shortcuts.desktop:9
 msgctxt "Name"
 msgid "Shortcuts"
+msgstr ""
+
+#: categories/settings-workspace-windowmanagement.desktop:9
+msgctxt "Name"
+msgid "Window Management"
 msgstr ""
 
 #: categories/systemsettingscategory.desktop:4
