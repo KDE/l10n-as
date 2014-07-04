@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-30 06:14+0000\n"
+"POT-Creation-Date: 2014-07-04 06:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -649,13 +649,13 @@ msgctxt "Name"
 msgid "Style"
 msgstr ""
 
-#: kcontrol/style/style.desktop:107
+#: kcontrol/style/style.desktop:105
 msgctxt "Comment"
 msgid ""
 "Allows the manipulation of widget behavior and changing the Style for KDE"
 msgstr ""
 
-#: kcontrol/style/style.desktop:192
+#: kcontrol/style/style.desktop:190
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
