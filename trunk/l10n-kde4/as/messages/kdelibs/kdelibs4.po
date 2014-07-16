@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-02 01:57+0000\n"
+"POT-Creation-Date: 2014-07-16 02:08+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -10768,7 +10768,7 @@ msgstr "বৰ্তমান ছাইটৰ বাবে কেতিয়াও
 msgid "Do &not store this time"
 msgstr "পুনঃ এই বাৰ্তা প্ৰদৰ্শন কৰা ন'হ'ব"
 
-#: khtml/xml/dom_docimpl.cpp:2269
+#: khtml/xml/dom_docimpl.cpp:2258
 msgid "Basic Page Style"
 msgstr "পৃষ্ঠাৰ মূল বিন্যাস"
 
