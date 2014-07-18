@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-05-15 07:48+0000\n"
+"POT-Creation-Date: 2014-07-18 08:53+0000\n"
 "PO-Revision-Date: 2009-01-13 17:06+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -76,10 +76,6 @@ msgstr "%1 টিপক যদি NumLock সক্রিয় থাকে"
 #, kde-format
 msgid "Press %1"
 msgstr "%1 টিপক"
-
-#: kcmaccess.cpp:172
-msgid "kaccess"
-msgstr "kaccess"
 
 #: kcmaccess.cpp:172
 msgid "KDE Accessibility Tool"
@@ -382,6 +378,9 @@ msgid ""
 msgstr ""
 "চাবিৰ ফলকৰ গুণ যেতিয়াই আৰম্ভ বা বন্ধ কৰা হয় KDE ৰ ব্যৱস্থাপ্ৰণালীৰ সূচনাৰ ব্যৱস্থা "
 "ব্যৱহাৰ কৰা হ'ব"
+
+#~ msgid "kaccess"
+#~ msgstr "kaccess"
 
 #~ msgid "*.wav|WAV Files"
 #~ msgstr "*.wav|WAV নথিপত্ৰসমূহ"
