@@ -2597,6 +2597,426 @@ msgctxt "KSqueezedTextLabel|"
 msgid "&Copy Full Text"
 msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
 
+#: kstandardguiitem.cpp:108
+#, fuzzy
+#| msgid "&OK"
+msgctxt "KStandardGuiItem|"
+msgid "&OK"
+msgstr "ঠিক আছে (&O)"
+
+#: kstandardguiitem.cpp:113
+#, fuzzy
+#| msgid "&Cancel"
+msgctxt "KStandardGuiItem|"
+msgid "&Cancel"
+msgstr "বাতিল (&C)"
+
+#: kstandardguiitem.cpp:118
+#, fuzzy
+#| msgid "&Yes"
+msgctxt "KStandardGuiItem|"
+msgid "&Yes"
+msgstr "হয় (&Y)"
+
+#: kstandardguiitem.cpp:118
+#, fuzzy
+#| msgid "Yes"
+msgctxt "KStandardGuiItem|"
+msgid "Yes"
+msgstr "হয়"
+
+#: kstandardguiitem.cpp:123
+#, fuzzy
+#| msgid "&No"
+msgctxt "KStandardGuiItem|"
+msgid "&No"
+msgstr "নহয় (&N)"
+
+#: kstandardguiitem.cpp:123
+#, fuzzy
+#| msgid "No"
+msgctxt "KStandardGuiItem|"
+msgid "No"
+msgstr "নহয়"
+
+#: kstandardguiitem.cpp:128
+#, fuzzy
+#| msgid "&Discard"
+msgctxt "KStandardGuiItem|"
+msgid "&Discard"
+msgstr "বৰ্জন কৰক (&D)"
+
+#: kstandardguiitem.cpp:128
+#, fuzzy
+#| msgid "Discard changes"
+msgctxt "KStandardGuiItem|"
+msgid "Discard changes"
+msgstr "পৰিবৰ্তন বৰ্জন কৰা হ'ব"
+
+#: kstandardguiitem.cpp:129
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog."
+msgstr "এই বুটাম টিপা হ'লে, বৰ্তমান সম্বাদ কৰা সকলো পৰিবৰ্তনসমূহ বৰ্জন কৰা হ'ব"
+
+#: kstandardguiitem.cpp:135
+#, fuzzy
+#| msgid "&Save"
+msgctxt "KStandardGuiItem|"
+msgid "&Save"
+msgstr "সংৰক্ষণ কৰক (&S)"
+
+#: kstandardguiitem.cpp:135
+#, fuzzy
+#| msgid "Save data"
+msgctxt "KStandardGuiItem|"
+msgid "Save data"
+msgstr "তথ্য সংৰক্ষণ কৰক"
+
+#: kstandardguiitem.cpp:140
+#, fuzzy
+#| msgid "&Do Not Save"
+msgctxt "KStandardGuiItem|"
+msgid "&Do Not Save"
+msgstr "সংৰক্ষণ কৰা ন'হ'ব (&D)"
+
+#: kstandardguiitem.cpp:141
+#, fuzzy
+#| msgid "Do not save data"
+msgctxt "KStandardGuiItem|"
+msgid "Do not save data"
+msgstr "তথ্য সংৰক্ষণ কৰা ন'হ'ব"
+
+#: kstandardguiitem.cpp:146
+#, fuzzy
+#| msgid "Save &As..."
+msgctxt "KStandardGuiItem|"
+msgid "Save &As..."
+msgstr "নতুন ৰূপে সংৰক্ষণ...(&A)"
+
+#: kstandardguiitem.cpp:147
+#, fuzzy
+#| msgid "Save file with another name"
+msgctxt "KStandardGuiItem|"
+msgid "Save file with another name"
+msgstr "ভিন্ন নামে নথিপত্ৰ সংৰক্ষণ কৰক"
+
+#: kstandardguiitem.cpp:152
+#, fuzzy
+#| msgid "&Apply"
+msgctxt "KStandardGuiItem|"
+msgid "&Apply"
+msgstr "প্ৰয়োগ কৰক (&A)"
+
+#: kstandardguiitem.cpp:152
+#, fuzzy
+#| msgid "Apply changes"
+msgctxt "KStandardGuiItem|"
+msgid "Apply changes"
+msgstr "পৰিবৰ্তন প্ৰয়োগ কৰক"
+
+#: kstandardguiitem.cpp:153
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid ""
+"When you click <b>Apply</b>, the settings will be handed over to the "
+"program, but the dialog will not be closed.\n"
+"Use this to try different settings."
+msgstr ""
+"<b>প্ৰয়োগ কৰক</b> ক্লিক কৰাৰ ফলত, নিৰ্ধাৰিত মানসমূহ প্ৰযোজ্য প্ৰোগ্ৰামৰ উদ্দেশ্যে "
+"প্ৰেৰিত হ'ব, কিন্তু সম্বাদ বক্স বন্ধ কৰা ন'হ'ব ।\n"
+"বিভিন্ন ধৰণৰ মান পৰীক্ষাৰ বাবে এই পদ্ধতি প্ৰয়োগ কৰক ।"
+
+#: kstandardguiitem.cpp:161
+#, fuzzy
+#| msgid "Administrator &Mode..."
+msgctxt "KStandardGuiItem|"
+msgid "Administrator &Mode..."
+msgstr "প্ৰশাসনিক মোড...(&M)"
+
+#: kstandardguiitem.cpp:161
+#, fuzzy
+#| msgid "Enter Administrator Mode"
+msgctxt "KStandardGuiItem|"
+msgid "Enter Administrator Mode"
+msgstr "প্ৰশাসনিক মোডত প্ৰৱেশ কৰক"
+
+#: kstandardguiitem.cpp:162
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid ""
+"When you click <b>Administrator Mode</b> you will be prompted for the "
+"administrator (root) password in order to make changes which require root "
+"privileges."
+msgstr ""
+"<b>প্ৰশাসনিক মোড</b> টিপিলে প্ৰশাসনিক অধিকাৰেৰেকোনো ধৰণৰ পৰিবৰ্তন কৰিবলৈ "
+"প্ৰশাসনিক (root) গুপ্তশব্দ লিখাৰ অনুৰোধ জনোৱা হ'ব ।"
+
+#: kstandardguiitem.cpp:169
+#, fuzzy
+#| msgid "C&lear"
+msgctxt "KStandardGuiItem|"
+msgid "C&lear"
+msgstr "পৰিশ্ৰুত কৰক (&l)"
+
+#: kstandardguiitem.cpp:170
+#, fuzzy
+#| msgid "Clear input"
+msgctxt "KStandardGuiItem|"
+msgid "Clear input"
+msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
+
+#: kstandardguiitem.cpp:171
+#, fuzzy
+#| msgid "Clear the input in the edit field"
+msgctxt "KStandardGuiItem|"
+msgid "Clear the input in the edit field"
+msgstr "সম্পাদনযোগ্য ক্ষেত্ৰতৰ মান আঁতৰাওঁক"
+
+#: kstandardguiitem.cpp:176
+#, fuzzy
+#| msgid "&Help"
+msgctxt "KStandardGuiItem|show help"
+msgid "&Help"
+msgstr "সহায় (&H)"
+
+#: kstandardguiitem.cpp:177
+#, fuzzy
+#| msgid "Show help"
+msgctxt "KStandardGuiItem|"
+msgid "Show help"
+msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
+
+#: kstandardguiitem.cpp:182
+#, fuzzy
+#| msgid "&Close"
+msgctxt "KStandardGuiItem|"
+msgid "&Close"
+msgstr "বন্ধ কৰক (&C)"
+
+#: kstandardguiitem.cpp:183
+#, fuzzy
+#| msgid "Close the current window or document"
+msgctxt "KStandardGuiItem|"
+msgid "Close the current window or document"
+msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
+
+#: kstandardguiitem.cpp:188
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "&Close Window"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰা হ'ব নেকি ?"
+
+#: kstandardguiitem.cpp:189
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Close the current window."
+msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
+
+#: kstandardguiitem.cpp:194
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "&Close Document"
+msgstr "আলেখ্যন বন্ধ কৰক"
+
+#: kstandardguiitem.cpp:195
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Close the current document."
+msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
+
+#: kstandardguiitem.cpp:200
+#, fuzzy
+#| msgid "&Defaults"
+msgctxt "KStandardGuiItem|"
+msgid "&Defaults"
+msgstr "অবিকল্পিত মান (&D)"
+
+#: kstandardguiitem.cpp:201
+#, fuzzy
+#| msgid "Reset all items to their default values"
+msgctxt "KStandardGuiItem|"
+msgid "Reset all items to their default values"
+msgstr "সকল বৈশিষ্ট্যসমূহৰ অবিকল্পিত মান পুনঃ স্থাপন কৰা হ'ব"
+
+#: kstandardguiitem.cpp:208
+#, fuzzy
+#| msgid "&Back"
+msgctxt "KStandardGuiItem|go back"
+msgid "&Back"
+msgstr "পূৰ্ববৰ্তী (&B)"
+
+#: kstandardguiitem.cpp:209
+#, fuzzy
+#| msgid "Go back one step"
+msgctxt "KStandardGuiItem|"
+msgid "Go back one step"
+msgstr "এটা পদক্ষেপ পিছলৈ যাওক"
+
+#: kstandardguiitem.cpp:216
+#, fuzzy
+#| msgctxt "go forward"
+#| msgid "&Forward"
+msgctxt "KStandardGuiItem|go forward"
+msgid "&Forward"
+msgstr "পৰবৰ্তী পদক্ষেপ (&F)"
+
+#: kstandardguiitem.cpp:217
+#, fuzzy
+#| msgid "Go forward one step"
+msgctxt "KStandardGuiItem|"
+msgid "Go forward one step"
+msgstr "এটা পদক্ষেপ আগলৈ যাওক"
+
+#: kstandardguiitem.cpp:227
+#, fuzzy
+#| msgid "&Print..."
+msgctxt "KStandardGuiItem|"
+msgid "&Print..."
+msgstr "মূদ্ৰণ কৰক...(&P)"
+
+#: kstandardguiitem.cpp:228
+#, fuzzy
+#| msgid "Opens the print dialog to print the current document"
+msgctxt "KStandardGuiItem|"
+msgid "Opens the print dialog to print the current document"
+msgstr "বৰ্তমানে প্ৰদৰ্শিত নথিপ্পত্ৰ মূদ্ৰণ কৰাৰ উদ্দেশ্যে মূদ্ৰণ সম্বাদ প্ৰদৰ্শিত হ'ব"
+
+#: kstandardguiitem.cpp:234
+#, fuzzy
+#| msgid "C&ontinue"
+msgctxt "KStandardGuiItem|"
+msgid "C&ontinue"
+msgstr "আগবাঢ়ক (&o)"
+
+#: kstandardguiitem.cpp:235
+#, fuzzy
+#| msgid "Continue operation"
+msgctxt "KStandardGuiItem|"
+msgid "Continue operation"
+msgstr "কাৰ্য্যত আগবাঢ়ক"
+
+#: kstandardguiitem.cpp:240
+#, fuzzy
+#| msgid "&Delete"
+msgctxt "KStandardGuiItem|"
+msgid "&Delete"
+msgstr "আঁতৰাওঁক (&D)"
+
+#: kstandardguiitem.cpp:241
+#, fuzzy
+#| msgid "Delete item(s)"
+msgctxt "KStandardGuiItem|"
+msgid "Delete item(s)"
+msgstr "বস্তু(সমূহ) আঁতৰাওঁক"
+
+#: kstandardguiitem.cpp:246
+#, fuzzy
+#| msgid "&Open..."
+msgctxt "KStandardGuiItem|"
+msgid "&Open..."
+msgstr "খোলক...(&O)"
+
+#: kstandardguiitem.cpp:247
+#, fuzzy
+#| msgid "Open file"
+msgctxt "KStandardGuiItem|"
+msgid "Open file"
+msgstr "নথিপত্ৰ খোলক"
+
+#: kstandardguiitem.cpp:252
+#, fuzzy
+#| msgid "&Quit"
+msgctxt "KStandardGuiItem|"
+msgid "&Quit"
+msgstr "প্ৰস্থান (&Q)"
+
+#: kstandardguiitem.cpp:253
+#, fuzzy
+#| msgid "Quit application"
+msgctxt "KStandardGuiItem|"
+msgid "Quit application"
+msgstr "অনুপ্ৰয়োগৰ পৰা প্ৰস্থান কৰক"
+
+#: kstandardguiitem.cpp:258
+#, fuzzy
+#| msgid "&Reset"
+msgctxt "KStandardGuiItem|"
+msgid "&Reset"
+msgstr "ৰি-সেট (&R)"
+
+#: kstandardguiitem.cpp:259
+#, fuzzy
+#| msgid "Reset configuration"
+msgctxt "KStandardGuiItem|"
+msgid "Reset configuration"
+msgstr "বিন্যাসৰ মান ৰি-সেট কৰক"
+
+#: kstandardguiitem.cpp:264
+#, fuzzy
+#| msgctxt "Verb"
+#| msgid "&Insert"
+msgctxt "KStandardGuiItem|Verb"
+msgid "&Insert"
+msgstr "সন্নিবেশ কৰক (&I)"
+
+#: kstandardguiitem.cpp:269
+#, fuzzy
+#| msgid "Confi&gure..."
+msgctxt "KStandardGuiItem|"
+msgid "Confi&gure..."
+msgstr "বিন্যাস কৰক...(&g)"
+
+#: kstandardguiitem.cpp:274
+#, fuzzy
+#| msgid "&Find"
+msgctxt "KStandardGuiItem|"
+msgid "&Find"
+msgstr "অনুসন্ধান (&F)"
+
+#: kstandardguiitem.cpp:279
+#, fuzzy
+#| msgid "Stop"
+msgctxt "KStandardGuiItem|"
+msgid "Stop"
+msgstr "বন্ধ কৰক"
+
+#: kstandardguiitem.cpp:284
+#, fuzzy
+#| msgid "Add"
+msgctxt "KStandardGuiItem|"
+msgid "Add"
+msgstr "যোগ কৰক"
+
+#: kstandardguiitem.cpp:289
+#, fuzzy
+#| msgid "Remove"
+msgctxt "KStandardGuiItem|"
+msgid "Remove"
+msgstr "আঁতৰাওঁক"
+
+#: kstandardguiitem.cpp:294
+#, fuzzy
+#| msgid "Test"
+msgctxt "KStandardGuiItem|"
+msgid "Test"
+msgstr "পৰীক্ষা কৰক"
+
+#: kstandardguiitem.cpp:299
+#, fuzzy
+#| msgid "Properties"
+msgctxt "KStandardGuiItem|"
+msgid "Properties"
+msgstr "বৈশিষ্ট্য"
+
+#: kstandardguiitem.cpp:304
+#, fuzzy
+#| msgid "&Overwrite"
+msgctxt "KStandardGuiItem|"
+msgid "&Overwrite"
+msgstr "প্ৰতিস্থাপন (&O)"
+
 #: ktimecombobox.cpp:252
 msgctxt "KTimeComboBox|@info"
 msgid "The time you entered is invalid"
@@ -4920,21 +5340,12 @@ msgstr ""
 #~ msgid "Create new document"
 #~ msgstr "নতুন টেগ নিৰ্মাণ কৰক"
 
-#~ msgid "&Open..."
-#~ msgstr "খোলক...(&O)"
-
 #~ msgid "Open &Recent"
 #~ msgstr "সম্প্ৰতি ব্যৱহৃত খোলক (&R)"
-
-#~ msgid "&Save"
-#~ msgstr "সংৰক্ষণ কৰক (&S)"
 
 #, fuzzy
 #~ msgid "Save document"
 #~ msgstr "আলেখ্যন বন্ধ কৰক"
-
-#~ msgid "Save &As..."
-#~ msgstr "নতুন ৰূপে সংৰক্ষণ...(&A)"
 
 #~ msgid "Re&vert"
 #~ msgstr "পূৰ্বাবস্থা (&v)"
@@ -4942,9 +5353,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Close document"
 #~ msgstr "আলেখ্যন বন্ধ কৰক"
-
-#~ msgid "&Print..."
-#~ msgstr "মূদ্ৰণ কৰক...(&P)"
 
 #, fuzzy
 #~ msgid "Print document"
@@ -4955,12 +5363,6 @@ msgstr ""
 
 #~ msgid "&Mail..."
 #~ msgstr "ডাক...(&M)"
-
-#~ msgid "&Quit"
-#~ msgstr "প্ৰস্থান (&Q)"
-
-#~ msgid "Quit application"
-#~ msgstr "অনুপ্ৰয়োগৰ পৰা প্ৰস্থান কৰক"
 
 #~ msgid "Re&do"
 #~ msgstr "পুনৰাবৃত্তি (&d)"
@@ -4981,9 +5383,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Paste clipboard content"
 #~ msgstr "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
-
-#~ msgid "C&lear"
-#~ msgstr "পৰিশ্ৰুত কৰক (&l)"
 
 #~ msgid "Select &All"
 #~ msgstr "সমগ্ৰ নিৰ্ব্বাচন কৰক (&A)"
@@ -5945,9 +6344,6 @@ msgstr ""
 #~ msgid "Fallback language:"
 #~ msgstr "অবিকল্পিত ভাষা:"
 
-#~ msgid "Remove"
-#~ msgstr "আঁতৰাওঁক"
-
 #~ msgid ""
 #~ "This is the main application language which will be used first, before "
 #~ "any other languages."
@@ -6058,9 +6454,6 @@ msgstr ""
 
 #~ msgid "Start replace"
 #~ msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
-
-#~ msgid "&Find"
-#~ msgstr "অনুসন্ধান (&F)"
 
 #~ msgid "Start searching"
 #~ msgstr "অনুসন্ধান আৰম্ভ"
@@ -6237,9 +6630,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Search"
 #~ msgstr "অনুসন্ধান (&S)"
-
-#~ msgid "Stop"
-#~ msgstr "বন্ধ কৰক"
 
 #~ msgid " Stalled "
 #~ msgstr " স্থগিত "
@@ -6811,158 +7201,6 @@ msgstr ""
 #~ msgid "Cut"
 #~ msgstr "কাটক"
 
-#~ msgid "&OK"
-#~ msgstr "ঠিক আছে (&O)"
-
-#~ msgid "&Cancel"
-#~ msgstr "বাতিল (&C)"
-
-#~ msgid "&Yes"
-#~ msgstr "হয় (&Y)"
-
-#~ msgid "Yes"
-#~ msgstr "হয়"
-
-#~ msgid "&No"
-#~ msgstr "নহয় (&N)"
-
-#~ msgid "No"
-#~ msgstr "নহয়"
-
-#~ msgid "&Discard"
-#~ msgstr "বৰ্জন কৰক (&D)"
-
-#~ msgid "Discard changes"
-#~ msgstr "পৰিবৰ্তন বৰ্জন কৰা হ'ব"
-
-#, fuzzy
-#~ msgid ""
-#~ "Pressing this button will discard all recent changes made in this dialog."
-#~ msgstr "এই বুটাম টিপা হ'লে, বৰ্তমান সম্বাদ কৰা সকলো পৰিবৰ্তনসমূহ বৰ্জন কৰা হ'ব"
-
-#~ msgid "Save data"
-#~ msgstr "তথ্য সংৰক্ষণ কৰক"
-
-#~ msgid "&Do Not Save"
-#~ msgstr "সংৰক্ষণ কৰা ন'হ'ব (&D)"
-
-#~ msgid "Do not save data"
-#~ msgstr "তথ্য সংৰক্ষণ কৰা ন'হ'ব"
-
-#~ msgid "Save file with another name"
-#~ msgstr "ভিন্ন নামে নথিপত্ৰ সংৰক্ষণ কৰক"
-
-#~ msgid "&Apply"
-#~ msgstr "প্ৰয়োগ কৰক (&A)"
-
-#~ msgid "Apply changes"
-#~ msgstr "পৰিবৰ্তন প্ৰয়োগ কৰক"
-
-#, fuzzy
-#~ msgid ""
-#~ "When you click <b>Apply</b>, the settings will be handed over to the "
-#~ "program, but the dialog will not be closed.\n"
-#~ "Use this to try different settings."
-#~ msgstr ""
-#~ "<b>প্ৰয়োগ কৰক</b> ক্লিক কৰাৰ ফলত, নিৰ্ধাৰিত মানসমূহ প্ৰযোজ্য প্ৰোগ্ৰামৰ উদ্দেশ্যে "
-#~ "প্ৰেৰিত হ'ব, কিন্তু সম্বাদ বক্স বন্ধ কৰা ন'হ'ব ।\n"
-#~ "বিভিন্ন ধৰণৰ মান পৰীক্ষাৰ বাবে এই পদ্ধতি প্ৰয়োগ কৰক ।"
-
-#~ msgid "Administrator &Mode..."
-#~ msgstr "প্ৰশাসনিক মোড...(&M)"
-
-#~ msgid "Enter Administrator Mode"
-#~ msgstr "প্ৰশাসনিক মোডত প্ৰৱেশ কৰক"
-
-#, fuzzy
-#~ msgid ""
-#~ "When you click <b>Administrator Mode</b> you will be prompted for the "
-#~ "administrator (root) password in order to make changes which require root "
-#~ "privileges."
-#~ msgstr ""
-#~ "<b>প্ৰশাসনিক মোড</b> টিপিলে প্ৰশাসনিক অধিকাৰেৰেকোনো ধৰণৰ পৰিবৰ্তন কৰিবলৈ "
-#~ "প্ৰশাসনিক (root) গুপ্তশব্দ লিখাৰ অনুৰোধ জনোৱা হ'ব ।"
-
-#~ msgid "Clear input"
-#~ msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
-
-#~ msgid "Clear the input in the edit field"
-#~ msgstr "সম্পাদনযোগ্য ক্ষেত্ৰতৰ মান আঁতৰাওঁক"
-
-#~ msgid "Show help"
-#~ msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
-
-#~ msgid "Close the current window or document"
-#~ msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
-
-#, fuzzy
-#~ msgid "&Close Window"
-#~ msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰা হ'ব নেকি ?"
-
-#, fuzzy
-#~ msgid "Close the current window."
-#~ msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
-
-#, fuzzy
-#~ msgid "&Close Document"
-#~ msgstr "আলেখ্যন বন্ধ কৰক"
-
-#, fuzzy
-#~ msgid "Close the current document."
-#~ msgstr "বৰ্তমানে প্ৰদৰ্শিত সংযোগক্ষেত্ৰ বা আলেখ্যন বন্ধ কৰক"
-
-#~ msgid "&Defaults"
-#~ msgstr "অবিকল্পিত মান (&D)"
-
-#~ msgid "Reset all items to their default values"
-#~ msgstr "সকল বৈশিষ্ট্যসমূহৰ অবিকল্পিত মান পুনঃ স্থাপন কৰা হ'ব"
-
-#~ msgid "Go forward one step"
-#~ msgstr "এটা পদক্ষেপ আগলৈ যাওক"
-
-#~ msgid "Opens the print dialog to print the current document"
-#~ msgstr "বৰ্তমানে প্ৰদৰ্শিত নথিপ্পত্ৰ মূদ্ৰণ কৰাৰ উদ্দেশ্যে মূদ্ৰণ সম্বাদ প্ৰদৰ্শিত হ'ব"
-
-#~ msgid "C&ontinue"
-#~ msgstr "আগবাঢ়ক (&o)"
-
-#~ msgid "Continue operation"
-#~ msgstr "কাৰ্য্যত আগবাঢ়ক"
-
-#~ msgid "&Delete"
-#~ msgstr "আঁতৰাওঁক (&D)"
-
-#~ msgid "Delete item(s)"
-#~ msgstr "বস্তু(সমূহ) আঁতৰাওঁক"
-
-#~ msgid "Open file"
-#~ msgstr "নথিপত্ৰ খোলক"
-
-#~ msgid "&Reset"
-#~ msgstr "ৰি-সেট (&R)"
-
-#~ msgid "Reset configuration"
-#~ msgstr "বিন্যাসৰ মান ৰি-সেট কৰক"
-
-#~ msgctxt "Verb"
-#~ msgid "&Insert"
-#~ msgstr "সন্নিবেশ কৰক (&I)"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "বিন্যাস কৰক...(&g)"
-
-#~ msgid "Add"
-#~ msgstr "যোগ কৰক"
-
-#~ msgid "Test"
-#~ msgstr "পৰীক্ষা কৰক"
-
-#~ msgid "Properties"
-#~ msgstr "বৈশিষ্ট্য"
-
-#~ msgid "&Overwrite"
-#~ msgstr "প্ৰতিস্থাপন (&O)"
-
 #~ msgid "Redo"
 #~ msgstr "পুনৰাবৃত্তি"
 
@@ -7043,9 +7281,6 @@ msgstr ""
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "যোৱা কালি"
-
-#~ msgid "&Help"
-#~ msgstr "সহায় (&H)"
 
 #~ msgid "Clear &History"
 #~ msgstr "পূৰ্ববৰ্তী তথ্য আঁতৰাওঁক (&H)"
