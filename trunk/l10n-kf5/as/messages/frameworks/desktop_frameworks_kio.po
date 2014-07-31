@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-17 08:36+0000\n"
+"POT-Creation-Date: 2014-07-31 08:30+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -62,6 +62,26 @@ msgstr ""
 msgctxt "Name"
 msgid "KTelnetService"
 msgstr "সেৱা"
+
+#: src/kcms/webshortcuts/webshortcuts.desktop:14
+msgctxt "Name"
+msgid "Web Shortcuts"
+msgstr "ৱেবৰ চমু পথ"
+
+#: src/kcms/webshortcuts/webshortcuts.desktop:107
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
+msgctxt "Comment"
+msgid "Configure web shortcuts"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#: src/kcms/webshortcuts/webshortcuts.desktop:109
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
+"Shortcuts"
+msgstr ""
 
 #: src/kpac/proxyscout.desktop:3
 #, fuzzy
@@ -4716,10 +4736,6 @@ msgstr "টেবেৰে চৰণ কৰা"
 #~ msgid "Print..."
 #~ msgstr "মূদ্ৰণ কৰক..."
 
-#~ msgctxt "Name"
-#~ msgid "Web Shortcuts"
-#~ msgstr "ৱেবৰ চমু পথ"
-
 #~ msgctxt "Comment"
 #~ msgid "Configure enhanced browsing"
 #~ msgstr "উন্নতভাবে চৰণ কৰা বিন্যাস কৰক"
@@ -4735,10 +4751,6 @@ msgstr "টেবেৰে চৰণ কৰা"
 #~ msgctxt "Name"
 #~ msgid "Cache"
 #~ msgstr "কেছে"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure web cache settings"
-#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure the way cookies work"
