@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-02 08:08+0000\n"
+"POT-Creation-Date: 2014-08-02 08:13+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -442,7 +442,7 @@ msgstr "%1 ৰ বিষয়ে"
 msgid "Select Components"
 msgstr "সামগ্ৰী নিৰ্ব্বাচন কৰক"
 
-#: ksettings/dialog.cpp:230
+#: ksettings/dialog.cpp:231
 msgid "Enable component"
 msgstr "অংশ সক্ৰিয়া কৰক"
 
