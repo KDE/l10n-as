@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-01 08:54+0000\n"
+"POT-Creation-Date: 2014-08-05 10:38+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -888,7 +888,7 @@ msgctxt "Comment"
 msgid "Configure Search"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:58
+#: kcms/runners/kcm_plasmasearch.desktop:59
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
