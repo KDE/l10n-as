@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-25 09:43+0000\n"
+"POT-Creation-Date: 2014-08-06 07:56+0000\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -111,41 +111,6 @@ msgstr ""
 #: kwrite.cpp:504
 msgid "Untitled"
 msgstr "শিৰোনাম নোহোৱা"
-
-#. i18n: ectx: Menu (file)
-#: kwriteui.rc:6
-msgid "&File"
-msgstr "নথিপত্ৰ (&F)"
-
-#. i18n: ectx: Menu (edit)
-#: kwriteui.rc:23
-msgid "&Edit"
-msgstr "সম্পাদন (&E)"
-
-#. i18n: ectx: Menu (view)
-#: kwriteui.rc:35
-msgid "&View"
-msgstr "চাওক (&V)"
-
-#. i18n: ectx: Menu (tools)
-#: kwriteui.rc:41
-msgid "&Tools"
-msgstr "সৰঞ্জাম (&T)"
-
-#. i18n: ectx: Menu (settings)
-#: kwriteui.rc:46
-msgid "&Settings"
-msgstr "পছন্দ (&S)"
-
-#. i18n: ectx: Menu (help)
-#: kwriteui.rc:56
-msgid "&Help"
-msgstr "সহায় (&H)"
-
-#. i18n: ectx: ToolBar (mainToolBar)
-#: kwriteui.rc:61
-msgid "Main Toolbar"
-msgstr "প্ৰধান টুল-বাৰ"
 
 #: main.cpp:49
 msgid "KWrite"
@@ -424,6 +389,27 @@ msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
 msgstr ""
 "'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
+
+#~ msgid "&File"
+#~ msgstr "নথিপত্ৰ (&F)"
+
+#~ msgid "&Edit"
+#~ msgstr "সম্পাদন (&E)"
+
+#~ msgid "&View"
+#~ msgstr "চাওক (&V)"
+
+#~ msgid "&Tools"
+#~ msgstr "সৰঞ্জাম (&T)"
+
+#~ msgid "&Settings"
+#~ msgstr "পছন্দ (&S)"
+
+#~ msgid "&Help"
+#~ msgstr "সহায় (&H)"
+
+#~ msgid "Main Toolbar"
+#~ msgstr "প্ৰধান টুল-বাৰ"
 
 #~ msgid ""
 #~ "A KDE text-editor component could not be found.\n"
