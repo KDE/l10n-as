@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-13 08:31+0000\n"
+"POT-Creation-Date: 2014-08-14 08:17+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -61,6 +61,17 @@ msgctxt "Name"
 msgid "Calendar"
 msgstr ""
 
+#: applets/clipboard/metadata.desktop:2
+#: klipper/plasma-dataengine-clipboard.desktop:2
+msgctxt "Name"
+msgid "Clipboard"
+msgstr ""
+
+#: applets/clipboard/metadata.desktop:3
+msgctxt "Comment"
+msgid "Provides access to the clipboard history."
+msgstr ""
+
 #: applets/devicenotifier/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Device Notifier"
@@ -82,6 +93,11 @@ msgstr "নথিপত্ৰৰ পৰিচালক"
 #: applets/digital-clock/package/metadata.desktop:3
 msgctxt "Name"
 msgid "Digital Clock"
+msgstr ""
+
+#: applets/digital-clock/package/metadata.desktop:89
+msgctxt "Comment"
+msgid "Time displayed in a digital format"
 msgstr ""
 
 #: applets/icon/package/metadata.desktop:2
@@ -1070,6 +1086,11 @@ msgstr ""
 #: klipper/org.kde.klipper.desktop:193
 msgctxt "Comment"
 msgid "A cut & paste history utility"
+msgstr ""
+
+#: klipper/plasma-dataengine-clipboard.desktop:3
+msgctxt "Comment"
+msgid "Clipboard Tool."
 msgstr ""
 
 #: krunner/krunner.desktop:3
