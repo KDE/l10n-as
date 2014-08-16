@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-14 08:17+0000\n"
+"POT-Creation-Date: 2014-08-16 08:12+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -67,7 +67,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:3
+#: applets/clipboard/metadata.desktop:10
 msgctxt "Comment"
 msgid "Provides access to the clipboard history."
 msgstr ""
@@ -1088,7 +1088,7 @@ msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:3
+#: klipper/plasma-dataengine-clipboard.desktop:10
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""

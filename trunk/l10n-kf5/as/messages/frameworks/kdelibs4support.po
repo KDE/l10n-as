@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-13 08:28+0000\n"
+"POT-Creation-Date: 2014-08-16 08:04+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6994,11 +6994,11 @@ msgstr ""
 "%1 লিখা হৈছে\n"
 "%2 ৰ দ্বাৰা"
 
-#: kdecore/kcmdlineargs.cpp:1576
+#: kdecore/kcmdlineargs.cpp:1577
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "ব্যৱহাৰৰ পিছত অনুপ্ৰয়োগ দ্বাৰা খোলা নথিপত্ৰ/URL সমূহ আঁতৰুৱা হ'ব"
 
-#: kdecore/kcmdlineargs.cpp:1577
+#: kdecore/kcmdlineargs.cpp:1578
 msgid "KDE-tempfile"
 msgstr "KDE-tempfile"
 
