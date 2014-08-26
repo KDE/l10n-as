@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-19 11:01+0000\n"
+"POT-Creation-Date: 2014-08-26 10:12+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr ""
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:42
+#: src/ioslaves/http/http_cache_cleaner.desktop:43
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr ""
@@ -32,7 +32,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "কুকি"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:37
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:38
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -68,7 +68,7 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "ৱেবৰ চমু পথ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:89
+#: src/kcms/webshortcuts/webshortcuts.desktop:90
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -76,7 +76,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:113
+#: src/kcms/webshortcuts/webshortcuts.desktop:115
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -91,7 +91,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Fetchmail ৰ বিন্যাস"
 
-#: src/kpac/proxyscout.desktop:37
+#: src/kpac/proxyscout.desktop:38
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr ""
@@ -104,32 +104,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Fetchmail ৰ বিন্যাস"
 
-#: src/kpac/proxyscout.notifyrc:39
+#: src/kpac/proxyscout.notifyrc:40
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:75
+#: src/kpac/proxyscout.notifyrc:77
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:115
+#: src/kpac/proxyscout.notifyrc:118
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:151
+#: src/kpac/proxyscout.notifyrc:155
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:192
+#: src/kpac/proxyscout.notifyrc:197
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:226
+#: src/kpac/proxyscout.notifyrc:232
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr ""
@@ -149,7 +149,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: src/kssld/kssld.desktop:42
+#: src/kssld/kssld.desktop:43
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
