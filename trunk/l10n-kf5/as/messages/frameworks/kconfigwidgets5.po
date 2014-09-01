@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-12 11:32+0000\n"
+"POT-Creation-Date: 2014-09-01 07:56+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -62,39 +62,39 @@ msgstr "কোনো নিবেশ উপস্থিত নাই"
 msgid "Clear List"
 msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
 
-#: kstandardaction.cpp:89
+#: kstandardaction.cpp:116
 msgctxt "go back"
 msgid "&Back"
 msgstr "পূৰ্ববৰ্তী (&B)"
 
-#: kstandardaction.cpp:96
+#: kstandardaction.cpp:123
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "পৰবৰ্তী পদক্ষেপ (&F)"
 
-#: kstandardaction.cpp:103
+#: kstandardaction.cpp:130
 msgctxt "home page"
 msgid "&Home"
 msgstr "প্ৰথম পৃষ্ঠা (&H)"
 
-#: kstandardaction.cpp:106
+#: kstandardaction.cpp:133
 msgctxt "show help"
 msgid "&Help"
 msgstr "সহায় (&H)"
 
-#: kstandardaction.cpp:522 kstandardaction_p.h:96
+#: kstandardaction.cpp:549 kstandardaction_p.h:96
 msgid "Show &Menubar"
 msgstr "তালিকাৰ বাৰ প্ৰদৰ্শন (&M)"
 
-#: kstandardaction.cpp:528
+#: kstandardaction.cpp:555
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 
-#: kstandardaction.cpp:546 kstandardaction_p.h:98
+#: kstandardaction.cpp:573 kstandardaction_p.h:98
 msgid "Show St&atusbar"
 msgstr "অৱস্থাৰ বাৰ প্ৰদৰ্শন (&a)"
 
-#: kstandardaction.cpp:549
+#: kstandardaction.cpp:576
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
 "window used for status information.</p>"
