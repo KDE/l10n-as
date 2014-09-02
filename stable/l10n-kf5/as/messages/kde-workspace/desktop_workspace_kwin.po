@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-25 08:59+0000\n"
+"POT-Creation-Date: 2014-09-02 11:11+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -247,12 +247,12 @@ msgctxt "Name"
 msgid "Desktop Effects"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kcmkwineffects.desktop:49
+#: kcmkwin/kwincompositing/kcmkwineffects.desktop:50
 msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kcmkwineffects.desktop:77
+#: kcmkwin/kwincompositing/kcmkwineffects.desktop:79
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
@@ -279,12 +279,12 @@ msgctxt "Name"
 msgid "Compositor"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kwincompositing.desktop:47
+#: kcmkwin/kwincompositing/kwincompositing.desktop:48
 msgctxt "Comment"
 msgid "Compositor Settings for Desktop Effects"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kwincompositing.desktop:74
+#: kcmkwin/kwincompositing/kwincompositing.desktop:76
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
@@ -304,7 +304,7 @@ msgctxt "Comment"
 msgid "Look and Feel of Window Titles"
 msgstr ""
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:103
+#: kcmkwin/kwindecoration/kwindecoration.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
@@ -324,7 +324,7 @@ msgctxt "Comment"
 msgid "Navigation, Number and Layout of Virtual Desktops"
 msgstr ""
 
-#: kcmkwin/kwindesktop/desktop.desktop:101
+#: kcmkwin/kwindesktop/desktop.desktop:102
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -344,7 +344,7 @@ msgctxt "Comment"
 msgid "Mouse Actions on Windows"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:129
+#: kcmkwin/kwinoptions/kwinactions.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
