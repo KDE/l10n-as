@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-15 07:57+0000\n"
+"POT-Creation-Date: 2014-09-16 09:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -67,7 +67,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:28
+#: applets/clipboard/metadata.desktop:29
 msgctxt "Comment"
 msgid "Provides access to the clipboard history."
 msgstr ""
@@ -1088,7 +1088,7 @@ msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:28
+#: klipper/plasma-dataengine-clipboard.desktop:29
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""
@@ -1745,7 +1745,7 @@ msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr "ডেস্কট'প"
 
-#: plasma-windowed/plasma-windowed.desktop:25
+#: plasma-windowed/plasma-windowed.desktop:26
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr ""
