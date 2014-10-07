@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-29 07:45+0000\n"
+"POT-Creation-Date: 2014-10-07 10:10+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -496,6 +496,12 @@ msgstr "পৰবৰ্তী"
 msgid "Finish"
 msgstr "সমাপ্ত"
 
+#: uploaddialog.cpp:173
+#, fuzzy
+#| msgid "Provider information"
+msgid "Fetching provider information..."
+msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
+
 #: uploaddialog.cpp:180
 msgid "Fetching license data from server..."
 msgstr ""
@@ -503,6 +509,12 @@ msgstr ""
 #: uploaddialog.cpp:187
 msgid "Fetching content data from server..."
 msgstr ""
+
+#: uploaddialog.cpp:262
+#, fuzzy
+#| msgid "Provider information"
+msgid "Could not fetch provider information."
+msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
 
 #: uploaddialog.cpp:286
 msgid "Register a new account"
@@ -9587,11 +9599,6 @@ msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
 #~| msgid "&Replace..."
 #~ msgid "Upload..."
 #~ msgstr "প্ৰতিস্থাপন...(&R)"
-
-#, fuzzy
-#~| msgid "Provider information"
-#~ msgid "Fetching provider information..."
-#~ msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
 
 #, fuzzy
 #~| msgid "The rating could not be submitted."
