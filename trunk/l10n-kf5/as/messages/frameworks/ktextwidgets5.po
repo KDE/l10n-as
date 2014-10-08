@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-06 08:12+0000\n"
+"POT-Creation-Date: 2014-10-08 07:50+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -581,13 +581,13 @@ msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 msgid "Allow Tabulations"
 msgstr ""
 
-#: widgets/ktextedit.cpp:579
+#: widgets/ktextedit.cpp:581
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
 
-#: widgets/ktextedit.cpp:593
+#: widgets/ktextedit.cpp:597
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
