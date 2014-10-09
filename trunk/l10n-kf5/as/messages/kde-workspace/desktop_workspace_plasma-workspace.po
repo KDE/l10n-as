@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-05 08:21+0000\n"
+"POT-Creation-Date: 2014-10-09 08:05+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1419,7 +1419,7 @@ msgid "KDE's Progress Info UI server"
 msgstr ""
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:65
+#: lookandfeel/metadata.desktop:66
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
@@ -1434,7 +1434,7 @@ msgctxt "Comment"
 msgid "Breeze Desktop Design Language by the KDE VDG"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:30
+#: lookandfeel/metadata.desktop:31
 msgctxt "Keywords"
 msgid ""
 "Desktop, Workspace, Appearance, Look and Feel, Logout, Lock, Suspend, "
@@ -1745,7 +1745,7 @@ msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr "ডেস্কট'প"
 
-#: plasma-windowed/plasma-windowed.desktop:29
+#: plasma-windowed/plasma-windowed.desktop:30
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr ""
