@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-24 08:19+0000\n"
+"POT-Creation-Date: 2014-10-26 08:04+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -294,12 +294,12 @@ msgctxt "Name"
 msgid "File Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/baloo/kcm_baloofile.desktop:30
+#: kcms/baloo/kcm_baloofile.desktop:31
 msgctxt "Comment"
 msgid "Configure File Search"
 msgstr ""
 
-#: kcms/baloo/kcm_baloofile.desktop:45
+#: kcms/baloo/kcm_baloofile.desktop:47
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo"
 msgstr ""
