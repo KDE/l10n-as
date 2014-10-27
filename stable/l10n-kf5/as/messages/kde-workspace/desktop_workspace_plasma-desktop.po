@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-26 09:11+0000\n"
+"POT-Creation-Date: 2014-10-27 09:06+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Icons-only Task Manager"
 msgstr ""
 
-#: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:23
+#: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:24
 #: applets/taskmanager/package/metadata.desktop:83
 msgctxt "Comment"
 msgid "Switch between running applications"
@@ -262,7 +262,7 @@ msgctxt "Comment"
 msgid "Accessibility Options"
 msgstr "অভিগম্যতা"
 
-#: kcms/access/kcmaccess.desktop:132
+#: kcms/access/kcmaccess.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid ""
 "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
@@ -844,7 +844,7 @@ msgctxt "Comment"
 msgid "Test Look and Feel package"
 msgstr ""
 
-#: kcms/lookandfeel/autotests/lookandfeel/metadata.desktop:24
+#: kcms/lookandfeel/autotests/lookandfeel/metadata.desktop:25
 msgctxt "Name"
 msgid "Test"
 msgstr ""
@@ -855,17 +855,17 @@ msgctxt "Name"
 msgid "Look And Feel"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:36
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:37
 msgctxt "Comment"
 msgid "Look And Feel"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:57
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:59
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
 
-#: kcms/lookandfeel/package/metadata.desktop:23
+#: kcms/lookandfeel/package/metadata.desktop:24
 msgctxt "Comment"
 msgid "Configure The Look And feel of the Desktop"
 msgstr ""
