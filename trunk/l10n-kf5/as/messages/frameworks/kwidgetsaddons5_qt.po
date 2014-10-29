@@ -1386,21 +1386,21 @@ msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Specials"
 msgstr "বিশেষ"
 
-#: kcharselect.cpp:355 kcharselect.cpp:357
+#: kcharselect.cpp:358 kcharselect.cpp:360
 #, fuzzy
 #| msgid "Enter a search term or character here"
 msgctxt "KCharSelect|"
 msgid "Enter a search term or character here"
 msgstr "অনুসন্ধানৰ বাবে কোনো অভিব্যক্তি বা অক্ষৰ ইয়াত লিখক"
 
-#: kcharselect.cpp:362
+#: kcharselect.cpp:365
 #, fuzzy
 #| msgid "&Find..."
 msgctxt "KCharSelect|"
 msgid "&Find..."
 msgstr "অনুসন্ধান...(&F)"
 
-#: kcharselect.cpp:383
+#: kcharselect.cpp:385
 #, fuzzy
 #| msgctxt "@action"
 #| msgid "Previous Item in List"
@@ -1408,14 +1408,14 @@ msgctxt "KCharSelect|Goes to previous character"
 msgid "Previous in History"
 msgstr "তালিকাত উপস্থিত পূৰ্ববৰ্তী বস্তু"
 
-#: kcharselect.cpp:385
+#: kcharselect.cpp:387
 #, fuzzy
 #| msgid "Previous Character"
 msgctxt "KCharSelect|"
 msgid "Previous Character in History"
 msgstr "পূৰ্ববৰ্তী অক্ষৰ"
 
-#: kcharselect.cpp:390
+#: kcharselect.cpp:392
 #, fuzzy
 #| msgctxt "@action"
 #| msgid "Next Item in List"
@@ -1423,21 +1423,21 @@ msgctxt "KCharSelect|Goes to next character"
 msgid "Next in History"
 msgstr "তালিকাত উপস্থিত পৰবৰ্তী বস্তু"
 
-#: kcharselect.cpp:392
+#: kcharselect.cpp:394
 #, fuzzy
 #| msgid "Next Character"
 msgctxt "KCharSelect|"
 msgid "Next Character in History"
 msgstr "পৰবৰ্তী অক্ষৰ"
 
-#: kcharselect.cpp:397
+#: kcharselect.cpp:399
 #, fuzzy
 #| msgid "&Back"
 msgctxt "KCharSelect|go back"
 msgid "&Back"
 msgstr "পূৰ্ববৰ্তী (&B)"
 
-#: kcharselect.cpp:405
+#: kcharselect.cpp:406
 #, fuzzy
 #| msgctxt "go forward"
 #| msgid "&Forward"
