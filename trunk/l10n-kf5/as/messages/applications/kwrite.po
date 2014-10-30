@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-12 08:09+0000\n"
+"POT-Creation-Date: 2014-10-30 08:00+0000\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -147,278 +147,278 @@ msgstr "সহায় (&H)"
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
 
-#: main.cpp:49
+#: main.cpp:54
 msgid "KWrite"
 msgstr "KWrite"
 
-#: main.cpp:51
+#: main.cpp:56
 msgid "KWrite - Text Editor"
 msgstr "KWrite - লিখনী সম্পাদক"
 
-#: main.cpp:52
+#: main.cpp:57
 #, fuzzy
 #| msgid "(c) 2000-2010 The Kate Authors"
 msgid "(c) 2000-2014 The Kate Authors"
 msgstr "(c) ২০০০-২০১০  Kate লিখকসমূহ"
 
-#: main.cpp:59
+#: main.cpp:64
 msgid "Christoph Cullmann"
 msgstr "Christoph Cullmann"
 
-#: main.cpp:59
+#: main.cpp:64
 msgid "Maintainer"
 msgstr "পৰিচালক"
 
-#: main.cpp:60
+#: main.cpp:65
 msgid "Anders Lund"
 msgstr "Anders Lund"
 
-#: main.cpp:60 main.cpp:61 main.cpp:62 main.cpp:68
+#: main.cpp:65 main.cpp:66 main.cpp:67 main.cpp:73
 msgid "Core Developer"
 msgstr "মূল বিকাশক"
 
-#: main.cpp:61
+#: main.cpp:66
 msgid "Joseph Wenninger"
 msgstr "Joseph Wenninger"
 
-#: main.cpp:62
+#: main.cpp:67
 msgid "Hamish Rodda"
 msgstr "Hamish Rodda"
 
-#: main.cpp:63
+#: main.cpp:68
 msgid "Dominik Haumann"
 msgstr "Dominik Haumann"
 
-#: main.cpp:63
+#: main.cpp:68
 msgid "Developer & Highlight wizard"
 msgstr "বিকাশক & আলোকপাতৰ ৱিজাৰ্ড"
 
-#: main.cpp:64
+#: main.cpp:69
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
 
-#: main.cpp:64
+#: main.cpp:69
 msgid "The cool buffersystem"
 msgstr "The cool buffersystem"
 
-#: main.cpp:65
+#: main.cpp:70
 msgid "Charles Samuels"
 msgstr "Charles Samuels"
 
-#: main.cpp:65
+#: main.cpp:70
 msgid "The Editing Commands"
 msgstr "সম্পাদনৰ আদেশ"
 
-#: main.cpp:66
+#: main.cpp:71
 msgid "Matt Newell"
 msgstr "Matt Newell"
 
-#: main.cpp:66
+#: main.cpp:71
 msgctxt ""
 "Credit text for someone that did testing and some other similar things"
 msgid "Testing, ..."
 msgstr "পৰীক্ষা কৰা, ..."
 
-#: main.cpp:67
+#: main.cpp:72
 msgid "Michael Bartl"
 msgstr "Michael Bartl"
 
-#: main.cpp:67
+#: main.cpp:72
 msgid "Former Core Developer"
 msgstr "আগৰ মূল বিকাশক"
 
-#: main.cpp:68
+#: main.cpp:73
 msgid "Michael McCallum"
 msgstr "Michael McCallum"
 
-#: main.cpp:69
+#: main.cpp:74
 msgid "Jochen Wilhemly"
 msgstr "Jochen Wilhemly"
 
-#: main.cpp:69
+#: main.cpp:74
 msgid "KWrite Author"
 msgstr "KWrite লেখক"
 
-#: main.cpp:70
+#: main.cpp:75
 msgid "Michael Koch"
 msgstr "Michael Koch"
 
-#: main.cpp:70
+#: main.cpp:75
 msgid "KWrite port to KParts"
 msgstr "KParts লৈ KWrite ক প'ৰ্ট কৰা"
 
-#: main.cpp:71
+#: main.cpp:76
 msgid "Christian Gebauer"
 msgstr "Christian Gebauer"
 
-#: main.cpp:72
+#: main.cpp:77
 msgid "Simon Hausmann"
 msgstr "Simon Hausmann"
 
-#: main.cpp:73
+#: main.cpp:78
 msgid "Glen Parker"
 msgstr "Glen Parker"
 
-#: main.cpp:73
+#: main.cpp:78
 msgid "KWrite Undo History, Kspell integration"
 msgstr "KWrite Undo History, Kspell integration"
 
-#: main.cpp:74
+#: main.cpp:79
 msgid "Scott Manson"
 msgstr "Scott Manson"
 
-#: main.cpp:74
+#: main.cpp:79
 msgid "KWrite XML Syntax highlighting support"
 msgstr "KWrite XML Syntax highlighting ৰ সমৰ্থন"
 
-#: main.cpp:75
+#: main.cpp:80
 msgid "John Firebaugh"
 msgstr "John Firebaugh"
 
-#: main.cpp:75
+#: main.cpp:80
 msgid "Patches and more"
 msgstr "Patches আৰু তাৰ অধিক"
 
-#: main.cpp:76
+#: main.cpp:81
 msgid "Gerald Senarclens de Grancy"
 msgstr ""
 
-#: main.cpp:76
+#: main.cpp:81
 msgid "QA and Scripting"
 msgstr ""
 
-#: main.cpp:78
+#: main.cpp:83
 msgid "Matteo Merli"
 msgstr "Matteo Merli"
 
-#: main.cpp:78
+#: main.cpp:83
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr "RPM Spec-Files, Perl, Diff আৰু তাৰ অধিকৰ বাবে আলোকপাত কৰা"
 
-#: main.cpp:79
+#: main.cpp:84
 msgid "Rocky Scaletta"
 msgstr "Rocky Scaletta"
 
-#: main.cpp:79
+#: main.cpp:84
 msgid "Highlighting for VHDL"
 msgstr "VHDL ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:80
+#: main.cpp:85
 msgid "Yury Lebedev"
 msgstr "Yury Lebedev"
 
-#: main.cpp:80
+#: main.cpp:85
 msgid "Highlighting for SQL"
 msgstr "SQL ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:81
+#: main.cpp:86
 msgid "Chris Ross"
 msgstr "Chris Ross"
 
-#: main.cpp:81
+#: main.cpp:86
 msgid "Highlighting for Ferite"
 msgstr "Ferite ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:82
+#: main.cpp:87
 msgid "Nick Roux"
 msgstr "Nick Roux"
 
-#: main.cpp:82
+#: main.cpp:87
 msgid "Highlighting for ILERPG"
 msgstr "ILERPG ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:83
+#: main.cpp:88
 msgid "Carsten Niehaus"
 msgstr "Carsten Niehaus"
 
-#: main.cpp:83
+#: main.cpp:88
 msgid "Highlighting for LaTeX"
 msgstr "LaTeX ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:84
+#: main.cpp:89
 msgid "Per Wigren"
 msgstr "Per Wigren"
 
-#: main.cpp:84
+#: main.cpp:89
 msgid "Highlighting for Makefiles, Python"
 msgstr "Makefiles, Python ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:85
+#: main.cpp:90
 msgid "Jan Fritz"
 msgstr "Jan Fritz"
 
-#: main.cpp:85
+#: main.cpp:90
 msgid "Highlighting for Python"
 msgstr "Python ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:86
+#: main.cpp:91
 msgid "Daniel Naber"
 msgstr "Daniel Naber"
 
-#: main.cpp:87
+#: main.cpp:92
 msgid "Roland Pabel"
 msgstr "Roland Pabel"
 
-#: main.cpp:87
+#: main.cpp:92
 msgid "Highlighting for Scheme"
 msgstr "Scheme ৰ কাৰণে আলোকপাত কৰা"
 
-#: main.cpp:88
+#: main.cpp:93
 msgid "Cristi Dumitrescu"
 msgstr "Cristi Dumitrescu"
 
-#: main.cpp:88
+#: main.cpp:93
 msgid "PHP Keyword/Datatype list"
 msgstr "PHP Keyword/Datatype তালিকা"
 
-#: main.cpp:89
+#: main.cpp:94
 msgid "Carsten Pfeiffer"
 msgstr "Carsten Pfeiffer"
 
-#: main.cpp:89
+#: main.cpp:94
 msgctxt "Credit text for someone that helped a lot"
 msgid "Very nice help"
 msgstr "বৰ সুন্দৰ সহায়"
 
-#: main.cpp:90
+#: main.cpp:95
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "যি সকলে অংশ লৈছে আৰু যাৰ নাম মই ল'বলৈ পাহৰিলো"
 
-#: main.cpp:125
+#: main.cpp:130
 #, fuzzy
 #| msgid "Set encoding for the file to open"
 msgid "Set encoding for the file to open."
 msgstr "খুলিব লগা নথিপত্ৰৰ এঙ্কোডিং প্ৰতিষ্ঠা কৰক"
 
-#: main.cpp:129
+#: main.cpp:134
 #, fuzzy
 #| msgid "Navigate to this line"
 msgid "Navigate to this line."
 msgstr "এই শাৰীলৈ যাওক"
 
-#: main.cpp:133
+#: main.cpp:138
 #, fuzzy
 #| msgid "Navigate to this column"
 msgid "Navigate to this column."
 msgstr "এই স্তম্ভলৈ যাওক"
 
-#: main.cpp:137
+#: main.cpp:142
 #, fuzzy
 #| msgid "Read the contents of stdin"
 msgid "Read the contents of stdin."
 msgstr "stdin ৰ বিষয়বস্তু পঢ়ক"
 
-#: main.cpp:141
+#: main.cpp:146
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
-#: main.cpp:145
+#: main.cpp:150
 #, fuzzy
 #| msgid "Document to open"
 msgid "Documents to open."
 msgstr "খুলিব লগা আলেখ্যন"
 
-#: main.cpp:233
+#: main.cpp:238
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
