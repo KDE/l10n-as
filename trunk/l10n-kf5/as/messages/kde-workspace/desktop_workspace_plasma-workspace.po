@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-05 07:55+0000\n"
+"POT-Creation-Date: 2014-11-06 08:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -67,7 +67,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:33
+#: applets/clipboard/metadata.desktop:34
 msgctxt "Comment"
 msgid "Provides access to the clipboard history."
 msgstr ""
@@ -1071,7 +1071,7 @@ msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:33
+#: klipper/plasma-dataengine-clipboard.desktop:34
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""
@@ -1402,7 +1402,7 @@ msgid "KDE's Progress Info UI server"
 msgstr ""
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:70
+#: lookandfeel/metadata.desktop:71
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
@@ -1417,7 +1417,7 @@ msgctxt "Comment"
 msgid "Breeze Desktop Design Language by the KDE VDG"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:33
+#: lookandfeel/metadata.desktop:34
 msgctxt "Keywords"
 msgid ""
 "Desktop, Workspace, Appearance, Look and Feel, Logout, Lock, Suspend, "
@@ -1728,7 +1728,7 @@ msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr "ডেস্কট'প"
 
-#: plasma-windowed/plasma-windowed.desktop:32
+#: plasma-windowed/plasma-windowed.desktop:33
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr ""
