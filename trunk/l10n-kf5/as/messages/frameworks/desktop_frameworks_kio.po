@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-29 07:57+0000\n"
+"POT-Creation-Date: 2014-12-02 10:04+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -64,12 +64,12 @@ msgid "KTelnetService"
 msgstr "সেৱা"
 
 #: src/ioslaves/trash/kcmtrash.desktop:1
-#: src/ioslaves/trash/kcmtrash.desktop:166
+#: src/ioslaves/trash/kcmtrash.desktop:168
 msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: src/ioslaves/trash/kcmtrash.desktop:79
+#: src/ioslaves/trash/kcmtrash.desktop:80
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -77,7 +77,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the trash."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: src/ioslaves/trash/kcmtrash.desktop:244
+#: src/ioslaves/trash/kcmtrash.desktop:247
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -85,7 +85,7 @@ msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/ioslaves/trash/kcmtrash.desktop:321
+#: src/ioslaves/trash/kcmtrash.desktop:325
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr ""
