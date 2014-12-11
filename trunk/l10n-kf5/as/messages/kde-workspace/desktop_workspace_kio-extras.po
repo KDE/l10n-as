@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-04 08:19+0000\n"
+"POT-Creation-Date: 2014-12-11 07:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -61,6 +61,22 @@ msgstr ""
 msgctxt "Name"
 msgid "KManPart"
 msgstr ""
+
+#: mtp/mtp-network.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "MTP Devices"
+msgstr "যন্ত্ৰ"
+
+#: mtp/solid_mtp.desktop:9
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #: network/ioslave/network.desktop:7
 #: network/ioslave/virtualfolder_network.desktop:7
@@ -5406,13 +5422,6 @@ msgstr ""
 #~ msgid "Panel toolbox"
 #~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
-#, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "File Manager"
-#~ msgctxt "Name"
-#~ msgid "Open with File Manager"
-#~ msgstr "নথিপত্ৰৰ পৰিচালক"
-
 #~ msgctxt "Name"
 #~ msgid "Icon"
 #~ msgstr "আইকন"
@@ -5585,13 +5594,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Terminate Applications"
 #~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
-#~ msgctxt "Name|plasma runner"
-#~ msgid "Devices"
-#~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
 #~| msgctxt "Name"
