@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-02 06:29+0000\n"
+"POT-Creation-Date: 2014-12-21 05:33+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -9526,7 +9526,7 @@ msgstr[1] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: khtml/html/html_formimpl.cpp:2709
+#: khtml/html/html_formimpl.cpp:2706
 msgid "Key Generator"
 msgstr "চাবি নিৰ্মাণ ব্যৱস্থা"
 
