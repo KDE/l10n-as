@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-10 07:54+0000\n"
+"POT-Creation-Date: 2014-12-31 08:02+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -39,7 +39,7 @@ msgstr ""
 #| msgctxt "Name"
 #| msgid "Science"
 msgctxt "Name"
-msgid "Battery & Brightness"
+msgid "Battery and Brightness"
 msgstr "বিজ্ঞান"
 
 #: applets/batterymonitor/package/metadata.desktop:41
@@ -1392,7 +1392,7 @@ msgid "KDE's Progress Info UI server"
 msgstr ""
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:55
+#: lookandfeel/metadata.desktop:56
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
