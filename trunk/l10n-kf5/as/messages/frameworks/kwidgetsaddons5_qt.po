@@ -2400,6 +2400,16 @@ msgstr ""
 "\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো পৰিবৰ্তন "
 "কৰা যাব ।"
 
+#: kled.cpp:195
+msgctxt "KLed|Accessible name of a Led whose state is on"
+msgid "LED on"
+msgstr ""
+
+#: kled.cpp:196
+msgctxt "KLed|Accessible name of a Led whose state is off"
+msgid "LED off"
+msgstr ""
+
 #: kmessagewidget.cpp:90
 #, fuzzy
 #| msgid "&Close"
