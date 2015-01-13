@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-29 09:04+0000\n"
+"POT-Creation-Date: 2014-09-29 07:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -36,8 +36,6 @@ msgstr ""
 
 #: data/defaults.khotkeys:229
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "PHP Search"
 msgctxt "Name"
 msgid "Search"
 msgstr "PHP Search"
@@ -139,8 +137,6 @@ msgstr ""
 
 #: data/kde32b1.khotkeys:1256
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Qt Designer"
 msgctxt "Comment"
 msgid "Qt Designer"
 msgstr "Qt Designer"
@@ -444,16 +440,12 @@ msgstr "PrintScreen"
 
 #: kcm_hotkeys/khotkeys.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Shortcuts"
 msgctxt "Name"
 msgid "Custom Shortcuts"
 msgstr "ৱেবৰ চমু পথ"
 
 #: kcm_hotkeys/khotkeys.desktop:77
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure web cache settings"
 msgctxt "Comment"
 msgid "Configure Input Actions settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"

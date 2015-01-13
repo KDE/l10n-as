@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: htmlsearch\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:56+0000\n"
+"POT-Creation-Date: 2014-10-24 08:11+0000\n"
 "PO-Revision-Date: 2009-01-05 15:46+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -25,7 +25,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: htmlsearch.cpp:118
+#: htmlsearch.cpp:119
 msgctxt "List of words to exclude from index"
 msgid ""
 "above:about:according:across:actually:\n"
@@ -95,23 +95,23 @@ msgstr "সহায় নথিপত্ৰৰ বাবে KDE চাবি ন�
 msgid "The language to index"
 msgstr "সূচিপত্ৰ কৰিব লগা ভাষা"
 
-#: progressdialog.cpp:11
+#: progressdialog.cpp:15
 msgid "Generating Index"
 msgstr ""
 
-#: progressdialog.cpp:20
+#: progressdialog.cpp:32
 msgid "Scanning for files"
 msgstr ""
 
-#: progressdialog.cpp:30
+#: progressdialog.cpp:42
 msgid "Extracting search terms"
 msgstr ""
 
-#: progressdialog.cpp:39
+#: progressdialog.cpp:51
 msgid "Generating index..."
 msgstr ""
 
-#: progressdialog.cpp:53
+#: progressdialog.cpp:65
 #, kde-format
 msgid "Files processed: %1"
 msgstr ""

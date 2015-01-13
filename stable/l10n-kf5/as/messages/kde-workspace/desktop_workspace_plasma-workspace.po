@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-07 09:37+0000\n"
+"POT-Creation-Date: 2015-01-09 08:40+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -36,21 +36,17 @@ msgstr ""
 
 #: applets/batterymonitor/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
 msgctxt "Name"
-msgid "Battery & Brightness"
+msgid "Battery and Brightness"
 msgstr "বিজ্ঞান"
 
-#: applets/batterymonitor/package/metadata.desktop:41
+#: applets/batterymonitor/package/metadata.desktop:22
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:115
+#: applets/batterymonitor/package/metadata.desktop:96
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
 msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
@@ -67,7 +63,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:29
+#: applets/clipboard/metadata.desktop:36
 msgctxt "Comment"
 msgid "Provides access to the clipboard history."
 msgstr ""
@@ -84,8 +80,6 @@ msgstr ""
 
 #: applets/devicenotifier/test-predicate-openinwindow.desktop:7
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
 msgctxt "Name"
 msgid "Open with File Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
@@ -127,16 +121,12 @@ msgstr ""
 
 #: applets/mediacontroller/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Multimedia Player"
 msgctxt "Name"
 msgid "Media Player"
 msgstr "Multimedia Player"
 
 #: applets/mediacontroller/metadata.desktop:42
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Multimedia Player"
 msgctxt "Comment"
 msgid "Media Player Controls"
 msgstr "Multimedia Player"
@@ -173,8 +163,6 @@ msgstr ""
 
 #: applets/system-monitor/plasma-applet-sm_cpu.desktop:3
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Monitor"
 msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
@@ -186,8 +174,6 @@ msgstr ""
 
 #: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
 msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
@@ -219,8 +205,6 @@ msgstr ""
 
 #: applets/system-monitor/plasma-applet-sm_net.desktop:3
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Network Monitor"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
@@ -232,8 +216,6 @@ msgstr ""
 
 #: applets/system-monitor/plasma-applet-sm_ram.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Samba Status"
 msgctxt "Name"
 msgid "Memory Status"
 msgstr "Samba ৰ অৱস্থা"
@@ -274,20 +256,8 @@ msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr ""
 
-#: applets/webbrowser/plasma-applet-webbrowser.desktop:3
-msgctxt "Name"
-msgid "Web Browser"
-msgstr ""
-
-#: applets/webbrowser/plasma-applet-webbrowser.desktop:95
-msgctxt "Comment"
-msgid "A simple web browser"
-msgstr ""
-
 #: appmenu/appmenu.desktop:3
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Partition information"
 msgctxt "Name"
 msgid "Application menus daemon"
 msgstr "বিভাজনৰ তথ্য"
@@ -304,8 +274,6 @@ msgstr ""
 
 #: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:90
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Comment"
 msgid "Simple application launcher"
 msgstr "অনুপ্ৰয়োগ"
@@ -327,8 +295,6 @@ msgstr ""
 
 #: containmentactions/paste/plasma-containmentactions-paste.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Pose"
 msgctxt "Name"
 msgid "Paste"
 msgstr "Pose"
@@ -350,8 +316,6 @@ msgstr ""
 
 #: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "Switch Desktop"
 msgstr "ডেস্কট'প"
@@ -363,8 +327,6 @@ msgstr ""
 
 #: containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "Switch Window"
 msgstr "MS Windows 9x"
@@ -376,16 +338,12 @@ msgstr ""
 
 #: dataengines/activities/plasma-dataengine-activities.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Contact Manager"
 msgctxt "Name"
 msgid "Activities Engine"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
 #: dataengines/activities/plasma-dataengine-activities.desktop:60
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Information about available protocols"
 msgctxt "Comment"
 msgid "Information on Plasma Activities"
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
@@ -397,8 +355,6 @@ msgstr ""
 
 #: dataengines/akonadi/plasma-engine-akonadi.desktop:72
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Calendar Manager"
 msgctxt "Comment"
 msgid "Akonadi PIM data engine"
 msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
@@ -415,8 +371,6 @@ msgstr ""
 
 #: dataengines/apps/plasma-dataengine-apps.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Partition information"
 msgctxt "Name"
 msgid "Application Information"
 msgstr "বিভাজনৰ তথ্য"
@@ -428,16 +382,12 @@ msgstr ""
 
 #: dataengines/calendar/plasma-dataengine-calendar.desktop:80
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Calendar Manager"
 msgctxt "Comment"
 msgid "Calendar data engine"
 msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
 msgctxt "Name"
 msgid "Device Notifications"
 msgstr "যন্ত্ৰ"
@@ -484,16 +434,12 @@ msgstr ""
 
 #: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:78
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Information about available protocols"
 msgctxt "Comment"
 msgid "Information about files and directories."
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
 #: dataengines/geolocation/plasma-dataengine-geolocation.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application"
 msgctxt "Name"
 msgid "Geolocation"
 msgstr "অনুপ্ৰয়োগ"
@@ -611,8 +557,6 @@ msgstr ""
 
 #: dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
 msgctxt "Name|plasma data engine"
 msgid "Power Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
@@ -744,8 +688,6 @@ msgstr ""
 
 #: dataengines/share/packagestructure/plasma-packagestructure-share.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "ShareProvider"
 msgstr "সেৱা"
@@ -757,8 +699,6 @@ msgstr ""
 
 #: dataengines/share/plasma-dataengine-share.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "Share Services"
 msgstr "সেৱা"
@@ -780,8 +720,6 @@ msgstr ""
 
 #: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Process Information"
 msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
@@ -795,8 +733,6 @@ msgstr ""
 
 #: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:87
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Process Information"
 msgctxt "Comment"
 msgid "System status information"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
@@ -818,8 +754,6 @@ msgstr "তাৰিখ আৰু সময়"
 
 #: dataengines/time/plasma-dataengine-time.desktop:81
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Date and Time"
 msgctxt "Comment"
 msgid "Date and time by timezone"
 msgstr "তাৰিখ আৰু সময়"
@@ -836,8 +770,6 @@ msgstr ""
 
 #: dataengines/weather/ions/debianweather/ion-debianweather.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Debian Package Search"
 msgctxt "Name"
 msgid "Debian Weather Service"
 msgstr "Debian Package Search"
@@ -929,7 +861,7 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:134
-#: ksmserver/plasma_workspace.notifyrc:462
+#: ksmserver/plasma_workspace.notifyrc:490
 msgctxt "Name"
 msgid "Warning"
 msgstr "সতৰ্কবাণী"
@@ -947,23 +879,6 @@ msgstr ""
 #: freespacenotifier/freespacenotifier.notifyrc:359
 msgctxt "Comment"
 msgid "You are running low on disk space"
-msgstr ""
-
-#: kcms/splash/kcm_splashscreen.desktop:15
-#: kcms/splash/package/metadata.desktop:2
-msgctxt "Name"
-msgid "Splash Screen"
-msgstr ""
-
-#: kcms/splash/kcm_splashscreen.desktop:100
-#: kcms/splash/package/metadata.desktop:87
-msgctxt "Comment"
-msgid "Splash Screen Theme"
-msgstr ""
-
-#: kcms/splash/kcm_splashscreen.desktop:126
-msgctxt "X-KDE-Keywords"
-msgid "splash screen,splash theme,startup"
 msgstr ""
 
 #: kglobalaccel/kglobalaccel.desktop:10
@@ -1088,7 +1003,7 @@ msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:29
+#: klipper/plasma-dataengine-clipboard.desktop:36
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""
@@ -1100,179 +1015,173 @@ msgstr ""
 
 #: ksmserver/plasma_workspace.notifyrc:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "ডেস্কট'প"
 
-#: ksmserver/plasma_workspace.notifyrc:37
+#: ksmserver/plasma_workspace.notifyrc:40
 msgctxt "Name"
 msgid "Trash: Emptied"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:71
+#: ksmserver/plasma_workspace.notifyrc:76
 msgctxt "Comment"
 msgid "The trash has been emptied"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:109
+#: ksmserver/plasma_workspace.notifyrc:116
 msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:141
+#: ksmserver/plasma_workspace.notifyrc:150
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:179
+#: ksmserver/plasma_workspace.notifyrc:190
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:211
+#: ksmserver/plasma_workspace.notifyrc:224
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:248
+#: ksmserver/plasma_workspace.notifyrc:263
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:280
+#: ksmserver/plasma_workspace.notifyrc:297
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:318
+#: ksmserver/plasma_workspace.notifyrc:337
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:351
+#: ksmserver/plasma_workspace.notifyrc:372
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:390
+#: ksmserver/plasma_workspace.notifyrc:413
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
 msgctxt "Name"
 msgid "Notification"
 msgstr "যন্ত্ৰ"
 
-#: ksmserver/plasma_workspace.notifyrc:424
+#: ksmserver/plasma_workspace.notifyrc:450
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:549
+#: ksmserver/plasma_workspace.notifyrc:577
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:587
+#: ksmserver/plasma_workspace.notifyrc:617
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:621
+#: ksmserver/plasma_workspace.notifyrc:653
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:659
+#: ksmserver/plasma_workspace.notifyrc:693
 msgctxt "Name"
 msgid "Login"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:693
+#: ksmserver/plasma_workspace.notifyrc:729
 msgctxt "Comment"
 msgid "A new session is starting"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:730
+#: ksmserver/plasma_workspace.notifyrc:768
 msgctxt "Name"
 msgid "Logout"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:765
+#: ksmserver/plasma_workspace.notifyrc:806
 msgctxt "Comment"
 msgid "Session is exiting"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:802
+#: ksmserver/plasma_workspace.notifyrc:845
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:836
+#: ksmserver/plasma_workspace.notifyrc:881
 msgctxt "Comment"
 msgid "Plasma logout was canceled"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:871
+#: ksmserver/plasma_workspace.notifyrc:918
 msgctxt "Name"
 msgid "Print Error"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:905
+#: ksmserver/plasma_workspace.notifyrc:954
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:943
+#: ksmserver/plasma_workspace.notifyrc:994
 msgctxt "Name"
 msgid "Information Message"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:977
+#: ksmserver/plasma_workspace.notifyrc:1030
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1015
+#: ksmserver/plasma_workspace.notifyrc:1070
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Warning"
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "সতৰ্কবাণী"
 
-#: ksmserver/plasma_workspace.notifyrc:1049
+#: ksmserver/plasma_workspace.notifyrc:1107
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1087
+#: ksmserver/plasma_workspace.notifyrc:1147
 msgctxt "Name"
 msgid "Critical Message"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1120
+#: ksmserver/plasma_workspace.notifyrc:1182
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1157
+#: ksmserver/plasma_workspace.notifyrc:1221
 msgctxt "Name"
 msgid "Question"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1191
+#: ksmserver/plasma_workspace.notifyrc:1257
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1230
+#: ksmserver/plasma_workspace.notifyrc:1298
 msgctxt "Name"
 msgid "Beep"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1263
+#: ksmserver/plasma_workspace.notifyrc:1333
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr ""
@@ -1292,32 +1201,24 @@ msgstr ""
 #: ksmserver/screenlocker/kcm/package/metadata.desktop:2
 #: ksmserver/screenlocker/kcm/screenlocker.desktop:12
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "বিজ্ঞান"
 
-#: ksmserver/screenlocker/kcm/package/metadata.desktop:34
+#: ksmserver/screenlocker/kcm/package/metadata.desktop:36
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
 msgctxt "Comment"
 msgid "Screen Locking Themes"
 msgstr "বিজ্ঞান"
 
-#: ksmserver/screenlocker/kcm/screenlocker.desktop:44
+#: ksmserver/screenlocker/kcm/screenlocker.desktop:46
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
 msgctxt "Comment"
 msgid "Screen Locking Timeouts"
 msgstr "বিজ্ঞান"
 
 #: ksmserver/screenlocker/kscreenlocker.notifyrc:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
 msgctxt "Comment"
 msgid "Screen Saver"
 msgstr "বিজ্ঞান"
@@ -1334,8 +1235,6 @@ msgstr ""
 
 #: ksmserver/screenlocker/kscreenlocker.notifyrc:206
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Science"
 msgctxt "Name"
 msgid "Screen locked"
 msgstr "বিজ্ঞান"
@@ -1392,8 +1291,6 @@ msgstr "অবিকল্পিত"
 
 #: ksmserver/themes/default/metadata.desktop:94
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Comment"
 msgid "Default Plasma Desktop theme"
 msgstr "ডেস্কট'প"
@@ -1419,12 +1316,12 @@ msgid "KDE's Progress Info UI server"
 msgstr ""
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:49
+#: lookandfeel/metadata.desktop:58
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
 
-#: lookandfeel/contents/loginmanager/metadata.desktop:34
+#: lookandfeel/contents/loginmanager/metadata.desktop:36
 msgctxt "Description"
 msgid "Breeze Theme"
 msgstr ""
@@ -1434,7 +1331,7 @@ msgctxt "Comment"
 msgid "Breeze Desktop Design Language by the KDE VDG"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:29
+#: lookandfeel/metadata.desktop:35
 msgctxt "Keywords"
 msgid ""
 "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
@@ -1443,8 +1340,6 @@ msgstr ""
 
 #: menu/desktop/hidden.directory:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "Internal Services"
 msgstr "সেৱা"
@@ -1473,8 +1368,6 @@ msgstr "সম্পাদক"
 
 #: menu/desktop/kf5-education.directory:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application"
 msgctxt "Name"
 msgid "Education"
 msgstr "অনুপ্ৰয়োগ"
@@ -1557,8 +1450,6 @@ msgstr "ইন্টাৰ্নে'ট"
 #: menu/desktop/kf5-internet-terminal.directory:4
 #: menu/desktop/kf5-system-terminal.directory:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Terminal Applications"
 msgctxt "Name"
 msgid "Terminal Applications"
 msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
@@ -1570,8 +1461,6 @@ msgstr "KDE তালিকা"
 
 #: menu/desktop/kf5-more.directory:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
 msgid "More Applications"
 msgstr "অনুপ্ৰয়োগ"
@@ -1623,32 +1512,24 @@ msgstr "অভিগম্যতা"
 
 #: menu/desktop/kf5-utilities-desktop.directory:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "Desktop"
 msgstr "ডেস্কট'প"
 
-#: menu/desktop/kf5-utilities-desktop.directory:44
+#: menu/desktop/kf5-utilities-desktop.directory:45
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Comment"
 msgid "Desktop"
 msgstr "ডেস্কট'প"
 
 #: menu/desktop/kf5-utilities.directory:4
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Contact Manager"
 msgctxt "Name"
 msgid "Utilities"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: menu/desktop/kf5-utilities.directory:45
+#: menu/desktop/kf5-utilities.directory:46
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Contact Manager"
 msgctxt "Comment"
 msgid "Utilities"
 msgstr "পৰিচয়ৰ পৰিচালক"
@@ -1658,7 +1539,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "নথিপত্ৰ"
 
-#: menu/desktop/kf5-utilities-file.directory:44
+#: menu/desktop/kf5-utilities-file.directory:45
 msgctxt "Comment"
 msgid "File"
 msgstr "নথিপত্ৰ"
@@ -1685,8 +1566,6 @@ msgstr "PIM"
 
 #: menu/desktop/kf5-utilities-xutils.directory:5
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Contact Manager"
 msgctxt "Name"
 msgid "X-Utilities"
 msgstr "পৰিচয়ৰ পৰিচালক"
@@ -1703,26 +1582,22 @@ msgstr ""
 
 #: phonon/platform_kde/phonon.notifyrc:3
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Multimedia Player"
 msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "Multimedia Player"
 
 #: phonon/platform_kde/phonon.notifyrc:71
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
 msgid "Application"
 msgstr "অনুপ্ৰয়োগ"
 
-#: phonon/platform_kde/phonon.notifyrc:110
+#: phonon/platform_kde/phonon.notifyrc:111
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:173
+#: phonon/platform_kde/phonon.notifyrc:174
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -1732,28 +1607,24 @@ msgctxt "Name"
 msgid "Plasma"
 msgstr ""
 
-#: plasma.desktop.cmake:39
+#: plasma.desktop.cmake:41
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr ""
 
 #: plasma-windowed/plasma-windowed.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr "ডেস্কট'প"
 
-#: plasma-windowed/plasma-windowed.desktop:28
+#: plasma-windowed/plasma-windowed.desktop:34
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr ""
 
 #: runners/activities/plasma-runner-activityrunner.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Contact Manager"
 msgctxt "Name"
 msgid "Activities"
 msgstr "পৰিচয়ৰ পৰিচালক"
@@ -1765,21 +1636,17 @@ msgstr ""
 
 #: runners/baloo/plasma-runner-baloosearch.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "Desktop Search"
 msgstr "ডেস্কট'প"
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:35
+#: runners/baloo/plasma-runner-baloosearch.desktop:38
 msgctxt "Comment"
 msgid "Runner which searches through files, emails and contacts"
 msgstr ""
 
 #: runners/bookmarks/plasma-runner-bookmarks.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bookmarks"
 msgctxt "Name|plasma runner"
 msgid "Bookmarks"
 msgstr "পত্ৰচিহ্ন"
@@ -1801,16 +1668,12 @@ msgstr ""
 
 #: runners/kill/plasma-runner-kill_config.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "KDE Applications"
 msgctxt "Name"
 msgid "Kill Applications"
 msgstr "KDE Applications"
 
 #: runners/kill/plasma-runner-kill.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Terminal Applications"
 msgctxt "Name"
 msgid "Terminate Applications"
 msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
@@ -1882,8 +1745,6 @@ msgstr ""
 
 #: runners/solid/plasma-runner-solid.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
 msgctxt "Name|plasma runner"
 msgid "Devices"
 msgstr "যন্ত্ৰ"
@@ -1895,8 +1756,6 @@ msgstr ""
 
 #: runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Shortcuts"
 msgctxt "Name|plasma runner"
 msgid "Web Shortcuts"
 msgstr "ৱেবৰ চমু পথ"
@@ -1908,8 +1767,6 @@ msgstr ""
 
 #: runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "Windowed widgets"
 msgstr "MS Windows 9x"
@@ -1921,8 +1778,6 @@ msgstr ""
 
 #: runners/windows/plasma-runner-windows.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
@@ -1959,8 +1814,6 @@ msgstr ""
 
 #: shell/plasmashell.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "Plasma Desktop Workspace"
 msgstr "ডেস্কট'প"
@@ -1980,7 +1833,7 @@ msgctxt "Name"
 msgid "Hardware Detection"
 msgstr ""
 
-#: soliduiserver/soliduiserver.desktop:43
+#: soliduiserver/soliduiserver.desktop:46
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
@@ -2000,7 +1853,7 @@ msgctxt "Name"
 msgid "KSysguard"
 msgstr ""
 
-#: systemmonitor/ksysguard.desktop:45
+#: systemmonitor/ksysguard.desktop:47
 msgctxt "Comment"
 msgid "Launches KSysguard on Ctrl + Escape"
 msgstr ""
@@ -2142,8 +1995,6 @@ msgstr ""
 
 #: themes/qtplastique.themerc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Pose"
 msgctxt "Name"
 msgid "Plastique"
 msgstr "Pose"
@@ -2185,8 +2036,6 @@ msgstr ""
 
 #: themes/qtwindowsvista.themerc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "MS Windows Vista"
 msgstr "MS Windows 9x"
@@ -2198,8 +2047,6 @@ msgstr ""
 
 #: themes/qtwindowsxp.themerc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "MS Windows XP"
 msgstr "MS Windows 9x"
@@ -2211,16 +2058,12 @@ msgstr ""
 
 #: wallpapers/color/metadata.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Color"
 msgctxt "Name"
 msgid "Plain Color"
 msgstr "ৰং"
 
 #: wallpapers/color/plasma-wallpaper-color.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Color"
 msgctxt "Name"
 msgid "Color"
 msgstr "ৰং"
@@ -2241,22 +2084,16 @@ msgid "Slideshow"
 msgstr ""
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Session Management"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Web Shortcuts"
 #~ msgctxt "Comment"
 #~ msgid "Global Keyboard Shortcuts"
 #~ msgstr "ৱেবৰ চমু পথ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Applications"
 #~ msgctxt "Comment"
 #~ msgid "The application name"
 #~ msgstr "অনুপ্ৰয়োগ"
