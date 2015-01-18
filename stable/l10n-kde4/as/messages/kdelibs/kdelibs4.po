@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-21 05:33+0000\n"
+"POT-Creation-Date: 2015-01-18 05:38+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1742,7 +1742,7 @@ msgstr ""
 msgid "Could not launch Terminal Client"
 msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdecore/localization/kcharsets.cpp:155
+#: kdecore/localization/kcharsets.cpp:157
 #: kdecore/localization/kencodingdetector.cpp:1149
 #: kdecore/localization/kencodingdetector.cpp:1232
 #: kdecore/localization/kencodingprober.cpp:244
@@ -1751,7 +1751,7 @@ msgctxt "@item Text character set"
 msgid "Western European"
 msgstr "পশ্চিত ইউৰোপিয়ান"
 
-#: kdecore/localization/kcharsets.cpp:161
+#: kdecore/localization/kcharsets.cpp:163
 #: kdecore/localization/kencodingdetector.cpp:1151
 #: kdecore/localization/kencodingdetector.cpp:1214
 #: kdecore/localization/kencodingprober.cpp:246
@@ -1760,7 +1760,7 @@ msgctxt "@item Text character set"
 msgid "Central European"
 msgstr "মধ্য ইউৰোপিয়ান"
 
-#: kdecore/localization/kcharsets.cpp:164
+#: kdecore/localization/kcharsets.cpp:166
 #: kdecore/localization/kencodingdetector.cpp:1161
 #: kdecore/localization/kencodingdetector.cpp:1211
 #: kdecore/localization/kencodingprober.cpp:256
@@ -1769,12 +1769,12 @@ msgctxt "@item Text character set"
 msgid "Baltic"
 msgstr "বল্টিক"
 
-#: kdecore/localization/kcharsets.cpp:167
+#: kdecore/localization/kcharsets.cpp:169
 msgctxt "@item Text character set"
 msgid "South-Eastern Europe"
 msgstr "South-Eastern Europe"
 
-#: kdecore/localization/kcharsets.cpp:170
+#: kdecore/localization/kcharsets.cpp:172
 #: kdecore/localization/kencodingdetector.cpp:1157
 #: kdecore/localization/kencodingdetector.cpp:1229
 #: kdecore/localization/kencodingprober.cpp:252
@@ -1783,7 +1783,7 @@ msgctxt "@item Text character set"
 msgid "Turkish"
 msgstr "তুৰ্কি"
 
-#: kdecore/localization/kcharsets.cpp:173
+#: kdecore/localization/kcharsets.cpp:175
 #: kdecore/localization/kencodingdetector.cpp:1147
 #: kdecore/localization/kencodingdetector.cpp:1217
 #: kdecore/localization/kencodingprober.cpp:242
@@ -1792,7 +1792,7 @@ msgctxt "@item Text character set"
 msgid "Cyrillic"
 msgstr "সিৰিলিক"
 
-#: kdecore/localization/kcharsets.cpp:179
+#: kdecore/localization/kcharsets.cpp:181
 #: kdecore/localization/kencodingdetector.cpp:1235
 #: kdecore/localization/kencodingprober.cpp:258
 #: kdecore/localization/kencodingprober.cpp:306
@@ -1800,7 +1800,7 @@ msgctxt "@item Text character set"
 msgid "Chinese Traditional"
 msgstr "পাৰম্পৰিক চীনা"
 
-#: kdecore/localization/kcharsets.cpp:182
+#: kdecore/localization/kcharsets.cpp:184
 #: kdecore/localization/kencodingdetector.cpp:1238
 #: kdecore/localization/kencodingprober.cpp:260
 #: kdecore/localization/kencodingprober.cpp:309
@@ -1808,14 +1808,14 @@ msgctxt "@item Text character set"
 msgid "Chinese Simplified"
 msgstr "সৰলিকৃত চীনা"
 
-#: kdecore/localization/kcharsets.cpp:186
+#: kdecore/localization/kcharsets.cpp:188
 #: kdecore/localization/kencodingdetector.cpp:1241
 #: kdecore/localization/kencodingprober.cpp:312
 msgctxt "@item Text character set"
 msgid "Korean"
 msgstr "কোৰিয়ান"
 
-#: kdecore/localization/kcharsets.cpp:188
+#: kdecore/localization/kcharsets.cpp:191
 #: kdecore/localization/kencodingdetector.cpp:1159
 #: kdecore/localization/kencodingdetector.cpp:1226
 #: kdecore/localization/kencodingprober.cpp:254
@@ -1824,7 +1824,7 @@ msgctxt "@item Text character set"
 msgid "Japanese"
 msgstr "জাপানি"
 
-#: kdecore/localization/kcharsets.cpp:192
+#: kdecore/localization/kcharsets.cpp:195
 #: kdecore/localization/kencodingdetector.cpp:1153
 #: kdecore/localization/kencodingdetector.cpp:1220
 #: kdecore/localization/kencodingprober.cpp:248
@@ -1833,7 +1833,7 @@ msgctxt "@item Text character set"
 msgid "Greek"
 msgstr "গ্ৰিক"
 
-#: kdecore/localization/kcharsets.cpp:195
+#: kdecore/localization/kcharsets.cpp:198
 #: kdecore/localization/kencodingdetector.cpp:1163
 #: kdecore/localization/kencodingdetector.cpp:1208
 #: kdecore/localization/kencodingprober.cpp:262
@@ -1842,7 +1842,7 @@ msgctxt "@item Text character set"
 msgid "Arabic"
 msgstr "আৰবি"
 
-#: kdecore/localization/kcharsets.cpp:198
+#: kdecore/localization/kcharsets.cpp:201
 #: kdecore/localization/kencodingdetector.cpp:1155
 #: kdecore/localization/kencodingdetector.cpp:1223
 #: kdecore/localization/kencodingprober.cpp:250
@@ -1851,14 +1851,14 @@ msgctxt "@item Text character set"
 msgid "Hebrew"
 msgstr "হিব্ৰু"
 
-#: kdecore/localization/kcharsets.cpp:203
+#: kdecore/localization/kcharsets.cpp:206
 #: kdecore/localization/kencodingdetector.cpp:1244
 #: kdecore/localization/kencodingprober.cpp:315
 msgctxt "@item Text character set"
 msgid "Thai"
 msgstr "থাই"
 
-#: kdecore/localization/kcharsets.cpp:206
+#: kdecore/localization/kcharsets.cpp:209
 #: kdecore/localization/kencodingdetector.cpp:1145
 #: kdecore/localization/kencodingdetector.cpp:1247
 #: kdecore/localization/kencodingprober.cpp:240
@@ -1867,30 +1867,30 @@ msgctxt "@item Text character set"
 msgid "Unicode"
 msgstr "Unicode"
 
-#: kdecore/localization/kcharsets.cpp:212
+#: kdecore/localization/kcharsets.cpp:215
 msgctxt "@item Text character set"
 msgid "Northern Saami"
 msgstr "Northern Saami"
 
-#: kdecore/localization/kcharsets.cpp:214
-#: kdecore/localization/kcharsets.cpp:619
+#: kdecore/localization/kcharsets.cpp:217
+#: kdecore/localization/kcharsets.cpp:626
 msgctxt "@item Text character set"
 msgid "Other"
 msgstr "অন্য"
 
-#: kdecore/localization/kcharsets.cpp:629
+#: kdecore/localization/kcharsets.cpp:636
 #, kde-format
 msgctxt "@item %1 character set, %2 encoding"
 msgid "%1 ( %2 )"
 msgstr "%1 ( %2 )"
 
-#: kdecore/localization/kcharsets.cpp:632
+#: kdecore/localization/kcharsets.cpp:639
 #, kde-format
 msgctxt "@item"
 msgid "Other encoding (%1)"
 msgstr "অন্য এন্‌কোডিং (%1)"
 
-#: kdecore/localization/kcharsets.cpp:658
+#: kdecore/localization/kcharsets.cpp:665
 #, kde-format
 msgctxt "@item Text encoding: %1 character set, %2 encoding"
 msgid "%1 ( %2 )"
