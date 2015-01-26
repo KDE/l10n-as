@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-13 12:18+0000\n"
+"POT-Creation-Date: 2015-01-26 09:37+0000\n"
 "PO-Revision-Date: 2009-01-15 15:43+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -98,12 +98,12 @@ msgstr ""
 msgid "Turn off screen"
 msgstr ""
 
-#: actions/bundled/handlebuttoneventsconfig.cpp:129
+#: actions/bundled/handlebuttoneventsconfig.cpp:126
 #, fuzzy
 msgid "When laptop lid closed"
 msgstr "বিদ্যুৎ সংযোগৰ এডাপ্টৰ বিচ্ছিন্ন কৰা হৈছে"
 
-#: actions/bundled/handlebuttoneventsconfig.cpp:136
+#: actions/bundled/handlebuttoneventsconfig.cpp:133
 msgid "When power button pressed"
 msgstr ""
 
