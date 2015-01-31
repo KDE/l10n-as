@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-15 07:48+0000\n"
+"POT-Creation-Date: 2015-01-31 08:03+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -71,43 +71,35 @@ msgstr ""
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:37
-msgid "Undo"
-msgstr "পূৰ্বাবস্থা"
+#~ msgid "Undo"
+#~ msgstr "পূৰ্বাবস্থা"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:45
-msgid "Redo"
-msgstr "পুনৰাবৃত্তি"
+#~ msgid "Redo"
+#~ msgstr "পুনৰাবৃত্তি"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:54
-msgid "Cut"
-msgstr "কাটক"
+#~ msgid "Cut"
+#~ msgstr "কাটক"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:62
-msgid "Copy"
-msgstr "Copy"
+#~ msgid "Copy"
+#~ msgstr "Copy"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:70
-msgid "Paste"
-msgstr "Paste"
+#~ msgid "Paste"
+#~ msgstr "Paste"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:78
-msgid "Delete"
-msgstr "আঁতৰাওঁক"
+#~ msgid "Delete"
+#~ msgstr "আঁতৰাওঁক"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:91
 #, fuzzy
-#| msgctxt "@action"
-#| msgid "Clear"
-msgid "Clear"
-msgstr "পৰিশ্ৰুত কৰক"
+#~| msgctxt "@action"
+#~| msgid "Clear"
+#~ msgid "Clear"
+#~ msgstr "পৰিশ্ৰুত কৰক"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:100
 #, fuzzy
-#| msgctxt "@action"
-#| msgid "Select All"
-msgid "Select All"
-msgstr "সমগ্ৰ নিৰ্ব্বাচন কৰক"
+#~| msgctxt "@action"
+#~| msgid "Select All"
+#~ msgid "Select All"
+#~ msgstr "সমগ্ৰ নিৰ্ব্বাচন কৰক"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
