@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-27 10:21+0000\n"
+"POT-Creation-Date: 2015-02-03 10:14+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: containments/folder/package/metadata.desktop:2
 msgctxt "Name"
-msgid "Folder"
+msgid "Folder View"
 msgstr ""
 
 #: containments/folder/package/metadata.desktop:42
@@ -739,12 +739,12 @@ msgctxt "Name"
 msgid "Install..."
 msgstr "সংস্থাপন কৰক..."
 
-#: kcms/kfontinst/apps/kfontview.desktop:2
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
 msgctxt "Name"
 msgid "KFontView"
 msgstr ""
 
-#: kcms/kfontinst/apps/kfontview.desktop:97
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:97
 msgctxt "GenericName"
 msgid "Font Viewer"
 msgstr ""
