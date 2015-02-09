@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-30 08:00+0000\n"
+"POT-Creation-Date: 2015-02-09 10:00+0000\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -63,7 +63,9 @@ msgid "Use this command to show or hide the view's statusbar"
 msgstr "প্ৰদৰ্শনৰ অৱস্থাৰ বাৰ দেখুৱাবলৈ বা লুকাবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
 #: kwrite.cpp:178
-msgid "Sho&w Path"
+#, fuzzy
+#| msgid "Sho&w Path"
+msgid "Sho&w Path in Titlebar"
 msgstr "পথ দেখুৱাওক (&w)"
 
 #: kwrite.cpp:181
