@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-02-10 09:59+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -45,6 +45,13 @@ msgstr "অবিকল্পিত মান"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
+
+#: kconfigdialog.cpp:45
+#, fuzzy
+#| msgid "Configure"
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "বিন্যাস কৰক"
 
 #: klanguagebutton.cpp:194
 msgid "without name"
@@ -523,6 +530,41 @@ msgstr "%1 বিষয়ে (&A)"
 #: kstandardaction_p.h:115
 msgid "About &KDE"
 msgstr "KDE বিষয়ে (&K)"
+
+#: ktipdialog.cpp:239
+#, fuzzy
+#| msgid "Tip of the Day"
+msgctxt "@title:window"
+msgid "Tip of the Day"
+msgstr "আজিৰ উপদেশ"
+
+#: ktipdialog.cpp:255
+#, fuzzy
+#| msgid "Did you know...?\n"
+msgctxt "@title"
+msgid "Did you know...?\n"
+msgstr "আপুনি জানে নে...?\n"
+
+#: ktipdialog.cpp:307
+#, fuzzy
+#| msgid "&Show tips on startup"
+msgctxt "@option:check"
+msgid "&Show tips on startup"
+msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
+
+#: ktipdialog.cpp:312
+#, fuzzy
+#| msgid "&Previous"
+msgctxt "@action:button Goes to previous tip"
+msgid "&Previous"
+msgstr "আগৰ (&P)"
+
+#: ktipdialog.cpp:317
+#, fuzzy
+#| msgid "&Next"
+msgctxt "@action:button Goes to next tip, opposite to previous"
+msgid "&Next"
+msgstr "পিছৰ (&N)"
 
 #~ msgid "Name"
 #~ msgstr "নাম"
@@ -3349,9 +3391,6 @@ msgstr "KDE বিষয়ে (&K)"
 #~ msgid "Close Message"
 #~ msgstr "বাৰ্তা বন্ধ কৰা হ'ব"
 
-#~ msgid "Configure"
-#~ msgstr "বিন্যাস কৰক"
-
 #~ msgid "Job"
 #~ msgstr "কাৰ্য্য"
 
@@ -3879,18 +3918,6 @@ msgstr "KDE বিষয়ে (&K)"
 #~ msgstr ""
 #~ "এই অনুপ্ৰয়োগৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে, বিকল্প ৰূপে "
 #~ "এই ভাষা ব্যৱহাৰ কৰা হ'ব ।"
-
-#~ msgid "Tip of the Day"
-#~ msgstr "আজিৰ উপদেশ"
-
-#~ msgid "Did you know...?\n"
-#~ msgstr "আপুনি জানে নে...?\n"
-
-#~ msgid "&Show tips on startup"
-#~ msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
-
-#~ msgid "&Previous"
-#~ msgstr "আগৰ (&P)"
 
 #~ msgctxt "Opposite to Previous"
 #~ msgid "&Next"
@@ -7301,9 +7328,6 @@ msgstr "KDE বিষয়ে (&K)"
 
 #~ msgid "F&ind:"
 #~ msgstr "বিচাৰক (&i):"
-
-#~ msgid "&Next"
-#~ msgstr "পিছৰ (&N)"
 
 #~ msgid "Opt&ions"
 #~ msgstr "বিকল্প (&i)"

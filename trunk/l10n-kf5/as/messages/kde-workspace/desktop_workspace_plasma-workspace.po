@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-06 08:36+0000\n"
+"POT-Creation-Date: 2015-02-10 10:18+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,12 +42,12 @@ msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr "বিজ্ঞান"
 
-#: applets/batterymonitor/package/metadata.desktop:25
+#: applets/batterymonitor/package/metadata.desktop:26
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:99
+#: applets/batterymonitor/package/metadata.desktop:100
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -1364,7 +1364,7 @@ msgid "KDE's Progress Info UI server"
 msgstr ""
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:58
+#: lookandfeel/metadata.desktop:59
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
