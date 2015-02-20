@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-19 10:02+0000\n"
+"POT-Creation-Date: 2015-02-20 09:32+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -179,7 +179,7 @@ msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
-#: applets/systemmonitor/cpu/metadata.desktop:22
+#: applets/systemmonitor/cpu/metadata.desktop:23
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
 msgstr ""
