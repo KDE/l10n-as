@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-01 08:13+0000\n"
+"POT-Creation-Date: 2015-02-23 09:34+0000\n"
 "PO-Revision-Date: 2009-01-15 15:43+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -238,18 +238,18 @@ msgstr ""
 
 #: powerdevilcore.cpp:506
 msgid ""
-"Your battery level is critical, the computer will be halted in 30 seconds."
+"Your battery level is critical, the computer will be halted in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:511
 msgid ""
-"Your battery level is critical, the computer will be hibernated in 30 "
+"Your battery level is critical, the computer will be hibernated in 60 "
 "seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:516
 msgid ""
-"Your battery level is critical, the computer will be suspended in 30 seconds."
+"Your battery level is critical, the computer will be suspended in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:521
