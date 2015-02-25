@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-24 09:31+0000\n"
+"POT-Creation-Date: 2015-02-25 06:16+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -4205,7 +4205,7 @@ msgctxt "Name"
 msgid "Web Browser"
 msgstr ""
 
-#: plasma/generic/applets/webbrowser/plasma-applet-webbrowser.desktop:92
+#: plasma/generic/applets/webbrowser/plasma-applet-webbrowser.desktop:91
 msgctxt "Comment"
 msgid "A simple web browser"
 msgstr ""
@@ -4844,7 +4844,7 @@ msgctxt "Name"
 msgid "Locations"
 msgstr ""
 
-#: plasma/generic/runners/locations/plasma-runner-locations.desktop:78
+#: plasma/generic/runners/locations/plasma-runner-locations.desktop:77
 msgctxt "Comment"
 msgid "File and URL opener"
 msgstr ""
