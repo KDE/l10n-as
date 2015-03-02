@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-17 12:56+0000\n"
+"POT-Creation-Date: 2015-03-02 09:12+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -100,7 +100,7 @@ msgctxt "Name"
 msgid "Cache"
 msgstr "কেছে"
 
-#: src/kcms/kio/cache.desktop:97
+#: src/kcms/kio/cache.desktop:98
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -108,7 +108,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcms/kio/cache.desktop:127
+#: src/kcms/kio/cache.desktop:129
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -121,12 +121,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "কুকি"
 
-#: src/kcms/kio/cookies.desktop:45
+#: src/kcms/kio/cookies.desktop:46
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "কুকিৰ কাম কৰা প্ৰক্ৰিয়া বিন্যাস কৰক"
 
-#: src/kcms/kio/cookies.desktop:125
+#: src/kcms/kio/cookies.desktop:127
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -136,12 +136,12 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "সংযোগৰ পছন্দ"
 
-#: src/kcms/kio/netpref.desktop:91
+#: src/kcms/kio/netpref.desktop:92
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
 
-#: src/kcms/kio/netpref.desktop:170
+#: src/kcms/kio/netpref.desktop:172
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
@@ -151,12 +151,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "প্ৰশমক"
 
-#: src/kcms/kio/proxy.desktop:95
+#: src/kcms/kio/proxy.desktop:96
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "ব্যৱহাৰ কৰা প্ৰশমক সেৱক বিন্যাস কৰক"
 
-#: src/kcms/kio/proxy.desktop:176
+#: src/kcms/kio/proxy.desktop:178
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
@@ -166,12 +166,12 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "Windows Shares"
 
-#: src/kcms/kio/smb.desktop:92
+#: src/kcms/kio/smb.desktop:93
 msgctxt "Comment"
 msgid "Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:170
+#: src/kcms/kio/smb.desktop:172
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -454,12 +454,12 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr "চৰকৰ চিনাক্তকৰণ"
 
-#: src/kcms/kio/useragent.desktop:93
+#: src/kcms/kio/useragent.desktop:94
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
 msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
 
-#: src/kcms/kio/useragent.desktop:171
+#: src/kcms/kio/useragent.desktop:173
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -1341,7 +1341,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:32
+#: src/urifilters/ikws/searchproviders/grec.desktop:33
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
