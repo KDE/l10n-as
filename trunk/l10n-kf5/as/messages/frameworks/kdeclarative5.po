@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-03-05 09:24+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -17,6 +17,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 0.2\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "অমিতাক্ষ ফুকন"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aphukan@fedoraproject.org"
+
+#: kpackagelauncherqml/main.cpp:42
+msgid "KPackage QML application shell"
+msgstr ""
+
+#: kpackagelauncherqml/main.cpp:50
+#, fuzzy
+#| msgid "defines the application font"
+msgid "The unique name of the application (mandatory)"
+msgstr "অনুপ্ৰয়োগৰ আখৰ নিৰ্ধাৰিত কৰা হয়"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 msgid ""
@@ -100,14 +118,6 @@ msgstr "অসমৰ্থিত চাবি"
 #~| msgid "Select All"
 #~ msgid "Select All"
 #~ msgstr "সমগ্ৰ নিৰ্ব্বাচন কৰক"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "অমিতাক্ষ ফুকন"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "aphukan@fedoraproject.org"
 
 #~ msgid "Name"
 #~ msgstr "নাম"
@@ -1035,9 +1045,6 @@ msgstr "অসমৰ্থিত চাবি"
 
 #~ msgid "switches to synchronous mode for debugging"
 #~ msgstr "ডিবাগ কৰাৰ বাবে সিংক্ৰোনাস মোডত পৰিবৰ্তন কৰা হয়"
-
-#~ msgid "defines the application font"
-#~ msgstr "অনুপ্ৰয়োগৰ আখৰ নিৰ্ধাৰিত কৰা হয়"
 
 #~ msgid ""
 #~ "sets the default background color and an\n"
