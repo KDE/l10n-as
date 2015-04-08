@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-13 08:10+0000\n"
+"POT-Creation-Date: 2015-04-08 08:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -35,7 +35,7 @@ msgctxt "GenericName"
 msgid "System Settings"
 msgstr ""
 
-#: app/systemsettings.desktop:91
+#: app/systemsettings.desktop:90
 msgctxt "Name"
 msgid "System Settings"
 msgstr ""
@@ -90,7 +90,7 @@ msgctxt "Name"
 msgid "Workspace Appearance"
 msgstr "ডেস্কট'প"
 
-#: categories/old/settings-desktop-appearance.desktop:73
+#: categories/old/settings-desktop-appearance.desktop:72
 msgctxt "Comment"
 msgid "Customize the appearance of your desktop"
 msgstr ""
@@ -104,8 +104,8 @@ msgctxt "Name"
 msgid "Display and Monitor"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: categories/old/settings-display.desktop:70
-#: categories/settings-hardware-display.desktop:71
+#: categories/old/settings-display.desktop:69
+#: categories/settings-hardware-display.desktop:70
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
@@ -372,7 +372,7 @@ msgctxt "Name"
 msgid "Classic Tree View"
 msgstr ""
 
-#: classic/settings-classic-view.desktop:131
+#: classic/settings-classic-view.desktop:130
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
 msgstr ""
@@ -401,7 +401,7 @@ msgctxt "Name"
 msgid "Icon View"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: icons/settings-icon-view.desktop:139
+#: icons/settings-icon-view.desktop:138
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
