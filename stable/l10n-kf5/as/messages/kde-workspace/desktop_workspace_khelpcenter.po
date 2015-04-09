@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-13 12:22+0000\n"
+"POT-Creation-Date: 2015-04-08 08:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,12 +19,12 @@ msgctxt "Name"
 msgid "Index"
 msgstr ""
 
-#: htmlsearch/htmlsearch.desktop:105
+#: htmlsearch/htmlsearch.desktop:104
 msgctxt "Comment"
 msgid "Index generation"
 msgstr ""
 
-#: htmlsearch/htmlsearch.desktop:197
+#: htmlsearch/htmlsearch.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "Help,HTML,Search,Index,htdig,htsearch,htmerge,Scope,Language"
 msgstr ""
@@ -34,12 +34,12 @@ msgctxt "Name"
 msgid "Help Index"
 msgstr ""
 
-#: kcmhelpcenter.desktop:104
+#: kcmhelpcenter.desktop:103
 msgctxt "Comment"
 msgid "Help center search index configuration and generation"
 msgstr ""
 
-#: kcmhelpcenter.desktop:193
+#: kcmhelpcenter.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "khelpcenter,help,index,search"
 msgstr ""
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "KHelpCenter"
 msgstr ""
 
-#: khelpcenter.desktop:94
+#: khelpcenter.desktop:93
 msgctxt "Comment"
 msgid "The KDE Help Center"
 msgstr ""
@@ -71,12 +71,16 @@ msgstr ""
 
 #: plugins/filemanagercontrolmodules.desktop:2
 #, fuzzy
+#| msgctxt "Name"
+#| msgid "File Manager - Super User Mode"
 msgctxt "Name"
 msgid "Filemanager Settings Modules"
 msgstr "File Manager - Super User Mode"
 
 #: plugins/fundamentals.desktop:4
 #, fuzzy
+#| msgctxt "Name"
+#| msgid "KDE Performance"
 msgctxt "Name"
 msgid "KDE Fundamentals"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
@@ -88,6 +92,8 @@ msgstr ""
 
 #: plugins/kcontrolmodules.desktop:2
 #, fuzzy
+#| msgctxt "Name"
+#| msgid "System Log Viewer"
 msgctxt "Name"
 msgid "System Settings Modules"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
@@ -164,12 +170,16 @@ msgstr ""
 
 #: plugins/onlinehelp.desktop:2
 #, fuzzy
+#| msgctxt "Name"
+#| msgid "Dolphin View"
 msgctxt "Name"
 msgid "Online Help"
 msgstr "Dolphin প্ৰদৰ্শন"
 
 #: plugins/othercontrolmodules.desktop:2
 #, fuzzy
+#| msgctxt "Name"
+#| msgid "System Log Viewer"
 msgctxt "Name"
 msgid "Other Settings Modules"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
@@ -195,11 +205,15 @@ msgid "KDE Users' Manual"
 msgstr ""
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Social Desktop"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
 #~ msgctxt "Name"
 #~ msgid "Application dashboard"
 #~ msgstr "অনুপ্ৰয়োগ"
@@ -209,26 +223,36 @@ msgstr ""
 #~ msgstr "Oxygen"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Web Browser"
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "Web Browser"
 #~ msgstr "ৱেব চৰক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "File Manager"
 #~ msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Mail Client"
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "Email Client"
 #~ msgstr "ডাক ব্যৱস্থাৰ গ্ৰাহক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Arcade Emulator"
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "Terminal Emulator"
 #~ msgstr "Arcade Emulator"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "Window Manager"
 #~ msgstr "নথিপত্ৰৰ পৰিচালক"
@@ -250,6 +274,8 @@ msgstr ""
 #~ msgstr "ভাব-প্ৰতীক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Emoticons"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Emoticons"
 #~ msgstr "ভাব-প্ৰতীক"
@@ -259,6 +285,8 @@ msgstr ""
 #~ msgstr "আইকন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "KDED,Daemon,Services"
 #~ msgstr "Dolphin প্ৰদৰ্শন"
@@ -280,6 +308,8 @@ msgstr ""
 #~ msgstr "নথিপত্ৰৰ সম্বন্ধ বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Shortcuts"
 #~ msgctxt "Comment"
 #~ msgid "Global Keyboard Shortcuts"
 #~ msgstr "ৱেবৰ চমু পথ"
@@ -289,11 +319,15 @@ msgstr ""
 #~ msgstr "অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "More Applications"
 #~ msgctxt "Comment"
 #~ msgid "The application name"
 #~ msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
 #~ msgctxt "Name"
 #~ msgid "Directory Watcher"
 #~ msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
@@ -311,36 +345,50 @@ msgstr ""
 #~ msgstr "নে'টৱৰ্ক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
 #~ msgctxt "Name"
 #~ msgid "Network Watcher"
 #~ msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
 #~ msgctxt "Name"
 #~ msgid "Recent Document Watcher"
 #~ msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Comoros"
 #~ msgctxt "Name"
 #~ msgid "Comic Books"
 #~ msgstr "কোমোৰোছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Desktop Files"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Folder"
 #~ msgctxt "Name"
 #~ msgid "Folders"
 #~ msgstr "ফোল্ডাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Browser Identification"
 #~ msgctxt "Name"
 #~ msgid "Hardware notifications"
 #~ msgstr "চৰকৰ চিনাক্তকৰণ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Performance"
 #~ msgctxt "Comment"
 #~ msgid "KDE Workspace"
 #~ msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
@@ -354,6 +402,8 @@ msgstr ""
 #~ msgstr "প্ৰশ্ন"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://us.7digital.com/Search?search=\\\\{@}"
@@ -361,11 +411,15 @@ msgstr ""
 #~ msgstr "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.dict.cc/?s=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.abbreviations.com/\\\\{@}"
 #~ msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Oman"
 #~ msgctxt "Name"
 #~ msgid "Amazon"
 #~ msgstr "ওমান"
@@ -375,6 +429,8 @@ msgstr ""
 #~ msgstr "All Music Guide"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.allmusic.com/search/all/\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -384,21 +440,29 @@ msgstr ""
 #~ msgstr "Debian Backports Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.dict.cc/?s=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.baidu.com/s?wd=\\\\{@}"
 #~ msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Benin"
 #~ msgctxt "Name"
 #~ msgid "Bing"
 #~ msgstr "বেনিন"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.bing.com/search?q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://blip.tv/search?q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -408,11 +472,15 @@ msgstr ""
 #~ msgstr "KDE Bug Database Fulltext Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://bugs.debian.org/\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 #~ msgstr "http://bugs.debian.org/\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://bugs.debian.org/\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
 #~ msgstr "http://bugs.debian.org/\\\\{@}"
@@ -422,6 +490,8 @@ msgstr ""
 #~ msgstr "QRZ.com Callsign Database"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.dict.cc/?s=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.qrz.com/db/\\\\{@}"
 #~ msgstr "http://www.dict.cc/?s=\\\\{@}"
@@ -431,6 +501,9 @@ msgstr ""
 #~ msgstr "CIA World Fact Book"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://citeseer.ist.psu.edu/cs?q=\\\\{@}&submit=Search+Documents&cs=1"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
@@ -442,6 +515,10 @@ msgstr ""
 #~ msgstr "CPAN - Comprehensive Perl Archive Network"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://search.cpan.org/search?mode=\\\\{mode,2,\"dist\"}&query=\\"
+#~| "\\{query,q,1}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
@@ -466,6 +543,8 @@ msgstr ""
 #~ msgstr "CTAN - Comprehensive TeX Archive Network"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dict.leo.org/?search=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://ctan.org/search?phrase=\\\\{@}"
 #~ msgstr "http://dict.leo.org/?search=\\\\{@}"
@@ -503,6 +582,8 @@ msgstr ""
 #~ msgstr "http://packages.debian.org/\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.dict.cc/?s=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.cnrtl.fr/definition/\\\\{@}"
 #~ msgstr "http://www.dict.cc/?s=\\\\{@}"
@@ -532,21 +613,29 @@ msgstr ""
 #~ msgstr "http://dx.doi.org/\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dx.doi.org/\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 #~ msgstr "http://dx.doi.org/\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dx.doi.org/\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
 #~ msgstr "http://dx.doi.org/\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dx.doi.org/\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
 #~ msgstr "http://dx.doi.org/\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -588,21 +677,29 @@ msgstr ""
 #~ msgstr "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "ickle"
 #~ msgctxt "Name"
 #~ msgid "Ethicle"
 #~ msgstr "ickle"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Faces"
 #~ msgctxt "Name"
 #~ msgid "Facebook"
 #~ msgstr "Faces"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -612,6 +709,9 @@ msgstr ""
 #~ msgstr "Feedster"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
@@ -619,11 +719,15 @@ msgstr ""
 #~ "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.flickr.com/search/?q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -633,6 +737,8 @@ msgstr ""
 #~ msgstr "Free On-Line Dictionary of Computing"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dx.doi.org/\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://foldoc.org/\\\\{@}"
 #~ msgstr "http://dx.doi.org/\\\\{@}"
@@ -650,11 +756,15 @@ msgstr ""
 #~ msgstr "http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Greece"
 #~ msgctxt "Name"
 #~ msgid "Freecode"
 #~ msgstr "গ্ৰিছ"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://freecode.com/search?q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -676,16 +786,22 @@ msgstr ""
 #~ msgstr "http://directory.fsf.org/search/?query=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Editors"
 #~ msgctxt "Name"
 #~ msgid "Gitorious"
 #~ msgstr "সম্পাদক"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://gitorious.org/search?q=\\\\{@}&commit=Search"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -695,6 +811,14 @@ msgstr ""
 #~ msgstr "Google Advanced Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+#~| "&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+#~| "\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+#~| "\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}"
+#~| "&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,"
+#~| "\"active\"}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
@@ -712,11 +836,15 @@ msgstr ""
 #~ "\"}&ie=UTF-8&oe=UTF-8"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Google Movies"
 #~ msgctxt "Name"
 #~ msgid "Google Code"
 #~ msgstr "Google Movies"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://froogle.google.com/froogle?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://code.google.com/query/#q=\\\\{%2520}"
 #~ msgstr "http://froogle.google.com/froogle?q=\\\\{@}"
@@ -726,6 +854,8 @@ msgstr ""
 #~ msgstr "Google"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
 #~ msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -735,6 +865,8 @@ msgstr ""
 #~ msgstr "Google Groups"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 #~ msgstr "http://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
@@ -744,6 +876,8 @@ msgstr ""
 #~ msgstr "Google ছবিৰৰ অনুনসন্ধান"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
 #~ msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -753,6 +887,10 @@ msgstr ""
 #~ msgstr "Google (I'm Feeling Lucky)"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+#~| "+Lucky&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
@@ -762,11 +900,15 @@ msgstr ""
 #~ "+Lucky&ie=UTF-8&oe=UTF-8"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Google Groups"
 #~ msgctxt "Name"
 #~ msgid "Google Maps"
 #~ msgstr "Google Groups"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
 #~ msgstr "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -776,6 +918,8 @@ msgstr ""
 #~ msgstr "Google Movies"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.google.com/search?q=movie:\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgstr "http://www.google.com/search?q=movie:\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -785,16 +929,22 @@ msgstr ""
 #~ msgstr "Google News"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgstr "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Google Groups"
 #~ msgctxt "Name"
 #~ msgid "Google Shopping"
 #~ msgstr "Google Groups"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 #~ msgctxt "Query"
 #~ msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 #~ msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -806,6 +956,8 @@ msgstr ""
 #~ "Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 #~ msgstr "http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
@@ -835,16 +987,22 @@ msgstr ""
 #~ msgstr "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://identi.ca/search/group?q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://freshmeat.net/search/?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://identi.ca/search/notice?q=\\\\{@}"
 #~ msgstr "http://freshmeat.net/search/?q=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://identi.ca/search/people?q=\\\\{@}&search=Search"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -854,6 +1012,8 @@ msgstr ""
 #~ msgstr "ইন্টাৰ্নে'ট বোলছবিৰ তথ্যভঁৰাল"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://imdb.com/Find?\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://imdb.com/find?s=all&q=\\\\{@}"
 #~ msgstr "http://imdb.com/Find?\\\\{@}"
@@ -867,11 +1027,15 @@ msgstr ""
 #~ msgstr "http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Jamin"
 #~ msgctxt "Name"
 #~ msgid "Jamendo"
 #~ msgstr "Jamin"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.jamendo.com/en/search?qs=q=\\\\{@}"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -907,16 +1071,23 @@ msgstr ""
 #~ msgstr "http://api.kde.org/classmapper.php?class=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Performance"
 #~ msgctxt "Name"
 #~ msgid "KDE Forums"
 #~ msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE 2"
 #~ msgctxt "Name"
 #~ msgid "KDE Look"
 #~ msgstr "KDE 2"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
@@ -924,32 +1095,44 @@ msgstr ""
 #~ "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MrProject"
 #~ msgctxt "Name"
 #~ msgid "KDE Projects"
 #~ msgstr "MrProject"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dict.leo.org/?search=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 #~ msgstr "http://dict.leo.org/?search=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE News"
 #~ msgctxt "Name"
 #~ msgid "KDE TechBase"
 #~ msgstr "KDE News"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 #~ msgstr "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE News"
 #~ msgctxt "Name"
 #~ msgid "KDE UserBase"
 #~ msgstr "KDE News"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -964,11 +1147,15 @@ msgstr ""
 #~ msgstr "http://dict.leo.org/?search=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Vanuatu"
 #~ msgctxt "Name"
 #~ msgid "Magnatune"
 #~ msgstr "ভানুয়াটু"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 #~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
@@ -978,6 +1165,8 @@ msgstr ""
 #~ msgstr "MetaCrawler"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
@@ -988,6 +1177,8 @@ msgstr ""
 #~ msgstr "Microsoft Developer Network Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
 #~ msgstr "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1061,11 +1252,16 @@ msgstr ""
 #~ msgstr "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "openDesktop.org"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1077,6 +1273,8 @@ msgstr ""
 #~ msgstr "OpenPGP চাবিৰ অনুসন্ধান"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 #~ msgctxt "Query"
 #~ msgid "http://pgp.mit.edu:11371/pks/lookup?search=\\\\{@}&op=vindex"
 #~ msgstr "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
@@ -1086,6 +1284,9 @@ msgstr ""
 #~ msgstr "PHP Search"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.php.net/search.php?show=\\\\{mode,\"manual\"}&pattern=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.php.net/manual-lookup.php?pattern=\\\\{@}"
 #~ msgstr ""
@@ -1096,6 +1297,10 @@ msgstr ""
 #~ msgstr "Python প্ৰসঙ্গৰ হাতপুথি"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+#~| "&submit=Search&q=site%3Apython.org"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
@@ -1105,11 +1310,15 @@ msgstr ""
 #~ "&submit=Search&q=site%3Apython.org"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Qt3 Online Documentation"
 #~ msgctxt "Name"
 #~ msgid "Qt4 Documentation"
 #~ msgstr "Qt3 অন-লাইন আলেখ্যন"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://doc.trolltech.com/3.3/\\\\{@}.html"
 #~ msgctxt "Query"
 #~ msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
 #~ msgstr "http://doc.trolltech.com/3.3/\\\\{@}.html"
@@ -1119,6 +1328,8 @@ msgstr ""
 #~ msgstr "শেহতীয়া Qt অন-লাইন আলেখ্যন"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://doc.trolltech.com/3.3/\\\\{@}.html"
 #~ msgctxt "Query"
 #~ msgid "http://qt-project.org/doc/search/qt-5.0?search=\\\\{@}"
 #~ msgstr "http://doc.trolltech.com/3.3/\\\\{@}.html"
@@ -1128,11 +1339,15 @@ msgstr ""
 #~ msgstr "Spanish Academy (RAE) ৰ অভিধান"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.dict.cc/?s=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.rae.es/drae/?val=\\\\{@}"
 #~ msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dictionary of the Spanish Academy (RAE)"
 #~ msgctxt "Name"
 #~ msgid "Dictionary of the Galician Academy (RAG)"
 #~ msgstr "Spanish Academy (RAE) ৰ অভিধান"
@@ -1142,6 +1357,8 @@ msgstr ""
 #~ msgstr "IETF Requests for Comments"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.ietf.org/rfc/rfc\\\\{@}.txt"
 #~ msgctxt "Query"
 #~ msgid "http://tools.ietf.org/id/\\\\{@}"
 #~ msgstr "http://www.ietf.org/rfc/rfc\\\\{@}.txt"
@@ -1179,6 +1396,9 @@ msgstr ""
 #~ msgstr "Technorati"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://technorati.com/cosmos/search.html?sourceid=kde-search&url=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
 #~ msgstr ""
@@ -1209,11 +1429,15 @@ msgstr ""
 #~ msgstr "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dictionary"
 #~ msgctxt "Name"
 #~ msgid "Urban Dictionary"
 #~ msgstr "অভিধান"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.urbandictionary.com/define.php?term=\\\\{@}"
 #~ msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -1231,11 +1455,15 @@ msgstr ""
 #~ "&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Vivisimo"
 #~ msgctxt "Name"
 #~ msgid "Vimeo"
 #~ msgstr "Vivisimo"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://dict.leo.org/?search=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://vimeo.com/search?q=\\\\{@}"
 #~ msgstr "http://dict.leo.org/?search=\\\\{@}"
@@ -1257,6 +1485,8 @@ msgstr ""
 #~ msgstr "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://www.wikia.com/Special:Search?search=\\\\{@}"
@@ -1268,6 +1498,8 @@ msgstr ""
 #~ msgstr "Wikipedia - The Free Encyclopedia"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 #~ msgctxt "Query"
 #~ msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 #~ msgstr "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1277,11 +1509,15 @@ msgstr ""
 #~ msgstr "Wiktionary - The Free Dictionary"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 #~ msgctxt "Query"
 #~ msgid "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 #~ msgstr "http://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://www.wolframalpha.com/input/?i=\\\\{@}"
 #~ msgstr "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -1311,11 +1547,15 @@ msgstr ""
 #~ msgstr "Wallet Server"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Wallet Server"
 #~ msgctxt "Comment"
 #~ msgid "Wallet"
 #~ msgstr "Wallet Server"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Change Password"
 #~ msgctxt "Name"
 #~ msgid "Needs password"
 #~ msgstr "গুপ্তশব্দ সলনি কৰক"
@@ -1657,11 +1897,15 @@ msgstr ""
 #~ msgstr "জৰ্জিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "French Polynesia"
 #~ msgctxt "Name"
 #~ msgid "French Guiana"
 #~ msgstr "ফ্ৰেঞ্চ পলিনেছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Germany"
 #~ msgctxt "Name"
 #~ msgid "Guernsey"
 #~ msgstr "জাৰ্মানি"
@@ -1883,6 +2127,8 @@ msgstr ""
 #~ msgstr "মন্টেনেগ্ৰো"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "San Marino"
 #~ msgctxt "Name"
 #~ msgid "Saint Martin"
 #~ msgstr "ছান মাৰিনো"
@@ -1920,6 +2166,8 @@ msgstr ""
 #~ msgstr "মেকাউ SAR(চীন)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Marshall Islands"
 #~ msgctxt "Name"
 #~ msgid "Northern Mariana Islands"
 #~ msgstr "মাৰ্ছাল দ্বীপপুঞ্জ"
@@ -2185,6 +2433,8 @@ msgstr ""
 #~ msgstr "চুৰিনাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "South Korea"
 #~ msgctxt "Name"
 #~ msgid "South Sudan"
 #~ msgstr "দক্ষিণ কোৰিয়া"
@@ -2350,611 +2600,855 @@ msgstr ""
 #~ msgstr "জিম্বাবুয়ে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Andorra"
 #~ msgctxt "Name"
 #~ msgid "Andorran Franc"
 #~ msgstr "এণ্ডোৰা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Andorra"
 #~ msgctxt "Name"
 #~ msgid "Andorran Peseta"
 #~ msgstr "এণ্ডোৰা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "United Arab Emirates"
 #~ msgctxt "Name"
 #~ msgid "United Arab Emirates Dirham"
 #~ msgstr "সংযুক্ত আৰব আমিৰছাহী"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Afghanistan"
 #~ msgctxt "Name"
 #~ msgid "Afghan Afghani"
 #~ msgstr "আফগানিস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Albania"
 #~ msgctxt "Name"
 #~ msgid "Albanian Lek"
 #~ msgstr "Albania"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Armenia"
 #~ msgctxt "Name"
 #~ msgid "Armenian Dram"
 #~ msgstr "আৰ্মেনিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Netherlands Antilles"
 #~ msgctxt "Name"
 #~ msgid "Netherlands Antillean Guilder"
 #~ msgstr "নেদাৰ্লেন্ডছ এন্টিলিছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Angola"
 #~ msgctxt "Name"
 #~ msgid "Angolan Kwanza"
 #~ msgstr "এঙ্গোলা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Argentina"
 #~ msgctxt "Name"
 #~ msgid "Argentine Peso"
 #~ msgstr "আৰ্জেনটিনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Australia"
 #~ msgctxt "Name"
 #~ msgid "Australian Dollar"
 #~ msgstr "অস্ট্ৰেলিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Azerbaijan"
 #~ msgctxt "Name"
 #~ msgid "Azerbaijani Manat"
 #~ msgstr "আজাৰবাইজান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bosnia and Herzegovina"
 #~ msgctxt "Name"
 #~ msgid "Bosnia and Herzegovina Convertible Mark"
 #~ msgstr "ব'ছনিয়া আৰু হাৰ্জগোভিনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Barbados"
 #~ msgctxt "Name"
 #~ msgid "Barbados Dollar"
 #~ msgstr "বাৰ্বাডোছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bangladesh"
 #~ msgctxt "Name"
 #~ msgid "Bangladeshi Taka"
 #~ msgstr "বাংলাদেশ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bulgaria"
 #~ msgctxt "Name"
 #~ msgid "Bulgarian Lev A/99"
 #~ msgstr "বুলগাৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bulgaria"
 #~ msgctxt "Name"
 #~ msgid "Bulgarian Lev"
 #~ msgstr "বুলগাৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bahrain"
 #~ msgctxt "Name"
 #~ msgid "Bahraini Dinar"
 #~ msgstr "বাহৰেইন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Burundi"
 #~ msgctxt "Name"
 #~ msgid "Burundian Franc"
 #~ msgstr "বুৰুন্ডি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bermuda"
 #~ msgctxt "Name"
 #~ msgid "Bermuda Dollar"
 #~ msgstr "বাৰ্মুডা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Brunei Darussalam"
 #~ msgctxt "Name"
 #~ msgid "Brunei Dollar"
 #~ msgstr "ব্ৰুনেই দাৰুছালাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bolivia"
 #~ msgctxt "Name"
 #~ msgid "Bolivian Mvdol"
 #~ msgstr "বোলিভিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Brazil"
 #~ msgctxt "Name"
 #~ msgid "Brazilian Real"
 #~ msgstr "ব্ৰাজিল"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Botswana"
 #~ msgctxt "Name"
 #~ msgid "Botswana Pula"
 #~ msgstr "বোটছৱানা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Belarus"
 #~ msgctxt "Name"
 #~ msgid "Belarusian Ruble"
 #~ msgstr "বেলাৰুস"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Belize"
 #~ msgctxt "Name"
 #~ msgid "Belize Dollar"
 #~ msgstr "বেলিজে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Colombia"
 #~ msgctxt "Name"
 #~ msgid "Colombian Peso"
 #~ msgstr "কোলোম্বিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Costa Rica"
 #~ msgctxt "Name"
 #~ msgid "Costa Rican Colon"
 #~ msgstr "কোস্টা ৰিকা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cape Verde"
 #~ msgctxt "Name"
 #~ msgid "Cape Verde Escudo"
 #~ msgstr "কেপ ভাৰ্ডি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Germany"
 #~ msgctxt "Name"
 #~ msgid "German Mark"
 #~ msgstr "জাৰ্মানি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Djibouti"
 #~ msgctxt "Name"
 #~ msgid "Djibouti Franc"
 #~ msgstr "জিবুতি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dominica"
 #~ msgctxt "Name"
 #~ msgid "Dominican Peso"
 #~ msgstr "ডোমিনিকা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Algeria"
 #~ msgctxt "Name"
 #~ msgid "Algerian Dinar"
 #~ msgstr "এলজিৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Estonia"
 #~ msgctxt "Name"
 #~ msgid "Estonian Kroon"
 #~ msgstr "এস্তোনিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Eritrea"
 #~ msgctxt "Name"
 #~ msgid "Eritrean Nakfa"
 #~ msgstr "এৰিট্ৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ethiopia"
 #~ msgctxt "Name"
 #~ msgid "Ethiopian Birr"
 #~ msgstr "ইথিওপিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Falkland Islands (Malvinas)"
 #~ msgctxt "Name"
 #~ msgid "Falkland Islands Pound"
 #~ msgstr "ফল্কলেন্ড দ্বীপপুঞ্জ (মালভিনাছ)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Georgia"
 #~ msgctxt "Name"
 #~ msgid "Georgian Lari"
 #~ msgstr "জৰ্জিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ghana"
 #~ msgctxt "Name"
 #~ msgid "Ghana Cedi"
 #~ msgstr "ঘানা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Gibraltar"
 #~ msgctxt "Name"
 #~ msgid "Gibraltar Pound"
 #~ msgstr "জিব্ৰাল্টাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Gambia"
 #~ msgctxt "Name"
 #~ msgid "Gambian Dalasi"
 #~ msgstr "গাম্বিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Guinea"
 #~ msgctxt "Name"
 #~ msgid "Guinean Franc"
 #~ msgstr "গিনি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Guatemala"
 #~ msgctxt "Name"
 #~ msgid "Guatemalan Quetzal"
 #~ msgstr "গুয়াতেমালা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Guinea-Bissau"
 #~ msgctxt "Name"
 #~ msgid "Guinea-Bissau Peso"
 #~ msgstr "গিনি-বিছাউ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Hong Kong SAR(China)"
 #~ msgctxt "Name"
 #~ msgid "Hong Kong Dollar"
 #~ msgstr "হং কং SAR(চীন)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Croatia"
 #~ msgctxt "Name"
 #~ msgid "Croatian Kuna"
 #~ msgstr "ক্ৰোয়েছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Indonesia"
 #~ msgctxt "Name"
 #~ msgid "Indonesian Rupiah"
 #~ msgstr "ইন্দোনেশিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Iceland"
 #~ msgctxt "Name"
 #~ msgid "Icelandic Krona"
 #~ msgstr "আইছলেন্ড"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Jamaica"
 #~ msgctxt "Name"
 #~ msgid "Jamaican Dollar"
 #~ msgstr "জামাইকা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Kyrgyzstan"
 #~ msgctxt "Name"
 #~ msgid "Kyrgyzstani Som"
 #~ msgstr "কিৰ্গিজস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cambodia"
 #~ msgctxt "Name"
 #~ msgid "Cambodian Riel"
 #~ msgstr "কেম্বোডিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "North Korea"
 #~ msgctxt "Name"
 #~ msgid "North Korean Won"
 #~ msgstr "উত্তৰ কোৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "South Korea"
 #~ msgctxt "Name"
 #~ msgid "South Korean Won"
 #~ msgstr "দক্ষিণ কোৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Kuwait"
 #~ msgctxt "Name"
 #~ msgid "Kuwaiti Dinar"
 #~ msgstr "কুৱেইত"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cayman Islands"
 #~ msgctxt "Name"
 #~ msgid "Cayman Islands Dollar"
 #~ msgstr "কেমেন দ্বীপপুঞ্জ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Kazakhstan"
 #~ msgctxt "Name"
 #~ msgid "Kazakhstani Tenge"
 #~ msgstr "কাজাখস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lebanon"
 #~ msgctxt "Name"
 #~ msgid "Lebanese Pound"
 #~ msgstr "লেবানন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Sri Lanka"
 #~ msgctxt "Name"
 #~ msgid "Sri Lankan Rupee"
 #~ msgstr "শ্ৰীলঙ্কা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Liberia"
 #~ msgctxt "Name"
 #~ msgid "Liberian Dollar"
 #~ msgstr "লাইবেৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lesotho"
 #~ msgctxt "Name"
 #~ msgid "Lesotho Loti"
 #~ msgstr "লেছোথো"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lithuania"
 #~ msgctxt "Name"
 #~ msgid "Lithuanian Litas"
 #~ msgstr "লিথুৱানিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Luxembourg"
 #~ msgctxt "Name"
 #~ msgid "Luxembourgish Franc"
 #~ msgstr "লাক্সেমবুৰ্গ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Latvia"
 #~ msgctxt "Name"
 #~ msgid "Latvian Lats"
 #~ msgstr "লাটভিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Moldova"
 #~ msgctxt "Name"
 #~ msgid "Moldovan Leu"
 #~ msgstr "মোলদোভা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Madagascar"
 #~ msgctxt "Name"
 #~ msgid "Malagasy Ariary"
 #~ msgstr "মাদাগাস্কাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Macedonia"
 #~ msgctxt "Name"
 #~ msgid "Macedonian Denar"
 #~ msgstr "মেছিডোনিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "France"
 #~ msgctxt "Name"
 #~ msgid "Mali Franc"
 #~ msgstr "ফ্ৰাঞ্চ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Myanmar"
 #~ msgctxt "Name"
 #~ msgid "Myanma Kyat"
 #~ msgstr "মায়ান্মাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Mongolia"
 #~ msgctxt "Name"
 #~ msgid "Mongolian Tugrik"
 #~ msgstr "মঙ্গোলিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Mauritania"
 #~ msgctxt "Name"
 #~ msgid "Mauritanian Ouguiya"
 #~ msgstr "মৰিটানিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Malaysia"
 #~ msgctxt "Name"
 #~ msgid "Maltese Lira"
 #~ msgstr "মালেছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Mauritius"
 #~ msgctxt "Name"
 #~ msgid "Mauritius Rupee"
 #~ msgstr "মৰিছিয়াচ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Mexico"
 #~ msgctxt "Name"
 #~ msgid "Mexican Peso"
 #~ msgstr "মেক্সিকো"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Malaysia"
 #~ msgctxt "Name"
 #~ msgid "Malaysian Ringgit"
 #~ msgstr "মালেছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Namibia"
 #~ msgctxt "Name"
 #~ msgid "Namibian Dollar"
 #~ msgstr "নামিবিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Nigeria"
 #~ msgctxt "Name"
 #~ msgid "Nigerian Naira"
 #~ msgstr "নাইজেৰিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Netherlands Antilles"
 #~ msgctxt "Name"
 #~ msgid "Netherlands Guilder"
 #~ msgstr "নেদাৰ্লেন্ডছ এন্টিলিছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "New Zealand"
 #~ msgctxt "Name"
 #~ msgid "New Zealand Dollar"
 #~ msgstr "নিউজিলেন্ড"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Papua New Guinea"
 #~ msgctxt "Name"
 #~ msgid "Papua New Guinean Kina"
 #~ msgstr "পাপুৱা নিউ গিনি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Philippines"
 #~ msgctxt "Name"
 #~ msgid "Philippine Peso"
 #~ msgstr "ফিলিপাইনছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pakistan"
 #~ msgctxt "Name"
 #~ msgid "Pakistan Rupee"
 #~ msgstr "পাকিস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Paraguay"
 #~ msgctxt "Name"
 #~ msgid "Paraguayan Guarani"
 #~ msgstr "পেৰাগুৱে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Romania"
 #~ msgctxt "Name"
 #~ msgid "Romanian Leu"
 #~ msgstr "ৰোমানিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Serbia"
 #~ msgctxt "Name"
 #~ msgid "Serbian Dinar"
 #~ msgstr "ছাৰ্বিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Russia"
 #~ msgctxt "Name"
 #~ msgid "Russian Ruble"
 #~ msgstr "ৰাছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Rwanda"
 #~ msgctxt "Name"
 #~ msgid "Rwandan Franc"
 #~ msgstr "ৰৱান্ডা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Saudi Arabia"
 #~ msgctxt "Name"
 #~ msgid "Saudi Riyal"
 #~ msgstr "চাউদি আৰব"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Solomon Islands"
 #~ msgctxt "Name"
 #~ msgid "Solomon Islands Dollar"
 #~ msgstr "ছ'লোমান দ্বীপপুঞ্জ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Seychelles"
 #~ msgctxt "Name"
 #~ msgid "Seychellois Rupee"
 #~ msgstr "ছেচেলছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Singapore"
 #~ msgctxt "Name"
 #~ msgid "Singapore Dollar"
 #~ msgstr "ছিঙ্গাপুৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Saint Helena"
 #~ msgctxt "Name"
 #~ msgid "Saint Helena Pound"
 #~ msgstr "ছেন্ট হেলেনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Slovenia"
 #~ msgctxt "Name"
 #~ msgid "Slovenian Tolar"
 #~ msgstr "স্লোভেনিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Slovakia"
 #~ msgctxt "Name"
 #~ msgid "Slovak Koruna"
 #~ msgstr "স্লোভাকিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Sierra Leone"
 #~ msgctxt "Name"
 #~ msgid "Sierra Leonean Leone"
 #~ msgstr "ছিয়াৰা লিয়োনে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Suriname"
 #~ msgctxt "Name"
 #~ msgid "Surinamese Dollar"
 #~ msgstr "চুৰিনাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Suriname"
 #~ msgctxt "Name"
 #~ msgid "Surinamese Guilder"
 #~ msgstr "চুৰিনাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lebanon"
 #~ msgctxt "Name"
 #~ msgid "South Sudanese Pound"
 #~ msgstr "লেবানন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Sao Tome and Principe"
 #~ msgctxt "Name"
 #~ msgid "São Tomé and Príncipe Dobra"
 #~ msgstr "চাও টোমে আৰু প্ৰিন্সিপে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Swaziland"
 #~ msgctxt "Name"
 #~ msgid "Swazi Lilangeni"
 #~ msgstr "ছোৱাজিলেন্ড"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Tajikistan"
 #~ msgctxt "Name"
 #~ msgid "Tajikistani Somoni"
 #~ msgstr "তাজিকিস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Turkmenistan"
 #~ msgctxt "Name"
 #~ msgid "Turkmenistani Old Manat"
 #~ msgstr "তুৰ্কমেনিস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Turkmenistan"
 #~ msgctxt "Name"
 #~ msgid "Turkmenistani Manat"
 #~ msgstr "তুৰ্কমেনিস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Tunisia"
 #~ msgctxt "Name"
 #~ msgid "Tunisian Dinar"
 #~ msgstr "টিউনিছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Tunisia"
 #~ msgctxt "Name"
 #~ msgid "Turkish Lira"
 #~ msgstr "টিউনিছিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Trinidad and Tobago"
 #~ msgctxt "Name"
 #~ msgid "Trinidad and Tobago Dollar"
 #~ msgstr "ত্ৰিনিদাদ আৰু টোবাগো"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "United States of America"
 #~ msgctxt "Name"
 #~ msgid "United States Dollar"
 #~ msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "United States of America"
 #~ msgctxt "Name"
 #~ msgid "United States Dollar (Next Day)"
 #~ msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "United States of America"
 #~ msgctxt "Name"
 #~ msgid "United States Dollar (Same Day)"
 #~ msgstr "মাৰ্কিন যুক্তৰাষ্ট্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Uruguay"
 #~ msgctxt "Name"
 #~ msgid "Uruguayan Peso"
 #~ msgstr "উৰুগুৱে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Uzbekistan"
 #~ msgctxt "Name"
 #~ msgid "Uzbekistan Som"
 #~ msgstr "উজবেকিস্তান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Vietnam"
 #~ msgctxt "Name"
 #~ msgid "Vietnamese Dong"
 #~ msgstr "ভিয়েতনাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Vanuatu"
 #~ msgctxt "Name"
 #~ msgid "Vanuatu Vatu"
 #~ msgstr "ভানুয়াটু"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Samoa"
 #~ msgctxt "Name"
 #~ msgid "Samoan Tala"
 #~ msgstr "ছামোৱা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Central African Republic"
 #~ msgctxt "Name"
 #~ msgid "Central African CFA Franc"
 #~ msgstr "মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
 #~ msgctxt "Name"
 #~ msgid "Silver"
 #~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Folder"
 #~ msgctxt "Name"
 #~ msgid "Gold"
 #~ msgstr "ফোল্ডাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Caribbean"
 #~ msgctxt "Name"
 #~ msgid "East Caribbean Dollar"
 #~ msgstr "কেৰেবিয়ান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Palau"
 #~ msgctxt "Name"
 #~ msgid "Palladium"
 #~ msgstr "পালাউ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "France"
 #~ msgctxt "Name"
 #~ msgid "CFP Franc"
 #~ msgstr "ফ্ৰাঞ্চ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Yemen"
 #~ msgctxt "Name"
 #~ msgid "Yemeni Rial"
 #~ msgstr "য়েমেন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "South Africa"
 #~ msgctxt "Name"
 #~ msgid "South African Rand"
 #~ msgstr "দক্ষিণ আফ্ৰিকা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Zambia"
 #~ msgctxt "Name"
 #~ msgid "Zambian Kwacha"
 #~ msgstr "জাম্বিয়া"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Zimbabwe"
 #~ msgctxt "Name"
 #~ msgid "Zimbabwean Dollar"
 #~ msgstr "জিম্বাবুয়ে"
@@ -3136,46 +3630,64 @@ msgstr ""
 #~ msgstr "X Window Utilities"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
 #~ msgctxt "Name"
 #~ msgid "Nepomuk"
 #~ msgstr "Web SideBar Module"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Fetchmail Configuration"
 #~ msgctxt "Comment"
 #~ msgid "Nepomuk Server Configuration"
 #~ msgstr "Fetchmail ৰ বিন্যাস"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
 #~ msgctxt "Name"
 #~ msgid "Nepomuk Search Module"
 #~ msgstr "Web SideBar Module"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Audio and Video IDE"
 #~ msgctxt "Name"
 #~ msgid "Audio and Video Settings"
 #~ msgstr "অ'ডিঅ' আৰু ভিডিঅ' IDE"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Sound Processor"
 #~ msgctxt "Name"
 #~ msgid "Sound Policy"
 #~ msgstr "ধ্বনি সংসাধক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
 #~ msgctxt "Comment"
 #~ msgid "Multimedia System"
 #~ msgstr "Multimedia Player"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Java & JavaScript"
 #~ msgctxt "Name"
 #~ msgid "Plasma JavaScript Addon"
 #~ msgstr "Java & JavaScript"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Java & JavaScript"
 #~ msgctxt "Name"
 #~ msgid "Javascript Addon"
 #~ msgstr "Java & JavaScript"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Platform,Windows"
 #~ msgstr "MS Windows 9x"
@@ -3185,16 +3697,22 @@ msgstr ""
 #~ msgstr "চমুপথৰ আইকণৰ সমৰ্থন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Mount,Removable,Devices,Automatic"
 #~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "Name"
 #~ msgid "Removable Devices"
 #~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Samba Status"
 #~ msgctxt "Name"
 #~ msgid "Network Status"
 #~ msgstr "Samba ৰ অৱস্থা"
@@ -3208,6 +3726,8 @@ msgstr ""
 #~ "&FORMATO=ampliado"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "GPhoto"
 #~ msgctxt "Name"
 #~ msgid "Phonon"
 #~ msgstr "GPhoto"
@@ -3355,51 +3875,71 @@ msgstr ""
 #~ "%2COD%2CExcite%2CDirectHit%2CLooksmart%2CEuroseek&x=49&y=16"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Open Directory"
 #~ msgctxt "Name"
 #~ msgid "Directories"
 #~ msgstr "মুক্ত পঞ্জিকা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Xine"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Xine"
 #~ msgstr "Xine"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Internal Services"
 #~ msgctxt "Name"
 #~ msgid "File Indexer Service"
 #~ msgstr "অভ্যন্তৰীণ পৰিসেবা"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Desktop"
 #~ msgctxt "Comment"
 #~ msgid "Desktop Search"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "Comment"
 #~ msgid "Nepomuk file watch service"
 #~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "Name"
 #~ msgid "New Removable Device"
 #~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Comment"
 #~ msgid "Semantic Desktop"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://doc.trolltech.com/latest/\\\\{@}.html"
 #~ msgctxt "Query"
 #~ msgid "http://doc.qt.nokia.com/latest/\\\\{@}.html"
 #~ msgstr "http://doc.trolltech.com/latest/\\\\{@}.html"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "Secret Service Server"
 #~ msgstr "সেৱা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
 #~ msgctxt "Comment"
 #~ msgid "Secret Service Server"
 #~ msgstr "সেৱা"
@@ -3409,16 +3949,22 @@ msgstr ""
 #~ msgstr "http://www.qrz.com/database?callsign=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
 #~ msgctxt "Comment"
 #~ msgid "Activity manager plugin"
 #~ msgstr "পৰিচয়ৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
 #~ msgctxt "Name"
 #~ msgid "Activity Manager"
 #~ msgstr "পৰিচয়ৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "Name"
 #~ msgid "Nepomuk Removable Storage Service"
 #~ msgstr "USB যন্ত্ৰ"
@@ -3444,41 +3990,57 @@ msgstr ""
 #~ msgstr "কলাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
 #~ msgctxt "Name"
 #~ msgid "Dolphin General"
 #~ msgstr "Dolphin প্ৰদৰ্শন"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This service allows configuration of the Dolphin views."
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of general Dolphin settings."
 #~ msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "General"
 #~ msgctxt "Name|Random file browsing settings."
 #~ msgid "General"
 #~ msgstr "সাধাৰণ"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure general file manager settings"
 #~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
 #~ msgctxt "Name"
 #~ msgid "Dolphin Navigation"
 #~ msgstr "Dolphin প্ৰদৰ্শন"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This service allows configuration of the Dolphin views."
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the Dolphin navigation."
 #~ msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Navigation Panel"
 #~ msgctxt "Name"
 #~ msgid "Navigation"
 #~ msgstr "পৰিদৰ্শনৰ পেনেল"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure file manager navigation"
 #~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
@@ -3488,26 +4050,36 @@ msgstr ""
 #~ msgstr "সেৱা"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure file manager services"
 #~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
 #~ msgctxt "Name"
 #~ msgid "Dolphin View Modes"
 #~ msgstr "Dolphin প্ৰদৰ্শন"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This service allows configuration of the Dolphin views."
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the Dolphin view modes."
 #~ msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Views"
 #~ msgctxt "Name"
 #~ msgid "View Modes"
 #~ msgstr "প্ৰদৰ্শন ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure file manager view modes"
 #~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
@@ -3525,6 +4097,8 @@ msgstr ""
 #~ msgstr "গুপ্তশব্দ সলনি কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bookmark Toolbar"
 #~ msgctxt "Name"
 #~ msgid "Bookmark Editor"
 #~ msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
@@ -3534,91 +4108,127 @@ msgstr ""
 #~ msgstr "নথিপত্ৰ/পঞ্জিকা বিচাৰক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Clock"
 #~ msgctxt "Name"
 #~ msgid "Adblock"
 #~ msgstr "Clock"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Konqueror"
 #~ msgctxt "Name"
 #~ msgid "Konqueror Feed Icon"
 #~ msgstr "Konqueror"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "X Refresh"
 #~ msgctxt "Name"
 #~ msgid "Auto Refresh"
 #~ msgstr "X Refresh"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "LEO-Translate"
 #~ msgctxt "Name"
 #~ msgid "Translate"
 #~ msgstr "LEO-Translate"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
 #~ msgctxt "Name"
 #~ msgid "Directory Filter"
 #~ msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
 #~ msgctxt "Name"
 #~ msgid "DOM Tree Viewer"
 #~ msgstr "ছবি প্ৰদৰ্শক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
 #~ msgctxt "Name"
 #~ msgid "File Size Viewer"
 #~ msgstr "ছবি প্ৰদৰ্শক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System"
 #~ msgctxt "Name"
 #~ msgid "File Size View"
 #~ msgstr "ব্যৱস্থাপ্ৰণালী"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "SGI"
 #~ msgctxt "Name"
 #~ msgid "GIF"
 #~ msgstr "SGI"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Settings"
 #~ msgctxt "Name"
 #~ msgid "KHTML Settings"
 #~ msgstr "বৈশিষ্ট্য"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Image Viewer"
 #~ msgctxt "Name"
 #~ msgid "Image Gallery"
 #~ msgstr "ছবি প্ৰদৰ্শন ব্যবস্থা"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "DMA information"
 #~ msgctxt "Name"
 #~ msgid "Microformat Icon"
 #~ msgstr "DMA তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bookmarks"
 #~ msgctxt "Name"
 #~ msgid "Bookmarklets"
 #~ msgstr "পত্ৰচিহ্ন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE API Documentation"
 #~ msgctxt "Name"
 #~ msgid "Document Relations"
 #~ msgstr "KDE API Documentation"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "PHP Search"
 #~ msgctxt "Name"
 #~ msgid "Search Bar"
 #~ msgstr "PHP Search"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "UserAgent Strings"
 #~ msgctxt "Name"
 #~ msgid "UserAgent Changer"
 #~ msgstr "UserAgent Strings"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "FTP Archives"
 #~ msgctxt "Name"
 #~ msgid "Web Archiver"
 #~ msgstr "FTP আৰ্কাইভ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "FTP Archives"
 #~ msgctxt "Name"
 #~ msgid "Web Archives"
 #~ msgstr "FTP আৰ্কাইভ"
@@ -3652,6 +4262,8 @@ msgstr ""
 #~ msgstr "KDE আৰম্ভ কৰাৰ সময়ত Konqueror আগতে তুলি ল'ব"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDED Konqueror Preloader Module"
 #~ msgctxt "Name"
 #~ msgid "Konqueror Browser Preloader"
 #~ msgstr "KDED Konqueror Preloader Module"
@@ -3741,16 +4353,22 @@ msgstr ""
 #~ msgstr "UserAgent Strings"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Wget 1.5.3)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Android Phone 1.0)"
 #~ msgstr "UADescription (Wget 1.5.3)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Google Chrome 1.0 on Windows XP)"
 #~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Google Chrome 5.0)"
 #~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
@@ -3760,11 +4378,15 @@ msgstr ""
 #~ msgstr "UADescription (Firefox 2.0 on current)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 2.0 on current)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Firefox 3.0 on current)"
 #~ msgstr "UADescription (Firefox 2.0 on current)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 2.0 on current)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Firefox 3.6 on current)"
 #~ msgstr "UADescription (Firefox 2.0 on current)"
@@ -3794,6 +4416,8 @@ msgstr ""
 #~ msgstr "UADescription (IE 6.0 on Win XP)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (IE 6.0 on Win XP)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (IE 7.0 on Win XP)"
 #~ msgstr "UADescription (IE 6.0 on Win XP)"
@@ -3835,6 +4459,8 @@ msgstr ""
 #~ msgstr "UADescription (Opera 9.00 on current)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Opera 9.00 on current)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Opera 9.62 on current)"
 #~ msgstr "UADescription (Opera 9.00 on current)"
@@ -3844,16 +4470,22 @@ msgstr ""
 #~ msgstr "UADescription (Safari 2.0 on MacOS X)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 2.0 on MacOS X)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Safari 3.0 on iPhone)"
 #~ msgstr "UADescription (Safari 2.0 on MacOS X)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 1.2 on MacOS X)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Safari 3.2 on MacOS X)"
 #~ msgstr "UADescription (Safari 1.2 on MacOS X)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 2.0 on MacOS X)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Safari 4.0 on MacOS X)"
 #~ msgstr "UADescription (Safari 2.0 on MacOS X)"
@@ -3863,6 +4495,8 @@ msgstr ""
 #~ msgstr "UADescription (w3m 0.1.9)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Wget 1.5.3)"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Wget 1.11.4)"
 #~ msgstr "UADescription (Wget 1.5.3)"
@@ -3904,6 +4538,8 @@ msgstr ""
 #~ msgstr "ৱেব পৃষ্ঠা দেখুৱাবলৈ stylesheets কি ধৰণে ব্যৱহাৰ হয় বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure the fonts used on web pages"
 #~ msgctxt "Comment"
 #~ msgid "Configure how to display web pages"
 #~ msgstr "ৱেব পৃষ্ঠাত ব্যৱহাৰ কৰা আখৰ বিন্যাস কৰক"
@@ -3925,6 +4561,8 @@ msgstr ""
 #~ msgstr "Konqueror AdBlocK filters বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "General"
 #~ msgctxt ""
 #~ "Name|Konqeuror settings relevant to both web browsing and file management."
 #~ msgid "General"
@@ -3989,6 +4627,8 @@ msgstr ""
 #~ msgstr "এই ফোল্ডাৰত আপোনাৰ ব্যক্তিগত নথিপত্ৰ আছে"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This is the root of the filesystem"
 #~ msgctxt "Comment"
 #~ msgid "This is the list of places."
 #~ msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
@@ -4006,16 +4646,22 @@ msgstr ""
 #~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
 #~ msgctxt "Name"
 #~ msgid "History SideBar Module"
 #~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
 #~ msgctxt "Name"
 #~ msgid "Sidebar"
 #~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
 #~ msgctxt "Name"
 #~ msgid "Places SideBar Module"
 #~ msgstr "Web SideBar Module"
@@ -4097,6 +4743,8 @@ msgstr ""
 #~ msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plugin for the Konqueror Popup Menu"
 #~ msgctxt "Comment"
 #~ msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
 #~ msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
@@ -4118,6 +4766,8 @@ msgstr ""
 #~ msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Format"
 #~ msgctxt "Name|Starts a program to format a floppy drive"
 #~ msgid "Format"
 #~ msgstr "আকৃতি"
@@ -4239,11 +4889,15 @@ msgstr ""
 #~ msgstr "ফোল্ডাৰৰ প্ৰদৰ্শন"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Display the content of folders (Desktop as default)"
 #~ msgctxt "Comment"
 #~ msgid "Display the contents of folders (User's home folder as default)"
 #~ msgstr "ফোল্ডাৰৰ বিষয়বস্তু দেখুৱাওক (ডেষ্কট'প অবিকল্পিত হিচাপে)"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
 #~ msgctxt "Name"
 #~ msgid "Date and Time Control Module"
 #~ msgstr "তাৰিখ আৰু সময়"
@@ -4257,11 +4911,15 @@ msgstr ""
 #~ msgstr "গুৰুত্বপূৰ্ণ নথিপত্ৰ সংৰক্ষণ কৰাৰ স্থান সলনি কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Desktop Theme"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Cursor Theme"
 #~ msgstr "ডেস্কট'প"
@@ -4271,16 +4929,22 @@ msgstr ""
 #~ msgstr "সংস্থাপন কৰক..."
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
 #~ msgctxt "Name"
 #~ msgid "Login Manager Control Module"
 #~ msgstr "তাৰিখ আৰু সময়"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "PrintScreen"
 #~ msgctxt "Name"
 #~ msgid "Login Screen"
 #~ msgstr "PrintScreen"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "Stripes"
 #~ msgstr "সেৱা"
@@ -4290,26 +4954,36 @@ msgstr ""
 #~ msgstr "CDE"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Details"
 #~ msgctxt "Name"
 #~ msgid "Ethais"
 #~ msgstr "বিৱৰণ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Comoros"
 #~ msgctxt "Name"
 #~ msgid "Horos"
 #~ msgstr "কোমোৰোছ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Oxygen"
 #~ msgctxt "Name"
 #~ msgid "Oxygen-Air"
 #~ msgstr "Oxygen"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "PHP Search"
 #~ msgctxt "Name"
 #~ msgid "Search"
 #~ msgstr "PHP Search"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Qt Designer"
 #~ msgctxt "Comment"
 #~ msgid "Qt Designer"
 #~ msgstr "Qt Designer"
@@ -4347,31 +5021,43 @@ msgstr ""
 #~ msgstr "PrintScreen"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Shortcuts"
 #~ msgctxt "Name"
 #~ msgid "Custom Shortcuts"
 #~ msgstr "ৱেবৰ চমু পথ"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure Input Actions settings"
 #~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lost & Found"
 #~ msgctxt "Name"
 #~ msgid "Lost And Found"
 #~ msgstr "হেৰুৱা & পোৱা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Processor Information"
 #~ msgctxt "Name"
 #~ msgid "Graphical Information"
 #~ msgstr "সংসাধকৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KInfoCenter"
 #~ msgctxt "Name"
 #~ msgid "KInfoCenter Category"
 #~ msgstr "KInfoCenter"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Memory information"
 #~ msgctxt "Name"
 #~ msgid "Network Information"
 #~ msgstr "স্মৃতিশক্তিৰ তথ্য"
@@ -4385,11 +5071,15 @@ msgstr ""
 #~ msgstr "তথ্য কেন্দ্ৰ"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
 #~ msgctxt "Name"
 #~ msgid "Device Viewer"
 #~ msgstr "ছবি প্ৰদৰ্শক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
 #~ msgctxt "Comment"
 #~ msgid "Device Viewer"
 #~ msgstr "ছবি প্ৰদৰ্শক"
@@ -4427,6 +5117,8 @@ msgstr ""
 #~ msgstr "SCSI তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Information"
 #~ msgctxt "Comment"
 #~ msgid "Hardware Information Summary"
 #~ msgstr "তথ্য"
@@ -4496,16 +5188,22 @@ msgstr ""
 #~ msgstr "সংযুক্ত IEEE 1394 যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
 #~ msgctxt "Comment"
 #~ msgid "Screen Saver"
 #~ msgstr "বিজ্ঞান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
 #~ msgctxt "Name"
 #~ msgid "Screen locked"
 #~ msgstr "বিজ্ঞান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Session Management"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
@@ -4519,6 +5217,8 @@ msgstr ""
 #~ msgstr "BeOS"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pose"
 #~ msgctxt "Name"
 #~ msgid "Plastique"
 #~ msgstr "Pose"
@@ -4532,16 +5232,22 @@ msgstr ""
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "MS Windows Vista"
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "MS Windows XP"
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Monitor"
 #~ msgctxt "Comment"
 #~ msgid "System Monitor"
 #~ msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
@@ -4551,36 +5257,50 @@ msgstr ""
 #~ msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Desktop Publishing"
 #~ msgctxt "Name"
 #~ msgid "Desktop Cube Animation"
 #~ msgstr "ডেষ্কট'প প্ৰকাশন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Fade Desktop"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Glines"
 #~ msgctxt "Name"
 #~ msgid "Glide"
 #~ msgstr "Glines"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
 #~ msgctxt "Name"
 #~ msgid "Screenshot"
 #~ msgstr "বিজ্ঞান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Stylesheets"
 #~ msgctxt "Name"
 #~ msgid "Sheet"
 #~ msgstr "Stylesheets"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Saint Helena"
 #~ msgctxt "Name"
 #~ msgid "Snap Helper"
 #~ msgstr "ছেন্ট হেলেনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "WindowGeometry"
 #~ msgstr "MS Windows 9x"
@@ -4590,96 +5310,134 @@ msgstr ""
 #~ msgstr "ডাঙৰকৈ প্ৰদৰ্শন"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Window Termination Tool"
 #~ msgctxt "Name"
 #~ msgid "Window Decorations"
 #~ msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Virtual Desktops"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "Window Rules"
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure active screen edges"
 #~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure the behavior of Java and JavaScript"
 #~ msgctxt "Comment"
 #~ msgid "Configure the behavior for navigating through windows"
 #~ msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
 #~ msgctxt "Comment"
 #~ msgid "KWin Window Manager"
 #~ msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Display Management"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Memory information"
 #~ msgctxt "Name"
 #~ msgid "Detailed Memory Information"
 #~ msgstr "স্মৃতিশক্তিৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Comment"
 #~ msgid "Modem Management Backend"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "Window List"
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Desktop"
 #~ msgctxt "Name|plasma containment"
 #~ msgid "Desktop Dashboard"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Desktop"
 #~ msgctxt "Comment"
 #~ msgid "Widget Dashboard"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name|plasma containment"
 #~ msgid "Desktop"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Comment"
 #~ msgid "Default desktop"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Default"
 #~ msgctxt "Name"
 #~ msgid "Default Panel"
 #~ msgstr "অবিকল্পিত"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "Find Widgets"
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Desktop toolbox"
 #~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Panel toolbox"
 #~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
 #~ msgctxt "Name"
 #~ msgid "Open with File Manager"
 #~ msgstr "নথিপত্ৰৰ পৰিচালক"
@@ -4689,66 +5447,92 @@ msgstr ""
 #~ msgstr "আইকন"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Monitor"
 #~ msgctxt "Name"
 #~ msgid "CPU Monitor"
 #~ msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Network Monitor"
 #~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Samba Status"
 #~ msgctxt "Name"
 #~ msgid "Memory Status"
 #~ msgstr "Samba ৰ অৱস্থা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
 #~ msgctxt "Comment"
 #~ msgid "Simple application launcher"
 #~ msgstr "অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pose"
 #~ msgctxt "Name"
 #~ msgid "Paste"
 #~ msgstr "Pose"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Switch Desktop"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "Switch Window"
 #~ msgstr "MS Windows 9x"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
 #~ msgctxt "Name"
 #~ msgid "Activities Engine"
 #~ msgstr "পৰিচয়ৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Information about available protocols"
 #~ msgctxt "Comment"
 #~ msgid "Information on Plasma Activities"
 #~ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
 #~ msgctxt "Comment"
 #~ msgid "Akonadi PIM data engine"
 #~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Partition information"
 #~ msgctxt "Name"
 #~ msgid "Application Information"
 #~ msgstr "বিভাজনৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
 #~ msgctxt "Comment"
 #~ msgid "Calendar data engine"
 #~ msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Device Notifications"
 #~ msgstr "যন্ত্ৰ"
@@ -4758,31 +5542,43 @@ msgstr ""
 #~ msgstr "অভিধান"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Information about available protocols"
 #~ msgctxt "Comment"
 #~ msgid "Information about files and directories."
 #~ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application"
 #~ msgctxt "Name"
 #~ msgid "Geolocation"
 #~ msgstr "অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Name|plasma data engine"
 #~ msgid "Power Management"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "ShareProvider"
 #~ msgstr "সেৱা"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Process Information"
 #~ msgctxt "Name"
 #~ msgid "Status Notifier Information"
 #~ msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Process Information"
 #~ msgctxt "Comment"
 #~ msgid "System status information"
 #~ msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
@@ -4792,36 +5588,50 @@ msgstr ""
 #~ msgstr "তাৰিখ আৰু সময়"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
 #~ msgctxt "Comment"
 #~ msgid "Date and time by timezone"
 #~ msgstr "তাৰিখ আৰু সময়"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bookmarks"
 #~ msgctxt "Name|plasma runner"
 #~ msgid "Bookmarks"
 #~ msgstr "পত্ৰচিহ্ন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Applications"
 #~ msgctxt "Name"
 #~ msgid "Kill Applications"
 #~ msgstr "KDE Applications"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Applications"
 #~ msgctxt "Name"
 #~ msgid "Terminate Applications"
 #~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name|plasma runner"
 #~ msgid "Devices"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Shortcuts"
 #~ msgctxt "Name|plasma runner"
 #~ msgid "Web Shortcuts"
 #~ msgstr "ৱেবৰ চমু পথ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
 #~ msgctxt "Name"
 #~ msgid "Windowed widgets"
 #~ msgstr "MS Windows 9x"
@@ -4831,376 +5641,526 @@ msgstr ""
 #~ msgstr "ৰং"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "More Applications"
 #~ msgctxt "Name"
 #~ msgid "Current Application Control"
 #~ msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Control for Jack"
 #~ msgctxt "Comment"
 #~ msgid "Controls for the active window"
 #~ msgstr "Jack ৰ কাৰণে নিয়ন্ত্ৰণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "PHP Search"
 #~ msgctxt "Name"
 #~ msgid "Search Box"
 #~ msgstr "PHP Search"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Contact Manager"
 #~ msgctxt "Name"
 #~ msgid "Contacts"
 #~ msgstr "পৰিচয়ৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Applications"
 #~ msgctxt "Comment"
 #~ msgid "Educational applications"
 #~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Default"
 #~ msgctxt "Comment"
 #~ msgid "Default Netbook Page"
 #~ msgstr "অবিকল্পিত"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Default"
 #~ msgctxt "Name"
 #~ msgid "Default Netbook Panel"
 #~ msgstr "অবিকল্পিত"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Net toolbox"
 #~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Disable Desktop Effects"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Science"
 #~ msgctxt "Name"
 #~ msgid "Screen Energy Saving"
 #~ msgstr "বিজ্ঞান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Comment"
 #~ msgid "Power Management Action Extension"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE 2"
 #~ msgctxt "Name"
 #~ msgid "KDE"
 #~ msgstr "KDE 2"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Settings"
 #~ msgctxt "Name"
 #~ msgid "Global settings"
 #~ msgstr "বৈশিষ্ট্য"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure global Power Management settings"
 #~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure Power Management Profiles"
 #~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "KDE Power Management System"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Browser Identification"
 #~ msgctxt "Name"
 #~ msgid "Broken battery notification"
 #~ msgstr "চৰকৰ চিনাক্তকৰণ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Information"
 #~ msgctxt "Name"
 #~ msgid "Information Sources"
 #~ msgstr "তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Licq"
 #~ msgctxt "Name"
 #~ msgid "Lirc"
 #~ msgstr "Licq"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "Name"
 #~ msgid "Solid Device"
 #~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Device Type"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "DJ-Mixer and Player"
 #~ msgctxt "Name"
 #~ msgid "Driver Handle"
 #~ msgstr "DJ-Mixer আৰু Player"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Game"
 #~ msgctxt "Name"
 #~ msgid "Name"
 #~ msgstr "খেলা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Device"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Moria"
 #~ msgctxt "Name"
 #~ msgid "Major"
 #~ msgstr "Moria"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Moria"
 #~ msgctxt "Name"
 #~ msgid "Minor"
 #~ msgstr "Moria"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Strategy Game"
 #~ msgctxt "Name"
 #~ msgid "State Value"
 #~ msgstr "Strategy Game"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Protocols"
 #~ msgctxt "Name"
 #~ msgid "Supported Protocols"
 #~ msgstr "আচাৰ বিধি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Developer"
 #~ msgctxt "Name"
 #~ msgid "Device Adapter"
 #~ msgstr "বিকাশক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Device Index"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Dice Game"
 #~ msgctxt "Name"
 #~ msgid "Iface Name"
 #~ msgstr "Dice Game"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Appearance"
 #~ msgctxt "Name"
 #~ msgid "Appendable"
 #~ msgstr "চেহেৰা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plan"
 #~ msgctxt "Name"
 #~ msgid "Blank"
 #~ msgstr "Plan"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Audacity"
 #~ msgctxt "Name"
 #~ msgid "Capacity"
 #~ msgstr "Audacity"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Iagno"
 #~ msgctxt "Name"
 #~ msgid "Ignored"
 #~ msgstr "Iagno"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Belize"
 #~ msgctxt "Name"
 #~ msgid "Size"
 #~ msgstr "বেলিজে"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Belarus"
 #~ msgctxt "Name"
 #~ msgid "Bus"
 #~ msgstr "বেলাৰুস"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Portugal"
 #~ msgctxt "Name"
 #~ msgid "Hotpluggable"
 #~ msgstr "পোৰ্টুগাল"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Spread Sheet"
 #~ msgctxt "Name"
 #~ msgid "Read Speed"
 #~ msgstr "Spread Sheet"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Niue"
 #~ msgctxt "Name"
 #~ msgid "Number"
 #~ msgstr "নিউ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Forte"
 #~ msgctxt "Name"
 #~ msgid "Port"
 #~ msgstr "Forte"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Spread Sheet"
 #~ msgctxt "Name"
 #~ msgid "Reader Type"
 #~ msgstr "Spread Sheet"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Accessibility"
 #~ msgctxt "Name"
 #~ msgid "Accessible"
 #~ msgstr "অভিগম্যতা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Find Part"
 #~ msgctxt "Name"
 #~ msgid "File Path"
 #~ msgstr "বিভাজন বিচাৰক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Device Actions"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Solid Device Type"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Details"
 #~ msgctxt "Name"
 #~ msgid "Account Details"
 #~ msgstr "বিৱৰণ"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Partition information"
 #~ msgctxt "Name"
 #~ msgid "Application and System Notifications"
 #~ msgstr "বিভাজনৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ruby Application Archive"
 #~ msgctxt "Name"
 #~ msgid "Application Appearance"
 #~ msgstr "Ruby Application Archive"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Workspace Appearance"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Display and Monitor"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Input Devices"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Logic Game"
 #~ msgctxt "Name"
 #~ msgid "Locale"
 #~ msgstr "Logic Game"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lost & Found"
 #~ msgctxt "Name"
 #~ msgid "Lost and Found"
 #~ msgstr "হেৰুৱা & পোৱা"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Network and Connectivity"
 #~ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Partitions"
 #~ msgctxt "Name"
 #~ msgid "Permissions"
 #~ msgstr "বিভাজন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Processor Information"
 #~ msgctxt "Name"
 #~ msgid "Personal Information"
 #~ msgstr "সংসাধকৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Shortcut icon support"
 #~ msgctxt "Name"
 #~ msgid "Shortcuts and Gestures"
 #~ msgstr "চমুপথৰ আইকণৰ সমৰ্থন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "SAM System-Administration"
 #~ msgctxt "Name"
 #~ msgid "System Administration"
 #~ msgstr "SAM System-Administration"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Behavior"
 #~ msgctxt "Name"
 #~ msgid "Workspace Behavior"
 #~ msgstr "ৱেবৰ আচৰণ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Applications"
 #~ msgctxt "Name"
 #~ msgid "System Settings External Application"
 #~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
 #~ msgctxt "Name"
 #~ msgid "Icon View"
 #~ msgstr "Dolphin প্ৰদৰ্শন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Benin"
 #~ msgctxt "Name"
 #~ msgid "Evening"
 #~ msgstr "বেনিন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Graphics"
 #~ msgctxt "Name"
 #~ msgid "Grass"
 #~ msgstr "চিত্ৰাঙ্কন"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Panama"
 #~ msgctxt "Name"
 #~ msgid "Hanami"
 #~ msgstr "পানামা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pose"
 #~ msgctxt "Name"
 #~ msgid "pastebin.ca"
 #~ msgstr "Pose"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
 #~ msgctxt "Comment"
 #~ msgid "Power Management"
 #~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Shell"
 #~ msgctxt "Name"
 #~ msgid "Share"
 #~ msgstr "শ্বেল"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Games"
 #~ msgctxt "Name"
 #~ msgid "Example"
 #~ msgstr "খেলা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Pan"
 #~ msgctxt "Name"
 #~ msgid "and"
 #~ msgstr "Pan"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Forte"
 #~ msgctxt "Name"
 #~ msgid "or"
 #~ msgstr "Forte"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Gnotski"
 #~ msgctxt "Name"
 #~ msgid "not"
 #~ msgstr "Gnotski"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Warning"
 #~ msgctxt "Name"
 #~ msgid "Rating"
 #~ msgstr "সতৰ্কবাণী"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File"
 #~ msgctxt "Name"
 #~ msgid "Title"
 #~ msgstr "নথিপত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "OpenGL"
 #~ msgctxt "Name"
 #~ msgid "Open"
 #~ msgstr "OpenGL"
@@ -5222,6 +6182,8 @@ msgstr ""
 #~ msgstr "Alexa URL"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/data/details?url=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.alexa.com/data/details?url=\\\\{@}"
 #~ msgstr "http://info.alexa.com/data/details?url=\\\\{@}"
@@ -5287,6 +6249,10 @@ msgstr ""
 #~ msgstr "Whatis Query"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://whatis.techtarget.com/definitionsSearchResults/1,289878,sid9,00."
+#~| "html?query=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://whatis.techtarget.com/wsearchResultsB/0,,sid9,00.html?query=\\\\{@}"
@@ -5295,6 +6261,8 @@ msgstr ""
 #~ "html?query=\\\\{@}"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Information"
 #~ msgctxt "Comment"
 #~ msgid "Device Information"
 #~ msgstr "তথ্য"
@@ -5308,26 +6276,36 @@ msgstr ""
 #~ msgstr "আচাৰ বিধি"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
 #~ msgctxt "Name"
 #~ msgid "Solid Backend"
 #~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "General"
 #~ msgctxt "Name|Settings for common user needs (tab in System Settings)."
 #~ msgid "General"
 #~ msgstr "সাধাৰণ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Main Input Devices"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Other Input Devices"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Question"
 #~ msgctxt "Name"
 #~ msgid "Subversion"
 #~ msgstr "প্ৰশ্ন"
@@ -6548,6 +7526,8 @@ msgstr ""
 #~ msgstr "প্ৰকল্পৰ পৰিচালক"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Netscape Addressbook"
 #~ msgctxt "Name"
 #~ msgid "Netscape Address Book"
 #~ msgstr "Netscape Addressbook"
@@ -6789,11 +7769,15 @@ msgstr ""
 #~ msgstr "তালিকা উন্নয়নৰ সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
 #~ msgctxt "Comment"
 #~ msgid "Solid Device Viewer"
 #~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Interfaces"
 #~ msgctxt "Comment"
 #~ msgid "Network Interface Summary"
 #~ msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
@@ -6827,11 +7811,15 @@ msgstr ""
 #~ msgstr "সংসাধকৰ তথ্য"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Monitor"
 #~ msgctxt "Name"
 #~ msgid "System Monitor - RAM"
 #~ msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Education"
 #~ msgctxt "Name"
 #~ msgid "Communication"
 #~ msgstr "শিক্ষা"
@@ -6841,6 +7829,8 @@ msgstr ""
 #~ msgstr "EOS"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Panama"
 #~ msgctxt "Name"
 #~ msgid "Pataca"
 #~ msgstr "পানামা"
@@ -6858,16 +7848,22 @@ msgstr ""
 #~ msgstr "পৰিদৰ্শনৰ পেনেল"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
 #~ msgctxt "Name"
 #~ msgid "script-mediaplayer"
 #~ msgstr "Multimedia Player"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
 #~ msgctxt "Comment"
 #~ msgid "Javascript media player"
 #~ msgstr "Multimedia Player"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
 #~ msgctxt "Name"
 #~ msgid "script-nowplaying"
 #~ msgstr "Multimedia Player"
@@ -6877,56 +7873,78 @@ msgstr ""
 #~ msgstr "GNU Debugger"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Hydrogen"
 #~ msgctxt "Name"
 #~ msgid "Nitrogen"
 #~ msgstr "Hydrogen"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Panama"
 #~ msgctxt "Name"
 #~ msgid "Plasma"
 #~ msgstr "পানামা"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDED Favicon Module"
 #~ msgctxt "Name"
 #~ msgid "KDED Locking Module"
 #~ msgstr "KDED Favicon Module"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Interfaces"
 #~ msgctxt "Name"
 #~ msgid "Audio Interface"
 #~ msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bhutan"
 #~ msgctxt "Name"
 #~ msgid "Button"
 #~ msgstr "ভুটান"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cameroon"
 #~ msgctxt "Name"
 #~ msgid "Camera"
 #~ msgstr "কেমেৰুণ"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Interfaces"
 #~ msgctxt "Name"
 #~ msgid "Dvb Interface"
 #~ msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Interfaces"
 #~ msgctxt "Name"
 #~ msgid "Generic Interface"
 #~ msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Multimedia Player"
 #~ msgctxt "Name"
 #~ msgid "Portable Media Player"
 #~ msgstr "Multimedia Player"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Interfaces"
 #~ msgctxt "Name"
 #~ msgid "Serial Interface"
 #~ msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
 
 #, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Remote Access"
 #~ msgctxt "Name"
 #~ msgid "Storage Access"
 #~ msgstr "দূৰৰ পৰা প্ৰৱেশ কৰা"
@@ -6968,36 +7986,52 @@ msgstr ""
 #~ msgstr "অজ্ঞাত"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Windows Shares"
 #~ msgctxt "Keywords"
 #~ msgid "Windows and Tasks"
 #~ msgstr "Windows Shares"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
 #~ msgctxt "Keywords"
 #~ msgid "Date and Time"
 #~ msgstr "তাৰিখ আৰু সময়"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System"
 #~ msgctxt "Keywords"
 #~ msgid "System"
 #~ msgstr "ব্যৱস্থাপ্ৰণালী"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Utilities"
 #~ msgctxt "Keywords"
 #~ msgid "Utilities"
 #~ msgstr "সৰঞ্জাম"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
 #~ msgctxt "Keywords"
 #~ msgid "Python Date and Time"
 #~ msgstr "তাৰিখ আৰু সময়"
 
 #, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applix"
 #~ msgctxt "Keywords"
 #~ msgid "Applet"
 #~ msgstr "Applix"
 
 #, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://bugs.kde.org/simple_search.cgi?id=\\\\{1}+\\\\{2}+\\\\{3}+\\\\{4}+"
+#~| "\\\\{5}+\\\\{6}+\\\\{7}+\\\\{8}+\\\\{9}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://bugs.kde.org/buglist.cgi?quicksearch=\\\\{1}+\\\\{2}+\\\\{3}+\\"
