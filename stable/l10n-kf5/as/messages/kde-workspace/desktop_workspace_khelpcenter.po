@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-08 08:39+0000\n"
+"POT-Creation-Date: 2015-04-10 11:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,12 +19,12 @@ msgctxt "Name"
 msgid "Index"
 msgstr ""
 
-#: htmlsearch/htmlsearch.desktop:104
+#: htmlsearch/htmlsearch.desktop:105
 msgctxt "Comment"
 msgid "Index generation"
 msgstr ""
 
-#: htmlsearch/htmlsearch.desktop:195
+#: htmlsearch/htmlsearch.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "Help,HTML,Search,Index,htdig,htsearch,htmerge,Scope,Language"
 msgstr ""
@@ -34,12 +34,12 @@ msgctxt "Name"
 msgid "Help Index"
 msgstr ""
 
-#: kcmhelpcenter.desktop:103
+#: kcmhelpcenter.desktop:104
 msgctxt "Comment"
 msgid "Help center search index configuration and generation"
 msgstr ""
 
-#: kcmhelpcenter.desktop:191
+#: kcmhelpcenter.desktop:193
 msgctxt "X-KDE-Keywords"
 msgid "khelpcenter,help,index,search"
 msgstr ""
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "KHelpCenter"
 msgstr ""
 
-#: khelpcenter.desktop:93
+#: khelpcenter.desktop:94
 msgctxt "Comment"
 msgid "The KDE Help Center"
 msgstr ""

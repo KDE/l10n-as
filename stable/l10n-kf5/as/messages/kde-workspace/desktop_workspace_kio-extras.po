@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-08 08:39+0000\n"
+"POT-Creation-Date: 2015-04-10 11:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -22,7 +22,7 @@ msgctxt "Name"
 msgid "Directory Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: desktop/desktopnotifier.desktop:78
+#: desktop/desktopnotifier.desktop:79
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
@@ -32,7 +32,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: desktop/./directory.trash:83
+#: desktop/./directory.trash:84
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Home"
 msgstr "ঘৰ"
 
-#: desktop/Home.desktop:95
+#: desktop/Home.desktop:96
 msgctxt "GenericName"
 msgid "Personal Files"
 msgstr "ব্যক্তিগত নথিপত্ৰ"
@@ -57,7 +57,7 @@ msgctxt "Comment"
 msgid "Embeddable Troff Viewer"
 msgstr ""
 
-#: man/kmanpart.desktop:93
+#: man/kmanpart.desktop:94
 msgctxt "Name"
 msgid "KManPart"
 msgstr ""
@@ -97,7 +97,7 @@ msgctxt "Name"
 msgid "Network Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: network/kded/networkwatcher.desktop:79
+#: network/kded/networkwatcher.desktop:80
 msgctxt "Comment"
 msgid ""
 "Keeps track of the network and updates directory listings of the network:/ "
@@ -112,7 +112,7 @@ msgctxt "Name"
 msgid "Recent Document Watcher"
 msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: recentdocuments/recentdocumentsnotifier.desktop:68
+#: recentdocuments/recentdocumentsnotifier.desktop:69
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
 msgstr ""
