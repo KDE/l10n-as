@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-15 08:34+0000\n"
+"POT-Creation-Date: 2015-04-17 10:03+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -952,11 +952,6 @@ msgstr ""
 #: freespacenotifier/freespacenotifier.notifyrc:354
 msgctxt "Comment"
 msgid "You are running low on disk space"
-msgstr ""
-
-#: kglobalaccel/kglobalaccel.desktop:10
-msgctxt "Name"
-msgid "KDED Global Shortcuts Server"
 msgstr ""
 
 #: kioslave/remote/kdedmodule/remotedirnotify.desktop:3
