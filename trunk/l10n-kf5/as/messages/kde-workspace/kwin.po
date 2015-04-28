@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-25 09:08+0000\n"
+"POT-Creation-Date: 2015-04-28 12:09+0000\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -52,6 +52,10 @@ msgstr "GLX/OpenGL নাই আৰু অকল OpenGL সমৰ্থন ব�
 #: compositingprefs.cpp:114
 msgid "GLX/OpenGL and XRender/XFixes are not available."
 msgstr "GLX/OpenGL আৰু XRender/XFixes নাই ।"
+
+#: drm_backend.cpp:616 drm_backend.cpp:628
+msgid "unknown"
+msgstr ""
 
 #: killer/killer.cpp:44
 #, fuzzy
