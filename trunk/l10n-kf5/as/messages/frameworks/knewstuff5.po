@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-18 09:00+0000\n"
+"POT-Creation-Date: 2015-05-03 08:53+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -392,21 +392,21 @@ msgstr ""
 msgid "Install"
 msgstr "সংস্থাপন কৰক"
 
-#: kmoretools/kmoretools.cpp:628
+#: kmoretools/kmoretools.cpp:637
 #, fuzzy
 #| msgid "Choose..."
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "নিৰ্ব্বাচন কৰক..."
 
-#: kmoretools/kmoretools.cpp:643
+#: kmoretools/kmoretools.cpp:652
 #, fuzzy
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "সংস্থাপন কৰক"
 
-#: kmoretools/kmoretools.cpp:679
+#: kmoretools/kmoretools.cpp:688
 #, fuzzy
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
@@ -438,6 +438,21 @@ msgstr "বিন্যাস কৰক"
 #| msgid "&Configure %1..."
 msgid "Configure menu - %1"
 msgstr "%1 বিন্যাস কৰক...(&C)"
+
+#: kmoretools/kmoretoolsmenufactory.cpp:110
+msgctxt "@action:inmenu"
+msgid "$GenericName - current folder"
+msgstr ""
+
+#: kmoretools/kmoretoolsmenufactory.cpp:118
+msgctxt "@action:inmenu"
+msgid "$GenericName - current device"
+msgstr ""
+
+#: kmoretools/kmoretoolsmenufactory.cpp:133
+msgctxt "@action:inmenu"
+msgid "$GenericName - all devices"
+msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
 #: kmoretools/ui/kmoretoolsconfigwidget.ui:25
