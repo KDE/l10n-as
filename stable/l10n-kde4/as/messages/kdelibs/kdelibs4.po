@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-07 06:03+0000\n"
+"POT-Creation-Date: 2015-05-15 05:55+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -899,15 +899,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "বানানত অত্যাধিক পৰিমাণে ত্ৰুটি । টাইপ-কৰাৰ-সময়ত-বানান-পৰীক্ষণ নিষ্ক্ৰিয় কৰা হৈছে ।"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:546
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:549
 msgid "Check Spelling..."
 msgstr "বানান পৰীক্ষণ..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:549
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:552
 msgid "Auto Spell Check"
 msgstr "স্বয়ংক্ৰিয় বানান পৰীক্ষণ"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:554
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:557
 msgid "Allow Tabulations"
 msgstr ""
 
@@ -8978,27 +8978,27 @@ msgstr "সম্পূৰ্ণ লিপি নকল কৰক (&C)"
 msgid "Nothing to spell check."
 msgstr "বানান পৰীক্ষা কৰাৰ বাবে একো নাই ।"
 
-#: kdeui/widgets/ktextedit.cpp:582
+#: kdeui/widgets/ktextedit.cpp:589
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "স্বনিৰ্ধাৰিত লিপি উচ্চাৰণ"
 
-#: kdeui/widgets/ktextedit.cpp:597
+#: kdeui/widgets/ktextedit.cpp:604
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:681
+#: kdeui/widgets/ktextedit.cpp:688
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "মন্তব্য"
 
-#: kdeui/widgets/ktextedit.cpp:693
+#: kdeui/widgets/ktextedit.cpp:700
 msgid "Ignore"
 msgstr "উপেক্ষা কৰক"
 
-#: kdeui/widgets/ktextedit.cpp:694
+#: kdeui/widgets/ktextedit.cpp:701
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
 
