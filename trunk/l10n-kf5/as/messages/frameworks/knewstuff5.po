@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-22 09:39+0000\n"
+"POT-Creation-Date: 2015-05-24 08:52+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -439,17 +439,17 @@ msgstr "বিন্যাস কৰক"
 msgid "Configure menu - %1"
 msgstr "%1 বিন্যাস কৰক...(&C)"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:147
+#: kmoretools/kmoretoolsmenufactory.cpp:148
 msgctxt "@action:inmenu"
 msgid "$GenericName - current folder"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:155
+#: kmoretools/kmoretoolsmenufactory.cpp:156
 msgctxt "@action:inmenu"
 msgid "$GenericName - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:170
+#: kmoretools/kmoretoolsmenufactory.cpp:171
 msgctxt "@action:inmenu"
 msgid "$GenericName - all devices"
 msgstr ""
