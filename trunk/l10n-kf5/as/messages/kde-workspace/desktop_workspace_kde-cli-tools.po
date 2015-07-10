@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-08 08:39+0000\n"
+"POT-Creation-Date: 2015-07-10 08:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,12 +19,12 @@ msgctxt "Name"
 msgid "File Associations"
 msgstr "নথিপত্ৰৰ সম্বন্ধ"
 
-#: keditfiletype/filetypes.desktop:105
+#: keditfiletype/filetypes.desktop:106
 msgctxt "Comment"
 msgid "Configure file associations"
 msgstr "নথিপত্ৰৰ সম্বন্ধ বিন্যাস কৰক"
 
-#: keditfiletype/filetypes.desktop:196
+#: keditfiletype/filetypes.desktop:198
 msgctxt "X-KDE-Keywords"
 msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
 msgstr ""
