@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-08 06:05+0000\n"
+"POT-Creation-Date: 2015-07-15 05:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2326,7 +2326,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/qwant.desktop:39
+#: kurifilter-plugins/ikws/searchproviders/qwant.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2339,7 +2339,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/qwant_images.desktop:39
+#: kurifilter-plugins/ikws/searchproviders/qwant_images.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2352,7 +2352,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/qwant_news.desktop:39
+#: kurifilter-plugins/ikws/searchproviders/qwant_news.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2368,7 +2368,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Google Groups"
 
-#: kurifilter-plugins/ikws/searchproviders/qwant_shopping.desktop:39
+#: kurifilter-plugins/ikws/searchproviders/qwant_shopping.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2381,7 +2381,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/qwant_social.desktop:39
+#: kurifilter-plugins/ikws/searchproviders/qwant_social.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2394,7 +2394,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/qwant_videos.desktop:39
+#: kurifilter-plugins/ikws/searchproviders/qwant_videos.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -5713,7 +5713,7 @@ msgctxt "Name"
 msgid "Nepomuk"
 msgstr "Web SideBar Module"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:58
+#: nepomuk/kcm/kcm_nepomuk.desktop:59
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Fetchmail Configuration"
@@ -5721,7 +5721,7 @@ msgctxt "Comment"
 msgid "Nepomuk Server Configuration"
 msgstr "Fetchmail ৰ বিন্যাস"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:116
+#: nepomuk/kcm/kcm_nepomuk.desktop:117
 msgctxt "X-KDE-Keywords"
 msgid "Nepomuk,Metadata"
 msgstr ""
