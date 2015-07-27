@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-07 11:26+0000\n"
+"POT-Creation-Date: 2015-07-27 07:54+0000\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -160,7 +160,7 @@ msgstr "KWrite - লিখনী সম্পাদক"
 #: main.cpp:62
 #, fuzzy
 #| msgid "(c) 2000-2010 The Kate Authors"
-msgid "(c) 2000-2014 The Kate Authors"
+msgid "(c) 2000-2015 The Kate Authors"
 msgstr "(c) ২০০০-২০১০  Kate লিখকসমূহ"
 
 #: main.cpp:69
