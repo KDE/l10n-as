@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-14 08:34+0000\n"
+"POT-Creation-Date: 2015-08-15 09:10+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -42,12 +42,12 @@ msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr "বিজ্ঞান"
 
-#: applets/batterymonitor/package/metadata.desktop:33
+#: applets/batterymonitor/package/metadata.desktop:34
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:106
+#: applets/batterymonitor/package/metadata.desktop:107
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -179,7 +179,7 @@ msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
-#: applets/systemmonitor/cpu/metadata.desktop:34
+#: applets/systemmonitor/cpu/metadata.desktop:35
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
 msgstr ""
@@ -922,7 +922,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioslave/desktop/./directory.trash:29
+#: kioslave/desktop/./directory.trash:30
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
