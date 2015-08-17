@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-16 02:23+0000\n"
+"POT-Creation-Date: 2015-08-17 02:30+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "Dolphin"
 
-#: dolphin/src/dolphin.desktop:86
+#: dolphin/src/dolphin.desktop:90
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
@@ -29,12 +29,12 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/dolphinpart.desktop:89
+#: dolphin/src/dolphinpart.desktop:93
 msgctxt "Name"
 msgid "Icons"
 msgstr "আইকন"
 
-#: dolphin/src/dolphinpart.desktop:177
+#: dolphin/src/dolphinpart.desktop:185
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Compiz"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Compact"
 msgstr "Compiz"
 
-#: dolphin/src/dolphinpart.desktop:227
+#: dolphin/src/dolphinpart.desktop:239
 msgctxt "Name"
 msgid "Details"
 msgstr "বিৱৰণ"
@@ -55,7 +55,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:62
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:66
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -63,7 +63,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:134
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:142
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "General"
@@ -71,7 +71,7 @@ msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "সাধাৰণ"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:198
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:210
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -79,10 +79,10 @@ msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:259
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:258
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:227
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:257
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:275
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:274
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:235
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:273
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "File Manager"
@@ -98,7 +98,7 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:63
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:67
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -106,7 +106,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:134
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:142
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Navigation Panel"
@@ -114,7 +114,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "পৰিদৰ্শনৰ পেনেল"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:197
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:209
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -130,14 +130,14 @@ msgctxt "Name"
 msgid "Dolphin Services"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:74
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:78
 #: konqueror/sidebar/default_entries/services.desktop:4
 #: konqueror/sidebar/trees/init/services/.directory:3
 msgctxt "Name"
 msgid "Services"
 msgstr "সেৱা"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:165
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:169
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -153,7 +153,7 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:63
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:67
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -161,7 +161,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:133
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:141
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Views"
@@ -169,7 +169,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "প্ৰদৰ্শন ব্যৱস্থা"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:195
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:207
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
