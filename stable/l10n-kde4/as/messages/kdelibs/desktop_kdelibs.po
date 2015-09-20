@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-13 05:46+0000\n"
+"POT-Creation-Date: 2015-09-20 06:15+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -1050,7 +1050,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: kdecore/network/kssld/kssld.desktop:75
+#: kdecore/network/kssld/kssld.desktop:76
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1219,7 +1219,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.desktop:69
+#: kio/misc/kpac/proxyscout.desktop:70
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
@@ -1232,32 +1232,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "স্বয়ংক্ৰিয় নিযুক্তকৰ বিন্যাস"
 
-#: kio/misc/kpac/proxyscout.notifyrc:72
+#: kio/misc/kpac/proxyscout.notifyrc:73
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "অবৈধ নিয়ুক্তকৰ স্ক্ৰিপ্ট"
 
-#: kio/misc/kpac/proxyscout.notifyrc:159
+#: kio/misc/kpac/proxyscout.notifyrc:160
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ডাউন্‌লোড কৰা নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট অবৈধ"
 
-#: kio/misc/kpac/proxyscout.notifyrc:255
+#: kio/misc/kpac/proxyscout.notifyrc:256
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "স্ক্ৰিপ্ট ডাউন্‌লোড কৰোঁতে ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:343
+#: kio/misc/kpac/proxyscout.notifyrc:344
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট ডাউন্‌লোড কৰিব পৰা ন'গ'ল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:440
+#: kio/misc/kpac/proxyscout.notifyrc:441
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "স্ক্ৰিপ্টৰ পৰীক্ষাত ভুল"
 
-#: kio/misc/kpac/proxyscout.notifyrc:526
+#: kio/misc/kpac/proxyscout.notifyrc:527
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "নিযুক্তক বিন্যাসৰ স্ক্ৰিপ্ট চলাওঁতে ভুল"
@@ -1295,7 +1295,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED Cookie Jar অংশ"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:68
+#: kioslave/http/kcookiejar/kcookiejar.desktop:69
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -1495,7 +1495,7 @@ msgctxt "Name"
 msgid "Test"
 msgstr ""
 
-#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:69
+#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:70
 msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr ""
