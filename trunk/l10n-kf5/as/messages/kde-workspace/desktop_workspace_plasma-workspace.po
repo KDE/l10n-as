@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-22 10:35+0000\n"
+"POT-Creation-Date: 2015-09-26 09:24+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1104,7 +1104,7 @@ msgctxt "Comment"
 msgid "Screen Saver"
 msgstr "বিজ্ঞান"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:67
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:68
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Science"
@@ -1112,17 +1112,17 @@ msgctxt "Name"
 msgid "Screen locked"
 msgstr "বিজ্ঞান"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:134
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:135
 msgctxt "Comment"
 msgid "The screen has been locked"
 msgstr ""
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:204
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:205
 msgctxt "Name"
 msgid "Screen unlocked"
 msgstr ""
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:271
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:272
 msgctxt "Comment"
 msgid "The screen has been unlocked"
 msgstr ""
