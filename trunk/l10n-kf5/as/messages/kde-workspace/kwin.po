@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-19 09:23+0000\n"
+"POT-Creation-Date: 2015-09-30 08:05+0000\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -763,7 +763,9 @@ msgid "&Move"
 msgstr "লৰাওক (&M)"
 
 #: useractions.cpp:256
-msgid "Re&size"
+#, fuzzy
+#| msgid "Re&size"
+msgid "&Resize"
 msgstr "মাপ পৰিবৰ্তন (&s)"
 
 #: useractions.cpp:260
@@ -779,19 +781,25 @@ msgid "&Fullscreen"
 msgstr "সম্পূৰ্ণ পৰ্দ্দাত প্ৰদৰ্শন (&F)"
 
 #: useractions.cpp:278
-msgid "Sh&ade"
-msgstr "ছায়াবৃত (&a)"
+#, fuzzy
+#| msgid "Shade"
+msgid "&Shade"
+msgstr "ছায়াবৃত"
 
 #: useractions.cpp:283
 msgid "&No Border"
 msgstr "প্ৰান্ত নোহোৱা (&N)"
 
 #: useractions.cpp:290
-msgid "Window &Shortcut..."
+#, fuzzy
+#| msgid "Window &Shortcut..."
+msgid "Window Short&cut..."
 msgstr "সংযোগক্ষেত্ৰৰ শ'ৰ্ট কাট... (&S)"
 
 #: useractions.cpp:295
-msgid "&Special Window Settings..."
+#, fuzzy
+#| msgid "&Special Window Settings..."
+msgid "Special &Window Settings..."
 msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ্ট্য...(&S)"
 
 #: useractions.cpp:299
@@ -806,7 +814,7 @@ msgstr "অনুপ্ৰয়োগ সংক্ৰান্ত বিশেষ 
 msgctxt ""
 "Entry in context menu of window decoration to open the configuration module "
 "of KWin"
-msgid "Window &Manager Settings..."
+msgid "Window Manager S&ettings..."
 msgstr "সংযোগক্ষেত্ৰৰ বিশেষ বৈশিষ্ট্য...(&S)"
 
 #: useractions.cpp:330
@@ -974,6 +982,9 @@ msgid ""
 "paste bin service\n"
 "like http://paste.kde.org instead of pasting into support threads.\n"
 msgstr ""
+
+#~ msgid "Sh&ade"
+#~ msgstr "ছায়াবৃত (&a)"
 
 #~ msgid "KWin: "
 #~ msgstr "KWin: "
@@ -1320,9 +1331,6 @@ msgstr ""
 
 #~ msgid "Unshade"
 #~ msgstr "ছায়াবিহীন"
-
-#~ msgid "Shade"
-#~ msgstr "ছায়াবৃত"
 
 #~ msgid "The library %1 is not a KWin plugin."
 #~ msgstr "%1 লাইব্ৰেৰি এটা KWin প্লাগ-ইন নহয়"
