@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-26 09:24+0000\n"
+"POT-Creation-Date: 2015-10-06 10:38+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -508,6 +508,66 @@ msgstr ""
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr ""
+
+#: src/new_file_templates/Directory.desktop:2
+msgctxt "Name"
+msgid "Folder..."
+msgstr "ফোল্ডাৰ..."
+
+#: src/new_file_templates/Directory.desktop:92
+msgctxt "Comment"
+msgid "Enter folder name:"
+msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
+
+#: src/new_file_templates/HTMLFile.desktop:2
+msgctxt "Name"
+msgid "HTML File..."
+msgstr "HTML নথিপত্ৰ..."
+
+#: src/new_file_templates/HTMLFile.desktop:92
+msgctxt "Comment"
+msgid "Enter HTML filename:"
+msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
+
+#: src/new_file_templates/linkPath.desktop:2
+msgctxt "Name"
+msgid "Basic link to file or directory..."
+msgstr ""
+
+#: src/new_file_templates/linkPath.desktop:70
+msgctxt "Comment"
+msgid "Enter path of file or directory:"
+msgstr ""
+
+#: src/new_file_templates/linkProgram.desktop:2
+msgctxt "Name"
+msgid "Link to Application..."
+msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
+
+#: src/new_file_templates/linkProgram.desktop:84
+msgctxt "Comment"
+msgid "New Link to Application"
+msgstr "অনুপ্ৰয়োগলৈ নতুন সংযোগ"
+
+#: src/new_file_templates/linkURL.desktop:2
+msgctxt "Name"
+msgid "Link to Location (URL)..."
+msgstr "স্থান (URL) লৈ সংযোগ..."
+
+#: src/new_file_templates/linkURL.desktop:91
+msgctxt "Comment"
+msgid "Enter link to location (URL):"
+msgstr "স্থান (URL) লৈ সংযোগ দিয়ক"
+
+#: src/new_file_templates/TextFile.desktop:2
+msgctxt "Name"
+msgid "Text File..."
+msgstr "টেক্সট নথিপত্ৰ..."
+
+#: src/new_file_templates/TextFile.desktop:89
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
 
 #: src/urifilters/fixhost/fixhosturifilter.desktop:3
 msgctxt "Name"
@@ -2202,6 +2262,14 @@ msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্ল
 #| msgid "Plugin for the Konqueror Popup Menu"
 msgctxt "Comment"
 msgid "Plugin for the KIO Drag-and-drop Popup Menu"
+msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
+
+#: src/widgets/konqpopupmenuplugin.desktop:4
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plugin for the Konqueror Popup Menu"
+msgctxt "Comment"
+msgid "Plugin for the Konqueror Popup Menu"
 msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
 
 #: src/widgets/kpropertiesdialogplugin.desktop:4
@@ -5452,28 +5520,12 @@ msgstr "টেবেৰে চৰণ কৰা"
 #~ msgid "Eject"
 #~ msgstr "বাহিৰ কৰক"
 
-#~ msgctxt "Name"
-#~ msgid "Folder..."
-#~ msgstr "ফোল্ডাৰ..."
-
-#~ msgctxt "Comment"
-#~ msgid "Enter folder name:"
-#~ msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
-
 #, fuzzy
 #~| msgctxt "Name"
 #~| msgid "Format"
 #~ msgctxt "Name|Starts a program to format a floppy drive"
 #~ msgid "Format"
 #~ msgstr "আকৃতি"
-
-#~ msgctxt "Name"
-#~ msgid "HTML File..."
-#~ msgstr "HTML নথিপত্ৰ..."
-
-#~ msgctxt "Comment"
-#~ msgid "Enter HTML filename:"
-#~ msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
 
 #~ msgctxt "Name"
 #~ msgid "Camera Device..."
@@ -5540,36 +5592,12 @@ msgstr "টেবেৰে চৰণ কৰা"
 #~ msgstr "নতুন NFS সংযোগ"
 
 #~ msgctxt "Name"
-#~ msgid "Link to Application..."
-#~ msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
-
-#~ msgctxt "Comment"
-#~ msgid "New Link to Application"
-#~ msgstr "অনুপ্ৰয়োগলৈ নতুন সংযোগ"
-
-#~ msgctxt "Name"
-#~ msgid "Link to Location (URL)..."
-#~ msgstr "স্থান (URL) লৈ সংযোগ..."
-
-#~ msgctxt "Comment"
-#~ msgid "Enter link to location (URL):"
-#~ msgstr "স্থান (URL) লৈ সংযোগ দিয়ক"
-
-#~ msgctxt "Name"
 #~ msgid "ZIP Device..."
 #~ msgstr "ZIP যন্ত্ৰ..."
 
 #~ msgctxt "Comment"
 #~ msgid "New ZIP Device"
 #~ msgstr "নতুন ZIP যন্ত্ৰ"
-
-#~ msgctxt "Name"
-#~ msgid "Text File..."
-#~ msgstr "টেক্সট নথিপত্ৰ..."
-
-#~ msgctxt "Comment"
-#~ msgid "Enter text filename:"
-#~ msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
 
 #~ msgctxt "Name"
 #~ msgid "Plugins"
