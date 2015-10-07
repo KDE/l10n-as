@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-06 10:38+0000\n"
+"POT-Creation-Date: 2015-10-07 08:28+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -514,7 +514,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "ফোল্ডাৰ..."
 
-#: src/new_file_templates/Directory.desktop:92
+#: src/new_file_templates/Directory.desktop:59
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
@@ -524,7 +524,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "HTML নথিপত্ৰ..."
 
-#: src/new_file_templates/HTMLFile.desktop:92
+#: src/new_file_templates/HTMLFile.desktop:59
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
@@ -534,7 +534,7 @@ msgctxt "Name"
 msgid "Basic link to file or directory..."
 msgstr ""
 
-#: src/new_file_templates/linkPath.desktop:70
+#: src/new_file_templates/linkPath.desktop:38
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr ""
@@ -544,7 +544,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
 
-#: src/new_file_templates/linkProgram.desktop:84
+#: src/new_file_templates/linkProgram.desktop:55
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "অনুপ্ৰয়োগলৈ নতুন সংযোগ"
@@ -554,7 +554,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "স্থান (URL) লৈ সংযোগ..."
 
-#: src/new_file_templates/linkURL.desktop:91
+#: src/new_file_templates/linkURL.desktop:58
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr "স্থান (URL) লৈ সংযোগ দিয়ক"
@@ -564,7 +564,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "টেক্সট নথিপত্ৰ..."
 
-#: src/new_file_templates/TextFile.desktop:89
+#: src/new_file_templates/TextFile.desktop:59
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
