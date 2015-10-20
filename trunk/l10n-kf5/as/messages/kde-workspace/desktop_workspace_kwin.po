@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-04 09:01+0000\n"
+"POT-Creation-Date: 2015-10-20 10:42+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -54,11 +54,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Desktop Cube Animation"
 msgstr "ডেষ্কট'প প্ৰকাশন"
-
-#: effects/dashboard/dashboard_config.desktop:8
-msgctxt "Name"
-msgid "Dashboard"
-msgstr ""
 
 #: effects/desktopgrid/desktopgrid_config.desktop:8
 msgctxt "Name"

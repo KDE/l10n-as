@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-22 09:57+0000\n"
+"POT-Creation-Date: 2015-10-20 10:05+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -788,11 +788,11 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "শূণ্য"
 
-#: kkeysequencewidget.cpp:706
+#: kkeysequencewidget.cpp:712
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kkeysequencewidget.cpp:707
+#: kkeysequencewidget.cpp:713
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
 
