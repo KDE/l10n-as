@@ -170,7 +170,7 @@ msgctxt "KAboutLicense|@item license"
 msgid "Not specified"
 msgstr "উল্লেখিত নহয়"
 
-#: lib/kaboutdata.cpp:809
+#: lib/kaboutdata.cpp:779
 #, fuzzy
 #| msgctxt "replace this with information about your translation team"
 #| msgid ""
@@ -189,21 +189,21 @@ msgstr ""
 "হৈছে ।</p><p>KDE ৰ আন্তৰ্জাতীয়কৰণৰ সম্বন্ধে অধিক জনাৰ বাবে <a href=\"http://l10n."
 "kde.org\">http://l10n.kde.org</a></p> চাওক ।"
 
-#: lib/kaboutdata.cpp:949
+#: lib/kaboutdata.cpp:919
 #, fuzzy
 #| msgid "Show author information"
 msgctxt "KAboutData CLI|"
 msgid "Show author information."
 msgstr "লেখকৰ তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: lib/kaboutdata.cpp:950
+#: lib/kaboutdata.cpp:920
 #, fuzzy
 #| msgid "Show license information"
 msgctxt "KAboutData CLI|"
 msgid "Show license information."
 msgstr "প্ৰমাণপত্ৰ সংক্ৰান্ত তথ্য প্ৰদৰ্শন কৰা হয়"
 
-#: lib/kaboutdata.cpp:959
+#: lib/kaboutdata.cpp:929
 #, fuzzy
 #| msgid ""
 #| "This application was written by somebody who wants to remain anonymous."
@@ -211,7 +211,7 @@ msgctxt "KAboutData CLI|"
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "এই অনুপ্ৰয়োগৰ নিৰ্মাতা অজ্ঞাত থাকিব ইচ্ছুক ।"
 
-#: lib/kaboutdata.cpp:961
+#: lib/kaboutdata.cpp:931
 #, fuzzy
 #| msgctxt "the 2nd argument is a list of name+address, one on each line"
 #| msgid ""
@@ -223,14 +223,14 @@ msgstr ""
 "%1 লিখা হৈছে\n"
 "%2 ৰ দ্বাৰা"
 
-#: lib/kaboutdata.cpp:972
+#: lib/kaboutdata.cpp:942
 #, fuzzy
 #| msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgctxt "KAboutData CLI|"
 msgid "Please use http://bugs.kde.org to report bugs."
 msgstr "অনুগ্ৰহ কৰি http://bugs.kde.org ত বাগ প্ৰতিবেদন কৰক ।\n"
 
-#: lib/kaboutdata.cpp:974
+#: lib/kaboutdata.cpp:944
 #, fuzzy
 #| msgid "Please report bugs to %1.\n"
 msgctxt "KAboutData CLI|"
