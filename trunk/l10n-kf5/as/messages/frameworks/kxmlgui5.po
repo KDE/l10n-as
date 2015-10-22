@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-20 10:05+0000\n"
+"POT-Creation-Date: 2015-10-22 08:39+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -17,14 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 0.2\n"
-
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "অমিতাক্ষ ফুকন"
-
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "aphukan@fedoraproject.org"
 
 #: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:271
 #, kde-format
@@ -795,6 +787,16 @@ msgstr ""
 #: kkeysequencewidget.cpp:713
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
+
+#: kmainwindow.cpp:213
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "অমিতাক্ষ ফুকন"
+
+#: kmainwindow.cpp:214
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "aphukan@fedoraproject.org"
 
 #: kmenumenuhandler_p.cpp:50
 msgid "Add to Toolbar"
