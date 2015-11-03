@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-02 09:06+0000\n"
+"POT-Creation-Date: 2015-11-03 14:20+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1990,6 +1990,11 @@ msgstr ""
 #: wallpapers/image/slideshowpackage/metadata.desktop:5
 msgctxt "Name"
 msgid "Slideshow"
+msgstr ""
+
+#: xembed-sni-proxy/xembedsniproxy.desktop:3
+msgctxt "Name"
+msgid "XembedSniProxy"
 msgstr ""
 
 #, fuzzy
