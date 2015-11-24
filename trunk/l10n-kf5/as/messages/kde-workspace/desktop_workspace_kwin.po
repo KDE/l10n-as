@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-18 08:15+0000\n"
+"POT-Creation-Date: 2015-11-24 08:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -371,12 +371,12 @@ msgctxt "Name"
 msgid "Advanced"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:101
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:102
 msgctxt "Comment"
 msgid "Advanced Window Management Features"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:142
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
