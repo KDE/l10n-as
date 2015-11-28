@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-03 08:52+0000\n"
+"POT-Creation-Date: 2015-11-28 07:24+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -6966,6 +6966,13 @@ msgstr "Qt"
 #: kdecore/kcmdlineargs.cpp:500
 msgid "KDE"
 msgstr "KDE"
+
+#: kdecore/kcmdlineargs.cpp:821 kdecore/kcmdlineargs.cpp:835
+#, fuzzy, kde-format
+#| msgctxt "1: the unknown socket address family number"
+#| msgid "Unknown family %1"
+msgid "Unknown option '%1'."
+msgstr "অজ্ঞাত সংকলন %1"
 
 #: kdecore/kcmdlineargs.cpp:841
 #, kde-format
