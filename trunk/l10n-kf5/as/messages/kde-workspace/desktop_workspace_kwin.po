@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-07 08:39+0000\n"
+"POT-Creation-Date: 2015-12-11 07:30+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -351,7 +351,7 @@ msgctxt "Name"
 msgid "Actions"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:102
+#: kcmkwin/kwinoptions/kwinactions.desktop:103
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -359,7 +359,7 @@ msgctxt "Comment"
 msgid "Mouse Actions on Windows"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:144
+#: kcmkwin/kwinoptions/kwinactions.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -407,7 +407,7 @@ msgctxt "Name"
 msgid "Moving"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:100
+#: kcmkwin/kwinoptions/kwinmoving.desktop:101
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Window Termination Tool"
@@ -415,7 +415,7 @@ msgctxt "Comment"
 msgid "Window Moving"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:142
+#: kcmkwin/kwinoptions/kwinmoving.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr ""
