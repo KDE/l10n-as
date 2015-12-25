@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-07 16:08+0000\n"
+"POT-Creation-Date: 2015-12-25 07:06+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 0.2\n"
 
-#: kdeinit/kinit.cpp:538
+#: kdeinit/kinit.cpp:540
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -28,7 +28,7 @@ msgstr ""
 "সম্ভৱতঃ, ব্যৱস্থাপ্ৰণালীৰ ক্ষেত্ৰত অনুমোদিত সৰ্বাধিক সংখ্যক নথিপত্ৰ খোলা বা আপোনাৰ "
 "ব্যৱহাৰৰ বাবে অনুমোদিত নথিপত্ৰৰ সংখ্যা হৈছে ।"
 
-#: kdeinit/kinit.cpp:563
+#: kdeinit/kinit.cpp:565
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -38,12 +38,12 @@ msgstr ""
 "সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
 
-#: kdeinit/kinit.cpp:654
+#: kdeinit/kinit.cpp:656
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
 
-#: kdeinit/kinit.cpp:682
+#: kdeinit/kinit.cpp:684
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -52,7 +52,7 @@ msgstr ""
 "লাইব্ৰেৰি '%1' খোলা নাযায় ।\n"
 "%2"
 
-#: kdeinit/kinit.cpp:724
+#: kdeinit/kinit.cpp:726
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
