@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-01-07 08:17+0000\n"
+"POT-Creation-Date: 2016-01-08 08:09+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1381,12 +1381,12 @@ msgctxt "Name"
 msgid "Input Method Panel"
 msgstr ""
 
-#: kimpanel/applets/kimpanel/package/metadata.desktop:51
+#: kimpanel/applets/kimpanel/package/metadata.desktop:3
 msgctxt "Comment"
 msgid "A generic input method panel"
 msgstr ""
 
-#: kimpanel/applets/kimpanel/package/metadata.desktop:90
+#: kimpanel/applets/kimpanel/package/metadata.desktop:4
 msgctxt "Keywords"
 msgid "Input;IM;"
 msgstr ""
@@ -1396,7 +1396,7 @@ msgctxt "Name"
 msgid "DataEngine for Kimpanel"
 msgstr ""
 
-#: kimpanel/dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:44
+#: kimpanel/dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:3
 msgctxt "Comment"
 msgid "DataEngine for Kimpanel"
 msgstr ""
