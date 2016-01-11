@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-10 10:41+0000\n"
+"POT-Creation-Date: 2016-01-11 09:14+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -147,6 +147,14 @@ msgstr ""
 msgctxt "Name"
 msgid "JPEG Images"
 msgstr ""
+
+#: thumbnail/kraorathumbnail.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Qt3 Online Documentation"
+msgctxt "Name"
+msgid "Krita Documents"
+msgstr "Qt3 অন-লাইন আলেখ্যন"
 
 #: thumbnail/svgthumbnail.desktop:3
 msgctxt "Name"
@@ -1095,13 +1103,6 @@ msgstr ""
 #~ msgstr ""
 #~ "http://www.google.com/search?sourceid=python-search&q=\\\\{@}"
 #~ "&submit=Search&q=site%3Apython.org"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Qt3 Online Documentation"
-#~ msgctxt "Name"
-#~ msgid "Qt4 Documentation"
-#~ msgstr "Qt3 অন-লাইন আলেখ্যন"
 
 #, fuzzy
 #~| msgctxt "Query"
