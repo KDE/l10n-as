@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 21:00+0000\n"
+"POT-Creation-Date: 2016-01-13 08:00+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -14,11 +14,6 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: autotests/notepad.desktop:2
-msgctxt "Name"
-msgid "Notepad (example)"
-msgstr "Notepad (উদাহৰণ)"
-
 #: src/browserview.desktop:5
 msgctxt "Name"
 msgid "Browser View"
@@ -28,6 +23,10 @@ msgstr "চৰকৰ প্ৰদৰ্শন"
 msgctxt "Comment"
 msgid "KDE Component"
 msgstr "KDE অংশ"
+
+#~ msgctxt "Name"
+#~ msgid "Notepad (example)"
+#~ msgstr "Notepad (উদাহৰণ)"
 
 #~ msgctxt "Comment"
 #~ msgid "Instant Messenger with a D-Bus interface"

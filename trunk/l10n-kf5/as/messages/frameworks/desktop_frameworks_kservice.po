@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-05 10:00+0000\n"
+"POT-Creation-Date: 2016-01-13 08:00+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -14,44 +14,6 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: autotests/fakekdedmodule.desktop:5
-msgctxt "Comment"
-msgid "KDED Module"
-msgstr "KDED অংশ"
-
-#: autotests/fakeplugin.desktop:2
-msgctxt "Name"
-msgid "NSA Plugin"
-msgstr ""
-
-#: autotests/fakeplugin.desktop:47
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "KTextEditor Plugin"
-msgctxt "Comment"
-msgid "Test Plugin Spy"
-msgstr "KTextEditor Plugin"
-
-#: autotests/fakeplugin.desktop:109
-msgctxt "Keywords"
-msgid "word1;word2"
-msgstr ""
-
-#: autotests/fakeplugin.desktop:144
-msgctxt "X-KDE-Keywords"
-msgid "word3,word4"
-msgstr ""
-
-#: autotests/noplugin.desktop:2
-msgctxt "Name"
-msgid "No Plugin"
-msgstr ""
-
-#: autotests/noplugin.desktop:46
-msgctxt "Comment"
-msgid "This does not have a library"
-msgstr ""
-
 #: src/services/application.desktop:4
 msgctxt "Name"
 msgid "Application"
@@ -61,6 +23,17 @@ msgstr "অনুপ্ৰয়োগ"
 msgctxt "Name"
 msgid "KDE Plugin Information"
 msgstr "KDE প্লাগ-ইনৰ তথ্য"
+
+#~ msgctxt "Comment"
+#~ msgid "KDED Module"
+#~ msgstr "KDED অংশ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KTextEditor Plugin"
+#~ msgctxt "Comment"
+#~ msgid "Test Plugin Spy"
+#~ msgstr "KTextEditor Plugin"
 
 #, fuzzy
 #~| msgctxt "Name"
