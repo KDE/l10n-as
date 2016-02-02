@@ -2380,21 +2380,21 @@ msgctxt "KFontRequester|"
 msgid "Choose..."
 msgstr "নিৰ্ব্বাচন কৰক..."
 
-#: kfontrequester.cpp:216
+#: kfontrequester.cpp:217
 #, fuzzy
 #| msgid "Click to select a font"
 msgctxt "KFontRequester|"
 msgid "Click to select a font"
 msgstr "আখৰ নিৰ্ব্বাচনৰ বাবে টিপক"
 
-#: kfontrequester.cpp:222
+#: kfontrequester.cpp:223
 #, fuzzy
 #| msgid "Preview of the selected font"
 msgctxt "KFontRequester|"
 msgid "Preview of the selected font"
 msgstr "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শন"
 
-#: kfontrequester.cpp:223
+#: kfontrequester.cpp:224
 #, fuzzy
 #| msgid ""
 #| "This is a preview of the selected font. You can change it by clicking the "
@@ -2407,14 +2407,14 @@ msgstr ""
 "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
 "এইটো পৰিবৰ্তন কৰা যাব ।"
 
-#: kfontrequester.cpp:226
+#: kfontrequester.cpp:227
 #, fuzzy, qt-format
 #| msgid "Preview of the \"%1\" font"
 msgctxt "KFontRequester|"
 msgid "Preview of the \"%1\" font"
 msgstr "\"%1\" আখৰৰ প্ৰদৰ্শিত পূৰ্বৰূপ"
 
-#: kfontrequester.cpp:227
+#: kfontrequester.cpp:228
 #, fuzzy, qt-format
 #| msgid ""
 #| "This is a preview of the \"%1\" font. You can change it by clicking the "
@@ -2567,35 +2567,35 @@ msgid_plural "Password must be at least %n character(s) long"
 msgstr[0] "গুপ্তশব্দ অতি কমেও ১ টা আখৰ দীঘল হোৱা আৱশ্যক"
 msgstr[1] "গুপ্তশব্দ অতি কমেও ১ টা আখৰ দীঘল হোৱা আৱশ্যক"
 
-#: knewpassworddialog.cpp:81
+#: knewpassworddialog.cpp:80
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
 msgid "Password is empty"
 msgstr "গুপ্তশব্দ ৰিক্ত"
 
-#: knewpassworddialog.cpp:86 knewpassworddialog.ui:53
+#: knewpassworddialog.cpp:84
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords do not match"
 msgstr "গুপ্তশব্দ অমিল"
 
-#: knewpassworddialog.cpp:92
+#: knewpassworddialog.cpp:89
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords match"
 msgstr "গুপ্তশব্দ মিলে"
 
-#: knewpassworddialog.cpp:139
+#: knewpassworddialog.cpp:143
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "গুপ্তশব্দ কমযোৰ"
 
-#: knewpassworddialog.cpp:140
+#: knewpassworddialog.cpp:144
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
