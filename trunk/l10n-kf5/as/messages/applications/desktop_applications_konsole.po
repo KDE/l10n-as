@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-23 09:00+0000\n"
+"POT-Creation-Date: 2016-02-27 07:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -116,12 +116,12 @@ msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
 
-#: desktop/org.kde.konsole.desktop:218
+#: desktop/org.kde.konsole.desktop:219
 msgctxt "Name"
 msgid "Open a New Window"
 msgstr ""
 
-#: desktop/org.kde.konsole.desktop:267
+#: desktop/org.kde.konsole.desktop:268
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
