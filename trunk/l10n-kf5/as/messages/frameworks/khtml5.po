@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-28 07:19+0000\n"
+"POT-Creation-Date: 2016-02-29 08:48+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -303,11 +303,11 @@ msgstr[0] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 msgstr[1] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 
 #: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4967
-#: khtmlview.cpp:2879 khtmlview.cpp:2923
+#: khtmlview.cpp:2877 khtmlview.cpp:2921
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: html/html_formimpl.cpp:1900 khtmlview.cpp:2894 khtmlview.cpp:2929
+#: html/html_formimpl.cpp:1900 khtmlview.cpp:2892 khtmlview.cpp:2927
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
 
@@ -1283,7 +1283,7 @@ msgstr "ছবি - %1x%2 পিক্সেল"
 msgid "Done."
 msgstr "সমাপ্ত ।"
 
-#: khtmlview.cpp:1902
+#: khtmlview.cpp:1900
 msgid "Access Keys activated"
 msgstr "অভিগমৰ চাবি সক্ৰিয় কৰা হৈছে"
 
