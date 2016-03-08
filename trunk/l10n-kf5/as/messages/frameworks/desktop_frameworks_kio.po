@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-25 08:16+0000\n"
+"POT-Creation-Date: 2016-03-08 08:58+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -75,11 +75,6 @@ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰ�
 #: src/ioslaves/trash/kcmtrash.desktop:329
 msgctxt "X-KDE-Keywords"
 msgid "trash"
-msgstr ""
-
-#: src/ioslaves/trash/trash.protocol:25
-msgctxt "ExtraNames"
-msgid "Original Path,Deletion Date"
 msgstr ""
 
 #: src/kcms/kio/cache.desktop:15
