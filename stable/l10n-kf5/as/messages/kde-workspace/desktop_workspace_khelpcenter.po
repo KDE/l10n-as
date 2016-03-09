@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-08 08:39+0000\n"
+"POT-Creation-Date: 2016-03-09 10:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -189,19 +189,9 @@ msgctxt "Name"
 msgid "Plasma Manual"
 msgstr ""
 
-#: plugins/quickstart.desktop:3
-msgctxt "Name"
-msgid "Quickstart Guide"
-msgstr ""
-
 #: plugins/Scrollkeeper/.directory:2
 msgctxt "Name"
 msgid "Scrollkeeper"
-msgstr ""
-
-#: plugins/userguide.desktop:3
-msgctxt "Name"
-msgid "KDE Users' Manual"
 msgstr ""
 
 #, fuzzy
