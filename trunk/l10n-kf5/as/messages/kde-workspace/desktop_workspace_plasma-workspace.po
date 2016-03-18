@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-10 08:11+0000\n"
+"POT-Creation-Date: 2016-03-18 07:41+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -224,6 +224,7 @@ msgid "A network usage monitor"
 msgstr ""
 
 #: applets/systemtray/container/package/metadata.desktop:2
+#: applets/systemtray/package/metadata.desktop:3
 msgctxt "Name"
 msgid "System Tray"
 msgstr ""
@@ -232,14 +233,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr ""
-
-#: applets/systemtray/package/metadata.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System"
-msgctxt "Name"
-msgid "System tray"
-msgstr "ব্যৱস্থাপ্ৰণালী"
 
 #: appmenu/appmenu.desktop:3
 #, fuzzy
@@ -1918,6 +1911,13 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System"
+#~ msgctxt "Name"
+#~ msgid "System tray"
+#~ msgstr "ব্যৱস্থাপ্ৰণালী"
 
 #, fuzzy
 #~| msgctxt "Name"
