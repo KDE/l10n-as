@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-15 09:31+0000\n"
+"POT-Creation-Date: 2016-03-23 07:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -31,6 +31,22 @@ msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
 msgctxt "Name"
 msgid "Help"
 msgstr "সহায়"
+
+#: org.kde.Help.desktop:102
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Info Center"
+msgctxt "GenericName"
+msgid "Help Center"
+msgstr "তথ্য কেন্দ্ৰ"
+
+#: org.kde.Help.desktop:103
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Browser Identification"
+msgctxt "Comment"
+msgid "Browse and search documentation"
+msgstr "চৰকৰ চিনাক্তকৰণ"
 
 #: plugins/Applications/.directory:3
 msgctxt "Name"
@@ -4460,10 +4476,6 @@ msgstr ""
 #~ msgid "UADescription (Wget 1.11.4)"
 #~ msgstr "UADescription (Wget 1.5.3)"
 
-#~ msgctxt "Name"
-#~ msgid "Browser Identification"
-#~ msgstr "চৰকৰ চিনাক্তকৰণ"
-
 #~ msgctxt "Comment"
 #~ msgid "Configure the way Konqueror reports itself"
 #~ msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
@@ -5024,10 +5036,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "KInfoCenter"
 #~ msgstr "KInfoCenter"
-
-#~ msgctxt "GenericName"
-#~ msgid "Info Center"
-#~ msgstr "তথ্য কেন্দ্ৰ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
