@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-09 10:39+0000\n"
+"POT-Creation-Date: 2016-03-25 11:49+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -14,50 +14,39 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: htmlsearch/htmlsearch.desktop:12
-msgctxt "Name"
-msgid "Index"
-msgstr ""
-
-#: htmlsearch/htmlsearch.desktop:104
-msgctxt "Comment"
-msgid "Index generation"
-msgstr ""
-
-#: htmlsearch/htmlsearch.desktop:195
-msgctxt "X-KDE-Keywords"
-msgid "Help,HTML,Search,Index,htdig,htsearch,htmerge,Scope,Language"
-msgstr ""
-
-#: kcmhelpcenter.desktop:12
-msgctxt "Name"
-msgid "Help Index"
-msgstr ""
-
-#: kcmhelpcenter.desktop:103
-msgctxt "Comment"
-msgid "Help center search index configuration and generation"
-msgstr ""
-
-#: kcmhelpcenter.desktop:191
-msgctxt "X-KDE-Keywords"
-msgid "khelpcenter,help,index,search"
-msgstr ""
-
 #: khelpcenter.desktop:2
 msgctxt "Name"
 msgid "KHelpCenter"
 msgstr ""
 
 #: khelpcenter.desktop:93
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "More Applications"
 msgctxt "Comment"
-msgid "The KDE Help Center"
-msgstr ""
+msgid "Help for applications"
+msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
 
 #: org.kde.Help.desktop:9
 msgctxt "Name"
 msgid "Help"
 msgstr "সহায়"
+
+#: org.kde.Help.desktop:102
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Info Center"
+msgctxt "GenericName"
+msgid "Help Center"
+msgstr "তথ্য কেন্দ্ৰ"
+
+#: org.kde.Help.desktop:103
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Browser Identification"
+msgctxt "Comment"
+msgid "Browse and search documentation"
+msgstr "চৰকৰ চিনাক্তকৰণ"
 
 #: plugins/Applications/.directory:3
 msgctxt "Name"
@@ -82,7 +71,7 @@ msgstr "File Manager - Super User Mode"
 #| msgctxt "Name"
 #| msgid "KDE Performance"
 msgctxt "Name"
-msgid "KDE Fundamentals"
+msgid "Fundamentals"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
 #: plugins/info.desktop:2
@@ -3536,10 +3525,6 @@ msgstr ""
 #~ msgstr "KDE তালিকা"
 
 #~ msgctxt "Name"
-#~ msgid "More Applications"
-#~ msgstr "অতিৰিক্ত অনুপ্ৰয়োগ"
-
-#~ msgctxt "Name"
 #~ msgid "Multimedia"
 #~ msgstr "মাল্টিমিডিয়া"
 
@@ -4491,10 +4476,6 @@ msgstr ""
 #~ msgid "UADescription (Wget 1.11.4)"
 #~ msgstr "UADescription (Wget 1.5.3)"
 
-#~ msgctxt "Name"
-#~ msgid "Browser Identification"
-#~ msgstr "চৰকৰ চিনাক্তকৰণ"
-
 #~ msgctxt "Comment"
 #~ msgid "Configure the way Konqueror reports itself"
 #~ msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
@@ -5055,10 +5036,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "KInfoCenter"
 #~ msgstr "KInfoCenter"
-
-#~ msgctxt "GenericName"
-#~ msgid "Info Center"
-#~ msgstr "তথ্য কেন্দ্ৰ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
