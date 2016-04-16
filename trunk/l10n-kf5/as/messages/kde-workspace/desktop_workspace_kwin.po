@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-07 08:31+0000\n"
+"POT-Creation-Date: 2016-04-16 08:18+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13,24 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#: clients/aurorae/src/kwindecoration.desktop:5
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Window Termination Tool"
-msgctxt "Comment"
-msgid "KWin Window Decoration"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
-
-#: clients/aurorae/themes/plastik/package/metadata.desktop:2
-msgctxt "Name"
-msgid "Plastik"
-msgstr ""
-
-#: clients/aurorae/themes/plastik/package/metadata.desktop:91
-msgctxt "Comment"
-msgid "The classic theme known from KDE 3"
-msgstr ""
 
 #: effects/blur/blur_config.desktop:8
 msgctxt "Name"
@@ -546,6 +528,24 @@ msgstr "চিত্ৰাঙ্কন"
 #: kwin.notifyrc:243
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
+msgstr ""
+
+#: plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Comment"
+msgid "KWin Window Decoration"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plastik"
+msgstr ""
+
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:91
+msgctxt "Comment"
+msgid "The classic theme known from KDE 3"
 msgstr ""
 
 #: scripting/kwinscript.desktop:5
