@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-14 08:16+0000\n"
+"POT-Creation-Date: 2016-04-18 08:40+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -520,7 +520,8 @@ msgid ""
 "autostart,downloads,music,documents,movies,pictures"
 msgstr ""
 
-#: kcms/desktoptheme/desktoptheme.desktop:13
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:12
+#: kcms/desktoptheme/package/metadata.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -528,7 +529,8 @@ msgctxt "Name"
 msgid "Desktop Theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/desktoptheme.desktop:78
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:13
+#: kcms/desktoptheme/package/metadata.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -536,7 +538,7 @@ msgctxt "Comment"
 msgid "Desktop Theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/desktoptheme.desktop:123
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:14
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
