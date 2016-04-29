@@ -335,7 +335,7 @@ msgctxt "Sonnet::Highlighter|"
 msgid "As-you-type spell checking disabled."
 msgstr "টাইপ-কৰাৰ-সময়ত-বানান-পৰীক্ষণ নিষ্ক্ৰিয় কৰা হৈছে ।"
 
-#: ui/sonnetui.ui:30 ui/sonnetui.ui:46
+#: ui/sonnetui.ui:41 ui/sonnetui.ui:57
 #, fuzzy
 #| msgid ""
 #| "<qt><p>This word was considered to be an \"unknown word\" because it does "
@@ -376,28 +376,28 @@ msgstr ""
 "<b>প্ৰতিস্থাপন</b> বা <b>সকলো প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:36
+#: ui/sonnetui.ui:47
 #, fuzzy
 #| msgid "Unknown word:"
 msgctxt "SonnetUi|"
 msgid "Unknown word:"
 msgstr "অজ্ঞাত শব্দ:"
 
-#: ui/sonnetui.ui:43
+#: ui/sonnetui.ui:54
 #, fuzzy
 #| msgid "Unknown word"
 msgctxt "SonnetUi|"
 msgid "Unknown word"
 msgstr "অজ্ঞাত শব্দ"
 
-#: ui/sonnetui.ui:52
+#: ui/sonnetui.ui:63
 #, fuzzy
 #| msgid "<b>misspelled</b>"
 msgctxt "SonnetUi|"
 msgid "<b>misspelled</b>"
 msgstr "<b>ভুল বানান</b>"
 
-#: ui/sonnetui.ui:59 ui/sonnetui.ui:174
+#: ui/sonnetui.ui:70 ui/sonnetui.ui:180
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -413,21 +413,21 @@ msgstr ""
 "<p>আপুনি পৰীক্ষা কৰা আলেখ্যনৰ ভাষা নিৰ্ব্বাচন কৰক ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:64
+#: ui/sonnetui.ui:75
 #, fuzzy
 #| msgid "&Language:"
 msgctxt "SonnetUi|"
 msgid "&Language:"
 msgstr "ভাষা (&L):"
 
-#: ui/sonnetui.ui:74
+#: ui/sonnetui.ui:85
 #, fuzzy
 #| msgid "Text excerpt showing the unknown word in its context."
 msgctxt "SonnetUi|"
 msgid "Text excerpt showing the unknown word in its context."
 msgstr "অজ্ঞাত শব্দৰ প্ৰসঙ্গ দেখুওৱা লিপিৰ অংশ ।"
 
-#: ui/sonnetui.ui:77
+#: ui/sonnetui.ui:88
 msgctxt "SonnetUi|"
 msgid ""
 "<qt>\n"
@@ -438,14 +438,14 @@ msgid ""
 "</qt>"
 msgstr ""
 
-#: ui/sonnetui.ui:85
+#: ui/sonnetui.ui:96
 #, fuzzy
 #| msgid "... the <b>misspelled</b> word shown in context ..."
 msgctxt "SonnetUi|"
 msgid "... the <b>misspelled</b> word shown in context ..."
 msgstr "... প্ৰসঙ্গত প্ৰদৰ্শিত শব্দৰ <b>ভুল বানান</b> ..."
 
-#: ui/sonnetui.ui:95
+#: ui/sonnetui.ui:106
 msgctxt "SonnetUi|"
 msgid ""
 "<qt>\n"
@@ -458,21 +458,21 @@ msgid ""
 "</qt>"
 msgstr ""
 
-#: ui/sonnetui.ui:101
+#: ui/sonnetui.ui:112
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgctxt "SonnetUi|"
 msgid "<< Add to Dictionary"
 msgstr "<< অভিধানত যোগ কৰক"
 
-#: ui/sonnetui.ui:124
+#: ui/sonnetui.ui:135
 #, fuzzy
 #| msgid "Suggestion List"
 msgctxt "SonnetUi|"
 msgid "Suggestion List"
 msgstr "প্ৰস্তাবিত শব্দৰ তালিকা"
 
-#: ui/sonnetui.ui:127
+#: ui/sonnetui.ui:138
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -504,14 +504,7 @@ msgstr ""
 "সৰ্বসংখ্যক উপস্থিতি পৰিবৰ্তনৰ বাবে <b>সমগ্ৰ প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:137
-#, fuzzy
-#| msgid "Suggested Words"
-msgctxt "SonnetUi|"
-msgid "Suggested Words"
-msgstr "প্ৰস্তাবিত শব্দ"
-
-#: ui/sonnetui.ui:145 ui/sonnetui.ui:161
+#: ui/sonnetui.ui:151 ui/sonnetui.ui:167
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -538,28 +531,28 @@ msgstr ""
 "সৰ্বসংখ্যক উপস্থিতি পৰিবৰ্তনৰ বাবে <b>সমগ্ৰ প্ৰতিস্থাপন</b> টিপক ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:151
+#: ui/sonnetui.ui:157
 #, fuzzy
 #| msgid "Replace &with:"
 msgctxt "SonnetUi|"
 msgid "Replace &with:"
 msgstr "প্ৰতিস্থাপনত ব্যৱহৃত শব্দ (&w):"
 
-#: ui/sonnetui.ui:171
+#: ui/sonnetui.ui:177
 #, fuzzy
 #| msgid "Language Selection"
 msgctxt "SonnetUi|"
 msgid "Language Selection"
 msgstr "ভাষা নিৰ্ব্বাচন"
 
-#: ui/sonnetui.ui:191
+#: ui/sonnetui.ui:206
 #, fuzzy
 #| msgid "S&uggest"
 msgctxt "SonnetUi|"
 msgid "S&uggest"
 msgstr "প্ৰস্তাব (&u)"
 
-#: ui/sonnetui.ui:198
+#: ui/sonnetui.ui:213
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -578,14 +571,14 @@ msgstr ""
 "এই স্থানত টিপক ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:203
+#: ui/sonnetui.ui:218
 #, fuzzy
 #| msgid "&Replace"
 msgctxt "SonnetUi|"
 msgid "&Replace"
 msgstr "প্ৰতিস্থাপন (&R)"
 
-#: ui/sonnetui.ui:210
+#: ui/sonnetui.ui:225
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -604,14 +597,14 @@ msgstr ""
 "প্ৰয়োগ কৰাৰ বাবে এই স্থানত টিপক ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:215
+#: ui/sonnetui.ui:230
 #, fuzzy
 #| msgid "R&eplace All"
 msgctxt "SonnetUi|"
 msgid "R&eplace All"
 msgstr "সকলো প্ৰতিস্থাপন কৰা হ'ব (&e)"
 
-#: ui/sonnetui.ui:222
+#: ui/sonnetui.ui:237
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -636,14 +629,14 @@ msgstr ""
 "ব্যৱহাৰ কৰিবলৈ ইচ্ছুক হ'লে এই পদ্ধতি ব্যৱহাৰ কৰা যাব ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:228
+#: ui/sonnetui.ui:243
 #, fuzzy
 #| msgid "&Ignore"
 msgctxt "SonnetUi|"
 msgid "&Ignore"
 msgstr "উপেক্ষা কৰক (&I)"
 
-#: ui/sonnetui.ui:235 ui/sonnetui.ui:248
+#: ui/sonnetui.ui:250 ui/sonnetui.ui:263
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -669,14 +662,14 @@ msgstr ""
 "ব্যৱহাৰ কৰিবলৈ ইচ্ছুক হ'লে এই পদ্ধতি ব্যৱহাৰ কৰা যাব ।</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:241
+#: ui/sonnetui.ui:256
 #, fuzzy
 #| msgid "I&gnore All"
 msgctxt "SonnetUi|"
 msgid "I&gnore All"
 msgstr "সকলো উপেক্ষা কৰা হ'ব (&g)"
 
-#: ui/sonnetui.ui:254
+#: ui/sonnetui.ui:269
 #, fuzzy
 #| msgid "Autocorrect"
 msgctxt "SonnetUi|"
@@ -703,6 +696,12 @@ msgstr "উপেক্ষা কৰক"
 msgctxt "Sonnet::SpellCheckDecorator|"
 msgid "Add to Dictionary"
 msgstr "অভিধানত যোগ কৰক"
+
+#, fuzzy
+#~| msgid "Suggested Words"
+#~ msgctxt "SonnetUi|"
+#~ msgid "Suggested Words"
+#~ msgstr "প্ৰস্তাবিত শব্দ"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
