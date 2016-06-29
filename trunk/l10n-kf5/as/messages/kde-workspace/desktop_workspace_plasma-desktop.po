@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-06-28 09:00+0000\n"
+"POT-Creation-Date: 2016-06-29 07:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -105,7 +105,7 @@ msgctxt "Name"
 msgid "Window list"
 msgstr "MS Windows 9x"
 
-#: applets/window-list/metadata.desktop:52
+#: applets/window-list/metadata.desktop:53
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
 msgstr ""
@@ -154,7 +154,7 @@ msgctxt "Name"
 msgid "DataEngine for Kimpanel"
 msgstr ""
 
-#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:33
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:32
 msgctxt "Comment"
 msgid "DataEngine for Kimpanel"
 msgstr ""
@@ -1385,7 +1385,7 @@ msgctxt "Name"
 msgid "KWin"
 msgstr ""
 
-#: runners/kwin/plasma-runner-kwin.desktop:32
+#: runners/kwin/plasma-runner-kwin.desktop:31
 msgctxt "Comment"
 msgid "Interact with the Plasma Compositor"
 msgstr ""
@@ -1405,7 +1405,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr ""
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:45
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -1413,7 +1413,7 @@ msgctxt "Name"
 msgid "Removable Devices"
 msgstr "USB যন্ত্ৰ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:84
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:82
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
@@ -1423,7 +1423,7 @@ msgctxt "Name"
 msgid "Removable Device Automounter"
 msgstr ""
 
-#: solid-device-automounter/kded/device_automounter.desktop:47
+#: solid-device-automounter/kded/device_automounter.desktop:46
 msgctxt "Comment"
 msgid "Automatically mounts devices as needed"
 msgstr ""
