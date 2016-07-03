@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-06-16 07:42+0000\n"
+"POT-Creation-Date: 2016-07-03 07:15+0000\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -384,17 +384,29 @@ msgstr "যি সকলে অংশ লৈছে আৰু যাৰ নাম
 msgid "Set encoding for the file to open."
 msgstr "খুলিব লগা নথিপত্ৰৰ এঙ্কোডিং প্ৰতিষ্ঠা কৰক"
 
+#: main.cpp:139
+msgid "encoding"
+msgstr ""
+
 #: main.cpp:143
 #, fuzzy
 #| msgid "Navigate to this line"
 msgid "Navigate to this line."
 msgstr "এই শাৰীলৈ যাওক"
 
+#: main.cpp:143
+msgid "line"
+msgstr ""
+
 #: main.cpp:147
 #, fuzzy
 #| msgid "Navigate to this column"
 msgid "Navigate to this column."
 msgstr "এই স্তম্ভলৈ যাওক"
+
+#: main.cpp:147
+msgid "column"
+msgstr ""
 
 #: main.cpp:151
 #, fuzzy
@@ -411,6 +423,10 @@ msgstr ""
 #| msgid "Document to open"
 msgid "Documents to open."
 msgstr "খুলিব লগা আলেখ্যন"
+
+#: main.cpp:159
+msgid "[urls...]"
+msgstr ""
 
 #: main.cpp:242
 #, kde-format

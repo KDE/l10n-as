@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-06-27 08:16+0000\n"
+"POT-Creation-Date: 2016-07-03 07:26+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -98,7 +98,7 @@ msgstr "ইন্টাৰপ্ৰেটাৰ \"%1\" অনুপস্থি�
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "ইন্টাৰপ্ৰেটাৰ \"%1\" ৰ বাবে স্ক্ৰিপ্ট নিৰ্মাণ কৰিবলৈ ব্যৰ্থ"
 
-#: core/manager.cpp:136
+#: core/manager.cpp:141
 msgid "Level of safety of the Ruby interpreter"
 msgstr "Ruby ইন্টাৰপ্ৰেটাৰৰ ক্ষেত্ৰত নিৰাপত্তাৰ মাত্ৰা"
 
