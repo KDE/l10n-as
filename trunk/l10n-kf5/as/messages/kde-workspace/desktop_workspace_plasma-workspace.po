@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-15 08:02+0000\n"
+"POT-Creation-Date: 2016-07-22 08:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -205,7 +205,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr "Samba ৰ অৱস্থা"
 
-#: applets/systemmonitor/memory/metadata.desktop:66
+#: applets/systemmonitor/memory/metadata.desktop:67
 msgctxt "Comment"
 msgid "A RAM usage monitor"
 msgstr ""
@@ -1302,7 +1302,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr "পৰিচয়ৰ পৰিচালক"
 
-#: menu/desktop/kf5-utilities.directory:53
+#: menu/desktop/kf5-utilities.directory:54
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Contact Manager"
@@ -1315,7 +1315,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "নথিপত্ৰ"
 
-#: menu/desktop/kf5-utilities-file.directory:54
+#: menu/desktop/kf5-utilities-file.directory:55
 msgctxt "Comment"
 msgid "File"
 msgstr "নথিপত্ৰ"
@@ -1374,12 +1374,12 @@ msgctxt "Name"
 msgid "Application"
 msgstr "অনুপ্ৰয়োগ"
 
-#: phonon/platform_kde/phonon.notifyrc:121
+#: phonon/platform_kde/phonon.notifyrc:122
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:185
+#: phonon/platform_kde/phonon.notifyrc:186
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
