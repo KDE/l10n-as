@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-01 11:48+0000\n"
+"POT-Creation-Date: 2016-07-28 11:50+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -339,7 +339,7 @@ msgctxt "Name"
 msgid "Info Center"
 msgstr "তথ্য কেন্দ্ৰ"
 
-#: org.kde.kinfocenter.desktop:39
+#: org.kde.kinfocenter.desktop:40
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "তথ্য কেন্দ্ৰ"
