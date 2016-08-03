@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-30 02:12+0000\n"
+"POT-Creation-Date: 2016-08-03 07:43+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -14,195 +14,12 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: dolphin/src/dolphin.desktop:2
-msgctxt "Name"
-msgid "Dolphin"
-msgstr "Dolphin"
-
-#: dolphin/src/dolphin.desktop:95
-msgctxt "GenericName"
-msgid "File Manager"
-msgstr "নথিপত্ৰৰ পৰিচালক"
-
-#: dolphin/src/dolphinpart.desktop:3
-msgctxt "Name"
-msgid "Dolphin View"
-msgstr "Dolphin প্ৰদৰ্শন"
-
-#: dolphin/src/dolphinpart.desktop:98
-msgctxt "Name"
-msgid "Icons"
-msgstr "আইকন"
-
-#: dolphin/src/dolphinpart.desktop:195
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Compiz"
-msgctxt "Name"
-msgid "Compact"
-msgstr "Compiz"
-
-#: dolphin/src/dolphinpart.desktop:252
-msgctxt "Name"
-msgid "Details"
-msgstr "বিৱৰণ"
-
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:1
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Dolphin View"
-msgctxt "Name"
-msgid "Dolphin General"
-msgstr "Dolphin প্ৰদৰ্শন"
-
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:71
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "This service allows configuration of the Dolphin views."
-msgctxt "Comment"
-msgid "This service allows configuration of general Dolphin settings."
-msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
-
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:151
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "General"
-msgctxt "Name|Random file browsing settings."
-msgid "General"
-msgstr "সাধাৰণ"
-
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:223
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
-msgctxt "Comment"
-msgid "Configure general file manager settings"
-msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
-
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:292
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:293
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:244
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:292
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
-msgctxt "X-KDE-Keywords"
-msgid "file manager"
-msgstr "নথিপত্ৰৰ পৰিচালক"
-
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:1
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Dolphin View"
-msgctxt "Name"
-msgid "Dolphin Navigation"
-msgstr "Dolphin প্ৰদৰ্শন"
-
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:72
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "This service allows configuration of the Dolphin views."
-msgctxt "Comment"
-msgid "This service allows configuration of the Dolphin navigation."
-msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
-
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:151
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Navigation Panel"
-msgctxt "Name"
-msgid "Navigation"
-msgstr "পৰিদৰ্শনৰ পেনেল"
-
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:223
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
-msgctxt "Comment"
-msgid "Configure file manager navigation"
-msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
-
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:1
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Dolphin View"
-msgctxt "Name"
-msgid "Dolphin Services"
-msgstr "Dolphin প্ৰদৰ্শন"
-
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:82
-#: konqueror/sidebar/default_entries/services.desktop:4
-#: konqueror/sidebar/trees/init/services/.directory:3
-msgctxt "Name"
-msgid "Services"
-msgstr "সেৱা"
-
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:174
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
-msgctxt "Comment"
-msgid "Configure file manager services"
-msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
-
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:1
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Dolphin View"
-msgctxt "Name"
-msgid "Dolphin View Modes"
-msgstr "Dolphin প্ৰদৰ্শন"
-
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:72
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "This service allows configuration of the Dolphin views."
-msgctxt "Comment"
-msgid "This service allows configuration of the Dolphin view modes."
-msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
-
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:150
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Views"
-msgctxt "Name"
-msgid "View Modes"
-msgstr "প্ৰদৰ্শন ব্যৱস্থা"
-
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:221
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
-msgctxt "Comment"
-msgid "Configure file manager view modes"
-msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
-
-#: dolphin/src/views/versioncontrol/fileviewversioncontrolplugin.desktop:4
-msgctxt "Comment"
-msgid "Version Control Plugin for File Views"
-msgstr ""
-
-#: kdepasswd/kcm/kcm_useraccount.desktop:14
-msgctxt "Name"
-msgid "Password & User Account"
-msgstr "গুপ্তশব্দ & ব্যৱহাৰকৰোঁতাৰ হিচাপ"
-
-#: kdepasswd/kcm/kcm_useraccount.desktop:105
-msgctxt "X-KDE-Keywords"
-msgid "password,email,name,organization,realname,login image,face,echo mode"
-msgstr ""
-
-#: kdepasswd/kcm/kcm_useraccount.desktop:140
-msgctxt "Comment"
-msgid "User information such as password, name and email"
-msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
-
-#: kdepasswd/kdepasswd.desktop:8
+#: kdepasswd/org.kde.kdepasswd.desktop:8
 msgctxt "Name"
 msgid "Change Password"
 msgstr "গুপ্তশব্দ সলনি কৰক"
 
-#: keditbookmarks/keditbookmarks.desktop:5
+#: keditbookmarks/org.kde.keditbookmarks.desktop:5
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bookmark Toolbar"
@@ -210,12 +27,12 @@ msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
 
-#: keditbookmarks/keditbookmarks.desktop:72
+#: keditbookmarks/org.kde.keditbookmarks.desktop:72
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr ""
 
-#: kfind/kfind.desktop:7
+#: kfind/org.kde.kfind.desktop:7
 msgctxt "Name"
 msgid "Find Files/Folders"
 msgstr "নথিপত্ৰ/পঞ্জিকা বিচাৰক"
@@ -413,16 +230,6 @@ msgctxt "Comment"
 msgid "An easy way to generate an HTML image gallery"
 msgstr ""
 
-#: konq-plugins/kttsplugin/khtmlkttsd.desktop:14
-msgctxt "Name"
-msgid "Text-to-Speech"
-msgstr "Text-to-Speech"
-
-#: konq-plugins/kttsplugin/khtmlkttsd.desktop:100
-msgctxt "Comment"
-msgid "Produces audio output for text in the current page"
-msgstr "বৰ্ত্তমানৰ পৃষ্ঠাৰ লিপিৰ বিষয়ে অ'ডিঅ' নিৰ্গম সৃষ্টি কৰে"
-
 #: konq-plugins/microformat/mf_konqmficon.desktop:2
 #, fuzzy
 #| msgctxt "Comment"
@@ -507,6 +314,16 @@ msgstr "শ্বেল আদেশৰ প্লাগ-ইন"
 msgctxt "Comment"
 msgid "Shell Command Plugin for Konqueror"
 msgstr "Konqueror ৰ কাৰণে শ্বেল আদেশৰ প্লাগ-ইন"
+
+#: konq-plugins/ttsplugin/khtmltts.desktop:14
+msgctxt "Name"
+msgid "Text-to-Speech"
+msgstr "Text-to-Speech"
+
+#: konq-plugins/ttsplugin/khtmltts.desktop:100
+msgctxt "Comment"
+msgid "Produces audio output for text in the current page"
+msgstr "বৰ্ত্তমানৰ পৃষ্ঠাৰ লিপিৰ বিষয়ে অ'ডিঅ' নিৰ্গম সৃষ্টি কৰে"
 
 #: konq-plugins/uachanger/uachangerplugin.desktop:13
 #, fuzzy
@@ -608,7 +425,6 @@ msgid "Reduces Konqueror startup time"
 msgstr "Konqueror আৰম্ভণিৰ সময় কম কৰে"
 
 #: konqueror/profile_filemanagement.desktop:2
-#: konqueror/src/tests/filemanagement.old.profile:7
 msgctxt "Name"
 msgid "File Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
@@ -638,405 +454,25 @@ msgctxt "Name"
 msgid "Web Browsing"
 msgstr "ৱেব চৰণ কৰা"
 
-#: konqueror/settings/ebrowsing/ebrowsing.desktop:13
-msgctxt "Name"
-msgid "Web Shortcuts"
-msgstr "ৱেবৰ চমু পথ"
-
-#: konqueror/settings/ebrowsing/ebrowsing.desktop:106
-msgctxt "Comment"
-msgid "Configure enhanced browsing"
-msgstr "উন্নতভাবে চৰণ কৰা বিন্যাস কৰক"
-
-#: konqueror/settings/ebrowsing/ebrowsing.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Enhanced Browsing,Browsing,WWW,Internet,Internet Filters,Network,Search "
-"Engines,Shortcuts"
-msgstr ""
-
-#: konqueror/settings/kio/bookmarks.desktop:12
+#: konqueror/settings/bookmarks/bookmarks.desktop:12
 #: konqueror/sidebar/default_entries/bookmarks.desktop:5
 #: konqueror/sidebar/trees/init/bookmarks_module.desktop:5
 msgctxt "Name"
 msgid "Bookmarks"
 msgstr "পত্ৰচিহ্ন"
 
-#: konqueror/settings/kio/bookmarks.desktop:104
+#: konqueror/settings/bookmarks/bookmarks.desktop:104
 msgctxt "Comment"
 msgid "Configure the bookmarks home page"
 msgstr "পত্ৰচিহ্নৰ ঘৰৰ পৃষ্ঠা বিন্যাস কৰক"
 
-#: konqueror/settings/kio/bookmarks.desktop:182
+#: konqueror/settings/bookmarks/bookmarks.desktop:182
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bookmarks"
 msgctxt "X-KDE-Keywords"
 msgid "Bookmarks"
 msgstr "পত্ৰচিহ্ন"
-
-#: konqueror/settings/kio/cache.desktop:12
-msgctxt "Name"
-msgid "Cache"
-msgstr "কেছে"
-
-#: konqueror/settings/kio/cache.desktop:106
-msgctxt "Comment"
-msgid "Configure web cache settings"
-msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
-
-#: konqueror/settings/kio/cache.desktop:198
-msgctxt "X-KDE-Keywords"
-msgid "Cache,History,Browsing History,Ports,Size"
-msgstr ""
-
-#: konqueror/settings/kio/cookies.desktop:12
-msgctxt "Name"
-msgid "Cookies"
-msgstr "কুকি"
-
-#: konqueror/settings/kio/cookies.desktop:103
-msgctxt "Comment"
-msgid "Configure the way cookies work"
-msgstr "কুকিৰ কাম কৰা প্ৰক্ৰিয়া বিন্যাস কৰক"
-
-#: konqueror/settings/kio/cookies.desktop:194
-msgctxt "X-KDE-Keywords"
-msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
-msgstr ""
-
-#: konqueror/settings/kio/netpref.desktop:15
-msgctxt "Name"
-msgid "Connection Preferences"
-msgstr "সংযোগৰ পছন্দ"
-
-#: konqueror/settings/kio/netpref.desktop:105
-msgctxt "Comment"
-msgid "Configure generic network preferences, like timeout values"
-msgstr ""
-
-#: konqueror/settings/kio/netpref.desktop:196
-msgctxt "X-KDE-Keywords"
-msgid "timeout,iopref,netpref,network preferences,ftp"
-msgstr ""
-
-#: konqueror/settings/kio/proxy.desktop:15
-msgctxt "Name"
-msgid "Proxy"
-msgstr "প্ৰশমক"
-
-#: konqueror/settings/kio/proxy.desktop:108
-msgctxt "Comment"
-msgid "Configure the proxy servers used"
-msgstr "ব্যৱহাৰ কৰা প্ৰশমক সেৱক বিন্যাস কৰক"
-
-#: konqueror/settings/kio/proxy.desktop:201
-msgctxt "X-KDE-Keywords"
-msgid "Proxy,Proxy server,Firewall,Squid"
-msgstr ""
-
-#: konqueror/settings/kio/smb.desktop:13
-msgctxt "Name"
-msgid "Windows Shares"
-msgstr "Windows Shares"
-
-#: konqueror/settings/kio/smb.desktop:104
-msgctxt "Comment"
-msgid "Use to configure which windows (SMB) filesystems you can browse"
-msgstr ""
-
-#: konqueror/settings/kio/smb.desktop:194
-msgctxt "X-KDE-Keywords"
-msgid ""
-"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
-"Broadcast,WINS,Share,Login,Passwords"
-msgstr ""
-
-#: konqueror/settings/kio/uasprovider.desktop:4
-msgctxt "Comment"
-msgid "UserAgent Strings"
-msgstr "UserAgent Strings"
-
-#: konqueror/settings/kio/uasproviders/android10.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Wget 1.5.3)"
-msgctxt "Name"
-msgid "UADescription (Android Phone 1.0)"
-msgstr "UADescription (Wget 1.5.3)"
-
-#: konqueror/settings/kio/uasproviders/chrome10onwinnt51.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
-msgctxt "Name"
-msgid "UADescription (Google Chrome 1.0 on Windows XP)"
-msgstr "UADescription (Mozilla 1.7 on Windows XP)"
-
-#: konqueror/settings/kio/uasproviders/chrome22oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
-msgctxt "Name"
-msgid "UADescription (Google Chrome 22.0)"
-msgstr "UADescription (Mozilla 1.7 on Windows XP)"
-
-#: konqueror/settings/kio/uasproviders/chrome23oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
-msgctxt "Name"
-msgid "UADescription (Google Chrome 23.0)"
-msgstr "UADescription (Mozilla 1.7 on Windows XP)"
-
-#: konqueror/settings/kio/uasproviders/chrome24oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
-msgctxt "Name"
-msgid "UADescription (Google Chrome 24.0)"
-msgstr "UADescription (Mozilla 1.7 on Windows XP)"
-
-#: konqueror/settings/kio/uasproviders/chrome50oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
-msgctxt "Name"
-msgid "UADescription (Google Chrome 5.0)"
-msgstr "UADescription (Mozilla 1.7 on Windows XP)"
-
-#: konqueror/settings/kio/uasproviders/firefox15oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 1.5 on current)"
-msgctxt "Name"
-msgid "UADescription (Firefox 15 on current)"
-msgstr "UADescription (Firefox 1.5 on current)"
-
-#: konqueror/settings/kio/uasproviders/firefox16oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
-msgctxt "Name"
-msgid "UADescription (Firefox 16 on current)"
-msgstr "UADescription (Firefox 2.0 on current)"
-
-#: konqueror/settings/kio/uasproviders/firefox20oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Firefox 2.0 on current)"
-msgstr "UADescription (Firefox 2.0 on current)"
-
-#: konqueror/settings/kio/uasproviders/firefox30oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
-msgctxt "Name"
-msgid "UADescription (Firefox 3.0 on current)"
-msgstr "UADescription (Firefox 2.0 on current)"
-
-#: konqueror/settings/kio/uasproviders/firefox36oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
-msgctxt "Name"
-msgid "UADescription (Firefox 3.6 on current)"
-msgstr "UADescription (Firefox 2.0 on current)"
-
-#: konqueror/settings/kio/uasproviders/googlebot.desktop:2
-msgctxt "Name"
-msgid "UADescription (Googlebot/2.1)"
-msgstr "UADescription (Googlebot/2.1)"
-
-#: konqueror/settings/kio/uasproviders/ie401onwinnt4.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 4.01 on Win 2000)"
-msgstr "UADescription (IE 4.01 on Win 2000)"
-
-#: konqueror/settings/kio/uasproviders/ie50onppc.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 5.0 on Mac PPC)"
-msgstr "UADescription (IE 5.0 on Mac PPC)"
-
-#: konqueror/settings/kio/uasproviders/ie55onwinnt5.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 5.5 on Win 2000)"
-msgstr "UADescription (IE 5.5 on Win 2000)"
-
-#: konqueror/settings/kio/uasproviders/ie60oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 6.0 on current)"
-msgstr "UADescription (IE 6.0 on current)"
-
-#: konqueror/settings/kio/uasproviders/ie60onwinnt51.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 6.0 on Win XP)"
-msgstr "UADescription (IE 6.0 on Win XP)"
-
-#: konqueror/settings/kio/uasproviders/ie70onwinnt51.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (IE 6.0 on Win XP)"
-msgctxt "Name"
-msgid "UADescription (IE 7.0 on Win XP)"
-msgstr "UADescription (IE 6.0 on Win XP)"
-
-#: konqueror/settings/kio/uasproviders/ie80onwinnt60.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (IE 6.0 on Win XP)"
-msgctxt "Name"
-msgid "UADescription (IE 8.0 on Windows Vista)"
-msgstr "UADescription (IE 6.0 on Win XP)"
-
-#: konqueror/settings/kio/uasproviders/ie90onwinnt71.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (IE 6.0 on Win XP)"
-msgctxt "Name"
-msgid "UADescription (IE 9.0 on Windows Seven)"
-msgstr "UADescription (IE 6.0 on Win XP)"
-
-#: konqueror/settings/kio/uasproviders/lynxoncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Lynx 2.8.3)"
-msgstr "UADescription (Lynx 2.8.3)"
-
-#: konqueror/settings/kio/uasproviders/nn301oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (NN 3.01 on current)"
-msgstr "UADescription (NN 3.01 on current)"
-
-#: konqueror/settings/kio/uasproviders/nn475oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (NN 4.76 on current)"
-msgstr "UADescription (NN 4.76 on current)"
-
-#: konqueror/settings/kio/uasproviders/nn475onwin95.desktop:2
-msgctxt "Name"
-msgid "UADescription (NN 4.7 on Windows 95)"
-msgstr "UADescription (NN 4.7 on Windows 95)"
-
-#: konqueror/settings/kio/uasproviders/ns71oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Netscape 7.1 on current)"
-msgstr "UADescription (Netscape 7.1 on current)"
-
-#: konqueror/settings/kio/uasproviders/ns71onwinnt51.desktop:2
-msgctxt "Name"
-msgid "UADescription (Netscape 7.1 on XP)"
-msgstr "UADescription (Netscape 7.1 on XP)"
-
-#: konqueror/settings/kio/uasproviders/op1162oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Opera 9.00 on current)"
-msgctxt "Name"
-msgid "UADescription (Opera 11.62 on current)"
-msgstr "UADescription (Opera 9.00 on current)"
-
-#: konqueror/settings/kio/uasproviders/op1202oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Opera 9.00 on current)"
-msgctxt "Name"
-msgid "UADescription (Opera 12.02 on current)"
-msgstr "UADescription (Opera 9.00 on current)"
-
-#: konqueror/settings/kio/uasproviders/op403onwinnt4.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 4.03 on NT)"
-msgstr "UADescription (Opera 4.03 on NT)"
-
-#: konqueror/settings/kio/uasproviders/op85oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 8.5 on current)"
-msgstr "UADescription (Opera 8.5 on current)"
-
-#: konqueror/settings/kio/uasproviders/op90oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 9.00 on current)"
-msgstr "UADescription (Opera 9.00 on current)"
-
-#: konqueror/settings/kio/uasproviders/op962oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Opera 9.00 on current)"
-msgctxt "Name"
-msgid "UADescription (Opera 9.62 on current)"
-msgstr "UADescription (Opera 9.00 on current)"
-
-#: konqueror/settings/kio/uasproviders/safari20.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 2.0 on MacOS X)"
-msgstr "UADescription (Safari 2.0 on MacOS X)"
-
-#: konqueror/settings/kio/uasproviders/safari30oniphone.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
-msgctxt "Name"
-msgid "UADescription (Safari 3.0 on iPhone)"
-msgstr "UADescription (Safari 2.0 on MacOS X)"
-
-#: konqueror/settings/kio/uasproviders/safari32.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 1.2 on MacOS X)"
-msgctxt "Name"
-msgid "UADescription (Safari 3.2 on MacOS X)"
-msgstr "UADescription (Safari 1.2 on MacOS X)"
-
-#: konqueror/settings/kio/uasproviders/safari40.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
-msgctxt "Name"
-msgid "UADescription (Safari 4.0 on MacOS X)"
-msgstr "UADescription (Safari 2.0 on MacOS X)"
-
-#: konqueror/settings/kio/uasproviders/safari517.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
-msgctxt "Name"
-msgid "UADescription (Safari 5.1.7 on MacOS X)"
-msgstr "UADescription (Safari 2.0 on MacOS X)"
-
-#: konqueror/settings/kio/uasproviders/safari60.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
-msgctxt "Name"
-msgid "UADescription (Safari 6.0 on MacOS X)"
-msgstr "UADescription (Safari 2.0 on MacOS X)"
-
-#: konqueror/settings/kio/uasproviders/w3moncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (w3m 0.1.9)"
-msgstr "UADescription (w3m 0.1.9)"
-
-#: konqueror/settings/kio/uasproviders/wgetoncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Wget 1.5.3)"
-msgctxt "Name"
-msgid "UADescription (Wget 1.11.4)"
-msgstr "UADescription (Wget 1.5.3)"
-
-#: konqueror/settings/kio/useragent.desktop:12
-msgctxt "Name"
-msgid "Browser Identification"
-msgstr "চৰকৰ চিনাক্তকৰণ"
-
-#: konqueror/settings/kio/useragent.desktop:103
-msgctxt "Comment"
-msgid "Configure the way Konqueror reports itself"
-msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
-
-#: konqueror/settings/kio/useragent.desktop:193
-msgctxt "X-KDE-Keywords"
-msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
-msgstr ""
 
 #: konqueror/settings/konq/fileappearance.desktop:11
 #: konqueror/settings/konqhtml/khtml_appearance.desktop:13
@@ -1272,6 +708,12 @@ msgctxt "Comment"
 msgid "This is the root of the filesystem"
 msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
 
+#: konqueror/sidebar/default_entries/services.desktop:4
+#: konqueror/sidebar/trees/init/services/.directory:3
+msgctxt "Name"
+msgid "Services"
+msgstr "সেৱা"
+
 #: konqueror/sidebar/history_module/kcmhistory.desktop:104
 msgctxt "Comment"
 msgid "Configure the history sidebar"
@@ -1306,14 +748,8 @@ msgctxt "Name"
 msgid "Places SideBar Module"
 msgstr "Web SideBar Module"
 
-#: konqueror/sidebar/test/test.desktop:5
-msgctxt "Name"
-msgid "Test"
-msgstr "পৰীক্ষা কৰক"
-
 #: konqueror/sidebar/trees/init/dirtree_module.desktop:5
 #: konqueror/sidebar/trees/konqsidebar_tree.desktop:4
-#: plasma/applets/folderview/plasma-applet-folderview.desktop:2
 msgctxt "Name"
 msgid "Folder"
 msgstr "ফোল্ডাৰ"
@@ -1373,199 +809,10 @@ msgctxt "Name"
 msgid "Web SideBar Module"
 msgstr "Web SideBar Module"
 
-#: lib/konq/directory_bookmarkbar.desktop:3
+#: lib/konq/src/directory_bookmarkbar.desktop:3
 msgctxt "Name"
 msgid "Bookmark Toolbar"
 msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
-
-#: lib/konq/favicons/favicons.desktop:3
-msgctxt "Name"
-msgid "Favicons"
-msgstr ""
-
-#: lib/konq/favicons/favicons.desktop:79
-msgctxt "Comment"
-msgid "Stores website icons"
-msgstr ""
-
-#: lib/konq/konqdndpopupmenuplugin.desktop:4
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plugin for the Konqueror Popup Menu"
-msgctxt "Comment"
-msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
-msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
-
-#: lib/konq/konqpopupmenuplugin.desktop:4
-msgctxt "Comment"
-msgid "Plugin for the Konqueror Popup Menu"
-msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
-
-#: lib/konq/Templates/CDROM-Device.desktop:10
-#: lib/konq/Templates/CDWRITER-Device.desktop:10
-#: lib/konq/Templates/DVDROM-Device.desktop:10
-#: lib/konq/Templates/ZIP-Device.desktop:10
-msgctxt "Name"
-msgid "Eject"
-msgstr "বাহিৰ কৰক"
-
-#: lib/konq/Templates/Directory.desktop:2
-msgctxt "Name"
-msgid "Folder..."
-msgstr "ফোল্ডাৰ..."
-
-#: lib/konq/Templates/Directory.desktop:92
-msgctxt "Comment"
-msgid "Enter folder name:"
-msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
-
-#: lib/konq/Templates/Floppy.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Format"
-msgctxt "Name|Starts a program to format a floppy drive"
-msgid "Format"
-msgstr "আকৃতি"
-
-#: lib/konq/Templates/HTMLFile.desktop:2
-msgctxt "Name"
-msgid "HTML File..."
-msgstr "HTML নথিপত্ৰ..."
-
-#: lib/konq/Templates/HTMLFile.desktop:92
-msgctxt "Comment"
-msgid "Enter HTML filename:"
-msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
-
-#: lib/konq/Templates/linkCAMERA.desktop:2
-msgctxt "Name"
-msgid "Camera Device..."
-msgstr "কেমেৰা যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkCAMERA.desktop:91
-msgctxt "Comment"
-msgid "New camera"
-msgstr "নতুন কেমেৰা"
-
-#: lib/konq/Templates/linkCDROM.desktop:2
-msgctxt "Name"
-msgid "CD-ROM Device..."
-msgstr "CD-ROM যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkCDROM.desktop:91
-msgctxt "Comment"
-msgid "New CD-ROM Device"
-msgstr "নতুন CD-ROM যন্ত্ৰ"
-
-#: lib/konq/Templates/linkCDWRITER.desktop:2
-msgctxt "Name"
-msgid "CDWRITER Device..."
-msgstr "CDWRITER যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkCDWRITER.desktop:91
-msgctxt "Comment"
-msgid "New CDWRITER Device"
-msgstr "নতুন CDWRITER যন্ত্ৰ"
-
-#: lib/konq/Templates/linkDVDROM.desktop:2
-msgctxt "Name"
-msgid "DVD-ROM Device..."
-msgstr "DVD-ROM যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkDVDROM.desktop:92
-msgctxt "Comment"
-msgid "New DVD-ROM Device"
-msgstr "নতুন DVD-ROM যন্ত্ৰ"
-
-#: lib/konq/Templates/linkFloppy.desktop:2
-msgctxt "Name"
-msgid "Floppy Device..."
-msgstr "Floppy যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkFloppy.desktop:91
-msgctxt "Comment"
-msgid "New Floppy Device"
-msgstr "নতুন Floppy যন্ত্ৰ"
-
-#: lib/konq/Templates/linkHD.desktop:2
-msgctxt "Name"
-msgid "Hard Disc Device..."
-msgstr "হার্ড ডিস্ক যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkHD.desktop:91
-msgctxt "Comment"
-msgid "New Hard Disc"
-msgstr "নতুন হার্ড ডিস্ক"
-
-#: lib/konq/Templates/linkMO.desktop:2
-msgctxt "Name"
-msgid "MO Device..."
-msgstr "MO যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkMO.desktop:91
-msgctxt "Comment"
-msgid "New MO Device"
-msgstr "নতুন MO যন্ত্ৰ"
-
-#: lib/konq/Templates/linkNFS.desktop:2
-msgctxt "Name"
-msgid "NFS..."
-msgstr "NFS..."
-
-#: lib/konq/Templates/linkNFS.desktop:92
-msgctxt "Comment"
-msgid "New NFS Link"
-msgstr "নতুন NFS সংযোগ"
-
-#: lib/konq/Templates/linkPath.desktop:2
-msgctxt "Name"
-msgid "Basic link to file or directory..."
-msgstr ""
-
-#: lib/konq/Templates/linkPath.desktop:70
-msgctxt "Comment"
-msgid "Enter path of file or directory:"
-msgstr ""
-
-#: lib/konq/Templates/linkProgram.desktop:2
-msgctxt "Name"
-msgid "Link to Application..."
-msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
-
-#: lib/konq/Templates/linkProgram.desktop:86
-msgctxt "Comment"
-msgid "New Link to Application"
-msgstr "অনুপ্ৰয়োগলৈ নতুন সংযোগ"
-
-#: lib/konq/Templates/linkURL.desktop:2
-msgctxt "Name"
-msgid "Link to Location (URL)..."
-msgstr "স্থান (URL) লৈ সংযোগ..."
-
-#: lib/konq/Templates/linkURL.desktop:91
-msgctxt "Comment"
-msgid "Enter link to location (URL):"
-msgstr "স্থান (URL) লৈ সংযোগ দিয়ক"
-
-#: lib/konq/Templates/linkZIP.desktop:2
-msgctxt "Name"
-msgid "ZIP Device..."
-msgstr "ZIP যন্ত্ৰ..."
-
-#: lib/konq/Templates/linkZIP.desktop:91
-msgctxt "Comment"
-msgid "New ZIP Device"
-msgstr "নতুন ZIP যন্ত্ৰ"
-
-#: lib/konq/Templates/TextFile.desktop:2
-msgctxt "Name"
-msgid "Text File..."
-msgstr "টেক্সট নথিপত্ৰ..."
-
-#: lib/konq/Templates/TextFile.desktop:91
-msgctxt "Comment"
-msgid "Enter text filename:"
-msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
 
 #: nsplugins/khtml_plugins.desktop:14
 msgctxt "Name"
@@ -1582,13 +829,568 @@ msgctxt "X-KDE-Keywords"
 msgid "konqueror,kfm,browser,html,web,www,fonts,plugins"
 msgstr ""
 
-#: plasma/applets/folderview/plasma-applet-folderview.desktop:94
+#~ msgctxt "Name"
+#~ msgid "Dolphin"
+#~ msgstr "Dolphin"
+
+#~ msgctxt "GenericName"
+#~ msgid "File Manager"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#~ msgctxt "Name"
+#~ msgid "Dolphin View"
+#~ msgstr "Dolphin প্ৰদৰ্শন"
+
+#~ msgctxt "Name"
+#~ msgid "Icons"
+#~ msgstr "আইকন"
+
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Display the content of folders (Desktop as default)"
-msgctxt "Comment"
-msgid "Display the contents of folders"
-msgstr "ফোল্ডাৰৰ বিষয়বস্তু দেখুৱাওক (ডেষ্কট'প অবিকল্পিত হিচাপে)"
+#~| msgctxt "Name"
+#~| msgid "Compiz"
+#~ msgctxt "Name"
+#~ msgid "Compact"
+#~ msgstr "Compiz"
+
+#~ msgctxt "Name"
+#~ msgid "Details"
+#~ msgstr "বিৱৰণ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
+#~ msgctxt "Name"
+#~ msgid "Dolphin General"
+#~ msgstr "Dolphin প্ৰদৰ্শন"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This service allows configuration of the Dolphin views."
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of general Dolphin settings."
+#~ msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "General"
+#~ msgctxt "Name|Random file browsing settings."
+#~ msgid "General"
+#~ msgstr "সাধাৰণ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure general file manager settings"
+#~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "file manager"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
+#~ msgctxt "Name"
+#~ msgid "Dolphin Navigation"
+#~ msgstr "Dolphin প্ৰদৰ্শন"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This service allows configuration of the Dolphin views."
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the Dolphin navigation."
+#~ msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Navigation Panel"
+#~ msgctxt "Name"
+#~ msgid "Navigation"
+#~ msgstr "পৰিদৰ্শনৰ পেনেল"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure file manager navigation"
+#~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
+#~ msgctxt "Name"
+#~ msgid "Dolphin Services"
+#~ msgstr "Dolphin প্ৰদৰ্শন"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure file manager services"
+#~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dolphin View"
+#~ msgctxt "Name"
+#~ msgid "Dolphin View Modes"
+#~ msgstr "Dolphin প্ৰদৰ্শন"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "This service allows configuration of the Dolphin views."
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the Dolphin view modes."
+#~ msgstr "এই সেৱাৰ দ্বাৰা Dolphin প্ৰদৰ্শন ব্যৱস্থা বিন্যাস কৰা যাব ।"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Views"
+#~ msgctxt "Name"
+#~ msgid "View Modes"
+#~ msgstr "প্ৰদৰ্শন ব্যৱস্থা"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure file manager view modes"
+#~ msgstr "নথিপত্ৰ পৰিচালন ব্যৱস্থাৰ বৈশিষ্ট্য বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Password & User Account"
+#~ msgstr "গুপ্তশব্দ & ব্যৱহাৰকৰোঁতাৰ হিচাপ"
+
+#~ msgctxt "Comment"
+#~ msgid "User information such as password, name and email"
+#~ msgstr "ব্যৱহাৰকৰোঁতাৰ তথ্য যেনে গুপ্তশব্দ, নাম আৰু ঈ-মেইল"
+
+#~ msgctxt "Name"
+#~ msgid "Web Shortcuts"
+#~ msgstr "ৱেবৰ চমু পথ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure enhanced browsing"
+#~ msgstr "উন্নতভাবে চৰণ কৰা বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Cache"
+#~ msgstr "কেছে"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure web cache settings"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Cookies"
+#~ msgstr "কুকি"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the way cookies work"
+#~ msgstr "কুকিৰ কাম কৰা প্ৰক্ৰিয়া বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Connection Preferences"
+#~ msgstr "সংযোগৰ পছন্দ"
+
+#~ msgctxt "Name"
+#~ msgid "Proxy"
+#~ msgstr "প্ৰশমক"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the proxy servers used"
+#~ msgstr "ব্যৱহাৰ কৰা প্ৰশমক সেৱক বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Windows Shares"
+#~ msgstr "Windows Shares"
+
+#~ msgctxt "Comment"
+#~ msgid "UserAgent Strings"
+#~ msgstr "UserAgent Strings"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Wget 1.5.3)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Android Phone 1.0)"
+#~ msgstr "UADescription (Wget 1.5.3)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 1.0 on Windows XP)"
+#~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 22.0)"
+#~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 23.0)"
+#~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 24.0)"
+#~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 5.0)"
+#~ msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 1.5 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 15 on current)"
+#~ msgstr "UADescription (Firefox 1.5 on current)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 2.0 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 16 on current)"
+#~ msgstr "UADescription (Firefox 2.0 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 2.0 on current)"
+#~ msgstr "UADescription (Firefox 2.0 on current)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 2.0 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 3.0 on current)"
+#~ msgstr "UADescription (Firefox 2.0 on current)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 2.0 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 3.6 on current)"
+#~ msgstr "UADescription (Firefox 2.0 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Googlebot/2.1)"
+#~ msgstr "UADescription (Googlebot/2.1)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 4.01 on Win 2000)"
+#~ msgstr "UADescription (IE 4.01 on Win 2000)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 5.0 on Mac PPC)"
+#~ msgstr "UADescription (IE 5.0 on Mac PPC)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 5.5 on Win 2000)"
+#~ msgstr "UADescription (IE 5.5 on Win 2000)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 6.0 on current)"
+#~ msgstr "UADescription (IE 6.0 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 6.0 on Win XP)"
+#~ msgstr "UADescription (IE 6.0 on Win XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (IE 6.0 on Win XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 7.0 on Win XP)"
+#~ msgstr "UADescription (IE 6.0 on Win XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (IE 6.0 on Win XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 8.0 on Windows Vista)"
+#~ msgstr "UADescription (IE 6.0 on Win XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (IE 6.0 on Win XP)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 9.0 on Windows Seven)"
+#~ msgstr "UADescription (IE 6.0 on Win XP)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Lynx 2.8.3)"
+#~ msgstr "UADescription (Lynx 2.8.3)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (NN 3.01 on current)"
+#~ msgstr "UADescription (NN 3.01 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (NN 4.76 on current)"
+#~ msgstr "UADescription (NN 4.76 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (NN 4.7 on Windows 95)"
+#~ msgstr "UADescription (NN 4.7 on Windows 95)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Netscape 7.1 on current)"
+#~ msgstr "UADescription (Netscape 7.1 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Netscape 7.1 on XP)"
+#~ msgstr "UADescription (Netscape 7.1 on XP)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Opera 9.00 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 11.62 on current)"
+#~ msgstr "UADescription (Opera 9.00 on current)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Opera 9.00 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 12.02 on current)"
+#~ msgstr "UADescription (Opera 9.00 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 4.03 on NT)"
+#~ msgstr "UADescription (Opera 4.03 on NT)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 8.5 on current)"
+#~ msgstr "UADescription (Opera 8.5 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 9.00 on current)"
+#~ msgstr "UADescription (Opera 9.00 on current)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Opera 9.00 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 9.62 on current)"
+#~ msgstr "UADescription (Opera 9.00 on current)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 2.0 on MacOS X)"
+#~ msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 2.0 on MacOS X)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 3.0 on iPhone)"
+#~ msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 1.2 on MacOS X)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 3.2 on MacOS X)"
+#~ msgstr "UADescription (Safari 1.2 on MacOS X)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 2.0 on MacOS X)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 4.0 on MacOS X)"
+#~ msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 2.0 on MacOS X)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 5.1.7 on MacOS X)"
+#~ msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Safari 2.0 on MacOS X)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 6.0 on MacOS X)"
+#~ msgstr "UADescription (Safari 2.0 on MacOS X)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (w3m 0.1.9)"
+#~ msgstr "UADescription (w3m 0.1.9)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Wget 1.5.3)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Wget 1.11.4)"
+#~ msgstr "UADescription (Wget 1.5.3)"
+
+#~ msgctxt "Name"
+#~ msgid "Browser Identification"
+#~ msgstr "চৰকৰ চিনাক্তকৰণ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the way Konqueror reports itself"
+#~ msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Test"
+#~ msgstr "পৰীক্ষা কৰক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plugin for the Konqueror Popup Menu"
+#~ msgctxt "Comment"
+#~ msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
+#~ msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Konqueror Popup Menu"
+#~ msgstr "Konqueror প'প-আপ তালিকাৰ কাৰণে প্লাগ-ইন"
+
+#~ msgctxt "Name"
+#~ msgid "Eject"
+#~ msgstr "বাহিৰ কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Folder..."
+#~ msgstr "ফোল্ডাৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "Enter folder name:"
+#~ msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Format"
+#~ msgctxt "Name|Starts a program to format a floppy drive"
+#~ msgid "Format"
+#~ msgstr "আকৃতি"
+
+#~ msgctxt "Name"
+#~ msgid "HTML File..."
+#~ msgstr "HTML নথিপত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "Enter HTML filename:"
+#~ msgstr "HTML নথিপত্ৰৰনাম দিয়ক:"
+
+#~ msgctxt "Name"
+#~ msgid "Camera Device..."
+#~ msgstr "কেমেৰা যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New camera"
+#~ msgstr "নতুন কেমেৰা"
+
+#~ msgctxt "Name"
+#~ msgid "CD-ROM Device..."
+#~ msgstr "CD-ROM যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New CD-ROM Device"
+#~ msgstr "নতুন CD-ROM যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "CDWRITER Device..."
+#~ msgstr "CDWRITER যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New CDWRITER Device"
+#~ msgstr "নতুন CDWRITER যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "DVD-ROM Device..."
+#~ msgstr "DVD-ROM যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New DVD-ROM Device"
+#~ msgstr "নতুন DVD-ROM যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Floppy Device..."
+#~ msgstr "Floppy যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New Floppy Device"
+#~ msgstr "নতুন Floppy যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Hard Disc Device..."
+#~ msgstr "হার্ড ডিস্ক যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New Hard Disc"
+#~ msgstr "নতুন হার্ড ডিস্ক"
+
+#~ msgctxt "Name"
+#~ msgid "MO Device..."
+#~ msgstr "MO যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New MO Device"
+#~ msgstr "নতুন MO যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "NFS..."
+#~ msgstr "NFS..."
+
+#~ msgctxt "Comment"
+#~ msgid "New NFS Link"
+#~ msgstr "নতুন NFS সংযোগ"
+
+#~ msgctxt "Name"
+#~ msgid "Link to Application..."
+#~ msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New Link to Application"
+#~ msgstr "অনুপ্ৰয়োগলৈ নতুন সংযোগ"
+
+#~ msgctxt "Name"
+#~ msgid "Link to Location (URL)..."
+#~ msgstr "স্থান (URL) লৈ সংযোগ..."
+
+#~ msgctxt "Comment"
+#~ msgid "Enter link to location (URL):"
+#~ msgstr "স্থান (URL) লৈ সংযোগ দিয়ক"
+
+#~ msgctxt "Name"
+#~ msgid "ZIP Device..."
+#~ msgstr "ZIP যন্ত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "New ZIP Device"
+#~ msgstr "নতুন ZIP যন্ত্ৰ"
+
+#~ msgctxt "Name"
+#~ msgid "Text File..."
+#~ msgstr "টেক্সট নথিপত্ৰ..."
+
+#~ msgctxt "Comment"
+#~ msgid "Enter text filename:"
+#~ msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Display the content of folders (Desktop as default)"
+#~ msgctxt "Comment"
+#~ msgid "Display the contents of folders"
+#~ msgstr "ফোল্ডাৰৰ বিষয়বস্তু দেখুৱাওক (ডেষ্কট'প অবিকল্পিত হিচাপে)"
 
 #~ msgctxt "Name"
 #~ msgid "Folder View"
