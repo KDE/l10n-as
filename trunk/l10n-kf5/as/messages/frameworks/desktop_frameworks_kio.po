@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-02 07:44+0000\n"
+"POT-Creation-Date: 2016-09-10 08:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr ""
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:53
+#: src/ioslaves/http/http_cache_cleaner.desktop:54
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr ""
@@ -82,7 +82,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcms/kio/cache.desktop:141
+#: src/kcms/kio/cache.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -95,12 +95,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "কুকি"
 
-#: src/kcms/kio/cookies.desktop:55
+#: src/kcms/kio/cookies.desktop:56
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "কুকিৰ কাম কৰা প্ৰক্ৰিয়া বিন্যাস কৰক"
 
-#: src/kcms/kio/cookies.desktop:140
+#: src/kcms/kio/cookies.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -451,7 +451,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:142
+#: src/kcms/webshortcuts/webshortcuts.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -466,32 +466,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Fetchmail ৰ বিন্যাস"
 
-#: src/kpac/proxyscout.notifyrc:52
+#: src/kpac/proxyscout.notifyrc:53
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:99
+#: src/kpac/proxyscout.notifyrc:101
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:150
+#: src/kpac/proxyscout.notifyrc:153
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:197
+#: src/kpac/proxyscout.notifyrc:201
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:249
+#: src/kpac/proxyscout.notifyrc:254
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:294
+#: src/kpac/proxyscout.notifyrc:300
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr ""
@@ -651,7 +651,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Debian Package Search"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:38
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:39
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -1129,7 +1129,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "গ্ৰিছ"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:57
+#: src/urifilters/ikws/searchproviders/freecode.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1341,7 +1341,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:57
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1358,7 +1358,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:42
+#: src/urifilters/ikws/searchproviders/grec.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
@@ -1548,7 +1548,7 @@ msgctxt "Name"
 msgid "KDE Projects"
 msgstr "MrProject"
 
-#: src/urifilters/ikws/searchproviders/kde_projects.desktop:58
+#: src/urifilters/ikws/searchproviders/kde_projects.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -1805,7 +1805,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr "Qt3 অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:58
+#: src/urifilters/ikws/searchproviders/qt4.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://doc.trolltech.com/3.3/\\\\{@}.html"
@@ -1831,7 +1831,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:43
+#: src/urifilters/ikws/searchproviders/qwant.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1844,7 +1844,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:44
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1857,7 +1857,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:43
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1873,7 +1873,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:44
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1886,7 +1886,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:43
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1899,7 +1899,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:45
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1928,7 +1928,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "Spanish Academy (RAE) ৰ অভিধান"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:54
+#: src/urifilters/ikws/searchproviders/rag.desktop:55
 msgctxt "Query"
 msgid ""
 "http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=\\\\{@}"
@@ -1975,7 +1975,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ধ্বনি"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:31
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:32
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
