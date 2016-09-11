@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-03 07:43+0000\n"
+"POT-Creation-Date: 2016-09-11 07:44+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -814,20 +814,13 @@ msgctxt "Name"
 msgid "Bookmark Toolbar"
 msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
 
-#: nsplugins/khtml_plugins.desktop:14
-msgctxt "Name"
-msgid "Plugins"
-msgstr "প্লাগ-ইন"
+#~ msgctxt "Name"
+#~ msgid "Plugins"
+#~ msgstr "প্লাগ-ইন"
 
-#: nsplugins/khtml_plugins.desktop:106
-msgctxt "Comment"
-msgid "Configure the browser plugins"
-msgstr "চৰকৰ প্লাগ-ইন বিন্যাস কৰক"
-
-#: nsplugins/khtml_plugins.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "konqueror,kfm,browser,html,web,www,fonts,plugins"
-msgstr ""
+#~ msgctxt "Comment"
+#~ msgid "Configure the browser plugins"
+#~ msgstr "চৰকৰ প্লাগ-ইন বিন্যাস কৰক"
 
 #~ msgctxt "Name"
 #~ msgid "Dolphin"
