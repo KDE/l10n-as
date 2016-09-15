@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-14 07:14+0000\n"
+"POT-Creation-Date: 2016-09-15 07:38+0000\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1228,70 +1228,70 @@ msgctxt "KWin Scripting function received incorrect value for an expected type"
 msgid "%1 is not a variant type"
 msgstr ""
 
-#: tabbox/tabbox.cpp:379
+#: tabbox/tabbox.cpp:380
 #, fuzzy
 #| msgid "Show Desktop Grid"
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr "Desktop Grid দেখুৱাওক"
 
-#: tabbox/tabbox.cpp:530
+#: tabbox/tabbox.cpp:529
 msgid "Walk Through Windows"
 msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:531
+#: tabbox/tabbox.cpp:530
 msgid "Walk Through Windows (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:532
+#: tabbox/tabbox.cpp:531
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:533
+#: tabbox/tabbox.cpp:532
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:534
+#: tabbox/tabbox.cpp:533
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:535
+#: tabbox/tabbox.cpp:534
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:536
+#: tabbox/tabbox.cpp:535
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application Alternative"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:537
+#: tabbox/tabbox.cpp:536
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application Alternative (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:538
+#: tabbox/tabbox.cpp:537
 msgid "Walk Through Desktops"
 msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:539
+#: tabbox/tabbox.cpp:538
 msgid "Walk Through Desktops (Reverse)"
 msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:540
+#: tabbox/tabbox.cpp:539
 msgid "Walk Through Desktop List"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:541
+#: tabbox/tabbox.cpp:540
 msgid "Walk Through Desktop List (Reverse)"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
