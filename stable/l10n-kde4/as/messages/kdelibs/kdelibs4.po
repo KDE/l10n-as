@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-28 09:18+0000\n"
+"POT-Creation-Date: 2016-10-09 04:58+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -11961,13 +11961,13 @@ msgstr ""
 msgid "Could not install \"%1\": file not found."
 msgstr "%1 সংস্থাপন কৰিবলৈ ব্যৰ্থ"
 
-#: knewstuff/knewstuff3/core/installation.cpp:488
+#: knewstuff/knewstuff3/core/installation.cpp:493
 #, fuzzy
 #| msgid "Overwrite File?"
 msgid "Overwrite existing file?"
 msgstr "নথিপত্ৰ নতুনকৈ লিখা হ'ব নেকি ?"
 
-#: knewstuff/knewstuff3/core/installation.cpp:488
+#: knewstuff/knewstuff3/core/installation.cpp:493
 #, fuzzy
 #| msgid "Download"
 msgid "Download File"
