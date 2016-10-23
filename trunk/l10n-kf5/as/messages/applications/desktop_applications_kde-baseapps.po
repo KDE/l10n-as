@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-15 08:01+0000\n"
+"POT-Creation-Date: 2016-10-23 07:34+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -732,6 +732,16 @@ msgstr "বৈশিষ্ট্য"
 msgctxt "Name"
 msgid "Web SideBar Module"
 msgstr "Web SideBar Module"
+
+#: konqueror/webenginepart/src/webenginepart.desktop:3
+msgctxt "Comment"
+msgid "Embeddable HTML component"
+msgstr ""
+
+#: konqueror/webenginepart/src/webenginepart.desktop:6
+msgctxt "Name"
+msgid "WebEngine"
+msgstr ""
 
 #, fuzzy
 #~| msgctxt "Name"
