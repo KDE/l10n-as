@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-06 07:54+0000\n"
+"POT-Creation-Date: 2016-10-25 08:08+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -54,47 +54,47 @@ msgctxt "Name"
 msgid "Activity in Hidden Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:464
+#: desktop/konsole.notifyrc:465
 msgctxt "Comment"
 msgid "Activity detected in a hidden monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:496
+#: desktop/konsole.notifyrc:498
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:576
+#: desktop/konsole.notifyrc:578
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:663
+#: desktop/konsole.notifyrc:665
 msgctxt "Name"
 msgid "Silence in Hidden Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:692
+#: desktop/konsole.notifyrc:695
 msgctxt "Comment"
 msgid "Silence detected in a hidden monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:724
+#: desktop/konsole.notifyrc:728
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:804
+#: desktop/konsole.notifyrc:808
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:891
+#: desktop/konsole.notifyrc:895
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr ""
 
-#: desktop/konsole.notifyrc:974
+#: desktop/konsole.notifyrc:978
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr ""
@@ -136,12 +136,12 @@ msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
 
-#: desktop/org.kde.konsole.desktop:229
+#: desktop/org.kde.konsole.desktop:230
 msgctxt "Name"
 msgid "Open a New Window"
 msgstr ""
 
-#: desktop/org.kde.konsole.desktop:279
+#: desktop/org.kde.konsole.desktop:280
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
