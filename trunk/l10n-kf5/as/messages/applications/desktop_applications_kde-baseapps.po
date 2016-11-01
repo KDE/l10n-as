@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-31 07:24+0000\n"
+"POT-Creation-Date: 2016-11-01 08:04+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -738,7 +738,7 @@ msgctxt "Comment"
 msgid "Embeddable HTML component"
 msgstr ""
 
-#: konqueror/webenginepart/src/webenginepart.desktop:18
+#: konqueror/webenginepart/src/webenginepart.desktop:20
 msgctxt "Name"
 msgid "WebEngine"
 msgstr ""
