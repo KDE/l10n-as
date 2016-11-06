@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-03 07:52+0000\n"
+"POT-Creation-Date: 2016-11-06 07:40+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -14,734 +14,421 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kdepasswd/org.kde.kdepasswd.desktop:8
-msgctxt "Name"
-msgid "Change Password"
-msgstr "গুপ্তশব্দ সলনি কৰক"
-
-#: keditbookmarks/org.kde.keditbookmarks.desktop:5
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Bookmark Toolbar"
-msgctxt "Name"
-msgid "Bookmark Editor"
-msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
-
-#: keditbookmarks/org.kde.keditbookmarks.desktop:72
-msgctxt "Comment"
-msgid "Bookmark Organizer and Editor"
-msgstr ""
-
-#: kfind/org.kde.kfind.desktop:7
+#: src/org.kde.kfind.desktop:7
 msgctxt "Name"
 msgid "Find Files/Folders"
 msgstr "নথিপত্ৰ/পঞ্জিকা বিচাৰক"
 
-#: konqueror/about/konq_aboutpage.desktop:3
-msgctxt "Name"
-msgid "About-Page for Konqueror"
-msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
+#~ msgctxt "Name"
+#~ msgid "Change Password"
+#~ msgstr "গুপ্তশব্দ সলনি কৰক"
 
-#: konqueror/kfmclient.desktop:10 konqueror/kfmclient_html.desktop:9
-#: konqueror/kfmclient_war.desktop:9 konqueror/konqbrowser.desktop:7
-#: konqueror/org.kde.konqueror.desktop:4
-msgctxt "Name"
-msgid "Konqueror"
-msgstr "Konqueror"
-
-#: konqueror/konqbrowser.desktop:99
-msgctxt "GenericName"
-msgid "Web Browser"
-msgstr "ৱেব চৰক"
-
-#: konqueror/konqy_preload.desktop:4
-msgctxt "Name"
-msgid "Konqueror Preloading During KDE startup"
-msgstr "KDE আৰম্ভ কৰাৰ সময়ত Konqueror আগতে তুলি ল'ব"
-
-#: konqueror/libkonq/src/directory_bookmarkbar.desktop:3
-msgctxt "Name"
-msgid "Bookmark Toolbar"
-msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
-
-#: konqueror/org.kde.konqueror.desktop:97
-msgctxt "Comment"
-msgid "KDE File Manager & Web Browser"
-msgstr "KDE File Manager & Web Browser"
-
-#: konqueror/plugins/adblock/plugin_adblock.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Clock"
-msgctxt "Name"
-msgid "Adblock"
-msgstr "Clock"
+#~| msgctxt "Name"
+#~| msgid "Bookmark Toolbar"
+#~ msgctxt "Name"
+#~ msgid "Bookmark Editor"
+#~ msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
 
-#: konqueror/plugins/adblock/plugin_adblock.desktop:63
-msgctxt "Comment"
-msgid "Show all blockable html elements"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "About-Page for Konqueror"
+#~ msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
 
-#: konqueror/plugins/akregator/akregator_konqfeedicon.desktop:2
+#~ msgctxt "Name"
+#~ msgid "Konqueror"
+#~ msgstr "Konqueror"
+
+#~ msgctxt "GenericName"
+#~ msgid "Web Browser"
+#~ msgstr "ৱেব চৰক"
+
+#~ msgctxt "Name"
+#~ msgid "Konqueror Preloading During KDE startup"
+#~ msgstr "KDE আৰম্ভ কৰাৰ সময়ত Konqueror আগতে তুলি ল'ব"
+
+#~ msgctxt "Name"
+#~ msgid "Bookmark Toolbar"
+#~ msgstr "পত্ৰচিহ্নৰ টুলবাৰ"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE File Manager & Web Browser"
+#~ msgstr "KDE File Manager & Web Browser"
+
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Konqueror"
-msgctxt "Name"
-msgid "Konqueror Feed Icon"
-msgstr "Konqueror"
+#~| msgctxt "GenericName"
+#~| msgid "Clock"
+#~ msgctxt "Name"
+#~ msgid "Adblock"
+#~ msgstr "Clock"
 
-#: konqueror/plugins/akregator/akregator_konqfeedicon.desktop:64
-msgctxt "Comment"
-msgid "Displays an icon in the status bar if the page contains a feed"
-msgstr ""
-
-#: konqueror/plugins/akregator/akregator_konqplugin.desktop:4
-msgctxt "Name"
-msgid "Add Feed to Akregator"
-msgstr ""
-
-#: konqueror/plugins/akregator/akregator_konqplugin.desktop:69
-msgctxt "Comment"
-msgid "Adds selected feed to Akregator"
-msgstr ""
-
-#: konqueror/plugins/autorefresh/autorefresh.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "X Refresh"
-msgctxt "Name"
-msgid "Auto Refresh"
-msgstr "X Refresh"
+#~| msgctxt "Name"
+#~| msgid "Konqueror"
+#~ msgctxt "Name"
+#~ msgid "Konqueror Feed Icon"
+#~ msgstr "Konqueror"
 
-#: konqueror/plugins/autorefresh/autorefresh.desktop:71
-msgctxt "Comment"
-msgid "Auto Refresh plugin"
-msgstr ""
-
-#: konqueror/plugins/babelfish/plugin_translator.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "LEO-Translate"
-msgctxt "Name"
-msgid "Translate"
-msgstr "LEO-Translate"
+#~| msgctxt "Name"
+#~| msgid "X Refresh"
+#~ msgctxt "Name"
+#~ msgid "Auto Refresh"
+#~ msgstr "X Refresh"
 
-#: konqueror/plugins/babelfish/plugin_translator.desktop:78
-msgctxt "Comment"
-msgid "Language translation for the current page using Google"
-msgstr ""
-
-#: konqueror/plugins/dirfilter/dirfilterplugin.desktop:13
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Analyzer"
-msgctxt "Name"
-msgid "Directory Filter"
-msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
+#~| msgctxt "Name"
+#~| msgid "LEO-Translate"
+#~ msgctxt "Name"
+#~ msgid "Translate"
+#~ msgstr "LEO-Translate"
 
-#: konqueror/plugins/dirfilter/dirfilterplugin.desktop:73
-msgctxt "Comment"
-msgid "Filter directory view using an attribute filter"
-msgstr ""
-
-#: konqueror/plugins/domtreeviewer/plugin_domtreeviewer.desktop:13
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Name"
-msgid "DOM Tree Viewer"
-msgstr "ছবি প্ৰদৰ্শক"
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
+#~ msgctxt "Name"
+#~ msgid "Directory Filter"
+#~ msgstr "নে'টৱৰ্ক বিশ্লেষণ ব্যৱস্থা"
 
-#: konqueror/plugins/domtreeviewer/plugin_domtreeviewer.desktop:74
-msgctxt "Comment"
-msgid "View the DOM tree of the current page"
-msgstr ""
-
-#: konqueror/plugins/fsview/fsview.desktop:10
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Name"
-msgid "File Size Viewer"
-msgstr "ছবি প্ৰদৰ্শক"
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Name"
+#~ msgid "DOM Tree Viewer"
+#~ msgstr "ছবি প্ৰদৰ্শক"
 
-#: konqueror/plugins/fsview/fsview.desktop:70
-msgctxt "Comment"
-msgid "View your filesystem as a TreeMap"
-msgstr ""
-
-#: konqueror/plugins/fsview/fsview_part.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "System"
-msgctxt "Name"
-msgid "File Size View"
-msgstr "ব্যৱস্থাপ্ৰণালী"
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Name"
+#~ msgid "File Size Viewer"
+#~ msgstr "ছবি প্ৰদৰ্শক"
 
-#: konqueror/plugins/fsview/fsview_part.desktop:63
-msgctxt "Comment"
-msgid "Enables a proportional view of directories and files based on file size"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/imageconverter.desktop:7
-msgctxt "X-KDE-Submenu"
-msgid "Convert To"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/imageconverter.desktop:74
-msgctxt "Name"
-msgid "JPEG"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/imageconverter.desktop:146
-msgctxt "Name"
-msgid "PNG"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/imageconverter.desktop:218
-msgctxt "Name"
-msgid "TIFF"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/imageconverter.desktop:284
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "SGI"
-msgctxt "Name"
-msgid "GIF"
-msgstr "SGI"
+#~| msgctxt "Name"
+#~| msgid "System"
+#~ msgctxt "Name"
+#~ msgid "File Size View"
+#~ msgstr "ব্যৱস্থাপ্ৰণালী"
 
-#: konqueror/plugins/imagerotation/jpegorient.desktop:7
-msgctxt "X-KDE-Submenu"
-msgid "Transform Image"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/jpegorient.desktop:75
-msgctxt "Name"
-msgid "Rotate Clockwise"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/jpegorient.desktop:143
-msgctxt "Name"
-msgid "Rotate Counter-Clockwise"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/jpegorient.desktop:216
-msgctxt "Name"
-msgid "Flip Vertically"
-msgstr ""
-
-#: konqueror/plugins/imagerotation/jpegorient.desktop:287
-msgctxt "Name"
-msgid "Flip Horizontally"
-msgstr ""
-
-#: konqueror/plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Settings"
-msgctxt "Name"
-msgid "KHTML Settings"
-msgstr "বৈশিষ্ট্য"
+#~| msgctxt "Name"
+#~| msgid "SGI"
+#~ msgctxt "Name"
+#~ msgid "GIF"
+#~ msgstr "SGI"
 
-#: konqueror/plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:74
-msgctxt "Comment"
-msgid "A fast way to change the KHTML settings"
-msgstr ""
-
-#: konqueror/plugins/kimgalleryplugin/kimgalleryplugin.desktop:12
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Image Viewer"
-msgctxt "Name"
-msgid "Image Gallery"
-msgstr "ছবি প্ৰদৰ্শন ব্যবস্থা"
+#~| msgctxt "Name"
+#~| msgid "Settings"
+#~ msgctxt "Name"
+#~ msgid "KHTML Settings"
+#~ msgstr "বৈশিষ্ট্য"
 
-#: konqueror/plugins/kimgalleryplugin/kimgalleryplugin.desktop:72
-msgctxt "Comment"
-msgid "An easy way to generate an HTML image gallery"
-msgstr ""
-
-#: konqueror/plugins/microformat/mf_konqmficon.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "DMA information"
-msgctxt "Name"
-msgid "Microformat Icon"
-msgstr "DMA তথ্য"
+#~| msgctxt "GenericName"
+#~| msgid "Image Viewer"
+#~ msgctxt "Name"
+#~ msgid "Image Gallery"
+#~ msgstr "ছবি প্ৰদৰ্শন ব্যবস্থা"
 
-#: konqueror/plugins/microformat/mf_konqmficon.desktop:63
-msgctxt "Comment"
-msgid "Displays an icon in the status bar if the page contains a microformat"
-msgstr ""
-
-#: konqueror/plugins/minitools/minitoolsplugin.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bookmarks"
-msgctxt "Name"
-msgid "Bookmarklets"
-msgstr "পত্ৰচিহ্ন"
+#~| msgctxt "Comment"
+#~| msgid "DMA information"
+#~ msgctxt "Name"
+#~ msgid "Microformat Icon"
+#~ msgstr "DMA তথ্য"
 
-#: konqueror/plugins/minitools/minitoolsplugin.desktop:73
-msgctxt "Comment"
-msgid "Enables the use of bookmarklets"
-msgstr ""
-
-#: konqueror/plugins/rellinks/plugin_rellinks.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "KDE API Documentation"
-msgctxt "Name"
-msgid "Document Relations"
-msgstr "KDE API Documentation"
+#~| msgctxt "Name"
+#~| msgid "Bookmarks"
+#~ msgctxt "Name"
+#~ msgid "Bookmarklets"
+#~ msgstr "পত্ৰচিহ্ন"
 
-#: konqueror/plugins/rellinks/plugin_rellinks.desktop:75
-msgctxt "Comment"
-msgid "Displays the document relations of a document"
-msgstr ""
-
-#: konqueror/plugins/searchbar/searchbar.desktop:15
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "PHP Search"
-msgctxt "Name"
-msgid "Search Bar"
-msgstr "PHP Search"
+#~| msgctxt "Name"
+#~| msgid "KDE API Documentation"
+#~ msgctxt "Name"
+#~ msgid "Document Relations"
+#~ msgstr "KDE API Documentation"
 
-#: konqueror/plugins/searchbar/searchbar.desktop:78
-msgctxt "Comment"
-msgid "Provides a text box for easier access to search engines like Google."
-msgstr ""
-
-#: konqueror/plugins/shellcmdplugin/kshellcmdplugin.desktop:14
-msgctxt "Name"
-msgid "Shell Command Plugin"
-msgstr "শ্বেল আদেশৰ প্লাগ-ইন"
-
-#: konqueror/plugins/shellcmdplugin/kshellcmdplugin.desktop:101
-msgctxt "Comment"
-msgid "Shell Command Plugin for Konqueror"
-msgstr "Konqueror ৰ কাৰণে শ্বেল আদেশৰ প্লাগ-ইন"
-
-#: konqueror/plugins/ttsplugin/khtmltts.desktop:14
-msgctxt "Name"
-msgid "Text-to-Speech"
-msgstr "Text-to-Speech"
-
-#: konqueror/plugins/ttsplugin/khtmltts.desktop:100
-msgctxt "Comment"
-msgid "Produces audio output for text in the current page"
-msgstr "বৰ্ত্তমানৰ পৃষ্ঠাৰ লিপিৰ বিষয়ে অ'ডিঅ' নিৰ্গম সৃষ্টি কৰে"
-
-#: konqueror/plugins/uachanger/uachangerplugin.desktop:13
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "UserAgent Strings"
-msgctxt "Name"
-msgid "UserAgent Changer"
-msgstr "UserAgent Strings"
+#~| msgctxt "Name"
+#~| msgid "PHP Search"
+#~ msgctxt "Name"
+#~ msgid "Search Bar"
+#~ msgstr "PHP Search"
 
-#: konqueror/plugins/uachanger/uachangerplugin.desktop:73
-msgctxt "Comment"
-msgid "Allows the detected UserAgent to be modified"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Shell Command Plugin"
+#~ msgstr "শ্বেল আদেশৰ প্লাগ-ইন"
 
-#: konqueror/plugins/validators/plugin_validators.desktop:13
-msgctxt "Name"
-msgid "Website Validators"
-msgstr ""
+#~ msgctxt "Comment"
+#~ msgid "Shell Command Plugin for Konqueror"
+#~ msgstr "Konqueror ৰ কাৰণে শ্বেল আদেশৰ প্লাগ-ইন"
 
-#: konqueror/plugins/validators/plugin_validators.desktop:73
-msgctxt "Comment"
-msgid "CSS and HTML validation tools"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Text-to-Speech"
+#~ msgstr "Text-to-Speech"
 
-#: konqueror/plugins/webarchiver/plugin_webarchiver.desktop:13
+#~ msgctxt "Comment"
+#~ msgid "Produces audio output for text in the current page"
+#~ msgstr "বৰ্ত্তমানৰ পৃষ্ঠাৰ লিপিৰ বিষয়ে অ'ডিঅ' নিৰ্গম সৃষ্টি কৰে"
+
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "FTP Archives"
-msgctxt "Name"
-msgid "Web Archiver"
-msgstr "FTP আৰ্কাইভ"
+#~| msgctxt "Comment"
+#~| msgid "UserAgent Strings"
+#~ msgctxt "Name"
+#~ msgid "UserAgent Changer"
+#~ msgstr "UserAgent Strings"
 
-#: konqueror/plugins/webarchiver/plugin_webarchiver.desktop:75
-msgctxt "Comment"
-msgid "Creates archives of websites"
-msgstr ""
-
-#: konqueror/plugins/webarchiver/webarchivethumbnail.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "FTP Archives"
-msgctxt "Name"
-msgid "Web Archives"
-msgstr "FTP আৰ্কাইভ"
+#~| msgctxt "Name"
+#~| msgid "FTP Archives"
+#~ msgctxt "Name"
+#~ msgid "Web Archiver"
+#~ msgstr "FTP আৰ্কাইভ"
 
-#: konqueror/settings/bookmarks/bookmarks.desktop:12
-#: konqueror/sidebar/default_entries/bookmarks.desktop:5
-#: konqueror/sidebar/trees/init/bookmarks_module.desktop:5
-msgctxt "Name"
-msgid "Bookmarks"
-msgstr "পত্ৰচিহ্ন"
-
-#: konqueror/settings/bookmarks/bookmarks.desktop:104
-msgctxt "Comment"
-msgid "Configure the bookmarks home page"
-msgstr "পত্ৰচিহ্নৰ ঘৰৰ পৃষ্ঠা বিন্যাস কৰক"
-
-#: konqueror/settings/bookmarks/bookmarks.desktop:182
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bookmarks"
-msgctxt "X-KDE-Keywords"
-msgid "Bookmarks"
-msgstr "পত্ৰচিহ্ন"
+#~| msgctxt "Name"
+#~| msgid "FTP Archives"
+#~ msgctxt "Name"
+#~ msgid "Web Archives"
+#~ msgstr "FTP আৰ্কাইভ"
 
-#: konqueror/settings/konq/fileappearance.desktop:11
-#: konqueror/settings/konqhtml/khtml_appearance.desktop:13
-#: konqueror/settings/konq/webappearance.desktop:12
-msgctxt "Name"
-msgid "Appearance"
-msgstr "চেহেৰা"
+#~ msgctxt "Name"
+#~ msgid "Bookmarks"
+#~ msgstr "পত্ৰচিহ্ন"
 
-#: konqueror/settings/konq/fileappearance.desktop:104
-#: konqueror/settings/konq/webappearance.desktop:105
-msgctxt "Comment"
-msgid "You can configure how Konqueror looks as a file manager here"
-msgstr ""
-"Konqueror নথিপত্ৰৰ পৰিচালক হিচাপে কেনেদৰে দেখা দিয়ে আপুনি ইয়াত বিন্যাস কৰিব পাৰে"
+#~ msgctxt "Comment"
+#~ msgid "Configure the bookmarks home page"
+#~ msgstr "পত্ৰচিহ্নৰ ঘৰৰ পৃষ্ঠা বিন্যাস কৰক"
 
-#: konqueror/settings/konq/fileappearance.desktop:197
-#: konqueror/settings/konq/webappearance.desktop:198
-msgctxt "X-KDE-Keywords"
-msgid ""
-"konqueror,filemanager,word wrap,wrap,underline,display,filesize,bytes,font,"
-"color,colour"
-msgstr ""
-
-#: konqueror/settings/konq/filebehavior.desktop:11
-#: konqueror/settings/konq/webbehavior.desktop:12
-msgctxt "Name"
-msgid "Behavior"
-msgstr "আচৰণ"
-
-#: konqueror/settings/konq/filebehavior.desktop:105
-#: konqueror/settings/konq/webbehavior.desktop:106
-msgctxt "Comment"
-msgid "You can configure how Konqueror behaves as a file manager here"
-msgstr ""
-"Konqueror নথিপত্ৰৰ পৰিচালক হিচাপে কেনেদৰে আচৰণ কৰে আপুনি ইয়াত বিন্যাস কৰিব পাৰে"
-
-#: konqueror/settings/konq/filebehavior.desktop:198
-msgctxt "X-KDE-Keywords"
-msgid ""
-"konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
-"behavior,behaviour,memory usage,Home URL,network operations,progress dialog,"
-"trash can,delete,confirmation"
-msgstr ""
-
-#: konqueror/settings/konqhtml/css/kcmcss.desktop:12
-msgctxt "Name"
-msgid "Stylesheets"
-msgstr "Stylesheets"
-
-#: konqueror/settings/konqhtml/css/kcmcss.desktop:104
-msgctxt "Comment"
-msgid "Configure the stylesheets used to render web pages"
-msgstr "ৱেব পৃষ্ঠা দেখুৱাবলৈ stylesheets কি ধৰণে ব্যৱহাৰ হয় বিন্যাস কৰক"
-
-#: konqueror/settings/konqhtml/css/kcmcss.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "CSS,HTML,style,stylesheet,accessibility"
-msgstr ""
-
-#: konqueror/settings/konqhtml/khtml_appearance.desktop:107
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the fonts used on web pages"
-msgctxt "Comment"
-msgid "Configure how to display web pages"
-msgstr "ৱেব পৃষ্ঠাত ব্যৱহাৰ কৰা আখৰ বিন্যাস কৰক"
+#~| msgctxt "Name"
+#~| msgid "Bookmarks"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Bookmarks"
+#~ msgstr "পত্ৰচিহ্ন"
 
-#: konqueror/settings/konqhtml/khtml_appearance.desktop:178
-msgctxt "X-KDE-Keywords"
-msgid ""
-"konqueror,kfm,browser,html,web,www,fonts,charsets,character sets,encoding"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Appearance"
+#~ msgstr "চেহেৰা"
 
-#: konqueror/settings/konqhtml/khtml_behavior.desktop:12
-msgctxt "Name"
-msgid "Web Behavior"
-msgstr "ৱেবৰ আচৰণ"
+#~ msgctxt "Comment"
+#~ msgid "You can configure how Konqueror looks as a file manager here"
+#~ msgstr ""
+#~ "Konqueror নথিপত্ৰৰ পৰিচালক হিচাপে কেনেদৰে দেখা দিয়ে আপুনি ইয়াত বিন্যাস কৰিব "
+#~ "পাৰে"
 
-#: konqueror/settings/konqhtml/khtml_behavior.desktop:102
-msgctxt "Comment"
-msgid "Configure the browser behavior"
-msgstr "চৰকৰ আচৰণ বিন্যাস কৰক"
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "আচৰণ"
 
-#: konqueror/settings/konqhtml/khtml_behavior.desktop:193
-msgctxt "X-KDE-Keywords"
-msgid ""
-"konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascript,"
-"cursor,links,images,charsets,character sets,encoding"
-msgstr ""
+#~ msgctxt "Comment"
+#~ msgid "You can configure how Konqueror behaves as a file manager here"
+#~ msgstr ""
+#~ "Konqueror নথিপত্ৰৰ পৰিচালক হিচাপে কেনেদৰে আচৰণ কৰে আপুনি ইয়াত বিন্যাস কৰিব "
+#~ "পাৰে"
 
-#: konqueror/settings/konqhtml/khtml_filter.desktop:13
-msgctxt "Name"
-msgid "AdBlocK Filters"
-msgstr "AdBlocK Filters"
+#~ msgctxt "Name"
+#~ msgid "Stylesheets"
+#~ msgstr "Stylesheets"
 
-#: konqueror/settings/konqhtml/khtml_filter.desktop:105
-msgctxt "Comment"
-msgid "Configure Konqueror AdBlocK filters"
-msgstr "Konqueror AdBlocK filters বিন্যাস কৰক"
+#~ msgctxt "Comment"
+#~ msgid "Configure the stylesheets used to render web pages"
+#~ msgstr "ৱেব পৃষ্ঠা দেখুৱাবলৈ stylesheets কি ধৰণে ব্যৱহাৰ হয় বিন্যাস কৰক"
 
-#: konqueror/settings/konqhtml/khtml_general.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "General"
-msgctxt ""
-"Name|Konqeuror settings relevant to both web browsing and file management."
-msgid "General"
-msgstr "সাধাৰণ"
+#~| msgctxt "Comment"
+#~| msgid "Configure the fonts used on web pages"
+#~ msgctxt "Comment"
+#~ msgid "Configure how to display web pages"
+#~ msgstr "ৱেব পৃষ্ঠাত ব্যৱহাৰ কৰা আখৰ বিন্যাস কৰক"
 
-#: konqueror/settings/konqhtml/khtml_general.desktop:83
-msgctxt "Comment"
-msgid "Configure general Konqueror behavior"
-msgstr "Konqueror ৰ সাধাৰণ আচৰণ বিন্যাস কৰক"
+#~ msgctxt "Name"
+#~ msgid "Web Behavior"
+#~ msgstr "ৱেবৰ আচৰণ"
 
-#: konqueror/settings/konqhtml/khtml_general.desktop:164
+#~ msgctxt "Comment"
+#~ msgid "Configure the browser behavior"
+#~ msgstr "চৰকৰ আচৰণ বিন্যাস কৰক"
+
+#~ msgctxt "Name"
+#~ msgid "AdBlocK Filters"
+#~ msgstr "AdBlocK Filters"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Konqueror AdBlocK filters"
+#~ msgstr "Konqueror AdBlocK filters বিন্যাস কৰক"
+
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Konqueror"
-msgctxt "X-KDE-Keywords"
-msgid "konqueror,tabs"
-msgstr "Konqueror"
+#~| msgctxt "Name"
+#~| msgid "General"
+#~ msgctxt ""
+#~ "Name|Konqeuror settings relevant to both web browsing and file management."
+#~ msgid "General"
+#~ msgstr "সাধাৰণ"
 
-#: konqueror/settings/konqhtml/khtml_java_js.desktop:12
-msgctxt "Name"
-msgid "Java & JavaScript"
-msgstr "Java & JavaScript"
+#~ msgctxt "Comment"
+#~ msgid "Configure general Konqueror behavior"
+#~ msgstr "Konqueror ৰ সাধাৰণ আচৰণ বিন্যাস কৰক"
 
-#: konqueror/settings/konqhtml/khtml_java_js.desktop:105
-msgctxt "Comment"
-msgid "Configure the behavior of Java and JavaScript"
-msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
-
-#: konqueror/settings/konqhtml/khtml_java_js.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "konqueror,kfm,browser,html,web,www,java,javascript"
-msgstr ""
-
-#: konqueror/settings/konq/webbehavior.desktop:199
-msgctxt "X-KDE-Keywords"
-msgid ""
-"konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
-"behavior,behaviour,memory usage,Home URL,"
-msgstr ""
-
-#: konqueror/settings/performance/kcmkonqyperformance.desktop:12
-msgctxt "Name"
-msgid "Performance"
-msgstr "কাৰ্যক্ষমতা"
-
-#: konqueror/settings/performance/kcmkonqyperformance.desktop:103
-msgctxt "Comment"
-msgid "Configure settings that can improve Konqueror performance"
-msgstr "Konqueror ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
-
-#: konqueror/settings/performance/kcmkonqyperformance.desktop:194
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "KDED Konqueror Preloader Module"
-msgctxt "X-KDE-Keywords"
-msgid "konqueror,reuse,preloading"
-msgstr "KDED Konqueror Preloader Module"
+#~| msgctxt "Name"
+#~| msgid "Konqueror"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "konqueror,tabs"
+#~ msgstr "Konqueror"
 
-#: konqueror/settings/performance/kcmperformance.desktop:11
-msgctxt "Name"
-msgid "KDE Performance"
-msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
+#~ msgctxt "Name"
+#~ msgid "Java & JavaScript"
+#~ msgstr "Java & JavaScript"
 
-#: konqueror/settings/performance/kcmperformance.desktop:102
-msgctxt "Comment"
-msgid "Configure settings that can improve KDE performance"
-msgstr "KDE ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
+#~ msgctxt "Comment"
+#~ msgid "Configure the behavior of Java and JavaScript"
+#~ msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
 
-#: konqueror/settings/performance/kcmperformance.desktop:193
-msgctxt "X-KDE-Keywords"
-msgid "performance,speed,memory,improve"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Performance"
+#~ msgstr "কাৰ্যক্ষমতা"
 
-#: konqueror/sidebar/default_entries/bookmarks.desktop:97
-#: konqueror/sidebar/trees/init/bookmarks_module.desktop:97
-msgctxt "Comment"
-msgid "This is the list of your bookmarks, for a faster access"
-msgstr "দ্ৰুত ভাবে অভিগম কৰিবলৈ এইয়া আপোনাৰ পত্ৰচিহ্নৰ তালিকা"
+#~ msgctxt "Comment"
+#~ msgid "Configure settings that can improve Konqueror performance"
+#~ msgstr "Konqueror ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
 
-#: konqueror/sidebar/default_entries/history.desktop:5
-#: konqueror/sidebar/history_module/kcmhistory.desktop:11
-msgctxt "Name"
-msgid "History"
-msgstr "ইতিহাস"
-
-#: konqueror/sidebar/default_entries/history.desktop:98
-msgctxt "Comment"
-msgid ""
-"This is the history of the URLs you have recently visited. You can sort them "
-"in many ways."
-msgstr "এইটো আপুনি চোৱা URL ৰ ইতিহাস । আপুনি ইয়াক বিভিন্ন ধৰণে চাব পাৰে ।"
-
-#: konqueror/sidebar/default_entries/home.desktop:5
-msgctxt "Name"
-msgid "Home Folder"
-msgstr "ঘৰৰ ফোল্ডাৰ"
-
-#: konqueror/sidebar/default_entries/home.desktop:97
-msgctxt "Comment"
-msgid "This folder contains your personal files"
-msgstr "এই ফোল্ডাৰত আপোনাৰ ব্যক্তিগত নথিপত্ৰ আছে"
-
-#: konqueror/sidebar/default_entries/places.desktop:4
-msgctxt "Name"
-msgid "Places"
-msgstr ""
-
-#: konqueror/sidebar/default_entries/places.desktop:80
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "This is the root of the filesystem"
-msgctxt "Comment"
-msgid "This is the list of places."
-msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
+#~| msgctxt "Name"
+#~| msgid "KDED Konqueror Preloader Module"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "konqueror,reuse,preloading"
+#~ msgstr "KDED Konqueror Preloader Module"
 
-#: konqueror/sidebar/default_entries/remote.desktop:2
-#: konqueror/sidebar/trees/init/remote/.directory:2
-msgctxt "Name"
-msgid "Network"
-msgstr "নে'টৱৰ্ক"
+#~ msgctxt "Name"
+#~ msgid "KDE Performance"
+#~ msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: konqueror/sidebar/default_entries/root.desktop:5
-msgctxt "Name"
-msgid "Root Folder"
-msgstr "ৰূটৰ ফোল্ডাৰ"
+#~ msgctxt "Comment"
+#~ msgid "Configure settings that can improve KDE performance"
+#~ msgstr "KDE ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
 
-#: konqueror/sidebar/default_entries/root.desktop:96
-msgctxt "Comment"
-msgid "This is the root of the filesystem"
-msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
+#~ msgctxt "Comment"
+#~ msgid "This is the list of your bookmarks, for a faster access"
+#~ msgstr "দ্ৰুত ভাবে অভিগম কৰিবলৈ এইয়া আপোনাৰ পত্ৰচিহ্নৰ তালিকা"
 
-#: konqueror/sidebar/default_entries/services.desktop:4
-#: konqueror/sidebar/trees/init/services/.directory:3
-msgctxt "Name"
-msgid "Services"
-msgstr "সেৱা"
+#~ msgctxt "Name"
+#~ msgid "History"
+#~ msgstr "ইতিহাস"
 
-#: konqueror/sidebar/history_module/kcmhistory.desktop:104
-msgctxt "Comment"
-msgid "Configure the history sidebar"
-msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ বিন্যাস কৰক"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This is the history of the URLs you have recently visited. You can sort "
+#~ "them in many ways."
+#~ msgstr "এইটো আপুনি চোৱা URL ৰ ইতিহাস । আপুনি ইয়াক বিভিন্ন ধৰণে চাব পাৰে ।"
 
-#: konqueror/sidebar/history_module/kcmhistory.desktop:194
-msgctxt "X-KDE-Keywords"
-msgid "history,expire"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Home Folder"
+#~ msgstr "ঘৰৰ ফোল্ডাৰ"
 
-#: konqueror/sidebar/history_module/konqsidebar_history.desktop:4
+#~ msgctxt "Comment"
+#~ msgid "This folder contains your personal files"
+#~ msgstr "এই ফোল্ডাৰত আপোনাৰ ব্যক্তিগত নথিপত্ৰ আছে"
+
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "History Sidebar"
-msgctxt "Name"
-msgid "History SideBar Module"
-msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
+#~| msgctxt "Comment"
+#~| msgid "This is the root of the filesystem"
+#~ msgctxt "Comment"
+#~ msgid "This is the list of places."
+#~ msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
 
-#: konqueror/sidebar/konq_sidebartng.desktop:4
+#~ msgctxt "Name"
+#~ msgid "Network"
+#~ msgstr "নে'টৱৰ্ক"
+
+#~ msgctxt "Name"
+#~ msgid "Root Folder"
+#~ msgstr "ৰূটৰ ফোল্ডাৰ"
+
+#~ msgctxt "Comment"
+#~ msgid "This is the root of the filesystem"
+#~ msgstr "এইটো নথিপত্ৰপ্ৰণালীৰ ৰূট"
+
+#~ msgctxt "Name"
+#~ msgid "Services"
+#~ msgstr "সেৱা"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the history sidebar"
+#~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ বিন্যাস কৰক"
+
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "History Sidebar"
-msgctxt "Name"
-msgid "Sidebar"
-msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
+#~ msgctxt "Name"
+#~ msgid "History SideBar Module"
+#~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
-#: konqueror/sidebar/places_module/konqsidebar_places.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
-msgctxt "Name"
-msgid "Places SideBar Module"
-msgstr "Web SideBar Module"
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
+#~ msgctxt "Name"
+#~ msgid "Sidebar"
+#~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
 
-#: konqueror/sidebar/trees/init/dirtree_module.desktop:5
-#: konqueror/sidebar/trees/konqsidebar_tree.desktop:4
-msgctxt "Name"
-msgid "Folder"
-msgstr "ফোল্ডাৰ"
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Places SideBar Module"
+#~ msgstr "Web SideBar Module"
 
-#: konqueror/sidebar/trees/init/remote/ftp/.directory:2
-msgctxt "Name"
-msgid "FTP Archives"
-msgstr "FTP আৰ্কাইভ"
+#~ msgctxt "Name"
+#~ msgid "Folder"
+#~ msgstr "ফোল্ডাৰ"
 
-#: konqueror/sidebar/trees/init/remote/ftp/kde_ftp.desktop:5
-msgctxt "Name"
-msgid "KDE Official FTP"
-msgstr "KDE Official FTP"
+#~ msgctxt "Name"
+#~ msgid "FTP Archives"
+#~ msgstr "FTP আৰ্কাইভ"
 
-#: konqueror/sidebar/trees/init/remote/web/apps_web.desktop:4
-msgctxt "Name"
-msgid "KDE Applications"
-msgstr "KDE Applications"
+#~ msgctxt "Name"
+#~ msgid "KDE Official FTP"
+#~ msgstr "KDE Official FTP"
 
-#: konqueror/sidebar/trees/init/remote/web/.directory:2
-msgctxt "Name"
-msgid "Web Sites"
-msgstr "ৱেব পৃষ্ঠা"
+#~ msgctxt "Name"
+#~ msgid "KDE Applications"
+#~ msgstr "KDE Applications"
 
-#: konqueror/sidebar/trees/init/remote/web/dot_web.desktop:4
-msgctxt "Name"
-msgid "KDE News"
-msgstr "KDE News"
+#~ msgctxt "Name"
+#~ msgid "Web Sites"
+#~ msgstr "ৱেব পৃষ্ঠা"
 
-#: konqueror/sidebar/trees/init/remote/web/kde_web.desktop:4
-msgctxt "Name"
-msgid "KDE Home Page"
-msgstr "KDE Home Page"
+#~ msgctxt "Name"
+#~ msgid "KDE News"
+#~ msgstr "KDE News"
 
-#: konqueror/sidebar/trees/init/remote/web/look_web.desktop:4
-msgctxt "Name"
-msgid "KDE Eye Candy"
-msgstr "KDE Eye Candy"
+#~ msgctxt "Name"
+#~ msgid "KDE Home Page"
+#~ msgstr "KDE Home Page"
 
-#: konqueror/sidebar/trees/init/services/applications.desktop:5
-msgctxt "Name"
-msgid "Applications"
-msgstr "অনুপ্ৰয়োগ"
+#~ msgctxt "Name"
+#~ msgid "KDE Eye Candy"
+#~ msgstr "KDE Eye Candy"
 
-#: konqueror/sidebar/trees/init/services/printsystem.desktop:5
-msgctxt "Name"
-msgid "Print System Browser"
-msgstr "Print System Browser"
+#~ msgctxt "Name"
+#~ msgid "Applications"
+#~ msgstr "অনুপ্ৰয়োগ"
 
-#: konqueror/sidebar/trees/init/services/settings.desktop:5
-msgctxt "Name"
-msgid "Settings"
-msgstr "বৈশিষ্ট্য"
+#~ msgctxt "Name"
+#~ msgid "Print System Browser"
+#~ msgstr "Print System Browser"
 
-#: konqueror/sidebar/web_module/konqsidebar_web.desktop:4
-msgctxt "Name"
-msgid "Web SideBar Module"
-msgstr "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "বৈশিষ্ট্য"
 
-#: konqueror/webenginepart/src/webenginepart.desktop:3
-msgctxt "Comment"
-msgid "Embeddable HTML component"
-msgstr ""
-
-#: konqueror/webenginepart/src/webenginepart.desktop:22
-msgctxt "Name"
-msgid "WebEngine"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Web SideBar Module"
+#~ msgstr "Web SideBar Module"
 
 #, fuzzy
 #~| msgctxt "Name"
