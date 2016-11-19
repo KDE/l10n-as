@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: imagerename_plugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:32+0200\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2009-01-05 15:52+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -18,10 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: image_plugin.cpp:72
+#, kde-format
 msgid "You want to overwrite the left picture with the one on the right."
 msgstr "আপুনি বাওঁফালৰ ছবিক সোঁফালৰ ছবিৰে পুনঃ লিখিব বিচাৰিছে ।"
 
 #: imagevisualizer.cpp:45
+#, kde-format
 msgid ""
 "This picture is not stored\n"
 "on the local host.\n"
@@ -32,6 +34,7 @@ msgstr ""
 "তুলি ল'বলৈ এই লেবেলত টিপক ।\n"
 
 #: imagevisualizer.cpp:53
+#, kde-format
 msgid "Unable to load image"
 msgstr "ছবি তুলি ল'ব পৰা নাযায়"
 
