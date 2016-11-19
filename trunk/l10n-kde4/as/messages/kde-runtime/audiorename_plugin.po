@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: audiorename_plugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:32+0200\n"
+"POT-Creation-Date: 2016-11-19 11:45+0100\n"
 "PO-Revision-Date: 2009-01-05 16:01+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -33,18 +33,22 @@ msgid "A newer file named '%1' already exists.\n"
 msgstr "'%1' নামক এটা নতুন নথিপত্ৰ বৰ্তমানে আছে ।\n"
 
 #: audio_plugin.cpp:80
+#, kde-format
 msgid "Source File"
 msgstr "উৎসৰ নথিপত্ৰ"
 
 #: audio_plugin.cpp:81
+#, kde-format
 msgid "Existing File"
 msgstr "ইতিমধ্যে থকা নথিপত্ৰ"
 
 #: audio_plugin.cpp:82
+#, kde-format
 msgid "Would you like to replace the existing file with the one on the right?"
 msgstr "বৰ্ত্তমানে থকা নথিপত্ৰক আপুনি সোঁফালে থকা নথিপত্ৰেৰে সলনি কৰিব বিচাৰে নেকি ?"
 
 #: audiopreview.cpp:51
+#, kde-format
 msgid ""
 "This audio file is not stored\n"
 "on the local host.\n"
@@ -55,6 +59,7 @@ msgstr ""
 "তুলি ল'বলৈ এই লেবেলত টিপক ।\n"
 
 #: audiopreview.cpp:57
+#, kde-format
 msgid "Unable to load audio file"
 msgstr "অ'ডিঅ' নথিপত্ৰ তুলিব পৰা ন'গ'ল"
 
@@ -85,5 +90,6 @@ msgid "Sample rate: %1 %2\n"
 msgstr "Sample rate: %1 %2\n"
 
 #: audiopreview.cpp:99
+#, kde-format
 msgid "Length: "
 msgstr "দৈৰ্ঘ্য:"
