@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:58+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -39,10 +39,12 @@ msgid "library only takes 1 argument, not %1."
 msgstr "library দ্বাৰা %1 নহয় অকল ১ টা তৰ্ক গ্ৰহণ কৰা হয় ।"
 
 #: kjsembed/builtins.cpp:137
+#, kde-format
 msgid "Alert"
 msgstr "সতৰ্কবাৰ্তা"
 
 #: kjsembed/builtins.cpp:147
+#, kde-format
 msgid "Confirm"
 msgstr "দৃঢ় কৰক"
 
@@ -62,6 +64,7 @@ msgid "Could not open file '%1'"
 msgstr "নথিপত্ৰ '%1' খোলোঁতে ব্যৰ্থ"
 
 #: kjsembed/fileio.cpp:106
+#, kde-format
 msgid "Could not create temporary file."
 msgstr "অস্থায়ী নথিপত্ৰ নিৰ্মাণ কৰিবলৈ সমস্য ।"
 
@@ -76,14 +79,17 @@ msgid "%1 is not an Object type"
 msgstr "%1 কোনো অৱজেক্টৰ ধৰণ নহয়"
 
 #: kjsembed/qaction_binding.cpp:57
+#, kde-format
 msgid "Action takes 2 args."
 msgstr "Action দ্বাৰা ২ টা তৰ্ক গ্ৰহণ কৰা হয় ।"
 
 #: kjsembed/qaction_binding.cpp:79
+#, kde-format
 msgid "ActionGroup takes 2 args."
 msgstr "ActionGroup দ্বাৰা ২ টা তৰ্ক গ্ৰহণ কৰা হয় ।"
 
 #: kjsembed/qaction_binding.cpp:84
+#, kde-format
 msgid "Must supply a valid parent."
 msgstr "বৈধ ঊৰ্ধ্বতন মান উল্লেখ কৰা আৱশ্যক ।"
 
@@ -98,6 +104,7 @@ msgid "Could not read file '%1'"
 msgstr "নথিপত্ৰ '%1' পঢ়োঁতে ব্যৰ্থ"
 
 #: kjsembed/qformbuilder_binding.cpp:67 kjsembed/quiloader_binding.cpp:124
+#, kde-format
 msgid "Must supply a filename."
 msgstr "নথিপত্ৰৰ নাম উল্লেখ কৰা আৱশ্যক ।"
 
@@ -107,18 +114,22 @@ msgid "'%1' is not a valid QLayout."
 msgstr "'%1' বৈধ QLayout নহয় ।"
 
 #: kjsembed/qlayout_binding.cpp:93
+#, kde-format
 msgid "Must supply a layout name."
 msgstr "বিন্যাসৰ নাম উল্লেখ কৰা আৱশ্যক ।"
 
 #: kjsembed/qobject_binding.cpp:141
+#, kde-format
 msgid "Wrong object type."
 msgstr "ভুল ধৰণৰ অৱজেক্ট ।"
 
 #: kjsembed/qobject_binding.cpp:148
+#, kde-format
 msgid "First argument must be a QObject."
 msgstr "প্ৰথম তৰ্ক QObject হোৱা আৱশ্যক ।"
 
 #: kjsembed/qobject_binding.cpp:182
+#, kde-format
 msgid "Incorrect number of arguments."
 msgstr "ভুল সংখ্যক তৰ্ক"
 
@@ -168,34 +179,42 @@ msgid "Call to '%1' failed."
 msgstr "'%1' লৈ কৰা কল বিফল হৈছে ।"
 
 #: kjsembed/qobject_binding.cpp:793
+#, kde-format
 msgid "Could not construct value"
 msgstr "মান গঠন কৰিবলৈ ব্যৰ্থ"
 
 #: kjsembed/quiloader_binding.cpp:49
+#, kde-format
 msgid "Not enough arguments."
 msgstr "পৰ্যাপ্ত তৰ্ক উপস্থিত নাই ।"
 
 #: kjsembed/quiloader_binding.cpp:68
+#, kde-format
 msgid "Failed to create Action."
 msgstr "Action নিৰ্মাণ কৰিবলৈ ব্যৰ্থ ।"
 
 #: kjsembed/quiloader_binding.cpp:82
+#, kde-format
 msgid "Failed to create ActionGroup."
 msgstr "ActionGroup নিৰ্মাণ কৰিবলৈ ব্যৰ্থ ।"
 
 #: kjsembed/quiloader_binding.cpp:90
+#, kde-format
 msgid "No classname specified"
 msgstr "ক্লাছৰ নাম উল্লেখিত নহয় ।"
 
 #: kjsembed/quiloader_binding.cpp:98
+#, kde-format
 msgid "Failed to create Layout."
 msgstr "বিন্যাস নিৰ্মাণ কৰিবলৈ ব্যৰ্থ ।"
 
 #: kjsembed/quiloader_binding.cpp:107
+#, kde-format
 msgid "No classname specified."
 msgstr "ক্লাছৰ নাম উল্লেখিত নহয় ।"
 
 #: kjsembed/quiloader_binding.cpp:115
+#, kde-format
 msgid "Failed to create Widget."
 msgstr "উইজেট নিৰ্মাণ কৰিবলৈ ব্যৰ্থ ।"
 
@@ -215,6 +234,7 @@ msgid "'%1' is not a valid QWidget."
 msgstr "'%1' বৈধ QWidget নহয় ।"
 
 #: kjsembed/qwidget_binding.cpp:170
+#, kde-format
 msgid "Must supply a widget name."
 msgstr "উইজেটৰ নাম উল্লেখ কৰা আৱশ্যক ।"
 
