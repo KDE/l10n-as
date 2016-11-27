@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 18:40+0100\n"
+"POT-Creation-Date: 2016-11-27 02:05+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -7951,7 +7951,7 @@ msgstr "ঠিক আছে (&O)"
 msgid "&Cancel"
 msgstr "বাতিল (&C)"
 
-#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:817
+#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:819
 #, kde-format
 msgid "&Yes"
 msgstr "হয় (&Y)"
@@ -11054,12 +11054,12 @@ msgstr "আপুনি প্ৰমাণপত্ৰৰ সৈতে Java এ�
 msgid "the following permission"
 msgstr "নিম্নলিখিত অনুমতি"
 
-#: khtml/java/kjavaappletserver.cpp:814
+#: khtml/java/kjavaappletserver.cpp:815
 #, kde-format
 msgid "&Reject All"
 msgstr "সকলো প্ৰত্যাখ্যান কৰা হ'ব (&R)"
 
-#: khtml/java/kjavaappletserver.cpp:820
+#: khtml/java/kjavaappletserver.cpp:823
 #, kde-format
 msgid "&Grant All"
 msgstr "সকলো গ্ৰহণ কৰা হ'ব (&G)"
