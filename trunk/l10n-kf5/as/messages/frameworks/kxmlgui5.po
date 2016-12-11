@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-10 02:34+0100\n"
+"POT-Creation-Date: 2016-12-11 02:37+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -520,23 +520,17 @@ msgstr ""
 msgid "Close Message"
 msgstr "বাৰ্তা বন্ধ কৰা হ'ব"
 
-#: kcheckaccelerators.cpp:229
+#: kcheckaccelerators.cpp:230
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dr. Klash' Accelerator Diagnosis"
 
-#: kcheckaccelerators.cpp:236
+#: kcheckaccelerators.cpp:237
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "স্বয়ংক্ৰিয় পৰীক্ষণ ব্যৱস্থা নিষ্ক্ৰিয় কৰা হ'ব"
-
-#: kcheckaccelerators.cpp:240
-#, kde-format
-msgctxt "@action:button"
-msgid "Close"
-msgstr "বন্ধ কৰক"
 
 #: kcheckaccelerators.cpp:281
 #, kde-format
@@ -1464,6 +1458,10 @@ msgstr "পছন্দ (&S)"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
+
+#~ msgctxt "@action:button"
+#~ msgid "Close"
+#~ msgstr "বন্ধ কৰক"
 
 #, fuzzy
 #~| msgid ""
