@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-27 05:54+0000\n"
+"POT-Creation-Date: 2017-02-09 05:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -35,12 +35,9 @@ msgid "A clock with hands"
 msgstr ""
 
 #: applets/appmenu/package/metadata.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
-msgid "Application Menu"
-msgstr "অনুপ্ৰয়োগ"
+msgid "Global Menu"
+msgstr ""
 
 #: applets/batterymonitor/package/metadata.desktop:2
 #, fuzzy
@@ -1943,6 +1940,13 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Applications"
+#~ msgctxt "Name"
+#~ msgid "Application Menu"
+#~ msgstr "অনুপ্ৰয়োগ"
 
 #, fuzzy
 #~| msgctxt "Name"
