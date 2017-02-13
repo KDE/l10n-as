@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-12 06:52+0000\n"
+"POT-Creation-Date: 2017-02-13 06:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -349,7 +349,7 @@ msgctxt "Comment"
 msgid "Application Color Scheme"
 msgstr "ডেস্কট'প"
 
-#: kcms/colors/colors.desktop:154
+#: kcms/colors/colors.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -1252,7 +1252,7 @@ msgctxt "Name"
 msgid "Menubar manager"
 msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
-#: kcms/style/kcmstyle.notifyrc:52
+#: kcms/style/kcmstyle.notifyrc:46
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
@@ -1260,7 +1260,7 @@ msgctxt "Comment"
 msgid "Menubar exporter"
 msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
-#: kcms/style/kcmstyle.notifyrc:101
+#: kcms/style/kcmstyle.notifyrc:89
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
@@ -1268,7 +1268,7 @@ msgctxt "Name"
 msgid "Menubar changed"
 msgstr "বৰ্ষপঞ্জিকাৰ পৰিচালক"
 
-#: kcms/style/kcmstyle.notifyrc:149
+#: kcms/style/kcmstyle.notifyrc:131
 msgctxt "Comment"
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
@@ -1363,12 +1363,12 @@ msgctxt "Name"
 msgid "Password and User Account"
 msgstr ""
 
-#: kcms/useraccount/kcm_useraccount.desktop:55
+#: kcms/useraccount/kcm_useraccount.desktop:49
 msgctxt "X-KDE-Keywords"
 msgid "password,email,name,organization,realname,login image,face,echo mode"
 msgstr ""
 
-#: kcms/useraccount/kcm_useraccount.desktop:92
+#: kcms/useraccount/kcm_useraccount.desktop:80
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr ""
