@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-21 06:39+0000\n"
+"POT-Creation-Date: 2017-03-08 06:01+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -62,7 +62,7 @@ msgctxt "Name"
 msgid "eye On Screen"
 msgstr ""
 
-#: effects/eyeonscreen/package/metadata.desktop:39
+#: effects/eyeonscreen/package/metadata.desktop:40
 msgctxt "Comment"
 msgid ""
 "Suck windows into desktop to show the latter. This might remind you of "
@@ -156,7 +156,7 @@ msgid ""
 "Cross fade animation when Tooltips or Notifications change their geometry"
 msgstr ""
 
-#: effects/morphingpopups/package/metadata.desktop:36
+#: effects/morphingpopups/package/metadata.desktop:37
 msgctxt "Name"
 msgid "Morphing popups"
 msgstr ""
