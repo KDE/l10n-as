@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-14 09:04+0000\n"
+"POT-Creation-Date: 2017-03-16 02:40+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -121,8 +121,14 @@ msgid "Login"
 msgstr ""
 
 #: effects/login/package/metadata.desktop:88
+#: effects/logout/package/metadata.desktop:4
 msgctxt "Comment"
 msgid "Smoothly fade to the desktop when logging in"
+msgstr ""
+
+#: effects/logout/package/metadata.desktop:2
+msgctxt "Name"
+msgid "logout"
 msgstr ""
 
 #: effects/lookingglass/lookingglass_config.desktop:8
@@ -553,6 +559,19 @@ msgstr "চিত্ৰাঙ্কন"
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
+
+#: packageplugins/aurorae/kwin-packagestructure-aurorae.desktop:2
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr ""
+
+#: packageplugins/decoration/kwin-packagestructure-decoration.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #: packageplugins/scripts/kwin-packagestructure-scripts.desktop:2
 #, fuzzy
