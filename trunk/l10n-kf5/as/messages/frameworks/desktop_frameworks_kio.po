@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-08 03:15+0000\n"
+"POT-Creation-Date: 2017-03-20 01:49+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -152,7 +152,7 @@ msgstr "Windows Shares"
 
 #: src/kcms/kio/smb.desktop:98
 msgctxt "Comment"
-msgid "Use to configure which windows (SMB) filesystems you can browse"
+msgid "Credentials used to access SMB shares"
 msgstr ""
 
 #: src/kcms/kio/smb.desktop:182
@@ -215,6 +215,14 @@ msgctxt "Name"
 msgid "UADescription (Google Chrome 5.0)"
 msgstr "UADescription (Mozilla 1.7 on Windows XP)"
 
+#: src/kcms/kio/uasproviders/chrome570oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+msgctxt "Name"
+msgid "UADescription (Google Chrome 57.0)"
+msgstr "UADescription (Mozilla 1.7 on Windows XP)"
+
 #: src/kcms/kio/uasproviders/firefox15oncurrent.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -250,6 +258,14 @@ msgstr "UADescription (Firefox 2.0 on current)"
 #| msgid "UADescription (Firefox 2.0 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 3.6 on current)"
+msgstr "UADescription (Firefox 2.0 on current)"
+
+#: src/kcms/kio/uasproviders/firefox520oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Firefox 2.0 on current)"
+msgctxt "Name"
+msgid "UADescription (Firefox 52.0 on current)"
 msgstr "UADescription (Firefox 2.0 on current)"
 
 #: src/kcms/kio/uasproviders/googlebot.desktop:2
@@ -440,8 +456,8 @@ msgstr "চৰকৰ চিনাক্তকৰণ"
 
 #: src/kcms/kio/useragent.desktop:99
 msgctxt "Comment"
-msgid "Configure the way Konqueror reports itself"
-msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
+msgid "Configure the User Agent exposed by the HTTP kioslave"
+msgstr ""
 
 #: src/kcms/kio/useragent.desktop:183
 msgctxt "X-KDE-Keywords"
@@ -2297,6 +2313,10 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "টেবেৰে চৰণ কৰা"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the way Konqueror reports itself"
+#~ msgstr "Konqueror নিজৰ বিষয়ে প্ৰতিবেদন কৰাৰ ব্যৱহাৰ বিন্যাস কৰক"
 
 #, fuzzy
 #~| msgctxt "Name"
