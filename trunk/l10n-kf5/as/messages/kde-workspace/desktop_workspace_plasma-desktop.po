@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-27 03:11+0000\n"
+"POT-Creation-Date: 2017-04-01 00:59+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -354,12 +354,15 @@ msgctxt "Name"
 msgid "Colors"
 msgstr ""
 
-#: kcms/colors/colors.desktop:106
+#: kcms/colors/colors.desktop:107
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
 msgctxt "Comment"
-msgid "Workspace and Application Colors"
-msgstr ""
+msgid "Application Color Scheme"
+msgstr "ডেস্কট'প"
 
-#: kcms/colors/colors.desktop:140
+#: kcms/colors/colors.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
