@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-23 04:45+0000\n"
+"POT-Creation-Date: 2017-04-13 03:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -298,14 +298,6 @@ msgid ""
 "video settings,graphical effects,desktop effects,animation speed"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kwineffect.knsrc:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
-msgctxt "Name"
-msgid "Window Manager Effects"
-msgstr "নথিপত্ৰৰ পৰিচালক"
-
 #: kcmkwin/kwindecoration/kwindecoration.desktop:14
 #, fuzzy
 #| msgctxt "GenericName"
@@ -490,22 +482,6 @@ msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
 
-#: kcmkwin/kwinscripts/kwinscripts.knsrc:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
-msgctxt "Name"
-msgid "Window Manager Scripts"
-msgstr "নথিপত্ৰৰ পৰিচালক"
-
-#: kcmkwin/kwintabbox/kwinswitcher.knsrc:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
-msgctxt "Name"
-msgid "Window Manager Switching Layouts"
-msgstr "নথিপত্ৰৰ পৰিচালক"
-
 #: kcmkwin/kwintabbox/kwintabbox.desktop:13
 msgctxt "Name"
 msgid "Task Switcher"
@@ -553,27 +529,6 @@ msgstr "চিত্ৰাঙ্কন"
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
-
-#: packageplugins/scripts/kwin-packagestructure-scripts.desktop:2
-msgctxt "Name"
-msgid "KWin Script"
-msgstr ""
-
-#: packageplugins/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
-msgctxt "Name"
-msgid "KWin Window Switcher"
-msgstr "নথিপত্ৰৰ পৰিচালক"
-
-#: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Window Termination Tool"
-msgctxt "Name"
-msgid "Aurorae Window Decorations"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #: plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
 #, fuzzy
@@ -678,6 +633,41 @@ msgstr "নথিপত্ৰৰ পৰিচালক"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Effects"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Scripts"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Switching Layouts"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name"
+#~ msgid "KWin Window Switcher"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Window Termination Tool"
+#~ msgctxt "Name"
+#~ msgid "Aurorae Window Decorations"
+#~ msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #, fuzzy
 #~| msgctxt "Name"
