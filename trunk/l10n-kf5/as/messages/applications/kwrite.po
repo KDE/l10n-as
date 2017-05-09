@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-18 03:41+0100\n"
+"POT-Creation-Date: 2017-05-09 02:50+0200\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -460,62 +460,62 @@ msgstr "বৰ সুন্দৰ সহায়"
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "যি সকলে অংশ লৈছে আৰু যাৰ নাম মই ল'বলৈ পাহৰিলো"
 
-#: main.cpp:173
+#: main.cpp:164
 #, fuzzy, kde-format
 #| msgid "Set encoding for the file to open"
 msgid "Set encoding for the file to open."
 msgstr "খুলিব লগা নথিপত্ৰৰ এঙ্কোডিং প্ৰতিষ্ঠা কৰক"
 
-#: main.cpp:173
+#: main.cpp:164
 #, kde-format
 msgid "encoding"
 msgstr ""
 
-#: main.cpp:177
+#: main.cpp:168
 #, fuzzy, kde-format
 #| msgid "Navigate to this line"
 msgid "Navigate to this line."
 msgstr "এই শাৰীলৈ যাওক"
 
-#: main.cpp:177
+#: main.cpp:168
 #, kde-format
 msgid "line"
 msgstr ""
 
-#: main.cpp:181
+#: main.cpp:172
 #, fuzzy, kde-format
 #| msgid "Navigate to this column"
 msgid "Navigate to this column."
 msgstr "এই স্তম্ভলৈ যাওক"
 
-#: main.cpp:181
+#: main.cpp:172
 #, kde-format
 msgid "column"
 msgstr ""
 
-#: main.cpp:185
+#: main.cpp:176
 #, fuzzy, kde-format
 #| msgid "Read the contents of stdin"
 msgid "Read the contents of stdin."
 msgstr "stdin ৰ বিষয়বস্তু পঢ়ক"
 
-#: main.cpp:189
+#: main.cpp:180
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
-#: main.cpp:193
+#: main.cpp:184
 #, fuzzy, kde-format
 #| msgid "Document to open"
 msgid "Documents to open."
 msgstr "খুলিব লগা আলেখ্যন"
 
-#: main.cpp:193
+#: main.cpp:184
 #, kde-format
 msgid "[urls...]"
 msgstr ""
 
-#: main.cpp:280
+#: main.cpp:271
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
