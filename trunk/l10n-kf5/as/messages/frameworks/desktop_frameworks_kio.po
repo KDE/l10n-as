@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-09 05:22+0000\n"
+"POT-Creation-Date: 2017-08-28 01:12+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -581,21 +581,6 @@ msgstr "টেক্সট নথিপত্ৰ..."
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
-
-#: src/urifilters/fixhost/fixhosturifilter.desktop:3
-msgctxt "Name"
-msgid "FixHostFilter"
-msgstr ""
-
-#: src/urifilters/ikws/kuriikwsfilter.desktop:3
-msgctxt "Name"
-msgid "InternetKeywordsFilter"
-msgstr ""
-
-#: src/urifilters/ikws/kurisearchfilter.desktop:3
-msgctxt "Name"
-msgid "SearchKeywordsFilter"
-msgstr ""
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"
@@ -2267,16 +2252,6 @@ msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr ""
 
-#: src/urifilters/localdomain/localdomainurifilter.desktop:3
-msgctxt "Name"
-msgid "LocalDomainFilter"
-msgstr "LocalDomainFilter"
-
-#: src/urifilters/shorturi/kshorturifilter.desktop:3
-msgctxt "Name"
-msgid "ShortURIFilter"
-msgstr "ShortURIFilter"
-
 #: src/widgets/kfileitemactionplugin.desktop:4
 #, fuzzy
 #| msgctxt "Comment"
@@ -2313,6 +2288,14 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "টেবেৰে চৰণ কৰা"
+
+#~ msgctxt "Name"
+#~ msgid "LocalDomainFilter"
+#~ msgstr "LocalDomainFilter"
+
+#~ msgctxt "Name"
+#~ msgid "ShortURIFilter"
+#~ msgstr "ShortURIFilter"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure the way Konqueror reports itself"
