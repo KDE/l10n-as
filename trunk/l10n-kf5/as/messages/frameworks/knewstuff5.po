@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-09-30 03:27+0200\n"
+"POT-Creation-Date: 2017-10-03 03:23+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -549,21 +549,21 @@ msgstr ""
 msgid "More tools..."
 msgstr "নিৰ্ব্বাচন কৰক..."
 
-#: qtquick/qml/NewStuffItem.qml:36
+#: qtquick/qml/NewStuffItem.qml:35
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt "Request installation of this item"
 msgid "Install"
 msgstr "সংস্থাপন কৰক"
 
-#: qtquick/qml/NewStuffItem.qml:43
+#: qtquick/qml/NewStuffItem.qml:42
 #, fuzzy, kde-format
 #| msgid "Update"
 msgctxt "Request updating of this item"
 msgid "Update"
 msgstr "উন্নয়ন কৰক"
 
-#: qtquick/qml/NewStuffItem.qml:50
+#: qtquick/qml/NewStuffItem.qml:49
 #, fuzzy, kde-format
 #| msgid "Uninstall"
 msgctxt "Request uninstallation of this item"
