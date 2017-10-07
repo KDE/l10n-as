@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-09-02 03:17+0200\n"
+"POT-Creation-Date: 2017-10-07 03:29+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1387,13 +1387,13 @@ msgstr "বৃহৎ (%1x%2)"
 msgid "Lock Toolbar Positions"
 msgstr "টুল-বাৰ লক কৰা হ'ব"
 
-#: ktoolbar.cpp:1340
+#: ktoolbar.cpp:1339
 #, kde-format
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1"
 
-#: ktoolbar.cpp:1341
+#: ktoolbar.cpp:1344
 #, kde-format
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
