@@ -2622,7 +2622,7 @@ msgctxt "KMessageBox|"
 msgid "&Details"
 msgstr "বিৱৰণ (&D)"
 
-#: kmessagebox.cpp:325
+#: kmessagebox.cpp:326
 #, fuzzy
 #| msgid "Details"
 msgctxt "KMessageBox|"
