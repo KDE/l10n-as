@@ -2815,6 +2815,13 @@ msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "গুপ্তশব্দ"
 
+#: kpassworddialog.cpp:104
+#, fuzzy
+#| msgid "Supply a username and password below."
+msgctxt "KPasswordDialog|"
+msgid "Supply a password below."
+msgstr "তলত এটা ব্যৱহাৰকৰোঁতাৰ নাম আৰু গুপ্তশব্দ দিয়ক ।"
+
 #: kpassworddialog.ui:26
 #, fuzzy
 #| msgid "Supply a username and password below."
