@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-04 04:27+0000\n"
+"POT-Creation-Date: 2017-12-14 04:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -381,7 +381,7 @@ msgctxt "Name"
 msgid "Tree View"
 msgstr ""
 
-#: classic/settings-classic-view.desktop:94
+#: classic/settings-classic-view.desktop:95
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
 msgstr ""
