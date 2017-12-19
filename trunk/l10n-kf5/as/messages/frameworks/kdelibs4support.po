@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-10-18 06:29+0200\n"
+"POT-Creation-Date: 2017-12-19 03:03+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -12343,7 +12343,7 @@ msgstr "প্ৰদেশ"
 msgid "Comment"
 msgstr "মন্তব্য"
 
-#: kdeui/kapplication.cpp:753
+#: kdeui/kapplication.cpp:746
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "'%1' বিন্যাস পোৱা নাযায়"
