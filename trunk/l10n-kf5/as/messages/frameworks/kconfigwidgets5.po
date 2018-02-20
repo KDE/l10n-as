@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-16 03:10+0100\n"
+"POT-Creation-Date: 2018-02-20 03:16+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -57,11 +57,6 @@ msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
-
-#: klanguagebutton.cpp:195
-#, kde-format
-msgid "without name"
-msgstr "নাম নোহোৱা"
 
 #: krecentfilesaction.cpp:78
 #, fuzzy, kde-format
@@ -664,6 +659,9 @@ msgstr "আগৰ (&P)"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "পিছৰ (&N)"
+
+#~ msgid "without name"
+#~ msgstr "নাম নোহোৱা"
 
 #, fuzzy
 #~| msgid "&Delete"
