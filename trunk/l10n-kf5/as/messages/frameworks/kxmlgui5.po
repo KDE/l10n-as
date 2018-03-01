@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-02-27 03:19+0100\n"
+"POT-Creation-Date: 2018-03-01 03:27+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -871,8 +871,8 @@ msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "নিবেশ"
 
-#: kkeysequencewidget.cpp:675 kshortcuteditwidget.cpp:66
-#: kshortcuteditwidget.cpp:69
+#: kkeysequencewidget.cpp:675 kshortcuteditwidget.cpp:67
+#: kshortcuteditwidget.cpp:70
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
@@ -957,12 +957,12 @@ msgstr "সম্বাদৰ মাপ"
 msgid "The email address to send the bug report to."
 msgstr "এই বাগ প্ৰতিবেদন যি ঈ-মেইল ঠিকনাত প্ৰেৰিত হৈছে ।"
 
-#: kshortcuteditwidget.cpp:65
+#: kshortcuteditwidget.cpp:66
 #, kde-format
 msgid "Default:"
 msgstr "অবিকল্পিত মান:"
 
-#: kshortcuteditwidget.cpp:73
+#: kshortcuteditwidget.cpp:74
 #, kde-format
 msgid "Custom:"
 msgstr "স্বনিৰ্ধাৰিত:"
