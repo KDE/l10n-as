@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-10 04:59+0000\n"
+"POT-Creation-Date: 2018-03-12 05:01+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -39,7 +39,7 @@ msgctxt "Name"
 msgid "Global Menu"
 msgstr ""
 
-#: applets/appmenu/package/metadata.desktop:41
+#: applets/appmenu/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Global menubar on top of the screen"
 msgstr ""
@@ -52,12 +52,12 @@ msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr "বিজ্ঞান"
 
-#: applets/batterymonitor/package/metadata.desktop:43
+#: applets/batterymonitor/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:116
+#: applets/batterymonitor/package/metadata.desktop:117
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -184,7 +184,7 @@ msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ নিৰীক্ষণ ব্যৱস্থা"
 
-#: applets/systemmonitor/cpu/metadata.desktop:44
+#: applets/systemmonitor/cpu/metadata.desktop:45
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
 msgstr ""
