@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-04-29 01:44+0000\n"
+"POT-Creation-Date: 2018-05-15 01:47+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1389,7 +1389,8 @@ msgctxt "Comment"
 msgid "Enables or disables touchpad"
 msgstr ""
 
-#: kcms/translations/translations.desktop:14
+#: kcms/translations/kcm_translations.desktop:14
+#: kcms/translations/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Language"
 msgstr ""
