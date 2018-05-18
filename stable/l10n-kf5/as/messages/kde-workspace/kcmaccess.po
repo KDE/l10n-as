@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-11-10 03:17+0100\n"
+"POT-Creation-Date: 2018-01-30 03:26+0100\n"
 "PO-Revision-Date: 2009-01-13 17:06+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -543,12 +543,12 @@ msgstr ""
 "Sticky keys: Shift চাবি ৫ বাৰ একেলগে টিপক\n"
 "Slow keys: Shift ক ৮ ছেকেণ্ডৰ কাৰণে টিপি ধৰক"
 
-#: kcmaccess.cpp:260
+#: kcmaccess.cpp:261
 #, kde-format
 msgid "Could not set gsettings for Orca: \"%1\" failed"
 msgstr ""
 
-#: kcmaccess.cpp:267
+#: kcmaccess.cpp:268
 #, kde-format
 msgid "Error: Could not launch \"orca --setup\""
 msgstr ""
