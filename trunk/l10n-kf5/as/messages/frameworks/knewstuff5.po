@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-14 03:35+0200\n"
+"POT-Creation-Date: 2018-06-26 03:26+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -422,35 +422,42 @@ msgstr ""
 msgid "Install"
 msgstr "সংস্থাপন কৰক"
 
-#: kmoretools/kmoretools.cpp:633
+#: kmoretools/kmoretools.cpp:645
 #, fuzzy, kde-format
 #| msgid "Choose..."
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "নিৰ্ব্বাচন কৰক..."
 
-#: kmoretools/kmoretools.cpp:648
+#: kmoretools/kmoretools.cpp:660
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "সংস্থাপন কৰক"
 
-#: kmoretools/kmoretools.cpp:684
+#: kmoretools/kmoretools.cpp:696
 #, fuzzy, kde-format
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
 msgid "Configure..."
 msgstr "বিন্যাস কৰক...(&g)"
 
-#: kmoretools/kmoretools_p.h:384
+#: kmoretools/kmoretools_p.h:386
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgctxt "@action:inmenu"
 msgid "Visit homepage"
 msgstr "হোম পৃষ্ঠা"
 
-#: kmoretools/kmoretools_p.h:391
+#: kmoretools/kmoretools_p.h:397
+#, fuzzy, kde-format
+#| msgid "Install"
+msgctxt "@action:inmenu"
+msgid "Install"
+msgstr "সংস্থাপন কৰক"
+
+#: kmoretools/kmoretools_p.h:404
 #, fuzzy, kde-format
 #| msgid "There is no matching item available.\n"
 msgctxt "@action:inmenu"
