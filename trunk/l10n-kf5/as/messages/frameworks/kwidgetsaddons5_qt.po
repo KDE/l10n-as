@@ -2695,14 +2695,14 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "পুনঃ এই বাৰ্তা প্ৰদৰ্শন কৰা ন'হ'ব"
 
-#: kmessagewidget.cpp:92
+#: kmessagewidget.cpp:93
 #, fuzzy
 #| msgid "&Close"
 msgctxt "KMessageWidget|"
 msgid "&Close"
 msgstr "বন্ধ কৰক (&C)"
 
-#: kmessagewidget.cpp:93
+#: kmessagewidget.cpp:94
 #, fuzzy
 #| msgid "Close Message"
 msgctxt "KMessageWidget|"
