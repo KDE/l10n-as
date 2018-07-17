@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-26 03:26+0200\n"
+"POT-Creation-Date: 2018-07-17 03:37+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -247,12 +247,12 @@ msgstr ""
 "সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</"
 "qt>"
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:220
+#: downloaddialog.cpp:83 downloadwidget.cpp:222
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক"
 
-#: downloaddialog.cpp:98
+#: downloaddialog.cpp:101
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
@@ -264,53 +264,53 @@ msgstr "%1 অতিৰিক্ত সংস্থাপক"
 msgid "Timeout. Check Internet connection."
 msgstr "সময়সীমা পাৰ হ'ল । অনুগ্ৰহ কৰি, ইন্টাৰ্নে'ট সংযোগ পৰীক্ষা কৰক!"
 
-#: downloadwidget.cpp:192
+#: downloadwidget.cpp:194
 #, kde-format
 msgid "Server: %1"
 msgstr "সেৱক: %1"
 
-#: downloadwidget.cpp:193
+#: downloadwidget.cpp:195
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />উপলব্ধকৰোঁতা: %1"
 
-#: downloadwidget.cpp:194
+#: downloadwidget.cpp:196
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />সংস্কৰণ: %1"
 
-#: downloadwidget.cpp:198
+#: downloadwidget.cpp:200
 #, kde-format
 msgid "Provider information"
 msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
 
-#: downloadwidget.cpp:209
+#: downloadwidget.cpp:211
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1 সংস্থাপন কৰিবলৈ ব্যৰ্থ"
 
-#: downloadwidget.cpp:210
+#: downloadwidget.cpp:212
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক!"
 
-#: downloadwidget.cpp:264
+#: downloadwidget.cpp:267
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:266
+#: downloadwidget.cpp:269
 #, kde-format
 msgid "Details view mode"
 msgstr ""
 
-#: downloadwidget.cpp:281
+#: downloadwidget.cpp:284
 #, fuzzy, kde-format
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "উপলব্ধকৰোঁতা: %1"
 
-#: downloadwidget.cpp:288
+#: downloadwidget.cpp:291
 #, fuzzy, kde-format
 #| msgid "Pages"
 msgid "All Categories"
@@ -332,20 +332,20 @@ msgstr "উপলব্ধকৰোঁতা: %1"
 msgid "Category:"
 msgstr "অক্ষৰ:"
 
-#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: downloadwidget.ui:90
+#, fuzzy, kde-format
+#| msgid "Rating: "
+msgid "Rating"
+msgstr "গুৰুত্বৰ মান:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#: downloadwidget.ui:103
 #, fuzzy, kde-format
 #| msgctxt "@action"
 #| msgid "New"
 msgid "Newest"
 msgstr "নতুন"
-
-#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:103
-#, fuzzy, kde-format
-#| msgid "Rating: "
-msgid "Rating"
-msgstr "গুৰুত্বৰ মান:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: downloadwidget.ui:110
