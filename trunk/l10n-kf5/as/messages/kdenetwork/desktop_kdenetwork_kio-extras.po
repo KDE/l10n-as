@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-05-20 01:45+0000\n"
+"POT-Creation-Date: 2018-07-18 01:47+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: activities/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:4
+#: activities/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:3
 msgctxt "Name"
 msgid "Link Files to Activities"
 msgstr ""
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Shared Folders (SMB)"
 msgstr ""
 
-#: thumbnail/audiothumbnail.desktop:4
+#: thumbnail/audiothumbnail.desktop:3
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Audio Mixer"
@@ -117,7 +117,7 @@ msgctxt "Name"
 msgid "Audio files"
 msgstr "Audio Mixer"
 
-#: thumbnail/comicbookthumbnail.desktop:4
+#: thumbnail/comicbookthumbnail.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Comoros"
@@ -194,12 +194,12 @@ msgctxt "Comment"
 msgid "Thumbnail Handler"
 msgstr ""
 
-#: thumbnail/windowsexethumbnail.desktop:4
+#: thumbnail/windowsexethumbnail.desktop:3
 msgctxt "Name"
 msgid "Microsoft Windows Executables"
 msgstr ""
 
-#: thumbnail/windowsimagethumbnail.desktop:4
+#: thumbnail/windowsimagethumbnail.desktop:3
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
