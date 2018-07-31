@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-27 01:43+0000\n"
+"POT-Creation-Date: 2018-07-31 01:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -131,14 +131,18 @@ msgid "Login"
 msgstr ""
 
 #: effects/login/package/metadata.desktop:88
-#: effects/logout/package/metadata.desktop:40
 msgctxt "Comment"
 msgid "Smoothly fade to the desktop when logging in"
 msgstr ""
 
 #: effects/logout/package/metadata.desktop:2
 msgctxt "Name"
-msgid "logout"
+msgid "Logout"
+msgstr ""
+
+#: effects/logout/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Smoothly fade to the logout screen"
 msgstr ""
 
 #: effects/lookingglass/lookingglass_config.desktop:8
