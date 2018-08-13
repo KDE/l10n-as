@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-08 02:00+0000\n"
+"POT-Creation-Date: 2018-08-13 02:03+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -204,14 +204,9 @@ msgctxt "Name"
 msgid "Resize Window"
 msgstr ""
 
-#: effects/scalein/package/metadata.desktop:2
+#: effects/scale/scale_config.desktop:8
 msgctxt "Name"
-msgid "Scale In"
-msgstr ""
-
-#: effects/scalein/package/metadata.desktop:79
-msgctxt "Comment"
-msgid "Animate the appearing of windows"
+msgid "Scale"
 msgstr ""
 
 #: effects/showfps/showfps_config.desktop:8
