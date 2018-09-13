@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:04+0200\n"
+"POT-Creation-Date: 2018-09-13 03:43+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -90,7 +90,7 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "বিন্যাসৰ এই বিভাগ বৰ্তমানে %1 ত খোলা আছে"
 
-#: kcmultidialog.cpp:56
+#: kcmultidialog.cpp:58
 #, fuzzy, kde-format
 #| msgid ""
 #| "The document \"%1\" has been modified.\n"
@@ -102,13 +102,13 @@ msgstr ""
 "\"%1\" আলেখ্যনত কিছু পৰিবৰ্তন কৰা হৈছে ।\n"
 "পৰিবৰ্তনসমূহ সংৰক্ষণ কৰা হ'ব নে বৰ্জন কৰা হ'ব?"
 
-#: kcmultidialog.cpp:58
+#: kcmultidialog.cpp:60
 #, fuzzy, kde-format
 #| msgid "Settings"
 msgid "Apply Settings"
 msgstr "বৈশিষ্ট্য"
 
-#: kcmultidialog.cpp:205 kpluginselector.cpp:715
+#: kcmultidialog.cpp:207 kpluginselector.cpp:715
 #, kde-format
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
