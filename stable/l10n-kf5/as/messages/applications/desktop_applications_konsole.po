@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-21 01:56+0000\n"
+"POT-Creation-Date: 2018-11-12 06:04+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -110,7 +110,7 @@ msgctxt "Name"
 msgid "Terminal Emulator"
 msgstr ""
 
-#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:193
+#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:194
 #: desktop/terminalemulator.desktop:98
 msgctxt "Comment"
 msgid "Command line access"
@@ -132,22 +132,22 @@ msgctxt "Comment"
 msgid "Run within Konsole"
 msgstr "Konsole"
 
-#: desktop/org.kde.konsole.desktop:14
+#: desktop/org.kde.konsole.desktop:15
 msgctxt "Name"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: desktop/org.kde.konsole.desktop:107
+#: desktop/org.kde.konsole.desktop:108
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
 
-#: desktop/org.kde.konsole.desktop:237
+#: desktop/org.kde.konsole.desktop:238
 msgctxt "Name"
 msgid "Open a New Window"
 msgstr ""
 
-#: desktop/org.kde.konsole.desktop:288
+#: desktop/org.kde.konsole.desktop:289
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
