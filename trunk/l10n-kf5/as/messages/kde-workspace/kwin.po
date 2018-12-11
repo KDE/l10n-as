@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-04 03:31+0100\n"
+"POT-Creation-Date: 2018-12-11 03:16+0100\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -2009,17 +2009,17 @@ msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰ�
 msgid "Switch to Desktop %1"
 msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
 
-#: virtualkeyboard.cpp:95
+#: virtualkeyboard.cpp:100
 #, kde-format
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: virtualkeyboard.cpp:216
+#: virtualkeyboard.cpp:222
 #, kde-format
 msgid "Virtual Keyboard is enabled."
 msgstr ""
 
-#: virtualkeyboard.cpp:219
+#: virtualkeyboard.cpp:225
 #, kde-format
 msgid "Virtual Keyboard is disabled."
 msgstr ""
