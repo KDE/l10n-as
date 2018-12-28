@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-20 03:02+0100\n"
+"POT-Creation-Date: 2018-12-28 02:58+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -332,12 +332,12 @@ msgstr "উপলব্ধকৰোঁতা: %1"
 msgid "Category:"
 msgstr "অক্ষৰ:"
 
-#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: downloadwidget.ui:90
 #, fuzzy, kde-format
-#| msgid "Rating: "
-msgid "Rating"
-msgstr "গুৰুত্বৰ মান:"
+#| msgid "Most Downloads"
+msgid "Most downloads"
+msgstr "সৰ্বাধিকবাৰ ডাউন্‌লোড কৰা হৈছে"
 
 #. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
 #: downloadwidget.ui:103
@@ -347,12 +347,12 @@ msgstr "গুৰুত্বৰ মান:"
 msgid "Newest"
 msgstr "নতুন"
 
-#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: downloadwidget.ui:110
 #, fuzzy, kde-format
-#| msgid "Most Downloads"
-msgid "Most downloads"
-msgstr "সৰ্বাধিকবাৰ ডাউন্‌লোড কৰা হৈছে"
+#| msgid "Rating: "
+msgid "Rating"
+msgstr "গুৰুত্বৰ মান:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
 #: downloadwidget.ui:117
