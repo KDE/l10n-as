@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-04 03:02+0100\n"
+"POT-Creation-Date: 2019-01-12 03:00+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -483,9 +483,10 @@ msgstr[1] ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱাহৈছে"
 
 #: kpluginselector.cpp:261
-#, kde-format
-msgid "Search Plugins"
-msgstr "প্লাগ-ইন অনুসন্ধান"
+#, fuzzy, kde-format
+#| msgid "&Search"
+msgid "Search..."
+msgstr "অনুসন্ধান (&S)"
 
 #: kpluginselector.cpp:710
 #, fuzzy, kde-format
@@ -509,6 +510,9 @@ msgstr "সামগ্ৰী নিৰ্ব্বাচন কৰক"
 #, kde-format
 msgid "Enable component"
 msgstr "অংশ সক্ৰিয়া কৰক"
+
+#~ msgid "Search Plugins"
+#~ msgstr "প্লাগ-ইন অনুসন্ধান"
 
 #~ msgid "Name"
 #~ msgstr "নাম"
@@ -4569,11 +4573,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 #~ msgstr ""
 #~ "\"%1\" আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শিত হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম টিপি এইটো "
 #~ "পৰিবৰ্তন কৰা যাব ।"
-
-#, fuzzy
-#~| msgid "&Search"
-#~ msgid "Search"
-#~ msgstr "অনুসন্ধান (&S)"
 
 #~ msgid "Stop"
 #~ msgstr "বন্ধ কৰক"
