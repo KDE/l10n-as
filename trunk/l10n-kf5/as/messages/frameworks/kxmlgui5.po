@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-13 03:01+0100\n"
+"POT-Creation-Date: 2019-01-26 03:04+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -889,13 +889,13 @@ msgstr ""
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
 
-#: kmainwindow.cpp:245
+#: kmainwindow.cpp:249
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "অমিতাক্ষ ফুকন"
 
-#: kmainwindow.cpp:246
+#: kmainwindow.cpp:250
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -1289,108 +1289,108 @@ msgstr ""
 "এই অনুপ্ৰয়োগৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে, বিকল্প ৰূপে এই "
 "ভাষা ব্যৱহাৰ কৰা হ'ব ।"
 
-#: ktoolbar.cpp:307
+#: ktoolbar.cpp:311
 #, fuzzy, kde-format
 #| msgid "Show help"
 msgctxt "@title:menu"
 msgid "Show Text"
 msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: ktoolbar.cpp:310
+#: ktoolbar.cpp:314
 #, fuzzy, kde-format
 #| msgid "Toolbar Menu"
 msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "টুল-বাৰ তালিকা"
 
-#: ktoolbar.cpp:312
+#: ktoolbar.cpp:316
 #, fuzzy, kde-format
 #| msgid "Orientation"
 msgctxt "Toolbar orientation"
 msgid "Orientation"
 msgstr "দিশ"
 
-#: ktoolbar.cpp:314
+#: ktoolbar.cpp:318
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "ওপৰত"
 
-#: ktoolbar.cpp:316
+#: ktoolbar.cpp:320
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "বাওঁফালে"
 
-#: ktoolbar.cpp:317
+#: ktoolbar.cpp:321
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "সোঁফালে"
 
-#: ktoolbar.cpp:318
+#: ktoolbar.cpp:322
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "তলত"
 
-#: ktoolbar.cpp:326
+#: ktoolbar.cpp:330
 #, kde-format
 msgid "Text Position"
 msgstr "লিপিৰ অৱস্থান"
 
-#: ktoolbar.cpp:328
+#: ktoolbar.cpp:332
 #, kde-format
 msgid "Icons Only"
 msgstr "অকল আইকন"
 
-#: ktoolbar.cpp:329
+#: ktoolbar.cpp:333
 #, kde-format
 msgid "Text Only"
 msgstr "অকল লিপি"
 
-#: ktoolbar.cpp:330
+#: ktoolbar.cpp:334
 #, kde-format
 msgid "Text Alongside Icons"
 msgstr "আইকনৰ ওচৰত লিপি"
 
-#: ktoolbar.cpp:331
+#: ktoolbar.cpp:335
 #, kde-format
 msgid "Text Under Icons"
 msgstr "আইকনৰ তলত লিপি"
 
-#: ktoolbar.cpp:339
+#: ktoolbar.cpp:343
 #, kde-format
 msgid "Icon Size"
 msgstr "আইকনৰ মাপ"
 
-#: ktoolbar.cpp:341
+#: ktoolbar.cpp:345
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: ktoolbar.cpp:358 ktoolbar.cpp:379
+#: ktoolbar.cpp:362 ktoolbar.cpp:383
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "সৰু (%1x%2)"
 
-#: ktoolbar.cpp:360 ktoolbar.cpp:381
+#: ktoolbar.cpp:364 ktoolbar.cpp:385
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "মধ্যম (%1x%2)"
 
-#: ktoolbar.cpp:362 ktoolbar.cpp:383
+#: ktoolbar.cpp:366 ktoolbar.cpp:387
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "ডাঙৰ (%1x%2)"
 
-#: ktoolbar.cpp:364 ktoolbar.cpp:385
+#: ktoolbar.cpp:368 ktoolbar.cpp:389
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "বৃহৎ (%1x%2)"
 
-#: ktoolbar.cpp:407
+#: ktoolbar.cpp:411
 #, fuzzy, kde-format
 #| msgid "Lock Toolbars"
 msgid "Lock Toolbar Positions"
@@ -1417,7 +1417,7 @@ msgstr "পূৰ্বাবস্থা"
 msgid "No text"
 msgstr "কোনো লিপি নাই"
 
-#: kxmlguiwindow.cpp:432
+#: kxmlguiwindow.cpp:440
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1425,7 +1425,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:432
+#: kxmlguiwindow.cpp:440
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgid "Ambiguous Shortcuts"
