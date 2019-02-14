@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-13 02:44+0000\n"
+"POT-Creation-Date: 2019-02-14 02:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -377,7 +377,7 @@ msgstr "ডেস্কট'প"
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Comment"
-msgid "Choose the color scheme"
+msgid "Choose color scheme"
 msgstr "ডেস্কট'প"
 
 #: kcms/colors/kcm_colors.desktop:127
@@ -539,7 +539,7 @@ msgstr "ডেস্কট'প"
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Comment"
-msgid "Choose the mouse cursor theme"
+msgid "Choose mouse cursor theme"
 msgstr "ডেস্কট'প"
 
 #: kcms/cursortheme/kcm_cursortheme.desktop:74
@@ -611,9 +611,12 @@ msgstr ""
 
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:36
 #: kcms/desktoptheme/package/metadata.desktop:25
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
 msgctxt "Comment"
-msgid "Choose the Plasma theme"
-msgstr ""
+msgid "Choose Plasma theme"
+msgstr "ডেস্কট'প"
 
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:57
 #, fuzzy
@@ -636,10 +639,10 @@ msgstr "ভাব-প্ৰতীক"
 #: kcms/emoticons/emoticons.desktop:96
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "Emoticons"
+#| msgid "Desktop"
 msgctxt "Comment"
-msgid "Emoticon Theme"
-msgstr "ভাব-প্ৰতীক"
+msgid "Choose emoticon theme"
+msgstr "ডেস্কট'প"
 
 #: kcms/emoticons/emoticons.desktop:142
 #, fuzzy
@@ -661,10 +664,10 @@ msgstr ""
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
 msgctxt "Comment"
-msgid "Configure the system fonts"
+msgid "Configure user interface fonts"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcms/fonts/kcm_fonts.desktop:115
+#: kcms/fonts/kcm_fonts.desktop:116
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -717,7 +720,7 @@ msgstr "আইকন"
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Comment"
-msgid "Icon Theme"
+msgid "Choose icon theme"
 msgstr "ডেস্কট'প"
 
 #: kcms/icons/kcm_icons.desktop:153
@@ -849,7 +852,7 @@ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:71
 msgctxt "Comment"
-msgid "Font Installation, Preview and Removal"
+msgid "Install, manage and preview fonts"
 msgstr ""
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:115
@@ -908,9 +911,12 @@ msgstr ""
 
 #: kcms/ksplash/kcm_splashscreen.desktop:60
 #: kcms/ksplash/package/metadata.desktop:47
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
 msgctxt "Comment"
-msgid "Choose the splash screen theme"
-msgstr ""
+msgid "Choose splash screen theme"
+msgstr "ডেস্কট'প"
 
 #: kcms/ksplash/kcm_splashscreen.desktop:81
 msgctxt "X-KDE-Keywords"
@@ -951,7 +957,7 @@ msgstr ""
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:53
 #: kcms/lookandfeel/package/metadata.desktop:41
 msgctxt "Comment"
-msgid "Choose the Look and Feel theme"
+msgid "Choose Look and Feel theme"
 msgstr ""
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:74
@@ -1356,7 +1362,7 @@ msgstr ""
 
 #: kcms/style/style.desktop:61
 msgctxt "Comment"
-msgid "Widget Style and Behavior"
+msgid "Configure widget style and behavior"
 msgstr ""
 
 #: kcms/style/style.desktop:107
@@ -1576,6 +1582,20 @@ msgstr "ডেস্কট'প"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Emoticons"
+#~ msgctxt "Comment"
+#~ msgid "Emoticon Theme"
+#~ msgstr "ভাব-প্ৰতীক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Icon Theme"
+#~ msgstr "ডেস্কট'প"
 
 #, fuzzy
 #~| msgctxt "Name"
