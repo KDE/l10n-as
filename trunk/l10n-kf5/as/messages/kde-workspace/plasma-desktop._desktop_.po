@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-17 02:31+0000\n"
+"POT-Creation-Date: 2019-02-21 03:14+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -644,7 +644,7 @@ msgctxt "Comment"
 msgid "Choose emoticon theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/emoticons/emoticons.desktop:106
+#: kcms/emoticons/emoticons.desktop:107
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Emoticons"
@@ -667,7 +667,7 @@ msgctxt "Comment"
 msgid "Configure user interface fonts"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcms/fonts/kcm_fonts.desktop:117
+#: kcms/fonts/kcm_fonts.desktop:118
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -1365,7 +1365,7 @@ msgctxt "Comment"
 msgid "Configure widget style and behavior"
 msgstr ""
 
-#: kcms/style/style.desktop:72
+#: kcms/style/style.desktop:73
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
