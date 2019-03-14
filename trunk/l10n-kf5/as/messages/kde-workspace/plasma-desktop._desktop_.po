@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-09 02:42+0000\n"
+"POT-Creation-Date: 2019-03-14 02:37+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -900,7 +900,7 @@ msgstr ""
 
 #: kcms/ksmserver/kcmsmserver.desktop:105
 msgctxt "X-KDE-Keywords"
-msgid "ksmserver,session,logout,confirmation,save,restore"
+msgid "ksmserver,session,logout,confirmation,save,restore,efi,uefi,bios"
 msgstr ""
 
 #: kcms/ksplash/kcm_splashscreen.desktop:15
@@ -1356,13 +1356,16 @@ msgid ""
 msgstr ""
 
 #: kcms/style/style.desktop:16
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
 msgctxt "Name"
-msgid "Widget Style"
-msgstr ""
+msgid "Application Style"
+msgstr "ডেস্কট'প"
 
 #: kcms/style/style.desktop:61
 msgctxt "Comment"
-msgid "Configure widget style and behavior"
+msgid "Configure application style and behavior"
 msgstr ""
 
 #: kcms/style/style.desktop:80
@@ -1595,13 +1598,6 @@ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 #~| msgid "Desktop"
 #~ msgctxt "Comment"
 #~ msgid "Icon Theme"
-#~ msgstr "ডেস্কট'প"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop"
-#~ msgctxt "Comment"
-#~ msgid "Application Color Scheme"
 #~ msgstr "ডেস্কট'প"
 
 #, fuzzy
