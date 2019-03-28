@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-19 03:13+0100\n"
+"POT-Creation-Date: 2019-03-28 03:13+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -397,7 +397,7 @@ msgstr "লেখক:"
 #. i18n: ectx: property (text), widget (QLabel, homepageLabel)
 #: downloadwidget.ui:390
 #, kde-format
-msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
+msgid "<a href=\"https://opendesktop.org\">Homepage</a>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
