@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-30 01:40+0000\n"
+"POT-Creation-Date: 2019-05-02 01:44+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -65,7 +65,7 @@ msgctxt "Name"
 msgid "Minimize all Windows"
 msgstr ""
 
-#: applets/minimizeall/package/metadata.desktop:14
+#: applets/minimizeall/package/metadata.desktop:15
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -105,7 +105,7 @@ msgctxt "Name"
 msgid "Show Desktop"
 msgstr "ডেস্কট'প"
 
-#: applets/showdesktop/package/metadata.desktop:14
+#: applets/showdesktop/package/metadata.desktop:15
 msgctxt "Comment"
 msgid "Show the Plasma desktop"
 msgstr ""
@@ -1572,7 +1572,7 @@ msgctxt "Name"
 msgid "Declarative Toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
-#: toolboxes/desktoptoolbox/metadata.desktop:47
+#: toolboxes/desktoptoolbox/metadata.desktop:46
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panama"
@@ -1588,7 +1588,7 @@ msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
-#: toolboxes/paneltoolbox/metadata.desktop:51
+#: toolboxes/paneltoolbox/metadata.desktop:50
 msgctxt "Comment"
 msgid "Manage Plasma panel"
 msgstr ""
