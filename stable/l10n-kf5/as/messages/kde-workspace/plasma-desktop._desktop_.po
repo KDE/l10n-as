@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-11 01:46+0000\n"
+"POT-Creation-Date: 2019-05-17 06:33+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -65,7 +65,7 @@ msgctxt "Name"
 msgid "Minimize all Windows"
 msgstr ""
 
-#: applets/minimizeall/package/metadata.desktop:21
+#: applets/minimizeall/package/metadata.desktop:22
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -105,7 +105,7 @@ msgctxt "Name"
 msgid "Show Desktop"
 msgstr "ডেস্কট'প"
 
-#: applets/showdesktop/package/metadata.desktop:21
+#: applets/showdesktop/package/metadata.desktop:23
 msgctxt "Comment"
 msgid "Show the Plasma desktop"
 msgstr ""
@@ -403,7 +403,7 @@ msgctxt "Comment"
 msgid "Choose color scheme"
 msgstr "ডেস্কট'প"
 
-#: kcms/colors/kcm_colors.desktop:131
+#: kcms/colors/kcm_colors.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -565,7 +565,7 @@ msgctxt "Comment"
 msgid "Choose mouse cursor theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/cursortheme/kcm_cursortheme.desktop:76
+#: kcms/cursortheme/kcm_cursortheme.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
@@ -632,8 +632,8 @@ msgctxt "Name"
 msgid "Plasma Theme"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:39
-#: kcms/desktoptheme/package/metadata.desktop:28
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:40
+#: kcms/desktoptheme/package/metadata.desktop:29
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -641,7 +641,7 @@ msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:62
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:65
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -667,7 +667,7 @@ msgctxt "Comment"
 msgid "Choose emoticon theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/emoticons/emoticons.desktop:119
+#: kcms/emoticons/emoticons.desktop:121
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Emoticons"
@@ -690,7 +690,7 @@ msgctxt "Comment"
 msgid "Configure user interface fonts"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcms/fonts/kcm_fonts.desktop:129
+#: kcms/fonts/kcm_fonts.desktop:131
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -746,7 +746,7 @@ msgctxt "Comment"
 msgid "Choose icon theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/icons/kcm_icons.desktop:130
+#: kcms/icons/kcm_icons.desktop:132
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
@@ -878,7 +878,7 @@ msgctxt "Comment"
 msgid "Install, manage and preview fonts"
 msgstr ""
 
-#: kcms/kfontinst/kcmfontinst/fontinst.desktop:95
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:97
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -926,7 +926,7 @@ msgctxt "Comment"
 msgid "Choose splash screen theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/ksplash/kcm_splashscreen.desktop:83
+#: kcms/ksplash/kcm_splashscreen.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
@@ -968,7 +968,7 @@ msgctxt "Comment"
 msgid "Choose Look and Feel theme"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:76
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
@@ -1383,12 +1383,12 @@ msgctxt "Name"
 msgid "Application Style"
 msgstr "ডেস্কট'প"
 
-#: kcms/style/style.desktop:40
+#: kcms/style/style.desktop:42
 msgctxt "Comment"
 msgid "Configure application style and behavior"
 msgstr ""
 
-#: kcms/style/style.desktop:64
+#: kcms/style/style.desktop:68
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
