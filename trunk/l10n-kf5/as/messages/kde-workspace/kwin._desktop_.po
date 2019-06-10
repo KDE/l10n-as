@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-01 01:24+0000\n"
+"POT-Creation-Date: 2019-06-10 01:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -107,7 +107,7 @@ msgctxt "Name"
 msgid "Fading Popups"
 msgstr ""
 
-#: effects/fadingpopups/package/metadata.desktop:27
+#: effects/fadingpopups/package/metadata.desktop:28
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
 msgstr ""
@@ -257,7 +257,7 @@ msgctxt "Comment"
 msgid "Squash windows when they are minimized"
 msgstr ""
 
-#: effects/squash/package/metadata.desktop:27
+#: effects/squash/package/metadata.desktop:28
 msgctxt "Name"
 msgid "Squash"
 msgstr ""
@@ -346,7 +346,7 @@ msgctxt "Comment"
 msgid "Configure window titlebars and borders"
 msgstr ""
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:98
+#: kcmkwin/kwindecoration/kwindecoration.desktop:99
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
