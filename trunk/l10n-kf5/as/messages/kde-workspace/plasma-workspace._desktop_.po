@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-11 01:29+0000\n"
+"POT-Creation-Date: 2019-06-12 01:43+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1481,19 +1481,6 @@ msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr ""
 
-#: runners/solid/plasma-runner-solid.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name|plasma runner"
-msgid "Devices"
-msgstr "যন্ত্ৰ"
-
-#: runners/solid/plasma-runner-solid.desktop:73
-msgctxt "Comment"
-msgid "Manage removable devices"
-msgstr ""
-
 #: runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -1780,6 +1767,13 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Devices"
+#~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
