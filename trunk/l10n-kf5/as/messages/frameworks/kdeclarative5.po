@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:55+0200\n"
+"POT-Creation-Date: 2019-06-15 02:52+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -38,13 +38,6 @@ msgstr ""
 #| msgid "defines the application font"
 msgid "The unique name of the application (mandatory)"
 msgstr "অনুপ্ৰয়োগৰ আখৰ নিৰ্ধাৰিত কৰা হয়"
-
-#: qmlcontrols/kcmcontrols/qml/GridDelegate.qml:108
-#, fuzzy, kde-format
-#| msgctxt "No shortcut defined"
-#| msgid "None"
-msgid "None"
-msgstr "শূণ্য"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 #, kde-format
@@ -106,6 +99,12 @@ msgstr ""
 #, kde-format
 msgid "Unsupported Key"
 msgstr "অসমৰ্থিত চাবি"
+
+#, fuzzy
+#~| msgctxt "No shortcut defined"
+#~| msgid "None"
+#~ msgid "None"
+#~ msgstr "শূণ্য"
 
 #~ msgid "Undo"
 #~ msgstr "পূৰ্বাবস্থা"
