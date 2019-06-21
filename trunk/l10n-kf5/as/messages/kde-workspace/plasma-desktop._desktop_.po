@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-18 01:33+0000\n"
+"POT-Creation-Date: 2019-06-21 01:41+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -718,14 +718,20 @@ msgid ""
 msgstr ""
 
 #: kcms/hardware/joystick/joystick.desktop:17
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
 msgctxt "Comment"
-msgid "Joystick"
-msgstr ""
+msgid "Calibrate Game Controller"
+msgstr "তাৰিখ আৰু সময়"
 
 #: kcms/hardware/joystick/joystick.desktop:65
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
 msgctxt "Name"
-msgid "Joystick"
-msgstr ""
+msgid "Game Controller"
+msgstr "তাৰিখ আৰু সময়"
 
 #: kcms/hardware/joystick/joystick.desktop:156
 msgctxt "X-KDE-Keywords"
