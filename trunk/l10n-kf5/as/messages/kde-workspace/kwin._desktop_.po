@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-26 01:35+0000\n"
+"POT-Creation-Date: 2019-06-29 01:33+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -721,19 +721,6 @@ msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
 
-#: scripts/enforcedeco/metadata.desktop:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Window Termination Tool"
-msgctxt "Name"
-msgid "Enforces Window Decorations on GTK+ window"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
-
-#: scripts/enforcedeco/metadata.desktop:45
-msgctxt "Comment"
-msgid "Fixes functional deficits for client side decorated windows."
-msgstr ""
-
 #: scripts/minimizeall/metadata.desktop:2
 msgctxt "Name"
 msgid "MinimizeAll"
@@ -786,6 +773,13 @@ msgstr "নথিপত্ৰৰ পৰিচালক"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Window Termination Tool"
+#~ msgctxt "Name"
+#~ msgid "Enforces Window Decorations on GTK+ window"
+#~ msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #, fuzzy
 #~| msgctxt "Name"
