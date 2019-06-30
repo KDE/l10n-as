@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-26 01:35+0000\n"
+"POT-Creation-Date: 2019-06-30 01:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -680,7 +680,7 @@ msgctxt "Comment"
 msgid "Calibrate Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/hardware/joystick/joystick.desktop:30
+#: kcms/hardware/joystick/joystick.desktop:33
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -688,7 +688,7 @@ msgctxt "Name"
 msgid "Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/hardware/joystick/joystick.desktop:44
+#: kcms/hardware/joystick/joystick.desktop:50
 msgctxt "X-KDE-Keywords"
 msgid "joystick,gamepad,controller"
 msgstr ""
@@ -1006,12 +1006,12 @@ msgctxt "Name"
 msgid "KRunner"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:33
+#: kcms/runners/kcm_plasmasearch.desktop:34
 msgctxt "Comment"
 msgid "Configure Search Bar"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:69
+#: kcms/runners/kcm_plasmasearch.desktop:70
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
