@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-24 02:55+0200\n"
+"POT-Creation-Date: 2019-07-18 02:49+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -28,78 +28,78 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
 
-#: kcmodule.cpp:173
+#: kcmodule.cpp:170
 #, kde-format
 msgid "You will be asked to authenticate before saving"
 msgstr ""
 
-#: kcmodule.cpp:177
+#: kcmodule.cpp:174
 #, fuzzy, kde-format
 #| msgid "Do you want to reload KDE configuration?"
 msgid "You are not allowed to save the configuration"
 msgstr "KDE বিন্যাস পুনঃ তুলি লোৱা হ'ব নেকি ?"
 
-#: kcodecaction.cpp:91
+#: kcodecaction.cpp:90
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: kcodecaction.cpp:99
+#: kcodecaction.cpp:98
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: kconfigdialog.cpp:48
+#: kconfigdialog.cpp:44
 #, fuzzy, kde-format
 #| msgid "Configure"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
 
-#: krecentfilesaction.cpp:78
+#: krecentfilesaction.cpp:77
 #, fuzzy, kde-format
 #| msgid "No entries"
 msgid "No Entries"
 msgstr "কোনো নিবেশ উপস্থিত নাই"
 
-#: krecentfilesaction.cpp:84
+#: krecentfilesaction.cpp:83
 #, fuzzy, kde-format
 #| msgid "Clear input"
 msgid "Clear List"
 msgstr "নিবেশ কৰা তথ্য আঁতৰুৱা হ'ব"
 
-#: kstandardaction.cpp:155
+#: kstandardaction.cpp:153
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "পূৰ্ববৰ্তী (&B)"
 
-#: kstandardaction.cpp:162
+#: kstandardaction.cpp:160
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "পৰবৰ্তী পদক্ষেপ (&F)"
 
-#: kstandardaction.cpp:169
+#: kstandardaction.cpp:167
 #, kde-format
 msgctxt "home page"
 msgid "&Home"
 msgstr "প্ৰথম পৃষ্ঠা (&H)"
 
-#: kstandardaction.cpp:172
+#: kstandardaction.cpp:170
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "সহায় (&H)"
 
-#: kstandardaction.cpp:216
+#: kstandardaction.cpp:214
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 
-#: kstandardaction.cpp:236
+#: kstandardaction.cpp:234
 #, kde-format
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
