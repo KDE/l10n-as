@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:58+0200\n"
+"POT-Creation-Date: 2019-07-27 02:42+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -101,26 +101,19 @@ msgstr "নথিপত্ৰ পৰীক্ষণ নিষ্ক্ৰিয় 
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:85
 #, fuzzy, kde-format
-#| msgid "Create global database"
-msgctxt "@info:shell command-line option"
-msgid "Create global database"
-msgstr "সৰ্বব্যাপী তথ্যভঁৰাল নিৰ্মাণ কৰা হ'ব"
-
-#: kbuildsycoca/kbuildsycoca_main.cpp:88
-#, fuzzy, kde-format
 #| msgid "Perform menu generation test run only"
 msgctxt "@info:shell command-line option"
 msgid "Perform menu generation test run only"
 msgstr "অকল পৰীক্ষামূলকভাবে তালিকা নিৰ্মাণ কৰা হ'ব"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:91
+#: kbuildsycoca/kbuildsycoca_main.cpp:88
 #, fuzzy, kde-format
 #| msgid "Track menu id for debug purposes"
 msgctxt "@info:shell command-line option"
 msgid "Track menu id for debug purposes"
 msgstr "ডিবাগ কৰাৰ উদ্দেশ্যে তালিকা id নিৰীক্ষণ কৰা হ'ব"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:95
+#: kbuildsycoca/kbuildsycoca_main.cpp:92
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Switch QStandardPaths to test mode, for unit tests only"
@@ -222,6 +215,12 @@ msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
 "'%1' সেৱা দ্বাৰা কোনো লাইব্ৰেৰি উপলব্ধ কৰা নহয় বা .desktop নথিপত্ৰত Library চাবি "
 "অনুপস্থিত ।"
+
+#, fuzzy
+#~| msgid "Create global database"
+#~ msgctxt "@info:shell command-line option"
+#~ msgid "Create global database"
+#~ msgstr "সৰ্বব্যাপী তথ্যভঁৰাল নিৰ্মাণ কৰা হ'ব"
 
 #, fuzzy
 #~| msgid "Do not signal applications to update"
