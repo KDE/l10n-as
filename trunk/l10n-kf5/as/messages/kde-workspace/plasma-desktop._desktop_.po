@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-03 01:31+0000\n"
+"POT-Creation-Date: 2019-08-04 01:29+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -587,8 +587,8 @@ msgctxt "Name"
 msgid "Plasma Style"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:41
-#: kcms/desktoptheme/package/metadata.desktop:30
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:14
+#: kcms/desktoptheme/package/metadata.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -596,7 +596,7 @@ msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:67
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:40
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1425,13 +1425,13 @@ msgctxt "Name"
 msgid "General Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:12
-#: kcms/workspaceoptions/package/metadata.desktop:3
+#: kcms/workspaceoptions/kcm_workspace.desktop:20
+#: kcms/workspaceoptions/package/metadata.desktop:11
 msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:13
+#: kcms/workspaceoptions/kcm_workspace.desktop:29
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
