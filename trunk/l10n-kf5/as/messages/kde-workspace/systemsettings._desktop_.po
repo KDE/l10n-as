@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-02 01:19+0000\n"
+"POT-Creation-Date: 2019-08-05 01:13+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -200,14 +200,6 @@ msgctxt "Name"
 msgid "Startup and Shutdown"
 msgstr ""
 
-#: categories/old/settings-system-administration.desktop:9
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "SAM System-Administration"
-msgctxt "Name"
-msgid "System Administration"
-msgstr "SAM System-Administration"
-
 #: categories/old/settings-window-behaviour.desktop:8
 msgctxt "Name"
 msgid "Window Behavior"
@@ -328,6 +320,14 @@ msgstr "Ruby Application Archive"
 msgctxt "Name"
 msgid "Regional Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
+
+#: categories/settings-system-administration.desktop:9
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "SAM System-Administration"
+msgctxt "Name"
+msgid "System Administration"
+msgstr "SAM System-Administration"
 
 #: categories/settings-workspace.desktop:9
 #, fuzzy

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-04 01:29+0000\n"
+"POT-Creation-Date: 2019-08-05 01:13+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -65,7 +65,7 @@ msgctxt "Name"
 msgid "Minimize all Windows"
 msgstr ""
 
-#: applets/minimizeall/package/metadata.desktop:27
+#: applets/minimizeall/package/metadata.desktop:28
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -105,7 +105,7 @@ msgctxt "Name"
 msgid "Show Desktop"
 msgstr "ডেস্কট'প"
 
-#: applets/showdesktop/package/metadata.desktop:27
+#: applets/showdesktop/package/metadata.desktop:28
 msgctxt "Comment"
 msgid "Show the Plasma desktop"
 msgstr ""
@@ -587,21 +587,28 @@ msgctxt "Name"
 msgid "Plasma Style"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:14
-#: kcms/desktoptheme/package/metadata.desktop:3
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:22
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Comment"
+msgid "Choose Plasma style"
+msgstr "ডেস্কট'প"
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:48
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme,Plasma Theme"
+msgstr "ডেস্কট'প"
+
+#: kcms/desktoptheme/package/metadata.desktop:11
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Comment"
 msgid "Choose Plasma theme"
-msgstr "ডেস্কট'প"
-
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:40
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "X-KDE-Keywords"
-msgid "Desktop Theme"
 msgstr "ডেস্কট'প"
 
 #: kcms/desktoptheme/plasma-themes.knsrc:2
@@ -680,7 +687,7 @@ msgctxt "Comment"
 msgid "Calibrate Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/hardware/joystick/joystick.desktop:36
+#: kcms/hardware/joystick/joystick.desktop:38
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -688,7 +695,7 @@ msgctxt "Name"
 msgid "Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/hardware/joystick/joystick.desktop:56
+#: kcms/hardware/joystick/joystick.desktop:60
 msgctxt "X-KDE-Keywords"
 msgid "joystick,gamepad,controller"
 msgstr ""
@@ -1006,12 +1013,12 @@ msgctxt "Name"
 msgid "KRunner"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:36
+#: kcms/runners/kcm_plasmasearch.desktop:37
 msgctxt "Comment"
 msgid "Configure Search Bar"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:72
+#: kcms/runners/kcm_plasmasearch.desktop:73
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
@@ -1425,13 +1432,13 @@ msgctxt "Name"
 msgid "General Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:20
-#: kcms/workspaceoptions/package/metadata.desktop:11
+#: kcms/workspaceoptions/kcm_workspace.desktop:24
+#: kcms/workspaceoptions/package/metadata.desktop:15
 msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:29
+#: kcms/workspaceoptions/kcm_workspace.desktop:37
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
