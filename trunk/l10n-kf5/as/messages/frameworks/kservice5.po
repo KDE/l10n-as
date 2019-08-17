@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-31 02:52+0200\n"
+"POT-Creation-Date: 2019-08-17 02:53+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -140,7 +140,7 @@ msgstr ""
 "D-Bus এৰে KLauncher পোৱা নাযায় । %1 কল কৰিবলৈ ত্ৰুটি:\n"
 "%2\n"
 
-#: kdeinit/ktoolinvocation_x11.cpp:250
+#: kdeinit/ktoolinvocation_x11.cpp:247
 #, kde-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -151,7 +151,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:251
+#: kdeinit/ktoolinvocation_x11.cpp:248
 #, fuzzy, kde-format
 #| msgid "Could not Launch Mail Client"
 msgid "Could not launch Mail Client"
@@ -160,8 +160,8 @@ msgstr "মেইল গ্ৰাহক আৰম্ভ কৰিবলৈ ব�
 #. i18n("Could not launch %1:\n\n%2", exe, error),
 #. i18n("Could not launch %1:\n\n%2", htmlApp->exec(), error),
 #. i18n("Could not launch %1:\n\n%2", exe, error),
-#: kdeinit/ktoolinvocation_x11.cpp:300 kdeinit/ktoolinvocation_x11.cpp:325
-#: kdeinit/ktoolinvocation_x11.cpp:344
+#: kdeinit/ktoolinvocation_x11.cpp:297 kdeinit/ktoolinvocation_x11.cpp:322
+#: kdeinit/ktoolinvocation_x11.cpp:341
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -172,14 +172,14 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:301 kdeinit/ktoolinvocation_x11.cpp:326
-#: kdeinit/ktoolinvocation_x11.cpp:345
+#: kdeinit/ktoolinvocation_x11.cpp:298 kdeinit/ktoolinvocation_x11.cpp:323
+#: kdeinit/ktoolinvocation_x11.cpp:342
 #, fuzzy, kde-format
 #| msgid "Could not Launch Browser"
 msgid "Could not launch Browser"
 msgstr "চৰক আৰম্ভ কৰিবলৈ ব্যৰ্থ"
 
-#: kdeinit/ktoolinvocation_x11.cpp:384
+#: kdeinit/ktoolinvocation_x11.cpp:381
 #, kde-format
 msgid ""
 "Could not launch the terminal client:\n"
@@ -190,7 +190,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:385
+#: kdeinit/ktoolinvocation_x11.cpp:382
 #, fuzzy, kde-format
 #| msgid "Could not Launch Terminal Client"
 msgid "Could not launch Terminal Client"
@@ -201,12 +201,12 @@ msgstr "টাৰ্মিনেল গ্ৰাহক আৰম্ভ কৰি
 msgid "No service implementing %1"
 msgstr ""
 
-#: services/kservice.cpp:1019
+#: services/kservice.cpp:1018
 #, kde-format
 msgid "The provided service is not valid"
 msgstr ""
 
-#: services/kservice.cpp:1023
+#: services/kservice.cpp:1022
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' provides no library or the Library key is missing in "
