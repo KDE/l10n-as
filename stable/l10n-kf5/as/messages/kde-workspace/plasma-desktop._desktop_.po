@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-01 05:34+0000\n"
+"POT-Creation-Date: 2019-08-24 05:35+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -403,7 +403,7 @@ msgctxt "Comment"
 msgid "Choose color scheme"
 msgstr "ডেস্কট'প"
 
-#: kcms/colors/kcm_colors.desktop:134
+#: kcms/colors/kcm_colors.desktop:135
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -641,7 +641,7 @@ msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:67
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:68
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -746,7 +746,7 @@ msgctxt "Comment"
 msgid "Choose icon theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/icons/kcm_icons.desktop:133
+#: kcms/icons/kcm_icons.desktop:134
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
@@ -1388,7 +1388,7 @@ msgctxt "Comment"
 msgid "Configure application style and behavior"
 msgstr ""
 
-#: kcms/style/style.desktop:69
+#: kcms/style/style.desktop:70
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
