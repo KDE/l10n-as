@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-27 01:23+0000\n"
+"POT-Creation-Date: 2019-08-29 01:16+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -990,29 +990,6 @@ msgctxt "Comment"
 msgid "Event Notifications and Actions"
 msgstr ""
 
-#: kcms/phonon/kcm_phonon.desktop:13
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure web cache settings"
-msgctxt "Name"
-msgid "Audio and Video"
-msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
-
-#: kcms/phonon/kcm_phonon.desktop:59
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure web cache settings"
-msgctxt "Comment"
-msgid "Phonon Audio and Video"
-msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
-
-#: kcms/phonon/kcm_phonon.desktop:105
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
-"Media,NMM,GStreamer,Xine"
-msgstr ""
-
 #: kcms/qtquicksettings/qtquicksettings.desktop:14
 msgctxt "Name"
 msgid "Plasma Renderer"
@@ -1583,6 +1560,20 @@ msgstr "ডেস্কট'প"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Name"
+#~ msgid "Audio and Video"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Comment"
+#~ msgid "Phonon Audio and Video"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #, fuzzy
 #~| msgctxt "Name"
