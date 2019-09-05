@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-04 05:55+0000\n"
+"POT-Creation-Date: 2019-09-05 06:03+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -368,7 +368,7 @@ msgctxt "Comment"
 msgid "Navigation, Number and Layout of Virtual Desktops"
 msgstr ""
 
-#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:98
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:99
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -560,7 +560,7 @@ msgctxt "Comment"
 msgid "Touch screen swipe gestures"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:71
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:72
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
