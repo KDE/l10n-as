@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-01 01:23+0000\n"
+"POT-Creation-Date: 2019-09-10 01:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -416,16 +416,19 @@ msgid "Window Manager Effects"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:12
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
 msgctxt "Name"
-msgid "Actions"
-msgstr ""
+msgid "Window Actions"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:102
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
 msgctxt "Comment"
-msgid "Mouse Actions on Windows"
+msgid "Configure mouse actions for windows and titlebars"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:147
@@ -436,53 +439,56 @@ msgid ""
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:11
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Window Termination Tool"
 msgctxt "Name"
-msgid "Advanced"
-msgstr ""
+msgid "Advanced Window Behavior"
+msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:101
 msgctxt "Comment"
-msgid "Advanced Window Management Features"
+msgid "Configure advanced window management options"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid ""
-"shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
-"window grouping,window tiling,window placement,placement of windows,window "
-"advanced behavior"
+"unshade,unshading,shade,shading,border,hover,active borders,tiling,tabs,"
+"tabbing,window,window tabbing,window grouping,window tiling,placement,window "
+"placement,placement of windows,window advanced behavior"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinfocus.desktop:11
 msgctxt "Name"
-msgid "Focus"
+msgid "Window Focus Behavior"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinfocus.desktop:99
 msgctxt "Comment"
-msgid "Active Window Policy"
+msgid "Configure window activation policy"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinfocus.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid ""
-"focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
-"desktop,focus follows mouse,focus prevention,focus stealing,focus policy,"
-"window focus behavior,window screen behavior"
+"focus,auto raise,raise,click raise,keyboard,CDE,alt-tab,all desktop,focus "
+"follows mouse,focus prevention,focus stealing,focus policy,window focus "
+"behavior,window screen behavior"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:12
-msgctxt "Name"
-msgid "Moving"
-msgstr ""
-
-#: kcmkwin/kwinoptions/kwinmoving.desktop:100
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Window Termination Tool"
-msgctxt "Comment"
-msgid "Window Moving"
+msgctxt "Name"
+msgid "Window Movement"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:100
+msgctxt "Comment"
+msgid "Configure window movement options"
+msgstr ""
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:145
 msgctxt "X-KDE-Keywords"
@@ -496,7 +502,7 @@ msgstr ""
 
 #: kcmkwin/kwinoptions/kwinoptions.desktop:103
 msgctxt "Comment"
-msgid "Window Actions and Behavior"
+msgid "Configure window actions and behavior"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinoptions.desktop:148
@@ -779,6 +785,13 @@ msgstr "নথিপত্ৰৰ পৰিচালক"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Comment"
+#~ msgid "Mouse Actions on Windows"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #, fuzzy
 #~| msgctxt "GenericName"
