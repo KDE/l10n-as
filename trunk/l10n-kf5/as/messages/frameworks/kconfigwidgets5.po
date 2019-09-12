@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-05 02:40+0200\n"
+"POT-Creation-Date: 2019-09-12 02:45+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -58,13 +58,13 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
 
-#: krecentfilesaction.cpp:77
+#: krecentfilesaction.cpp:79
 #, fuzzy, kde-format
 #| msgid "No entries"
 msgid "No Entries"
 msgstr "কোনো নিবেশ উপস্থিত নাই"
 
-#: krecentfilesaction.cpp:83
+#: krecentfilesaction.cpp:85
 #, fuzzy, kde-format
 #| msgid "Clear input"
 msgid "Clear List"
@@ -625,35 +625,35 @@ msgstr ""
 msgid "&Donate"
 msgstr ""
 
-#: ktipdialog.cpp:239
+#: ktipdialog.cpp:240
 #, fuzzy, kde-format
 #| msgid "Tip of the Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "আজিৰ উপদেশ"
 
-#: ktipdialog.cpp:255
+#: ktipdialog.cpp:256
 #, fuzzy, kde-format
 #| msgid "Did you know...?\n"
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "আপুনি জানে নে...?\n"
 
-#: ktipdialog.cpp:307
+#: ktipdialog.cpp:310
 #, fuzzy, kde-format
 #| msgid "&Show tips on startup"
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
 
-#: ktipdialog.cpp:312
+#: ktipdialog.cpp:315
 #, fuzzy, kde-format
 #| msgid "&Previous"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "আগৰ (&P)"
 
-#: ktipdialog.cpp:317
+#: ktipdialog.cpp:320
 #, fuzzy, kde-format
 #| msgid "&Next"
 msgctxt "@action:button Goes to next tip, opposite to previous"
