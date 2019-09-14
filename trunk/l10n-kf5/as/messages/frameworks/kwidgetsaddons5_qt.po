@@ -2737,7 +2737,7 @@ msgctxt "KMimeTypeChooser|"
 msgid "Click this button to display the familiar KDE mime type editor."
 msgstr ""
 
-#: knewpassworddialog.cpp:71
+#: knewpassworddialog.cpp:69
 #, fuzzy, qt-format
 #| msgid "Password must be at least 1 character long"
 #| msgid_plural "Password must be at least %1 characters long"
@@ -2747,35 +2747,35 @@ msgid_plural "Password must be at least %n character(s) long."
 msgstr[0] "গুপ্তশব্দ অতি কমেও ১ টা আখৰ দীঘল হোৱা আৱশ্যক"
 msgstr[1] "গুপ্তশব্দ অতি কমেও ১ টা আখৰ দীঘল হোৱা আৱশ্যক"
 
-#: knewpassworddialog.cpp:75
+#: knewpassworddialog.cpp:73
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
 msgid "Password is empty."
 msgstr "গুপ্তশব্দ ৰিক্ত"
 
-#: knewpassworddialog.cpp:79
+#: knewpassworddialog.cpp:77
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords do not match."
 msgstr "গুপ্তশব্দ অমিল"
 
-#: knewpassworddialog.cpp:84
+#: knewpassworddialog.cpp:82
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords match."
 msgstr "গুপ্তশব্দ মিলে"
 
-#: knewpassworddialog.cpp:139
+#: knewpassworddialog.cpp:152
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "গুপ্তশব্দ কমযোৰ"
 
-#: knewpassworddialog.cpp:140
+#: knewpassworddialog.cpp:153
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
@@ -2818,61 +2818,61 @@ msgctxt "KNewPasswordWidget|"
 msgid "Password strength &meter:"
 msgstr "গুপ্তশব্দ শক্তিৰ মাপকাঠি:"
 
-#: kpassworddialog.cpp:64
+#: kpassworddialog.cpp:63
 #, fuzzy
 #| msgid "Password"
 msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "গুপ্তশব্দ"
 
-#: kpassworddialog.cpp:104
+#: kpassworddialog.cpp:103
 #, fuzzy
 #| msgid "Supply a username and password below."
 msgctxt "KPasswordDialog|"
 msgid "Supply a password below."
 msgstr "তলত এটা ব্যৱহাৰকৰোঁতাৰ নাম আৰু গুপ্তশব্দ দিয়ক ।"
 
-#: kpassworddialog.ui:26
+#: kpassworddialog.ui:33
 #, fuzzy
 #| msgid "Supply a username and password below."
 msgctxt "KPasswordDialog|"
 msgid "Supply a username and password below."
 msgstr "তলত এটা ব্যৱহাৰকৰোঁতাৰ নাম আৰু গুপ্তশব্দ দিয়ক ।"
 
-#: kpassworddialog.ui:63
+#: kpassworddialog.ui:70
 msgctxt "KPasswordDialog|"
 msgid "No password, use anonymous (or &guest) login"
 msgstr ""
 
-#: kpassworddialog.ui:70
+#: kpassworddialog.ui:77
 #, fuzzy
 #| msgid "&Keep password"
 msgctxt "KPasswordDialog|"
 msgid "Use this password:"
 msgstr "গুপ্তশব্দ ৰখা হ'ব (&K)"
 
-#: kpassworddialog.ui:95
+#: kpassworddialog.ui:102
 #, fuzzy
 #| msgid "Username:"
 msgctxt "KPasswordDialog|"
 msgid "Username:"
 msgstr "ব্যৱহাৰকৰোঁতা:"
 
-#: kpassworddialog.ui:109
+#: kpassworddialog.ui:116
 #, fuzzy
 #| msgid "Domain:"
 msgctxt "KPasswordDialog|"
 msgid "Domain:"
 msgstr "ডোমেইন:"
 
-#: kpassworddialog.ui:123
+#: kpassworddialog.ui:130
 #, fuzzy
 #| msgid "Password:"
 msgctxt "KPasswordDialog|"
 msgid "Password:"
 msgstr "গুপ্তশব্দ:"
 
-#: kpassworddialog.ui:137
+#: kpassworddialog.ui:144
 #, fuzzy
 #| msgid "Remember password"
 msgctxt "KPasswordDialog|"
