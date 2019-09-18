@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-01 01:23+0000\n"
+"POT-Creation-Date: 2019-09-18 01:49+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -72,7 +72,7 @@ msgctxt "Name"
 msgid "System Information"
 msgstr "PCI ৰ তথ্য"
 
-#: Modules/about-distro/src/about-distro.desktop:64
+#: Modules/about-distro/src/about-distro.desktop:65
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Information about available protocols"
@@ -151,12 +151,12 @@ msgctxt "Name"
 msgid "DMA-Channels"
 msgstr "DMA-Channels"
 
-#: Modules/info/dma.desktop:106
+#: Modules/info/dma.desktop:105
 msgctxt "Comment"
 msgid "DMA information"
 msgstr "DMA তথ্য"
 
-#: Modules/info/dma.desktop:198
+#: Modules/info/dma.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "dma,DMA-Channels,System Information"
 msgstr ""
@@ -166,12 +166,12 @@ msgctxt "Name"
 msgid "Interrupts"
 msgstr "Interrupts"
 
-#: Modules/info/interrupts.desktop:106
+#: Modules/info/interrupts.desktop:105
 msgctxt "Comment"
 msgid "Interrupt information"
 msgstr "Interrupt তথ্য"
 
-#: Modules/info/interrupts.desktop:198
+#: Modules/info/interrupts.desktop:196
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Interrupt information"
@@ -184,12 +184,12 @@ msgctxt "Name"
 msgid "IO-Ports"
 msgstr "IO-Ports"
 
-#: Modules/info/ioports.desktop:106
+#: Modules/info/ioports.desktop:105
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr "IO-port তথ্য"
 
-#: Modules/info/ioports.desktop:198
+#: Modules/info/ioports.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
 msgstr ""
@@ -225,7 +225,7 @@ msgctxt "Comment"
 msgid "X-Server information"
 msgstr "X-Server ৰ তথ্য"
 
-#: Modules/info/xserver.desktop:197
+#: Modules/info/xserver.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
 msgstr ""
@@ -240,7 +240,7 @@ msgctxt "Comment"
 msgid "Memory information"
 msgstr "স্মৃতিশক্তিৰ তথ্য"
 
-#: Modules/memory/kcm_memory.desktop:197
+#: Modules/memory/kcm_memory.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
@@ -299,7 +299,7 @@ msgctxt "Comment"
 msgid "Samba status monitor"
 msgstr "Samba ৰ অৱস্থাৰ নিৰীক্ষণ"
 
-#: Modules/samba/smbstatus.desktop:196
+#: Modules/samba/smbstatus.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "SMB,SAMBA,Windows network,LAN,System Information"
 msgstr ""
@@ -314,7 +314,7 @@ msgctxt "Comment"
 msgid "USB devices attached to this computer"
 msgstr "এই কম্পিউটাৰৰ সৈতে সংযুক্ত USB যন্ত্ৰ"
 
-#: Modules/usbview/kcmusb.desktop:187
+#: Modules/usbview/kcmusb.desktop:186
 msgctxt "X-KDE-Keywords"
 msgid "USB,devices,viewer,control"
 msgstr ""
@@ -342,12 +342,12 @@ msgctxt "Name"
 msgid "Info Center"
 msgstr "তথ্য কেন্দ্ৰ"
 
-#: org.kde.kinfocenter.desktop:49
+#: org.kde.kinfocenter.desktop:50
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "তথ্য কেন্দ্ৰ"
 
-#: org.kde.kinfocenter.desktop:139
+#: org.kde.kinfocenter.desktop:140
 msgctxt "Comment"
 msgid "Centralized and convenient overview of system information"
 msgstr ""
