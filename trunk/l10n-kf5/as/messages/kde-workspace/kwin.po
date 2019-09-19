@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-17 03:28+0200\n"
+"POT-Creation-Date: 2019-09-19 03:15+0200\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1557,14 +1557,14 @@ msgstr ""
 "kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা "
 "বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
-#: main_x11.cpp:423
+#: main_x11.cpp:424
 #, kde-format
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr ""
 "ইতিমধ্যে চলি থকা ICCCM2.0 ৰ সৈতে সুসঙ্গত সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থাক প্ৰতিস্থাপন "
 "কৰক"
 
-#: main_x11.cpp:430
+#: main_x11.cpp:431
 #, kde-format
 msgid "Disable KActivities integration."
 msgstr ""
