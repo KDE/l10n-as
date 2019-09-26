@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-25 01:38+0000\n"
+"POT-Creation-Date: 2019-09-26 01:31+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -587,7 +587,7 @@ msgctxt "Name"
 msgid "Plasma Style"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:37
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:38
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -595,7 +595,7 @@ msgctxt "Comment"
 msgid "Choose Plasma style"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:60
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:62
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -603,7 +603,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme,Plasma Theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/desktoptheme/package/metadata.desktop:26
+#: kcms/desktoptheme/package/metadata.desktop:27
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -687,7 +687,7 @@ msgctxt "Comment"
 msgid "Calibrate Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/hardware/joystick/joystick.desktop:42
+#: kcms/hardware/joystick/joystick.desktop:43
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -695,7 +695,7 @@ msgctxt "Name"
 msgid "Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/hardware/joystick/joystick.desktop:68
+#: kcms/hardware/joystick/joystick.desktop:70
 msgctxt "X-KDE-Keywords"
 msgid "joystick,gamepad,controller"
 msgstr ""
@@ -932,13 +932,13 @@ msgctxt "Name"
 msgid "Global Theme"
 msgstr "ডেস্কট'প"
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:38
-#: kcms/lookandfeel/package/metadata.desktop:26
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:39
+#: kcms/lookandfeel/package/metadata.desktop:27
 msgctxt "Comment"
 msgid "Choose global look and feel"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:61
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:63
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
@@ -1419,13 +1419,13 @@ msgctxt "Name"
 msgid "General Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:34
-#: kcms/workspaceoptions/package/metadata.desktop:25
+#: kcms/workspaceoptions/kcm_workspace.desktop:35
+#: kcms/workspaceoptions/package/metadata.desktop:26
 msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:57
+#: kcms/workspaceoptions/kcm_workspace.desktop:59
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
