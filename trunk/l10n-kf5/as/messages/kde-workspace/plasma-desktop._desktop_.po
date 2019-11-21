@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-18 02:31+0000\n"
+"POT-Creation-Date: 2019-11-21 02:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -377,7 +377,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/baloo/package/metadata.desktop:26
+#: kcms/baloo/package/metadata.desktop:27
 msgctxt "Comment"
 msgid "Configure the File Indexer"
 msgstr ""
