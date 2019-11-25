@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 02:53+0100\n"
+"POT-Creation-Date: 2019-11-25 02:49+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -500,13 +500,6 @@ msgstr "অনুসন্ধান (&S)"
 msgid "About"
 msgstr "বিষয়ে (&A)"
 
-#: kpluginselector.cpp:821
-#, fuzzy, kde-format
-#| msgid "About %1"
-msgctxt "Used only for plugins"
-msgid "About %1"
-msgstr "%1 ৰ বিষয়ে"
-
 #: ksettings/componentsdialog.cpp:56
 #, kde-format
 msgid "Select Components"
@@ -516,6 +509,12 @@ msgstr "সামগ্ৰী নিৰ্ব্বাচন কৰক"
 #, kde-format
 msgid "Enable component"
 msgstr "অংশ সক্ৰিয়া কৰক"
+
+#, fuzzy
+#~| msgid "About %1"
+#~ msgctxt "Used only for plugins"
+#~ msgid "About %1"
+#~ msgstr "%1 ৰ বিষয়ে"
 
 #~ msgid "Search Plugins"
 #~ msgstr "প্লাগ-ইন অনুসন্ধান"
