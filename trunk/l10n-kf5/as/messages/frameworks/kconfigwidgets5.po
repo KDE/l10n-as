@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 02:51+0100\n"
+"POT-Creation-Date: 2019-12-11 02:50+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -549,8 +549,9 @@ msgid "&Save Settings"
 msgstr "বৈশিষ্ট্য সংৰক্ষণ কৰক (&S)"
 
 #: kstandardaction_p.h:105
-#, kde-format
-msgid "Configure S&hortcuts..."
+#, fuzzy, kde-format
+#| msgid "Configure S&hortcuts..."
+msgid "Configure Keyboard S&hortcuts..."
 msgstr "চমুপথ বিন্যাস কৰক...(&h)"
 
 #: kstandardaction_p.h:106

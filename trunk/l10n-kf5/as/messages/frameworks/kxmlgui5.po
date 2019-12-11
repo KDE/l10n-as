@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-03 02:58+0100\n"
+"POT-Creation-Date: 2019-12-11 02:55+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1050,8 +1050,9 @@ msgid "Manage &Schemes"
 msgstr "নতুন আঁচনি"
 
 #: kshortcutsdialog.cpp:154
-#, kde-format
-msgid "Configure Shortcuts"
+#, fuzzy, kde-format
+#| msgid "Configure Shortcuts"
+msgid "Configure Keyboard Shortcuts"
 msgstr "চমুপথ বিন্যাস কৰক"
 
 #. i18n: ectx: property (whatsThis), widget (KTreeWidgetSearchLineWidget, searchFilter)
