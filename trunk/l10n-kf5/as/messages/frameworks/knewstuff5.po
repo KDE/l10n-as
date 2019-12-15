@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-11 02:53+0100\n"
+"POT-Creation-Date: 2019-12-15 02:57+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -602,10 +602,26 @@ msgctxt ""
 msgid "Stuff"
 msgstr ""
 
-#: qtquick/qml/Button.qml:59 qtquick/qml/Dialog.qml:55
+#: qtquick/qml/Button.qml:59
 #, kde-format
 msgid "Download New %1"
 msgstr "নতুন %1 ডাউনলোড কৰক"
+
+#: qtquick/qml/Dialog.qml:55
+#, fuzzy, kde-format
+#| msgid "Download New %1"
+msgctxt "The dialog title when we know which type of stuff is being requested"
+msgid "Download New %1"
+msgstr "নতুন %1 ডাউনলোড কৰক"
+
+#: qtquick/qml/Dialog.qml:55
+#, fuzzy, kde-format
+#| msgid "Download New Stuff"
+msgctxt ""
+"A placeholder title used in the dialog when there is no better title "
+"available"
+msgid "Download New Stuff"
+msgstr "নতুন বস্তু ডাউনলোড কৰক"
 
 #: qtquick/qml/Dialog.qml:100
 #, kde-format
@@ -11861,11 +11877,6 @@ msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
 #~ msgctxt "Sorting order of the list of items in get hot new stuff"
 #~ msgid "Most Downloads"
 #~ msgstr "সৰ্বাধিকবাৰ ডাউন্‌লোড কৰা হৈছে"
-
-#, fuzzy
-#~| msgid "Download New Stuff"
-#~ msgid "Download New Stuff"
-#~ msgstr "নতুন বস্তু ডাউনলোড কৰক"
 
 #~ msgid ""
 #~ "The slot asked for %1 arguments but there are only %2 arguments available."
