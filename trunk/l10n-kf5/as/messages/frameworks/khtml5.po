@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:56+0200\n"
+"POT-Creation-Date: 2019-12-23 02:51+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -348,12 +348,12 @@ msgstr[0] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 msgstr[1] "নথিপত্ৰ প্ৰেৰণ কৰক (&S)"
 
 #: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4963
-#: khtmlview.cpp:2877 khtmlview.cpp:2921
+#: khtmlview.cpp:2845 khtmlview.cpp:2889
 #, kde-format
 msgid "Submit"
 msgstr "জমা কৰক"
 
-#: html/html_formimpl.cpp:1900 khtmlview.cpp:2892 khtmlview.cpp:2927
+#: html/html_formimpl.cpp:1900 khtmlview.cpp:2860 khtmlview.cpp:2895
 #, kde-format
 msgid "Reset"
 msgstr "ৰি-সেট কৰক"
