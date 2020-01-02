@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-09 02:56+0200\n"
+"POT-Creation-Date: 2020-01-02 02:51+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -114,19 +114,19 @@ msgstr ""
 msgid "Configure Notifications"
 msgstr "সূচনাবাৰ্তা বিন্যাস কৰক"
 
-#: knotifyeventlist.cpp:89
+#: knotifyeventlist.cpp:90
 #, kde-format
 msgctxt "State of the notified event"
 msgid "State"
 msgstr "অৱস্থা"
 
-#: knotifyeventlist.cpp:89
+#: knotifyeventlist.cpp:90
 #, kde-format
 msgctxt "Title of the notified event"
 msgid "Title"
 msgstr "শিৰোনাম"
 
-#: knotifyeventlist.cpp:89
+#: knotifyeventlist.cpp:90
 #, kde-format
 msgctxt "Description of the notified event"
 msgid "Description"
