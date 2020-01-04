@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-19 02:41+0000\n"
+"POT-Creation-Date: 2020-01-04 02:58+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13,11 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#: about/konq_aboutpage.desktop:3
-msgctxt "Name"
-msgid "About-Page for Konqueror"
-msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
 
 #: kfmclient.desktop:10 kfmclient_dir.desktop:11 kfmclient_html.desktop:9
 #: kfmclient_war.desktop:9 konqbrowser.desktop:7 org.kde.konqueror.desktop:4
@@ -618,6 +613,11 @@ msgstr "বৈশিষ্ট্য"
 msgctxt "Name"
 msgid "Web SideBar Module"
 msgstr "Web SideBar Module"
+
+#: webenginepart/src/about/konq_aboutpage.desktop:3
+msgctxt "Name"
+msgid "About-Page for Konqueror"
+msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
 
 #: webenginepart/src/webenginepart.desktop:3
 msgctxt "Comment"
