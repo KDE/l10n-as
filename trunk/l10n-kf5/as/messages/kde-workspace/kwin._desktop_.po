@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-23 02:41+0000\n"
+"POT-Creation-Date: 2020-01-05 02:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -107,7 +107,7 @@ msgctxt "Name"
 msgid "Fading Popups"
 msgstr ""
 
-#: effects/fadingpopups/package/metadata.desktop:33
+#: effects/fadingpopups/package/metadata.desktop:34
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
 msgstr ""
@@ -160,7 +160,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr ""
 
-#: effects/logout/package/metadata.desktop:34
+#: effects/logout/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
 msgstr ""
@@ -229,7 +229,7 @@ msgctxt "Name"
 msgid "Scale"
 msgstr ""
 
-#: effects/scale/package/metadata.desktop:34
+#: effects/scale/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Make windows smoothly scale in and out when they are shown or hidden"
 msgstr ""
@@ -239,7 +239,7 @@ msgctxt "Name"
 msgid "Session Quit"
 msgstr ""
 
-#: effects/sessionquit/package/metadata.desktop:25
+#: effects/sessionquit/package/metadata.desktop:26
 msgctxt "Comment"
 msgid "Keep the desktop background alive during logout until the end"
 msgstr ""
@@ -356,7 +356,7 @@ msgctxt "Comment"
 msgid "Configure window titlebars and borders"
 msgstr ""
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:106
+#: kcmkwin/kwindecoration/kwindecoration.desktop:107
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
@@ -378,7 +378,7 @@ msgctxt "Comment"
 msgid "Configure navigation, number and layout of virtual desktops"
 msgstr ""
 
-#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:103
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -396,7 +396,7 @@ msgctxt "Comment"
 msgid "Configure compositor settings for desktop effects"
 msgstr ""
 
-#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:92
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
@@ -437,7 +437,7 @@ msgctxt "Name"
 msgid "Window Actions"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:40
+#: kcmkwin/kwinoptions/kwinactions.desktop:41
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -445,7 +445,7 @@ msgctxt "Comment"
 msgid "Configure mouse actions for windows and titlebars"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:68
+#: kcmkwin/kwinoptions/kwinactions.desktop:70
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -460,12 +460,12 @@ msgctxt "Name"
 msgid "Advanced Window Behavior"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:39
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:40
 msgctxt "Comment"
 msgid "Configure advanced window management options"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:67
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:69
 msgctxt "X-KDE-Keywords"
 msgid ""
 "unshade,unshading,shade,shading,border,hover,active borders,tiling,tabs,"
@@ -478,12 +478,12 @@ msgctxt "Name"
 msgid "Window Focus Behavior"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinfocus.desktop:38
+#: kcmkwin/kwinoptions/kwinfocus.desktop:39
 msgctxt "Comment"
 msgid "Configure window activation policy"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinfocus.desktop:65
+#: kcmkwin/kwinoptions/kwinfocus.desktop:67
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,auto raise,raise,click raise,keyboard,CDE,alt-tab,all desktop,focus "
@@ -499,12 +499,12 @@ msgctxt "Name"
 msgid "Window Movement"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:39
+#: kcmkwin/kwinoptions/kwinmoving.desktop:40
 msgctxt "Comment"
 msgid "Configure window movement options"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:66
+#: kcmkwin/kwinoptions/kwinmoving.desktop:68
 msgctxt "X-KDE-Keywords"
 msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr ""
@@ -519,7 +519,7 @@ msgctxt "Comment"
 msgid "Configure window actions and behavior"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinoptions.desktop:130
+#: kcmkwin/kwinoptions/kwinoptions.desktop:131
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,window behavior,window actions,animation,raise,auto raise,"
@@ -559,7 +559,7 @@ msgctxt "Comment"
 msgid "Configure active screen corners and edges"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:111
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
@@ -572,7 +572,7 @@ msgctxt "Name"
 msgid "Touch Screen"
 msgstr ""
 
-#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:52
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:53
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -580,7 +580,7 @@ msgctxt "Comment"
 msgid "Configure touch screen swipe gestures"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:80
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:81
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
@@ -628,7 +628,7 @@ msgctxt "Comment"
 msgid "Navigation Through Windows"
 msgstr ""
 
-#: kcmkwin/kwintabbox/kwintabbox.desktop:116
+#: kcmkwin/kwintabbox/kwintabbox.desktop:117
 msgctxt "X-KDE-Keywords"
 msgid ""
 "window,windows,switcher,window switcher,switching,window switching,alttab,"
