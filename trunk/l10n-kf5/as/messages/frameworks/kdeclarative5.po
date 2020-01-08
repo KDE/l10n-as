@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-19 02:48+0100\n"
+"POT-Creation-Date: 2020-01-08 02:55+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -103,7 +103,7 @@ msgstr "অসমৰ্থিত চাবি"
 #: quickaddons/configmodule.cpp:176
 #, fuzzy, kde-format
 #| msgid "invalid flags"
-msgid "Invalid KPackage"
+msgid "Invalid KPackage '%1'"
 msgstr "অবৈধ ফ্লেগ"
 
 #: quickaddons/configmodule.cpp:182
