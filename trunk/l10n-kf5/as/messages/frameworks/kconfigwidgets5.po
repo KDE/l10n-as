@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-30 02:51+0100\n"
+"POT-Creation-Date: 2020-02-07 03:03+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -390,13 +390,13 @@ msgstr "এটা সপ্তাহ নিৰ্ব্বাচন কৰক"
 
 #: kstandardaction_p.h:76
 #, kde-format
-msgid "&Redisplay"
-msgstr "পুনঃ প্ৰদৰ্শন (&R)"
+msgid "&Refresh"
+msgstr ""
 
 #: kstandardaction_p.h:76
 #, fuzzy, kde-format
 #| msgid "&Redisplay"
-msgid "Redisplay document"
+msgid "Refresh document"
 msgstr "পুনঃ প্ৰদৰ্শন (&R)"
 
 #: kstandardaction_p.h:78
@@ -673,6 +673,9 @@ msgstr "আগৰ (&P)"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "পিছৰ (&N)"
+
+#~ msgid "&Redisplay"
+#~ msgstr "পুনঃ প্ৰদৰ্শন (&R)"
 
 #~ msgid "without name"
 #~ msgstr "নাম নোহোৱা"
