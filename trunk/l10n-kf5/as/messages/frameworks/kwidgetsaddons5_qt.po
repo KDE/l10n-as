@@ -1860,14 +1860,14 @@ msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr "XML দশমিক এনটিটি:"
 
-#: kcharselect.cpp:1078
+#: kcharselect.cpp:1077
 #, fuzzy
 #| msgid "Unicode category: "
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr "ইউনিকোড শ্ৰেণী: "
 
-#: kcharselect.cpp:1079
+#: kcharselect.cpp:1078
 #, fuzzy
 #| msgid "XML decimal entity:"
 msgctxt "KCharSelectItemModel|Character"
