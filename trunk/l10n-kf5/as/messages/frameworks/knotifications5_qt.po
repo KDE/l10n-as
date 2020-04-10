@@ -19,6 +19,14 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "X-Qt-Contexts: true\n"
 
+#. Job name, e.g. Copying has failed
+#: knotificationjobuidelegate.cpp:39
+#, fuzzy, qt-format
+#| msgid "%1 (Link)"
+msgctxt "KNotificationJobUiDelegate|"
+msgid "%1 (Failed)"
+msgstr "%1 (Link)"
+
 #: knotificationrestrictions.cpp:192
 #, fuzzy
 #| msgid "Unknown Application"
@@ -6535,9 +6543,6 @@ msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা
 
 #~ msgid "Symbolic Link"
 #~ msgstr "সাঙ্কেতিক সংযোগ"
-
-#~ msgid "%1 (Link)"
-#~ msgstr "%1 (Link)"
 
 #, fuzzy
 #~ msgid "%2 (%1 byte)"
