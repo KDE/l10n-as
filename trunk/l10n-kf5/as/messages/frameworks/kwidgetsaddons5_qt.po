@@ -2505,21 +2505,21 @@ msgctxt "KFontChooserDialog|"
 msgid "Select Font"
 msgstr "আখৰ নিৰ্ব্বাচন কৰক"
 
-#: kfontrequester.cpp:219
+#: kfontrequester.cpp:215
 #, fuzzy
 #| msgid "Choose..."
 msgctxt "KFontRequester|"
 msgid "Choose Font..."
 msgstr "নিৰ্ব্বাচন কৰক..."
 
-#: kfontrequester.cpp:225
+#: kfontrequester.cpp:221
 #, fuzzy
 #| msgid "Preview of the selected font"
 msgctxt "KFontRequester|"
 msgid "Preview of the selected font"
 msgstr "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ প্ৰদৰ্শন"
 
-#: kfontrequester.cpp:226
+#: kfontrequester.cpp:222
 #, fuzzy
 #| msgid ""
 #| "This is a preview of the selected font. You can change it by clicking the "
@@ -2532,14 +2532,14 @@ msgstr ""
 "নিৰ্বাচিত আখৰৰ পূৰ্বৰূপ ইয়াত প্ৰদৰ্শন কৰা হৈছে । \"নিৰ্ব্বাচন কৰক...\" বুটাম ক্লিক কৰি "
 "এইটো পৰিবৰ্তন কৰা যাব ।"
 
-#: kfontrequester.cpp:229
+#: kfontrequester.cpp:225
 #, fuzzy, qt-format
 #| msgid "Preview of the \"%1\" font"
 msgctxt "KFontRequester|"
 msgid "Preview of the \"%1\" font"
 msgstr "\"%1\" আখৰৰ প্ৰদৰ্শিত পূৰ্বৰূপ"
 
-#: kfontrequester.cpp:230
+#: kfontrequester.cpp:226
 #, fuzzy, qt-format
 #| msgid ""
 #| "This is a preview of the \"%1\" font. You can change it by clicking the "
