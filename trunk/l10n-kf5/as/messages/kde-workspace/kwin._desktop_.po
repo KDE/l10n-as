@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-28 02:15+0000\n"
+"POT-Creation-Date: 2020-04-30 02:01+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -72,7 +72,7 @@ msgctxt "Name"
 msgid "Eye on Screen"
 msgstr ""
 
-#: effects/eyeonscreen/package/metadata.desktop:26
+#: effects/eyeonscreen/package/metadata.desktop:27
 msgctxt "Comment"
 msgid "Suck windows into the desktop"
 msgstr ""
@@ -580,7 +580,7 @@ msgctxt "Comment"
 msgid "Configure touch screen swipe gestures"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:84
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
