@@ -37,21 +37,21 @@ msgstr "অজ্ঞাত অনুপ্ৰয়োগ"
 #: kstatusnotifieritem.cpp:544 kstatusnotifieritem.cpp:1121
 #, fuzzy
 #| msgid "&Minimize"
-msgctxt "KStatusNotifierItem|"
+msgctxt "KStatusNotifierItem|@action:inmenu"
 msgid "&Minimize"
 msgstr "সৰ্বনিম্ন মাপ (&M)"
 
 #: kstatusnotifieritem.cpp:862
 #, fuzzy
 #| msgid "Quit"
-msgctxt "KStatusNotifierItem|"
+msgctxt "KStatusNotifierItem|@action:inmenu"
 msgid "Quit"
 msgstr "বাহিৰ হওক"
 
 #: kstatusnotifieritem.cpp:1119
 #, fuzzy
 #| msgid "&Restore"
-msgctxt "KStatusNotifierItem|"
+msgctxt "KStatusNotifierItem|@action:inmenu"
 msgid "&Restore"
 msgstr "পুনৰুদ্ধাৰ (&R)"
 
@@ -65,7 +65,7 @@ msgstr "<qt>আপুনি নিশ্চিতৰূপে <b>%1</b> ৰ প�
 #: kstatusnotifieritem.cpp:1136
 #, fuzzy
 #| msgid "Confirm Quit From System Tray"
-msgctxt "KStatusNotifierItem|"
+msgctxt "KStatusNotifierItem|@title:window"
 msgid "Confirm Quit From System Tray"
 msgstr "ব্যৱস্থাপ্ৰণালী ট্ৰে'ৰ পৰা প্ৰস্থান কৰা দৃঢ় কৰক"
 
