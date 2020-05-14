@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 07:42+0000\n"
+"POT-Creation-Date: 2020-01-29 07:22+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,15 +19,28 @@ msgctxt "Name"
 msgid "File Associations"
 msgstr "নথিপত্ৰৰ সম্বন্ধ"
 
-#: keditfiletype/filetypes.desktop:106
+#: keditfiletype/filetypes.desktop:105
 msgctxt "Comment"
 msgid "Configure file associations"
 msgstr "নথিপত্ৰৰ সম্বন্ধ বিন্যাস কৰক"
 
-#: keditfiletype/filetypes.desktop:197
+#: keditfiletype/filetypes.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
 msgstr ""
+
+#: keditfiletype/org.kde.keditfiletype.desktop:2
+msgctxt "Name"
+msgid "keditfiletype"
+msgstr ""
+
+#: keditfiletype/org.kde.keditfiletype.desktop:33
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Text Editor"
+msgctxt "GenericName"
+msgid "File Type Editor"
+msgstr "লিপি সম্পাদক"
 
 #, fuzzy
 #~| msgctxt "Name"
@@ -4585,10 +4598,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Bell in Visible Session"
 #~ msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
-
-#~ msgctxt "GenericName"
-#~ msgid "Text Editor"
-#~ msgstr "লিপি সম্পাদক"
 
 #~ msgctxt "Name"
 #~ msgid "KWrite"
