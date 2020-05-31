@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-27 02:58+0200\n"
+"POT-Creation-Date: 2020-05-31 17:57+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -43,12 +43,12 @@ msgid ""
 "qt>"
 msgstr "<qt><p>কাৰণ নিৰ্ণয়:<br />ডেস্কট'প নথিপত্ৰ %1 পোৱা নাযায় ।</p></qt>"
 
-#: kcmoduleloader.cpp:82
+#: kcmoduleloader.cpp:83
 #, kde-format
 msgid "The module %1 is disabled."
 msgstr "%1 অংশ নিষ্ক্ৰিয় কৰা হৈছে ।"
 
-#: kcmoduleloader.cpp:83
+#: kcmoduleloader.cpp:84
 #, kde-format
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
@@ -57,18 +57,18 @@ msgstr ""
 "<qt><p>সম্ভৱতঃ অংশ দ্বাৰা বিন্যাস হোৱা যান্ত্ৰিক সামগ্ৰী/চালনাজ্ঞান উপলব্ধ নহয় বা "
 "প্ৰশাসক দ্বাৰা অংশ নিষ্ক্ৰিয় কৰা হৈছে ।</p></qt>"
 
-#: kcmoduleloader.cpp:107
+#: kcmoduleloader.cpp:111
 #, fuzzy, kde-format
 #| msgid "Error loading '%1'.\n"
 msgid "Error loading QML file."
 msgstr "'%1' লোড কৰিবলৈ সমস্যা ।\n"
 
-#: kcmoduleloader.cpp:152
+#: kcmoduleloader.cpp:156
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "%1 অংশ বৈধ বিন্যাসৰ অংশ নহয় ।"
 
-#: kcmoduleloader.cpp:153
+#: kcmoduleloader.cpp:157
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The diagnostics is:<br />The desktop file %1 does not specify a "
@@ -80,7 +80,7 @@ msgstr ""
 "<qt>কাৰণ নিৰ্ণয়:<br />ডেস্কট'প নথিপত্ৰ %1 দ্বাৰা কোনো লাইব্ৰেৰি নিৰ্দেশিত নহয় ।</"
 "qt>"
 
-#: kcmoduleloader.cpp:168
+#: kcmoduleloader.cpp:172
 #, kde-format
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last system "
