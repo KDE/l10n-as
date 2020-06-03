@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-12 04:02+0200\n"
+"POT-Creation-Date: 2020-06-03 02:14+0200\n"
 "PO-Revision-Date: 2009-01-15 15:43+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -265,11 +265,6 @@ msgstr ""
 #: actions/dpms/powerdevildpmsactionconfig.cpp:61
 #, kde-format
 msgid "Switch off after"
-msgstr ""
-
-#: backends/upower/backlighthelper.cpp:205
-#, kde-format
-msgid "Can't open file"
 msgstr ""
 
 #: backends/upower/login1suspendjob.cpp:79
