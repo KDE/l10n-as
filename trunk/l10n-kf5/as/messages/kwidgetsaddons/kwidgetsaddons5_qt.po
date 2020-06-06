@@ -2724,14 +2724,14 @@ msgctxt "KNewPasswordDialog|@info"
 msgid "Passwords match."
 msgstr "গুপ্তশব্দ মিলে"
 
-#: knewpassworddialog.cpp:154
+#: knewpassworddialog.cpp:158
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|@title:window"
 msgid "Low Password Strength"
 msgstr "গুপ্তশব্দ কমযোৰ"
 
-#: knewpassworddialog.cpp:155
+#: knewpassworddialog.cpp:159
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
