@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-31 17:58+0200\n"
+"POT-Creation-Date: 2020-06-07 02:02+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -43,96 +43,96 @@ msgstr "ইন্টাৰ্নে'টত অনুসন্ধান"
 msgid "&Search"
 msgstr "অনুসন্ধান (&S)"
 
-#: browseropenorsavequestion.cpp:104
+#: browseropenorsavequestion.cpp:102
 #, fuzzy, kde-format
 #| msgid "Re: %1"
 msgctxt "@label Type of file"
 msgid "Type: %1"
 msgstr "পুনৰাবৃত্তি: %1"
 
-#: browseropenorsavequestion.cpp:112
+#: browseropenorsavequestion.cpp:110
 #, fuzzy, kde-format
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
 msgid "Remember action for files of this type"
 msgstr "পুনঃ এই বাৰ্তা প্ৰদৰ্শন কৰা ন'হ'ব"
 
-#: browseropenorsavequestion.cpp:164 browseropenorsavequestion.cpp:257
+#: browseropenorsavequestion.cpp:162 browseropenorsavequestion.cpp:255
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@label:button"
 msgid "&Open with %1"
 msgstr "'%1' সহযোগে খোলক (&O)"
 
-#: browseropenorsavequestion.cpp:231
+#: browseropenorsavequestion.cpp:229
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@action:inmenu"
 msgid "Open &with %1"
 msgstr "'%1' সহযোগে খোলক (&O)"
 
-#: browseropenorsavequestion.cpp:242 browseropenorsavequestion.cpp:337
+#: browseropenorsavequestion.cpp:240 browseropenorsavequestion.cpp:335
 #, fuzzy, kde-format
 #| msgid "Open '%1'"
 msgctxt "@info"
 msgid "Open '%1'?"
 msgstr "'%1' খোলক"
 
-#: browseropenorsavequestion.cpp:246
+#: browseropenorsavequestion.cpp:244
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with..."
 msgstr "চিহ্নিত সামগ্ৰী সহ খোলক...(&O)"
 
-#: browseropenorsavequestion.cpp:266
+#: browseropenorsavequestion.cpp:264
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with"
 msgstr "চিহ্নিত সামগ্ৰী সহ খোলক...(&O)"
 
-#: browseropenorsavequestion.cpp:334
+#: browseropenorsavequestion.cpp:332
 #, fuzzy, kde-format
 #| msgid "&Open"
 msgctxt "@label:button"
 msgid "&Open"
 msgstr "খোলক (&O)"
 
-#: browseropenorsavequestion.cpp:359
+#: browseropenorsavequestion.cpp:357
 #, fuzzy, kde-format
 #| msgid "Name: "
 msgctxt "@label File name"
 msgid "Name: %1"
 msgstr "নাম: "
 
-#: browseropenorsavequestion.cpp:361
+#: browseropenorsavequestion.cpp:359
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: browserrun.cpp:349
+#: browserrun.cpp:350
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "আপুনি নিশ্চিতৰূপে '%1' সঞ্চালন কৰিবলৈ ইচ্ছুক নে ?"
 
-#: browserrun.cpp:350
+#: browserrun.cpp:351
 #, kde-format
 msgid "Execute File?"
 msgstr "নথিপত্ৰ চলোৱা হ'ব নে ?"
 
-#: browserrun.cpp:350
+#: browserrun.cpp:351
 #, kde-format
 msgid "Execute"
 msgstr "চলাওক"
 
-#: browserrun.cpp:409
+#: browserrun.cpp:410
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Download Manager (%1) ক আপোনাৰ $PATH ত পোৱা ন'গ'ল"
 
-#: browserrun.cpp:410
+#: browserrun.cpp:411
 #, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -140,7 +140,7 @@ msgid ""
 "The integration with Konqueror will be disabled."
 msgstr ""
 
-#: browserrun.cpp:437
+#: browserrun.cpp:438
 #, kde-format
 msgid "Save As"
 msgstr "নতুন ৰূপে সংৰক্ষণ"
@@ -155,7 +155,7 @@ msgstr "গ্ৰহণ কৰা হ'ব"
 msgid "Reject"
 msgstr "প্ৰত্যাখ্যান কৰা হ'ব"
 
-#: partloader.cpp:181
+#: partloader.cpp:182
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' does not provide an interface '%2' with keyword '%3'"
@@ -164,7 +164,7 @@ msgstr ""
 "'%1' সেৱা দ্বাৰা '%3' প্ৰাসঙ্গিক শব্দ অৰ্থাৎ গুপ্তশব্দ সহ '%2' সংযোগক্ষেত্ৰ উপলব্ধ কৰা "
 "নহয় ।"
 
-#: partloader.cpp:196
+#: partloader.cpp:197
 #, fuzzy, kde-format
 #| msgid "No handler found for %1."
 msgid "No part was found for mimeType %1"
