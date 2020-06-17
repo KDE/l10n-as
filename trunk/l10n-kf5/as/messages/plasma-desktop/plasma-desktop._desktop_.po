@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-17 00:19+0000\n"
+"POT-Creation-Date: 2020-06-17 09:49+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1439,7 +1439,7 @@ msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: kcms/users/kcm_users.desktop:28
+#: kcms/users/kcm_users.desktop:29
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -1447,7 +1447,7 @@ msgctxt "Comment"
 msgid "Manage user accounts"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcms/users/kcm_users.desktop:46
+#: kcms/users/kcm_users.desktop:48
 msgctxt "X-KDE-Keywords"
 msgid "user,account"
 msgstr ""
@@ -1457,7 +1457,7 @@ msgctxt "Name"
 msgid "User Accounts"
 msgstr ""
 
-#: kcms/users/package/metadata.desktop:20
+#: kcms/users/package/metadata.desktop:21
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panama"
