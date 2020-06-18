@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-11 00:34+0000\n"
+"POT-Creation-Date: 2020-06-18 00:37+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Open Terminal Here"
 msgstr ""
 
-#: desktop/konsolehere.desktop:105
+#: desktop/konsolehere.desktop:104
 msgctxt "Comment"
 msgid "Opens a terminal at the current folder"
 msgstr ""
@@ -29,7 +29,7 @@ msgctxt "Comment"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: desktop/konsole.notifyrc:96
+#: desktop/konsole.notifyrc:95
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -37,12 +37,12 @@ msgctxt "Name"
 msgid "Bell in Focused Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:132
+#: desktop/konsole.notifyrc:130
 msgctxt "Comment"
 msgid "Bell emitted within a focused session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:171
+#: desktop/konsole.notifyrc:168
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -50,52 +50,52 @@ msgctxt "Name"
 msgid "Bell in Non-Focused Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:207
+#: desktop/konsole.notifyrc:203
 msgctxt "Comment"
 msgid "Bell emitted within a non-focused session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:247
+#: desktop/konsole.notifyrc:242
 msgctxt "Name"
 msgid "Activity in Non-Focused Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:283
+#: desktop/konsole.notifyrc:277
 msgctxt "Comment"
 msgid "Activity detected in a non-focused monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:322
+#: desktop/konsole.notifyrc:315
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:402
+#: desktop/konsole.notifyrc:394
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:489
+#: desktop/konsole.notifyrc:480
 msgctxt "Name"
 msgid "Silence in Non-Focused Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:525
+#: desktop/konsole.notifyrc:515
 msgctxt "Comment"
 msgid "Silence detected in a non-focused monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:564
+#: desktop/konsole.notifyrc:553
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:644
+#: desktop/konsole.notifyrc:632
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:731
+#: desktop/konsole.notifyrc:718
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -103,27 +103,27 @@ msgctxt "Name"
 msgid "Process finished in Non-Focused Monitored Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:746
+#: desktop/konsole.notifyrc:732
 msgctxt "Comment"
 msgid "Process finished in a non-focused monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:764
+#: desktop/konsole.notifyrc:749
 msgctxt "Name"
 msgid "Process finished in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:780
+#: desktop/konsole.notifyrc:764
 msgctxt "Comment"
 msgid "Process finished in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:799
+#: desktop/konsole.notifyrc:782
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr ""
 
-#: desktop/konsole.notifyrc:882
+#: desktop/konsole.notifyrc:864
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr ""
@@ -133,8 +133,8 @@ msgctxt "Name"
 msgid "Terminal Emulator"
 msgstr ""
 
-#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:194
-#: desktop/terminalemulator.desktop:98
+#: desktop/konsolepart.desktop:106 desktop/org.kde.konsole.desktop:192
+#: desktop/terminalemulator.desktop:97
 msgctxt "Comment"
 msgid "Command line access"
 msgstr ""
@@ -147,7 +147,7 @@ msgctxt "Name"
 msgid "Run In Konsole"
 msgstr "Konsole"
 
-#: desktop/konsolerun.desktop:62
+#: desktop/konsolerun.desktop:61
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Konsole"
@@ -160,17 +160,17 @@ msgctxt "Name"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: desktop/org.kde.konsole.desktop:108
+#: desktop/org.kde.konsole.desktop:107
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
 
-#: desktop/org.kde.konsole.desktop:238
+#: desktop/org.kde.konsole.desktop:235
 msgctxt "Name"
 msgid "Open a New Window"
 msgstr ""
 
-#: desktop/org.kde.konsole.desktop:290
+#: desktop/org.kde.konsole.desktop:286
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
