@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-18 05:25+0000\n"
+"POT-Creation-Date: 2020-06-19 04:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "KHelpCenter"
 msgstr ""
 
-#: khelpcenter.desktop:93
+#: khelpcenter.desktop:94
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "More Applications"
@@ -32,7 +32,7 @@ msgctxt "Name"
 msgid "Help"
 msgstr "সহায়"
 
-#: org.kde.Help.desktop:101
+#: org.kde.Help.desktop:102
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Info Center"
@@ -40,7 +40,7 @@ msgctxt "GenericName"
 msgid "Help Center"
 msgstr "তথ্য কেন্দ্ৰ"
 
-#: org.kde.Help.desktop:145
+#: org.kde.Help.desktop:147
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Browser Identification"
