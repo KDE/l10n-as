@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-08 02:02+0200\n"
+"POT-Creation-Date: 2020-06-20 02:00+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -603,9 +603,10 @@ msgid "&Report Bug..."
 msgstr "বাগ প্ৰতিবেদন কৰক...(&R)"
 
 #: kstandardaction_p.h:119
-#, kde-format
-msgid "Switch Application &Language..."
-msgstr "অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰক...(&L)"
+#, fuzzy, kde-format
+#| msgid "Configure Email..."
+msgid "Configure &Language..."
+msgstr "ঈ-মেইল বিন্যাস কৰক..."
 
 #: kstandardaction_p.h:120
 #, kde-format
@@ -673,6 +674,9 @@ msgstr "আগৰ (&P)"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "পিছৰ (&N)"
+
+#~ msgid "Switch Application &Language..."
+#~ msgstr "অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰক...(&L)"
 
 #~ msgid "&Redisplay"
 #~ msgstr "পুনঃ প্ৰদৰ্শন (&R)"
@@ -3391,9 +3395,6 @@ msgstr "পিছৰ (&N)"
 #~ msgctxt "Email sender address"
 #~ msgid "From:"
 #~ msgstr "প্ৰেৰক:"
-
-#~ msgid "Configure Email..."
-#~ msgstr "ঈ-মেইল বিন্যাস কৰক..."
 
 #~ msgid "The email address this bug report is sent to."
 #~ msgstr "এই বাগ প্ৰতিবেদন যি ঈ-মেইল ঠিকনাত প্ৰেৰিত হৈছে ।"

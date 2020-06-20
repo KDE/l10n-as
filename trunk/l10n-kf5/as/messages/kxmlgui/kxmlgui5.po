@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-05 02:01+0200\n"
+"POT-Creation-Date: 2020-06-20 02:01+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -772,7 +772,7 @@ msgid "Change Icon"
 msgstr "আইকন পৰিবৰ্তন কৰক"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:172 ui_standards.rc:177
+#: khelpmenu.cpp:172 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "সহায় (&H)"
@@ -1266,10 +1266,10 @@ msgstr "%1"
 
 #: kswitchlanguagedialog_p.cpp:159
 #, fuzzy, kde-format
-#| msgid "Switch Application Language"
+#| msgid "Configure"
 msgctxt "@title:window"
-msgid "Switch Application Language"
-msgstr "অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰক"
+msgid "Configure Language"
+msgstr "বিন্যাস কৰক"
 
 #: kswitchlanguagedialog_p.cpp:164
 #, kde-format
@@ -1566,10 +1566,16 @@ msgid "&Settings"
 msgstr "পছন্দ (&S)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: ui_standards.rc:196
+#: ui_standards.rc:195
 #, kde-format
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
+
+#, fuzzy
+#~| msgid "Switch Application Language"
+#~ msgctxt "@title:window"
+#~ msgid "Switch Application Language"
+#~ msgstr "অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰক"
 
 #~ msgid "Compiler:"
 #~ msgstr "সংকলক:"
@@ -4518,9 +4524,6 @@ msgstr "প্ৰধান টুল-বাৰ"
 
 #~ msgid "Finish"
 #~ msgstr "সমাপ্ত"
-
-#~ msgid "Configure"
-#~ msgstr "বিন্যাস কৰক"
 
 #~ msgid "Job"
 #~ msgstr "কাৰ্য্য"
