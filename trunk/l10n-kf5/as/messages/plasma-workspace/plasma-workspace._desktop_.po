@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-23 00:23+0000\n"
+"POT-Creation-Date: 2020-06-26 00:28+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -180,7 +180,7 @@ msgctxt "Name"
 msgid "Individual Core Usage"
 msgstr ""
 
-#: applets/systemmonitor/coreusage/metadata.desktop:24
+#: applets/systemmonitor/coreusage/metadata.desktop:25
 msgctxt "Comment"
 msgid "System monitor Widget that shows usage of individual CPU cores"
 msgstr ""
@@ -190,7 +190,7 @@ msgctxt "Name"
 msgid "Total CPU Use"
 msgstr ""
 
-#: applets/systemmonitor/cpu/metadata.desktop:26
+#: applets/systemmonitor/cpu/metadata.desktop:27
 msgctxt "Comment"
 msgid "System monitor Widget that shows the total CPU usage"
 msgstr ""
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "Hard Disk Activity"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: applets/systemmonitor/diskactivity/metadata.desktop:26
+#: applets/systemmonitor/diskactivity/metadata.desktop:27
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
@@ -213,7 +213,7 @@ msgctxt "Name"
 msgid "Disk Usage"
 msgstr ""
 
-#: applets/systemmonitor/diskusage/metadata.desktop:26
+#: applets/systemmonitor/diskusage/metadata.desktop:27
 msgctxt "Comment"
 msgid "System monitor Widget that shows the usage of the root partition"
 msgstr ""
@@ -226,7 +226,7 @@ msgctxt "Name"
 msgid "Memory Usage"
 msgstr "Samba ৰ অৱস্থা"
 
-#: applets/systemmonitor/memory/metadata.desktop:26
+#: applets/systemmonitor/memory/metadata.desktop:27
 msgctxt "Comment"
 msgid "System monitor Widget that shows physical memory usage"
 msgstr ""
@@ -239,7 +239,7 @@ msgctxt "Name"
 msgid "Network speed"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
-#: applets/systemmonitor/net/metadata.desktop:26
+#: applets/systemmonitor/net/metadata.desktop:27
 msgctxt "Comment"
 msgid "System monitor Widget that shows the download and upload data rate"
 msgstr ""
