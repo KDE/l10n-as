@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-07 00:32+0000\n"
+"POT-Creation-Date: 2020-07-09 00:32+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -613,27 +613,6 @@ msgstr "ডেস্কট'প"
 msgctxt "Name"
 msgid "Plasma Styles"
 msgstr ""
-
-#: kcms/emoticons/emoticons.desktop:13 kcms/emoticons/emoticons.knsrc:2
-msgctxt "Name"
-msgid "Emoticons"
-msgstr "ভাব-প্ৰতীক"
-
-#: kcms/emoticons/emoticons.desktop:98
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Comment"
-msgid "Choose emoticon theme"
-msgstr "ডেস্কট'প"
-
-#: kcms/emoticons/emoticons.desktop:134
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Emoticons"
-msgctxt "X-KDE-Keywords"
-msgid "Emoticons"
-msgstr "ভাব-প্ৰতীক"
 
 #: kcms/fonts/kcm_fonts.desktop:14 kcms/fonts/package/metadata.desktop:2
 #: kcms/kfontinst/kcmfontinst/kfontinst.knsrc:2
@@ -1602,6 +1581,24 @@ msgstr "ডেস্কট'প"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#~ msgctxt "Name"
+#~ msgid "Emoticons"
+#~ msgstr "ভাব-প্ৰতীক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Choose emoticon theme"
+#~ msgstr "ডেস্কট'প"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Emoticons"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Emoticons"
+#~ msgstr "ভাব-প্ৰতীক"
 
 #, fuzzy
 #~| msgctxt "Comment"
