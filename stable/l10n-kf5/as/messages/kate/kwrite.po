@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-27 02:22+0200\n"
+"POT-Creation-Date: 2020-07-12 08:06+0200\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -59,13 +59,13 @@ msgid "&Settings"
 msgstr "পছন্দ (&S)"
 
 #. i18n: ectx: Menu (help)
-#: data/kwriteui.rc:55
+#: data/kwriteui.rc:56
 #, kde-format
 msgid "&Help"
 msgstr "সহায় (&H)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: data/kwriteui.rc:60
+#: data/kwriteui.rc:61
 #, kde-format
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
@@ -140,28 +140,28 @@ msgstr "কোনবোৰ বস্তু টুলবাৰ(সমূহ)ত �
 msgid "&About Editor Component"
 msgstr "&About সম্পাদক উপাদান"
 
-#: kwrite.cpp:242 kwrite.cpp:244
+#: kwrite.cpp:239
 #, kde-format
 msgid "Open File"
 msgstr "ফাইল খোলক"
 
-#: kwrite.cpp:289
+#: kwrite.cpp:283
 #, kde-format
 msgid ""
 "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
-#: kwrite.cpp:292
+#: kwrite.cpp:286
 #, kde-format
 msgid "Hide menu bar"
 msgstr ""
 
-#: kwrite.cpp:456
+#: kwrite.cpp:450
 #, kde-format
 msgid " [read only]"
 msgstr ""
 
-#: kwrite.cpp:460
+#: kwrite.cpp:454
 #, kde-format
 msgid "Untitled"
 msgstr "শিৰোনাম নোহোৱা"
