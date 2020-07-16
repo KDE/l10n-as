@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-15 06:03+0000\n"
+"POT-Creation-Date: 2020-07-16 05:50+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -103,7 +103,7 @@ msgctxt "Name"
 msgid "Process finished in Non-Focused Monitored Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:764
+#: desktop/konsole.notifyrc:765
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -111,7 +111,7 @@ msgctxt "Comment"
 msgid "Process finished in a non-focused monitored session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:787
+#: desktop/konsole.notifyrc:789
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -119,7 +119,7 @@ msgctxt "Name"
 msgid "Process finished in Monitored Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:808
+#: desktop/konsole.notifyrc:811
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -127,12 +127,12 @@ msgctxt "Comment"
 msgid "Process finished in a monitored session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:832
+#: desktop/konsole.notifyrc:836
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr ""
 
-#: desktop/konsole.notifyrc:916
+#: desktop/konsole.notifyrc:920
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr ""
