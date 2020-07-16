@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-29 02:01+0200\n"
+"POT-Creation-Date: 2020-07-16 02:01+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -114,7 +114,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "বৈশিষ্ট্য"
 
-#: kcmultidialog.cpp:239 kpluginselector.cpp:745
+#: kcmultidialog.cpp:239 kpluginselector.cpp:746
 #, kde-format
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
@@ -421,7 +421,7 @@ msgstr "গুপ্তশব্দৰ echo ধৰণ"
 msgid "The size of the dialog"
 msgstr "সম্বাদৰ মাপ"
 
-#: kpluginselector.cpp:139
+#: kpluginselector.cpp:140
 #, kde-format
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
@@ -430,7 +430,7 @@ msgstr ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে স্বয়ংক্ৰিয় পৰিবৰ্তন সম্পন্ন কৰা হৈছে । "
 "অধিক বিৱৰণৰ বাবে চিহ্নিত স্থানত টিপক"
 
-#: kpluginselector.cpp:207
+#: kpluginselector.cpp:208
 #, kde-format
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
@@ -439,7 +439,7 @@ msgstr ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে স্বয়ংক্ৰিয়ৰূপে পৰিবৰ্তন সম্পন্ন কৰা "
 "হৈছে:\n"
 
-#: kpluginselector.cpp:211
+#: kpluginselector.cpp:212
 #, kde-format
 msgid ""
 "\n"
@@ -449,7 +449,7 @@ msgstr ""
 "\n"
 "    %1 প্লাগ-ইন %2 প্লাগ-ইনৰ ওপৰ নিৰ্ভৰতাৰ ফলত স্বয়ংক্ৰিয়ৰূপে নিৰ্ব্বাচন কৰা হৈছে"
 
-#: kpluginselector.cpp:213
+#: kpluginselector.cpp:214
 #, kde-format
 msgid ""
 "\n"
@@ -460,12 +460,12 @@ msgstr ""
 "    %1 প্লাগ-ইন %2 প্লাগ-ইনৰ ওপৰত নিৰ্ভৰতাৰ ফলত স্বয়ংক্ৰিয়ৰূপে নিৰ্ব্বাচনৰ পৰা আঁতৰুৱা "
 "হৈছে"
 
-#: kpluginselector.cpp:216
+#: kpluginselector.cpp:217
 #, kde-format
 msgid "Dependency Check"
 msgstr "নিৰ্ভৰতা পৰীক্ষণ"
 
-#: kpluginselector.cpp:233
+#: kpluginselector.cpp:234
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
@@ -474,12 +474,12 @@ msgstr[0] ""
 msgstr[1] ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে যোগ কৰা হৈছে"
 
-#: kpluginselector.cpp:237
+#: kpluginselector.cpp:238
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:241
+#: kpluginselector.cpp:242
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
@@ -488,19 +488,19 @@ msgstr[0] ""
 msgstr[1] ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱাহৈছে"
 
-#: kpluginselector.cpp:261
+#: kpluginselector.cpp:262
 #, fuzzy, kde-format
 #| msgid "&Search"
 msgid "Search..."
 msgstr "অনুসন্ধান (&S)"
 
-#: kpluginselector.cpp:740
+#: kpluginselector.cpp:741
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
 msgstr "বিষয়ে (&A)"
 
-#: ksettings/componentsdialog.cpp:55
+#: ksettings/componentsdialog.cpp:56
 #, kde-format
 msgid "Select Components"
 msgstr "সামগ্ৰী নিৰ্ব্বাচন কৰক"
