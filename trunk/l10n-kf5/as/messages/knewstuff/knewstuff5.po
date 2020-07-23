@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-18 02:02+0200\n"
+"POT-Creation-Date: 2020-07-23 02:05+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -575,46 +575,47 @@ msgid "Search:"
 msgstr "অনুসন্ধান:(&e)"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:211
-#, kde-format
-msgid "Enter search phrase here"
-msgstr "বিচাৰিব লগা শব্দ ইয়াত লিখক"
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:156
+#, fuzzy, kde-format
+#| msgid "&Search"
+msgid "Search..."
+msgstr "অনুসন্ধান (&S)"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: downloadwidget.ui:365
+#: downloadwidget.ui:371
 #, kde-format
 msgid "Author:"
 msgstr "লেখক:"
 
 #. i18n: ectx: property (text), widget (QLabel, homepageLabel)
-#: downloadwidget.ui:390
+#: downloadwidget.ui:396
 #, kde-format
 msgid "<a href=\"https://opendesktop.org\">Homepage</a>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
-#: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:337
+#: downloadwidget.ui:572 ui/itemsgridviewdelegate.cpp:337
 #: ui/itemsviewdelegate.cpp:128 uploaddialog.ui:171
 #, kde-format
 msgid "Update"
 msgstr "উন্নয়ন কৰক"
 
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
-#: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:333
+#: downloadwidget.ui:582 ui/itemsgridviewdelegate.cpp:333
 #: ui/itemsviewdelegate.cpp:124
 #, kde-format
 msgid "Uninstall"
 msgstr "গুচাওক"
 
 #. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
-#: downloadwidget.ui:583
+#: downloadwidget.ui:589
 #, kde-format
 msgid "Become a Fan"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: downloadwidget.ui:590 qtquick/qml/DownloadItemsSheet.qml:65
+#: downloadwidget.ui:596 qtquick/qml/DownloadItemsSheet.qml:65
 #: ui/itemsgridviewdelegate.cpp:352 ui/itemsgridviewdelegate.cpp:362
 #: ui/itemsviewdelegate.cpp:143 ui/itemsviewdelegate.cpp:153
 #, kde-format
@@ -1030,12 +1031,6 @@ msgstr ""
 #| msgid "Preview URL:"
 msgid "Preview view mode"
 msgstr "পূৰ্বৰূপ প্ৰদৰ্শনৰ URL:"
-
-#: qtquick/qml/Page.qml:156
-#, fuzzy, kde-format
-#| msgid "&Search"
-msgid "Search..."
-msgstr "অনুসন্ধান (&S)"
 
 #: qtquick/qml/Page.qml:253
 #, fuzzy, kde-format
@@ -1648,6 +1643,9 @@ msgstr ""
 #| msgid "Start replace"
 msgid "Start Upload"
 msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
+
+#~ msgid "Enter search phrase here"
+#~ msgstr "বিচাৰিব লগা শব্দ ইয়াত লিখক"
 
 #~ msgid "Close"
 #~ msgstr "বন্ধ কৰক"
