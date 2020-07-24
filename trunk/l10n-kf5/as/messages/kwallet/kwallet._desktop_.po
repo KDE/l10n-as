@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"POT-Creation-Date: 2020-07-24 00:36+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -29,20 +29,23 @@ msgstr "Wallet Server"
 #| msgctxt "Comment"
 #| msgid "Wallet Server"
 msgctxt "Comment"
-msgid "Wallet"
+msgid "KDE Wallet"
 msgstr "Wallet Server"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:73
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Wallet Server"
 msgctxt "Name"
-msgid "kwalletd"
-msgstr ""
+msgid "KDE Wallet"
+msgstr "Wallet Server"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:149
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Change Password"
 msgctxt "Name"
-msgid "Needs password"
+msgid "Needs Password"
 msgstr "গুপ্তশব্দ সলনি কৰক"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:223
