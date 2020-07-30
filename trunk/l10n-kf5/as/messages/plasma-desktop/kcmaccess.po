@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-15 03:54+0200\n"
+"POT-Creation-Date: 2020-07-30 02:26+0200\n"
 "PO-Revision-Date: 2009-01-13 17:06+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -570,7 +570,7 @@ msgstr "Matthias Hoelzer-Kluepfel"
 msgid "Author"
 msgstr "লেখক"
 
-#: kcmaccess.cpp:219
+#: kcmaccess.cpp:220
 #, kde-format
 msgid ""
 "Here you can activate keyboard gestures that turn on the following "
@@ -582,7 +582,7 @@ msgstr ""
 "Sticky keys: Shift চাবি ৫ বাৰ একেলগে টিপক\n"
 "Slow keys: Shift ক ৮ ছেকেণ্ডৰ কাৰণে টিপি ধৰক"
 
-#: kcmaccess.cpp:223
+#: kcmaccess.cpp:224
 #, kde-format
 msgid ""
 "Here you can activate keyboard gestures that turn on the following "
@@ -596,12 +596,12 @@ msgstr ""
 "Sticky keys: Shift চাবি ৫ বাৰ একেলগে টিপক\n"
 "Slow keys: Shift ক ৮ ছেকেণ্ডৰ কাৰণে টিপি ধৰক"
 
-#: kcmaccess.cpp:267
+#: kcmaccess.cpp:274
 #, kde-format
 msgid "Could not set gsettings for Orca: \"%1\" failed"
 msgstr ""
 
-#: kcmaccess.cpp:274
+#: kcmaccess.cpp:281
 #, kde-format
 msgid "Error: Could not launch \"orca --setup\""
 msgstr ""
