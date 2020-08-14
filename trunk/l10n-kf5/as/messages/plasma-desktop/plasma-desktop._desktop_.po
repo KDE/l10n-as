@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-13 00:39+0000\n"
+"POT-Creation-Date: 2020-08-14 00:38+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -717,15 +717,18 @@ msgstr ""
 
 #: kcms/keys/kcm_keys.desktop:14 kcms/keys/package/metadata.desktop:2
 msgctxt "Name"
-msgid "Global Shortcuts"
+msgid "Shortcuts"
 msgstr ""
 
-#: kcms/keys/kcm_keys.desktop:59 kcms/keys/package/metadata.desktop:47
+#: kcms/keys/kcm_keys.desktop:16 kcms/keys/package/metadata.desktop:4
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
 msgctxt "Comment"
-msgid "Global Keyboard Shortcuts"
-msgstr ""
+msgid "Configure Keyboard Shortcuts"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcms/keys/kcm_keys.desktop:109
+#: kcms/keys/kcm_keys.desktop:18
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -1240,23 +1243,6 @@ msgstr ""
 #: kcms/spellchecking/spellchecking.desktop:113
 msgctxt "X-KDE-Keywords"
 msgid "Spell"
-msgstr ""
-
-#: kcms/standard_actions/standard_actions.desktop:14
-msgctxt "Name"
-msgid "Standard Shortcuts"
-msgstr ""
-
-#: kcms/standard_actions/standard_actions.desktop:59
-msgctxt "Comment"
-msgid "Standard Keyboard Shortcuts for Applications"
-msgstr ""
-
-#: kcms/standard_actions/standard_actions.desktop:107
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
-"shortcuts"
 msgstr ""
 
 #: kcms/style/gtk_themes.knsrc:2
