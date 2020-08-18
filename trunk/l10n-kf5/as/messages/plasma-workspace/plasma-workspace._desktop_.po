@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 00:32+0000\n"
+"POT-Creation-Date: 2020-08-18 00:39+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -87,13 +87,16 @@ msgid "Provides access to the clipboard history"
 msgstr ""
 
 #: applets/devicenotifier/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
 msgctxt "Name"
-msgid "Device Notifier"
-msgstr ""
+msgid "Disks & Devices"
+msgstr "যন্ত্ৰ"
 
 #: applets/devicenotifier/package/metadata.desktop:79
 msgctxt "Comment"
-msgid "Notifications and access for new devices"
+msgid "Notifications and access for devices"
 msgstr ""
 
 #: applets/devicenotifier/test-predicate-openinwindow.desktop:7
@@ -1776,13 +1779,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Share Services"
 #~ msgstr "সেৱা"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
-#~ msgctxt "Name|plasma runner"
-#~ msgid "Devices"
-#~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
