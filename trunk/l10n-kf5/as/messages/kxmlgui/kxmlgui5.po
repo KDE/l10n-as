@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-11 02:11+0200\n"
+"POT-Creation-Date: 2020-09-11 02:11+0200\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1214,46 +1214,46 @@ msgstr "মাউছ বুটামৰ ভঙ্গিমা"
 msgid "Mouse Shape Gesture"
 msgstr "মাউছ আকাৰৰ ভঙ্গিমা"
 
-#: kshortcutseditor.cpp:552
+#: kshortcutseditor.cpp:558
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 ৰ চমু পথ"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:570 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:576 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "প্ৰধান:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:571 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:577 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "বৈকল্পিক:"
 
-#: kshortcutseditor.cpp:572
+#: kshortcutseditor.cpp:578
 #, kde-format
 msgid "Global:"
 msgstr "সৰ্বব্যাপী:"
 
-#: kshortcutseditor.cpp:573
+#: kshortcutseditor.cpp:579
 #, fuzzy, kde-format
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "বিশ্বব্যাপীভাবে বৈকল্পিক"
 
-#: kshortcutseditor.cpp:589
+#: kshortcutseditor.cpp:595
 #, kde-format
 msgid "Action Name"
 msgstr "কাৰ্য্যৰ নাম"
 
-#: kshortcutseditor.cpp:593
+#: kshortcutseditor.cpp:599
 #, kde-format
 msgid "Shortcuts"
 msgstr "চমু পথ"
 
-#: kshortcutseditor.cpp:597
+#: kshortcutseditor.cpp:603
 #, kde-format
 msgid "Description"
 msgstr "বিৱৰণ"
