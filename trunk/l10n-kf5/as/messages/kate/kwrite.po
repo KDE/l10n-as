@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-27 02:32+0200\n"
+"POT-Creation-Date: 2020-09-28 02:35+0200\n"
 "PO-Revision-Date: 2011-06-01 18:21+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -58,34 +58,28 @@ msgstr "সৰঞ্জাম (&T)"
 msgid "&Settings"
 msgstr "পছন্দ (&S)"
 
-#. i18n: ectx: Menu (help)
-#: data/kwriteui.rc:55
-#, kde-format
-msgid "&Help"
-msgstr "সহায় (&H)"
-
 #. i18n: ectx: ToolBar (mainToolBar)
-#: data/kwriteui.rc:60
+#: data/kwriteui.rc:56
 #, kde-format
 msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
 
-#: kwrite.cpp:132
+#: kwrite.cpp:131
 #, kde-format
 msgid "Use this command to close the current document"
 msgstr "বৰ্ত্তমান দস্তাবেজ বন্ধ কৰিবলে এই কমান্ড ব্যৱহাৰ কৰক"
 
-#: kwrite.cpp:136
+#: kwrite.cpp:135
 #, kde-format
 msgid "Use this command to create a new document"
 msgstr "এটা নতুন আলেখ্যন সৃষ্টি কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwrite.cpp:137
+#: kwrite.cpp:136
 #, kde-format
 msgid "Use this command to open an existing document for editing"
 msgstr "বৰ্ত্তমানৰ একন আলেখ্যন সম্পাদন কৰিবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwrite.cpp:141
+#: kwrite.cpp:140
 #, kde-format
 msgid ""
 "This lists files which you have opened recently, and allows you to easily "
@@ -94,74 +88,69 @@ msgstr ""
 "ই নথিপত্ৰসমূহ দেখুৱায় যি আপুনি সেহতীয়াভাৱে খোলিছে, আৰু আপোনাক ইহতক আকো সহজতে "
 "খোলাৰ অনুমতি দিয়ে।"
 
-#: kwrite.cpp:145
+#: kwrite.cpp:144
 #, kde-format
 msgid "&New Window"
 msgstr "নতুন সংযোগক্ষেত্ৰ (&W)"
 
-#: kwrite.cpp:147
+#: kwrite.cpp:146
 #, kde-format
 msgid "Create another view containing the current document"
 msgstr "বৰ্ত্তমানৰ আলেখ্যন থকা অন্য এটা প্ৰদৰ্শন সৃষ্টি কৰক"
 
-#: kwrite.cpp:149
+#: kwrite.cpp:148
 #, kde-format
 msgid "Close the current document view"
 msgstr "বৰ্ত্তমানৰ আলেখ্যনৰ প্ৰদৰ্শন বন্ধ কৰক"
 
-#: kwrite.cpp:158
+#: kwrite.cpp:157
 #, kde-format
 msgid "Use this command to show or hide the view's statusbar"
 msgstr "প্ৰদৰ্শনৰ অৱস্থাৰ বাৰ দেখুৱাবলৈ বা লুকাবলৈ এই আদেশ ব্যৱহাৰ কৰক"
 
-#: kwrite.cpp:160
+#: kwrite.cpp:159
 #, fuzzy, kde-format
 #| msgid "Sho&w Path"
 msgid "Sho&w Path in Titlebar"
 msgstr "পথ দেখুৱাওক (&w)"
 
-#: kwrite.cpp:163
+#: kwrite.cpp:162
 #, kde-format
 msgid "Show the complete document path in the window caption"
 msgstr "সংযোগক্ষেত্ৰৰ কেপ্‌ছনত আলেখ্যনৰ সম্পূৰ্ণ পথ দেখুৱাওক"
 
-#: kwrite.cpp:166
+#: kwrite.cpp:165
 #, kde-format
 msgid "Configure the application's keyboard shortcut assignments."
 msgstr "অনুপ্ৰয়োগৰ কিবৰ্ড চৰ্টকাট কাৰ্য্যসমূহ সংৰূপণ কৰক।"
 
-#: kwrite.cpp:169
+#: kwrite.cpp:168
 #, kde-format
 msgid "Configure which items should appear in the toolbar(s)."
 msgstr "কোনবোৰ বস্তু টুলবাৰ(সমূহ)ত আহিব লাগিব সংৰূপণ কৰক।"
 
-#: kwrite.cpp:172
-#, kde-format
-msgid "&About Editor Component"
-msgstr "&About সম্পাদক উপাদান"
-
-#: kwrite.cpp:230 kwrite.cpp:232
+#: kwrite.cpp:225 kwrite.cpp:227
 #, kde-format
 msgid "Open File"
 msgstr "ফাইল খোলক"
 
-#: kwrite.cpp:277
+#: kwrite.cpp:272
 #, kde-format
 msgid ""
 "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
-#: kwrite.cpp:280
+#: kwrite.cpp:275
 #, kde-format
 msgid "Hide menu bar"
 msgstr ""
 
-#: kwrite.cpp:444
+#: kwrite.cpp:433
 #, kde-format
 msgid " [read only]"
 msgstr ""
 
-#: kwrite.cpp:448
+#: kwrite.cpp:437
 #, kde-format
 msgid "Untitled"
 msgstr "শিৰোনাম নোহোৱা"
@@ -516,6 +505,12 @@ msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
 msgstr ""
 "'%1' নথিপত্ৰ খুলিব পৰা ন'গ'ল: এইটো এটা সাধাৰণ নথিপত্ৰ নহয়, এইটো এটা ফোল্ডাৰ ।"
+
+#~ msgid "&Help"
+#~ msgstr "সহায় (&H)"
+
+#~ msgid "&About Editor Component"
+#~ msgstr "&About সম্পাদক উপাদান"
 
 #~ msgid "Developer & Highlight wizard"
 #~ msgstr "বিকাশক & আলোকপাতৰ ৱিজাৰ্ড"
