@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-17 01:48+0000\n"
+"POT-Creation-Date: 2020-11-26 01:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -749,7 +749,7 @@ msgctxt "Name"
 msgid "KWin Window Switcher"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: runners/kwin-runner-windows.desktop:3
+#: plugins/krunner-integration/kwin-runner-windows.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "MS Windows 9x"
@@ -757,7 +757,7 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
 
-#: runners/kwin-runner-windows.desktop:21
+#: plugins/krunner-integration/kwin-runner-windows.desktop:21
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
