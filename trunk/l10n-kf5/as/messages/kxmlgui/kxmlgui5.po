@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-11 02:30+0100\n"
+"POT-Creation-Date: 2021-02-01 02:22+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1469,12 +1469,12 @@ msgstr "টুল-বাৰ লক কৰা হ'ব"
 msgid "Toolbars Shown"
 msgstr "টুল-বাৰ"
 
-#: kundoactions.cpp:29
+#: kundoactions.cpp:30
 #, kde-format
 msgid "Redo"
 msgstr "পুনৰাবৃত্তি"
 
-#: kundoactions.cpp:48
+#: kundoactions.cpp:49
 #, kde-format
 msgid "Undo"
 msgstr "পূৰ্বাবস্থা"
