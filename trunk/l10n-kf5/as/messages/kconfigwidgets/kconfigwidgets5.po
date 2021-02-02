@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-26 02:27+0100\n"
+"POT-Creation-Date: 2021-02-02 02:27+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -51,14 +51,14 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: kcolorschememanager.cpp:147
+#: kcolorschememanager.cpp:148
 #, fuzzy, kde-format
 #| msgctxt "Encodings menu"
 #| msgid "Default"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: kcolorschememanager.cpp:224 kcolorschememanager.cpp:229
+#: kcolorschememanager.cpp:225 kcolorschememanager.cpp:230
 #, fuzzy, kde-format
 #| msgid "Shortcut Schemes"
 msgid "Color Scheme"
@@ -71,13 +71,13 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
 
-#: krecentfilesaction.cpp:67
+#: krecentfilesaction.cpp:68
 #, fuzzy, kde-format
 #| msgid "No entries"
 msgid "No Entries"
 msgstr "কোনো নিবেশ উপস্থিত নাই"
 
-#: krecentfilesaction.cpp:73
+#: krecentfilesaction.cpp:74
 #, fuzzy, kde-format
 #| msgid "Clear input"
 msgid "Clear List"
@@ -640,35 +640,35 @@ msgstr ""
 msgid "&Donate"
 msgstr ""
 
-#: ktipdialog.cpp:222
+#: ktipdialog.cpp:221
 #, fuzzy, kde-format
 #| msgid "Tip of the Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "আজিৰ উপদেশ"
 
-#: ktipdialog.cpp:238
+#: ktipdialog.cpp:237
 #, fuzzy, kde-format
 #| msgid "Did you know...?\n"
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "আপুনি জানে নে...?\n"
 
-#: ktipdialog.cpp:292
+#: ktipdialog.cpp:291
 #, fuzzy, kde-format
 #| msgid "&Show tips on startup"
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "আৰম্ভণিত উপেদশ প্ৰদৰ্শন কৰা হ'ব (&S)"
 
-#: ktipdialog.cpp:297
+#: ktipdialog.cpp:296
 #, fuzzy, kde-format
 #| msgid "&Previous"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "আগৰ (&P)"
 
-#: ktipdialog.cpp:302
+#: ktipdialog.cpp:301
 #, fuzzy, kde-format
 #| msgid "&Next"
 msgctxt "@action:button Goes to next tip, opposite to previous"
