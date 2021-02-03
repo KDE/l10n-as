@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-02 02:29+0100\n"
+"POT-Creation-Date: 2021-02-03 02:46+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1123,7 +1123,7 @@ msgctxt ""
 msgid "<i>(no title)</i>"
 msgstr "<i>টোকা</i>: %1"
 
-#: qtquick/qml/private/EntryCommentDelegate.qml:141
+#: qtquick/qml/private/EntryCommentDelegate.qml:142
 #, kde-format
 msgctxt ""
 "The author label in case the comment was written by the author of the "
@@ -1161,7 +1161,7 @@ msgid "Show Reviews and Replies"
 msgstr ""
 
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:141
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:179
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:180
 #, fuzzy, kde-format
 #| msgid "Download"
 msgctxt "The number of times the item has been downloaded"
@@ -1225,6 +1225,14 @@ msgstr ""
 #| msgid "None"
 msgid "None"
 msgstr "শূণ্য"
+
+#: qtquick/qml/private/Rating.qml:80
+#, fuzzy, kde-format
+#| msgid "(%1/s)"
+msgctxt ""
+"A text representation of the rating, shown as a fraction of the max value"
+msgid "(%1/%2)"
+msgstr "(%1/s)"
 
 #: qtquick/quickengine.cpp:143
 #, kde-format
@@ -8528,9 +8536,6 @@ msgstr "প্ৰতিস্থাপন প্ৰাৰম্ভ"
 
 #~ msgid "&Send Email"
 #~ msgstr "ঈ-মেইল কৰক (&S)"
-
-#~ msgid "(%1/s)"
-#~ msgstr "(%1/s)"
 
 #~ msgid "Security Warning"
 #~ msgstr "নিৰাপত্তা সংক্ৰান্ত সতৰ্কবাৰ্তা"
