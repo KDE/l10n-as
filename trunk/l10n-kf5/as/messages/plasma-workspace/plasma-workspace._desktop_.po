@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-06 02:24+0000\n"
+"POT-Creation-Date: 2021-02-07 02:19+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -404,6 +404,22 @@ msgstr "বিভাজনৰ তথ্য"
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
+
+#: dataengines/devicenotifications/devicenotifications.notifyrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device Notifier"
+msgstr "যন্ত্ৰ"
+
+#: dataengines/devicenotifications/devicenotifications.notifyrc:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device Status"
+msgstr "যন্ত্ৰ"
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
 #, fuzzy
