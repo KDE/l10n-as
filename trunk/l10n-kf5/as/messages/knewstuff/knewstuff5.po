@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-06 02:22+0100\n"
+"POT-Creation-Date: 2021-02-09 02:36+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -466,70 +466,70 @@ msgstr ""
 "সংস্থাপন কৰা হৈছে নে নাই পৰীক্ষা কৰক । ন'হ'লে, সামগ্ৰী স্বাক্ষৰ কৰা সম্ভব ন'হ'ব ।</"
 "qt>"
 
-#: downloaddialog.cpp:68 downloadwidget.cpp:213
+#: downloaddialog.cpp:69 downloadwidget.cpp:216
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক"
 
-#: downloaddialog.cpp:86
+#: downloaddialog.cpp:87
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "%1 অতিৰিক্ত সংস্থাপক"
 
-#: downloadwidget.cpp:120
+#: downloadwidget.cpp:123
 #, fuzzy, kde-format
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
 msgstr "সময়সীমা পাৰ হ'ল । অনুগ্ৰহ কৰি, ইন্টাৰ্নে'ট সংযোগ পৰীক্ষা কৰক!"
 
-#: downloadwidget.cpp:183
+#: downloadwidget.cpp:186
 #, kde-format
 msgid "Server: %1"
 msgstr "সেৱক: %1"
 
-#: downloadwidget.cpp:184
+#: downloadwidget.cpp:187
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />উপলব্ধকৰোঁতা: %1"
 
-#: downloadwidget.cpp:185
+#: downloadwidget.cpp:188
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />সংস্কৰণ: %1"
 
-#: downloadwidget.cpp:189
+#: downloadwidget.cpp:192
 #, kde-format
 msgid "Provider information"
 msgstr "উপলব্ধকৰোঁতাৰ তথ্য"
 
-#: downloadwidget.cpp:202
+#: downloadwidget.cpp:205
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1 সংস্থাপন কৰিবলৈ ব্যৰ্থ"
 
-#: downloadwidget.cpp:203
+#: downloadwidget.cpp:206
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "নতুন বস্তু প্ৰাপ্ত কৰক!"
 
-#: downloadwidget.cpp:263
+#: downloadwidget.cpp:266
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:265
+#: downloadwidget.cpp:268
 #, kde-format
 msgid "Details view mode"
 msgstr ""
 
-#: downloadwidget.cpp:280
+#: downloadwidget.cpp:283
 #, fuzzy, kde-format
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "উপলব্ধকৰোঁতা: %1"
 
-#: downloadwidget.cpp:287
+#: downloadwidget.cpp:290
 #, fuzzy, kde-format
 #| msgid "Pages"
 msgid "All Categories"
