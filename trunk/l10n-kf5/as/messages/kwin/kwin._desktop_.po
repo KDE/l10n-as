@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-11 02:27+0000\n"
+"POT-Creation-Date: 2021-02-12 02:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -350,7 +350,6 @@ msgstr ""
 
 #: src/kcmkwin/kwindecoration/kwindecoration.desktop:15
 #: src/kcmkwin/kwindecoration/package/metadata.desktop:18
-#: src/kcmkwin/kwindecoration/window-decorations.knsrc:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Window Termination Tool"
@@ -686,14 +685,6 @@ msgctxt "Comment"
 msgid "Xwayland has crashed"
 msgstr ""
 
-#: src/plugins/kdecorations/aurorae/src/aurorae.knsrc:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Window Termination Tool"
-msgctxt "Name"
-msgid "Aurorae Window Decorations"
-msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
-
 #: src/plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
 #, fuzzy
 #| msgctxt "GenericName"
@@ -832,6 +823,13 @@ msgstr "নথিপত্ৰৰ পৰিচালক"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Window Termination Tool"
+#~ msgctxt "Name"
+#~ msgid "Aurorae Window Decorations"
+#~ msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
 #, fuzzy
 #~| msgctxt "Comment"
