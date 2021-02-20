@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-02 02:29+0100\n"
+"POT-Creation-Date: 2021-02-20 02:32+0100\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -304,7 +304,7 @@ msgstr "অনুগ্ৰহ কৰি <a href=\"mailto:%1\">%2</a> ত বা�
 #: kactionconflictdetector.cpp:39
 #, kde-format
 msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"The key sequence '%1' is ambiguous. Use 'Configure Keyboard Shortcuts'\n"
 "from the 'Settings' menu to solve the ambiguity.\n"
 "No action will be triggered."
 msgstr ""
