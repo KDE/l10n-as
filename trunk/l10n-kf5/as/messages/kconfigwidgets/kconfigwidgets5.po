@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-28 02:21+0100\n"
+"POT-Creation-Date: 2021-03-31 00:15+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -70,6 +70,38 @@ msgstr "চমু পথ আঁচনি"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
+
+#: khamburgermenu.cpp:126
+#, fuzzy, kde-format
+#| msgctxt "keyboard-key-name"
+#| msgid "Menu"
+msgctxt "@action:inmenu General purpose menu"
+msgid "&Menu"
+msgstr "Menu"
+
+#: khamburgermenu.cpp:337
+#, fuzzy, kde-format
+#| msgid ""
+#| "Could not find 'kdemain' in '%1'.\n"
+#| "%2"
+msgctxt "@action:inmenu A menu text advertising its contents (more features)."
+msgid "For %1 more action:"
+msgid_plural "For %1 more actions:"
+msgstr[0] ""
+"'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
+"%2"
+msgstr[1] ""
+"'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
+"%2"
+
+#: khamburgermenu.cpp:340
+#, kde-format
+msgctxt ""
+"@action:inmenu A section heading advertising the contents of the menu bar"
+msgid "%1 Menu Bar Exclusive Action"
+msgid_plural "%1 Menu Bar Exclusive Actions"
+msgstr[0] ""
+msgstr[1] ""
 
 #: krecentfilesaction.cpp:68
 #, fuzzy, kde-format
@@ -639,6 +671,12 @@ msgstr ""
 #, kde-format
 msgid "&Donate"
 msgstr ""
+
+#: kstandardaction_p.h:114
+#, fuzzy, kde-format
+#| msgid "Open &Recent"
+msgid "Open &Menu"
+msgstr "সম্প্ৰতি ব্যৱহৃত খোলক (&R)"
 
 #: ktipdialog.cpp:217
 #, fuzzy, kde-format
@@ -2598,10 +2636,6 @@ msgstr "পিছৰ (&N)"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Left"
 #~ msgstr "Left"
-
-#~ msgctxt "keyboard-key-name"
-#~ msgid "Menu"
-#~ msgstr "Menu"
 
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Meta"
@@ -6233,15 +6267,6 @@ msgstr "পিছৰ (&N)"
 #~ msgid_plural "Shortcut Conflicts"
 #~ msgstr[0] "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
 #~ msgstr[1] "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
-
-#, fuzzy
-#~| msgid ""
-#~| "Could not find 'kdemain' in '%1'.\n"
-#~| "%2"
-#~ msgid "Shortcut '%1' for action '%2'\n"
-#~ msgstr ""
-#~ "'%1'-ত 'kdemain' পোৱা নাযায় ।\n"
-#~ "%2"
 
 #~ msgid "Shortcut conflict"
 #~ msgstr "চমু পথ সংক্ৰান্ত দ্বন্দ্ব"
