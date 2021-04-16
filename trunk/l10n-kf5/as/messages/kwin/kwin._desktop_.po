@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-11 00:27+0000\n"
+"POT-Creation-Date: 2021-04-16 00:29+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -506,12 +506,12 @@ msgctxt "Name"
 msgid "Window Movement"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: src/kcmkwin/kwinoptions/kwinmoving.desktop:43
+#: src/kcmkwin/kwinoptions/kwinmoving.desktop:44
 msgctxt "Comment"
 msgid "Configure window movement options"
 msgstr ""
 
-#: src/kcmkwin/kwinoptions/kwinmoving.desktop:75
+#: src/kcmkwin/kwinoptions/kwinmoving.desktop:77
 msgctxt "X-KDE-Keywords"
 msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr ""
