@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:28+0000\n"
+"POT-Creation-Date: 2021-04-29 00:27+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -485,12 +485,12 @@ msgctxt "Name"
 msgid "Window Focus Behavior"
 msgstr ""
 
-#: src/kcmkwin/kwinoptions/kwinfocus.desktop:43
+#: src/kcmkwin/kwinoptions/kwinfocus.desktop:44
 msgctxt "Comment"
 msgid "Configure window activation policy"
 msgstr ""
 
-#: src/kcmkwin/kwinoptions/kwinfocus.desktop:77
+#: src/kcmkwin/kwinoptions/kwinfocus.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,auto raise,raise,click raise,keyboard,CDE,alt-tab,all desktop,focus "
@@ -653,7 +653,7 @@ msgctxt "Name"
 msgid "Virtual Keyboard"
 msgstr "ডেস্কট'প"
 
-#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:17
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:25
 msgctxt "Comment"
 msgid "Select which virtual keyboard to use"
 msgstr ""
