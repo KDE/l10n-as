@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-30 00:15+0000\n"
+"POT-Creation-Date: 2021-05-01 00:15+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1299,7 +1299,7 @@ msgctxt ""
 msgid "(%1/%2)"
 msgstr "(%1/s)"
 
-#: qtquick/quickengine.cpp:167
+#: qtquick/quickengine.cpp:171
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
