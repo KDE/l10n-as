@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-27 00:26+0000\n"
+"POT-Creation-Date: 2021-05-02 00:26+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -751,7 +751,7 @@ msgctxt "Name"
 msgid "Autostart"
 msgstr ""
 
-#: kcms/autostart/package/metadata.desktop:17
+#: kcms/autostart/package/metadata.desktop:18
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Terminal Applications"
@@ -759,7 +759,7 @@ msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
 
-#: kcms/autostart/package/metadata.desktop:41
+#: kcms/autostart/package/metadata.desktop:43
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
 msgstr ""

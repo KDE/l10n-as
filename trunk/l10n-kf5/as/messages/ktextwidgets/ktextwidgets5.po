@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-22 02:10+0100\n"
+"POT-Creation-Date: 2021-05-02 00:15+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -60,12 +60,12 @@ msgstr "<qt>'<b>%1</b>' ৰ কোনো মিল পোৱা নাযায় 
 msgid "No matches found for '<b>%1</b>'."
 msgstr "'<b>%1</b>' ৰ কোনো মিল পোৱা নাযায় ।"
 
-#: findreplace/kfind.cpp:730 findreplace/kreplace.cpp:423
+#: findreplace/kfind.cpp:730 findreplace/kreplace.cpp:427
 #, kde-format
 msgid "Beginning of document reached."
 msgstr "আলেখ্যনৰ প্ৰাৰম্ভিক স্থান"
 
-#: findreplace/kfind.cpp:732 findreplace/kreplace.cpp:425
+#: findreplace/kfind.cpp:732 findreplace/kreplace.cpp:429
 #, kde-format
 msgid "End of document reached."
 msgstr "আলেখ্যনৰ অন্তিম স্থান"
@@ -379,35 +379,35 @@ msgstr "উপেক্ষা কৰা হ'ব (&S)"
 msgid "Replace '%1' with '%2'?"
 msgstr "'%1' ৰ পৰিবৰ্তে '%2' লিখা হ'ব নেকি ?"
 
-#: findreplace/kreplace.cpp:174 findreplace/kreplace.cpp:417
+#: findreplace/kreplace.cpp:174 findreplace/kreplace.cpp:421
 #, kde-format
 msgid "No text was replaced."
 msgstr "কোনো লিপি প্ৰতিস্থাপন কৰা নহয় ।"
 
-#: findreplace/kreplace.cpp:176 findreplace/kreplace.cpp:419
+#: findreplace/kreplace.cpp:176 findreplace/kreplace.cpp:423
 #, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "১ টা প্ৰতিস্থাপন কৰা হৈছে ।"
 msgstr[1] "%1 প্ৰতিস্থাপন কৰা হৈছে ।"
 
-#: findreplace/kreplace.cpp:432
+#: findreplace/kreplace.cpp:436
 #, kde-format
 msgid "Do you want to restart search from the end?"
 msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যনৰ অন্তিম স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
 
-#: findreplace/kreplace.cpp:432
+#: findreplace/kreplace.cpp:436
 #, kde-format
 msgid "Do you want to restart search at the beginning?"
 msgstr "আপুনি নিশ্চিতৰূপে আলেখ্যনৰ প্ৰাৰম্ভিক স্থানৰ পৰা পুনঃ অনুসন্ধান কৰিবলৈ ইচ্ছুক নে ?"
 
-#: findreplace/kreplace.cpp:437
+#: findreplace/kreplace.cpp:441
 #, kde-format
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "পুনৰাৰম্ভ কৰক"
 
-#: findreplace/kreplace.cpp:438
+#: findreplace/kreplace.cpp:442
 #, kde-format
 msgctxt "@action:button Stop find & replace"
 msgid "Stop"
