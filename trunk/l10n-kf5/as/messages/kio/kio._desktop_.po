@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-07 00:27+0000\n"
+"POT-Creation-Date: 2021-05-08 00:26+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -87,24 +87,6 @@ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰ�
 #: src/ioslaves/trash/kcmtrash.desktop:336
 msgctxt "X-KDE-Keywords"
 msgid "trash"
-msgstr ""
-
-#: src/kcms/kio/cache.desktop:14
-msgctxt "Name"
-msgid "Cache"
-msgstr "কেছে"
-
-#: src/kcms/kio/cache.desktop:103
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure web cache settings"
-msgctxt "Comment"
-msgid "Configure web cache settings"
-msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
-
-#: src/kcms/kio/cache.desktop:151
-msgctxt "X-KDE-Keywords"
-msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
 
 #: src/kcms/kio/cookies.desktop:14
@@ -2048,6 +2030,17 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "টেবেৰে চৰণ কৰা"
+
+#~ msgctxt "Name"
+#~ msgid "Cache"
+#~ msgstr "কেছে"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web cache settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure web cache settings"
+#~ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #~ msgctxt "Comment"
 #~ msgid "UserAgent Strings"
