@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-30 00:15+0000\n"
+"POT-Creation-Date: 2021-05-13 00:15+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -268,38 +268,31 @@ msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "KDE ক সমৰ্থন কৰক (&S)"
 
-#: kabstractaboutdialog_p.cpp:35
+#: kabstractaboutdialog_p.cpp:36
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
-#| "%3</html>"
-msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
-msgstr ""
-"<html><font size=\"5\">%1</font><br /><b>সংস্কৰণ %2</b><br />KDE %3 "
-"ব্যৱহাৰকৰোঁতা</html>"
+#| msgid "Version %1"
+msgctxt "Version version-number"
+msgid "Version %1"
+msgstr "সংস্কৰণ %1"
 
 #: kabstractaboutdialog_p.cpp:79
 #, kde-format
 msgid "License: %1"
 msgstr "প্ৰমাণপত্ৰ: %1"
 
-#: kabstractaboutdialog_p.cpp:111
+#: kabstractaboutdialog_p.cpp:112
 #, fuzzy, kde-format
-#| msgid ""
-#| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
-#| "report bugs.\n"
-msgid ""
-"Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
-"report bugs.\n"
-msgstr ""
-"বাগ প্ৰতিবেদন কৰাৰ বাবে <a href=\"http://bugs.kde.org\">http://bugs.kde.org</"
-"a> ব্যৱহাৰ কৰক ।\n"
+#| msgid "Please use http://bugs.kde.org to report bugs.\n"
+msgctxt "Reference to website"
+msgid "Please use %1 to report bugs.\n"
+msgstr "অনুগ্ৰহ কৰি http://bugs.kde.org ত বাগ প্ৰতিবেদন কৰক ।\n"
 
-#: kabstractaboutdialog_p.cpp:117
+#: kabstractaboutdialog_p.cpp:120
 #, fuzzy, kde-format
-#| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
-msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
-msgstr "অনুগ্ৰহ কৰি <a href=\"mailto:%1\">%2</a> ত বাগ প্ৰতিবেদন কৰক ।\n"
+#| msgid "Please report bugs to %1.\n"
+msgctxt "Reference to email address"
+msgid "Please report bugs to %1.\n"
+msgstr "অনুগ্ৰহ কৰি %1 লৈ বাগ প্ৰতিবেদন কৰক ।\n"
 
 #: kactionconflictdetector.cpp:38
 #, kde-format
@@ -1560,6 +1553,31 @@ msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
 
 #, fuzzy
+#~| msgid ""
+#~| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
+#~| "%3</html>"
+#~ msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
+#~ msgstr ""
+#~ "<html><font size=\"5\">%1</font><br /><b>সংস্কৰণ %2</b><br />KDE %3 "
+#~ "ব্যৱহাৰকৰোঁতা</html>"
+
+#, fuzzy
+#~| msgid ""
+#~| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
+#~| "report bugs.\n"
+#~ msgid ""
+#~ "Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
+#~ "report bugs.\n"
+#~ msgstr ""
+#~ "বাগ প্ৰতিবেদন কৰাৰ বাবে <a href=\"http://bugs.kde.org\">http://bugs.kde."
+#~ "org</a> ব্যৱহাৰ কৰক ।\n"
+
+#, fuzzy
+#~| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
+#~ msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
+#~ msgstr "অনুগ্ৰহ কৰি <a href=\"mailto:%1\">%2</a> ত বাগ প্ৰতিবেদন কৰক ।\n"
+
+#, fuzzy
 #~| msgid "Unsupported Key"
 #~ msgctxt "@title:window"
 #~ msgid "Unsupported Key"
@@ -2671,12 +2689,6 @@ msgstr "প্ৰধান টুল-বাৰ"
 #~ msgid ""
 #~ "This application was written by somebody who wants to remain anonymous."
 #~ msgstr "এই অনুপ্ৰয়োগৰ নিৰ্মাতা অজ্ঞাত থাকিব ইচ্ছুক ।"
-
-#~ msgid "Please use http://bugs.kde.org to report bugs.\n"
-#~ msgstr "অনুগ্ৰহ কৰি http://bugs.kde.org ত বাগ প্ৰতিবেদন কৰক ।\n"
-
-#~ msgid "Please report bugs to %1.\n"
-#~ msgstr "অনুগ্ৰহ কৰি %1 লৈ বাগ প্ৰতিবেদন কৰক ।\n"
 
 #~ msgid "Unexpected argument '%1'."
 #~ msgstr "অপ্ৰত্যাশিত তৰ্ক '%1' ।"
@@ -8606,9 +8618,6 @@ msgstr "প্ৰধান টুল-বাৰ"
 
 #~ msgid "This operation requires authentication."
 #~ msgstr "এই কাৰ্য্যৰ বাবে অনুমোদন প্ৰয়োজন"
-
-#~ msgid "Version %1"
-#~ msgstr "সংস্কৰণ %1"
 
 #~ msgid "Leave a comment"
 #~ msgstr "মতামত লিখক"
