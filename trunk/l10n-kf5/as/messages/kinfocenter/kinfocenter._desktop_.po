@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-04 00:27+0000\n"
+"POT-Creation-Date: 2021-05-28 00:24+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -80,10 +80,10 @@ msgstr ""
 #: Modules/about-distro/src/about-distro.desktop:52
 #, fuzzy
 #| msgctxt "Comment"
-#| msgid "PCI information"
+#| msgid "Information about available protocols"
 msgctxt "Name"
-msgid "System Information"
-msgstr "PCI ৰ তথ্য"
+msgid "About this System"
+msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
 #: Modules/about-distro/src/about-distro.desktop:89
 #, fuzzy
@@ -352,6 +352,13 @@ msgstr "তথ্য কেন্দ্ৰ"
 msgctxt "Comment"
 msgid "Centralized and convenient overview of system information"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "PCI information"
+#~ msgctxt "Name"
+#~ msgid "System Information"
+#~ msgstr "PCI ৰ তথ্য"
 
 #, fuzzy
 #~| msgctxt "Comment"
