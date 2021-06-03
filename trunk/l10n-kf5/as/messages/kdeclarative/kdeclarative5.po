@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:16+0000\n"
+"POT-Creation-Date: 2021-06-03 00:14+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -57,7 +57,7 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "শূণ্য"
 
-#: qmlcontrols/kquickcontrols/KeySequenceItem.qml:88
+#: qmlcontrols/kquickcontrols/KeySequenceItem.qml:93
 #, kde-format
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
