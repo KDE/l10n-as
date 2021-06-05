@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-04 00:31+0000\n"
+"POT-Creation-Date: 2021-06-05 00:25+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -240,7 +240,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
 
-#: src/new_file_templates/linkPath.desktop:18
+#: src/new_file_templates/linkPath.desktop:20
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -1644,7 +1644,7 @@ msgstr "Spanish Academy (RAE) ৰ অভিধান"
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
-msgid "https://www.rae.es/drae/?val=\\\\{@}"
+msgid "https://dle.rae.es/\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/rag.desktop:5
