@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-30 00:26+0000\n"
+"POT-Creation-Date: 2021-06-12 00:25+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -118,14 +118,6 @@ msgctxt "Name"
 msgid "Cursor Files"
 msgstr ""
 
-#: thumbnail/desktopthumbnail.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Name"
-msgid "Desktop Files"
-msgstr "ডেস্কট'প"
-
 #: thumbnail/directorythumbnail.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -202,6 +194,13 @@ msgstr ""
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Desktop Files"
+#~ msgstr "ডেস্কট'প"
 
 #, fuzzy
 #~| msgctxt "GenericName"
