@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-23 00:19+0000\n"
+"POT-Creation-Date: 2021-06-24 00:21+0000\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1333,7 +1333,7 @@ msgstr ""
 msgid "Starts the session without global shortcuts support."
 msgstr ""
 
-#: main_wayland.cpp:544 main_x11.cpp:439
+#: main_wayland.cpp:544 main_x11.cpp:443
 #, kde-format
 msgid "Disable KActivities integration."
 msgstr ""
@@ -1378,7 +1378,7 @@ msgstr ""
 "kwin: পৰিচালন ব্যৱস্থা ধাৰ্য কৰোঁতে ব্যৰ্থ, এটা পৃথক সংযোগক্ষেত্ৰ পৰিচালন ব্যৱস্থা "
 "বৰ্তমানে চলিছে নেকি ? ( --replace ৰ প্ৰয়োগ চেষ্টা কৰক)\n"
 
-#: main_x11.cpp:432
+#: main_x11.cpp:436
 #, kde-format
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr ""
@@ -2198,7 +2198,7 @@ msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন ক�
 msgid "Walk Through Desktop List (Reverse)"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabboxhandler.cpp:270
+#: tabbox/tabboxhandler.cpp:269
 #, kde-format
 msgid ""
 "The Window Switcher installation is broken, resources are missing.\n"
