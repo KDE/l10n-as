@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-28 00:14+0000\n"
+"POT-Creation-Date: 2021-06-29 00:13+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -51,18 +51,18 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "স্বয়ংক্ৰিয় চিনাক্তকৰণ"
 
-#: kcolorschememanager.cpp:147
+#: kcolorschememanager.cpp:150 kcolorschememanager.cpp:155
+#, fuzzy, kde-format
+#| msgid "Shortcut Schemes"
+msgid "Color Scheme"
+msgstr "চমু পথ আঁচনি"
+
+#: kcolorschememodel.cpp:64
 #, fuzzy, kde-format
 #| msgctxt "Encodings menu"
 #| msgid "Default"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
-
-#: kcolorschememanager.cpp:224 kcolorschememanager.cpp:229
-#, fuzzy, kde-format
-#| msgid "Shortcut Schemes"
-msgid "Color Scheme"
-msgstr "চমু পথ আঁচনি"
 
 #: kconfigdialog.cpp:33
 #, fuzzy, kde-format
