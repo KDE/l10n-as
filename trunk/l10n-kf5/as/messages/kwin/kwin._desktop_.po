@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-17 00:25+0000\n"
+"POT-Creation-Date: 2021-07-01 00:24+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -54,7 +54,7 @@ msgctxt "Name"
 msgid "Eye on Screen"
 msgstr ""
 
-#: src/effects/eyeonscreen/package/metadata.desktop:34
+#: src/effects/eyeonscreen/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Suck windows into the desktop"
 msgstr ""
@@ -87,7 +87,7 @@ msgctxt "Name"
 msgid "Fading Popups"
 msgstr ""
 
-#: src/effects/fadingpopups/package/metadata.desktop:37
+#: src/effects/fadingpopups/package/metadata.desktop:38
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
 msgstr ""
@@ -97,7 +97,7 @@ msgctxt "Name"
 msgid "Desaturate Unresponsive Applications"
 msgstr ""
 
-#: src/effects/frozenapp/package/metadata.desktop:43
+#: src/effects/frozenapp/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Desaturate windows of unresponsive (frozen) applications"
 msgstr ""
@@ -107,7 +107,7 @@ msgctxt "Comment"
 msgid "Animation for a window going to and leaving full screen mode"
 msgstr ""
 
-#: src/effects/fullscreen/package/metadata.desktop:31
+#: src/effects/fullscreen/package/metadata.desktop:32
 msgctxt "Name"
 msgid "Full Screen"
 msgstr ""
@@ -145,7 +145,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr ""
 
-#: src/effects/logout/package/metadata.desktop:40
+#: src/effects/logout/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
 msgstr ""
@@ -214,7 +214,7 @@ msgctxt "Name"
 msgid "Scale"
 msgstr ""
 
-#: src/effects/scale/package/metadata.desktop:38
+#: src/effects/scale/package/metadata.desktop:39
 msgctxt "Comment"
 msgid "Make windows smoothly scale in and out when they are shown or hidden"
 msgstr ""
@@ -375,12 +375,12 @@ msgctxt "Name"
 msgid "Desktop Effects"
 msgstr ""
 
-#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:64
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:65
 msgctxt "Comment"
 msgid "Configure compositor settings for desktop effects"
 msgstr ""
 
-#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:97
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:98
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
@@ -408,7 +408,7 @@ msgctxt "Name"
 msgid "Window Manager Effects"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: src/kcmkwin/kwineffects/package/metadata.desktop:51
+#: src/kcmkwin/kwineffects/package/metadata.desktop:52
 msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr ""
@@ -421,7 +421,7 @@ msgctxt "Name"
 msgid "Window Actions"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: src/kcmkwin/kwinoptions/kwinactions.desktop:44
+#: src/kcmkwin/kwinoptions/kwinactions.desktop:45
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -429,7 +429,7 @@ msgctxt "Comment"
 msgid "Configure mouse actions for windows and titlebars"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcmkwin/kwinoptions/kwinactions.desktop:77
+#: src/kcmkwin/kwinoptions/kwinactions.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -578,12 +578,12 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr ""
 
-#: src/kcmkwin/kwinscripts/kwinscripts.desktop:62
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:63
 msgctxt "Name"
 msgid "KWin Scripts"
 msgstr ""
 
-#: src/kcmkwin/kwinscripts/kwinscripts.desktop:113
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:115
 msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
@@ -630,7 +630,7 @@ msgctxt "Name"
 msgid "Virtual Keyboard"
 msgstr "ডেস্কট'প"
 
-#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:39
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:40
 msgctxt "Comment"
 msgid "Select which virtual keyboard to use"
 msgstr ""
@@ -739,7 +739,7 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
 
-#: src/plugins/krunner-integration/kwin-runner-windows.desktop:30
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:31
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
