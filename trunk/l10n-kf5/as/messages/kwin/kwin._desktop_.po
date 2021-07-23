@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-22 00:24+0000\n"
+"POT-Creation-Date: 2021-07-23 00:26+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -145,7 +145,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr ""
 
-#: src/effects/logout/package/metadata.desktop:41
+#: src/effects/logout/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
 msgstr ""
