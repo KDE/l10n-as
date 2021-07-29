@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:21+0000\n"
+"POT-Creation-Date: 2021-07-29 00:18+0000\n"
 "PO-Revision-Date: 2009-01-15 15:43+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -219,7 +219,7 @@ msgstr ""
 msgid "Performance"
 msgstr "কর্মক্ষমতা"
 
-#: actions/bundled/powerprofileconfig.cpp:106
+#: actions/bundled/powerprofileconfig.cpp:109
 #, kde-format
 msgctxt "Switch to power management profile"
 msgid "Switch to:"
