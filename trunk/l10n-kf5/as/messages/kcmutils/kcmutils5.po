@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-22 00:13+0000\n"
+"POT-Creation-Date: 2021-08-08 00:13+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -120,7 +120,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "বৈশিষ্ট্য"
 
-#: kcmultidialog.cpp:245 kpluginselector.cpp:806
+#: kcmultidialog.cpp:245 kpluginselector.cpp:805
 #, kde-format
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
@@ -143,7 +143,7 @@ msgstr ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে স্বয়ংক্ৰিয়ৰূপে পৰিবৰ্তন সম্পন্ন কৰা "
 "হৈছে:\n"
 
-#: kpluginselector.cpp:201
+#: kpluginselector.cpp:203
 #, kde-format
 msgid ""
 "\n"
@@ -164,12 +164,12 @@ msgstr ""
 "    %1 প্লাগ-ইন %2 প্লাগ-ইনৰ ওপৰত নিৰ্ভৰতাৰ ফলত স্বয়ংক্ৰিয়ৰূপে নিৰ্ব্বাচনৰ পৰা আঁতৰুৱা "
 "হৈছে"
 
-#: kpluginselector.cpp:210
+#: kpluginselector.cpp:209
 #, kde-format
 msgid "Dependency Check"
 msgstr "নিৰ্ভৰতা পৰীক্ষণ"
 
-#: kpluginselector.cpp:228
+#: kpluginselector.cpp:227
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
@@ -178,12 +178,12 @@ msgstr[0] ""
 msgstr[1] ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে যোগ কৰা হৈছে"
 
-#: kpluginselector.cpp:232
+#: kpluginselector.cpp:231
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:236
+#: kpluginselector.cpp:235
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
@@ -192,13 +192,13 @@ msgstr[0] ""
 msgstr[1] ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱাহৈছে"
 
-#: kpluginselector.cpp:258
+#: kpluginselector.cpp:257
 #, fuzzy, kde-format
 #| msgid "&Search"
 msgid "Search..."
 msgstr "অনুসন্ধান (&S)"
 
-#: kpluginselector.cpp:801
+#: kpluginselector.cpp:800
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
