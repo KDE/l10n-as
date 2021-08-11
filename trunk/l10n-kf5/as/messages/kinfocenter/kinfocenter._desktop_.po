@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-04 00:26+0000\n"
+"POT-Creation-Date: 2021-08-11 00:25+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -333,6 +333,27 @@ msgstr "সংযুক্ত IEEE 1394 যন্ত্ৰ"
 #: Modules/view1394/kcmview1394.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "1394,Firewire,devices,viewer,control"
+msgstr ""
+
+#: Modules/vulkan/kcm_vulkan.desktop:15
+#: Modules/vulkan/package/metadata.desktop:18
+msgctxt "Name"
+msgid "Vulkan"
+msgstr ""
+
+#: Modules/vulkan/kcm_vulkan.desktop:17
+#: Modules/vulkan/package/metadata.desktop:20
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Processor Information"
+msgctxt "Comment"
+msgid "Vulkan graphics API information"
+msgstr "সংসাধকৰ তথ্য"
+
+#: Modules/vulkan/kcm_vulkan.desktop:19
+#: Modules/vulkan/package/metadata.desktop:22
+msgctxt "X-KDE-Keywords"
+msgid "Vulkan,VideoCard,Hardware Acceleration,Graphics"
 msgstr ""
 
 #: org.kde.kinfocenter.desktop:9
