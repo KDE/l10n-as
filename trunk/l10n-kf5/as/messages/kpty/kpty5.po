@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-06 02:33+0100\n"
+"POT-Creation-Date: 2021-08-14 00:14+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -28,12 +28,12 @@ msgstr "PTY ৰ পৰা পঢ়োঁতে সমস্যা"
 msgid "Error writing to PTY"
 msgstr "PTY লৈ লিখোঁতে সমস্যা"
 
-#: kptydevice.cpp:404
+#: kptydevice.cpp:405
 #, kde-format
 msgid "PTY operation timed out"
 msgstr "PTY কাৰ্য্যৰ সময় পূৰ্ণ হৈছে"
 
-#: kptydevice.cpp:463 kptydevice.cpp:477
+#: kptydevice.cpp:464 kptydevice.cpp:478
 #, kde-format
 msgid "Error opening PTY"
 msgstr "PTY খোলোঁতে সমস্যা"
