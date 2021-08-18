@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-16 00:25+0000\n"
+"POT-Creation-Date: 2021-08-18 00:26+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -92,6 +92,24 @@ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ�
 msgctxt "Comment"
 msgid "Information About This System"
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
+
+#: Modules/cpu/kcm_cpu.desktop:15 Modules/cpu/package/metadata.desktop:14
+msgctxt "Name"
+msgid "CPU"
+msgstr ""
+
+#: Modules/cpu/kcm_cpu.desktop:17 Modules/cpu/package/metadata.desktop:16
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Processor Information"
+msgctxt "Comment"
+msgid "Advanced CPU Information"
+msgstr "সংসাধকৰ তথ্য"
+
+#: Modules/cpu/kcm_cpu.desktop:19 Modules/cpu/package/metadata.desktop:18
+msgctxt "X-KDE-Keywords"
+msgid "cpu,amd,intel,arm,instructions,cores,architecture,byte order"
+msgstr ""
 
 #: Modules/devinfo/devinfo.desktop:13
 #, fuzzy
