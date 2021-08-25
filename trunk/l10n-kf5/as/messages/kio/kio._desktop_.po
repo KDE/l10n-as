@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-21 00:26+0000\n"
+"POT-Creation-Date: 2021-08-25 00:26+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -149,7 +149,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:48
+#: src/kcms/webshortcuts/webshortcuts.desktop:49
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -157,7 +157,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:82
+#: src/kcms/webshortcuts/webshortcuts.desktop:84
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -230,7 +230,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
 
-#: src/new_file_templates/linkPath.desktop:26
+#: src/new_file_templates/linkPath.desktop:27
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -428,7 +428,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:36
+#: src/urifilters/ikws/searchproviders/bug.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://bugs.debian.org/\\\\{@}"
@@ -581,7 +581,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:36
+#: src/urifilters/ikws/searchproviders/deepl.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
