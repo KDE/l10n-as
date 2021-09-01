@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-16 02:04+0000\n"
+"POT-Creation-Date: 2021-09-01 00:28+0000\n"
 "PO-Revision-Date: 2008-12-17 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -327,6 +327,11 @@ msgstr "মৰাঠি"
 msgctxt "Name"
 msgid "Malay"
 msgstr "মালাই"
+
+#: my/messages/kconfigwidgets/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Burmese"
+msgstr ""
 
 #: nb/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
