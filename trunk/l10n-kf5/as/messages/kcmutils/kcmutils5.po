@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-22 00:14+0000\n"
+"POT-Creation-Date: 2021-09-11 00:14+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -57,7 +57,7 @@ msgstr ""
 "<qt><p>সম্ভৱতঃ অংশ দ্বাৰা বিন্যাস হোৱা যান্ত্ৰিক সামগ্ৰী/চালনাজ্ঞান উপলব্ধ নহয় বা "
 "প্ৰশাসক দ্বাৰা অংশ নিষ্ক্ৰিয় কৰা হৈছে ।</p></qt>"
 
-#: kcmoduleloader.cpp:99 kcmoduleloader.cpp:176
+#: kcmoduleloader.cpp:99 kcmoduleloader.cpp:192
 #, fuzzy, kde-format
 #| msgid "Error loading '%1'.\n"
 msgid "Error loading QML file."
@@ -92,7 +92,7 @@ msgstr ""
 msgid "The module has been disabled by the system administrator."
 msgstr "অনুগ্ৰহ কৰি ব্যৱস্থাপ্ৰণালী প্ৰশাসকৰ সৈতে যোগাযোগ কৰক ।"
 
-#: kcmoduleloader.cpp:213
+#: kcmoduleloader.cpp:229
 #, kde-format
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last system "
