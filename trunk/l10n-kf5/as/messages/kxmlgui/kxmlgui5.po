@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-14 00:14+0000\n"
+"POT-Creation-Date: 2021-09-12 00:15+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -18,35 +18,63 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 0.2\n"
 
-#: kaboutapplicationdialog.cpp:59 kaboutplugindialog.cpp:65
+#: kaboutapplicationcomponentlistdelegate_p.cpp:52
+#, fuzzy, kde-format
+#| msgid "Homepage"
+msgid "Visit component's homepage"
+msgstr "হোম পৃষ্ঠা"
+
+#: kaboutapplicationcomponentlistdelegate_p.cpp:100
+#, fuzzy, kde-format
+#| msgid "Homepage"
+msgctxt "@info:tooltip"
+msgid ""
+"Visit components's homepage\n"
+"%1"
+msgstr "হোম পৃষ্ঠা"
+
+#: kaboutapplicationcomponentlistdelegate_p.cpp:141
+#, fuzzy, kde-format
+#| msgctxt "@application/plain"
+#| msgid "%1"
+msgctxt "@item Component name in about dialog."
+msgid "%1"
+msgstr "%1"
+
+#: kaboutapplicationcomponentlistdelegate_p.cpp:144
+#, fuzzy, kde-format
+#| msgid "Version %1"
+msgid "Version %1"
+msgstr "সংস্কৰণ %1"
+
+#: kaboutapplicationcomponentlistdelegate_p.cpp:153
+#: kabstractaboutdialog_p.cpp:85
+#, kde-format
+msgid "License: %1"
+msgstr "প্ৰমাণপত্ৰ: %1"
+
+#: kaboutapplicationdialog.cpp:60 kaboutplugindialog.cpp:65
 #, fuzzy, kde-format
 #| msgid "About %1"
 msgctxt "@title:window"
 msgid "About %1"
 msgstr "%1 ৰ বিষয়ে"
 
-#: kaboutapplicationdialog.cpp:97 kaboutplugindialog.cpp:83
+#: kaboutapplicationdialog.cpp:98 kaboutplugindialog.cpp:83
 #, fuzzy, kde-format
 #| msgid "&About"
 msgctxt "@title:tab"
 msgid "About"
 msgstr "বিষয়ে (&A)"
 
-#: kaboutapplicationdialog.cpp:103
-#, kde-format
-msgid ""
-"<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</li><li>The <em>"
-"%4</em> windowing system</li></ul>"
-msgstr ""
-
-#: kaboutapplicationdialog.cpp:111
+#: kaboutapplicationdialog.cpp:104
 #, fuzzy, kde-format
-#| msgid "Libraries"
+#| msgid "Comments"
 msgctxt "@title:tab"
-msgid "Libraries"
-msgstr "লাইব্ৰেৰি"
+msgid "Components"
+msgstr "মন্তব্য"
 
-#: kaboutapplicationdialog.cpp:123 kaboutplugindialog.cpp:91
+#: kaboutapplicationdialog.cpp:117 kaboutplugindialog.cpp:91
 #, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@title:tab"
@@ -55,14 +83,14 @@ msgid_plural "Authors"
 msgstr[0] "লেখক"
 msgstr[1] "লেখক"
 
-#: kaboutapplicationdialog.cpp:130 kaboutplugindialog.cpp:98
+#: kaboutapplicationdialog.cpp:124 kaboutplugindialog.cpp:98
 #, fuzzy, kde-format
 #| msgid "&Thanks To"
 msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "ধন্যবাদ জনোৱা হৈছে (&T)"
 
-#: kaboutapplicationdialog.cpp:137 kaboutplugindialog.cpp:104
+#: kaboutapplicationdialog.cpp:131 kaboutplugindialog.cpp:104
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "@title:tab"
@@ -219,37 +247,52 @@ msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "KDE ক সমৰ্থন কৰক (&S)"
 
-#: kabstractaboutdialog_p.cpp:38
+#: kabstractaboutdialog_p.cpp:42
 #, fuzzy, kde-format
 #| msgid "Version %1"
 msgctxt "Version version-number"
 msgid "Version %1"
 msgstr "সংস্কৰণ %1"
 
-#: kabstractaboutdialog_p.cpp:81
+#: kabstractaboutdialog_p.cpp:107
 #, kde-format
-msgid "License: %1"
-msgstr "প্ৰমাণপত্ৰ: %1"
+msgid "The <em>%1</em> windowing system"
+msgstr ""
 
-#: kabstractaboutdialog_p.cpp:101
+#: kabstractaboutdialog_p.cpp:108
+#, kde-format
+msgid "Qt"
+msgstr "Qt"
+
+#: kabstractaboutdialog_p.cpp:108
+#, kde-format
+msgid "%1 (built against %2)"
+msgstr ""
+
+#: kabstractaboutdialog_p.cpp:109
+#, kde-format
+msgid "KDE Frameworks"
+msgstr ""
+
+#: kabstractaboutdialog_p.cpp:130
 #, fuzzy, kde-format
 #| msgid "Show author information"
 msgid "Show author photos"
 msgstr "লেখকৰ তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: kabstractaboutdialog_p.cpp:102
+#: kabstractaboutdialog_p.cpp:131
 #, kde-format
 msgid "Enabling this will fetch images from an online location"
 msgstr ""
 
-#: kabstractaboutdialog_p.cpp:141
+#: kabstractaboutdialog_p.cpp:170
 #, fuzzy, kde-format
 #| msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgctxt "Reference to website"
 msgid "Please use %1 to report bugs.\n"
 msgstr "অনুগ্ৰহ কৰি http://bugs.kde.org ত বাগ প্ৰতিবেদন কৰক ।\n"
 
-#: kabstractaboutdialog_p.cpp:149
+#: kabstractaboutdialog_p.cpp:178
 #, fuzzy, kde-format
 #| msgid "Please report bugs to %1.\n"
 msgctxt "Reference to email address"
@@ -1541,6 +1584,12 @@ msgid "Main Toolbar"
 msgstr "প্ৰধান টুল-বাৰ"
 
 #, fuzzy
+#~| msgid "Libraries"
+#~ msgctxt "@title:tab"
+#~ msgid "Libraries"
+#~ msgstr "লাইব্ৰেৰি"
+
+#, fuzzy
 #~| msgid "Homepage"
 #~ msgctxt "@info:tooltip"
 #~ msgid ""
@@ -2688,9 +2737,6 @@ msgstr "প্ৰধান টুল-বাৰ"
 
 #~ msgid "KDE Application"
 #~ msgstr "KDE অনুপ্ৰয়োগ"
-
-#~ msgid "Qt"
-#~ msgstr "Qt"
 
 #~ msgid "KDE"
 #~ msgstr "KDE"
@@ -8560,9 +8606,6 @@ msgstr "প্ৰধান টুল-বাৰ"
 
 #~ msgid "Loading Preview"
 #~ msgstr "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
-
-#~ msgid "Comments"
-#~ msgstr "মন্তব্য"
 
 #~ msgid "Changelog"
 #~ msgstr "Changelog"
