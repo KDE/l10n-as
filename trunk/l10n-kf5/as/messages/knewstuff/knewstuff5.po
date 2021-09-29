@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-15 00:15+0000\n"
+"POT-Creation-Date: 2021-09-29 00:14+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -212,7 +212,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 msgstr[1] "পূৰ্বপ্ৰদৰ্শন তুলি লোৱা হৈছে"
 
-#: core/engine.cpp:1216
+#: core/engine.cpp:1215
 #, fuzzy, kde-format
 #| msgid "Failed to load file '%1'"
 msgid ""
