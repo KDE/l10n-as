@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-13 00:19+0000\n"
+"POT-Creation-Date: 2021-10-14 00:18+0000\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -27,7 +27,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
 
-#: abstract_client.cpp:2818
+#: abstract_client.cpp:2820
 #, kde-format
 msgctxt "Application is not responding, appended to window title"
 msgid "(Not Responding)"
@@ -1143,7 +1143,7 @@ msgstr ""
 msgid "Wait Longer"
 msgstr ""
 
-#: input.cpp:2528
+#: input.cpp:2527
 #, kde-format
 msgid "Touchpad"
 msgstr ""
@@ -2505,44 +2505,52 @@ msgid "Move Window to the Center"
 msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #: useractions.cpp:1012
-#, kde-format
-msgid "Pack Window to the Right"
-msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+#, fuzzy, kde-format
+#| msgid "Move Window"
+msgid "Move Window Right"
+msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #: useractions.cpp:1014
-#, kde-format
-msgid "Pack Window to the Left"
-msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+#, fuzzy, kde-format
+#| msgid "Move Window"
+msgid "Move Window Left"
+msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #: useractions.cpp:1016
-#, kde-format
-msgid "Pack Window Up"
-msgstr "ওপৰত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+#, fuzzy, kde-format
+#| msgid "Move Window"
+msgid "Move Window Up"
+msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #: useractions.cpp:1018
-#, kde-format
-msgid "Pack Window Down"
-msgstr "তলত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+#, fuzzy, kde-format
+#| msgid "Move Window"
+msgid "Move Window Down"
+msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #: useractions.cpp:1020
-#, kde-format
-msgid "Pack Grow Window Horizontally"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "Maximize Window Horizontally"
+msgid "Expand Window Horizontally"
+msgstr "অনুভূমিক দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
 #: useractions.cpp:1022
-#, kde-format
-msgid "Pack Grow Window Vertically"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "Maximize Window Vertically"
+msgid "Expand Window Vertically"
+msgstr "উলম্ব দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
 #: useractions.cpp:1024
-#, kde-format
-msgid "Pack Shrink Window Horizontally"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "Maximize Window Horizontally"
+msgid "Shrink Window Horizontally"
+msgstr "অনুভূমিক দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
 #: useractions.cpp:1026
-#, kde-format
-msgid "Pack Shrink Window Vertically"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "Maximize Window Vertically"
+msgid "Shrink Window Vertically"
+msgstr "উলম্ব দিশত সংযোগক্ষেত্ৰ ডাঙৰ কৰক"
 
 #: useractions.cpp:1028
 #, fuzzy, kde-format
@@ -2791,6 +2799,18 @@ msgid ""
 "like https://paste.kde.org instead of pasting into support threads.\n"
 msgstr ""
 
+#~ msgid "Pack Window to the Right"
+#~ msgstr "সোঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#~ msgid "Pack Window to the Left"
+#~ msgstr "বাওঁফালে সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#~ msgid "Pack Window Up"
+#~ msgstr "ওপৰত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
+#~ msgid "Pack Window Down"
+#~ msgstr "তলত সংযোগক্ষেত্ৰ একত্ৰিত কৰক"
+
 #, fuzzy
 #~| msgid "Desktop Cube"
 #~ msgid "Desktop number"
@@ -2944,26 +2964,6 @@ msgstr ""
 #~| msgid "Switch One Desktop Down"
 #~ msgid "Switch Focus Down"
 #~ msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰক"
-
-#, fuzzy
-#~| msgid "Move Window"
-#~ msgid "Move Window Left"
-#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#, fuzzy
-#~| msgid "Move Window"
-#~ msgid "Move Window Right"
-#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#, fuzzy
-#~| msgid "Move Window"
-#~ msgid "Move Window Up"
-#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
-
-#, fuzzy
-#~| msgid "Move Window"
-#~ msgid "Move Window Down"
-#~ msgstr "সংযোগক্ষেত্ৰ স্থানান্তৰণ"
 
 #, fuzzy
 #~| msgid "Disabled"
