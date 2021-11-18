@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-14 00:37+0000\n"
+"POT-Creation-Date: 2021-11-18 00:36+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -230,7 +230,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "অনুপ্ৰয়োগলৈ সংযোগ..."
 
-#: src/new_file_templates/linkPath.desktop:31
+#: src/new_file_templates/linkPath.desktop:32
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -1150,7 +1150,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "KDE তালিকা"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:21
+#: src/urifilters/ikws/searchproviders/invent.desktop:22
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1163,7 +1163,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:21
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:22
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
