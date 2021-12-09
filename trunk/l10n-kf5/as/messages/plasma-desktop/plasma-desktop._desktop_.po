@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-07 00:52+0000\n"
+"POT-Creation-Date: 2021-12-09 00:52+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -689,20 +689,26 @@ msgid "Plasma Renderer"
 msgstr ""
 
 #: kcms/runners/kcm_plasmasearch.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Find Part"
 msgctxt "Name"
-msgid "KRunner"
-msgstr ""
+msgid "Plasma Search"
+msgstr "বিভাজন বিচাৰক"
 
 #: kcms/runners/kcm_plasmasearch.desktop:53
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web cache settings"
 msgctxt "Comment"
-msgid "Configure Search Bar"
-msgstr ""
+msgid "Configure search settings"
+msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
 #: kcms/runners/kcm_plasmasearch.desktop:98
 msgctxt "X-KDE-Keywords"
 msgid ""
 "search,file,baloo,runners,krunner,launcher,app launcher,desktop search,k "
-"runner,find,plugins,computer search"
+"runner,find,plugins,computer search,overview"
 msgstr ""
 
 #: kcms/solid_actions/device-actions/solid-device-Battery.desktop:2
