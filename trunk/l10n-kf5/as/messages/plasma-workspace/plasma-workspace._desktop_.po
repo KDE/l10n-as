@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-09 00:52+0000\n"
+"POT-Creation-Date: 2021-12-11 00:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -680,7 +680,7 @@ msgctxt "Name"
 msgid "German Weather Service"
 msgstr "Debian Package Search"
 
-#: dataengines/weather/ions/dwd/ion-dwd.desktop:14
+#: dataengines/weather/ions/dwd/ion-dwd.desktop:16
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Debian Package Search"
