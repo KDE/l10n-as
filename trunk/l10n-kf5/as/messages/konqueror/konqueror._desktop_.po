@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-30 00:53+0000\n"
+"POT-Creation-Date: 2021-12-15 00:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -187,6 +187,19 @@ msgstr ""
 #: plugins/imagerotation/jpegorient.desktop:294
 msgctxt "Name"
 msgid "Flip Horizontally"
+msgstr ""
+
+#: plugins/kget/kget_plugin.desktop:14
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "Download Manager"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: plugins/kget/kget_plugin.desktop:66
+msgctxt "Comment"
+msgid "A versatile and easy to use file download manager"
 msgstr ""
 
 #: plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop.in:12
@@ -1428,13 +1441,6 @@ msgstr ""
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "Terminal Emulator"
 #~ msgstr "Arcade Emulator"
-
-#, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "File Manager"
-#~ msgctxt "Name|standard desktop component"
-#~ msgid "Window Manager"
-#~ msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #~ msgctxt "Name"
 #~ msgid "Metacity (GNOME)"
