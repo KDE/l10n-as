@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-15 00:57+0000\n"
+"POT-Creation-Date: 2021-12-16 00:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -17,16 +17,6 @@ msgstr ""
 #: applets/kimpanel/backend/ibus/emojier/app/org.kde.plasma.emojier.desktop:3
 msgctxt "Name"
 msgid "Emoji Selector"
-msgstr ""
-
-#: containments/panel/plasma-containment-panel.desktop:2
-msgctxt "Name"
-msgid "Empty Panel"
-msgstr ""
-
-#: containments/panel/plasma-containment-panel.desktop:58
-msgctxt "Comment"
-msgid "A simple linear panel"
 msgstr ""
 
 #: desktoppackage/metadata.desktop:2
@@ -246,7 +236,7 @@ msgctxt "Comment"
 msgid "Calibrate Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/joystick/kcm_joystick.desktop:44
+#: kcms/joystick/kcm_joystick.desktop:45
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -282,7 +272,7 @@ msgctxt "Name"
 msgid "Shortcuts"
 msgstr ""
 
-#: kcms/keys/kcm_keys.desktop:46
+#: kcms/keys/kcm_keys.desktop:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -326,7 +316,7 @@ msgctxt "Name"
 msgid "Quick Settings"
 msgstr ""
 
-#: kcms/landingpage/kcm_landingpage.desktop:43
+#: kcms/landingpage/kcm_landingpage.desktop:44
 msgctxt "Comment"
 msgid "Landing page with some basic settings"
 msgstr ""
@@ -364,7 +354,7 @@ msgctxt "Name"
 msgid "Plasma Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/runners/kcm_plasmasearch.desktop:25
+#: kcms/runners/kcm_plasmasearch.desktop:26
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -719,7 +709,7 @@ msgctxt "Name"
 msgid "General Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:48
+#: kcms/workspaceoptions/kcm_workspace.desktop:49
 msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr ""
