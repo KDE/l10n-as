@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-18 10:53+0000\n"
+"POT-Creation-Date: 2021-12-23 00:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -354,7 +354,7 @@ msgctxt "Name"
 msgid "Plasma Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/runners/kcm_plasmasearch.desktop:28
+#: kcms/runners/kcm_plasmasearch.desktop:30
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
