@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-19 10:20+0000\n"
+"POT-Creation-Date: 2022-01-01 00:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -476,7 +476,7 @@ msgctxt "Comment"
 msgid "Configure active screen corners and edges"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:119
+#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:120
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
@@ -498,7 +498,7 @@ msgctxt "Comment"
 msgid "Configure touch screen swipe gestures"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:93
+#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:94
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
@@ -546,7 +546,7 @@ msgctxt "Comment"
 msgid "Navigation Through Windows"
 msgstr ""
 
-#: src/kcmkwin/kwintabbox/kwintabbox.desktop:120
+#: src/kcmkwin/kwintabbox/kwintabbox.desktop:121
 msgctxt "X-KDE-Keywords"
 msgid ""
 "window,windows,switcher,window switcher,switching,window switching,alttab,"
@@ -568,7 +568,7 @@ msgctxt "Comment"
 msgid "Select which virtual keyboard to use"
 msgstr ""
 
-#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:72
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:73
 msgctxt "X-KDE-Keywords"
 msgid ""
 "software keyboard,virtual keyboard,touch keyboard,on screen keyboard,input "
@@ -601,17 +601,17 @@ msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "চিত্ৰাঙ্কন"
 
-#: src/kwin.notifyrc:247
+#: src/kwin.notifyrc:248
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
 
-#: src/kwin.notifyrc:296
+#: src/kwin.notifyrc:298
 msgctxt "Name"
 msgid "Xwayland Crash"
 msgstr ""
 
-#: src/kwin.notifyrc:327
+#: src/kwin.notifyrc:330
 msgctxt "Comment"
 msgid "Xwayland has crashed"
 msgstr ""
@@ -660,7 +660,7 @@ msgctxt "Name"
 msgid "Desktop Change OSD"
 msgstr "ডেস্কট'প"
 
-#: src/scripts/desktopchangeosd/metadata.desktop:52
+#: src/scripts/desktopchangeosd/metadata.desktop:53
 msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
@@ -670,7 +670,7 @@ msgctxt "Name"
 msgid "MinimizeAll"
 msgstr ""
 
-#: src/scripts/minimizeall/metadata.desktop:46
+#: src/scripts/minimizeall/metadata.desktop:47
 msgctxt "Comment"
 msgid "Adds a shortcut to minimize and restore all windows"
 msgstr ""
