@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-14 00:41+0000\n"
+"POT-Creation-Date: 2022-01-20 00:40+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1346,116 +1346,116 @@ msgstr ""
 "এই অনুপ্ৰয়োগৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে, বিকল্প ৰূপে এই "
 "ভাষা ব্যৱহাৰ কৰা হ'ব ।"
 
-#: ktoolbar.cpp:291 ktoolbar.cpp:298
+#: ktoolbar.cpp:294 ktoolbar.cpp:301
 #, fuzzy, kde-format
 #| msgid "Toolbar Menu"
 msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "টুল-বাৰ তালিকা"
 
-#: ktoolbar.cpp:293
+#: ktoolbar.cpp:296
 #, fuzzy, kde-format
 #| msgid "Show help"
 msgctxt "@title:menu"
 msgid "Show Text"
 msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: ktoolbar.cpp:300
+#: ktoolbar.cpp:303
 #, fuzzy, kde-format
 #| msgid "Orientation"
 msgctxt "Toolbar orientation"
 msgid "Orientation"
 msgstr "দিশ"
 
-#: ktoolbar.cpp:302
+#: ktoolbar.cpp:305
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "ওপৰত"
 
-#: ktoolbar.cpp:306
+#: ktoolbar.cpp:309
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "বাওঁফালে"
 
-#: ktoolbar.cpp:309
+#: ktoolbar.cpp:312
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "সোঁফালে"
 
-#: ktoolbar.cpp:312
+#: ktoolbar.cpp:315
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "তলত"
 
-#: ktoolbar.cpp:323
+#: ktoolbar.cpp:326
 #, kde-format
 msgid "Text Position"
 msgstr "লিপিৰ অৱস্থান"
 
-#: ktoolbar.cpp:325
+#: ktoolbar.cpp:328
 #, fuzzy, kde-format
 #| msgid "Icons Only"
 msgctxt "@item:inmenu"
 msgid "Icons Only"
 msgstr "অকল আইকন"
 
-#: ktoolbar.cpp:328
+#: ktoolbar.cpp:331
 #, fuzzy, kde-format
 #| msgid "Text Only"
 msgctxt "@item:inmenu"
 msgid "Text Only"
 msgstr "অকল লিপি"
 
-#: ktoolbar.cpp:331
+#: ktoolbar.cpp:334
 #, fuzzy, kde-format
 #| msgid "Text Alongside Icons"
 msgctxt "@item:inmenu"
 msgid "Text Alongside Icons"
 msgstr "আইকনৰ ওচৰত লিপি"
 
-#: ktoolbar.cpp:334
+#: ktoolbar.cpp:337
 #, fuzzy, kde-format
 #| msgid "Text Under Icons"
 msgctxt "@item:inmenu"
 msgid "Text Under Icons"
 msgstr "আইকনৰ তলত লিপি"
 
-#: ktoolbar.cpp:345
+#: ktoolbar.cpp:348
 #, kde-format
 msgid "Icon Size"
 msgstr "আইকনৰ মাপ"
 
-#: ktoolbar.cpp:351
+#: ktoolbar.cpp:354
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "অবিকল্পিত মান"
 
-#: ktoolbar.cpp:368 ktoolbar.cpp:389
+#: ktoolbar.cpp:371 ktoolbar.cpp:392
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "সৰু (%1x%2)"
 
-#: ktoolbar.cpp:370 ktoolbar.cpp:391
+#: ktoolbar.cpp:373 ktoolbar.cpp:394
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "মধ্যম (%1x%2)"
 
-#: ktoolbar.cpp:372 ktoolbar.cpp:393
+#: ktoolbar.cpp:375 ktoolbar.cpp:396
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "ডাঙৰ (%1x%2)"
 
-#: ktoolbar.cpp:374 ktoolbar.cpp:395
+#: ktoolbar.cpp:377 ktoolbar.cpp:398
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "বৃহৎ (%1x%2)"
 
-#: ktoolbar.cpp:418
+#: ktoolbar.cpp:421
 #, fuzzy, kde-format
 #| msgid "Lock Toolbars"
 msgid "Lock Toolbar Positions"
@@ -1512,7 +1512,7 @@ msgstr "পুনৰাবৃত্তি"
 msgid "Undo"
 msgstr "পূৰ্বাবস্থা"
 
-#: kxmlguibuilder.cpp:182 kxmlguibuilder.cpp:353
+#: kxmlguibuilder.cpp:182 kxmlguibuilder.cpp:361
 #, kde-format
 msgid "No text"
 msgstr "কোনো লিপি নাই"
