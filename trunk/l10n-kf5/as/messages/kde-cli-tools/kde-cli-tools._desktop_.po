@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-16 00:55+0000\n"
+"POT-Creation-Date: 2022-01-26 00:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -14,20 +14,10 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: keditfiletype/filetypes.desktop:12
+#: keditfiletype/kcm_filetypes.desktop:7
 msgctxt "Name"
 msgid "File Associations"
 msgstr "নথিপত্ৰৰ সম্বন্ধ"
-
-#: keditfiletype/filetypes.desktop:105
-msgctxt "Comment"
-msgid "Configure file associations"
-msgstr "নথিপত্ৰৰ সম্বন্ধ বিন্যাস কৰক"
-
-#: keditfiletype/filetypes.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
-msgstr ""
 
 #: keditfiletype/org.kde.keditfiletype.desktop:2
 msgctxt "Name"
@@ -49,6 +39,10 @@ msgstr "লিপি সম্পাদক"
 msgctxt "Name"
 msgid "Open System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure file associations"
+#~ msgstr "নথিপত্ৰৰ সম্বন্ধ বিন্যাস কৰক"
 
 #, fuzzy
 #~| msgctxt "Name"
