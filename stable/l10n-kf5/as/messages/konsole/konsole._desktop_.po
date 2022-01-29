@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-01 02:15+0000\n"
+"POT-Creation-Date: 2022-01-29 02:15+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -27,12 +27,12 @@ msgctxt "Name"
 msgid "Bell in Focused Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:137
+#: desktop/konsole.notifyrc:138
 msgctxt "Comment"
 msgid "Bell emitted within a focused session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:180
+#: desktop/konsole.notifyrc:182
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -40,52 +40,52 @@ msgctxt "Name"
 msgid "Bell in Non-Focused Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:220
+#: desktop/konsole.notifyrc:223
 msgctxt "Comment"
 msgid "Bell emitted within a non-focused session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:264
+#: desktop/konsole.notifyrc:268
 msgctxt "Name"
 msgid "Activity in Non-Focused Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:304
+#: desktop/konsole.notifyrc:309
 msgctxt "Comment"
 msgid "Activity detected in a non-focused monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:347
+#: desktop/konsole.notifyrc:353
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:428
+#: desktop/konsole.notifyrc:434
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:516
+#: desktop/konsole.notifyrc:522
 msgctxt "Name"
 msgid "Silence in Non-Focused Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:556
+#: desktop/konsole.notifyrc:563
 msgctxt "Comment"
 msgid "Silence detected in a non-focused monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:599
+#: desktop/konsole.notifyrc:607
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:680
+#: desktop/konsole.notifyrc:688
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:768
+#: desktop/konsole.notifyrc:776
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bell in Visible Session"
@@ -93,27 +93,27 @@ msgctxt "Name"
 msgid "Process finished in Non-Focused Monitored Session"
 msgstr "দেখি পোৱা অধিবেশনত ঘন্টা"
 
-#: desktop/konsole.notifyrc:800
+#: desktop/konsole.notifyrc:809
 msgctxt "Comment"
 msgid "Process finished in a non-focused monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:835
+#: desktop/konsole.notifyrc:845
 msgctxt "Name"
 msgid "Process finished in Monitored Session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:868
+#: desktop/konsole.notifyrc:879
 msgctxt "Comment"
 msgid "Process finished in a monitored session"
 msgstr ""
 
-#: desktop/konsole.notifyrc:904
+#: desktop/konsole.notifyrc:916
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr ""
 
-#: desktop/konsole.notifyrc:988
+#: desktop/konsole.notifyrc:1000
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr ""
@@ -123,7 +123,7 @@ msgctxt "Name"
 msgid "Terminal Emulator"
 msgstr ""
 
-#: desktop/konsolepart.desktop:108 desktop/org.kde.konsole.desktop:221
+#: desktop/konsolepart.desktop:108 desktop/org.kde.konsole.desktop:222
 #: desktop/terminalemulator.desktop:99
 msgctxt "Comment"
 msgid "Command line access"
@@ -137,7 +137,7 @@ msgctxt "Name"
 msgid "Run In Konsole"
 msgstr "Konsole"
 
-#: desktop/konsolerun.desktop:63
+#: desktop/konsolerun.desktop:64
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Konsole"
@@ -152,22 +152,22 @@ msgid ""
 "bash;sh;shell;zsh"
 msgstr ""
 
-#: desktop/org.kde.konsole.desktop:40
+#: desktop/org.kde.konsole.desktop:41
 msgctxt "Name"
 msgid "Konsole"
 msgstr "Konsole"
 
-#: desktop/org.kde.konsole.desktop:134
+#: desktop/org.kde.konsole.desktop:135
 msgctxt "GenericName"
 msgid "Terminal"
 msgstr "টাৰ্মিনেল"
 
-#: desktop/org.kde.konsole.desktop:267
+#: desktop/org.kde.konsole.desktop:269
 msgctxt "Name"
 msgid "Open a New Window"
 msgstr ""
 
-#: desktop/org.kde.konsole.desktop:320
+#: desktop/org.kde.konsole.desktop:323
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
