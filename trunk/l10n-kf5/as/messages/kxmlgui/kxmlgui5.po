@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-03 00:41+0000\n"
+"POT-Creation-Date: 2022-02-04 00:41+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -314,73 +314,73 @@ msgctxt "@title:window"
 msgid "Ambiguous shortcut detected"
 msgstr "চমু পথ"
 
-#: kbugreport.cpp:101
+#: kbugreport.cpp:102
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@title:window"
 msgid "Submit Bug Report"
 msgstr "বাগ প্ৰতিবেদন জমা কৰক"
 
-#: kbugreport.cpp:129
+#: kbugreport.cpp:130
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "বাগ প্ৰতিবেদন জমা কৰক"
 
-#: kbugreport.cpp:141
+#: kbugreport.cpp:142
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "আপোনাৰ ঈ-মেইল ঠিকনা । ভুল হ'লে 'ঈ-মেইল বিন্যাস কৰক' বুটাম টিপি সেইটো পৰিবৰ্তন কৰক"
 
-#: kbugreport.cpp:142
+#: kbugreport.cpp:143
 #, fuzzy, kde-format
 #| msgid "From:"
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "প্ৰেৰক:"
 
-#: kbugreport.cpp:150
+#: kbugreport.cpp:151
 #, fuzzy, kde-format
 #| msgid "Configure Email..."
 msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "ঈ-মেইল বিন্যাস কৰক..."
 
-#: kbugreport.cpp:157
+#: kbugreport.cpp:158
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "এই বাগ প্ৰতিবেদন যি ঈ-মেইল ঠিকনাত প্ৰেৰিত হৈছে ।"
 
-#: kbugreport.cpp:158
+#: kbugreport.cpp:159
 #, fuzzy, kde-format
 #| msgid "To:"
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "প্ৰাপক:"
 
-#: kbugreport.cpp:167
+#: kbugreport.cpp:168
 #, fuzzy, kde-format
 #| msgid "&Send"
 msgctxt "@action:button"
 msgid "&Send"
 msgstr "পঠিয়াওক (&S)"
 
-#: kbugreport.cpp:169
+#: kbugreport.cpp:170
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr "বাগ প্ৰতিবেদন পঠিয়াওক ।"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:171
 #, fuzzy, kde-format
 #| msgid "Send this bug report to %1."
 msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr "এই বাগ প্ৰতিবেদন %1 লৈ পঠিয়াওক ।"
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:180
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
@@ -389,12 +389,12 @@ msgstr ""
 "যি অনুপ্ৰয়োগৰ বাবে বাগ প্ৰতিবেদন কৰা হৈছে - সঠিক নহ'লে, অনুগ্ৰহ কৰি 'বাগ প্ৰতিবেদন "
 "কৰক' শীৰ্ষক তালিকাৰ পৰা যথাযত অনুপ্ৰয়োগ নিৰ্ব্বাচন কৰক"
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:181
 #, kde-format
 msgid "Application: "
 msgstr "অনুপ্ৰয়োগ: "
 
-#: kbugreport.cpp:190
+#: kbugreport.cpp:191
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -403,44 +403,44 @@ msgstr ""
 "অনুপ্ৰয়োগৰ সংস্কৰণ সংখ্যা - বাগ প্ৰতিবেদন কৰাৰ আগতে অনুগ্ৰহ কৰি এই অনুপ্ৰয়োগৰ কোনো "
 "নতুন সংস্কৰণ উপলব্ধ আছে নে নাই পৰীক্ষা কৰক ।"
 
-#: kbugreport.cpp:191
+#: kbugreport.cpp:192
 #, kde-format
 msgid "Version:"
 msgstr "সংস্কৰণ:"
 
-#: kbugreport.cpp:196
+#: kbugreport.cpp:197
 #, fuzzy, kde-format
 #| msgid "no version set (programmer error!)"
 msgid "no version set (programmer error)"
 msgstr "কোনো সংস্কৰণ নিৰ্ধাৰিত নহয় (প্ৰোগ্ৰেমাৰৰ ত্ৰুটি!)"
 
-#: kbugreport.cpp:208
+#: kbugreport.cpp:209
 #, kde-format
 msgid "OS:"
 msgstr "OS:"
 
-#: kbugreport.cpp:218
+#: kbugreport.cpp:219
 #, fuzzy, kde-format
 #| msgid "Se&verity"
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "গুৰুত্ব: (&v)"
 
-#: kbugreport.cpp:225
+#: kbugreport.cpp:226
 #, fuzzy, kde-format
 #| msgid "Critical"
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "মাৰাত্মক"
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:227
 #, fuzzy, kde-format
 #| msgid "Grave"
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "গুৰুতৰ"
 
-#: kbugreport.cpp:227
+#: kbugreport.cpp:228
 #, fuzzy, kde-format
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -448,26 +448,26 @@ msgctxt "bug severity"
 msgid "Normal"
 msgstr "স্বাভাবিক"
 
-#: kbugreport.cpp:228
+#: kbugreport.cpp:229
 #, fuzzy, kde-format
 #| msgid "Wishlist"
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "আকাঙ্ক্ষিত"
 
-#: kbugreport.cpp:229
+#: kbugreport.cpp:230
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "অনুবাদ"
 
-#: kbugreport.cpp:247
+#: kbugreport.cpp:248
 #, kde-format
 msgid "S&ubject: "
 msgstr "প্ৰসঙ্গ: (&u)"
 
-#: kbugreport.cpp:256
+#: kbugreport.cpp:257
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -476,7 +476,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kbugreport.cpp:279
+#: kbugreport.cpp:280
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -493,7 +493,7 @@ msgstr ""
 "bugs.kde.org\">http://bugs.kde.org</a> প্ৰদৰ্শনকাৰী এটা ৱেব চৰক সংযোগক্ষেত্ৰ "
 "খোলা হ'ব । উপৰোক্ত তথ্যসমূহ সংশ্লিষ্ট সেৱকলৈ প্ৰেৰিত হ'ব ।</qt>"
 
-#: kbugreport.cpp:285
+#: kbugreport.cpp:286
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -508,28 +508,35 @@ msgstr ""
 "bugs.kde.org\">http://bugs.kde.org</a> প্ৰদৰ্শনকাৰী এটা ৱেব চৰক সংযোগক্ষেত্ৰ "
 "খোলা হ'ব । উপৰোক্ত তথ্যসমূহ সংশ্লিষ্ট সেৱকলৈ প্ৰেৰিত হ'ব ।</qt>"
 
-#: kbugreport.cpp:302
+#: kbugreport.cpp:303
 #, fuzzy, kde-format
 #| msgid "&Launch Bug Report Wizard"
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "বাগ প্ৰতিবেদন প্ৰস্তুতিৰ উইজাৰ্ড আৰম্ভ কৰক (&L)"
 
-#: kbugreport.cpp:304
+#: kbugreport.cpp:305
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "বাগ প্ৰতিবেদন জমা কৰক"
 
-#: kbugreport.cpp:397
+#: kbugreport.cpp:360
+#, fuzzy, kde-format
+#| msgid "Could not find '%1' executable."
+msgctxt "The arg is the command kcmshell5"
+msgid "Could not find '%1' executable in PATH."
+msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
+
+#: kbugreport.cpp:410
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "প্ৰতিবেদন কৰাৰ বাবে প্ৰসঙ্গ আৰু বিৱৰণ উল্লেখ কৰা আৱশ্যক ।"
 
-#: kbugreport.cpp:406
+#: kbugreport.cpp:419
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -541,7 +548,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:422
+#: kbugreport.cpp:435
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -553,7 +560,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:441
+#: kbugreport.cpp:454
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -568,12 +575,12 @@ msgstr ""
 "অনুগ্ৰহ কৰি বাগ প্ৰতিবেদন নিজেই কৰক...\n"
 "নিৰ্দেশাৱলীৰ বাবে http://bugs.kde.org/ চাওক ।"
 
-#: kbugreport.cpp:448
+#: kbugreport.cpp:461
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "বাগ প্ৰতিবেদন পঠিওৱা হৈছে । আপোনাৰ মতামত জনোৱাৰ বাবে ধন্যবাদ ।"
 
-#: kbugreport.cpp:456
+#: kbugreport.cpp:469
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -582,48 +589,48 @@ msgstr ""
 "পৰিবৰ্তিত বাৰ্তা বন্ধ\n"
 "কৰি বৰ্জন কৰা হ'ব নেকি ?"
 
-#: kbugreport.cpp:457
+#: kbugreport.cpp:470
 #, fuzzy, kde-format
 #| msgid "Close Message"
 msgctxt "@title:window"
 msgid "Close Message"
 msgstr "বাৰ্তা বন্ধ কৰা হ'ব"
 
-#: kcheckaccelerators.cpp:258
+#: kcheckaccelerators.cpp:266
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dr. Klash' Accelerator Diagnosis"
 
-#: kcheckaccelerators.cpp:265
+#: kcheckaccelerators.cpp:273
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "স্বয়ংক্ৰিয় পৰীক্ষণ ব্যৱস্থা নিষ্ক্ৰিয় কৰা হ'ব"
 
-#: kcheckaccelerators.cpp:311
+#: kcheckaccelerators.cpp:319
 #, kde-format
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>পৰিবৰ্তিত Accelerators</h2>"
 
-#: kcheckaccelerators.cpp:315 kcheckaccelerators.cpp:319
+#: kcheckaccelerators.cpp:323 kcheckaccelerators.cpp:327
 #, fuzzy, kde-format
 #| msgid "Find Text"
 msgid "Old Text"
 msgstr "লিপি অনুসন্ধান"
 
-#: kcheckaccelerators.cpp:315 kcheckaccelerators.cpp:324
+#: kcheckaccelerators.cpp:323 kcheckaccelerators.cpp:332
 #, fuzzy, kde-format
 #| msgid "Show help"
 msgid "New Text"
 msgstr "সহায়ক তথ্য প্ৰদৰ্শন কৰা হ'ব"
 
-#: kcheckaccelerators.cpp:319
+#: kcheckaccelerators.cpp:327
 #, kde-format
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>অপসাৰিত Accelerators</h2>"
 
-#: kcheckaccelerators.cpp:323
+#: kcheckaccelerators.cpp:331
 #, kde-format
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>যোগ কৰা Accelerators (সূচনাৰ উদ্দেশ্যে উল্লেখিত)</h2>"
@@ -8157,9 +8164,6 @@ msgstr "প্ৰধান টুল-বাৰ"
 #~ "নতুন প্ৰক্ৰিয়া নিৰ্মাণ কৰিবলৈ ব্যৰ্থ ।\n"
 #~ "সম্ভৱতঃ ব্যৱস্থাপ্ৰণালীত সৰ্বোচ্চ সংখ্যক প্ৰক্ৰিয়া বা আপোনাৰ ক্ষেত্ৰত সৰ্বোচ্চ অনুমোদিত "
 #~ "সংখ্যক প্ৰক্ৰিয়া বৰ্তমানে চলিছে ।"
-
-#~ msgid "Could not find '%1' executable."
-#~ msgstr "'%1' এক্সেকিউটেবল পোৱা নাযায় ।"
 
 #~ msgid ""
 #~ "Could not open library '%1'.\n"
