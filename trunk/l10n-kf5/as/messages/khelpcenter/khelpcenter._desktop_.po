@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-21 00:51+0000\n"
+"POT-Creation-Date: 2022-02-05 00:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -47,6 +47,11 @@ msgstr "তথ্য কেন্দ্ৰ"
 msgctxt "Comment"
 msgid "Browse and search documentation"
 msgstr "চৰকৰ চিনাক্তকৰণ"
+
+#: org.kde.Help.desktop:198
+msgctxt "Keywords|man as in man pages"
+msgid "man;info;documentation;handbook;manual;information;"
+msgstr ""
 
 #: plugins/Applications/.directory:3
 msgctxt "Name"
