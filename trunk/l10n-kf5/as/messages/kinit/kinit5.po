@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-10 00:14+0000\n"
+"POT-Creation-Date: 2022-02-10 00:41+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -46,38 +46,38 @@ msgstr ""
 msgid "KDEInit could not launch '%1'"
 msgstr "KDEInit দ্বাৰা '%1' লঞ্চ কৰা নাযায়"
 
-#: klauncher/klauncher.cpp:595 klauncher/klauncher.cpp:609
+#: klauncher/klauncher.cpp:594 klauncher/klauncher.cpp:608
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: klauncher/klauncher.cpp:627
+#: klauncher/klauncher.cpp:626
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr ""
 
-#: klauncher/klauncher.cpp:629 klauncher/klauncher.cpp:690
+#: klauncher/klauncher.cpp:628 klauncher/klauncher.cpp:689
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' সেৱা ত্ৰুটিপূৰ্ণ ৰূপে গঠিত হৈছে ।"
 
-#: klauncher/klauncher.cpp:785
+#: klauncher/klauncher.cpp:784
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 লঞ্চ কৰা হৈছে"
 
-#: klauncher/klauncher.cpp:966
+#: klauncher/klauncher.cpp:965
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "অজ্ঞাত আচাৰ বিধি '%1' ।\n"
 
-#: klauncher/klauncher.cpp:972
+#: klauncher/klauncher.cpp:971
 #, fuzzy, kde-format
 #| msgid "Could not find service '%1'."
 msgid "Could not find the '%1' plugin.\n"
 msgstr "সেৱা '%1' সন্ধান কৰা নাযায় ।"
 
-#: klauncher/klauncher.cpp:1045
+#: klauncher/klauncher.cpp:1044
 #, fuzzy, kde-format
 #| msgid "Error loading '%1'.\n"
 msgid "Error loading '%1'."
