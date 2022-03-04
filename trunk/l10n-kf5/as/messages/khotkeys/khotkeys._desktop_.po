@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-02 00:53+0000\n"
+"POT-Creation-Date: 2022-03-04 00:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -435,7 +435,7 @@ msgctxt "Comment"
 msgid "Press, move up, move down, release."
 msgstr ""
 
-#: kcm_hotkeys/khotkeys.desktop:12
+#: kcm_hotkeys/khotkeys.desktop:13
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Web Shortcuts"
@@ -443,7 +443,7 @@ msgctxt "Name"
 msgid "Custom Shortcuts"
 msgstr "ৱেবৰ চমু পথ"
 
-#: kcm_hotkeys/khotkeys.desktop:75
+#: kcm_hotkeys/khotkeys.desktop:76
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -451,7 +451,7 @@ msgctxt "Comment"
 msgid "Configure Input Actions settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcm_hotkeys/khotkeys.desktop:144
+#: kcm_hotkeys/khotkeys.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid ""
 "global,keyboard shortcuts,hot keys,hotkeys,KHotKeys,input actions,mouse "
