@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-25 00:54+0000\n"
+"POT-Creation-Date: 2022-03-18 00:58+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -196,6 +196,11 @@ msgctxt "Name"
 msgid "Plasma Renderer"
 msgstr ""
 
+#: kcms/runners/kcm_krunnersettings.json
+msgctxt "Name"
+msgid "KRunner Settings"
+msgstr ""
+
 #: kcms/runners/kcm_plasmasearch.json
 #, fuzzy
 #| msgctxt "Name"
@@ -297,7 +302,7 @@ msgstr "নে'টৱৰ্ক সৰঞ্জাম"
 
 #: applets/icontasks/metadata.json
 msgctxt "Description"
-msgid "Switch between running applications"
+msgid "Modern dock-style window switcher displaying only icons"
 msgstr ""
 
 #: applets/keyboardlayout/metadata.json
@@ -351,7 +356,7 @@ msgstr ""
 
 #: applets/taskmanager/package/metadata.json
 msgctxt "Description"
-msgid "Switch between tasks"
+msgid "Classic taskbar-style window switcher displaying icons and text"
 msgstr ""
 
 #: applets/trash/package/metadata.json
@@ -361,7 +366,7 @@ msgstr ""
 
 #: applets/window-list/metadata.json
 msgctxt "Description"
-msgid "Plasmoid to show list of opened windows."
+msgid "Show open windows in a menu"
 msgstr ""
 
 #: containments/desktop/package/metadata.json
@@ -488,6 +493,14 @@ msgstr ""
 msgctxt "Description"
 msgid "Mouse Controls"
 msgstr "তাৰিখ আৰু সময়"
+
+#: kcms/runners/kcm_krunnersettings.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Find Part"
+msgctxt "Description"
+msgid "Configure KRunner behavior"
+msgstr "বিভাজন বিচাৰক"
 
 #: kcms/runners/kcm_plasmasearch.json
 #, fuzzy
