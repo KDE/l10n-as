@@ -2167,86 +2167,18 @@ msgctxt "KColorCombo|@item:inlistbox Custom color"
 msgid "Custom..."
 msgstr "স্বনিৰ্ধাৰিত..."
 
-#: kdatecombobox.cpp:153
-#, fuzzy
-#| msgid "Next year"
-msgctxt "KDateComboBox|@option next year"
-msgid "Next Year"
-msgstr "পৰবৰ্তী বছৰ"
-
-#: kdatecombobox.cpp:154
-#, fuzzy
-#| msgid "Next month"
-msgctxt "KDateComboBox|@option next month"
-msgid "Next Month"
-msgstr "পৰবৰ্তী মাহ"
-
-#: kdatecombobox.cpp:155
-#, fuzzy
-#| msgid "Next year"
-msgctxt "KDateComboBox|@option next week"
-msgid "Next Week"
-msgstr "পৰবৰ্তী বছৰ"
-
-#: kdatecombobox.cpp:156
-msgctxt "KDateComboBox|@option tomorrow"
-msgid "Tomorrow"
-msgstr ""
-
-#: kdatecombobox.cpp:157
-#, fuzzy
-#| msgid "Today"
-msgctxt "KDateComboBox|@option today"
-msgid "Today"
-msgstr "আজি"
-
-#: kdatecombobox.cpp:158
-#, fuzzy
-#| msgid "Yesterday"
-msgctxt "KDateComboBox|@option yesterday"
-msgid "Yesterday"
-msgstr "যোৱা কালি"
-
-#: kdatecombobox.cpp:159
-#, fuzzy
-#| msgid "&Last Page"
-msgctxt "KDateComboBox|@option last week"
-msgid "Last Week"
-msgstr "অন্তিম পৃষ্ঠা (&L)"
-
-#: kdatecombobox.cpp:160
-#, fuzzy
-#| msgid "Next month"
-msgctxt "KDateComboBox|@option last month"
-msgid "Last Month"
-msgstr "পৰবৰ্তী মাহ"
-
-#: kdatecombobox.cpp:161
-#, fuzzy
-#| msgid "&Last Page"
-msgctxt "KDateComboBox|@option last year"
-msgid "Last Year"
-msgstr "অন্তিম পৃষ্ঠা (&L)"
-
-#: kdatecombobox.cpp:163
-#, fuzzy
-#| msgid "No text"
-msgctxt "KDateComboBox|@option do not specify a date"
-msgid "No Date"
-msgstr "কোনো লিপি নাই"
-
-#: kdatecombobox.cpp:290
+#: kdatecombobox.cpp:190
 msgctxt "KDateComboBox|@info"
 msgid "The date you entered is invalid"
 msgstr ""
 
-#: kdatecombobox.cpp:293
+#: kdatecombobox.cpp:193
 #, qt-format
 msgctxt "KDateComboBox|@info"
 msgid "Date cannot be earlier than %1"
 msgstr ""
 
-#: kdatecombobox.cpp:300
+#: kdatecombobox.cpp:200
 #, qt-format
 msgctxt "KDateComboBox|@info"
 msgid "Date cannot be later than %1"
@@ -2321,6 +2253,74 @@ msgstr "আজিৰ দিন নিৰ্ব্বাচন কৰক"
 msgctxt "KDatePicker|@action:button"
 msgid "Close"
 msgstr "বন্ধ কৰক"
+
+#: kdatepickerpopup.cpp:96
+#, fuzzy
+#| msgid "Next year"
+msgctxt "KDatePickerPopup|@option next year"
+msgid "Next Year"
+msgstr "পৰবৰ্তী বছৰ"
+
+#: kdatepickerpopup.cpp:97
+#, fuzzy
+#| msgid "Next month"
+msgctxt "KDatePickerPopup|@option next month"
+msgid "Next Month"
+msgstr "পৰবৰ্তী মাহ"
+
+#: kdatepickerpopup.cpp:98
+#, fuzzy
+#| msgid "Next year"
+msgctxt "KDatePickerPopup|@option next week"
+msgid "Next Week"
+msgstr "পৰবৰ্তী বছৰ"
+
+#: kdatepickerpopup.cpp:99
+msgctxt "KDatePickerPopup|@option tomorrow"
+msgid "Tomorrow"
+msgstr ""
+
+#: kdatepickerpopup.cpp:100
+#, fuzzy
+#| msgid "Today"
+msgctxt "KDatePickerPopup|@option today"
+msgid "Today"
+msgstr "আজি"
+
+#: kdatepickerpopup.cpp:101
+#, fuzzy
+#| msgid "Yesterday"
+msgctxt "KDatePickerPopup|@option yesterday"
+msgid "Yesterday"
+msgstr "যোৱা কালি"
+
+#: kdatepickerpopup.cpp:102
+#, fuzzy
+#| msgid "&Last Page"
+msgctxt "KDatePickerPopup|@option last week"
+msgid "Last Week"
+msgstr "অন্তিম পৃষ্ঠা (&L)"
+
+#: kdatepickerpopup.cpp:103
+#, fuzzy
+#| msgid "Next month"
+msgctxt "KDatePickerPopup|@option last month"
+msgid "Last Month"
+msgstr "পৰবৰ্তী মাহ"
+
+#: kdatepickerpopup.cpp:104
+#, fuzzy
+#| msgid "&Last Page"
+msgctxt "KDatePickerPopup|@option last year"
+msgid "Last Year"
+msgstr "অন্তিম পৃষ্ঠা (&L)"
+
+#: kdatepickerpopup.cpp:123
+#, fuzzy
+#| msgid "No text"
+msgctxt "KDatePickerPopup|@option do not specify a date"
+msgid "No Date"
+msgstr "কোনো লিপি নাই"
 
 #: kdatetimeedit.cpp:171
 msgctxt "KDateTimeEdit|@item:inlistbox UTC time zone"
