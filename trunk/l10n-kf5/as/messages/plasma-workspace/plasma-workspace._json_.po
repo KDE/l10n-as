@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-27 00:54+0000\n"
+"POT-Creation-Date: 2022-04-23 00:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -366,6 +366,11 @@ msgstr ""
 #: kcms/autostart/kcm_autostart.json
 msgctxt "Name"
 msgid "Autostart"
+msgstr ""
+
+#: kcms/colors/accentColorService/accentColorService.json
+msgctxt "Name"
+msgid "accentColorService"
 msgstr ""
 
 #: kcms/colors/kcm_colors.json
@@ -973,6 +978,11 @@ msgstr ""
 msgctxt "Description"
 msgid "Automatically Started Applications"
 msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
+
+#: kcms/colors/accentColorService/accentColorService.json
+msgctxt "Description"
+msgid "Applies extracted accent color from wallpaper on dbus request"
+msgstr ""
 
 #: kcms/colors/kcm_colors.json
 msgctxt "Description"
