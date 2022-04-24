@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-30 00:41+0000\n"
+"POT-Creation-Date: 2022-04-24 00:40+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -126,7 +126,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "বৈশিষ্ট্য"
 
-#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:365
+#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:327
 #, kde-format
 msgid "Configure"
 msgstr "বিন্যাস কৰক"
@@ -198,13 +198,13 @@ msgstr[0] ""
 msgstr[1] ""
 "প্লাগ-ইন সংক্ৰান্ত নিৰ্ভৰতা পূৰ্ণ কৰাৰ উদ্দেশ্যে %1 প্লাগ-ইন স্বয়ংক্ৰিয়ৰূপে আঁতৰুৱাহৈছে"
 
-#: kpluginselector.cpp:264 kpluginwidget.cpp:57
+#: kpluginselector.cpp:264 kpluginwidget.cpp:59
 #, fuzzy, kde-format
 #| msgid "&Search"
 msgid "Search..."
 msgstr "অনুসন্ধান (&S)"
 
-#: kpluginselector.cpp:804 kpluginwidget.cpp:360
+#: kpluginselector.cpp:804 kpluginwidget.cpp:322
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
@@ -214,6 +214,73 @@ msgstr "বিষয়ে (&A)"
 #, kde-format
 msgid "Enable component"
 msgstr "অংশ সক্ৰিয়া কৰক"
+
+#: qml/components/KPluginDelegate.qml:45
+#, fuzzy, kde-format
+#| msgid "&About"
+msgctxt "@info:tooltip"
+msgid "About"
+msgstr "বিষয়ে (&A)"
+
+#: qml/components/KPluginDelegate.qml:56
+#, fuzzy, kde-format
+#| msgid "Confi&gure..."
+msgctxt "@info:tooltip"
+msgid "Configure..."
+msgstr "বিন্যাস কৰক...(&g)"
+
+#: qml/components/KPluginSelector.qml:78
+#, kde-format
+msgid "No matches"
+msgstr ""
+
+#: qml/components/KPluginSelector.qml:78
+#, fuzzy, kde-format
+#| msgid "Not found"
+msgid "No plugins found"
+msgstr "পোৱা ন'গ'ল"
+
+#: qml/components/private/AboutPlugin.qml:42
+#, fuzzy, kde-format
+#| msgctxt "concatenation of dates and time"
+#| msgid "%1 %2"
+msgctxt "Plugin name and plugin version"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/components/private/AboutPlugin.qml:64
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copyright"
+msgstr "Copy"
+
+#: qml/components/private/AboutPlugin.qml:81
+#, kde-format
+msgid "License:"
+msgstr "প্ৰমাণপত্ৰ:"
+
+#: qml/components/private/AboutPlugin.qml:100
+#, fuzzy, kde-format
+#| msgid "A&uthors"
+msgid "Authors"
+msgstr "লেখকবৃন্দ (&u)"
+
+#: qml/components/private/AboutPlugin.qml:117
+#, kde-format
+msgid "Credits"
+msgstr ""
+
+#: qml/components/private/AboutPlugin.qml:134
+#, fuzzy, kde-format
+#| msgid "Translation"
+msgid "Translators"
+msgstr "অনুবাদ"
+
+#: qml/components/private/AboutPlugin.qml:161
+#, fuzzy, kde-format
+#| msgid "&Send Email"
+msgid "Send an email to %1"
+msgstr "ঈ-মেইল কৰক (&S)"
 
 #~ msgid "Distance between desktop icons"
 #~ msgstr "ডেস্কট'প আইকনত অন্তৰ্বৰ্তী ব্যৱধান"
@@ -476,9 +543,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 
 #~ msgid "A&uthor"
 #~ msgstr "লেখক (&u)"
-
-#~ msgid "A&uthors"
-#~ msgstr "লেখকবৃন্দ (&u)"
 
 #~ msgid ""
 #~ "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
@@ -1993,10 +2057,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 #~ msgid "Yesterday"
 #~ msgstr "যোৱা কালি"
 
-#~ msgctxt "concatenation of dates and time"
-#~ msgid "%1 %2"
-#~ msgstr "%1 %2"
-
 #~ msgctxt "concatenation of date/time and time zone"
 #~ msgid "%1 %2"
 #~ msgstr "%1 %2"
@@ -3474,9 +3534,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 
 #~ msgid "Wishlist"
 #~ msgstr "আকাঙ্ক্ষিত"
-
-#~ msgid "Translation"
-#~ msgstr "অনুবাদ"
 
 #~ msgid "S&ubject: "
 #~ msgstr "প্ৰসঙ্গ: (&u)"
@@ -5017,9 +5074,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 #~ msgid "Front"
 #~ msgstr "Front"
 
-#~ msgid "Copy"
-#~ msgstr "Copy"
-
 #~ msgid "Open"
 #~ msgstr "Open"
 
@@ -5185,9 +5239,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "সন্নিবেশ কৰক (&I)"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "বিন্যাস কৰক...(&g)"
 
 #~ msgid "Add"
 #~ msgstr "যোগ কৰক"
@@ -7230,9 +7281,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 #~ "বৰ্তমান ছাইটৰ দ্বাৰা ঈ-মেইলৰ মাধ্যমে তথ্য জমা কৰাৰ প্ৰচেষ্টা কৰা হৈছে ।\n"
 #~ "আগবাঢ়িব খোজে নেকি ?"
 
-#~ msgid "&Send Email"
-#~ msgstr "ঈ-মেইল কৰক (&S)"
-
 #~ msgid "(%1/s)"
 #~ msgstr "(%1/s)"
 
@@ -7476,9 +7524,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 
 #~ msgid "a basic web browser using the KHTML library"
 #~ msgstr "KHTML লাইব্ৰেৰী থকা মৌলিক ৱেব চৰক"
-
-#~ msgid "Not found"
-#~ msgstr "পোৱা ন'গ'ল"
 
 #~ msgid "F&ind:"
 #~ msgstr "বিচাৰক (&i):"
@@ -8146,9 +8191,6 @@ msgstr "অংশ সক্ৰিয়া কৰক"
 
 #~ msgid "Email address:"
 #~ msgstr "ঈ-মেইল ঠিকনা:"
-
-#~ msgid "License:"
-#~ msgstr "প্ৰমাণপত্ৰ:"
 
 #~ msgid "GPL"
 #~ msgstr "GPL"
