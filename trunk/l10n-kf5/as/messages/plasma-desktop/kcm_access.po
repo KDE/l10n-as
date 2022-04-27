@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-03 00:51+0000\n"
+"POT-Creation-Date: 2022-04-27 00:47+0000\n"
 "PO-Revision-Date: 2009-01-13 17:06+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -399,21 +399,21 @@ msgstr "ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্�
 #, fuzzy, kde-format
 #| msgid "&Use system bell whenever a key is pressed"
 msgctxt "Use system bell when a key is pressed"
-msgid "&when any key is pressed"
+msgid "when any key is &pressed"
 msgstr "এটা চাবি টিপোঁতে ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
 #: package/contents/ui/KeyboardFilters.qml:65
 #, fuzzy, kde-format
 #| msgid "&Use system bell whenever a key is accepted"
 msgctxt "Use system bell when a key is accepted"
-msgid "&when any key is accepted"
+msgid "when any key is &accepted"
 msgstr "এটা চাবি গ্ৰহণ কৰিলে ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
 #: package/contents/ui/KeyboardFilters.qml:79
 #, fuzzy, kde-format
 #| msgid "&Use system bell whenever a key is rejected"
 msgctxt "Use system bell when a key is rejected"
-msgid "&when any key is rejected"
+msgid "when any key is &rejected"
 msgstr "এটা চাবি অগ্ৰাহ্য কৰাৰ সময়ত ব্যৱস্থাপ্ৰণালীৰ ঘন্টা ব্যৱহাৰ কৰক (&U)"
 
 #: package/contents/ui/KeyboardFilters.qml:96
