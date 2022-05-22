@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-02 00:41+0000\n"
+"POT-Creation-Date: 2022-05-22 00:42+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1286,26 +1286,26 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1"
 
-#: kswitchlanguagedialog_p.cpp:140
+#: kswitchlanguagedialog_p.cpp:137
 #, fuzzy, kde-format
 #| msgid "Configure"
 msgctxt "@title:window"
 msgid "Configure Language"
 msgstr "বিন্যাস কৰক"
 
-#: kswitchlanguagedialog_p.cpp:144
+#: kswitchlanguagedialog_p.cpp:141
 #, kde-format
 msgid "Please choose the language which should be used for this application:"
 msgstr "অনুগ্ৰহ কৰি অনুপ্ৰয়োগে ব্যৱহাৰ কৰাৰ উদ্দেশ্যে প্ৰযোজ্য ভাষা নিৰ্ব্বাচন কৰক:"
 
-#: kswitchlanguagedialog_p.cpp:171
+#: kswitchlanguagedialog_p.cpp:168
 #, fuzzy, kde-format
 #| msgid "Add Fallback Language"
 msgctxt "@action:button"
 msgid "Add Fallback Language"
 msgstr "বিকল্প ভাষা যোগ কৰক"
 
-#: kswitchlanguagedialog_p.cpp:172
+#: kswitchlanguagedialog_p.cpp:169
 #, fuzzy, kde-format
 #| msgid ""
 #| "Adds one more language which will be used if other translations do not "
@@ -1318,7 +1318,7 @@ msgstr ""
 "ব্যৱহাৰৰ বাবে চিহ্নিত ভাষাৰ বাবে যথাযত অনুবাদ অনুপস্থিত থাকিলে বিকল্প হিচাপে "
 "ব্যৱহাৰৰ উদ্দেশ্যে চিহ্নিত পৃথক এটা ভাষা যোগ কৰা হয় ।"
 
-#: kswitchlanguagedialog_p.cpp:264 kswitchlanguagedialog_p.cpp:285
+#: kswitchlanguagedialog_p.cpp:261 kswitchlanguagedialog_p.cpp:282
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
@@ -1327,36 +1327,36 @@ msgstr ""
 "চিহ্নিত অনুপ্ৰয়োগৰ ভাষা পৰিবৰ্তন কৰা হৈছে । অনুপ্ৰয়োগ পুনৰাৰম্ভ কৰা হ'লে এই পৰিবৰ্তন "
 "প্ৰয়োগ কৰা হ'ব ।"
 
-#: kswitchlanguagedialog_p.cpp:265
+#: kswitchlanguagedialog_p.cpp:262
 #, fuzzy, kde-format
 #| msgid "Application Language Changed"
 msgctxt "@title:window"
 msgid "Application Language Changed"
 msgstr "অনুপ্ৰয়োগত ব্যৱহৃত ভাষা ব্যৱহৃত হৈছে"
 
-#: kswitchlanguagedialog_p.cpp:286
+#: kswitchlanguagedialog_p.cpp:283
 #, kde-format
 msgid "Application Language Changed"
 msgstr "অনুপ্ৰয়োগত ব্যৱহৃত ভাষা ব্যৱহৃত হৈছে"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, kde-format
 msgid "Primary language:"
 msgstr "প্ৰধান ভাষা:"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, kde-format
 msgid "Fallback language:"
 msgstr "অবিকল্পিত ভাষা:"
 
-#: kswitchlanguagedialog_p.cpp:388
+#: kswitchlanguagedialog_p.cpp:385
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "আঁতৰাওঁক"
 
-#: kswitchlanguagedialog_p.cpp:394
+#: kswitchlanguagedialog_p.cpp:391
 #, fuzzy, kde-format
 #| msgid ""
 #| "This is the main application language which will be used first, before "
@@ -1369,7 +1369,7 @@ msgstr ""
 "এই অনুপ্ৰয়োগৰ বাবে অন্যান্য কোনো ভাষা ব্যৱহাৰ কৰাৰ আগতে চিহ্নিত ভাষা প্ৰয়োগ কৰা হ'ব "
 "।"
 
-#: kswitchlanguagedialog_p.cpp:395
+#: kswitchlanguagedialog_p.cpp:392
 #, fuzzy, kde-format
 #| msgid ""
 #| "This is the language which will be used if any previous languages do not "
