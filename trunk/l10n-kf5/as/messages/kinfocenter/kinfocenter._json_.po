@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-05 00:57+0000\n"
+"POT-Creation-Date: 2022-05-24 00:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -71,7 +71,7 @@ msgctxt "Name"
 msgid "Network Interfaces"
 msgstr "নে'টৱৰ্ক সংযোগমাধ্যম"
 
-#: Modules/pci/kcm_pci.json
+#: Modules/pci/kcm_pci.json.cmake
 msgctxt "Name"
 msgid "PCI"
 msgstr "PCI"
@@ -173,7 +173,7 @@ msgctxt "Description"
 msgid "Network interface information"
 msgstr "নে'টৱৰ্ক সংযোগমাধ্যমৰ তথ্য"
 
-#: Modules/pci/kcm_pci.json
+#: Modules/pci/kcm_pci.json.cmake
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PCI information"
