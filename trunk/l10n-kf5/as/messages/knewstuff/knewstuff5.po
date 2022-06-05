@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-21 00:41+0000\n"
+"POT-Creation-Date: 2022-06-05 00:44+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -721,20 +721,20 @@ msgstr "বিন্যাস কৰক"
 msgid "Configure menu - %1"
 msgstr "%1 বিন্যাস কৰক...(&C)"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:176
+#: kmoretools/kmoretoolsmenufactory.cpp:177
 #, fuzzy, kde-format
 #| msgid "Path to documents folder"
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
 msgstr "আলেখ্যন ফোল্ডাৰ নিৰ্দেশকাৰী পাথ"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:183
+#: kmoretools/kmoretoolsmenufactory.cpp:184
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:197
+#: kmoretools/kmoretoolsmenufactory.cpp:198
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
