@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-26 00:54+0000\n"
+"POT-Creation-Date: 2022-06-30 00:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -212,6 +212,20 @@ msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ফোল্ডাৰৰ নাম দিয়ক:"
 
+#: src/new_file_templates/EmptyFile.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Text File..."
+msgctxt "Name"
+msgid "Empty File..."
+msgstr "টেক্সট নথিপত্ৰ..."
+
+#: src/new_file_templates/EmptyFile.desktop:5
+#: src/new_file_templates/TextFile.desktop:92
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
+
 #: src/new_file_templates/HTMLFile.desktop:2
 msgctxt "Name"
 msgid "HTML File..."
@@ -259,11 +273,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Text File..."
 msgstr "টেক্সট নথিপত্ৰ..."
-
-#: src/new_file_templates/TextFile.desktop:92
-msgctxt "Comment"
-msgid "Enter text filename:"
-msgstr "টেক্সট নথিপত্ৰৰ নাম দিয়ক:"
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"
