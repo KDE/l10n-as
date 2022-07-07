@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-22 00:41+0000\n"
+"POT-Creation-Date: 2022-07-07 00:41+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1328,6 +1328,15 @@ msgstr "সংস্থাপন কৰক"
 msgctxt "Title for a dialog box which shows error messages"
 msgid "An Error Occurred"
 msgstr ""
+
+#: qtquick/qml/private/ErrorDisplayer.qml:51
+#, fuzzy, kde-format
+#| msgid "Please put in a name."
+msgid ""
+"\n"
+"\n"
+"Please try again later."
+msgstr "অনুগ্ৰহ কৰি নাম লিখক:"
 
 #: qtquick/qml/private/GridTileDelegate.qml:113
 #, fuzzy, kde-format
@@ -9369,9 +9378,6 @@ msgstr "ডাউন্‌লোড কৰা সামগ্ৰী: %1"
 
 #~ msgid "No provider selected."
 #~ msgstr "কোনো উপলব্ধকৰোঁতা নিৰ্ব্বাচন কৰা হয় ।"
-
-#~ msgid "Please put in a name."
-#~ msgstr "অনুগ্ৰহ কৰি নাম লিখক:"
 
 #~ msgid "Old upload information found, fill out fields?"
 #~ msgstr "আপতুলি লোৱা পুৰনি তথ্য চিনাক্ত কৰা হৈছে, মান পূৰ্ণ কৰা হ'ব নেকি ?"
