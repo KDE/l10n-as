@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-14 00:47+0000\n"
+"POT-Creation-Date: 2022-07-15 00:48+0000\n"
 "PO-Revision-Date: 2009-01-16 16:49+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -27,12 +27,12 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "aphukan@fedoraproject.org"
 
-#: composite.cpp:629
+#: composite.cpp:628
 #, kde-format
 msgid "Desktop effects were restarted due to a graphics reset"
 msgstr ""
 
-#: composite.cpp:832
+#: composite.cpp:831
 #, kde-format
 msgid ""
 "Desktop effects have been suspended by another application.<br/>You can "
@@ -2113,70 +2113,70 @@ msgstr ""
 msgid "..."
 msgstr ""
 
-#: tabbox/tabbox.cpp:383
+#: tabbox/tabbox.cpp:382
 #, fuzzy, kde-format
 #| msgid "Show Desktop Grid"
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr "Desktop Grid দেখুৱাওক"
 
-#: tabbox/tabbox.cpp:535
+#: tabbox/tabbox.cpp:534
 msgid "Walk Through Windows"
 msgstr "সংযোগক্ষেত্ৰসমূহৰ পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:536
+#: tabbox/tabbox.cpp:535
 msgid "Walk Through Windows (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:537
+#: tabbox/tabbox.cpp:536
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:538
+#: tabbox/tabbox.cpp:537
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows Alternative (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:539
+#: tabbox/tabbox.cpp:538
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:540
+#: tabbox/tabbox.cpp:539
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:541
+#: tabbox/tabbox.cpp:540
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application Alternative"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:542
+#: tabbox/tabbox.cpp:541
 #, fuzzy
 #| msgid "Walk Through Windows (Reverse)"
 msgid "Walk Through Windows of Current Application Alternative (Reverse)"
 msgstr "সংযোগক্ষেত্ৰসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:543
+#: tabbox/tabbox.cpp:542
 msgid "Walk Through Desktops"
 msgstr "ডেস্কট'পসমূহ পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:544
+#: tabbox/tabbox.cpp:543
 msgid "Walk Through Desktops (Reverse)"
 msgstr "ডেষ্কট'পসমূহ পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
-#: tabbox/tabbox.cpp:545
+#: tabbox/tabbox.cpp:544
 msgid "Walk Through Desktop List"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক"
 
-#: tabbox/tabbox.cpp:546
+#: tabbox/tabbox.cpp:545
 msgid "Walk Through Desktop List (Reverse)"
 msgstr "ডেষ্কট'প তালিকা পৰিদৰ্শন কৰক (বিপৰীত দিশে)"
 
@@ -2632,9 +2632,9 @@ msgstr "পূৰ্ববৰ্তী ডেষ্কট'পলৈ সংযো
 
 #: useractions.cpp:1094
 #, fuzzy
-#| msgid "Show Desktop Grid"
-msgid "Show Desktop"
-msgstr "Desktop Grid দেখুৱাওক"
+#| msgid "To &Desktop"
+msgid "Peek at Desktop"
+msgstr "চিহ্নিত ডেষ্কট'পলৈ স্থানান্তৰ (&D)"
 
 #: useractions.cpp:1097
 #, fuzzy, kde-format
@@ -2718,13 +2718,13 @@ msgstr "তলৰ ডেষ্কট'পলৈ পৰিবৰ্তন কৰ�
 msgid "Switch to Desktop %1"
 msgstr "ডেষ্কট'প ১ লৈ পৰিবৰ্তন কৰক"
 
-#: window.cpp:3430
+#: window.cpp:3426
 #, kde-format
 msgctxt "Application is not responding, appended to window title"
 msgid "(Not Responding)"
 msgstr ""
 
-#: workspace.cpp:1453
+#: workspace.cpp:1454
 #, kde-format
 msgctxt "Introductory text shown in the support information."
 msgid ""
@@ -2738,6 +2738,11 @@ msgid ""
 "paste bin service\n"
 "like https://paste.kde.org instead of pasting into support threads.\n"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Show Desktop Grid"
+#~ msgid "Show Desktop"
+#~ msgstr "Desktop Grid দেখুৱাওক"
 
 #, fuzzy
 #~| msgid "Close Window"

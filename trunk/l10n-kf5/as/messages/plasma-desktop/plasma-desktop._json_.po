@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-23 00:56+0000\n"
+"POT-Creation-Date: 2022-07-15 00:59+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -68,7 +68,7 @@ msgstr "পৰিচয়ৰ পৰিচালক"
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Name"
-msgid "Show Desktop"
+msgid "Peek at Desktop"
 msgstr "ডেস্কট'প"
 
 #: applets/taskmanager/package/metadata.json
@@ -351,7 +351,8 @@ msgstr "পৰিচয়ৰ পৰিচালক"
 
 #: applets/showdesktop/package/metadata.json
 msgctxt "Description"
-msgid "Shows the desktop by moving windows aside"
+msgid ""
+"Temporarily reveals the Desktop by moving open windows into screen corners"
 msgstr ""
 
 #: applets/taskmanager/package/metadata.json
@@ -695,6 +696,13 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "বিভাজন বিচাৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Show Desktop"
+#~ msgstr "ডেস্কট'প"
 
 #~ msgctxt "Comment"
 #~ msgid "Accessibility"
