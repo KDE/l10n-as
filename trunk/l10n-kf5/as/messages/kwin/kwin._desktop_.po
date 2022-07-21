@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-02 01:00+0000\n"
+"POT-Creation-Date: 2022-07-21 00:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -62,7 +62,7 @@ msgctxt "Name"
 msgid "Fade"
 msgstr ""
 
-#: src/effects/fade/package/metadata.desktop:82
+#: src/effects/fade/package/metadata.desktop:83
 msgctxt "Comment"
 msgid "Make windows smoothly fade in and out when they are shown or hidden"
 msgstr ""
@@ -107,7 +107,7 @@ msgctxt "Name"
 msgid "Login"
 msgstr ""
 
-#: src/effects/login/package/metadata.desktop:90
+#: src/effects/login/package/metadata.desktop:91
 msgctxt "Comment"
 msgid "Smoothly fade to the desktop when logging in"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr ""
 
-#: src/effects/logout/package/metadata.desktop:45
+#: src/effects/logout/package/metadata.desktop:46
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
 msgstr ""
@@ -148,7 +148,7 @@ msgctxt "Name"
 msgid "Scale"
 msgstr ""
 
-#: src/effects/scale/package/metadata.desktop:43
+#: src/effects/scale/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Make windows smoothly scale in and out when they are shown or hidden"
 msgstr ""
@@ -158,7 +158,7 @@ msgctxt "Name"
 msgid "Session Quit"
 msgstr ""
 
-#: src/effects/sessionquit/package/metadata.desktop:42
+#: src/effects/sessionquit/package/metadata.desktop:43
 msgctxt "Comment"
 msgid "Keep the desktop background alive during logout until the end"
 msgstr ""
@@ -210,7 +210,7 @@ msgctxt "Name"
 msgid "Window Decorations"
 msgstr "সংযোগক্ষেত্ৰ বন্ধ কৰাৰ সৰঞ্জাম"
 
-#: src/kcmkwin/kwindecoration/package/metadata.desktop:80
+#: src/kcmkwin/kwindecoration/package/metadata.desktop:81
 msgctxt "Comment"
 msgid "Configure window titlebars and borders"
 msgstr ""
@@ -224,7 +224,7 @@ msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "ডেস্কট'প"
 
-#: src/kcmkwin/kwindesktop/package/metadata.desktop:68
+#: src/kcmkwin/kwindesktop/package/metadata.desktop:69
 msgctxt "Comment"
 msgid "Configure navigation, number and layout of virtual desktops"
 msgstr ""
@@ -243,7 +243,7 @@ msgctxt "Name"
 msgid "Window Manager Effects"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: src/kcmkwin/kwineffects/package/metadata.desktop:55
+#: src/kcmkwin/kwineffects/package/metadata.desktop:56
 msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr ""
@@ -263,7 +263,7 @@ msgctxt "Name"
 msgid "Window Rules"
 msgstr "MS Windows 9x"
 
-#: src/kcmkwin/kwinrules/package/metadata.desktop:81
+#: src/kcmkwin/kwinrules/package/metadata.desktop:82
 msgctxt "Comment"
 msgid "Individual Window Behavior"
 msgstr ""
@@ -296,12 +296,12 @@ msgctxt "Name"
 msgid "Task Switcher"
 msgstr ""
 
-#: src/kcmkwin/kwintabbox/kcm_kwintabbox.desktop:75
+#: src/kcmkwin/kwintabbox/kcm_kwintabbox.desktop:76
 msgctxt "Comment"
 msgid "Navigation Through Windows"
 msgstr ""
 
-#: src/kcmkwin/kwintabbox/kcm_kwintabbox.desktop:124
+#: src/kcmkwin/kwintabbox/kcm_kwintabbox.desktop:125
 msgctxt "X-KDE-Keywords"
 msgid ""
 "window,windows,switcher,window switcher,switching,window switching,alttab,"
@@ -380,7 +380,7 @@ msgctxt "Name"
 msgid "Plastik"
 msgstr ""
 
-#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:90
+#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:89
 msgctxt "Comment"
 msgid "The classic theme known from KDE 3"
 msgstr ""
@@ -393,7 +393,7 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
 
-#: src/plugins/krunner-integration/kwin-runner-windows.desktop:40
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:41
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
