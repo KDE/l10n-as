@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-23 00:57+0000\n"
+"POT-Creation-Date: 2022-07-24 00:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -194,6 +194,11 @@ msgstr ""
 #: kcms/qtquicksettings/qtquicksettings.json
 msgctxt "Name"
 msgid "Plasma Renderer"
+msgstr ""
+
+#: kcms/recentFiles/kcm_recentFiles.json
+msgctxt "Name"
+msgid "Recent Files"
 msgstr ""
 
 #: kcms/runners/krunner/kcm_krunnersettings.json
@@ -494,6 +499,11 @@ msgstr ""
 msgctxt "Description"
 msgid "Mouse Controls"
 msgstr "তাৰিখ আৰু সময়"
+
+#: kcms/recentFiles/kcm_recentFiles.json
+msgctxt "Description"
+msgid "Manage your file activity history preferences"
+msgstr ""
 
 #: kcms/runners/krunner/kcm_krunnersettings.json
 #, fuzzy
