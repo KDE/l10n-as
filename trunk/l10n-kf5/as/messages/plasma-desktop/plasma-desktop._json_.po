@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-30 00:59+0000\n"
+"POT-Creation-Date: 2022-07-31 01:00+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -128,22 +128,22 @@ msgctxt "Name"
 msgid "File Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/componentchooser/componentchooser.json
+#: kcms/componentchooser/kcm_componentchooser.json
 msgctxt "Name"
 msgid "Default Applications"
 msgstr ""
 
-#: kcms/dateandtime/clock.json
+#: kcms/dateandtime/kcm_clock.json
 msgctxt "Name"
 msgid "Date & Time"
 msgstr ""
 
-#: kcms/desktoppaths/desktoppath.json
+#: kcms/desktoppaths/kcm_desktoppaths.json
 msgctxt "Name"
 msgid "Locations"
 msgstr ""
 
-#: kcms/joystick/joystick.json
+#: kcms/joystick/kcm_joystick.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -151,7 +151,7 @@ msgctxt "Name"
 msgid "Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/kded/kcmkded.json
+#: kcms/kded/kcm_kded.json
 msgctxt "Name"
 msgid "Background Services"
 msgstr ""
@@ -194,12 +194,12 @@ msgctxt "Name"
 msgid "Launch Feedback"
 msgstr ""
 
-#: kcms/mouse/mouse.json
+#: kcms/mouse/kcm_mouse.json
 msgctxt "Name"
 msgid "Mouse"
 msgstr ""
 
-#: kcms/qtquicksettings/qtquicksettings.json
+#: kcms/qtquicksettings/kcm_qtquicksettings.json
 msgctxt "Name"
 msgid "Plasma Renderer"
 msgstr ""
@@ -222,7 +222,7 @@ msgctxt "Name"
 msgid "Plasma Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/solid_actions/solid-actions.json
+#: kcms/solid_actions/kcm_solid_actions.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Devices"
@@ -230,7 +230,7 @@ msgctxt "Name"
 msgid "Device Actions"
 msgstr "যন্ত্ৰ"
 
-#: kcms/spellchecking/spellchecking.json
+#: kcms/spellchecking/kcmspellchecking.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Spell Checker"
@@ -427,12 +427,12 @@ msgctxt "Description"
 msgid "Configure File Search"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/componentchooser/componentchooser.json
+#: kcms/componentchooser/kcm_componentchooser.json
 msgctxt "Description"
 msgid "Choose default Applications"
 msgstr ""
 
-#: kcms/dateandtime/clock.json
+#: kcms/dateandtime/kcm_clock.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -440,12 +440,12 @@ msgctxt "Description"
 msgid "Date and Time"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/desktoppaths/desktoppath.json
+#: kcms/desktoppaths/kcm_desktoppaths.json
 msgctxt "Description"
 msgid "Location for Personal Files"
 msgstr ""
 
-#: kcms/joystick/joystick.json
+#: kcms/joystick/kcm_joystick.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -453,7 +453,7 @@ msgctxt "Description"
 msgid "Calibrate Game Controller"
 msgstr "তাৰিখ আৰু সময়"
 
-#: kcms/kded/kcmkded.json
+#: kcms/kded/kcm_kded.json
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -505,7 +505,7 @@ msgctxt "Description"
 msgid "Application Launch Feedback"
 msgstr ""
 
-#: kcms/mouse/mouse.json
+#: kcms/mouse/kcm_mouse.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -534,12 +534,12 @@ msgctxt "Description"
 msgid "Configure search settings"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: kcms/solid_actions/solid-actions.json
+#: kcms/solid_actions/kcm_solid_actions.json
 msgctxt "Description"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: kcms/spellchecking/spellchecking.json
+#: kcms/spellchecking/kcmspellchecking.json
 msgctxt "Description"
 msgid "Spell Checker Dictionaries and Options"
 msgstr ""
