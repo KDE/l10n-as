@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-18 00:57+0000\n"
+"POT-Creation-Date: 2022-08-03 00:59+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -471,7 +471,7 @@ msgstr ""
 
 #: libcolorcorrect/kded/colorcorrectlocationupdater.json
 msgctxt "Name"
-msgid "ColorCorrect Geolocation Updater"
+msgid "Automatic Location for Night Color"
 msgstr ""
 
 #: lookandfeel/org.kde.breezedark/metadata.json
@@ -1042,7 +1042,7 @@ msgstr ""
 
 #: libcolorcorrect/kded/colorcorrectlocationupdater.json
 msgctxt "Description"
-msgid "Sends updated location data to the compositor"
+msgid "Provides location updates for Night Color"
 msgstr ""
 
 #: lookandfeel/org.kde.breezedark/metadata.json
