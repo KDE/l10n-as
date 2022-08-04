@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-02 01:00+0000\n"
+"POT-Creation-Date: 2022-08-04 00:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -13,11 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#: keditfiletype/kcm_filetypes.desktop:7
-msgctxt "Name"
-msgid "File Associations"
-msgstr "নথিপত্ৰৰ সম্বন্ধ"
 
 #: keditfiletype/org.kde.keditfiletype.desktop:2
 #, fuzzy
@@ -42,6 +37,10 @@ msgstr "লিপি সম্পাদক"
 msgctxt "Name"
 msgid "Open System Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
+
+#~ msgctxt "Name"
+#~ msgid "File Associations"
+#~ msgstr "নথিপত্ৰৰ সম্বন্ধ"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure file associations"
