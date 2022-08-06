@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-06 00:41+0000\n"
+"POT-Creation-Date: 2022-08-06 00:42+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1529,11 +1529,6 @@ msgstr "নতুন ৱেব চমু পথ"
 msgid "%1 is already assigned to %2"
 msgstr "%1 ক ইতিমধ্যে %2 লৈ বিতৰণ কৰা হৈছে"
 
-#: rendering/render_form.cpp:922
-#, kde-format
-msgid "Error"
-msgstr "ত্ৰুটি"
-
 #: rendering/render_form.cpp:968
 #, kde-format
 msgid "Search &provider name:"
@@ -1676,6 +1671,9 @@ msgstr "মাৰাত্মক বিশলেষণৰ ভুল: %1 %2 শ�
 #, kde-format
 msgid "XML parsing error"
 msgstr "XML বিশ্লেষণ সংক্ৰান্ত ত্ৰুটি"
+
+#~ msgid "Error"
+#~ msgstr "ত্ৰুটি"
 
 #~ msgid "Initializing Applet \"%1\"..."
 #~ msgstr "এপ্লেট \"%1\" প্ৰাৰম্ভ কৰা হৈছে..."
