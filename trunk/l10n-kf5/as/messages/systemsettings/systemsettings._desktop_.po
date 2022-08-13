@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-10 00:55+0000\n"
+"POT-Creation-Date: 2022-08-13 00:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -96,11 +96,6 @@ msgctxt "Name"
 msgid "Fonts"
 msgstr ""
 
-#: categories/settings-appearance-icons.desktop:9
-msgctxt "Name"
-msgid "Icons"
-msgstr ""
-
 #: categories/settings-hardware.desktop:9
 msgctxt "Name"
 msgid "Hardware"
@@ -132,11 +127,6 @@ msgctxt "Name"
 msgid "Multimedia"
 msgstr "মাল্টিমিডিয়া"
 
-#: categories/settings-hardware-peripherals.desktop:9
-msgctxt "Name"
-msgid "Peripherals"
-msgstr ""
-
 #: categories/settings-hardware-powermanagement.desktop:9
 msgctxt "Name"
 msgid "Power Management"
@@ -149,11 +139,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Removable Storage"
 msgstr "USB যন্ত্ৰ"
-
-#: categories/settings-network-bluetooth.desktop:9
-msgctxt "Name"
-msgid "Bluetooth"
-msgstr ""
 
 #: categories/settings-network-connectivity.desktop:9
 #, fuzzy
@@ -176,19 +161,6 @@ msgctxt "Name"
 msgid "Settings"
 msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
-#: categories/settings-personalization-accessibility.desktop:8
-msgctxt "Name"
-msgid "Accessibility"
-msgstr "অভিগম্যতা"
-
-#: categories/settings-personalization-accountdetails.desktop:9
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Details"
-msgctxt "Name"
-msgid "Account Details"
-msgstr "বিৱৰণ"
-
 #: categories/settings-personalization-applications.desktop:9
 #, fuzzy
 #| msgctxt "Name"
@@ -204,14 +176,6 @@ msgstr "Ruby Application Archive"
 msgctxt "Name"
 msgid "Personalization"
 msgstr "সংসাধকৰ তথ্য"
-
-#: categories/settings-personalization-notification.desktop:9
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Ruby Application Archive"
-msgctxt "Name"
-msgid "Notifications"
-msgstr "Ruby Application Archive"
 
 #: categories/settings-personalization-regionalsettings.desktop:9
 #, fuzzy
@@ -322,6 +286,24 @@ msgstr ""
 msgctxt "Comment"
 msgid "Categorized sidebar style"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Accessibility"
+#~ msgstr "অভিগম্যতা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Details"
+#~ msgctxt "Name"
+#~ msgid "Account Details"
+#~ msgstr "বিৱৰণ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Ruby Application Archive"
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "Ruby Application Archive"
 
 #, fuzzy
 #~| msgctxt "Name"
