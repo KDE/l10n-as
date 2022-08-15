@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-12 00:57+0000\n"
+"POT-Creation-Date: 2022-08-15 00:53+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -58,19 +58,6 @@ msgctxt "Name"
 msgid "Application Manuals"
 msgstr ""
 
-#: plugins/browsercontrolmodules.desktop:2
-msgctxt "Name"
-msgid "Browser Settings Modules"
-msgstr ""
-
-#: plugins/filemanagercontrolmodules.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Manager - Super User Mode"
-msgctxt "Name"
-msgid "Filemanager Settings Modules"
-msgstr "File Manager - Super User Mode"
-
 #: plugins/fundamentals.desktop:4
 #, fuzzy
 #| msgctxt "Name"
@@ -100,11 +87,6 @@ msgstr ""
 #: plugins/kioworkers.desktop:4
 msgctxt "Name"
 msgid "KIO Workers"
-msgstr ""
-
-#: plugins/konquerorcontrolmodules.desktop:2
-msgctxt "Name"
-msgid "Konqueror Settings Modules"
 msgstr ""
 
 #: plugins/Manpages/.directory:2
@@ -170,14 +152,6 @@ msgctxt "Name"
 msgid "Online Help"
 msgstr "Dolphin প্ৰদৰ্শন"
 
-#: plugins/othercontrolmodules.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System Log Viewer"
-msgctxt "Name"
-msgid "Other Settings Modules"
-msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
-
 #: plugins/plasma.desktop:4
 msgctxt "Name"
 msgid "Plasma Manual"
@@ -187,6 +161,20 @@ msgstr ""
 msgctxt "Name"
 msgid "Scrollkeeper"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Manager - Super User Mode"
+#~ msgctxt "Name"
+#~ msgid "Filemanager Settings Modules"
+#~ msgstr "File Manager - Super User Mode"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Log Viewer"
+#~ msgctxt "Name"
+#~ msgid "Other Settings Modules"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ লগ প্ৰদৰ্শক"
 
 #, fuzzy
 #~| msgctxt "Name"
