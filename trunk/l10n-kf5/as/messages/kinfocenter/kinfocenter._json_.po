@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-31 01:00+0000\n"
+"POT-Creation-Date: 2022-09-13 00:57+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -65,6 +65,11 @@ msgstr "OpenGL"
 msgctxt "Name"
 msgid "Interrupts"
 msgstr "Interrupts"
+
+#: Modules/kwinsupportinfo/kcm_kwinsupportinfo.json
+msgctxt "Name"
+msgid "Window Manager"
+msgstr ""
 
 #: Modules/nics/kcm_nic.json
 msgctxt "Name"
@@ -164,6 +169,14 @@ msgstr "OpenGL ৰ তথ্য"
 msgctxt "Description"
 msgid "Interrupt information"
 msgstr "Interrupt তথ্য"
+
+#: Modules/kwinsupportinfo/kcm_kwinsupportinfo.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "IO-port information"
+msgctxt "Description"
+msgid "KWin Support information"
+msgstr "IO-port তথ্য"
 
 #: Modules/nics/kcm_nic.json
 #, fuzzy
@@ -299,10 +312,6 @@ msgstr "X-Server ৰ তথ্য"
 #~ msgctxt "Name"
 #~ msgid "IO-Ports"
 #~ msgstr "IO-Ports"
-
-#~ msgctxt "Comment"
-#~ msgid "IO-port information"
-#~ msgstr "IO-port তথ্য"
 
 #~ msgctxt "Name"
 #~ msgid "IEEE 1394 Devices"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4_as\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-07 00:43+0000\n"
+"POT-Creation-Date: 2022-09-13 00:42+0000\n"
 "PO-Revision-Date: 2008-12-26 15:19+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -571,7 +571,7 @@ msgid "Provider:"
 msgstr "উপলব্ধকৰোঁতা: %1"
 
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
-#: downloadwidget.ui:71 qtquick/qml/Page.qml:427
+#: downloadwidget.ui:71 qtquick/qml/Page.qml:423
 #, fuzzy, kde-format
 #| msgid "Character:"
 msgid "Category:"
@@ -852,7 +852,7 @@ msgctxt ""
 msgid "Download New Stuff"
 msgstr "নতুন বস্তু ডাউনলোড কৰক"
 
-#: qtquick/qml/Dialog.qml:130
+#: qtquick/qml/Dialog.qml:128
 #, fuzzy, kde-format
 #| msgid "Continue operation"
 msgid "Contribute your own..."
@@ -1215,7 +1215,7 @@ msgstr ""
 msgid "Go to..."
 msgstr "-লৈ যাওক...(&G)"
 
-#: qtquick/qml/Page.qml:497
+#: qtquick/qml/Page.qml:494
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
