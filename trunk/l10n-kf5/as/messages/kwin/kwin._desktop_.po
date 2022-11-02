@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-31 00:55+0000\n"
+"POT-Creation-Date: 2022-11-02 00:59+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -59,17 +59,17 @@ msgctxt "Comment"
 msgid "KWin Window Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: src/kwin.notifyrc:69
+#: src/kwin.notifyrc:70
 msgctxt "Name"
 msgid "Compositing has been suspended"
 msgstr ""
 
-#: src/kwin.notifyrc:136
+#: src/kwin.notifyrc:138
 msgctxt "Comment"
 msgid "Another application has requested to suspend compositing."
 msgstr ""
 
-#: src/kwin.notifyrc:203
+#: src/kwin.notifyrc:206
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Graphics"
@@ -77,17 +77,17 @@ msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "চিত্ৰাঙ্কন"
 
-#: src/kwin.notifyrc:253
+#: src/kwin.notifyrc:257
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
 
-#: src/kwin.notifyrc:305
+#: src/kwin.notifyrc:310
 msgctxt "Name"
 msgid "Xwayland Crash"
 msgstr ""
 
-#: src/kwin.notifyrc:341
+#: src/kwin.notifyrc:347
 msgctxt "Comment"
 msgid "Xwayland has crashed"
 msgstr ""
@@ -113,7 +113,7 @@ msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
 
-#: src/plugins/krunner-integration/kwin-runner-windows.desktop:92
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:93
 msgctxt "X-Plasma-Runner-Syntax-Descriptions"
 msgid ""
 "Finds windows whose name or window application match :q:. It is possible to "
