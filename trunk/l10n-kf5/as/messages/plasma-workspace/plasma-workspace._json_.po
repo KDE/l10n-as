@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-09 00:59+0000\n"
+"POT-Creation-Date: 2022-12-14 01:00+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -422,6 +422,11 @@ msgstr "আইকন"
 msgctxt "Name"
 msgid "Font Management"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.json
+msgctxt "Name"
+msgid "Font Files"
+msgstr ""
 
 #: kcms/kfontinst/viewpart/kfontviewpart.json
 msgctxt "Name"

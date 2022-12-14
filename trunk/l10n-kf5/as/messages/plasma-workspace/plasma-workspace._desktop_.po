@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-02 00:59+0000\n"
+"POT-Creation-Date: 2022-12-14 00:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -169,11 +169,6 @@ msgstr ""
 #: kcms/kfontinst/kio/fonts.desktop:5
 msgctxt "Name"
 msgid "Fonts"
-msgstr ""
-
-#: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
-msgctxt "Name"
-msgid "Font Files"
 msgstr ""
 
 #: kcms/lookandfeel/lookandfeel.knsrc:2
