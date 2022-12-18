@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-13 01:07+0000\n"
+"POT-Creation-Date: 2022-12-18 01:05+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -19,15 +19,12 @@ msgctxt "Comment"
 msgid "KWin Effect"
 msgstr ""
 
-#: src/kcmkwin/kwineffects/kwineffect.knsrc:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "File Manager"
+#: src/kcms/effects/kwineffect.knsrc:2
 msgctxt "Name"
-msgid "Window Manager Effects"
-msgstr "নথিপত্ৰৰ পৰিচালক"
+msgid "Desktop Effects"
+msgstr ""
 
-#: src/kcmkwin/kwinrules/org.kde.kwin_rules_dialog.desktop:3
+#: src/kcms/rules/org.kde.kwin_rules_dialog.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "MS Windows 9x"
@@ -35,7 +32,7 @@ msgctxt "Name"
 msgid "Window Rules"
 msgstr "MS Windows 9x"
 
-#: src/kcmkwin/kwinscripts/kwinscripts.knsrc:2
+#: src/kcms/scripts/kwinscripts.knsrc:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "File Manager"
@@ -43,7 +40,7 @@ msgctxt "Name"
 msgid "Window Manager Scripts"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: src/kcmkwin/kwintabbox/kwinswitcher.knsrc:2
+#: src/kcms/tabbox/kwinswitcher.knsrc:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "File Manager"
@@ -144,6 +141,13 @@ msgstr "নথিপত্ৰৰ পৰিচালক"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Effects"
+#~ msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #, fuzzy
 #~| msgctxt "Name"
