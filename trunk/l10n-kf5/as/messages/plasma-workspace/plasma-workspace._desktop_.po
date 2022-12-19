@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-14 00:56+0000\n"
+"POT-Creation-Date: 2022-12-19 00:56+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -184,12 +184,12 @@ msgctxt "Name"
 msgid "GNOME/GTK Application Styles"
 msgstr "অনুপ্ৰয়োগ"
 
-#: kioslave/desktop/./directory.trash:2
+#: kioworkers/desktop/./directory.trash:2
 msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioslave/desktop/./directory.trash:58
+#: kioworkers/desktop/./directory.trash:58
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
