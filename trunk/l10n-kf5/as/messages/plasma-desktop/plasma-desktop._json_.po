@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-26 01:06+0000\n"
+"POT-Creation-Date: 2023-01-03 01:01+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -187,11 +187,6 @@ msgstr ""
 #: kcms/landingpage/kcm_landingpage.json
 msgctxt "Name"
 msgid "Quick Settings"
-msgstr ""
-
-#: kcms/launch/kcm_launchfeedback.json
-msgctxt "Name"
-msgid "Launch Feedback"
 msgstr ""
 
 #: kcms/mouse/kcm_mouse.json
@@ -502,11 +497,6 @@ msgstr "ডেস্কট'প"
 #: kcms/landingpage/kcm_landingpage.json
 msgctxt "Description"
 msgid "Landing page with some basic settings"
-msgstr ""
-
-#: kcms/launch/kcm_launchfeedback.json
-msgctxt "Description"
-msgid "Application Launch Feedback"
 msgstr ""
 
 #: kcms/mouse/kcm_mouse.json
