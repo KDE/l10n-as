@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-09 01:03+0000\n"
+"POT-Creation-Date: 2023-02-21 01:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -332,6 +332,24 @@ msgid ""
 "konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
 "behavior,behaviour,memory usage,Home URL,network operations,progress dialog,"
 "trash can,delete,confirmation"
+msgstr ""
+
+#: settings/konqhtml/cache/khtml_cache.desktop:10
+msgctxt "Name"
+msgid "Cache"
+msgstr "কেছে"
+
+#: settings/konqhtml/cache/khtml_cache.desktop:12
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the bookmarks home page"
+msgctxt "Comment"
+msgid "Configure the use of Cache"
+msgstr "পত্ৰচিহ্নৰ ঘৰৰ পৃষ্ঠা বিন্যাস কৰক"
+
+#: settings/konqhtml/cache/khtml_cache.desktop:13
+msgctxt "X-KDE-Keywords"
+msgid "konqueror,browser,html,web,www"
 msgstr ""
 
 #: settings/konqhtml/css/kcmcss.desktop:10
@@ -940,10 +958,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Configure enhanced browsing"
 #~ msgstr "উন্নতভাবে চৰণ কৰা বিন্যাস কৰক"
-
-#~ msgctxt "Name"
-#~ msgid "Cache"
-#~ msgstr "কেছে"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure web cache settings"
