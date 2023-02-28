@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-26 01:06+0000\n"
+"POT-Creation-Date: 2023-02-28 01:07+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -307,7 +307,7 @@ msgctxt "Comment"
 msgid "Configure the bookmarks home page"
 msgstr "পত্ৰচিহ্নৰ ঘৰৰ পৃষ্ঠা বিন্যাস কৰক"
 
-#: settings/bookmarks/bookmarks.desktop:177
+#: settings/bookmarks/bookmarks.desktop:178
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bookmarks"
@@ -326,7 +326,7 @@ msgid "You can configure how Konqueror behaves as a file manager here"
 msgstr ""
 "Konqueror নথিপত্ৰৰ পৰিচালক হিচাপে কেনেদৰে আচৰণ কৰে আপুনি ইয়াত বিন্যাস কৰিব পাৰে"
 
-#: settings/konq/filebehavior.desktop:194
+#: settings/konq/filebehavior.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
@@ -362,7 +362,7 @@ msgctxt "Comment"
 msgid "Configure the stylesheets used to render web pages"
 msgstr "ৱেব পৃষ্ঠা দেখুৱাবলৈ stylesheets কি ধৰণে ব্যৱহাৰ হয় বিন্যাস কৰক"
 
-#: settings/konqhtml/css/kcmcss.desktop:192
+#: settings/konqhtml/css/kcmcss.desktop:193
 msgctxt "X-KDE-Keywords"
 msgid "CSS,HTML,style,stylesheet,accessibility"
 msgstr ""
@@ -380,7 +380,7 @@ msgctxt "Comment"
 msgid "Configure how to display web pages"
 msgstr "ৱেব পৃষ্ঠাত ব্যৱহাৰ কৰা আখৰ বিন্যাস কৰক"
 
-#: settings/konqhtml/khtml_appearance.desktop:174
+#: settings/konqhtml/khtml_appearance.desktop:175
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,kfm,browser,html,web,www,fonts,charsets,character sets,encoding"
@@ -396,7 +396,7 @@ msgctxt "Comment"
 msgid "Configure the browser behavior"
 msgstr "চৰকৰ আচৰণ বিন্যাস কৰক"
 
-#: settings/konqhtml/khtml_behavior.desktop:187
+#: settings/konqhtml/khtml_behavior.desktop:188
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascript,"
@@ -427,7 +427,7 @@ msgctxt "Comment"
 msgid "Configure general Konqueror behavior"
 msgstr "Konqueror ৰ সাধাৰণ আচৰণ বিন্যাস কৰক"
 
-#: settings/konqhtml/khtml_general.desktop:161
+#: settings/konqhtml/khtml_general.desktop:162
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Konqueror"
@@ -445,7 +445,7 @@ msgctxt "Comment"
 msgid "Configure the behavior of Java and JavaScript"
 msgstr "Java আৰু JavaScript ৰ আচৰণ বিন্যাস কৰক"
 
-#: settings/konqhtml/khtml_java_js.desktop:190
+#: settings/konqhtml/khtml_java_js.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "konqueror,kfm,browser,html,web,www,java,javascript"
 msgstr ""
@@ -460,7 +460,7 @@ msgctxt "Comment"
 msgid "Configure settings that can improve Konqueror performance"
 msgstr "Konqueror ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
 
-#: settings/performance/kcmkonqyperformance.desktop:188
+#: settings/performance/kcmkonqyperformance.desktop:189
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDED Konqueror Preloader Module"
@@ -478,7 +478,7 @@ msgctxt "Comment"
 msgid "Configure settings that can improve KDE performance"
 msgstr "KDE ৰ কাৰ্যক্ষমতা বৃদ্ধি কৰা পছন্দৰ বিন্যাস কৰক"
 
-#: settings/performance/kcmperformance.desktop:186
+#: settings/performance/kcmperformance.desktop:187
 msgctxt "X-KDE-Keywords"
 msgid "performance,speed,memory,improve"
 msgstr ""
