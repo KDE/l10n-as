@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-26 02:19+0000\n"
+"POT-Creation-Date: 2023-05-01 02:37+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -110,14 +110,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Cursors"
 msgstr ""
-
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:7
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Name"
-msgid "Plasma Style"
-msgstr "ডেস্কট'প"
 
 #: kcms/desktoptheme/plasma-themes.knsrc:2
 #, fuzzy
@@ -756,6 +748,13 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Plasma Style"
+#~ msgstr "ডেস্কট'প"
 
 #, fuzzy
 #~| msgctxt "Comment"
