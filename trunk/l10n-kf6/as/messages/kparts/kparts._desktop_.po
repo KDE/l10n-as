@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-20 02:07+0000\n"
+"POT-Creation-Date: 2023-05-21 02:05+0000\n"
 "PO-Revision-Date: 2008-12-17 16:47+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: American English <>\n"
@@ -13,17 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-
-#: src/browserview.desktop:5
-msgctxt "Name"
-msgid "Browser View"
-msgstr "চৰকৰ প্ৰদৰ্শন"
-
-#: src/kpart.desktop:4 src/kparts-readonlypart.desktop:5
-#: src/kparts-readwritepart.desktop:5
-msgctxt "Comment"
-msgid "KDE Component"
-msgstr "KDE অংশ"
 
 #: templates/kparts6-app/kparts6-app.kdevtemplate:2
 #, fuzzy
@@ -37,6 +26,14 @@ msgstr "অনুপ্ৰয়োগ"
 msgctxt "Comment"
 msgid "Generate an application built on the KParts framework, using CMake."
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Browser View"
+#~ msgstr "চৰকৰ প্ৰদৰ্শন"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Component"
+#~ msgstr "KDE অংশ"
 
 #~ msgctxt "Name"
 #~ msgid "Notepad (example)"
