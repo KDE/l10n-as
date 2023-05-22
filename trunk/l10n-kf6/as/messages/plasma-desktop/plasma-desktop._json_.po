@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-27 01:11+0000\n"
+"POT-Creation-Date: 2023-05-22 02:11+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -287,10 +287,10 @@ msgstr ""
 #: solid-device-automounter/kcm/device_automounter_kcm.json
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "USB Devices"
+#| msgid "Devices"
 msgctxt "Name"
-msgid "Removable Devices"
-msgstr "USB যন্ত্ৰ"
+msgid "Device Auto-Mount"
+msgstr "যন্ত্ৰ"
 
 #: solid-device-automounter/kded/device_automounter.json
 msgctxt "Name"
@@ -592,7 +592,7 @@ msgstr "ডেস্কট'প"
 
 #: solid-device-automounter/kcm/device_automounter_kcm.json
 msgctxt "Description"
-msgid "Configure automatic handling of removable storage media"
+msgid "Configure automatic mounting of disks and volumes"
 msgstr ""
 
 #: solid-device-automounter/kded/device_automounter.json
@@ -713,6 +713,13 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "বিভাজন বিচাৰক"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
+#~ msgctxt "Name"
+#~ msgid "Removable Devices"
+#~ msgstr "USB যন্ত্ৰ"
 
 #, fuzzy
 #~| msgctxt "Name"
