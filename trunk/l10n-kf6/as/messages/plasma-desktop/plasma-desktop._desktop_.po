@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-06 02:12+0000\n"
+"POT-Creation-Date: 2023-06-09 02:17+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -412,14 +412,6 @@ msgctxt "Name"
 msgid "File Path"
 msgstr "বিভাজন বিচাৰক"
 
-#: kcms/solid_actions/solid-device-type.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name"
-msgid "Solid Device Type"
-msgstr "যন্ত্ৰ"
-
 #: kcms/touchpad/kded/kcm_touchpad.notifyrc:2
 msgctxt "Name"
 msgid "Touchpad"
@@ -475,6 +467,13 @@ msgstr "ডেস্কট'প"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Devices"
+#~ msgctxt "Name"
+#~ msgid "Solid Device Type"
+#~ msgstr "যন্ত্ৰ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
