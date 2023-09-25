@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-08-28 00:53+0000\n"
+"POT-Creation-Date: 2023-09-25 00:48+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -155,14 +155,6 @@ msgctxt "X-KDE-Keywords"
 msgid "konqueror,reuse,preloading"
 msgstr "KDED Konqueror Preloader Module"
 
-#: sidebar/bookmarks_module/konqsidebar_bookmarks.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
-msgctxt "Name"
-msgid "Bookmarks SideBar Module"
-msgstr "Web SideBar Module"
-
 #: sidebar/default_entries/bookmarks.desktop:12
 #: sidebar/trees/init/bookmarks_module.desktop:5
 msgctxt "Name"
@@ -244,30 +236,6 @@ msgctxt "Name"
 msgid "Services"
 msgstr "সেৱা"
 
-#: sidebar/history_module/konqsidebar_history.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "History Sidebar"
-msgctxt "Name"
-msgid "History SideBar Module"
-msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
-
-#: sidebar/places_module/konqsidebar_places.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
-msgctxt "Name"
-msgid "Places SideBar Module"
-msgstr "Web SideBar Module"
-
-#: sidebar/tree_module/konqsidebar_tree.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
-msgctxt "Name"
-msgid "Tree SideBar Module"
-msgstr "Web SideBar Module"
-
 #: sidebar/trees/init/dirtree_module.desktop:5
 #: sidebar/trees/konqsidebar_tree.desktop:4
 msgctxt "Name"
@@ -333,6 +301,34 @@ msgstr "Web SideBar Module"
 msgctxt "Name"
 msgid "About-Page for Konqueror"
 msgstr "Konqueror ৰ পৰিচয়ৰ পৃষ্ঠা"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Bookmarks SideBar Module"
+#~ msgstr "Web SideBar Module"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "History Sidebar"
+#~ msgctxt "Name"
+#~ msgid "History SideBar Module"
+#~ msgstr "ইতিহাসৰ কাৰণে কাষৰ বাৰ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Places SideBar Module"
+#~ msgstr "Web SideBar Module"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Tree SideBar Module"
+#~ msgstr "Web SideBar Module"
 
 #, fuzzy
 #~| msgctxt "Name"
