@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-26 01:53+0000\n"
+"POT-Creation-Date: 2023-10-21 01:45+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -253,16 +253,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Geolocation"
 msgstr "অনুপ্ৰয়োগ"
-
-#: dataengines/geolocation/plasma-geolocation-gps.json
-msgctxt "Name"
-msgid "Geolocation GPS"
-msgstr ""
-
-#: dataengines/geolocation/plasma-geolocation-ip.json
-msgctxt "Name"
-msgid "Geolocation IP"
-msgstr ""
 
 #: dataengines/hotplug/plasma-dataengine-hotplug.json
 msgctxt "Name"
@@ -848,16 +838,6 @@ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ�
 msgctxt "Description"
 msgid "Geolocation Data Engine"
 msgstr "অনুপ্ৰয়োগ"
-
-#: dataengines/geolocation/plasma-geolocation-gps.json
-msgctxt "Description"
-msgid "Geolocation from GPS address."
-msgstr ""
-
-#: dataengines/geolocation/plasma-geolocation-ip.json
-msgctxt "Description"
-msgid "Geolocation from IP address."
-msgstr ""
 
 #: dataengines/hotplug/plasma-dataengine-hotplug.json
 msgctxt "Description"
