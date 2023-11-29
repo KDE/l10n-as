@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-19 01:59+0000\n"
+"POT-Creation-Date: 2023-11-29 01:44+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -464,6 +464,11 @@ msgstr "অনুপ্ৰয়োগ"
 #: kcms/users/src/kcm_users.json
 msgctxt "Name"
 msgid "Users"
+msgstr ""
+
+#: kcms/wallpaper/kcm_wallpaper.json
+msgctxt "Name"
+msgid "Wallpaper"
 msgstr ""
 
 #: kioworkers/desktop/desktopnotifier.json
@@ -1037,6 +1042,14 @@ msgstr ""
 msgctxt "Description"
 msgid "Manage user accounts"
 msgstr ""
+
+#: kcms/wallpaper/kcm_wallpaper.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Color"
+msgctxt "Description"
+msgid "Configure the wallpaper"
+msgstr "ৰং"
 
 #: kioworkers/desktop/desktopnotifier.json
 msgctxt "Description"
