@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-08 00:49+0000\n"
+"POT-Creation-Date: 2023-12-08 00:47+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -202,7 +202,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "টেক্সট নথিপত্ৰ..."
 
-#: src/new_file_templates/EmptyFile.desktop:48
+#: src/new_file_templates/EmptyFile.desktop:49
 #: src/new_file_templates/TextFile.desktop:93
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -499,7 +499,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:51
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -515,7 +515,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "Python প্ৰসঙ্গৰ হাতপুথি"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:50
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -804,7 +804,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Qt3 অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:51
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:52
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -1209,7 +1209,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "KDE তালিকা"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:49
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:50
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1222,7 +1222,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:48
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:49
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1335,7 +1335,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:51
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1384,7 +1384,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr "KDE তালিকা"
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:51
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1397,7 +1397,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:51
+#: src/urifilters/ikws/searchproviders/krita.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1410,7 +1410,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:51
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1436,7 +1436,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:51
+#: src/urifilters/ikws/searchproviders/linguee.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1481,7 +1481,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Qt3 অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:50
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1638,7 +1638,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:49
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:50
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1679,7 +1679,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:51
+#: src/urifilters/ikws/searchproviders/protondb.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1714,7 +1714,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "শেহতীয়া Qt অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:51
+#: src/urifilters/ikws/searchproviders/qt5.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1730,7 +1730,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "শেহতীয়া Qt অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:51
+#: src/urifilters/ikws/searchproviders/qt6.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1850,7 +1850,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:50
+#: src/urifilters/ikws/searchproviders/reddit.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1905,7 +1905,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Qt3 অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:49
+#: src/urifilters/ikws/searchproviders/rust.desktop:50
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -2010,7 +2010,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Debian Package Search"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:51
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -2136,7 +2136,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:51
+#: src/urifilters/ikws/searchproviders/wine.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2235,7 +2235,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:49
+#: src/urifilters/ikws/searchproviders/yandex.desktop:50
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -2279,7 +2279,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:45
+#: templates/kioworker/kioworker.kdevtemplate:46
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
