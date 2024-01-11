@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-27 01:39+0000\n"
+"POT-Creation-Date: 2024-01-11 00:42+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -22,6 +22,22 @@ msgctxt "Name"
 msgid "Open with File Manager"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device Notifier"
+msgstr "যন্ত্ৰ"
+
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:84
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device Status"
+msgstr "যন্ত্ৰ"
+
 #: components/shellprivate/wallpaperplugin.knsrc:2
 msgctxt "Name"
 msgid "Wallpaper Plugins"
@@ -34,22 +50,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Plasma Widgets"
 msgstr "ডেস্কট'প"
-
-#: dataengines/devicenotifications/devicenotifications.notifyrc:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name"
-msgid "Device Notifier"
-msgstr "যন্ত্ৰ"
-
-#: dataengines/devicenotifications/devicenotifications.notifyrc:84
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name"
-msgid "Device Status"
-msgstr "যন্ত্ৰ"
 
 #: freespacenotifier/freespacenotifier.notifyrc:3
 msgctxt "Comment"
