@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-30 01:06+0000\n"
+"POT-Creation-Date: 2024-01-16 00:45+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -22,18 +22,18 @@ msgctxt "Name"
 msgid "About this System"
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
+#: Modules/block_devices/kcm_block_devices.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Block Devices"
+msgstr "USB যন্ত্ৰ"
+
 #: Modules/cpu/kcm_cpu.json
 msgctxt "Name"
 msgid "CPU"
 msgstr ""
-
-#: Modules/devinfo/devinfo.json
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Name"
-msgid "Device Viewer"
-msgstr "ছবি প্ৰদৰ্শক"
 
 #: Modules/egl/kcm_egl.json
 #, fuzzy
@@ -122,6 +122,14 @@ msgctxt "Description"
 msgid "Information About This System"
 msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
+#: Modules/block_devices/kcm_block_devices.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Description"
+msgid "Block Devices"
+msgstr "USB যন্ত্ৰ"
+
 #: Modules/cpu/kcm_cpu.json
 #, fuzzy
 #| msgctxt "Name"
@@ -129,14 +137,6 @@ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ�
 msgctxt "Description"
 msgid "Advanced CPU Information"
 msgstr "সংসাধকৰ তথ্য"
-
-#: Modules/devinfo/devinfo.json
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Description"
-msgid "Device Viewer"
-msgstr "ছবি প্ৰদৰ্শক"
 
 #: Modules/egl/kcm_egl.json
 #, fuzzy
@@ -246,6 +246,20 @@ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ�
 msgctxt "Description"
 msgid "X-Server information"
 msgstr "X-Server ৰ তথ্য"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Name"
+#~ msgid "Device Viewer"
+#~ msgstr "ছবি প্ৰদৰ্শক"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Description"
+#~ msgid "Device Viewer"
+#~ msgstr "ছবি প্ৰদৰ্শক"
 
 #, fuzzy
 #~| msgctxt "Name"
