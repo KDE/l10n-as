@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-22 00:44+0000\n"
+"POT-Creation-Date: 2024-01-23 00:45+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -286,14 +286,6 @@ msgstr "নথিপত্ৰৰ পৰিচালনা"
 msgctxt "Name"
 msgid "Device Information"
 msgstr ""
-
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Process Information"
-msgctxt "Name"
-msgid "Status Notifier Information"
-msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Name"
@@ -867,13 +859,6 @@ msgctxt "Description"
 msgid "Device data via Solid"
 msgstr ""
 
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
-msgctxt "Description"
-msgid ""
-"Engine for applications' status information, based on the Status Notifier "
-"protocol."
-msgstr ""
-
 #: dataengines/time/plasma-dataengine-time.json
 #, fuzzy
 #| msgctxt "Name"
@@ -1295,11 +1280,6 @@ msgctxt "Authors Name"
 msgid "Alex Merry"
 msgstr ""
 
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
-msgctxt "Authors Name"
-msgid "Matthieu Gallien"
-msgstr ""
-
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Authors Name"
 msgid "Aaron Seigo"
@@ -1363,6 +1343,13 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Julius Zint"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "System Process Information"
+#~ msgctxt "Name"
+#~ msgid "Status Notifier Information"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ প্ৰক্ৰীয়াৰ তথ্য"
 
 #~ msgctxt "Name"
 #~ msgid "Dictionary"
