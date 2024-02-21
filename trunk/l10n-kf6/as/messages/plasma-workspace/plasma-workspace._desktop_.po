@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-21 00:42+0000\n"
+"POT-Creation-Date: 2024-02-21 00:43+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -651,6 +651,22 @@ msgstr ""
 #| msgid "Desktop"
 msgctxt "Name"
 msgid "Plasma Desktop Workspace"
+msgstr "ডেস্কট'প"
+
+#: startkde/session-restore/org.kde.plasma-fallback-session-restore.desktop.in:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Plasma Session Restore"
+msgstr "ডেস্কট'প"
+
+#: startkde/session-restore/org.kde.plasma-fallback-session-save.desktop.in:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Plasma Session Save"
 msgstr "ডেস্কট'প"
 
 #: themes/qtcde.themerc:2
