@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-12 00:43+0000\n"
+"POT-Creation-Date: 2024-03-20 00:43+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -30,7 +30,7 @@ msgctxt "GenericName"
 msgid "Find Files/Folders"
 msgstr "নথিপত্ৰ/পঞ্জিকা বিচাৰক"
 
-#: src/org.kde.kfind.desktop:116
+#: src/org.kde.kfind.desktop:115
 msgctxt "Keywords"
 msgid "search;file search;search tool;finder;"
 msgstr ""
