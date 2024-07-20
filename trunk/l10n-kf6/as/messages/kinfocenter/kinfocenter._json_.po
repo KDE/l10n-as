@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-12 00:45+0000\n"
+"POT-Creation-Date: 2024-07-20 00:47+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -75,6 +75,11 @@ msgstr "Interrupts"
 msgctxt "Name"
 msgid "Window Manager"
 msgstr ""
+
+#: kcms/memory/kcm_memory.json
+msgctxt "Name"
+msgid "Memory"
+msgstr "স্মৃতিশক্তি"
 
 #: kcms/network/kcm_network.json
 msgctxt "Name"
@@ -195,6 +200,14 @@ msgstr "Interrupt তথ্য"
 msgctxt "Description"
 msgid "KWin Support information"
 msgstr "IO-port তথ্য"
+
+#: kcms/memory/kcm_memory.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Memory information"
+msgctxt "Description"
+msgid "Memory Information"
+msgstr "স্মৃতিশক্তিৰ তথ্য"
 
 #: kcms/network/kcm_network.json
 #, fuzzy
@@ -353,14 +366,6 @@ msgstr "X-Server ৰ তথ্য"
 #~ msgctxt "Comment"
 #~ msgid "Attached IEEE 1394 devices"
 #~ msgstr "সংযুক্ত IEEE 1394 যন্ত্ৰ"
-
-#~ msgctxt "Name"
-#~ msgid "Memory"
-#~ msgstr "স্মৃতিশক্তি"
-
-#~ msgctxt "Comment"
-#~ msgid "Memory information"
-#~ msgstr "স্মৃতিশক্তিৰ তথ্য"
 
 #, fuzzy
 #~| msgctxt "Comment"
