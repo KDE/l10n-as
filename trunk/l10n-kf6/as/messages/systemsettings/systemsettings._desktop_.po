@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-11 00:46+0000\n"
+"POT-Creation-Date: 2024-09-15 00:46+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -53,27 +53,27 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr ""
 
-#: app/systemsettings.desktop:299
+#: app/systemsettings.desktop:300
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:357
+#: app/systemsettings.desktop:358
 msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: app/systemsettings.desktop:417
+#: app/systemsettings.desktop:418
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr ""
 
-#: app/systemsettings.desktop:476
+#: app/systemsettings.desktop:477
 msgctxt "Name"
 msgid "Power Management"
 msgstr ""
 
-#: app/systemsettings.desktop:562
+#: app/systemsettings.desktop:563
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -144,7 +144,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr "নথিপত্ৰৰ পৰিচালনা"
 
-#: categories/settings-hardware-display.desktop:54
+#: categories/settings-hardware-display.desktop:55
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
