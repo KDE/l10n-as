@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-21 00:49+0000\n"
+"POT-Creation-Date: 2024-09-29 00:48+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -252,14 +252,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Places"
 msgstr ""
-
-#: dataengines/powermanagement/plasma-dataengine-powermanagement.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
-msgctxt "Name"
-msgid "Power Management"
-msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Name"
@@ -805,11 +797,6 @@ msgstr ""
 #: dataengines/places/plasma-dataengine-places.json
 msgctxt "Description"
 msgid "Places, as seen in the file manager and in file dialogs."
-msgstr ""
-
-#: dataengines/powermanagement/plasma-dataengine-powermanagement.json
-msgctxt "Description"
-msgid "Battery, AC, sleep and PowerDevil information."
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
@@ -1402,6 +1389,13 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Management"
+#~ msgctxt "Name"
+#~ msgid "Power Management"
+#~ msgstr "নথিপত্ৰৰ পৰিচালনা"
 
 #, fuzzy
 #~| msgctxt "Name"
