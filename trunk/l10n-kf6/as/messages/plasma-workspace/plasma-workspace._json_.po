@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-06 00:48+0000\n"
+"POT-Creation-Date: 2024-10-14 00:48+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -217,11 +217,6 @@ msgstr "বিভাজনৰ তথ্য"
 #: dataengines/executable/plasma-dataengine-executable.json
 msgctxt "Name"
 msgid "Run Commands"
-msgstr ""
-
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
-msgctxt "Name"
-msgid "Files and Directories"
 msgstr ""
 
 #: dataengines/notifications/plasma-dataengine-notifications.json
@@ -739,14 +734,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Run Executable Data Engine"
 msgstr ""
-
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Information about available protocols"
-msgctxt "Description"
-msgid "Information about files and directories."
-msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Description"
@@ -1338,6 +1325,13 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Information about available protocols"
+#~ msgctxt "Description"
+#~ msgid "Information about files and directories."
+#~ msgstr "উপলব্ধ আচাৰ বিধিৰ বিষয়ে তথ্য"
 
 #, fuzzy
 #~| msgctxt "Name"
