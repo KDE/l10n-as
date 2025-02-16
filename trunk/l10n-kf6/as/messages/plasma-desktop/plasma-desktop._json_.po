@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-13 00:48+0000\n"
+"POT-Creation-Date: 2025-02-16 00:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -134,11 +134,6 @@ msgstr "পৰিচয়ৰ পৰিচালক"
 msgctxt "Name"
 msgid "File Search"
 msgstr "বিভাজন বিচাৰক"
-
-#: kcms/componentchooser/kcm_componentchooser.json
-msgctxt "Name"
-msgid "Default Applications"
-msgstr ""
 
 #: kcms/dateandtime/kcm_clock.json
 msgctxt "Name"
@@ -418,11 +413,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Configure File Search"
 msgstr "বিভাজন বিচাৰক"
-
-#: kcms/componentchooser/kcm_componentchooser.json
-msgctxt "Description"
-msgid "Choose default Applications"
-msgstr ""
 
 #: kcms/dateandtime/kcm_clock.json
 #, fuzzy
@@ -714,14 +704,6 @@ msgctxt "X-KDE-Keywords"
 msgid ""
 "search,find,files,archives,documents,filesystem,hidden files,file content,"
 "folders,directory,directories,baloo,index,indexing,indexer"
-msgstr ""
-
-#: kcms/componentchooser/kcm_componentchooser.json
-msgctxt "X-KDE-Keywords"
-msgid ""
-"default applications,default apps,components,component chooser,resources,web "
-"browser,browser,internet,file manager,dolphin,email,e-mail,email client,"
-"terminal,terminal emulator,konsole,defaults,open with,file association"
 msgstr ""
 
 #: kcms/dateandtime/kcm_clock.json

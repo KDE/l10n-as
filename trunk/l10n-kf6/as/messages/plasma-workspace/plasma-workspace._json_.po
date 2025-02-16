@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-19 00:50+0000\n"
+"POT-Creation-Date: 2025-02-16 00:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -284,6 +284,14 @@ msgstr "ৰং"
 msgctxt "Name"
 msgid "Colors"
 msgstr "ৰং"
+
+#: kcms/componentchooser/kcm_componentchooser.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Terminal Applications"
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
 
 #: kcms/cursortheme/kcm_cursortheme.json
 msgctxt "Name"
@@ -764,6 +772,14 @@ msgctxt "Description"
 msgid "Choose color scheme"
 msgstr ""
 
+#: kcms/componentchooser/kcm_componentchooser.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Description"
+msgid "Choose default Applications"
+msgstr "অনুপ্ৰয়োগ"
+
 #: kcms/cursortheme/kcm_cursortheme.json
 msgctxt "Description"
 msgid "Choose mouse cursor theme"
@@ -1148,6 +1164,14 @@ msgid ""
 "accent,highlight,colour"
 msgstr ""
 
+#: kcms/componentchooser/kcm_componentchooser.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"default applications,default apps,components,component chooser,resources,web "
+"browser,browser,internet,file manager,dolphin,email,e-mail,email client,"
+"terminal,terminal emulator,konsole,defaults,open with,file association"
+msgstr ""
+
 #: kcms/cursortheme/kcm_cursortheme.json
 msgctxt "X-KDE-Keywords"
 msgid ""
@@ -1526,23 +1550,9 @@ msgstr ""
 #~ msgid "Internet"
 #~ msgstr "ইন্টাৰ্নে'ট"
 
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Terminal Applications"
-#~ msgctxt "Name"
-#~ msgid "Terminal Applications"
-#~ msgstr "টাৰ্মিনেল অনুপ্ৰয়োগ"
-
 #~ msgctxt "Name"
 #~ msgid "KDE Menu"
 #~ msgstr "KDE তালিকা"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Applications"
-#~ msgctxt "Name"
-#~ msgid "More Applications"
-#~ msgstr "অনুপ্ৰয়োগ"
 
 #~ msgctxt "Name"
 #~ msgid "Multimedia"
