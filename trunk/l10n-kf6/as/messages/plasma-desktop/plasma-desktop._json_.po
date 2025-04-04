@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-16 00:51+0000\n"
+"POT-Creation-Date: 2025-04-04 00:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -519,6 +519,11 @@ msgstr ""
 #: kcms/spellchecking/kcmspellchecking.json
 msgctxt "Description"
 msgid "Spell Checker Dictionaries and Options"
+msgstr ""
+
+#: kcms/tablet/kcm_tablet.json
+msgctxt "Description"
+msgid "Configure drawing tablets and pens"
 msgstr ""
 
 #: kcms/touchpad/kcm_touchpad.json
