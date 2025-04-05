@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-04 00:48+0000\n"
+"POT-Creation-Date: 2025-04-05 00:48+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -422,9 +422,9 @@ msgctxt "Name"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:64
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:85
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:106
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:65
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:86
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:107
 msgctxt "Name"
 msgid "Enable Touchpad"
 msgstr ""
