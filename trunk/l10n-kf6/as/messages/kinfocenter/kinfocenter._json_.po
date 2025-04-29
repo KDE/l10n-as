@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-17 00:48+0000\n"
+"POT-Creation-Date: 2025-04-29 00:50+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -99,6 +99,13 @@ msgstr "SCSI তথ্য"
 msgctxt "X-KDE-Keywords"
 msgid "SMB,SAMBA,Windows network,LAN,System Information"
 msgstr "SCSI তথ্য"
+
+#: kcms/sensors/kcm_sensors.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"lm_sensors,sensors,temp,temperature,volt,voltage,sensors,fan,fan speed,"
+"monitoring,amp,amps,current,power"
+msgstr ""
 
 #: kcms/usbview/kcmusb.json
 msgctxt "X-KDE-Keywords"
@@ -211,6 +218,11 @@ msgstr "PCI"
 msgctxt "Name"
 msgid "Samba Status"
 msgstr "Samba ৰ অৱস্থা"
+
+#: kcms/sensors/kcm_sensors.json
+msgctxt "Name"
+msgid "Sensors"
+msgstr ""
 
 #: kcms/usbview/kcmusb.json
 msgctxt "Name"
@@ -356,6 +368,11 @@ msgstr "PCI ৰ তথ্য"
 msgctxt "Description"
 msgid "Samba status monitor"
 msgstr "Samba ৰ অৱস্থাৰ নিৰীক্ষণ"
+
+#: kcms/sensors/kcm_sensors.json
+msgctxt "Description"
+msgid "Sensors"
+msgstr ""
 
 #: kcms/usbview/kcmusb.json
 #, fuzzy
