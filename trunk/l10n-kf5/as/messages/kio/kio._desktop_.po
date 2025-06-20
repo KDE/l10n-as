@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-11 02:03+0000\n"
+"POT-Creation-Date: 2025-06-20 02:02+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -121,7 +121,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:68
+#: src/kcms/webshortcuts/webshortcuts.desktop:69
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -129,7 +129,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰক"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:125
+#: src/kcms/webshortcuts/webshortcuts.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -357,7 +357,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:58
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -427,7 +427,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE ৰ কাৰ্য্যক্ষমতা"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:58
+#: src/urifilters/ikws/searchproviders/bug.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://bugs.debian.org/\\\\{@}"
@@ -515,7 +515,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "Python প্ৰসঙ্গৰ হাতপুথি"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:53
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2010,7 +2010,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Debian Package Search"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:54
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -2136,7 +2136,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:54
+#: src/urifilters/ikws/searchproviders/wine.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
