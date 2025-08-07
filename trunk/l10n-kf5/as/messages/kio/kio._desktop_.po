@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-05 02:28+0000\n"
+"POT-Creation-Date: 2025-08-07 02:08+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1905,7 +1905,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Qt3 অন-লাইন আলেখ্যন"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:52
+#: src/urifilters/ikws/searchproviders/rust.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
