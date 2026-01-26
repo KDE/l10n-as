@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 11:58+0000\n"
+"POT-Creation-Date: 2026-01-26 00:49+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -71,6 +71,19 @@ msgstr ""
 #: src/kwin.notifyrc:237
 msgctxt "Comment"
 msgid "Xwayland has crashed"
+msgstr ""
+
+#: src/kwin.notifyrc:290
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "File Manager"
+msgctxt "Name"
+msgid "Window Switcher Broken"
+msgstr "নথিপত্ৰৰ পৰিচালক"
+
+#: src/kwin.notifyrc:291
+msgctxt "Comment"
+msgid "The Window Switcher installation is broken"
 msgstr ""
 
 #: src/plugins/krunner-integration/kwin-runner-windows.desktop:3
@@ -260,13 +273,6 @@ msgstr ""
 #~| msgid "File Manager"
 #~ msgctxt "Name"
 #~ msgid "KWin Script"
-#~ msgstr "নথিপত্ৰৰ পৰিচালক"
-
-#, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "File Manager"
-#~ msgctxt "Name"
-#~ msgid "KWin Window Switcher"
 #~ msgstr "নথিপত্ৰৰ পৰিচালক"
 
 #, fuzzy
