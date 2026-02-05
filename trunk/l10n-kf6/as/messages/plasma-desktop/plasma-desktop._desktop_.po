@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-04 00:51+0000\n"
+"POT-Creation-Date: 2026-02-05 00:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -141,24 +141,6 @@ msgstr ""
 #: kaccess/kaccess.notifyrc:1470
 msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
-msgstr ""
-
-#: kcms/dateandtime/kcmclock_actions.actions:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Date and Time"
-msgctxt "Name"
-msgid "Date and Time Control Module"
-msgstr "তাৰিখ আৰু সময়"
-
-#: kcms/dateandtime/kcmclock_actions.actions:79
-msgctxt "Name"
-msgid "Save the date/time settings"
-msgstr ""
-
-#: kcms/dateandtime/kcmclock_actions.actions:153
-msgctxt "Description"
-msgid "Authenticate to change the date or time settings."
 msgstr ""
 
 #: kcms/ksplash/ksplash.knsrc:2
@@ -469,6 +451,13 @@ msgstr "ডেস্কট'প"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "নে'টৱৰ্ক সৰঞ্জাম"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
+#~ msgctxt "Name"
+#~ msgid "Date and Time Control Module"
+#~ msgstr "তাৰিখ আৰু সময়"
 
 #, fuzzy
 #~| msgctxt "Name"

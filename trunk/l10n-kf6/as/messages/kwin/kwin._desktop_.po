@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-03 00:53+0000\n"
+"POT-Creation-Date: 2026-02-05 00:51+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -81,7 +81,7 @@ msgctxt "Name"
 msgid "Window Switcher Broken"
 msgstr "নথিপত্ৰৰ পৰিচালক"
 
-#: src/kwin.notifyrc:309
+#: src/kwin.notifyrc:310
 msgctxt "Comment"
 msgid "The Window Switcher installation is broken"
 msgstr ""
