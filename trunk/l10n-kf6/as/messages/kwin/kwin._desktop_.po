@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-22 00:54+0000\n"
+"POT-Creation-Date: 2026-02-24 00:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -22,7 +22,7 @@ msgctxt "Name"
 msgid "KWin Dialog Helper"
 msgstr "ছেন্ট হেলেনা"
 
-#: src/helpers/dialoghelper/org.kde.kwin.dialoghelper.desktop.in:24
+#: src/helpers/dialoghelper/org.kde.kwin.dialoghelper.desktop.in:26
 msgctxt "Comment"
 msgid "Provides feedback about user actions"
 msgstr ""
