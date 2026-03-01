@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-20 00:53+0000\n"
+"POT-Creation-Date: 2026-03-01 00:54+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -616,7 +616,7 @@ msgstr ""
 #| msgctxt "Name"
 #| msgid "Desktop"
 msgctxt "Name"
-msgid "Plasma Desktop Workspace"
+msgid "Plasma"
 msgstr "ডেস্কট'প"
 
 #: startkde/session-restore/org.kde.plasma-fallback-session-restore.desktop.in:3
@@ -707,6 +707,13 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Plasma Desktop Workspace"
+#~ msgstr "ডেস্কট'প"
 
 #, fuzzy
 #~| msgctxt "GenericName"
