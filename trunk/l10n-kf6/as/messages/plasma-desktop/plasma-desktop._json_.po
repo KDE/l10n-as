@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-03 01:26+0000\n"
+"POT-Creation-Date: 2026-06-04 00:55+0000\n"
 "PO-Revision-Date: 2009-01-12 16:16+0530\n"
 "Last-Translator: Amitakhya Phukan <অমিতাক্ষ ফুকন>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -156,11 +156,6 @@ msgstr ""
 #: kcms/keyboard/kcm_keyboard.json
 msgctxt "Name"
 msgid "Keyboard"
-msgstr ""
-
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Name"
-msgid "Keyboard Daemon"
 msgstr ""
 
 #: kcms/keys/kcm_keys.json
@@ -443,11 +438,6 @@ msgstr "ৱেব কেছেৰ পছন্ধ বিন্যাস কৰ�
 #: kcms/keyboard/kcm_keyboard.json
 msgctxt "Description"
 msgid "Keyboard Hardware and Layout"
-msgstr ""
-
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Description"
-msgid "Enables switching keyboard layout through shortcuts or system tray"
 msgstr ""
 
 #: kcms/keys/kcm_keys.json
